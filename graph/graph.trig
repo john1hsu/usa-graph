@@ -56,6 +56,21 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/thomas-jefferson.md" .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> .
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/rights-and-law/fourteenth-amendment.md" .
@@ -806,6 +821,208 @@
   <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <http://purl.org/dc/terms/publisher> "National Archives (Center for Legislative Archives exhibit)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <http://purl.org/dc/terms/title> "Treasures of Congress: The Election of 1800" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> <https://schema.org/url> <https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <http://purl.org/dc/terms/title> "Embargo of 1807" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> <https://schema.org/url> <https://www.monticello.org/encyclopedia/embargo-1807> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <http://purl.org/dc/terms/publisher> "American Battlefield Trust (primary-source transcription)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <http://purl.org/dc/terms/title> "An Act to Prohibit the Importation of Slaves" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> <https://schema.org/url> <https://www.battlefields.org/learn/primary-sources/act-prohibit-importation-slaves> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <http://purl.org/dc/terms/title> "Thomas Jefferson: Life in Brief" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> <https://schema.org/url> <https://millercenter.org/node/54> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <http://purl.org/dc/terms/title> "Thomas Jefferson: Life Before the Presidency" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> <https://schema.org/url> <https://millercenter.org/president/jefferson/life-before-the-presidency> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <http://purl.org/dc/terms/title> "Louisiana Purchase, 1803" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> <https://schema.org/url> <https://history.state.gov/milestones/1801-1829/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives (The Papers of Thomas Jefferson, vol. 39)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <http://purl.org/dc/terms/title> "Thomas Jefferson to William Henry Harrison, 27 February 1803" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> <https://schema.org/url> <https://founders.archives.gov/documents/Jefferson/01-39-02-0500> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <http://purl.org/dc/terms/title> "Thomas Jefferson and Sally Hemings: A Brief Account" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> <https://schema.org/url> <https://www.monticello.org/site/plantation-and-slavery/thomas-jefferson-and-sally-hemings-brief-account> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <http://purl.org/dc/terms/title> "That government is best which governs least (Spurious Quotation)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> <https://schema.org/url> <https://www.monticello.org/encyclopedia/government-best-which-governs-least-spurious-quotation> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <http://purl.org/dc/terms/title> "Jefferson's Gravestone" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> <https://schema.org/url> <https://monticello.org/encyclopedia/jeffersons-gravestone> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello Classroom)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <http://purl.org/dc/terms/title> "Jefferson and Slavery (middle-school reading)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> <https://schema.org/url> <https://classroom.monticello.org/view/middle/75235/> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://purl.org/dc/terms/publisher> "John A. Ragosta, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://purl.org/dc/terms/title> "Virginia Statute for Establishing Religious Freedom (1786)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://schema.org/url> <https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Thomas Jefferson Foundation finds no such line in his writings; the earliest known printing of the wording is John L. O'Sullivan's 1837 introduction to the Democratic Review, and the earliest known attribution to Jefferson dates only from 1853." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Thomas Jefferson wrote that the government is best which governs least." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The phrase was long associated with the political heirs of Jefferson's Democratic-Republican party, so it drifted onto the party's founder, and a familiar name makes a slogan sound authoritative." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the House of Representatives, not the voters or the electors, decide the presidential election of 1800?" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Electors then cast two undifferentiated votes, so Jefferson and his running mate Aaron Burr tied at 73 electoral votes each; the Federalist-controlled House deadlocked for 35 ballots before choosing Jefferson on the 36th, on February 17, 1801." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Louisiana Purchase test Jefferson's own reading of the Constitution?" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Jefferson doubted that the Constitution gave the president power to acquire territory and considered an amendment, but public support and the land's value led him to set aside his strict reading, a choice that helped build the principle of implied federal powers." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Jefferson's 1803 letter to William Henry Harrison propose to obtain Native land?" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "He proposed government trading houses that would draw Native leaders into debt, which they would pay off by ceding land, and he expected Native nations either to be absorbed as citizens or to move west of the Mississippi." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The United States buys Louisiana from France for $15 million." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1803"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the act banning the importation of enslaved people, effective January 1, 1808." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1807-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes his Embargo Act, barring American ships from leaving U.S. ports." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1807-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the Non-Intercourse Act replacing the embargo, three days before leaving office." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1809-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Dies at Monticello, fifty years after the Declaration's approval." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born at Shadwell plantation in western Virginia." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Admitted to the Virginia bar." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1767-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Enters the Virginia House of Burgesses, where he serves until 1774." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1769"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "As a delegate to the Second Continental Congress, drafts the Declaration of Independence." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "His wife, Martha Wayles Jefferson, dies after childbirth." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1782-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Begins about four years as American minister to France." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1785"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1786-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes secretary of state under George Washington; resigns in 1793." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1790"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes vice president under John Adams after finishing second in the 1796 electoral vote." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1797"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Jefferson" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#altLabel> "3rd President of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#altLabel> "Jefferson" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#altLabel> "President Jefferson" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#definition> "A Virginia planter, lawyer and founder (1743–1826) who drafted the Declaration of Independence, wrote Virginia's statute for religious freedom, served as secretary of state and vice president, and was the third president of the United States (1801–1809), while holding more than 600 people in slavery over his lifetime." .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thomas Jefferson" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/election-of-1800> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/embargo-act-of-1807> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sally-hemings> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/university-of-virginia> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/thomas-jefferson.md" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/birthDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/deathDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/endDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/startDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> {
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920." .
@@ -1029,12 +1246,14 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1085,6 +1304,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1097,10 +1317,12 @@
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/embargo-act-of-1807> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
@@ -1163,6 +1385,9 @@
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -1195,8 +1420,11 @@
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1204,12 +1432,15 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1237,8 +1468,28 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -1251,6 +1502,14 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/university-of-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
+  <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
 }

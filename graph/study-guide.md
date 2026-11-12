@@ -89,6 +89,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
   **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
 
+### [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Thomas Jefferson wrote that the government is best which governs least. | The Thomas Jefferson Foundation finds no such line in his writings; the earliest known printing of the wording is John L. O'Sullivan's 1837 introduction to the Democratic Review, and the earliest known attribution to Jefferson dates only from 1853. |
+
+**Why it matters:** The phrase was long associated with the political heirs of Jefferson's Democratic-Republican party, so it drifted onto the party's founder, and a familiar name makes a slogan sound authoritative.
+
+- **Q:** Why did the House of Representatives, not the voters or the electors, decide the presidential election of 1800?
+  **A:** Electors then cast two undifferentiated votes, so Jefferson and his running mate Aaron Burr tied at 73 electoral votes each; the Federalist-controlled House deadlocked for 35 ballots before choosing Jefferson on the 36th, on February 17, 1801.
+- **Q:** How did the Louisiana Purchase test Jefferson's own reading of the Constitution?
+  **A:** Jefferson doubted that the Constitution gave the president power to acquire territory and considered an amendment, but public support and the land's value led him to set aside his strict reading, a choice that helped build the principle of implied federal powers.
+- **Q:** How did Jefferson's 1803 letter to William Henry Harrison propose to obtain Native land?
+  **A:** He proposed government trading houses that would draw Native leaders into debt, which they would pay off by ceding land, and he expected Native nations either to be absorbed as citizens or to move west of the Mississippi.
+
 ## rights-and-law
 
 ### [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) — Law

@@ -1554,6 +1554,174 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Thomas Jefferson: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/54"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (Center for Legislative Archives exhibit)",
+   "dcterms:title": "Treasures of Congress: The Election of 1800",
+   "schema:url": {
+    "@id": "https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia",
+   "dcterms:title": "Embargo of 1807",
+   "schema:url": {
+    "@id": "https://www.monticello.org/encyclopedia/embargo-1807"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "American Battlefield Trust (primary-source transcription)",
+   "dcterms:title": "An Act to Prohibit the Importation of Slaves",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/primary-sources/act-prohibit-importation-slaves"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Thomas Jefferson: Life Before the Presidency",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/jefferson/life-before-the-presidency"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Louisiana Purchase, 1803",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1801-1829/louisiana-purchase"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Thomas Jefferson, vol. 39)",
+   "dcterms:title": "Thomas Jefferson to William Henry Harrison, 27 February 1803",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Jefferson/01-39-02-0500"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello)",
+   "dcterms:title": "Thomas Jefferson and Sally Hemings: A Brief Account",
+   "schema:url": {
+    "@id": "https://www.monticello.org/site/plantation-and-slavery/thomas-jefferson-and-sally-hemings-brief-account"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia",
+   "dcterms:title": "That government is best which governs least (Spurious Quotation)",
+   "schema:url": {
+    "@id": "https://www.monticello.org/encyclopedia/government-best-which-governs-least-spurious-quotation"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia",
+   "dcterms:title": "Jefferson's Gravestone",
+   "schema:url": {
+    "@id": "https://monticello.org/encyclopedia/jeffersons-gravestone"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello Classroom)",
+   "dcterms:title": "Jefferson and Slavery (middle-school reading)",
+   "schema:url": {
+    "@id": "https://classroom.monticello.org/view/middle/75235/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "John A. Ragosta, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Virginia Statute for Establishing Religious Freedom (1786)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
@@ -1657,6 +1825,184 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1865-12-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Thomas Jefferson Foundation finds no such line in his writings; the earliest known printing of the wording is John L. O'Sullivan's 1837 introduction to the Democratic Review, and the earliest known attribution to Jefferson dates only from 1853.",
+   "uso:myth": "Thomas Jefferson wrote that the government is best which governs least.",
+   "uso:why": "The phrase was long associated with the political heirs of Jefferson's Democratic-Republican party, so it drifted onto the party's founder, and a familiar name makes a slogan sound authoritative."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the House of Representatives, not the voters or the electors, decide the presidential election of 1800?",
+   "uso:answer": "Electors then cast two undifferentiated votes, so Jefferson and his running mate Aaron Burr tied at 73 electoral votes each; the Federalist-controlled House deadlocked for 35 ballots before choosing Jefferson on the 36th, on February 17, 1801.",
+   "uso:questionFor": {
+    "@id": "us:thomas-jefferson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Louisiana Purchase test Jefferson's own reading of the Constitution?",
+   "uso:answer": "Jefferson doubted that the Constitution gave the president power to acquire territory and considered an amendment, but public support and the land's value led him to set aside his strict reading, a choice that helped build the principle of implied federal powers.",
+   "uso:questionFor": {
+    "@id": "us:thomas-jefferson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Jefferson's 1803 letter to William Henry Harrison propose to obtain Native land?",
+   "uso:answer": "He proposed government trading houses that would draw Native leaders into debt, which they would pay off by ceding land, and he expected Native nations either to be absorbed as citizens or to move west of the Mississippi.",
+   "uso:questionFor": {
+    "@id": "us:thomas-jefferson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born at Shadwell plantation in western Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1743-04-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-02-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States buys Louisiana from France for $15 million.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1803"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-02-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the act banning the importation of enslaved people, effective January 1, 1808.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1807-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes his Embargo Act, barring American ships from leaving U.S. ports.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1807-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the Non-Intercourse Act replacing the embargo, three days before leaving office.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1809-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at Monticello, fifty years after the Declaration's approval.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1826-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Admitted to the Virginia bar.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1767-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enters the Virginia House of Burgesses, where he serves until 1774.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1769"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "As a delegate to the Second Continental Congress, drafts the Declaration of Independence.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "His wife, Martha Wayles Jefferson, dies after childbirth.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-11-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Begins about four years as American minister to France.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1785"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1786-01-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes secretary of state under George Washington; resigns in 1793.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1790"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes vice president under John Adams after finishing second in the 1796 electoral vote.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1797"
    }
   },
   {
@@ -2531,6 +2877,191 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:thomas-jefferson",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9"
+    }
+   ],
+   "rdfs:label": "Thomas Jefferson",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1743-04-13"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1826-07-04"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1826-07-04"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1743-04-13"
+   },
+   "skos:altLabel": [
+    "3rd President of the United States",
+    "Jefferson",
+    "President Jefferson"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "A Virginia planter, lawyer and founder (1743–1826) who drafted the Declaration of Independence, wrote Virginia's statute for religious freedom, served as secretary of state and vice president, and was the third president of the United States (1801–1809), while holding more than 600 people in slavery over his lifetime.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Thomas Jefferson",
+   "skos:related": [
+    {
+     "@id": "us:act-prohibiting-importation-of-slaves"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:election-of-1800"
+    },
+    {
+     "@id": "us:embargo-act-of-1807"
+    },
+    {
+     "@id": "us:lewis-and-clark-expedition"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:sally-hemings"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:university-of-virginia"
+    },
+    {
+     "@id": "us:virginia-statute-for-religious-freedom"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/thomas-jefferson.md",
+   "uso:heldOffice": [
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-secretary-of-state"
+    },
+    {
+     "@id": "us:vice-presidency-of-the-united-states"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:second-continental-congress"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception"
+   },
+   "uso:participatedIn": {
+    "@id": "us:louisiana-purchase"
+   },
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
     }
    ]
   }

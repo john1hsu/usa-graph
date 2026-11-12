@@ -1,11 +1,11 @@
 # Graph statistics
 
-- Articles (nodes written): **6**
-- Frontier nodes (referenced, unwritten): **63**
-- Asserted edges: **94** (typed + evidenced: **31**)
-- Asserted triples: **962**; inferred by OWL-RL: **243**
-- Citations: **54**
-- Review questions: **20**; timeline entries: **62**; myths debunked: **6**
+- Articles (nodes written): **7**
+- Frontier nodes (referenced, unwritten): **72**
+- Asserted edges: **111** (typed + evidenced: **36**)
+- Asserted triples: **1161**; inferred by OWL-RL: **285**
+- Citations: **66**
+- Review questions: **23**; timeline entries: **78**; myths debunked: **7**
 - Weakly connected components: **1**
 - Communities (Louvain): **5**; max k-core: **3**
 
@@ -15,36 +15,36 @@ PageRank = authority; betweenness = bridges between areas.
 
 | Node | PageRank | Betweenness | Written |
 |---|---|---|---|
-| `us:fourteenth-amendment` | 0.0165 | 0.4943 | yes |
-| `us:equal-protection` | 0.0161 | 0.0000 | no |
-| `us:slavery-in-the-united-states` | 0.0161 | 0.1147 | no |
-| `us:thirteenth-amendment` | 0.0161 | 0.3182 | yes |
-| `us:american-civil-war` | 0.0160 | 0.0424 | no |
-| `us:united-states-constitution` | 0.0158 | 0.2277 | no |
-| `us:jim-crow-laws` | 0.0154 | 0.0000 | no |
-| `us:emancipation-proclamation` | 0.0154 | 0.0000 | no |
-| `us:brown-v-board-of-education` | 0.0151 | 0.2543 | yes |
-| `us:black-codes` | 0.0151 | 0.0000 | no |
-| `us:fifteenth-amendment` | 0.0151 | 0.0000 | no |
-| `us:reconstruction-amendments` | 0.0151 | 0.0000 | no |
-| `us:united-states-congress` | 0.0151 | 0.0000 | no |
-| `us:plessy-v-ferguson` | 0.0150 | 0.2438 | yes |
-| `us:civil-rights-cases` | 0.0144 | 0.0000 | no |
+| `us:slavery-in-the-united-states` | 0.0147 | 0.1956 | no |
+| `us:fourteenth-amendment` | 0.0144 | 0.4324 | yes |
+| `us:equal-protection` | 0.0140 | 0.0000 | no |
+| `us:thirteenth-amendment` | 0.0140 | 0.3466 | yes |
+| `us:american-civil-war` | 0.0140 | 0.0322 | no |
+| `us:united-states-constitution` | 0.0138 | 0.1945 | no |
+| `us:jim-crow-laws` | 0.0135 | 0.0000 | no |
+| `us:emancipation-proclamation` | 0.0134 | 0.0000 | no |
+| `us:brown-v-board-of-education` | 0.0132 | 0.2227 | yes |
+| `us:black-codes` | 0.0132 | 0.0000 | no |
+| `us:fifteenth-amendment` | 0.0132 | 0.0000 | no |
+| `us:reconstruction-amendments` | 0.0132 | 0.0000 | no |
+| `us:united-states-congress` | 0.0132 | 0.0000 | no |
+| `us:presidency-of-the-united-states` | 0.0131 | 0.0131 | no |
+| `us:presidents-of-the-united-states` | 0.0131 | 0.0131 | no |
 
 ## Communities
 
-1. `us:abolitionism`, `us:black-codes`, `us:civil-rights-act-of-1866`, `us:convict-leasing`, `us:dred-scott-v-sandford`, `us:due-process`, `us:elk-v-wilkins`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:freedom-from-slavery-and-involuntary-servitude`, `us:incorporation-of-the-bill-of-rights`, `us:indian-citizenship-act-of-1924` …
-2. `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:common-sense`, `us:declaration-of-independence`, `us:declaration-of-sentiments`, `us:dunmores-proclamation`, `us:founding-documents-of-the-united-states`, `us:frederick-douglass`, `us:independence-day`, `us:john-hancock`, `us:lee-resolution`, `us:second-continental-congress` …
-3. `us:abraham-lincoln`, `us:american-civil-war`, `us:assassination-of-abraham-lincoln`, `us:black-hawk-war`, `us:emancipation-proclamation`, `us:gettysburg-address`, `us:house-of-representatives`, `us:mexican-american-war`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:republican-party`, `us:slavery-in-the-united-states` …
-4. `us:bolling-v-sharpe`, `us:brown-v-board-of-education`, `us:civil-rights-movement`, `us:earl-warren`, `us:griffin-v-county-school-board-of-prince-edward-county`, `us:massive-resistance`, `us:naacp-legal-defense-and-educational-fund`, `us:school-desegregation-in-the-united-states`, `us:southern-manifesto`, `us:thurgood-marshall`
-5. `us:civil-rights-cases`, `us:comite-des-citoyens`, `us:equal-protection`, `us:henry-billings-brown`, `us:homer-plessy`, `us:jim-crow-laws`, `us:john-marshall-harlan`, `us:plessy-v-ferguson`, `us:racial-segregation-in-the-united-states`, `us:separate-car-act`
+1. `us:abolitionism`, `us:american-civil-war`, `us:black-codes`, `us:civil-rights-act-of-1866`, `us:convict-leasing`, `us:dred-scott-v-sandford`, `us:due-process`, `us:elk-v-wilkins`, `us:emancipation-proclamation`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:freedom-from-slavery-and-involuntary-servitude` …
+2. `us:bolling-v-sharpe`, `us:brown-v-board-of-education`, `us:civil-rights-cases`, `us:civil-rights-movement`, `us:comite-des-citoyens`, `us:earl-warren`, `us:equal-protection`, `us:griffin-v-county-school-board-of-prince-edward-county`, `us:henry-billings-brown`, `us:homer-plessy`, `us:jim-crow-laws`, `us:john-marshall-harlan` …
+3. `us:act-prohibiting-importation-of-slaves`, `us:american-revolutionary-war`, `us:election-of-1800`, `us:embargo-act-of-1807`, `us:lewis-and-clark-expedition`, `us:louisiana-purchase`, `us:sally-hemings`, `us:second-continental-congress`, `us:thomas-jefferson`, `us:united-states-secretary-of-state`, `us:university-of-virginia`, `us:vice-presidency-of-the-united-states` …
+4. `us:articles-of-confederation`, `us:common-sense`, `us:declaration-of-independence`, `us:declaration-of-sentiments`, `us:dunmores-proclamation`, `us:founding-documents-of-the-united-states`, `us:frederick-douglass`, `us:independence-day`, `us:john-hancock`, `us:lee-resolution`, `us:thirteen-colonies`, `us:treaty-of-alliance-1778` …
+5. `us:abraham-lincoln`, `us:assassination-of-abraham-lincoln`, `us:black-hawk-war`, `us:gettysburg-address`, `us:house-of-representatives`, `us:mexican-american-war`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:us-dakota-war-of-1862`
 
 ## By type
 
 - CourtCase: 2
 - Document: 1
 - Law: 2
-- Person: 1
+- Person: 2
 
 ## By domain
 
@@ -52,16 +52,16 @@ PageRank = authority; betweenness = bridges between areas.
 - cold-war-and-civil-rights: 1
 - colonial-and-revolutionary: 1
 - gilded-age-and-progressive-era: 1
-- presidents-and-founders: 1
+- presidents-and-founders: 2
 - rights-and-law: 1
 
 ## By level
 
-- introductory: 6
+- introductory: 7
 
 ## By evidence status
 
-- interpretive: 1
+- interpretive: 2
 - legal-text: 5
 
 ## Domain coverage (breadth runs pick the lowest)
@@ -86,5 +86,5 @@ PageRank = authority; betweenness = bridges between areas.
 - cold-war-and-civil-rights: 1
 - colonial-and-revolutionary: 1
 - gilded-age-and-progressive-era: 1
-- presidents-and-founders: 1
 - rights-and-law: 1
+- presidents-and-founders: 2

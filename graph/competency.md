@@ -43,6 +43,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | node | status | challenger |
 |---|---|---|
 | `us:abraham-lincoln` | interpretive |  |
+| `us:thomas-jefferson` | interpretive |  |
 
 ## Places with nothing tied to them (gap)
 
@@ -54,9 +55,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:declaration-of-independence` |
+_No results._
 
 ## People with no recorded role (gap)
 
@@ -70,7 +69,10 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 
 | office | person | born |
 |---|---|---|
+| `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
+| `us:united-states-secretary-of-state` | `us:thomas-jefferson` | 1743-04-13 |
+| `us:vice-presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 
 ## Rights and what protects them
 

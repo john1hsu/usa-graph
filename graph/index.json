@@ -1005,5 +1005,202 @@
    "https://nyulawreview.org/issues/volume-94-number-6/mass-incarceration-convict-leasing-and-the-thirteenth-amendment-a-revisionist-account/",
    "https://www.georgiaencyclopedia.org/articles/history-archaeology/convict-lease-system"
   ]
+ },
+ {
+  "id": "us:thomas-jefferson",
+  "title": "Thomas Jefferson",
+  "aliases": [
+   "Jefferson",
+   "President Jefferson",
+   "3rd President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/thomas-jefferson.md",
+  "created": "2026-11-12",
+  "summary": "A Virginia planter, lawyer and founder (1743–1826) who drafted the Declaration of Independence, wrote Virginia's statute for religious freedom, served as secretary of state and vice president, and was the third president of the United States (1801–1809), while holding more than 600 people in slavery over his lifetime.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lewis-and-clark-expedition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-statute-for-religious-freedom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sally-hemings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:embargo-act-of-1807"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:act-prohibiting-importation-of-slaves"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:election-of-1800"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:university-of-virginia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:vice-presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:united-states-secretary-of-state",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:second-continental-congress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:louisiana-purchase",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1743-04-13",
+  "end": "1826-07-04",
+  "review": [
+   {
+    "question": "Why did the House of Representatives, not the voters or the electors, decide the presidential election of 1800?",
+    "answer": "Electors then cast two undifferentiated votes, so Jefferson and his running mate Aaron Burr tied at 73 electoral votes each; the Federalist-controlled House deadlocked for 35 ballots before choosing Jefferson on the 36th, on February 17, 1801."
+   },
+   {
+    "question": "How did the Louisiana Purchase test Jefferson's own reading of the Constitution?",
+    "answer": "Jefferson doubted that the Constitution gave the president power to acquire territory and considered an amendment, but public support and the land's value led him to set aside his strict reading, a choice that helped build the principle of implied federal powers."
+   },
+   {
+    "question": "How did Jefferson's 1803 letter to William Henry Harrison propose to obtain Native land?",
+    "answer": "He proposed government trading houses that would draw Native leaders into debt, which they would pay off by ceding land, and he expected Native nations either to be absorbed as citizens or to move west of the Mississippi."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1743-04-13",
+    "event": "Born at Shadwell plantation in western Virginia."
+   },
+   {
+    "date": "1767-04",
+    "event": "Admitted to the Virginia bar."
+   },
+   {
+    "date": "1769",
+    "event": "Enters the Virginia House of Burgesses, where he serves until 1774."
+   },
+   {
+    "date": "1776",
+    "event": "As a delegate to the Second Continental Congress, drafts the Declaration of Independence."
+   },
+   {
+    "date": "1782-11-06",
+    "event": "His wife, Martha Wayles Jefferson, dies after childbirth."
+   },
+   {
+    "date": "1785",
+    "event": "Begins about four years as American minister to France."
+   },
+   {
+    "date": "1786-01-16",
+    "event": "Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777."
+   },
+   {
+    "date": "1790",
+    "event": "Becomes secretary of state under George Washington; resigns in 1793."
+   },
+   {
+    "date": "1797",
+    "event": "Becomes vice president under John Adams after finishing second in the 1796 electoral vote."
+   },
+   {
+    "date": "1801-02-17",
+    "event": "The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr."
+   },
+   {
+    "date": "1803",
+    "event": "The United States buys Louisiana from France for $15 million."
+   },
+   {
+    "date": "1803-02-27",
+    "event": "In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts."
+   },
+   {
+    "date": "1807-03-02",
+    "event": "Signs the act banning the importation of enslaved people, effective January 1, 1808."
+   },
+   {
+    "date": "1807-12",
+    "event": "Congress passes his Embargo Act, barring American ships from leaving U.S. ports."
+   },
+   {
+    "date": "1809-03-01",
+    "event": "Signs the Non-Intercourse Act replacing the embargo, three days before leaving office."
+   },
+   {
+    "date": "1826-07-04",
+    "event": "Dies at Monticello, fifty years after the Declaration's approval."
+   }
+  ],
+  "misconception": {
+   "myth": "Thomas Jefferson wrote that the government is best which governs least.",
+   "fact": "The Thomas Jefferson Foundation finds no such line in his writings; the earliest known printing of the wording is John L. O'Sullivan's 1837 introduction to the Democratic Review, and the earliest known attribution to Jefferson dates only from 1853.",
+   "why": "The phrase was long associated with the political heirs of Jefferson's Democratic-Republican party, so it drifted onto the party's founder, and a familiar name makes a slogan sound authoritative."
+  },
+  "source_urls": [
+   "https://millercenter.org/node/54",
+   "https://millercenter.org/president/jefferson/life-before-the-presidency",
+   "https://history.state.gov/milestones/1801-1829/louisiana-purchase",
+   "https://founders.archives.gov/documents/Jefferson/01-39-02-0500",
+   "https://www.monticello.org/site/plantation-and-slavery/thomas-jefferson-and-sally-hemings-brief-account",
+   "https://www.monticello.org/encyclopedia/government-best-which-governs-least-spurious-quotation",
+   "https://monticello.org/encyclopedia/jeffersons-gravestone",
+   "https://classroom.monticello.org/view/middle/75235/",
+   "https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/",
+   "https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html",
+   "https://www.monticello.org/encyclopedia/embargo-1807",
+   "https://www.battlefields.org/learn/primary-sources/act-prohibit-importation-slaves"
+  ]
  }
 ]
