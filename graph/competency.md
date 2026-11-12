@@ -48,7 +48,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:thirteenth-amendment` |
 
 ## People with no recorded role (gap)
 
@@ -66,7 +68,9 @@ _No results._
 
 _Which amendments, laws and court cases protect each right?_ — `queries/11-rights-and-protections.rq`
 
-_No results._
+| right | protector |
+|---|---|
+| `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
 
 ## What documents and laws established
 

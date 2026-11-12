@@ -1,1 +1,150 @@
-[]
+[
+ {
+  "id": "us:thirteenth-amendment",
+  "title": "Thirteenth Amendment",
+  "aliases": [
+   "13th Amendment",
+   "Amendment XIII",
+   "Thirteenth Amendment to the United States Constitution"
+  ],
+  "type": "Law",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/civil-war-and-reconstruction/thirteenth-amendment.md",
+  "created": "2026-11-12",
+  "summary": "The 1865 amendment to the U.S. Constitution that abolished slavery and involuntary servitude throughout the United States, except as punishment for a crime, and gave Congress power to enforce that ban.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:reconstruction-amendments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:emancipation-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abolitionism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-codes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:convict-leasing"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:freedom-from-slavery-and-involuntary-servitude",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:abraham-lincoln",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:emancipation-proclamation",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1865-12-06",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Lincoln and Congress believe a constitutional amendment was needed even after the Emancipation Proclamation?",
+    "answer": "The proclamation rested on Lincoln's war powers and applied only to areas in rebellion, not to loyal border states; its legal force after the war was doubtful, so an amendment was the only secure way to end slavery everywhere."
+   },
+   {
+    "question": "How did the 1864 election and the end of the war help the amendment pass and be ratified?",
+    "answer": "After the House first failed to reach two-thirds, Lincoln's reelection campaign put the amendment on the Republican platform and a lame-duck session passed it in January 1865; later, President Andrew Johnson required Southern states seeking readmission to abolish slavery, and Georgia's ratification in December 1865 completed the three-fourths."
+   },
+   {
+    "question": "Why is the amendment's exception \"as a punishment for crime\" significant?",
+    "answer": "Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1861",
+    "event": "Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified."
+   },
+   {
+    "date": "1863-01-01",
+    "event": "The Emancipation Proclamation takes effect, but only in areas in rebellion."
+   },
+   {
+    "date": "1864-02-10",
+    "event": "The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate."
+   },
+   {
+    "date": "1864-04-08",
+    "event": "The Senate passes the amendment, 38 to 6."
+   },
+   {
+    "date": "1865-01-31",
+    "event": "The House passes the amendment, 119 to 56, after earlier votes fell short."
+   },
+   {
+    "date": "1865-02-01",
+    "event": "Lincoln approves the joint resolution sending the amendment to the states."
+   },
+   {
+    "date": "1865-12-06",
+    "event": "Georgia becomes the 27th state to ratify, completing the three-fourths needed."
+   },
+   {
+    "date": "1865-12-18",
+    "event": "Secretary of State William H. Seward proclaims the amendment ratified."
+   }
+  ],
+  "misconception": {
+   "myth": "The Emancipation Proclamation ended slavery throughout the United States.",
+   "fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
+   "why": "Confusing a wartime executive order with a constitutional amendment hides why abolitionists, Congress and Lincoln fought for an amendment, and how close slavery came to surviving the war."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/13th-amendment",
+   "https://law.cornell.edu/constitution-conan/amendment-13/ratification-of-the-thirteenth-amendment",
+   "https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-passes-the-thirteenth-amendment.htm",
+   "https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm",
+   "https://prologue.blogs.archives.gov/2015/12/03/on-exhibit-abolishing-slavery",
+   "https://nyulawreview.org/issues/volume-94-number-6/mass-incarceration-convict-leasing-and-the-thirteenth-amendment-a-revisionist-account/",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/convict-lease-system"
+  ]
+ }
+]

@@ -2,4 +2,8 @@
 @prefix uso: <https://github.com/john1hsu/usa-graph/ontology#> .
 @prefix us: <https://github.com/john1hsu/usa-graph/id/> .
 
-
+<< <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#amends> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> >> uso:evidence <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> ; uso:confidence "high" .
+<< <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> >> uso:evidence <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> ; uso:confidence "high" .
+<< <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> >> uso:evidence <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> ; uso:confidence "high" .
+<< <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> >> uso:evidence <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> ; uso:confidence "high" .
+<< <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> >> uso:evidence <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> ; uso:confidence "high" .

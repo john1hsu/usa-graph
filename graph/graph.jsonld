@@ -122,6 +122,335 @@
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Symbols, ideals and national identity"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/13th-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "Amdt13.4 Ratification of the Thirteenth Amendment",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/constitution-conan/amendment-13/ratification-of-the-thirteenth-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "United States Senate, Historical Office",
+   "dcterms:title": "Senate Passes the Thirteenth Amendment",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-passes-the-thirteenth-amendment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "United States Senate, Art & History",
+   "dcterms:title": "Women's National Loyal League",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives, The Text Message / Prologue blog",
+   "dcterms:title": "On Exhibit: Abolishing Slavery",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2015/12/03/on-exhibit-abolishing-slavery"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "James Gray Pope, New York University Law Review 94, no. 6 (2019)",
+   "dcterms:title": "Mass Incarceration, Convict Leasing, and the Thirteenth Amendment: A Revisionist Account",
+   "schema:url": {
+    "@id": "https://nyulawreview.org/issues/volume-94-number-6/mass-incarceration-convict-leasing-and-the-thirteenth-amendment-a-revisionist-account/"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "William Andrew Todd, New Georgia Encyclopedia",
+   "dcterms:title": "Convict Lease System",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/convict-lease-system"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
+   "uso:myth": "The Emancipation Proclamation ended slavery throughout the United States.",
+   "uso:why": "Confusing a wartime executive order with a constitutional amendment hides why abolitionists, Congress and Lincoln fought for an amendment, and how close slavery came to surviving the war."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Lincoln and Congress believe a constitutional amendment was needed even after the Emancipation Proclamation?",
+   "uso:answer": "The proclamation rested on Lincoln's war powers and applied only to areas in rebellion, not to loyal border states; its legal force after the war was doubtful, so an amendment was the only secure way to end slavery everywhere.",
+   "uso:questionFor": {
+    "@id": "us:thirteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1864 election and the end of the war help the amendment pass and be ratified?",
+   "uso:answer": "After the House first failed to reach two-thirds, Lincoln's reelection campaign put the amendment on the Republican platform and a lame-duck session passed it in January 1865; later, President Andrew Johnson required Southern states seeking readmission to abolish slavery, and Georgia's ratification in December 1865 completed the three-fourths.",
+   "uso:questionFor": {
+    "@id": "us:thirteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the amendment's exception \"as a punishment for crime\" significant?",
+   "uso:answer": "Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor.",
+   "uso:questionFor": {
+    "@id": "us:thirteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1861"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Emancipation Proclamation takes effect, but only in areas in rebellion.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-02-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the amendment, 38 to 6.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-04-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the amendment, 119 to 56, after earlier votes fell short.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-01-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lincoln approves the joint resolution sending the amendment to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Georgia becomes the 27th state to ratify, completing the three-fourths needed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of State William H. Seward proclaims the amendment ratified.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-18"
+   }
+  },
+  {
+   "@id": "us:thirteenth-amendment",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7"
+    }
+   ],
+   "rdfs:label": "Thirteenth Amendment",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   },
+   "skos:altLabel": [
+    "13th Amendment",
+    "Amendment XIII",
+    "Thirteenth Amendment to the United States Constitution"
+   ],
+   "skos:broader": {
+    "@id": "us:reconstruction-amendments"
+   },
+   "skos:definition": "The 1865 amendment to the U.S. Constitution that abolished slavery and involuntary servitude throughout the United States, except as punishment for a crime, and gave Congress power to enforce that ban.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Thirteenth Amendment",
+   "skos:related": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:black-codes"
+    },
+    {
+     "@id": "us:convict-leasing"
+    },
+    {
+     "@id": "us:emancipation-proclamation"
+    },
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    }
+   ],
+   "uso:amends": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/civil-war-and-reconstruction/thirteenth-amendment.md",
+   "uso:influencedBy": {
+    "@id": "us:emancipation-proclamation"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception"
+   },
+   "uso:protects": {
+    "@id": "us:freedom-from-slavery-and-involuntary-servitude"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "uso:signedBy": {
+    "@id": "us:abraham-lincoln"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8"
+    }
+   ]
   }
  ]
 }

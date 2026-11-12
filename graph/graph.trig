@@ -1,5 +1,183 @@
 # Per-article named graphs. Default graph holds provenance about each named graph.
 
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/civil-war-and-reconstruction/thirteenth-amendment.md" .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> .
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> .
+
+<https://github.com/john1hsu/usa-graph/id/thirteenth-amendment#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/13th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <http://purl.org/dc/terms/title> "Amdt13.4 Ratification of the Thirteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> <https://schema.org/url> <https://law.cornell.edu/constitution-conan/amendment-13/ratification-of-the-thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <http://purl.org/dc/terms/publisher> "United States Senate, Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <http://purl.org/dc/terms/title> "Senate Passes the Thirteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> <https://schema.org/url> <https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-passes-the-thirteenth-amendment.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <http://purl.org/dc/terms/publisher> "United States Senate, Art & History" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <http://purl.org/dc/terms/title> "Women's National Loyal League" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <http://purl.org/dc/terms/publisher> "National Archives, The Text Message / Prologue blog" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <http://purl.org/dc/terms/title> "On Exhibit: Abolishing Slavery" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> <https://schema.org/url> <https://prologue.blogs.archives.gov/2015/12/03/on-exhibit-abolishing-slavery> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <http://purl.org/dc/terms/publisher> "James Gray Pope, New York University Law Review 94, no. 6 (2019)" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <http://purl.org/dc/terms/title> "Mass Incarceration, Convict Leasing, and the Thirteenth Amendment: A Revisionist Account" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> <https://schema.org/url> <https://nyulawreview.org/issues/volume-94-number-6/mass-incarceration-convict-leasing-and-the-thirteenth-amendment-a-revisionist-account/> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <http://purl.org/dc/terms/publisher> "William Andrew Todd, New Georgia Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <http://purl.org/dc/terms/title> "Convict Lease System" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/history-archaeology/convict-lease-system> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Emancipation Proclamation ended slavery throughout the United States." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Confusing a wartime executive order with a constitutional amendment hides why abolitionists, Congress and Lincoln fought for an amendment, and how close slavery came to surviving the war." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Lincoln and Congress believe a constitutional amendment was needed even after the Emancipation Proclamation?" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The proclamation rested on Lincoln's war powers and applied only to areas in rebellion, not to loyal border states; its legal force after the war was doubtful, so an amendment was the only secure way to end slavery everywhere." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1864 election and the end of the war help the amendment pass and be ratified?" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "After the House first failed to reach two-thirds, Lincoln's reelection campaign put the amendment on the Republican platform and a lame-duck session passed it in January 1865; later, President Andrew Johnson required Southern states seeking readmission to abolish slavery, and Georgia's ratification in December 1865 completed the three-fourths." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the amendment's exception \"as a punishment for crime\" significant?" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1861"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Emancipation Proclamation takes effect, but only in areas in rebellion." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the amendment, 38 to 6." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes the amendment, 119 to 56, after earlier votes fell short." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln approves the joint resolution sending the amendment to the states." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Georgia becomes the 27th state to ratify, completing the three-fourths needed." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary of State William H. Seward proclaims the amendment ratified." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2000/01/rdf-schema#label> "Thirteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "13th Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Amendment XIII" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#altLabel> "Thirteenth Amendment to the United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#definition> "The 1865 amendment to the U.S. Constitution that abolished slavery and involuntary servitude throughout the United States, except as punishment for a crime, and gave Congress power to enforce that ban." .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thirteenth Amendment" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/black-codes> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/convict-leasing> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s2> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s3> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s4> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s5> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s6> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s7> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#amends> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/thirteenth-amendment.md" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://schema.org/startDate> "1865-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
 
 <https://github.com/john1hsu/usa-graph/id/inferred> {
+  <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+  <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
 }

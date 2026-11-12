@@ -1,29 +1,57 @@
 # Graph statistics
 
-- Articles (nodes written): **0**
-- Frontier nodes (referenced, unwritten): **0**
-- Asserted edges: **0** (typed + evidenced: **0**)
-- Asserted triples: **44**; inferred by OWL-RL: **0**
-- Citations: **0**
-- Review questions: **0**; timeline entries: **0**; myths debunked: **0**
-- Weakly connected components: **0**
-- Communities (Louvain): **0**; max k-core: **0**
+- Articles (nodes written): **1**
+- Frontier nodes (referenced, unwritten): **13**
+- Asserted edges: **14** (typed + evidenced: **5**)
+- Asserted triples: **170**; inferred by OWL-RL: **39**
+- Citations: **7**
+- Review questions: **3**; timeline entries: **8**; myths debunked: **1**
+- Weakly connected components: **1**
+- Communities (Louvain): **1**; max k-core: **1**
+
+## Most central nodes
+
+PageRank = authority; betweenness = bridges between areas.
+
+| Node | PageRank | Betweenness | Written |
+|---|---|---|---|
+| `us:abolitionism` | 0.0717 | 0.0000 | no |
+| `us:abraham-lincoln` | 0.0717 | 0.0000 | no |
+| `us:american-civil-war` | 0.0717 | 0.0000 | no |
+| `us:black-codes` | 0.0717 | 0.0000 | no |
+| `us:convict-leasing` | 0.0717 | 0.0000 | no |
+| `us:emancipation-proclamation` | 0.0717 | 0.0000 | no |
+| `us:fifteenth-amendment` | 0.0717 | 0.0000 | no |
+| `us:fourteenth-amendment` | 0.0717 | 0.0000 | no |
+| `us:freedom-from-slavery-and-involuntary-servitude` | 0.0717 | 0.0000 | no |
+| `us:reconstruction-amendments` | 0.0717 | 0.0000 | no |
+| `us:slavery-in-the-united-states` | 0.0717 | 0.0000 | no |
+| `us:united-states-congress` | 0.0717 | 0.0000 | no |
+| `us:united-states-constitution` | 0.0717 | 0.0000 | no |
+| `us:thirteenth-amendment` | 0.0673 | 1.0000 | yes |
+
+## Communities
+
+1. `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:black-codes`, `us:convict-leasing`, `us:emancipation-proclamation`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:freedom-from-slavery-and-involuntary-servitude`, `us:reconstruction-amendments`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` …
 
 ## By type
 
+- Law: 1
 
 ## By domain
 
+- civil-war-and-reconstruction: 1
 
 ## By level
 
+- introductory: 1
 
 ## By evidence status
 
+- legal-text: 1
 
 ## Domain coverage (breadth runs pick the lowest)
 
-- civil-war-and-reconstruction: 0
 - cold-war-and-civil-rights: 0
 - colonial-and-revolutionary: 0
 - constitution-and-government: 0
@@ -45,3 +73,4 @@
 - society-and-people: 0
 - states-and-territories: 0
 - symbols-and-national-identity: 0
+- civil-war-and-reconstruction: 1
