@@ -271,6 +271,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920.",
+   "uso:myth": "By making women citizens, the Fourteenth Amendment gave them the right to vote.",
+   "uso:why": "Assuming citizenship and voting rights always went together hides how long women, and Native Americans after the 1924 citizenship act, were citizens who could still be kept from the polls."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What problems was the amendment meant to solve after the Thirteenth Amendment ended slavery?",
+   "uso:answer": "Southern states were passing Black Codes to limit freed people's rights while white southerners terrorized them, and Dred Scott's rule still denied Black Americans citizenship; the amendment made all persons born or naturalized in the country citizens, barred states from denying due process or equal protection, and gave Congress power to enforce those guarantees.",
+   "uso:questionFor": {
+    "@id": "us:fourteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Slaughter-House Cases change what the amendment meant in practice?",
+   "uso:answer": "The Court held that the Privileges or Immunities Clause protected only rights of national citizenship, leaving most rights to the states and turning the clause into a practical nullity, so later protection of Bill of Rights guarantees against the states came instead through the Due Process Clause, case by case.",
+   "uso:questionFor": {
+    "@id": "us:fourteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why were former Confederate states required to ratify the amendment?",
+   "uso:answer": "White southerners rejected it almost unanimously in 1866 and 1867; after Northern voters backed Republicans in the 1866 elections, Congress made ratification a condition for restoring a state's representation, and Southern ratifications in 1868 completed the three-fourths.",
+   "uso:questionFor": {
+    "@id": "us:fourteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Who was left out of the citizenship clause at first, and how did that change?",
+   "uso:answer": "Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.",
+   "uso:questionFor": {
+    "@id": "us:fourteenth-amendment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates the Joint Committee of Fifteen on Reconstruction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Minor v. Happersett holds that citizenship does not carry a right to vote.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1875-03-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1884-11-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1898"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Indian Citizenship Act makes Native Americans U.S. citizens.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1924-06-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Civil Rights Act of 1866.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1866-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the amendment, 33 to 11.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the amendment, 120 to 32.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-06-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The joint resolution is submitted to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-06-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Reconstruction Act places former Confederate states except Tennessee under military districts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Louisiana and South Carolina ratify, completing the three-fourths needed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-07-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of State William H. Seward certifies ratification by 28 states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-07-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Slaughter-House Cases narrow the Privileges or Immunities Clause.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1873"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -776,6 +936,188 @@
    "dcterms:title": "The Southern Manifesto of 1956",
    "schema:url": {
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "14th Amendment to the U.S. Constitution: Civil Rights (1868)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/14th-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society, Civics Resources",
+   "dcterms:title": "United States v. Wong Kim Ark (1898)",
+   "schema:url": {
+    "@id": "https://civics.supremecourthistory.org/article/united-states-v-wong-kim-ark/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "U.S. Suffrage Timeline, 1648 to 2016",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/us-suffrage-timeline-1648-to-2016.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Why the Women's Rights Movement Split Over the 15th Amendment",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Cornell Legal Information Institute)",
+   "dcterms:title": "Minor v. Happersett, 88 U.S. 162 (1875)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/88/162"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "United States Senate",
+   "dcterms:title": "The Fourteenth Amendment",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/14th-amendment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "United States Senate, Historical Office",
+   "dcterms:title": "The Joint Committee of Fifteen on Reconstruction",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/common/generic/JointCommitteeonReconstruction.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. House of Representatives, History, Art & Archives",
+   "dcterms:title": "House Passage of the Fourteenth Amendment",
+   "schema:url": {
+    "@id": "https://history.house.gov/HistoricalHighlight/Detail/25769819198"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. House of Representatives, via GovInfo (U.S. Government Publishing Office)",
+   "dcterms:title": "Constitution of the United States, Amendment XIV: proposal and certification (House Manual, 117th Congress)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/HMAN-117/pdf/HMAN-117-pg101.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. House of Representatives, via GovInfo (U.S. Government Publishing Office)",
+   "dcterms:title": "Constitution of the United States, Amendment XIV: ratifications, rejections and rescissions (House Manual, 117th Congress)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/HMAN-117/pdf/HMAN-117-pg102.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Michael Les Benedict, Origins (Ohio State University and Miami University history departments)",
+   "dcterms:title": "The Ratification of the Fourteenth Amendment",
+   "schema:url": {
+    "@id": "https://origins.osu.edu/milestones/july-2018-150-years-fourteenth-amendment"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "Privileges or Immunities of Citizens and the Slaughter-House Cases",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/privileges-or-immunities-of-citizens-and-the-slaughter-house-cases"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "Modern Doctrine on Selective Incorporation of Bill of Rights",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights"
    },
    "uso:sourceType": "government"
   },
@@ -1364,6 +1706,190 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:fourteenth-amendment",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9"
+    }
+   ],
+   "rdfs:label": "Fourteenth Amendment",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1868-07-09"
+   },
+   "skos:altLabel": [
+    "14th Amendment",
+    "Amendment XIV",
+    "Fourteenth Amendment to the United States Constitution"
+   ],
+   "skos:broader": {
+    "@id": "us:reconstruction-amendments"
+   },
+   "skos:definition": "The 1868 amendment to the U.S. Constitution that made all persons born or naturalized in the United States citizens and barred states from denying any person due process of law or the equal protection of the laws; it also reshaped representation, barred certain former officials who joined the rebellion from office, and settled Civil War debts.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Fourteenth Amendment",
+   "skos:related": [
+    {
+     "@id": "us:black-codes"
+    },
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:civil-rights-act-of-1866"
+    },
+    {
+     "@id": "us:elk-v-wilkins"
+    },
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:incorporation-of-the-bill-of-rights"
+    },
+    {
+     "@id": "us:indian-citizenship-act-of-1924"
+    },
+    {
+     "@id": "us:joint-committee-on-reconstruction"
+    },
+    {
+     "@id": "us:minor-v-happersett"
+    },
+    {
+     "@id": "us:plessy-v-ferguson"
+    },
+    {
+     "@id": "us:slaughter-house-cases"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:united-states-v-wong-kim-ark"
+    }
+   ],
+   "uso:amends": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:authoredBy": {
+    "@id": "us:john-bingham"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/rights-and-law/fourteenth-amendment.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:dred-scott-v-sandford"
+   },
+   "uso:protects": [
+    {
+     "@id": "us:due-process"
+    },
+    {
+     "@id": "us:equal-protection"
+    }
+   ],
+   "uso:requires": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9"
     }
    ]
   },

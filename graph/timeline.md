@@ -24,7 +24,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-06-13 | The House passes the amendment, 120 to 32. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-06-16 | The joint resolution is submitted to the states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1868-07-09 | **[Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md)** (Law) |
+| 1868-07-09 | Louisiana and South Carolina ratify, completing the three-fourths needed. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -35,6 +47,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
 | 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |

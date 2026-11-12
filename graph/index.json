@@ -328,6 +328,218 @@
   ]
  },
  {
+  "id": "us:fourteenth-amendment",
+  "title": "Fourteenth Amendment",
+  "aliases": [
+   "14th Amendment",
+   "Amendment XIV",
+   "Fourteenth Amendment to the United States Constitution"
+  ],
+  "type": "Law",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/rights-and-law/fourteenth-amendment.md",
+  "created": "2026-11-12",
+  "summary": "The 1868 amendment to the U.S. Constitution that made all persons born or naturalized in the United States citizens and barred states from denying any person due process of law or the equal protection of the laws; it also reshaped representation, barred certain former officials who joined the rebellion from office, and settled Civil War debts.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:reconstruction-amendments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-act-of-1866"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-codes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:joint-committee-on-reconstruction"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slaughter-house-cases"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minor-v-happersett"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-wong-kim-ark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elk-v-wilkins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-citizenship-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:incorporation-of-the-bill-of-rights"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "uso:amends",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:equal-protection",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:due-process",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-bingham",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:overturns",
+    "object": "us:dred-scott-v-sandford",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1868-07-09",
+  "end": null,
+  "review": [
+   {
+    "question": "What problems was the amendment meant to solve after the Thirteenth Amendment ended slavery?",
+    "answer": "Southern states were passing Black Codes to limit freed people's rights while white southerners terrorized them, and Dred Scott's rule still denied Black Americans citizenship; the amendment made all persons born or naturalized in the country citizens, barred states from denying due process or equal protection, and gave Congress power to enforce those guarantees."
+   },
+   {
+    "question": "How did the Slaughter-House Cases change what the amendment meant in practice?",
+    "answer": "The Court held that the Privileges or Immunities Clause protected only rights of national citizenship, leaving most rights to the states and turning the clause into a practical nullity, so later protection of Bill of Rights guarantees against the states came instead through the Due Process Clause, case by case."
+   },
+   {
+    "question": "Why were former Confederate states required to ratify the amendment?",
+    "answer": "White southerners rejected it almost unanimously in 1866 and 1867; after Northern voters backed Republicans in the 1866 elections, Congress made ratification a condition for restoring a state's representation, and Southern ratifications in 1868 completed the three-fourths."
+   },
+   {
+    "question": "Who was left out of the citizenship clause at first, and how did that change?",
+    "answer": "Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1865-12-13",
+    "event": "Congress creates the Joint Committee of Fifteen on Reconstruction."
+   },
+   {
+    "date": "1866-04",
+    "event": "Congress passes the Civil Rights Act of 1866."
+   },
+   {
+    "date": "1866-06-08",
+    "event": "The Senate passes the amendment, 33 to 11."
+   },
+   {
+    "date": "1866-06-13",
+    "event": "The House passes the amendment, 120 to 32."
+   },
+   {
+    "date": "1866-06-16",
+    "event": "The joint resolution is submitted to the states."
+   },
+   {
+    "date": "1867-03-02",
+    "event": "The Reconstruction Act places former Confederate states except Tennessee under military districts."
+   },
+   {
+    "date": "1868-07-09",
+    "event": "Louisiana and South Carolina ratify, completing the three-fourths needed."
+   },
+   {
+    "date": "1868-07-28",
+    "event": "Secretary of State William H. Seward certifies ratification by 28 states."
+   },
+   {
+    "date": "1873",
+    "event": "The Slaughter-House Cases narrow the Privileges or Immunities Clause."
+   },
+   {
+    "date": "1875-03-29",
+    "event": "Minor v. Happersett holds that citizenship does not carry a right to vote."
+   },
+   {
+    "date": "1884-11-03",
+    "event": "Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens."
+   },
+   {
+    "date": "1898",
+    "event": "United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents."
+   },
+   {
+    "date": "1924-06-24",
+    "event": "The Indian Citizenship Act makes Native Americans U.S. citizens."
+   }
+  ],
+  "misconception": {
+   "myth": "By making women citizens, the Fourteenth Amendment gave them the right to vote.",
+   "fact": "Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920.",
+   "why": "Assuming citizenship and voting rights always went together hides how long women, and Native Americans after the 1924 citizenship act, were citizens who could still be kept from the polls."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/14th-amendment",
+   "https://www.senate.gov/about/origins-foundations/senate-and-constitution/14th-amendment.htm",
+   "https://www.senate.gov/artandhistory/history/common/generic/JointCommitteeonReconstruction.htm",
+   "https://history.house.gov/HistoricalHighlight/Detail/25769819198",
+   "https://www.govinfo.gov/content/pkg/HMAN-117/pdf/HMAN-117-pg101.pdf",
+   "https://www.govinfo.gov/content/pkg/HMAN-117/pdf/HMAN-117-pg102.pdf",
+   "https://origins.osu.edu/milestones/july-2018-150-years-fourteenth-amendment",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/privileges-or-immunities-of-citizens-and-the-slaughter-house-cases",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights",
+   "https://civics.supremecourthistory.org/article/united-states-v-wong-kim-ark/",
+   "https://www.nps.gov/articles/us-suffrage-timeline-1648-to-2016.htm",
+   "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm",
+   "https://www.law.cornell.edu/supremecourt/text/88/162"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

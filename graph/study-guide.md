@@ -70,3 +70,22 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
   **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
 
+## rights-and-law
+
+### [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) — Law
+
+| Myth | Fact |
+|---|---|
+| By making women citizens, the Fourteenth Amendment gave them the right to vote. | Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920. |
+
+**Why it matters:** Assuming citizenship and voting rights always went together hides how long women, and Native Americans after the 1924 citizenship act, were citizens who could still be kept from the polls.
+
+- **Q:** What problems was the amendment meant to solve after the Thirteenth Amendment ended slavery?
+  **A:** Southern states were passing Black Codes to limit freed people's rights while white southerners terrorized them, and Dred Scott's rule still denied Black Americans citizenship; the amendment made all persons born or naturalized in the country citizens, barred states from denying due process or equal protection, and gave Congress power to enforce those guarantees.
+- **Q:** How did the Slaughter-House Cases change what the amendment meant in practice?
+  **A:** The Court held that the Privileges or Immunities Clause protected only rights of national citizenship, leaving most rights to the states and turning the clause into a practical nullity, so later protection of Bill of Rights guarantees against the states came instead through the Due Process Clause, case by case.
+- **Q:** Why were former Confederate states required to ratify the amendment?
+  **A:** White southerners rejected it almost unanimously in 1866 and 1867; after Northern voters backed Republicans in the 1866 elections, Congress made ratification a condition for restoring a state's representation, and Southern ratifications in 1868 completed the three-fourths.
+- **Q:** Who was left out of the citizenship clause at first, and how did that change?
+  **A:** Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.
+

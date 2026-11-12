@@ -75,7 +75,9 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 
 | right | protector |
 |---|---|
+| `us:due-process` | `us:fourteenth-amendment` |
 | `us:equal-protection` | `us:brown-v-board-of-education` |
+| `us:equal-protection` | `us:fourteenth-amendment` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
 
 ## What documents and laws established
