@@ -4,6 +4,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 1.82 | `us:declaration-of-independence` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
 | 1.29 | `us:abraham-lincoln` | `us:fourteenth-amendment` | `us:american-civil-war`, `us:thirteenth-amendment` |
+| 0.91 | `us:abraham-lincoln` | `us:declaration-of-independence` | `us:slavery-in-the-united-states` |
+| 0.91 | `us:declaration-of-independence` | `us:fourteenth-amendment` | `us:united-states-constitution` |
 | 0.73 | `us:brown-v-board-of-education` | `us:thirteenth-amendment` | `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
 | 0.38 | `us:abraham-lincoln` | `us:plessy-v-ferguson` | `us:thirteenth-amendment` |

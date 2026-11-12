@@ -36,6 +36,25 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Court's approach to remedies allow segregation to continue for years after 1954?
   **A:** The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed "with all deliberate speed," and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.
 
+## colonial-and-revolutionary
+
+### [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) — Document
+
+| Myth | Fact |
+|---|---|
+| The delegates signed the Declaration of Independence on July 4, 1776. | Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777. |
+
+**Why it matters:** Later recollections by Jefferson and Adams placed the signing on July 4, and the copies printed that week carried only the names of John Hancock and Charles Thomson, so the date of approval and the act of signing blurred together in popular memory.
+
+- **Q:** Why did Congress cut Jefferson's passage blaming the king for the slave trade?
+  **A:** Jefferson recorded that it was struck to accommodate South Carolina and Georgia, which wanted the slave trade to continue, and that some Northern delegates were uneasy because Northern merchants had carried enslaved people; the deletion kept those delegations behind independence.
+- **Q:** How did declaring independence help the American war effort abroad?
+  **A:** France would consider a formal alliance only once the colonies declared independence, so the Declaration opened the way to recognition and to the 1778 Treaty of Alliance with France, followed by Dutch recognition in 1782 and British acknowledgement in the 1783 Treaty of Paris.
+- **Q:** Why is July 4 not the day the Declaration was signed?
+  **A:** July 4 was the day Congress approved the text; the signing copy was only ordered on July 19, and most delegates signed it on August 2, 1776, with others signing later.
+- **Q:** How did later reformers use the Declaration's language?
+  **A:** The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed.
+
 ## gilded-age-and-progressive-era
 
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase

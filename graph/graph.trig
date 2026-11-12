@@ -20,6 +20,18 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/colonial-and-revolutionary/declaration-of-independence.md" .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> .
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/gilded-age-and-progressive-era/plessy-v-ferguson.md" .
@@ -328,6 +340,159 @@
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> {
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The delegates signed the Declaration of Independence on July 4, 1776." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Later recollections by Jefferson and Adams placed the signing on July 4, and the copies printed that week carried only the names of John Hancock and Charles Thomson, so the date of approval and the act of signing blurred together in popular memory." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress cut Jefferson's passage blaming the king for the slave trade?" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Jefferson recorded that it was struck to accommodate South Carolina and Georgia, which wanted the slave trade to continue, and that some Northern delegates were uneasy because Northern merchants had carried enslaved people; the deletion kept those delegations behind independence." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did declaring independence help the American war effort abroad?" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "France would consider a formal alliance only once the colonies declared independence, so the Declaration opened the way to recognition and to the 1778 Treaty of Alliance with France, followed by Dutch recognition in 1782 and British acknowledgement in the 1783 Treaty of Paris." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is July 4 not the day the Declaration was signed?" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "July 4 was the day Congress approved the text; the signing copy was only ordered on July 19, and most delegates signed it on August 2, 1776, with others signing later." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did later reformers use the Declaration's language?" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "A first vote on Lee's resolution: nine colonies in favour, Pennsylvania and South Carolina opposed, Delaware deadlocked and New York abstaining." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Twelve colonies vote for independence, with New York abstaining." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "John Nixon gives the first public reading in the State House Yard in Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Congress orders the text engrossed on parchment under a new title for members to sign." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "John Hancock and most of the delegates sign the engrossed parchment." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Congress authorizes a printing that carries the signers' names for the first time." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2000/01/rdf-schema#label> "Declaration of Independence" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#altLabel> "Declaration of 1776" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#altLabel> "The unanimous Declaration of the thirteen united States of America" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#altLabel> "United States Declaration of Independence" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#definition> "The statement adopted by the Second Continental Congress on July 4, 1776, announcing that the thirteen American colonies were free and independent states, setting out a philosophy of natural rights and government by consent, and listing grievances against King George III." .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Declaration of Independence" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dunmores-proclamation> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/independence-day> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lee-resolution> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/declaration-of-independence.md" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/common-sense> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/john-hancock> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://schema.org/startDate> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/title> "Declaration of Independence (1776)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/declaration-of-Independence> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <http://purl.org/dc/terms/title> "Declaration of Independence Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s2> <https://schema.org/url> <https://www.nps.gov/inde/learn/historyculture/resources-declarationofindependence.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <http://purl.org/dc/terms/title> "The Declaration of Independence, 1776" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s3> <https://schema.org/url> <https://history.state.gov/milestones/1776-1783/declaration> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <http://purl.org/dc/terms/publisher> "James Ambuske et al., Michael Hattem, ed., The American Yawp (Stanford University Press, 2018)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <http://purl.org/dc/terms/title> "5. The American Revolution" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s4> <https://schema.org/url> <https://www.americanyawp.com/text/?p=67> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello), from The Papers of Thomas Jefferson, vol. 1" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <http://purl.org/dc/terms/title> "Extract from Thomas Jefferson's Notes of Proceedings in the Continental Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s5> <https://schema.org/url> <https://tjrs.monticello.org/node/54> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <http://purl.org/dc/terms/publisher> "National Archives, The Text Message / Prologue blog (2016)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <http://purl.org/dc/terms/title> "Making It Official: The Day the Declaration of Independence Was Signed" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s6> <https://schema.org/url> <https://prologue.blogs.archives.gov/2016/08/02/making-it-official-the-day-the-declaration-of-independence-was-signed> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <http://purl.org/dc/terms/title> "Women's Rights in Seneca Falls" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s7> <https://schema.org/url> <https://www.nps.gov/places/womensrights.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <http://purl.org/dc/terms/publisher> "Arlene Balkansky, Library of Congress, Headlines & Heroes blog (2020)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <http://purl.org/dc/terms/title> "What, to the American Slave, Is Your 4th of July?" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s8> <https://schema.org/url> <https://blogs.loc.gov/headlinesandheroes/2020/07/what-to-the-american-slave-is-your-4th-of-july/> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello)" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <http://purl.org/dc/terms/title> "Jefferson's Attitudes Toward Slavery" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <https://schema.org/url> <https://www.monticello.org/thomas-jefferson/jefferson-slavery/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> {
@@ -869,6 +1034,8 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -900,7 +1067,25 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/common-sense> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -908,6 +1093,7 @@
   <https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/dunmores-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -923,6 +1109,8 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -949,6 +1137,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/frederick-douglass> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
@@ -961,14 +1150,19 @@
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/independence-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/john-hancock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/john-hancock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/john-hancock> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -1012,14 +1206,17 @@
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1040,13 +1237,18 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .

@@ -27,6 +27,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
+| `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:plessy-v-ferguson` | 1 | jim-crow-laws |
 
 ## Happenings by era
@@ -53,7 +54,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:declaration-of-independence` |
 
 ## People with no recorded role (gap)
 

@@ -328,6 +328,170 @@
   ]
  },
  {
+  "id": "us:declaration-of-independence",
+  "title": "Declaration of Independence",
+  "aliases": [
+   "United States Declaration of Independence",
+   "The unanimous Declaration of the thirteen united States of America",
+   "Declaration of 1776"
+  ],
+  "type": "Document",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/colonial-and-revolutionary/declaration-of-independence.md",
+  "created": "2026-11-12",
+  "summary": "The statement adopted by the Second Continental Congress on July 4, 1776, announcing that the thirteen American colonies were free and independent states, setting out a philosophy of natural rights and government by consent, and listing grievances against King George III.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:founding-documents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lee-resolution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:independence-day"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dunmores-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-sentiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:thomas-jefferson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:john-hancock",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:common-sense",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-alliance-1778",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1776-07-04",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Congress cut Jefferson's passage blaming the king for the slave trade?",
+    "answer": "Jefferson recorded that it was struck to accommodate South Carolina and Georgia, which wanted the slave trade to continue, and that some Northern delegates were uneasy because Northern merchants had carried enslaved people; the deletion kept those delegations behind independence."
+   },
+   {
+    "question": "How did declaring independence help the American war effort abroad?",
+    "answer": "France would consider a formal alliance only once the colonies declared independence, so the Declaration opened the way to recognition and to the 1778 Treaty of Alliance with France, followed by Dutch recognition in 1782 and British acknowledgement in the 1783 Treaty of Paris."
+   },
+   {
+    "question": "Why is July 4 not the day the Declaration was signed?",
+    "answer": "July 4 was the day Congress approved the text; the signing copy was only ordered on July 19, and most delegates signed it on August 2, 1776, with others signing later."
+   },
+   {
+    "question": "How did later reformers use the Declaration's language?",
+    "answer": "The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1776-06-07",
+    "event": "Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states."
+   },
+   {
+    "date": "1776-06-28",
+    "event": "The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress."
+   },
+   {
+    "date": "1776-07-01",
+    "event": "A first vote on Lee's resolution: nine colonies in favour, Pennsylvania and South Carolina opposed, Delaware deadlocked and New York abstaining."
+   },
+   {
+    "date": "1776-07-02",
+    "event": "Twelve colonies vote for independence, with New York abstaining."
+   },
+   {
+    "date": "1776-07-04",
+    "event": "Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides."
+   },
+   {
+    "date": "1776-07-08",
+    "event": "John Nixon gives the first public reading in the State House Yard in Philadelphia."
+   },
+   {
+    "date": "1776-07-19",
+    "event": "Congress orders the text engrossed on parchment under a new title for members to sign."
+   },
+   {
+    "date": "1776-08-02",
+    "event": "John Hancock and most of the delegates sign the engrossed parchment."
+   },
+   {
+    "date": "1777-01-18",
+    "event": "Congress authorizes a printing that carries the signers' names for the first time."
+   }
+  ],
+  "misconception": {
+   "myth": "The delegates signed the Declaration of Independence on July 4, 1776.",
+   "fact": "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777.",
+   "why": "Later recollections by Jefferson and Adams placed the signing on July 4, and the copies printed that week carried only the names of John Hancock and Charles Thomson, so the date of approval and the act of signing blurred together in popular memory."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/declaration-of-Independence",
+   "https://www.nps.gov/inde/learn/historyculture/resources-declarationofindependence.htm",
+   "https://history.state.gov/milestones/1776-1783/declaration",
+   "https://www.americanyawp.com/text/?p=67",
+   "https://tjrs.monticello.org/node/54",
+   "https://prologue.blogs.archives.gov/2016/08/02/making-it-official-the-day-the-declaration-of-independence-was-signed",
+   "https://www.nps.gov/places/womensrights.htm",
+   "https://blogs.loc.gov/headlinesandheroes/2020/07/what-to-the-american-slave-is-your-4th-of-july/",
+   "https://www.monticello.org/thomas-jefferson/jefferson-slavery/"
+  ]
+ },
+ {
   "id": "us:fourteenth-amendment",
   "title": "Fourteenth Amendment",
   "aliases": [
