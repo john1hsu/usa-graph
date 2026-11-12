@@ -25,14 +25,26 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
+| 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
+| 1954-05-17 | Brown v. Board of Education rejects separate but equal in public education. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1954-05-17 | The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1956-03-12 | The Southern Manifesto denouncing the decision is introduced in Congress. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |

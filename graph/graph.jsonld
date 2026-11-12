@@ -271,6 +271,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
+   "uso:myth": "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"",
+   "uso:why": "Knowing the exact wording shows that the Court was approving a state statute's own formula, and that the promise of equality was a legislative claim the majority accepted rather than tested."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Homer Plessy board a whites-only car on a train that stayed inside Louisiana rather than an interstate train?",
+   "uso:answer": "Weeks earlier, in Abbott v. Hicks, the Louisiana Supreme Court had ruled that the Separate Car Act did not apply to interstate passengers, so the Comité des Citoyens needed an intrastate trip to test the law's constitutionality directly.",
+   "uso:questionFor": {
+    "@id": "us:plessy-v-ferguson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Justice Brown's majority answer the argument that forced separation stamped Black citizens as inferior?",
+   "uso:answer": "He said any such stigma did not come from the law itself but from how Black Americans chose to interpret it, and he treated segregation as a reasonable use of a state's police power that could take established customs into account.",
+   "uso:questionFor": {
+    "@id": "us:plessy-v-ferguson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is Plessy considered so consequential even though it concerned railroad cars?",
+   "uso:answer": "By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954.",
+   "uso:questionFor": {
+    "@id": "us:plessy-v-ferguson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Brown v. Board of Education rejects separate but equal in public education.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-05-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2022-01-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1891"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Daniel Desdunes boards a whites-only car on an interstate train in a first test case.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-02-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-06-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-11-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Louisiana Supreme Court upholds Ferguson's ruling.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1892-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1896-05-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Plessy pleads guilty in New Orleans and pays a $25 fine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1897-01-11"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Civil War and Reconstruction (1850–1877)"
@@ -645,6 +778,90 @@
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Keith Weldon Medley, 64 Parishes (Louisiana Endowment for the Humanities)",
+   "dcterms:title": "Plessy v. Ferguson",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/plessy-v-ferguson"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach; Record Group 267, Records of the Supreme Court of the United States)",
+   "dcterms:title": "Judgment in Plessy v. Ferguson",
+   "schema:url": {
+    "@id": "https://docsteach.org/document/judgment-plessy-ferguson/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Justia)",
+   "dcterms:title": "Plessy v. Ferguson, 163 U.S. 537 (1896)",
+   "schema:url": {
+    "@id": "https://law.justia.com/cases/federal/us/163/537/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Brown v. Board of Education National Historical Park",
+   "dcterms:title": "The Road to 'Separate But Equal': The Supreme Court and the Fourteenth Amendment through Plessy v. Ferguson",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/the-road-to-separate-but-equal.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of African American History and Culture (Searchable Museum)",
+   "dcterms:title": "Creating Jim Crow",
+   "schema:url": {
+    "@id": "https://www.searchablemuseum.com/creating-jim-crow/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society",
+   "dcterms:title": "Louisiana Governor Pardons Homer Plessy",
+   "schema:url": {
+    "@id": "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1",
@@ -1147,6 +1364,134 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:plessy-v-ferguson",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6"
+    }
+   ],
+   "rdfs:label": "Plessy v. Ferguson",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1896-05-18"
+   },
+   "skos:altLabel": [
+    "163 U.S. 537",
+    "Plessy decision",
+    "Plessy v Ferguson"
+   ],
+   "skos:broader": {
+    "@id": "us:racial-segregation-in-the-united-states"
+   },
+   "skos:definition": "The 1896 U.S. Supreme Court decision that upheld a Louisiana law requiring separate railroad cars for Black and white passengers, giving constitutional approval to state-imposed racial segregation under what became known as the \"separate but equal\" doctrine.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Plessy v. Ferguson",
+   "skos:related": [
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:civil-rights-cases"
+    },
+    {
+     "@id": "us:comite-des-citoyens"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:homer-plessy"
+    },
+    {
+     "@id": "us:john-marshall-harlan"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:authoredBy": {
+    "@id": "us:henry-billings-brown"
+   },
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/gilded-age-and-progressive-era/plessy-v-ferguson.md",
+   "uso:interprets": [
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:separate-car-act"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9"
     }
    ]
   },

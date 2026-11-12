@@ -4,36 +4,42 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `us:emancipation-proclamation` | 4.33 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
-| `us:fourteenth-amendment` | 4.29 | - | `us:brown-v-board-of-education`, `us:thirteenth-amendment` |
-| `us:american-civil-war` | 3.05 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
-| `us:slavery-in-the-united-states` | 3.05 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
-| `us:plessy-v-ferguson` | 3.02 | Document | `us:brown-v-board-of-education` |
-| `us:massive-resistance` | 2.52 | - | `us:brown-v-board-of-education` |
-| `us:abolitionism` | 1.78 | - | `us:thirteenth-amendment` |
-| `us:fifteenth-amendment` | 1.78 | - | `us:thirteenth-amendment` |
-| `us:gettysburg-address` | 1.78 | - | `us:abraham-lincoln` |
-| `us:house-of-representatives` | 1.78 | - | `us:abraham-lincoln` |
-| `us:mexican-american-war` | 1.78 | - | `us:abraham-lincoln` |
-| `us:presidency-of-the-united-states` | 1.78 | Office | `us:abraham-lincoln` |
-| `us:united-states-congress` | 1.78 | Institution | `us:thirteenth-amendment` |
-| `us:united-states-constitution` | 1.78 | Document | `us:thirteenth-amendment` |
-| `us:civil-rights-movement` | 1.76 | - | `us:brown-v-board-of-education` |
-| `us:equal-protection` | 1.76 | Right | `us:brown-v-board-of-education` |
-| `us:jim-crow-laws` | 1.76 | - | `us:brown-v-board-of-education` |
-| `us:assassination-of-abraham-lincoln` | 1.28 | - | `us:abraham-lincoln` |
-| `us:black-codes` | 1.28 | - | `us:thirteenth-amendment` |
-| `us:black-hawk-war` | 1.28 | - | `us:abraham-lincoln` |
-| `us:convict-leasing` | 1.28 | - | `us:thirteenth-amendment` |
-| `us:freedom-from-slavery-and-involuntary-servitude` | 1.28 | Right | `us:thirteenth-amendment` |
-| `us:presidents-of-the-united-states` | 1.28 | - | `us:abraham-lincoln` |
-| `us:reconstruction-amendments` | 1.28 | - | `us:thirteenth-amendment` |
-| `us:republican-party` | 1.28 | - | `us:abraham-lincoln` |
-| `us:us-dakota-war-of-1862` | 1.28 | - | `us:abraham-lincoln` |
-| `us:bolling-v-sharpe` | 1.26 | - | `us:brown-v-board-of-education` |
-| `us:earl-warren` | 1.26 | Person | `us:brown-v-board-of-education` |
-| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.26 | - | `us:brown-v-board-of-education` |
-| `us:naacp-legal-defense-and-educational-fund` | 1.26 | - | `us:brown-v-board-of-education` |
-| `us:school-desegregation-in-the-united-states` | 1.26 | - | `us:brown-v-board-of-education` |
-| `us:southern-manifesto` | 1.26 | - | `us:brown-v-board-of-education` |
-| `us:thurgood-marshall` | 1.26 | - | `us:brown-v-board-of-education` |
+| `us:fourteenth-amendment` | 6.66 | - | `us:brown-v-board-of-education`, `us:plessy-v-ferguson`, `us:thirteenth-amendment` |
+| `us:emancipation-proclamation` | 4.22 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:american-civil-war` | 2.98 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:slavery-in-the-united-states` | 2.98 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:equal-protection` | 2.96 | Right | `us:brown-v-board-of-education`, `us:plessy-v-ferguson` |
+| `us:jim-crow-laws` | 2.96 | - | `us:brown-v-board-of-education`, `us:plessy-v-ferguson` |
+| `us:massive-resistance` | 2.46 | - | `us:brown-v-board-of-education` |
+| `us:abolitionism` | 1.75 | - | `us:thirteenth-amendment` |
+| `us:fifteenth-amendment` | 1.75 | - | `us:thirteenth-amendment` |
+| `us:united-states-congress` | 1.75 | Institution | `us:thirteenth-amendment` |
+| `us:united-states-constitution` | 1.75 | Document | `us:thirteenth-amendment` |
+| `us:civil-rights-movement` | 1.73 | - | `us:brown-v-board-of-education` |
+| `us:gettysburg-address` | 1.73 | - | `us:abraham-lincoln` |
+| `us:house-of-representatives` | 1.73 | - | `us:abraham-lincoln` |
+| `us:mexican-american-war` | 1.73 | - | `us:abraham-lincoln` |
+| `us:presidency-of-the-united-states` | 1.73 | Office | `us:abraham-lincoln` |
+| `us:black-codes` | 1.25 | - | `us:thirteenth-amendment` |
+| `us:convict-leasing` | 1.25 | - | `us:thirteenth-amendment` |
+| `us:freedom-from-slavery-and-involuntary-servitude` | 1.25 | Right | `us:thirteenth-amendment` |
+| `us:reconstruction-amendments` | 1.25 | - | `us:thirteenth-amendment` |
+| `us:bolling-v-sharpe` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:earl-warren` | 1.23 | Person | `us:brown-v-board-of-education` |
+| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:naacp-legal-defense-and-educational-fund` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:school-desegregation-in-the-united-states` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:southern-manifesto` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:thurgood-marshall` | 1.23 | - | `us:brown-v-board-of-education` |
+| `us:assassination-of-abraham-lincoln` | 1.23 | - | `us:abraham-lincoln` |
+| `us:black-hawk-war` | 1.23 | - | `us:abraham-lincoln` |
+| `us:presidents-of-the-united-states` | 1.23 | - | `us:abraham-lincoln` |
+| `us:republican-party` | 1.23 | - | `us:abraham-lincoln` |
+| `us:us-dakota-war-of-1862` | 1.23 | - | `us:abraham-lincoln` |
+| `us:civil-rights-cases` | 1.23 | - | `us:plessy-v-ferguson` |
+| `us:comite-des-citoyens` | 1.23 | - | `us:plessy-v-ferguson` |
+| `us:henry-billings-brown` | 1.23 | Person | `us:plessy-v-ferguson` |
+| `us:homer-plessy` | 1.23 | - | `us:plessy-v-ferguson` |
+| `us:john-marshall-harlan` | 1.23 | - | `us:plessy-v-ferguson` |
+| `us:racial-segregation-in-the-united-states` | 1.23 | - | `us:plessy-v-ferguson` |
+| `us:separate-car-act` | 1.23 | - | `us:plessy-v-ferguson` |

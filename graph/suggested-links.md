@@ -4,4 +4,5 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 1.44 | `us:brown-v-board-of-education` | `us:thirteenth-amendment` | `us:fourteenth-amendment` |
+| 1.31 | `us:brown-v-board-of-education` | `us:thirteenth-amendment` | `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 0.38 | `us:abraham-lincoln` | `us:plessy-v-ferguson` | `us:thirteenth-amendment` |

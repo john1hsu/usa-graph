@@ -36,6 +36,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Court's approach to remedies allow segregation to continue for years after 1954?
   **A:** The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed "with all deliberate speed," and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.
 
+## gilded-age-and-progressive-era
+
+### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| The Supreme Court's majority opinion in Plessy announced the phrase "separate but equal." | The majority opinion speaks of the statute's "equal but separate" accommodations; the words "separate but equal" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward. |
+
+**Why it matters:** Knowing the exact wording shows that the Court was approving a state statute's own formula, and that the promise of equality was a legislative claim the majority accepted rather than tested.
+
+- **Q:** Why did Homer Plessy board a whites-only car on a train that stayed inside Louisiana rather than an interstate train?
+  **A:** Weeks earlier, in Abbott v. Hicks, the Louisiana Supreme Court had ruled that the Separate Car Act did not apply to interstate passengers, so the Comité des Citoyens needed an intrastate trip to test the law's constitutionality directly.
+- **Q:** How did Justice Brown's majority answer the argument that forced separation stamped Black citizens as inferior?
+  **A:** He said any such stigma did not come from the law itself but from how Black Americans chose to interpret it, and he treated segregation as a reasonable use of a state's police power that could take established customs into account.
+- **Q:** Why is Plessy considered so consequential even though it concerned railroad cars?
+  **A:** By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person

@@ -196,6 +196,100 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://schema.org/startDate> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Knowing the exact wording shows that the Court was approving a state statute's own formula, and that the promise of equality was a legislative claim the majority accepted rather than tested." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Homer Plessy board a whites-only car on a train that stayed inside Louisiana rather than an interstate train?" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Weeks earlier, in Abbott v. Hicks, the Louisiana Supreme Court had ruled that the Separate Car Act did not apply to interstate passengers, so the Comité des Citoyens needed an intrastate trip to test the law's constitutionality directly." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Justice Brown's majority answer the argument that forced separation stamped Black citizens as inferior?" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He said any such stigma did not come from the law itself but from how Black Americans chose to interpret it, and he treated segregation as a reasonable use of a state's police power that could take established customs into account." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is Plessy considered so consequential even though it concerned railroad cars?" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Brown v. Board of Education rejects separate but equal in public education." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2022-01-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1891"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Desdunes boards a whites-only car on an interstate train in a first test case." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Louisiana Supreme Court upholds Ferguson's ruling." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1896-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Plessy pleads guilty in New Orleans and pays a $25 fine." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1897-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2000/01/rdf-schema#label> "Plessy v. Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#altLabel> "163 U.S. 537" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#altLabel> "Plessy decision" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#altLabel> "Plessy v Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#definition> "The 1896 U.S. Supreme Court decision that upheld a Louisiana law requiring separate railroad cars for Black and white passengers, giving constitutional approval to state-imposed racial segregation under what became known as the \"separate but equal\" doctrine." .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plessy v. Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-cases> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/homer-plessy> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#domain> "gilded-age-and-progressive-era" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/gilded-age-and-progressive-era/plessy-v-ferguson.md" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/separate-car-act> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://schema.org/startDate> "1896-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil War and Reconstruction (1850–1877)" .
 <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -354,6 +448,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/publisher> "Keith Weldon Medley, 64 Parishes (Louisiana Endowment for the Humanities)" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/title> "Plessy v. Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <https://schema.org/url> <https://64parishes.org/entry/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <http://purl.org/dc/terms/publisher> "National Archives (DocsTeach; Record Group 267, Records of the Supreme Court of the United States)" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <http://purl.org/dc/terms/title> "Judgment in Plessy v. Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s2> <https://schema.org/url> <https://docsteach.org/document/judgment-plessy-ferguson/> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Justia)" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <http://purl.org/dc/terms/title> "Plessy v. Ferguson, 163 U.S. 537 (1896)" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s3> <https://schema.org/url> <https://law.justia.com/cases/federal/us/163/537/> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Brown v. Board of Education National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <http://purl.org/dc/terms/title> "The Road to 'Separate But Equal': The Supreme Court and the Fourteenth Amendment through Plessy v. Ferguson" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> <https://schema.org/url> <https://www.nps.gov/articles/000/the-road-to-separate-but-equal.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of African American History and Culture (Searchable Museum)" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <http://purl.org/dc/terms/title> "Creating Jim Crow" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> <https://schema.org/url> <https://www.searchablemuseum.com/creating-jim-crow/> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <http://purl.org/dc/terms/publisher> "Supreme Court Historical Society" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <http://purl.org/dc/terms/title> "Louisiana Governor Pardons Homer Plessy" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <https://schema.org/url> <https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .

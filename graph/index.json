@@ -328,6 +328,161 @@
   ]
  },
  {
+  "id": "us:plessy-v-ferguson",
+  "title": "Plessy v. Ferguson",
+  "aliases": [
+   "Plessy v Ferguson",
+   "163 U.S. 537",
+   "Plessy decision"
+  ],
+  "type": "CourtCase",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/gilded-age-and-progressive-era/plessy-v-ferguson.md",
+  "created": "2026-11-12",
+  "summary": "The 1896 U.S. Supreme Court decision that upheld a Louisiana law requiring separate railroad cars for Black and white passengers, giving constitutional approval to state-imposed racial segregation under what became known as the \"separate but equal\" doctrine.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:racial-segregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:homer-plessy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:comite-des-citoyens"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall-harlan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-cases"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:fourteenth-amendment",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:thirteenth-amendment",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:separate-car-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:henry-billings-brown",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:jim-crow-laws",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1896-05-18",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Homer Plessy board a whites-only car on a train that stayed inside Louisiana rather than an interstate train?",
+    "answer": "Weeks earlier, in Abbott v. Hicks, the Louisiana Supreme Court had ruled that the Separate Car Act did not apply to interstate passengers, so the Comité des Citoyens needed an intrastate trip to test the law's constitutionality directly."
+   },
+   {
+    "question": "How did Justice Brown's majority answer the argument that forced separation stamped Black citizens as inferior?",
+    "answer": "He said any such stigma did not come from the law itself but from how Black Americans chose to interpret it, and he treated segregation as a reasonable use of a state's police power that could take established customs into account."
+   },
+   {
+    "question": "Why is Plessy considered so consequential even though it concerned railroad cars?",
+    "answer": "By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1890",
+    "event": "Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers."
+   },
+   {
+    "date": "1891",
+    "event": "Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court."
+   },
+   {
+    "date": "1892-02-24",
+    "event": "Daniel Desdunes boards a whites-only car on an interstate train in a first test case."
+   },
+   {
+    "date": "1892-05-25",
+    "event": "In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers."
+   },
+   {
+    "date": "1892-06-07",
+    "event": "Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington."
+   },
+   {
+    "date": "1892-11-18",
+    "event": "Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy."
+   },
+   {
+    "date": "1892-12",
+    "event": "The Louisiana Supreme Court upholds Ferguson's ruling."
+   },
+   {
+    "date": "1896-05-18",
+    "event": "The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting."
+   },
+   {
+    "date": "1897-01-11",
+    "event": "Plessy pleads guilty in New Orleans and pays a $25 fine."
+   },
+   {
+    "date": "1954-05-17",
+    "event": "Brown v. Board of Education rejects separate but equal in public education."
+   },
+   {
+    "date": "2022-01-05",
+    "event": "Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon."
+   }
+  ],
+  "misconception": {
+   "myth": "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"",
+   "fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
+   "why": "Knowing the exact wording shows that the Court was approving a state statute's own formula, and that the promise of equality was a legislative claim the majority accepted rather than tested."
+  },
+  "source_urls": [
+   "https://64parishes.org/entry/plessy-v-ferguson",
+   "https://docsteach.org/document/judgment-plessy-ferguson/",
+   "https://law.justia.com/cases/federal/us/163/537/",
+   "https://www.nps.gov/articles/000/the-road-to-separate-but-equal.htm",
+   "https://www.searchablemuseum.com/creating-jim-crow/",
+   "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
+  ]
+ },
+ {
   "id": "us:thirteenth-amendment",
   "title": "Thirteenth Amendment",
   "aliases": [
