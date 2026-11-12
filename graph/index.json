@@ -161,6 +161,173 @@
   ]
  },
  {
+  "id": "us:brown-v-board-of-education",
+  "title": "Brown v. Board of Education",
+  "aliases": [
+   "Brown v. Board of Education of Topeka",
+   "Brown I",
+   "Brown v. Board",
+   "347 U.S. 483"
+  ],
+  "type": "CourtCase",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/cold-war-and-civil-rights/brown-v-board-of-education.md",
+  "created": "2026-11-12",
+  "summary": "The unanimous 1954 U.S. Supreme Court decision holding that state laws segregating public schools by race violate the Equal Protection Clause of the Fourteenth Amendment, rejecting the \"separate but equal\" doctrine in public education.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:school-desegregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thurgood-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp-legal-defense-and-educational-fund"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bolling-v-sharpe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:massive-resistance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:griffin-v-county-school-board-of-prince-edward-county"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:fourteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:overturns",
+    "object": "us:plessy-v-ferguson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:equal-protection",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:earl-warren",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:southern-manifesto",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:massive-resistance",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1954-05-17",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the NAACP's lawyers value the Kansas case even though Topeka's Black and white schools were roughly comparable in buildings and resources?",
+    "answer": "Because the facilities were substantially comparable, the Kansas case forced the Court to decide whether segregation itself was unconstitutional rather than merely ordering states to equalize unequal schools, and it showed that school segregation was a national issue and not only a Southern one."
+   },
+   {
+    "question": "Why was the District of Columbia case, Bolling v. Sharpe, decided separately from the four state cases?",
+    "answer": "The Fourteenth Amendment's Equal Protection Clause restrains the states, not the federal government, so segregation in the federal capital had to be challenged under the Fifth Amendment instead."
+   },
+   {
+    "question": "How did the Court's approach to remedies allow segregation to continue for years after 1954?",
+    "answer": "The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed \"with all deliberate speed,\" and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1951-04-23",
+    "event": "Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia."
+   },
+   {
+    "date": "1951-05-23",
+    "event": "NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown."
+   },
+   {
+    "date": "1952-12-09",
+    "event": "The Supreme Court hears the first arguments in the consolidated school cases."
+   },
+   {
+    "date": "1953-12-07",
+    "event": "Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies."
+   },
+   {
+    "date": "1954-05-17",
+    "event": "The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day."
+   },
+   {
+    "date": "1955-05-31",
+    "event": "In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts."
+   },
+   {
+    "date": "1956-03-12",
+    "event": "The Southern Manifesto denouncing the decision is introduced in Congress."
+   },
+   {
+    "date": "1959-06-26",
+    "event": "Prince Edward County, Virginia, cuts off public school funding rather than desegregate."
+   },
+   {
+    "date": "1964-09-08",
+    "event": "Prince Edward County's public schools reopen after the Supreme Court's Griffin decision."
+   },
+   {
+    "date": "1979",
+    "event": "Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III)."
+   }
+  ],
+  "misconception": {
+   "myth": "The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school.",
+   "fact": "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people.",
+   "why": "Reducing Brown to one family's story hides the years of organized legal strategy and the many students, parents, teachers and lawyers, in the South and beyond it, who took risks to bring the cases."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/brown-v-board-of-education",
+   "https://law.justia.com/CASES/FEDERAL/US/347/483/",
+   "https://www.nps.gov/brvb/learn/historyculture/mythtruth.htm",
+   "https://api.oyez.org/cases/1940-1955/347us483",
+   "https://loc.gov/exhibits/brown/brown-brown.html",
+   "https://encyclopediavirginia.org/entries/moton-school-strike-and-prince-edward-county-school-closings/",
+   "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
+  ]
+ },
+ {
   "id": "us:thirteenth-amendment",
   "title": "Thirteenth Amendment",
   "aliases": [

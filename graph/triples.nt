@@ -101,6 +101,101 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/endDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/startDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Reducing Brown to one family's story hides the years of organized legal strategy and the many students, parents, teachers and lawyers, in the South and beyond it, who took risks to bring the cases." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the NAACP's lawyers value the Kansas case even though Topeka's Black and white schools were roughly comparable in buildings and resources?" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because the facilities were substantially comparable, the Kansas case forced the Court to decide whether segregation itself was unconstitutional rather than merely ordering states to equalize unequal schools, and it showed that school segregation was a national issue and not only a Southern one." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the District of Columbia case, Bolling v. Sharpe, decided separately from the four state cases?" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Fourteenth Amendment's Equal Protection Clause restrains the states, not the federal government, so segregation in the federal capital had to be challenged under the Fifth Amendment instead." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Court's approach to remedies allow segregation to continue for years after 1954?" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed \"with all deliberate speed,\" and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III)." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1951-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1951-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court hears the first arguments in the consolidated school cases." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1952-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1953-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-05-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Southern Manifesto denouncing the decision is introduced in Congress." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Prince Edward County, Virginia, cuts off public school funding rather than desegregate." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1959-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Prince Edward County's public schools reopen after the Supreme Court's Griffin decision." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2000/01/rdf-schema#label> "Brown v. Board of Education" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#altLabel> "347 U.S. 483" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#altLabel> "Brown I" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#altLabel> "Brown v. Board of Education of Topeka" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#altLabel> "Brown v. Board" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#definition> "The unanimous 1954 U.S. Supreme Court decision holding that state laws segregating public schools by race violate the Equal Protection Clause of the Fourteenth Amendment, rejecting the \"separate but equal\" doctrine in public education." .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brown v. Board of Education" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bolling-v-sharpe> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/griffin-v-county-school-board-of-prince-edward-county> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/massive-resistance> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/earl-warren> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#domain> "cold-war-and-civil-rights" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/cold-war-and-civil-rights/brown-v-board-of-education.md" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/massive-resistance> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/southern-manifesto> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#overturns> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://schema.org/startDate> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil War and Reconstruction (1850–1877)" .
 <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -217,6 +312,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/title> "Brown v. Board of Education (1954)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Justia)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <http://purl.org/dc/terms/title> "Brown v. Board of Education of Topeka, 347 U.S. 483 (1954)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2> <https://schema.org/url> <https://law.justia.com/CASES/FEDERAL/US/347/483/> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Brown v. Board of Education National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <http://purl.org/dc/terms/title> "Myth or Truth?" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3> <https://schema.org/url> <https://www.nps.gov/brvb/learn/historyculture/mythtruth.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <http://purl.org/dc/terms/publisher> "Oyez (Cornell Legal Information Institute, Chicago-Kent College of Law and Justia)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <http://purl.org/dc/terms/title> "Brown v. Board of Education of Topeka (1)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4> <https://schema.org/url> <https://api.oyez.org/cases/1940-1955/347us483> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <http://purl.org/dc/terms/title> "With an Even Hand: Brown v. Board at Fifty" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> <https://schema.org/url> <https://loc.gov/exhibits/brown/brown-brown.html> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <http://purl.org/dc/terms/publisher> "Ronald L. Heinemann, Encyclopedia Virginia (Virginia Humanities)" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <http://purl.org/dc/terms/title> "Moton School Strike and Prince Edward County School Closings" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> <https://schema.org/url> <https://encyclopediavirginia.org/entries/moton-school-strike-and-prince-edward-county-school-closings/> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://purl.org/dc/terms/publisher> "U.S. House of Representatives, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://purl.org/dc/terms/title> "The Southern Manifesto of 1956" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .

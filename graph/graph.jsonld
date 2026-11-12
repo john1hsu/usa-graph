@@ -147,6 +147,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people.",
+   "uso:myth": "The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school.",
+   "uso:why": "Reducing Brown to one family's story hides the years of organized legal strategy and the many students, parents, teachers and lawyers, in the South and beyond it, who took risks to bring the cases."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the NAACP's lawyers value the Kansas case even though Topeka's Black and white schools were roughly comparable in buildings and resources?",
+   "uso:answer": "Because the facilities were substantially comparable, the Kansas case forced the Court to decide whether segregation itself was unconstitutional rather than merely ordering states to equalize unequal schools, and it showed that school segregation was a national issue and not only a Southern one.",
+   "uso:questionFor": {
+    "@id": "us:brown-v-board-of-education"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the District of Columbia case, Bolling v. Sharpe, decided separately from the four state cases?",
+   "uso:answer": "The Fourteenth Amendment's Equal Protection Clause restrains the states, not the federal government, so segregation in the federal capital had to be challenged under the Fifth Amendment instead.",
+   "uso:questionFor": {
+    "@id": "us:brown-v-board-of-education"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Court's approach to remedies allow segregation to continue for years after 1954?",
+   "uso:answer": "The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed \"with all deliberate speed,\" and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.",
+   "uso:questionFor": {
+    "@id": "us:brown-v-board-of-education"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1951-04-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1979"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1951-05-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court hears the first arguments in the consolidated school cases.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1952-12-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-05-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-05-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Southern Manifesto denouncing the decision is introduced in Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-03-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Prince Edward County, Virginia, cuts off public school funding rather than desegregate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-06-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Prince Edward County's public schools reopen after the Supreme Court's Griffin decision.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-09-08"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Civil War and Reconstruction (1850–1877)"
@@ -421,6 +545,104 @@
    "dcterms:title": "Today in History - April 14: Lincoln Shot at Ford's Theater",
    "schema:url": {
     "@id": "https://www.loc.gov/item/today-in-history/april-14/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Brown v. Board of Education (1954)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/brown-v-board-of-education"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Justia)",
+   "dcterms:title": "Brown v. Board of Education of Topeka, 347 U.S. 483 (1954)",
+   "schema:url": {
+    "@id": "https://law.justia.com/CASES/FEDERAL/US/347/483/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Brown v. Board of Education National Historical Park",
+   "dcterms:title": "Myth or Truth?",
+   "schema:url": {
+    "@id": "https://www.nps.gov/brvb/learn/historyculture/mythtruth.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Oyez (Cornell Legal Information Institute, Chicago-Kent College of Law and Justia)",
+   "dcterms:title": "Brown v. Board of Education of Topeka (1)",
+   "schema:url": {
+    "@id": "https://api.oyez.org/cases/1940-1955/347us483"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "With an Even Hand: Brown v. Board at Fifty",
+   "schema:url": {
+    "@id": "https://loc.gov/exhibits/brown/brown-brown.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Ronald L. Heinemann, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Moton School Strike and Prince Edward County School Closings",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/moton-school-strike-and-prince-edward-county-school-closings/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "U.S. House of Representatives, Office of the Historian",
+   "dcterms:title": "The Southern Manifesto of 1956",
+   "schema:url": {
+    "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
    },
    "uso:sourceType": "government"
   },
@@ -785,6 +1007,146 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:brown-v-board-of-education",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7"
+    }
+   ],
+   "rdfs:label": "Brown v. Board of Education",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1954-05-17"
+   },
+   "skos:altLabel": [
+    "347 U.S. 483",
+    "Brown I",
+    "Brown v. Board of Education of Topeka",
+    "Brown v. Board"
+   ],
+   "skos:broader": {
+    "@id": "us:school-desegregation-in-the-united-states"
+   },
+   "skos:definition": "The unanimous 1954 U.S. Supreme Court decision holding that state laws segregating public schools by race violate the Equal Protection Clause of the Fourteenth Amendment, rejecting the \"separate but equal\" doctrine in public education.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Brown v. Board of Education",
+   "skos:related": [
+    {
+     "@id": "us:bolling-v-sharpe"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:griffin-v-county-school-board-of-prince-edward-county"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:massive-resistance"
+    },
+    {
+     "@id": "us:naacp-legal-defense-and-educational-fund"
+    },
+    {
+     "@id": "us:thurgood-marshall"
+    }
+   ],
+   "uso:authoredBy": {
+    "@id": "us:earl-warren"
+   },
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/cold-war-and-civil-rights/brown-v-board-of-education.md",
+   "uso:interprets": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:massive-resistance"
+    },
+    {
+     "@id": "us:southern-manifesto"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:plessy-v-ferguson"
+   },
+   "uso:protects": {
+    "@id": "us:equal-protection"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:plessy-v-ferguson"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
     }
    ]
   },

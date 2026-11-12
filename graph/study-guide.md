@@ -19,6 +19,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the amendment's exception "as a punishment for crime" significant?
   **A:** Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor.
 
+## cold-war-and-civil-rights
+
+### [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school. | The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people. |
+
+**Why it matters:** Reducing Brown to one family's story hides the years of organized legal strategy and the many students, parents, teachers and lawyers, in the South and beyond it, who took risks to bring the cases.
+
+- **Q:** Why did the NAACP's lawyers value the Kansas case even though Topeka's Black and white schools were roughly comparable in buildings and resources?
+  **A:** Because the facilities were substantially comparable, the Kansas case forced the Court to decide whether segregation itself was unconstitutional rather than merely ordering states to equalize unequal schools, and it showed that school segregation was a national issue and not only a Southern one.
+- **Q:** Why was the District of Columbia case, Bolling v. Sharpe, decided separately from the four state cases?
+  **A:** The Fourteenth Amendment's Equal Protection Clause restrains the states, not the federal government, so segregation in the federal capital had to be challenged under the Fifth Amendment instead.
+- **Q:** How did the Court's approach to remedies allow segregation to continue for years after 1954?
+  **A:** The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed "with all deliberate speed," and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person

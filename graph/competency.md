@@ -24,7 +24,9 @@ _No results._
 
 _Which nodes led to, established or affected the most other things in the graph?_ — `queries/04-most-consequential.rq`
 
-_No results._
+| node | reach | targets |
+|---|---|---|
+| `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 
 ## Happenings by era
 
@@ -50,7 +52,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:brown-v-board-of-education` |
 
 ## People with no recorded role (gap)
 
@@ -72,6 +76,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 
 | right | protector |
 |---|---|
+| `us:equal-protection` | `us:brown-v-board-of-education` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
 
 ## What documents and laws established
