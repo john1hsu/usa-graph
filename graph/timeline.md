@@ -4,12 +4,24 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 
 | Date | What |
 |---|---|
+| 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
+| 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1861-03-04 | Inaugurated after seven Southern states had seceded. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |

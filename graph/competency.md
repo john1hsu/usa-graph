@@ -36,7 +36,9 @@ _No results._
 
 _Which nodes are myths, contested or open to competing interpretations, and what challenges them?_ — `queries/06-myths-and-debates.rq`
 
-_No results._
+| node | status | challenger |
+|---|---|---|
+| `us:abraham-lincoln` | interpretive |  |
 
 ## Places with nothing tied to them (gap)
 
@@ -48,9 +50,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:thirteenth-amendment` |
+_No results._
 
 ## People with no recorded role (gap)
 
@@ -62,7 +62,9 @@ _No results._
 
 _Which people in the graph held each public office?_ — `queries/10-offices-and-holders.rq`
 
-_No results._
+| office | person | born |
+|---|---|---|
+| `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 
 ## Rights and what protects them
 

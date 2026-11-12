@@ -1,5 +1,166 @@
 [
  {
+  "id": "us:abraham-lincoln",
+  "title": "Abraham Lincoln",
+  "aliases": [
+   "Lincoln",
+   "President Lincoln",
+   "16th President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/abraham-lincoln.md",
+  "created": "2026-11-12",
+  "summary": "The 16th president of the United States (1861–1865), an Illinois lawyer and Republican who led the Union through the Civil War, issued the Emancipation Proclamation, backed the Thirteenth Amendment, and was assassinated in April 1865.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:emancipation-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gettysburg-address"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:us-dakota-war-of-1862"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:assassination-of-abraham-lincoln"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:house-of-representatives",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:republican-party",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:black-hawk-war",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1809-02-12",
+  "end": "1865-04-15",
+  "review": [
+   {
+    "question": "Why did Lincoln win the presidency in 1860 with less than 40 percent of the popular vote?",
+    "answer": "Four major candidates split the vote; Lincoln carried every free state, which gave him 180 of 303 electoral votes, a clear Electoral College majority, even though he was not on the ballot in much of the South."
+   },
+   {
+    "question": "How did the actions of enslaved people shape Lincoln's emancipation policy, according to historians such as Ira Berlin?",
+    "answer": "By fleeing to Union lines and offering labor and military service, enslaved people forced Union officers, Congress and the president to decide their status; Lincoln, who had first favored gradual, compensated emancipation and colonization, moved toward the Emancipation Proclamation as that pressure grew."
+   },
+   {
+    "question": "Why do historians debate Lincoln's title of \"Great Emancipator\"?",
+    "answer": "Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1809-02-12",
+    "event": "Born near Hodgenville, Kentucky."
+   },
+   {
+    "date": "1834",
+    "event": "First elected to the Illinois legislature."
+   },
+   {
+    "date": "1847-12-22",
+    "event": "As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico."
+   },
+   {
+    "date": "1858-06-16",
+    "event": "Gives the \"House Divided\" speech; later loses the Senate race to Stephen A. Douglas."
+   },
+   {
+    "date": "1860-11-04",
+    "event": "Elected 16th president with a majority of electoral votes from the free states."
+   },
+   {
+    "date": "1861-03-04",
+    "event": "Inaugurated after seven Southern states had seceded."
+   },
+   {
+    "date": "1862-12-26",
+    "event": "Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences."
+   },
+   {
+    "date": "1863-01-01",
+    "event": "The Emancipation Proclamation takes effect in areas in rebellion."
+   },
+   {
+    "date": "1863-11-19",
+    "event": "Delivers the Gettysburg Address."
+   },
+   {
+    "date": "1864-11-08",
+    "event": "Reelected president."
+   },
+   {
+    "date": "1865-04-14",
+    "event": "Shot by John Wilkes Booth at Ford's Theatre; dies the next morning."
+   }
+  ],
+  "misconception": {
+   "myth": "Lincoln dashed off the Gettysburg Address on the back of an envelope on the train to Gettysburg.",
+   "fact": "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's.",
+   "why": "The envelope story turns a carefully revised speech into a lucky improvisation and hides how deliberately Lincoln shaped his public words."
+  },
+  "source_urls": [
+   "https://home.nps.gov/liho/learn/historyculture/life.htm",
+   "https://presidency.ucsb.edu/statistics/elections/1860",
+   "https://www.archives.gov/education/lessons/lincoln-resolutions",
+   "https://www.nps.gov/articles/000/lincoln-s-first-inauguration.htm",
+   "https://www.americanyawp.com/text/?p=90",
+   "https://www.mnhs.org/usdakotawar/us-dakota-war-1862",
+   "https://lcm.loc.gov/issue/may-june-2026/four-score-and-seven-years-ago/",
+   "https://constitutioncenter.org/blog/myths-and-mysteries-about-the-gettysburg-address",
+   "https://www.loc.gov/item/today-in-history/april-14/",
+   "https://housedivided.dickinson.edu/sites/lincoln/great-emancipator/",
+   "https://digfir-published.macmillanusa.com/cialit1e/cialit1e_ch07_87.html",
+   "https://papersofabrahamlincoln.org/events/E4015988"
+  ]
+ },
+ {
   "id": "us:thirteenth-amendment",
   "title": "Thirteenth Amendment",
   "aliases": [

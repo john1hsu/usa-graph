@@ -14,6 +14,139 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's.",
+   "uso:myth": "Lincoln dashed off the Gettysburg Address on the back of an envelope on the train to Gettysburg.",
+   "uso:why": "The envelope story turns a carefully revised speech into a lucky improvisation and hides how deliberately Lincoln shaped his public words."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Lincoln win the presidency in 1860 with less than 40 percent of the popular vote?",
+   "uso:answer": "Four major candidates split the vote; Lincoln carried every free state, which gave him 180 of 303 electoral votes, a clear Electoral College majority, even though he was not on the ballot in much of the South.",
+   "uso:questionFor": {
+    "@id": "us:abraham-lincoln"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the actions of enslaved people shape Lincoln's emancipation policy, according to historians such as Ira Berlin?",
+   "uso:answer": "By fleeing to Union lines and offering labor and military service, enslaved people forced Union officers, Congress and the president to decide their status; Lincoln, who had first favored gradual, compensated emancipation and colonization, moved toward the Emancipation Proclamation as that pressure grew.",
+   "uso:questionFor": {
+    "@id": "us:abraham-lincoln"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians debate Lincoln's title of \"Great Emancipator\"?",
+   "uso:answer": "Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.",
+   "uso:questionFor": {
+    "@id": "us:abraham-lincoln"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born near Hodgenville, Kentucky.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1809-02-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reelected president.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-11-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Shot by John Wilkes Booth at Ford's Theatre; dies the next morning.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-04-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "First elected to the Illinois legislature.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1834"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1847-12-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gives the \"House Divided\" speech; later loses the Senate race to Stephen A. Douglas.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1858-06-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected 16th president with a majority of electoral votes from the free states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1860-11-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Inaugurated after seven Southern states had seceded.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1862-12-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Emancipation Proclamation takes effect in areas in rebellion.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delivers the Gettysburg Address.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-11-19"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Civil War and Reconstruction (1850–1877)"
@@ -122,6 +255,174 @@
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Symbols, ideals and national identity"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Lincoln Home National Historic Site",
+   "dcterms:title": "Life of Lincoln, 1809-1865",
+   "schema:url": {
+    "@id": "https://home.nps.gov/liho/learn/historyculture/life.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "House Divided Project, Dickinson College (Lincoln's Writings)",
+   "dcterms:title": "Great Emancipator",
+   "schema:url": {
+    "@id": "https://housedivided.dickinson.edu/sites/lincoln/great-emancipator/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Ira Berlin, excerpted from Who Freed the Slaves? Emancipation and Its Meaning (1997), Macmillan Learning",
+   "dcterms:title": "Who Freed the Slaves?",
+   "schema:url": {
+    "@id": "https://digfir-published.macmillanusa.com/cialit1e/cialit1e_ch07_87.html"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Papers of Abraham Lincoln, Abraham Lincoln Presidential Library",
+   "dcterms:title": "1860 Federal Election",
+   "schema:url": {
+    "@id": "https://papersofabrahamlincoln.org/events/E4015988"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Election of 1860",
+   "schema:url": {
+    "@id": "https://presidency.ucsb.edu/statistics/elections/1860"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives, Educator Resources",
+   "dcterms:title": "Lincoln's Spot Resolutions",
+   "schema:url": {
+    "@id": "https://www.archives.gov/education/lessons/lincoln-resolutions"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Lincoln's First Inauguration",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/lincoln-s-first-inauguration.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press)",
+   "dcterms:title": "14. The Civil War",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/?p=90"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Minnesota Historical Society",
+   "dcterms:title": "The U.S.-Dakota War of 1862",
+   "schema:url": {
+    "@id": "https://www.mnhs.org/usdakotawar/us-dakota-war-1862"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Michelle Krowl, Library of Congress Magazine (May/June 2026)",
+   "dcterms:title": "'Four Score and Seven Years Ago …'",
+   "schema:url": {
+    "@id": "https://lcm.loc.gov/issue/may-june-2026/four-score-and-seven-years-ago/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Constitution Center, Constitution Daily (2022)",
+   "dcterms:title": "Myths and mysteries about the Gettysburg Address",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/myths-and-mysteries-about-the-gettysburg-address"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History - April 14: Lincoln Shot at Ford's Theater",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/april-14/"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1",
@@ -326,6 +627,166 @@
     "@type": "xsd:date",
     "@value": "1865-12-18"
    }
+  },
+  {
+   "@id": "us:abraham-lincoln",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9"
+    }
+   ],
+   "rdfs:label": "Abraham Lincoln",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1809-02-12"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1865-04-15"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1865-04-15"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1809-02-12"
+   },
+   "skos:altLabel": [
+    "16th President of the United States",
+    "Lincoln",
+    "President Lincoln"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "The 16th president of the United States (1861–1865), an Illinois lawyer and Republican who led the Union through the Civil War, issued the Emancipation Proclamation, backed the Thirteenth Amendment, and was assassinated in April 1865.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Abraham Lincoln",
+   "skos:related": [
+    {
+     "@id": "us:assassination-of-abraham-lincoln"
+    },
+    {
+     "@id": "us:emancipation-proclamation"
+    },
+    {
+     "@id": "us:gettysburg-address"
+    },
+    {
+     "@id": "us:mexican-american-war"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:us-dakota-war-of-1862"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/abraham-lincoln.md",
+   "uso:heldOffice": {
+    "@id": "us:presidency-of-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": [
+    {
+     "@id": "us:house-of-representatives"
+    },
+    {
+     "@id": "us:republican-party"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:black-hawk-war"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9"
+    }
+   ]
   },
   {
    "@id": "us:thirteenth-amendment",

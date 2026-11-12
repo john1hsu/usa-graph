@@ -19,3 +19,20 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the amendment's exception "as a punishment for crime" significant?
   **A:** Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor.
 
+## presidents-and-founders
+
+### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Lincoln dashed off the Gettysburg Address on the back of an envelope on the train to Gettysburg. | Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's. |
+
+**Why it matters:** The envelope story turns a carefully revised speech into a lucky improvisation and hides how deliberately Lincoln shaped his public words.
+
+- **Q:** Why did Lincoln win the presidency in 1860 with less than 40 percent of the popular vote?
+  **A:** Four major candidates split the vote; Lincoln carried every free state, which gave him 180 of 303 electoral votes, a clear Electoral College majority, even though he was not on the ballot in much of the South.
+- **Q:** How did the actions of enslaved people shape Lincoln's emancipation policy, according to historians such as Ira Berlin?
+  **A:** By fleeing to Union lines and offering labor and military service, enslaved people forced Union officers, Congress and the president to decide their status; Lincoln, who had first favored gradual, compensated emancipation and colonization, moved toward the Emancipation Proclamation as that pressure grew.
+- **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
+  **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
+

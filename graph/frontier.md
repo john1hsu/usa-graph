@@ -4,16 +4,24 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `us:emancipation-proclamation` | 3.85 | - | `us:thirteenth-amendment` |
-| `us:abolitionism` | 2.17 | - | `us:thirteenth-amendment` |
-| `us:abraham-lincoln` | 2.17 | Person | `us:thirteenth-amendment` |
-| `us:american-civil-war` | 2.17 | - | `us:thirteenth-amendment` |
-| `us:fifteenth-amendment` | 2.17 | - | `us:thirteenth-amendment` |
-| `us:fourteenth-amendment` | 2.17 | - | `us:thirteenth-amendment` |
-| `us:slavery-in-the-united-states` | 2.17 | - | `us:thirteenth-amendment` |
-| `us:united-states-congress` | 2.17 | Institution | `us:thirteenth-amendment` |
-| `us:united-states-constitution` | 2.17 | Document | `us:thirteenth-amendment` |
-| `us:black-codes` | 1.67 | - | `us:thirteenth-amendment` |
-| `us:convict-leasing` | 1.67 | - | `us:thirteenth-amendment` |
-| `us:freedom-from-slavery-and-involuntary-servitude` | 1.67 | Right | `us:thirteenth-amendment` |
-| `us:reconstruction-amendments` | 1.67 | - | `us:thirteenth-amendment` |
+| `us:emancipation-proclamation` | 4.79 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:american-civil-war` | 3.36 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:slavery-in-the-united-states` | 3.36 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
+| `us:abolitionism` | 1.93 | - | `us:thirteenth-amendment` |
+| `us:fifteenth-amendment` | 1.93 | - | `us:thirteenth-amendment` |
+| `us:fourteenth-amendment` | 1.93 | - | `us:thirteenth-amendment` |
+| `us:gettysburg-address` | 1.93 | - | `us:abraham-lincoln` |
+| `us:house-of-representatives` | 1.93 | - | `us:abraham-lincoln` |
+| `us:mexican-american-war` | 1.93 | - | `us:abraham-lincoln` |
+| `us:presidency-of-the-united-states` | 1.93 | Office | `us:abraham-lincoln` |
+| `us:united-states-congress` | 1.93 | Institution | `us:thirteenth-amendment` |
+| `us:united-states-constitution` | 1.93 | Document | `us:thirteenth-amendment` |
+| `us:assassination-of-abraham-lincoln` | 1.43 | - | `us:abraham-lincoln` |
+| `us:black-codes` | 1.43 | - | `us:thirteenth-amendment` |
+| `us:black-hawk-war` | 1.43 | - | `us:abraham-lincoln` |
+| `us:convict-leasing` | 1.43 | - | `us:thirteenth-amendment` |
+| `us:freedom-from-slavery-and-involuntary-servitude` | 1.43 | Right | `us:thirteenth-amendment` |
+| `us:presidents-of-the-united-states` | 1.43 | - | `us:abraham-lincoln` |
+| `us:reconstruction-amendments` | 1.43 | - | `us:thirteenth-amendment` |
+| `us:republican-party` | 1.43 | - | `us:abraham-lincoln` |
+| `us:us-dakota-war-of-1862` | 1.43 | - | `us:abraham-lincoln` |

@@ -1,3 +1,106 @@
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Lincoln dashed off the Gettysburg Address on the back of an envelope on the train to Gettysburg." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The envelope story turns a carefully revised speech into a lucky improvisation and hides how deliberately Lincoln shaped his public words." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Lincoln win the presidency in 1860 with less than 40 percent of the popular vote?" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Four major candidates split the vote; Lincoln carried every free state, which gave him 180 of 303 electoral votes, a clear Electoral College majority, even though he was not on the ballot in much of the South." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the actions of enslaved people shape Lincoln's emancipation policy, according to historians such as Ira Berlin?" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "By fleeing to Union lines and offering labor and military service, enslaved people forced Union officers, Congress and the president to decide their status; Lincoln, who had first favored gradual, compensated emancipation and colonization, moved toward the Emancipation Proclamation as that pressure grew." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians debate Lincoln's title of \"Great Emancipator\"?" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Reelected president." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Shot by John Wilkes Booth at Ford's Theatre; dies the next morning." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born near Hodgenville, Kentucky." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "First elected to the Illinois legislature." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1834"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Gives the \"House Divided\" speech; later loses the Senate race to Stephen A. Douglas." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1858-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Elected 16th president with a majority of electoral votes from the free states." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1860-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurated after seven Southern states had seceded." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1862-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Emancipation Proclamation takes effect in areas in rebellion." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Delivers the Gettysburg Address." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#altLabel> "16th President of the United States" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#altLabel> "Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#altLabel> "President Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#definition> "The 16th president of the United States (1861–1865), an Illinois lawyer and Republican who led the Union through the Civil War, issued the Emancipation Proclamation, backed the Thirteenth Amendment, and was assassinated in April 1865." .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abraham Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gettysburg-address> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/abraham-lincoln.md" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/republican-party> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/black-hawk-war> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/birthDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/endDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/startDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil War and Reconstruction (1850–1877)" .
 <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -42,6 +145,78 @@
 <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> <http://www.w3.org/2004/02/skos/core#prefLabel> "States and territories" .
 <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symbols, ideals and national identity" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/publisher> "House Divided Project, Dickinson College (Lincoln's Writings)" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/title> "Great Emancipator" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <https://schema.org/url> <https://housedivided.dickinson.edu/sites/lincoln/great-emancipator/> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <http://purl.org/dc/terms/publisher> "Ira Berlin, excerpted from Who Freed the Slaves? Emancipation and Its Meaning (1997), Macmillan Learning" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <http://purl.org/dc/terms/title> "Who Freed the Slaves?" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> <https://schema.org/url> <https://digfir-published.macmillanusa.com/cialit1e/cialit1e_ch07_87.html> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <http://purl.org/dc/terms/publisher> "Papers of Abraham Lincoln, Abraham Lincoln Presidential Library" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <http://purl.org/dc/terms/title> "1860 Federal Election" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> <https://schema.org/url> <https://papersofabrahamlincoln.org/events/E4015988> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Lincoln Home National Historic Site" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <http://purl.org/dc/terms/title> "Life of Lincoln, 1809-1865" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1> <https://schema.org/url> <https://home.nps.gov/liho/learn/historyculture/life.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <http://purl.org/dc/terms/title> "Election of 1860" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s2> <https://schema.org/url> <https://presidency.ucsb.edu/statistics/elections/1860> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <http://purl.org/dc/terms/publisher> "National Archives, Educator Resources" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <http://purl.org/dc/terms/title> "Lincoln's Spot Resolutions" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s3> <https://schema.org/url> <https://www.archives.gov/education/lessons/lincoln-resolutions> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <http://purl.org/dc/terms/title> "Lincoln's First Inauguration" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s4> <https://schema.org/url> <https://www.nps.gov/articles/000/lincoln-s-first-inauguration.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <http://purl.org/dc/terms/title> "14. The Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s5> <https://schema.org/url> <https://www.americanyawp.com/text/?p=90> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <http://purl.org/dc/terms/publisher> "Minnesota Historical Society" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <http://purl.org/dc/terms/title> "The U.S.-Dakota War of 1862" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s6> <https://schema.org/url> <https://www.mnhs.org/usdakotawar/us-dakota-war-1862> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <http://purl.org/dc/terms/publisher> "Michelle Krowl, Library of Congress Magazine (May/June 2026)" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <http://purl.org/dc/terms/title> "'Four Score and Seven Years Ago …'" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s7> <https://schema.org/url> <https://lcm.loc.gov/issue/may-june-2026/four-score-and-seven-years-ago/> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <http://purl.org/dc/terms/publisher> "National Constitution Center, Constitution Daily (2022)" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <http://purl.org/dc/terms/title> "Myths and mysteries about the Gettysburg Address" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s8> <https://schema.org/url> <https://constitutioncenter.org/blog/myths-and-mysteries-about-the-gettysburg-address> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://purl.org/dc/terms/title> "Today in History - April 14: Lincoln Shot at Ford's Theater" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .
