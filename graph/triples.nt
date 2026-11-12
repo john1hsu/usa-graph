@@ -101,6 +101,117 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/endDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/startDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The seceding states said otherwise at the time. Mississippi declared its position \"thoroughly identified with the institution of slavery,\" South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Civil War was fought over states' rights or tariffs, not slavery." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The postwar \"Lost Cause\" story recast secession as a defense of constitutional principle. Believing it hides what the war was about and why emancipation and the Reconstruction amendments followed from it." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Deep South states secede after the 1860 election, before Lincoln had taken office?" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "They saw the victory of a party opposed to slavery's expansion as a threat to slavery itself. Mississippi's declaration said its position was thoroughly identified with slavery, and South Carolina's centered on Northern refusal to return fugitives from slavery." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did enslaved people help turn a war for the Union into a war against slavery?" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "By fleeing to Union lines from 1861 on, they forced the army and Congress to decide their status, which led to contraband policy, the Confiscation Acts, abolition in Washington, D.C., the Emancipation Proclamation, and the enlistment of about 179,000 Black soldiers." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians now cite about 750,000 deaths instead of the long-used 620,000?" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "J. David Hacker compared census survival rates for 1860–1870 with the decades before and after, and the shortfall pointed to about 750,000 deaths (range 650,000–850,000), since earlier counts relied on incomplete military records." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Vicksburg surrenders to Ulysses S. Grant, splitting the Confederacy in two." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress grants Black soldiers pay equal to white soldiers, retroactively." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "William T. Sherman's army captures Atlanta before marching to the sea." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1860-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as \"contraband of war.\"" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress abolishes slavery in the District of Columbia." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1862-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1862-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Emancipation Proclamation takes effect in areas under Confederate control." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The War Department creates the Bureau of Colored Troops to organize Black regiments." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Pickett's Charge fails, ending the three-day Battle of Gettysburg." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2000/01/rdf-schema#label> "American Civil War" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#altLabel> "Civil War" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Civil War" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#altLabel> "War Between the States" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#altLabel> "War of the Rebellion" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#definition> "The war of 1861–1865 between the United States and eleven slaveholding Southern states that seceded to form the Confederacy; it preserved the Union and destroyed slavery at a cost of roughly 750,000 lives." .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#prefLabel> "American Civil War" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-antietam> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-fort-sumter> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/confederate-states-of-america> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gettysburg-address> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lost-cause> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/secession-crisis> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stand-watie> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/surrender-at-appomattox> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/american-civil-war.md" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://schema.org/endDate> "1865-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://schema.org/startDate> "1861-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people." .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school." .
@@ -624,6 +735,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press), eds. Joseph Locke and Ben Wright" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/title> "14. The Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <https://schema.org/url> <https://www.americanyawp.com/text/?p=90> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <http://purl.org/dc/terms/title> "A Declaration of the Immediate Causes which Induce and Justify the Secession of the State of Mississippi from the Federal Union" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s2> <https://schema.org/url> <https://avalon.law.yale.edu/19th_century/csa_missec.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <http://purl.org/dc/terms/title> "Confronting Slavery and Revealing the \"Lost Cause\" (James Oliver Horton)" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s3> <https://schema.org/url> <https://www.nps.gov/articles/confronting-slavery-and-revealing-the-lost-cause.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <http://purl.org/dc/terms/publisher> "National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <http://purl.org/dc/terms/title> "Ending the Bloodshed: The Last Surrenders of the Civil War (Trevor K. Plante), Prologue, Spring 2015" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s4> <https://schema.org/url> <https://www.archives.gov/publications/prologue/2015/spring/cw-surrenders.html> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <http://purl.org/dc/terms/publisher> "National Archives, Educator Resources" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <http://purl.org/dc/terms/title> "Black Soldiers in the U.S. Military During the Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s5> <https://schema.org/url> <https://www.archives.gov/education/lessons/blacks-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <http://purl.org/dc/terms/publisher> "Binghamton University Research News" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <http://purl.org/dc/terms/title> "New analysis suggests Civil War took bigger toll than previously estimated" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s6> <https://schema.org/url> <https://discovere.binghamton.edu/news/civilwar-3826.html> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <http://purl.org/dc/terms/publisher> "Digital History, University of Houston" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <http://purl.org/dc/terms/title> "Historiographical Essay on the Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <https://schema.org/url> <https://www.digitalhistory.uh.edu/teachers/modules/civwar/historiography.cfm> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/title> "Brown v. Board of Education (1954)" .

@@ -4,75 +4,87 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `us:slavery-in-the-united-states` | 5.01 | - | `us:abraham-lincoln`, `us:declaration-of-independence`, `us:thirteenth-amendment`, `us:thomas-jefferson` |
-| `us:american-civil-war` | 3.91 | - | `us:abraham-lincoln`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:united-states-constitution` | 3.91 | Document | `us:declaration-of-independence`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:equal-protection` | 3.91 | Right | `us:brown-v-board-of-education`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
-| `us:emancipation-proclamation` | 3.91 | - | `us:abraham-lincoln`, `us:thirteenth-amendment` |
-| `us:fifteenth-amendment` | 2.78 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:united-states-congress` | 2.78 | Institution | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:jim-crow-laws` | 2.76 | - | `us:brown-v-board-of-education`, `us:plessy-v-ferguson` |
-| `us:presidency-of-the-united-states` | 2.75 | Office | `us:abraham-lincoln`, `us:thomas-jefferson` |
-| `us:american-revolutionary-war` | 2.75 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
-| `us:louisiana-purchase` | 2.75 | - | `us:thomas-jefferson` |
-| `us:black-codes` | 2.28 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:reconstruction-amendments` | 2.28 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:massive-resistance` | 2.26 | - | `us:brown-v-board-of-education` |
-| `us:presidents-of-the-united-states` | 2.25 | - | `us:abraham-lincoln`, `us:thomas-jefferson` |
-| `us:second-continental-congress` | 2.25 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
-| `us:dred-scott-v-sandford` | 1.64 | Document | `us:fourteenth-amendment` |
-| `us:due-process` | 1.64 | Right | `us:fourteenth-amendment` |
-| `us:abolitionism` | 1.64 | - | `us:thirteenth-amendment` |
-| `us:civil-rights-movement` | 1.63 | - | `us:brown-v-board-of-education` |
-| `us:gettysburg-address` | 1.63 | - | `us:abraham-lincoln` |
-| `us:house-of-representatives` | 1.63 | - | `us:abraham-lincoln` |
-| `us:mexican-american-war` | 1.63 | - | `us:abraham-lincoln` |
-| `us:articles-of-confederation` | 1.62 | - | `us:declaration-of-independence` |
-| `us:frederick-douglass` | 1.62 | - | `us:declaration-of-independence` |
-| `us:independence-day` | 1.62 | - | `us:declaration-of-independence` |
-| `us:lewis-and-clark-expedition` | 1.62 | - | `us:thomas-jefferson` |
-| `us:thirteen-colonies` | 1.62 | - | `us:declaration-of-independence` |
-| `us:civil-rights-act-of-1866` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:elk-v-wilkins` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:incorporation-of-the-bill-of-rights` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:indian-citizenship-act-of-1924` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:john-bingham` | 1.14 | Person | `us:fourteenth-amendment` |
-| `us:joint-committee-on-reconstruction` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:minor-v-happersett` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:slaughter-house-cases` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:united-states-v-wong-kim-ark` | 1.14 | - | `us:fourteenth-amendment` |
-| `us:convict-leasing` | 1.14 | - | `us:thirteenth-amendment` |
-| `us:freedom-from-slavery-and-involuntary-servitude` | 1.14 | Right | `us:thirteenth-amendment` |
-| `us:bolling-v-sharpe` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:earl-warren` | 1.13 | Person | `us:brown-v-board-of-education` |
-| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:naacp-legal-defense-and-educational-fund` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:school-desegregation-in-the-united-states` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:southern-manifesto` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:thurgood-marshall` | 1.13 | - | `us:brown-v-board-of-education` |
-| `us:civil-rights-cases` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:comite-des-citoyens` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:henry-billings-brown` | 1.13 | Person | `us:plessy-v-ferguson` |
-| `us:homer-plessy` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:john-marshall-harlan` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:racial-segregation-in-the-united-states` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:separate-car-act` | 1.13 | - | `us:plessy-v-ferguson` |
-| `us:assassination-of-abraham-lincoln` | 1.13 | - | `us:abraham-lincoln` |
-| `us:black-hawk-war` | 1.13 | - | `us:abraham-lincoln` |
-| `us:republican-party` | 1.13 | - | `us:abraham-lincoln` |
-| `us:us-dakota-war-of-1862` | 1.13 | - | `us:abraham-lincoln` |
-| `us:act-prohibiting-importation-of-slaves` | 1.12 | - | `us:thomas-jefferson` |
-| `us:common-sense` | 1.12 | - | `us:declaration-of-independence` |
-| `us:declaration-of-sentiments` | 1.12 | - | `us:declaration-of-independence` |
-| `us:dunmores-proclamation` | 1.12 | - | `us:declaration-of-independence` |
-| `us:election-of-1800` | 1.12 | - | `us:thomas-jefferson` |
-| `us:embargo-act-of-1807` | 1.12 | - | `us:thomas-jefferson` |
-| `us:founding-documents-of-the-united-states` | 1.12 | - | `us:declaration-of-independence` |
-| `us:john-hancock` | 1.12 | Person | `us:declaration-of-independence` |
-| `us:lee-resolution` | 1.12 | - | `us:declaration-of-independence` |
-| `us:sally-hemings` | 1.12 | - | `us:thomas-jefferson` |
-| `us:treaty-of-alliance-1778` | 1.12 | - | `us:declaration-of-independence` |
-| `us:united-states-secretary-of-state` | 1.12 | Office | `us:thomas-jefferson` |
-| `us:university-of-virginia` | 1.12 | - | `us:thomas-jefferson` |
-| `us:vice-presidency-of-the-united-states` | 1.12 | Office | `us:thomas-jefferson` |
-| `us:virginia-statute-for-religious-freedom` | 1.12 | - | `us:thomas-jefferson` |
+| `us:slavery-in-the-united-states` | 6.07 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:declaration-of-independence`, `us:thirteenth-amendment`, `us:thomas-jefferson` |
+| `us:emancipation-proclamation` | 4.99 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:thirteenth-amendment` |
+| `us:united-states-constitution` | 3.86 | Document | `us:declaration-of-independence`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:equal-protection` | 3.86 | Right | `us:brown-v-board-of-education`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| `us:fifteenth-amendment` | 2.76 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:united-states-congress` | 2.76 | Institution | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:gettysburg-address` | 2.73 | - | `us:abraham-lincoln`, `us:american-civil-war` |
+| `us:jim-crow-laws` | 2.73 | - | `us:brown-v-board-of-education`, `us:plessy-v-ferguson` |
+| `us:presidency-of-the-united-states` | 2.72 | Office | `us:abraham-lincoln`, `us:thomas-jefferson` |
+| `us:american-revolutionary-war` | 2.71 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
+| `us:louisiana-purchase` | 2.71 | - | `us:thomas-jefferson` |
+| `us:black-codes` | 2.26 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:reconstruction-amendments` | 2.26 | - | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:massive-resistance` | 2.23 | - | `us:brown-v-board-of-education` |
+| `us:presidents-of-the-united-states` | 2.22 | - | `us:abraham-lincoln`, `us:thomas-jefferson` |
+| `us:second-continental-congress` | 2.21 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
+| `us:dred-scott-v-sandford` | 1.63 | Document | `us:fourteenth-amendment` |
+| `us:due-process` | 1.63 | Right | `us:fourteenth-amendment` |
+| `us:abolitionism` | 1.63 | - | `us:thirteenth-amendment` |
+| `us:battle-of-gettysburg` | 1.62 | - | `us:american-civil-war` |
+| `us:house-of-representatives` | 1.61 | - | `us:abraham-lincoln` |
+| `us:mexican-american-war` | 1.61 | - | `us:abraham-lincoln` |
+| `us:civil-rights-movement` | 1.61 | - | `us:brown-v-board-of-education` |
+| `us:articles-of-confederation` | 1.61 | - | `us:declaration-of-independence` |
+| `us:frederick-douglass` | 1.61 | - | `us:declaration-of-independence` |
+| `us:independence-day` | 1.61 | - | `us:declaration-of-independence` |
+| `us:lewis-and-clark-expedition` | 1.61 | - | `us:thomas-jefferson` |
+| `us:thirteen-colonies` | 1.61 | - | `us:declaration-of-independence` |
+| `us:civil-rights-act-of-1866` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:elk-v-wilkins` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:incorporation-of-the-bill-of-rights` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:indian-citizenship-act-of-1924` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:john-bingham` | 1.13 | Person | `us:fourteenth-amendment` |
+| `us:joint-committee-on-reconstruction` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:minor-v-happersett` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:slaughter-house-cases` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:united-states-v-wong-kim-ark` | 1.13 | - | `us:fourteenth-amendment` |
+| `us:convict-leasing` | 1.13 | - | `us:thirteenth-amendment` |
+| `us:freedom-from-slavery-and-involuntary-servitude` | 1.13 | Right | `us:thirteenth-amendment` |
+| `us:battle-of-antietam` | 1.12 | - | `us:american-civil-war` |
+| `us:battle-of-fort-sumter` | 1.12 | - | `us:american-civil-war` |
+| `us:confederate-states-of-america` | 1.12 | - | `us:american-civil-war` |
+| `us:lost-cause` | 1.12 | - | `us:american-civil-war` |
+| `us:reconstruction-era` | 1.12 | - | `us:american-civil-war` |
+| `us:secession-crisis` | 1.12 | - | `us:american-civil-war` |
+| `us:siege-of-vicksburg` | 1.12 | - | `us:american-civil-war` |
+| `us:stand-watie` | 1.12 | - | `us:american-civil-war` |
+| `us:surrender-at-appomattox` | 1.12 | - | `us:american-civil-war` |
+| `us:united-states` | 1.12 | Place | `us:american-civil-war` |
+| `us:united-states-colored-troops` | 1.12 | - | `us:american-civil-war` |
+| `us:wars-of-the-united-states` | 1.12 | - | `us:american-civil-war` |
+| `us:assassination-of-abraham-lincoln` | 1.11 | - | `us:abraham-lincoln` |
+| `us:black-hawk-war` | 1.11 | - | `us:abraham-lincoln` |
+| `us:republican-party` | 1.11 | - | `us:abraham-lincoln` |
+| `us:us-dakota-war-of-1862` | 1.11 | - | `us:abraham-lincoln` |
+| `us:bolling-v-sharpe` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:earl-warren` | 1.11 | Person | `us:brown-v-board-of-education` |
+| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:naacp-legal-defense-and-educational-fund` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:school-desegregation-in-the-united-states` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:southern-manifesto` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:thurgood-marshall` | 1.11 | - | `us:brown-v-board-of-education` |
+| `us:civil-rights-cases` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:comite-des-citoyens` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:henry-billings-brown` | 1.11 | Person | `us:plessy-v-ferguson` |
+| `us:homer-plessy` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:john-marshall-harlan` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:racial-segregation-in-the-united-states` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:separate-car-act` | 1.11 | - | `us:plessy-v-ferguson` |
+| `us:act-prohibiting-importation-of-slaves` | 1.11 | - | `us:thomas-jefferson` |
+| `us:common-sense` | 1.11 | - | `us:declaration-of-independence` |
+| `us:declaration-of-sentiments` | 1.11 | - | `us:declaration-of-independence` |
+| `us:dunmores-proclamation` | 1.11 | - | `us:declaration-of-independence` |
+| `us:election-of-1800` | 1.11 | - | `us:thomas-jefferson` |
+| `us:embargo-act-of-1807` | 1.11 | - | `us:thomas-jefferson` |
+| `us:founding-documents-of-the-united-states` | 1.11 | - | `us:declaration-of-independence` |
+| `us:john-hancock` | 1.11 | Person | `us:declaration-of-independence` |
+| `us:lee-resolution` | 1.11 | - | `us:declaration-of-independence` |
+| `us:sally-hemings` | 1.11 | - | `us:thomas-jefferson` |
+| `us:treaty-of-alliance-1778` | 1.11 | - | `us:declaration-of-independence` |
+| `us:united-states-secretary-of-state` | 1.11 | Office | `us:thomas-jefferson` |
+| `us:university-of-virginia` | 1.11 | - | `us:thomas-jefferson` |
+| `us:vice-presidency-of-the-united-states` | 1.11 | Office | `us:thomas-jefferson` |
+| `us:virginia-statute-for-religious-freedom` | 1.11 | - | `us:thomas-jefferson` |

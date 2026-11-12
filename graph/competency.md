@@ -26,6 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
+| `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:plessy-v-ferguson` | 1 | jim-crow-laws |
@@ -43,6 +44,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | node | status | challenger |
 |---|---|---|
 | `us:abraham-lincoln` | interpretive |  |
+| `us:american-civil-war` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 
 ## Places with nothing tied to them (gap)

@@ -161,6 +161,193 @@
   ]
  },
  {
+  "id": "us:american-civil-war",
+  "title": "American Civil War",
+  "aliases": [
+   "Civil War",
+   "U.S. Civil War",
+   "War of the Rebellion",
+   "War Between the States"
+  ],
+  "type": "Conflict",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/civil-war-and-reconstruction/american-civil-war.md",
+  "created": "2026-11-12",
+  "summary": "The war of 1861–1865 between the United States and eleven slaveholding Southern states that seceded to form the Confederacy; it preserved the Union and destroyed slavery at a cost of roughly 750,000 lives.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:wars-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:confederate-states-of-america"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:secession-crisis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-fort-sumter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-antietam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-gettysburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-vicksburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:surrender-at-appomattox"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gettysburg-address"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lost-cause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stand-watie"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:emancipation-proclamation",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:thirteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:reconstruction-era",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1861-04-12",
+  "end": "1865-04-09",
+  "review": [
+   {
+    "question": "Why did Deep South states secede after the 1860 election, before Lincoln had taken office?",
+    "answer": "They saw the victory of a party opposed to slavery's expansion as a threat to slavery itself. Mississippi's declaration said its position was thoroughly identified with slavery, and South Carolina's centered on Northern refusal to return fugitives from slavery."
+   },
+   {
+    "question": "How did enslaved people help turn a war for the Union into a war against slavery?",
+    "answer": "By fleeing to Union lines from 1861 on, they forced the army and Congress to decide their status, which led to contraband policy, the Confiscation Acts, abolition in Washington, D.C., the Emancipation Proclamation, and the enlistment of about 179,000 Black soldiers."
+   },
+   {
+    "question": "Why do historians now cite about 750,000 deaths instead of the long-used 620,000?",
+    "answer": "J. David Hacker compared census survival rates for 1860–1870 with the decades before and after, and the shortfall pointed to about 750,000 deaths (range 650,000–850,000), since earlier counts relied on incomplete military records."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1860-12-20",
+    "event": "A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election."
+   },
+   {
+    "date": "1861-02-04",
+    "event": "Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president."
+   },
+   {
+    "date": "1861-04-12",
+    "event": "Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers."
+   },
+   {
+    "date": "1861-05",
+    "event": "At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as \"contraband of war.\""
+   },
+   {
+    "date": "1862-04",
+    "event": "Congress abolishes slavery in the District of Columbia."
+   },
+   {
+    "date": "1862-09-17",
+    "event": "The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation."
+   },
+   {
+    "date": "1863-01-01",
+    "event": "The Emancipation Proclamation takes effect in areas under Confederate control."
+   },
+   {
+    "date": "1863-05",
+    "event": "The War Department creates the Bureau of Colored Troops to organize Black regiments."
+   },
+   {
+    "date": "1863-07-03",
+    "event": "Pickett's Charge fails, ending the three-day Battle of Gettysburg."
+   },
+   {
+    "date": "1863-07-04",
+    "event": "Vicksburg surrenders to Ulysses S. Grant, splitting the Confederacy in two."
+   },
+   {
+    "date": "1864-06",
+    "event": "Congress grants Black soldiers pay equal to white soldiers, retroactively."
+   },
+   {
+    "date": "1864-09-02",
+    "event": "William T. Sherman's army captures Atlanta before marching to the sea."
+   },
+   {
+    "date": "1865-04-09",
+    "event": "Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox."
+   }
+  ],
+  "misconception": {
+   "myth": "The Civil War was fought over states' rights or tariffs, not slavery.",
+   "fact": "The seceding states said otherwise at the time. Mississippi declared its position \"thoroughly identified with the institution of slavery,\" South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery.",
+   "why": "The postwar \"Lost Cause\" story recast secession as a defense of constitutional principle. Believing it hides what the war was about and why emancipation and the Reconstruction amendments followed from it."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/text/?p=90",
+   "https://avalon.law.yale.edu/19th_century/csa_missec.asp",
+   "https://www.nps.gov/articles/confronting-slavery-and-revealing-the-lost-cause.htm",
+   "https://www.archives.gov/publications/prologue/2015/spring/cw-surrenders.html",
+   "https://www.archives.gov/education/lessons/blacks-civil-war",
+   "https://discovere.binghamton.edu/news/civilwar-3826.html",
+   "https://www.digitalhistory.uh.edu/teachers/modules/civwar/historiography.cfm"
+  ]
+ },
+ {
   "id": "us:brown-v-board-of-education",
   "title": "Brown v. Board of Education",
   "aliases": [

@@ -4,6 +4,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## civil-war-and-reconstruction
 
+### [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| The Civil War was fought over states' rights or tariffs, not slavery. | The seceding states said otherwise at the time. Mississippi declared its position "thoroughly identified with the institution of slavery," South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery. |
+
+**Why it matters:** The postwar "Lost Cause" story recast secession as a defense of constitutional principle. Believing it hides what the war was about and why emancipation and the Reconstruction amendments followed from it.
+
+- **Q:** Why did Deep South states secede after the 1860 election, before Lincoln had taken office?
+  **A:** They saw the victory of a party opposed to slavery's expansion as a threat to slavery itself. Mississippi's declaration said its position was thoroughly identified with slavery, and South Carolina's centered on Northern refusal to return fugitives from slavery.
+- **Q:** How did enslaved people help turn a war for the Union into a war against slavery?
+  **A:** By fleeing to Union lines from 1861 on, they forced the army and Congress to decide their status, which led to contraband policy, the Confiscation Acts, abolition in Washington, D.C., the Emancipation Proclamation, and the enlistment of about 179,000 Black soldiers.
+- **Q:** Why do historians now cite about 750,000 deaths instead of the long-used 620,000?
+  **A:** J. David Hacker compared census survival rates for 1860–1870 with the decades before and after, and the shortfall pointed to about 750,000 deaths (range 650,000–850,000), since earlier counts relied on incomplete military records.
+
 ### [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) — Law
 
 | Myth | Fact |
