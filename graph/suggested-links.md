@@ -4,15 +4,20 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 3.51 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 1.53 | `us:declaration-of-independence` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
-| 0.91 | `us:declaration-of-independence` | `us:fourteenth-amendment` | `us:united-states-constitution` |
+| 3.44 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.28 | `us:constitutional-convention` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
+| 1.28 | `us:declaration-of-independence` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
+| 0.91 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:slavery-in-the-united-states` |
 | 0.73 | `us:brown-v-board-of-education` | `us:thirteenth-amendment` | `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 0.72 | `us:constitutional-convention` | `us:fourteenth-amendment` | `us:united-states-constitution` |
+| 0.72 | `us:declaration-of-independence` | `us:fourteenth-amendment` | `us:united-states-constitution` |
 | 0.72 | `us:abraham-lincoln` | `us:fourteenth-amendment` | `us:american-civil-war`, `us:thirteenth-amendment` |
 | 0.71 | `us:american-civil-war` | `us:plessy-v-ferguson` | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| 0.62 | `us:abraham-lincoln` | `us:declaration-of-independence` | `us:slavery-in-the-united-states` |
-| 0.62 | `us:american-civil-war` | `us:declaration-of-independence` | `us:slavery-in-the-united-states` |
-| 0.62 | `us:american-civil-war` | `us:thomas-jefferson` | `us:slavery-in-the-united-states` |
-| 0.62 | `us:thirteenth-amendment` | `us:thomas-jefferson` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:abraham-lincoln` | `us:constitutional-convention` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:abraham-lincoln` | `us:declaration-of-independence` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:american-civil-war` | `us:constitutional-convention` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:american-civil-war` | `us:declaration-of-independence` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:american-civil-war` | `us:thomas-jefferson` | `us:slavery-in-the-united-states` |
+| 0.56 | `us:thirteenth-amendment` | `us:thomas-jefferson` | `us:slavery-in-the-united-states` |
 | 0.38 | `us:abraham-lincoln` | `us:plessy-v-ferguson` | `us:thirteenth-amendment` |
 | 0.33 | `us:american-civil-war` | `us:brown-v-board-of-education` | `us:fourteenth-amendment` |

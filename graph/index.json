@@ -515,6 +515,190 @@
   ]
  },
  {
+  "id": "us:constitutional-convention",
+  "title": "Constitutional Convention",
+  "aliases": [
+   "Federal Convention",
+   "Philadelphia Convention",
+   "Convention of 1787",
+   "Grand Convention"
+  ],
+  "type": "Event",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/constitution-and-government/constitutional-convention.md",
+  "created": "2026-11-12",
+  "summary": "The meeting of delegates from twelve states in Philadelphia from May 25 to September 17, 1787, that was called to revise the Articles of Confederation and instead drafted the United States Constitution.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:confederation-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-plan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-compromise"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ratification-of-the-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:independence-hall",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:george-washington",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:ratification-of-the-constitution",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1787-05-25",
+  "end": "1787-09-17",
+  "review": [
+   {
+    "question": "Why did the convention end up writing a whole new constitution when Congress had asked only for revisions?",
+    "answer": "Many delegates believed the Articles left the central government too weak; Randolph's Virginia Plan on May 29 proposed a new national legislature, executive and judiciary, and by mid-June the delegates had accepted that they were drafting a new frame of government rather than amending the old one."
+   },
+   {
+    "question": "How did the Great Compromise settle the quarrel between large and small states?",
+    "answer": "It gave the House of Representatives seats in proportion to each state's population and gave every state equal representation in the Senate; it passed on July 16, 1787, by a single state's margin."
+   },
+   {
+    "question": "How did the convention's decisions strengthen slaveholding states?",
+    "answer": "Counting three-fifths of enslaved people added to slave states' seats in the House and, through the electoral college, their weight in presidential elections; the convention also barred Congress from ending the Atlantic slave trade before 1808 and added a fugitive slave clause."
+   },
+   {
+    "question": "Why do historians disagree about whether the Constitution was a proslavery document?",
+    "answer": "Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-02-21",
+    "event": "The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation."
+   },
+   {
+    "date": "1787-05-14",
+    "event": "The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day."
+   },
+   {
+    "date": "1787-05-25",
+    "event": "Seven states form a quorum and the delegates unanimously elect George Washington president of the convention."
+   },
+   {
+    "date": "1787-05-29",
+    "event": "Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret."
+   },
+   {
+    "date": "1787-06-11",
+    "event": "James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation."
+   },
+   {
+    "date": "1787-07-12",
+    "event": "The convention adopts the three-fifths rule, six states to two with two divided."
+   },
+   {
+    "date": "1787-07-16",
+    "event": "The Great (Connecticut) Compromise passes by a margin of one state."
+   },
+   {
+    "date": "1787-08",
+    "event": "A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808."
+   },
+   {
+    "date": "1787-09-17",
+    "event": "Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse."
+   },
+   {
+    "date": "1787-09-28",
+    "event": "Congress unanimously resolves to send the Constitution to the states for ratifying conventions."
+   },
+   {
+    "date": "1787-12-07",
+    "event": "Delaware becomes the first state to ratify."
+   },
+   {
+    "date": "1788-06-21",
+    "event": "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect."
+   }
+  ],
+  "misconception": {
+   "myth": "The delegates were sent to Philadelphia to write a new constitution.",
+   "fact": "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it.",
+   "why": "Because the convention's product replaced the Articles completely and is commemorated on September 17, it is easy to assume a new constitution was the assignment from the start, which hides how bold, and how contested, the delegates' decision was."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/constitution",
+   "https://csac.history.wisc.edu/wp-content/uploads/sites/281/2024/04/DC2-01-01-10_Confederation-Congress-Calls-Constitutional-Convention_21Feb87.pdf",
+   "https://www.nps.gov/articles/constitutionalconvention-may25.htm",
+   "https://avalon.law.yale.edu/18th_century/debates_529.asp",
+   "https://www.senate.gov/about/origins-foundations/senate-and-constitution/great-compromise.htm",
+   "https://philadelphiaencyclopedia.org/essays/constitutional-convention/",
+   "https://www.archives.gov/publications/prologue/2000/winter/garrisons-constitution-1",
+   "https://www.nybooks.com/articles/2019/06/06/how-proslavery-was-the-constitution/",
+   "https://www.nps.gov/articles/000/constitutionalconvention-september17.htm",
+   "https://www.nps.gov/inde/learn/historyculture/to-the-congress-and-the-people-of-the-states.htm"
+  ]
+ },
+ {
   "id": "us:declaration-of-independence",
   "title": "Declaration of Independence",
   "aliases": [

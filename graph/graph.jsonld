@@ -422,6 +422,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it.",
+   "uso:myth": "The delegates were sent to Philadelphia to write a new constitution.",
+   "uso:why": "Because the convention's product replaced the Articles completely and is commemorated on September 17, it is easy to assume a new constitution was the assignment from the start, which hides how bold, and how contested, the delegates' decision was."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the convention end up writing a whole new constitution when Congress had asked only for revisions?",
+   "uso:answer": "Many delegates believed the Articles left the central government too weak; Randolph's Virginia Plan on May 29 proposed a new national legislature, executive and judiciary, and by mid-June the delegates had accepted that they were drafting a new frame of government rather than amending the old one.",
+   "uso:questionFor": {
+    "@id": "us:constitutional-convention"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Great Compromise settle the quarrel between large and small states?",
+   "uso:answer": "It gave the House of Representatives seats in proportion to each state's population and gave every state equal representation in the Senate; it passed on July 16, 1787, by a single state's margin.",
+   "uso:questionFor": {
+    "@id": "us:constitutional-convention"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the convention's decisions strengthen slaveholding states?",
+   "uso:answer": "Counting three-fifths of enslaved people added to slave states' seats in the House and, through the electoral college, their weight in presidential elections; the convention also barred Congress from ending the Atlantic slave trade before 1808 and added a fugitive slave clause.",
+   "uso:questionFor": {
+    "@id": "us:constitutional-convention"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about whether the Constitution was a proslavery document?",
+   "uso:answer": "Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.",
+   "uso:questionFor": {
+    "@id": "us:constitutional-convention"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-02-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress unanimously resolves to send the Constitution to the states for ratifying conventions.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-09-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delaware becomes the first state to ratify.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-06-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Seven states form a quorum and the delegates unanimously elect George Washington president of the convention.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The convention adopts the three-fifths rule, six states to two with two divided.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-07-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Great (Connecticut) Compromise passes by a margin of one state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-07-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1787-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777.",
@@ -1309,6 +1460,146 @@
    "dcterms:title": "The Southern Manifesto of 1956",
    "schema:url": {
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "The Constitution of the United States",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/constitution"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "To the Congress and the People of the States",
+   "schema:url": {
+    "@id": "https://www.nps.gov/inde/learn/historyculture/to-the-congress-and-the-people-of-the-states.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison (The Documentary History of the Ratification of the Constitution)",
+   "dcterms:title": "Confederation Congress Calls Constitutional Convention, 21 February 1787",
+   "schema:url": {
+    "@id": "https://csac.history.wisc.edu/wp-content/uploads/sites/281/2024/04/DC2-01-01-10_Confederation-Congress-Calls-Constitutional-Convention_21Feb87.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "May 25, 1787: The Convention Opens",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/constitutionalconvention-may25.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Madison Debates, May 29, 1787",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/debates_529.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "A Great Compromise",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/great-compromise.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Stuart Leibiger, The Encyclopedia of Greater Philadelphia (Rutgers University–Camden)",
+   "dcterms:title": "Constitutional Convention of 1787",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/constitutional-convention/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Paul Finkelman, Prologue Magazine, vol. 32, no. 4 (National Archives, Winter 2000)",
+   "dcterms:title": "Garrison's Constitution: The Covenant with Death and How It Was Made",
+   "schema:url": {
+    "@id": "https://www.archives.gov/publications/prologue/2000/winter/garrisons-constitution-1"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "Nicholas Guyatt, The New York Review of Books (June 6, 2019)",
+   "dcterms:title": "How Proslavery Was the Constitution?",
+   "schema:url": {
+    "@id": "https://www.nybooks.com/articles/2019/06/06/how-proslavery-was-the-constitution/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "September 17, 1787: The Constitution Is Signed",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/constitutionalconvention-september17.htm"
    },
    "uso:sourceType": "government"
   },
@@ -2711,6 +3002,166 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:constitutional-convention",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-12"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9"
+    }
+   ],
+   "rdfs:label": "Constitutional Convention",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1787-05-25"
+   },
+   "skos:altLabel": [
+    "Convention of 1787",
+    "Federal Convention",
+    "Grand Convention",
+    "Philadelphia Convention"
+   ],
+   "skos:broader": {
+    "@id": "us:confederation-period"
+   },
+   "skos:definition": "The meeting of delegates from twelve states in Philadelphia from May 25 to September 17, 1787, that was called to revise the Articles of Confederation and instead drafted the United States Constitution.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "Constitutional Convention",
+   "skos:related": [
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:great-compromise"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:ratification-of-the-constitution"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    },
+    {
+     "@id": "us:virginia-plan"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:domain": "constitution-and-government",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/constitution-and-government/constitutional-convention.md",
+   "uso:ledBy": {
+    "@id": "us:george-washington"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:ratification-of-the-constitution"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:independence-hall"
+   },
+   "uso:requires": {
+    "@id": "us:articles-of-confederation"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9"
     }
    ]
   },

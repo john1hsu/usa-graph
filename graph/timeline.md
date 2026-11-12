@@ -22,6 +22,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-05-14 | The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-05-25 – 1787-09-17 | **[Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md)** (Event) |
+| 1787-05-25 | Seven states form a quorum and the delegates unanimously elect George Washington president of the convention. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-05-29 | Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-06-11 | James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-07-12 | The convention adopts the three-fifths rule, six states to two with two divided. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-07-16 | The Great (Connecticut) Compromise passes by a margin of one state. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-08 | A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-09-17 | Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-09-28 | Congress unanimously resolves to send the Constitution to the states for ratifying conventions. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-12-07 | Delaware becomes the first state to ratify. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |

@@ -307,6 +307,118 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://schema.org/startDate> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The delegates were sent to Philadelphia to write a new constitution." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because the convention's product replaced the Articles completely and is commemorated on September 17, it is easy to assume a new constitution was the assignment from the start, which hides how bold, and how contested, the delegates' decision was." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the convention end up writing a whole new constitution when Congress had asked only for revisions?" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many delegates believed the Articles left the central government too weak; Randolph's Virginia Plan on May 29 proposed a new national legislature, executive and judiciary, and by mid-June the delegates had accepted that they were drafting a new frame of government rather than amending the old one." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Great Compromise settle the quarrel between large and small states?" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It gave the House of Representatives seats in proportion to each state's population and gave every state equal representation in the Senate; it passed on July 16, 1787, by a single state's margin." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the convention's decisions strengthen slaveholding states?" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Counting three-fifths of enslaved people added to slave states' seats in the House and, through the electoral college, their weight in presidential elections; the convention also barred Congress from ending the Atlantic slave trade before 1808 and added a fugitive slave clause." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about whether the Constitution was a proslavery document?" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Congress unanimously resolves to send the Constitution to the states for ratifying conventions." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Delaware becomes the first state to ratify." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-02-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Seven states form a quorum and the delegates unanimously elect George Washington president of the convention." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The convention adopts the three-fifths rule, six states to two with two divided." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-07-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Great (Connecticut) Compromise passes by a margin of one state." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2000/01/rdf-schema#label> "Constitutional Convention" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#altLabel> "Convention of 1787" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#altLabel> "Federal Convention" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#altLabel> "Grand Convention" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#altLabel> "Philadelphia Convention" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#definition> "The meeting of delegates from twelve states in Philadelphia from May 25 to September 17, 1787, that was called to revise the Articles of Confederation and instead drafted the United States Constitution." .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#prefLabel> "Constitutional Convention" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-compromise> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-plan> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/constitutional-convention.md" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/independence-hall> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://schema.org/endDate> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://schema.org/startDate> "1787-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777." .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The delegates signed the Declaration of Independence on July 4, 1776." .
@@ -819,6 +931,66 @@
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/title> "To the Congress and the People of the States" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <https://schema.org/url> <https://www.nps.gov/inde/learn/historyculture/to-the-congress-and-the-people-of-the-states.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <http://purl.org/dc/terms/title> "The Constitution of the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/constitution> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <http://purl.org/dc/terms/publisher> "Center for the Study of the American Constitution, University of Wisconsin–Madison (The Documentary History of the Ratification of the Constitution)" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <http://purl.org/dc/terms/title> "Confederation Congress Calls Constitutional Convention, 21 February 1787" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s2> <https://schema.org/url> <https://csac.history.wisc.edu/wp-content/uploads/sites/281/2024/04/DC2-01-01-10_Confederation-Congress-Calls-Constitutional-Convention_21Feb87.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <http://purl.org/dc/terms/title> "May 25, 1787: The Convention Opens" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s3> <https://schema.org/url> <https://www.nps.gov/articles/constitutionalconvention-may25.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <http://purl.org/dc/terms/title> "Madison Debates, May 29, 1787" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s4> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/debates_529.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <http://purl.org/dc/terms/title> "A Great Compromise" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s5> <https://schema.org/url> <https://www.senate.gov/about/origins-foundations/senate-and-constitution/great-compromise.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <http://purl.org/dc/terms/publisher> "Stuart Leibiger, The Encyclopedia of Greater Philadelphia (Rutgers University–Camden)" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <http://purl.org/dc/terms/title> "Constitutional Convention of 1787" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s6> <https://schema.org/url> <https://philadelphiaencyclopedia.org/essays/constitutional-convention/> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <http://purl.org/dc/terms/publisher> "Paul Finkelman, Prologue Magazine, vol. 32, no. 4 (National Archives, Winter 2000)" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <http://purl.org/dc/terms/title> "Garrison's Constitution: The Covenant with Death and How It Was Made" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s7> <https://schema.org/url> <https://www.archives.gov/publications/prologue/2000/winter/garrisons-constitution-1> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <http://purl.org/dc/terms/publisher> "Nicholas Guyatt, The New York Review of Books (June 6, 2019)" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <http://purl.org/dc/terms/title> "How Proslavery Was the Constitution?" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> <https://schema.org/url> <https://www.nybooks.com/articles/2019/06/06/how-proslavery-was-the-constitution/> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://purl.org/dc/terms/title> "September 17, 1787: The Constitution Is Signed" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/constitutionalconvention-september17.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s1> <http://purl.org/dc/terms/title> "Declaration of Independence (1776)" .

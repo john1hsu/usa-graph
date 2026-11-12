@@ -70,6 +70,25 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did later reformers use the Declaration's language?
   **A:** The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed.
 
+## constitution-and-government
+
+### [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The delegates were sent to Philadelphia to write a new constitution. | Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it. |
+
+**Why it matters:** Because the convention's product replaced the Articles completely and is commemorated on September 17, it is easy to assume a new constitution was the assignment from the start, which hides how bold, and how contested, the delegates' decision was.
+
+- **Q:** Why did the convention end up writing a whole new constitution when Congress had asked only for revisions?
+  **A:** Many delegates believed the Articles left the central government too weak; Randolph's Virginia Plan on May 29 proposed a new national legislature, executive and judiciary, and by mid-June the delegates had accepted that they were drafting a new frame of government rather than amending the old one.
+- **Q:** How did the Great Compromise settle the quarrel between large and small states?
+  **A:** It gave the House of Representatives seats in proportion to each state's population and gave every state equal representation in the Senate; it passed on July 16, 1787, by a single state's margin.
+- **Q:** How did the convention's decisions strengthen slaveholding states?
+  **A:** Counting three-fifths of enslaved people added to slave states' seats in the House and, through the electoral college, their weight in presidential elections; the convention also barred Congress from ending the Atlantic slave trade before 1808 and added a fugitive slave clause.
+- **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
+  **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
+
 ## gilded-age-and-progressive-era
 
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase
