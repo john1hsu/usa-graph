@@ -115,4 +115,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |
+| 2001-09-11 | Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-09-18 | President George W. Bush signs the Authorization for Use of Military Force against those responsible. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-10 | Bush signs the USA PATRIOT Act, expanding surveillance and security powers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-10-07 | U.S. air strikes against Taliban and al Qaeda targets in Afghanistan begin Operation Enduring Freedom. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2002-05-30 | The recovery effort at Ground Zero formally ends with the removal of the Last Column. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2003-03-01 | The Department of Homeland Security opens, combining parts or all of 22 federal agencies. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |

@@ -1230,6 +1230,192 @@
   ]
  },
  {
+  "id": "us:september-11-attacks",
+  "title": "September 11 attacks",
+  "aliases": [
+   "9/11",
+   "9-11",
+   "September 11",
+   "2001 attacks",
+   "Nine-eleven"
+  ],
+  "type": "Event",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/contemporary-america/september-11-attacks.md",
+  "created": "2026-11-12",
+  "summary": "The coordinated al Qaeda terrorist attacks of September 11, 2001, in which 19 hijackers seized four U.S. airliners and crashed them into the World Trade Center in New York City, the Pentagon in Virginia and a field in Somerset County, Pennsylvania, killing nearly 3,000 people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:terrorism-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:al-qaeda"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:osama-bin-laden"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-w-bush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-on-terror"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:iraq-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:transportation-security-administration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-september-11-memorial-and-museum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flight-93-national-memorial"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:september-11-conspiracy-theories"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:world-trade-center",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:the-pentagon",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:somerset-county-pennsylvania",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:war-in-afghanistan",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:usa-patriot-act",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:department-of-homeland-security",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:national-commission-on-terrorist-attacks-upon-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "2001-09-11",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the 9/11 Commission call imagination the most important failure before the attacks?",
+    "answer": "Officials had warnings about al Qaeda and earlier attacks such as the 1998 embassy bombings and the 2000 USS Cole attack, but no one treated the use of hijacked airliners as weapons as a real threat; the Commission found that U.S. measures between 1998 and 2001 never disturbed or delayed the plot."
+   },
+   {
+    "question": "How did the actions of the people aboard United 93 change the outcome of the attacks?",
+    "answer": "After learning by phone of the other hijackings, the passengers and crew voted to fight back and forced the plane down in a Pennsylvania field about 20 minutes' flying time from Washington, so it never reached its probable target, the U.S. Capitol or the White House."
+   },
+   {
+    "question": "How did the attacks reshape the federal government at home?",
+    "answer": "Within weeks the president created a White House Office of Homeland Security, Congress passed the USA PATRIOT Act and created the TSA in 2001, and the Homeland Security Act of 2002 merged 22 agencies into a new Cabinet department; the 9/11 Commission's 2004 report then led to proposals such as a National Counterterrorism Center and a national intelligence director."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1999",
+    "event": "Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999)."
+   },
+   {
+    "date": "2001-07",
+    "event": "By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States."
+   },
+   {
+    "date": "2001-09-11",
+    "event": "Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt."
+   },
+   {
+    "date": "2001-09-18",
+    "event": "President George W. Bush signs the Authorization for Use of Military Force against those responsible."
+   },
+   {
+    "date": "2001-10",
+    "event": "Bush signs the USA PATRIOT Act, expanding surveillance and security powers."
+   },
+   {
+    "date": "2001-10-07",
+    "event": "U.S. air strikes against Taliban and al Qaeda targets in Afghanistan begin Operation Enduring Freedom."
+   },
+   {
+    "date": "2002-05-30",
+    "event": "The recovery effort at Ground Zero formally ends with the removal of the Last Column."
+   },
+   {
+    "date": "2003-03-01",
+    "event": "The Department of Homeland Security opens, combining parts or all of 22 federal agencies."
+   },
+   {
+    "date": "2004",
+    "event": "The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004."
+   },
+   {
+    "date": "2005-10-26",
+    "event": "NIST issues its final report on the collapse of the Twin Towers."
+   },
+   {
+    "date": "2011-09-12",
+    "event": "The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary."
+   }
+  ],
+  "misconception": {
+   "myth": "The Twin Towers were brought down by a planned controlled demolition using explosives or thermite rather than by the hijacked planes.",
+   "fact": "The federal engineering investigation by NIST found that the impacts severed columns and stripped fireproofing, and that multi-floor fires weakened floors that pulled the perimeter columns inward until they failed; it found no corroborating evidence for explosives, and seismic signals came from falling debris after each collapse began.",
+   "why": "The towers' sudden, total collapse was unprecedented and hard to grasp, and demolition stories replace a documented chain of failures and warnings with a hidden plot that the engineering and investigative record does not support."
+  },
+  "source_urls": [
+   "https://9-11commission.gov/report/911Report_Exec.htm",
+   "https://www.fbi.gov/history/famous-cases/911-investigation",
+   "https://www.nist.gov/el/faqs-nist-wtc-towers-investigation",
+   "https://home.nps.gov/flni/learn/historyculture/flight93story.htm",
+   "https://www.911memorial.org/sites/default/files/inline-files/Institutional%20Backgrounder%20Sept%202026.pdf",
+   "https://www.dhs.gov/creation-department-homeland-security",
+   "https://millercenter.org/president/gwbush/foreign-affairs",
+   "https://openstax.org/books/us-history/pages/32-1-the-war-on-terror",
+   "https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0"
+  ]
+ },
+ {
   "id": "us:thirteenth-amendment",
   "title": "Thirteenth Amendment",
   "aliases": [

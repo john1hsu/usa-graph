@@ -89,6 +89,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+## contemporary-america
+
+### [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Twin Towers were brought down by a planned controlled demolition using explosives or thermite rather than by the hijacked planes. | The federal engineering investigation by NIST found that the impacts severed columns and stripped fireproofing, and that multi-floor fires weakened floors that pulled the perimeter columns inward until they failed; it found no corroborating evidence for explosives, and seismic signals came from falling debris after each collapse began. |
+
+**Why it matters:** The towers' sudden, total collapse was unprecedented and hard to grasp, and demolition stories replace a documented chain of failures and warnings with a hidden plot that the engineering and investigative record does not support.
+
+- **Q:** Why did the 9/11 Commission call imagination the most important failure before the attacks?
+  **A:** Officials had warnings about al Qaeda and earlier attacks such as the 1998 embassy bombings and the 2000 USS Cole attack, but no one treated the use of hijacked airliners as weapons as a real threat; the Commission found that U.S. measures between 1998 and 2001 never disturbed or delayed the plot.
+- **Q:** How did the actions of the people aboard United 93 change the outcome of the attacks?
+  **A:** After learning by phone of the other hijackings, the passengers and crew voted to fight back and forced the plane down in a Pennsylvania field about 20 minutes' flying time from Washington, so it never reached its probable target, the U.S. Capitol or the White House.
+- **Q:** How did the attacks reshape the federal government at home?
+  **A:** Within weeks the president created a White House Office of Homeland Security, Congress passed the USA PATRIOT Act and created the TSA in 2001, and the Homeland Security Act of 2002 merged 22 agencies into a new Cabinet department; the 9/11 Commission's 2004 report then led to proposals such as a National Counterterrorism Center and a national intelligence director.
+
 ## gilded-age-and-progressive-era
 
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase

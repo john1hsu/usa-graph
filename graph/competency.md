@@ -26,6 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
+| `us:september-11-attacks` | 4 | department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act, war-in-afghanistan |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:constitutional-convention` | 3 | ratification-of-the-constitution, slavery-in-the-united-states, united-states-constitution |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
@@ -59,7 +60,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:september-11-attacks` |
 
 ## People with no recorded role (gap)
 

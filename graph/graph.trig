@@ -55,6 +55,18 @@
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/september-11-attacks.md" .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> .
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/gilded-age-and-progressive-era/plessy-v-ferguson.md" .
@@ -864,6 +876,167 @@
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/constitutionalconvention-september17.htm> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> {
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The federal engineering investigation by NIST found that the impacts severed columns and stripped fireproofing, and that multi-floor fires weakened floors that pulled the perimeter columns inward until they failed; it found no corroborating evidence for explosives, and seismic signals came from falling debris after each collapse began." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Twin Towers were brought down by a planned controlled demolition using explosives or thermite rather than by the hijacked planes." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The towers' sudden, total collapse was unprecedented and hard to grasp, and demolition stories replace a documented chain of failures and warnings with a hidden plot that the engineering and investigative record does not support." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the 9/11 Commission call imagination the most important failure before the attacks?" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Officials had warnings about al Qaeda and earlier attacks such as the 1998 embassy bombings and the 2000 USS Cole attack, but no one treated the use of hijacked airliners as weapons as a real threat; the Commission found that U.S. measures between 1998 and 2001 never disturbed or delayed the plot." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the actions of the people aboard United 93 change the outcome of the attacks?" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "After learning by phone of the other hijackings, the passengers and crew voted to fight back and forced the plane down in a Pennsylvania field about 20 minutes' flying time from Washington, so it never reached its probable target, the U.S. Capitol or the White House." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the attacks reshape the federal government at home?" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Within weeks the president created a White House Office of Homeland Security, Congress passed the USA PATRIOT Act and created the TSA in 2001, and the Homeland Security Act of 2002 merged 22 agencies into a new Cabinet department; the 9/11 Commission's 2004 report then led to proposals such as a National Counterterrorism Center and a national intelligence director." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "NIST issues its final report on the collapse of the Twin Towers." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2005-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2011-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999)." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "President George W. Bush signs the Authorization for Use of Military Force against those responsible." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Bush signs the USA PATRIOT Act, expanding surveillance and security powers." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. air strikes against Taliban and al Qaeda targets in Afghanistan begin Operation Enduring Freedom." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The recovery effort at Ground Zero formally ends with the removal of the Last Column." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Department of Homeland Security opens, combining parts or all of 22 federal agencies." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2003-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://purl.org/dc/terms/created> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2000/01/rdf-schema#label> "September 11 attacks" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#altLabel> "2001 attacks" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#altLabel> "9-11" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#altLabel> "9/11" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#altLabel> "Nine-eleven" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#altLabel> "September 11" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#definition> "The coordinated al Qaeda terrorist attacks of September 11, 2001, in which 19 hijackers seized four U.S. airliners and crashed them into the World Trade Center in New York City, the Pentagon in Virginia and a field in Somerset County, Pennsylvania, killing nearly 3,000 people." .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#prefLabel> "September 11 attacks" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/al-qaeda> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-w-bush> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/iraq-war> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-on-terror> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/september-11-attacks.md" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/the-pentagon> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/world-trade-center> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://schema.org/startDate> "2001-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/publisher> "National Commission on Terrorist Attacks Upon the United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/title> "Executive Summary, The 9/11 Commission Report" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <https://schema.org/url> <https://9-11commission.gov/report/911Report_Exec.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <http://purl.org/dc/terms/publisher> "Federal Bureau of Investigation (FBI History, Famous Cases)" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <http://purl.org/dc/terms/title> "9/11 Investigation" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s2> <https://schema.org/url> <https://www.fbi.gov/history/famous-cases/911-investigation> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <http://purl.org/dc/terms/title> "FAQs - NIST WTC Towers Investigation" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s3> <https://schema.org/url> <https://www.nist.gov/el/faqs-nist-wtc-towers-investigation> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Flight 93 National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <http://purl.org/dc/terms/title> "Flight 93 Story" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s4> <https://schema.org/url> <https://home.nps.gov/flni/learn/historyculture/flight93story.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <http://purl.org/dc/terms/publisher> "National September 11 Memorial & Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <http://purl.org/dc/terms/title> "Institutional Backgrounder (September 2026)" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s5> <https://schema.org/url> <https://www.911memorial.org/sites/default/files/inline-files/Institutional%20Backgrounder%20Sept%202026.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <http://purl.org/dc/terms/title> "Creation of the Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s6> <https://schema.org/url> <https://www.dhs.gov/creation-department-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <http://purl.org/dc/terms/title> "George W. Bush: Foreign Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> <https://schema.org/url> <https://millercenter.org/president/gwbush/foreign-affairs> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <http://purl.org/dc/terms/title> "32.1 The War on Terror" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> <https://schema.org/url> <https://openstax.org/books/us-history/pages/32-1-the-war-on-terror> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Civil Rights Division" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://purl.org/dc/terms/title> "Combating Post-9/11 Discriminatory Backlash" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://schema.org/url> <https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> {
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward." .
@@ -1602,6 +1775,7 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1712,6 +1886,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1738,6 +1913,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1772,6 +1948,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -1790,6 +1967,7 @@
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -1811,6 +1989,9 @@
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1860,6 +2041,25 @@
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -1872,9 +2072,17 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/surrender-at-appomattox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/the-pentagon> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1922,6 +2130,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1942,13 +2151,20 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/university-of-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
 }

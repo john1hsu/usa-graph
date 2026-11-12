@@ -5,6 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.44 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.44 | `us:american-civil-war` | `us:september-11-attacks` | `us:united-states` |
 | 1.28 | `us:constitutional-convention` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
 | 1.28 | `us:declaration-of-independence` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
 | 0.91 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:slavery-in-the-united-states` |
