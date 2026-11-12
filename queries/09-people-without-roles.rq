@@ -1,0 +1,13 @@
+# title: People with no recorded role
+# question: Which written people have no office held, event or movement taken part in, organisation founded or led, or text written?
+# gap: true
+SELECT ?person WHERE {
+  ?person uso:file ?f ; a uso:Person .
+  FILTER NOT EXISTS { ?person uso:heldOffice ?o }
+  FILTER NOT EXISTS { ?person uso:participatedIn ?e }
+  FILTER NOT EXISTS { ?person uso:founded ?x }
+  FILTER NOT EXISTS { ?person uso:led ?y }
+  FILTER NOT EXISTS { ?person uso:authored ?w }
+  FILTER NOT EXISTS { ?person uso:introduced ?i }
+  FILTER NOT EXISTS { ?person uso:signed ?s }
+} ORDER BY ?person

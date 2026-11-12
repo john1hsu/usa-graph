@@ -1,0 +1,7 @@
+# title: Rights with no protecting text
+# question: Which written rights have no amendment, law or court case in the graph that protects them?
+# gap: true
+SELECT ?right WHERE {
+  ?right uso:file ?f ; a uso:Right .
+  FILTER NOT EXISTS { ?right uso:protectedBy ?x }
+} ORDER BY ?right

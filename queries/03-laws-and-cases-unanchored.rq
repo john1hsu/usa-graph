@@ -1,0 +1,8 @@
+# title: Laws and court cases without their anchors
+# question: Which written laws have no enacting body, and which court cases have no text they interpret?
+# gap: true
+SELECT ?node ?missing WHERE {
+  { ?node uso:file ?f ; a uso:Law . FILTER NOT EXISTS { ?node uso:enactedBy ?b } BIND("enactedBy" AS ?missing) }
+  UNION
+  { ?node uso:file ?f ; a uso:CourtCase . FILTER NOT EXISTS { ?node uso:interprets ?t } BIND("interprets" AS ?missing) }
+} ORDER BY ?node

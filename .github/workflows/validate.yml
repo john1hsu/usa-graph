@@ -1,0 +1,22 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Unit and end-to-end tests
+        run: python -m pytest -q tests
+      - name: Validate, reason, SHACL, rebuild
+        run: python scripts/kg.py build
+      - name: Generated graph/ must be committed and up to date
+        run: git diff --exit-code -- graph/

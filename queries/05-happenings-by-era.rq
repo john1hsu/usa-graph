@@ -1,0 +1,7 @@
+# title: Happenings by era
+# question: For each era, which events, conflicts, laws and movements took place during it?
+# gap: false
+SELECT ?era ?node ?start WHERE {
+  ?node uso:occurredDuring ?era .
+  OPTIONAL { ?node schema:startDate ?start }
+} ORDER BY ?era ?start ?node

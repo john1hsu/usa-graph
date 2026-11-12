@@ -1,0 +1,58 @@
+# Settings for the GitHub Pages site built by site/build.py.
+title: USA Graph
+repo: john1hsu/usa-graph
+repo_url: https://github.com/john1hsu/usa-graph
+prefix: us
+headline: The United States, sourced and connected
+intro: >-
+  The land, Native nations, history, government, rights, people, economy and
+  culture of the United States of America, one evidence-checked article at a
+  time. Each article gives you the key dates, the myths worth unlearning,
+  questions to test yourself with, and the primary, official or scholarly
+  source behind every claim.
+search_example: Fourteenth Amendment
+tagline: A citation-backed knowledge graph of the United States of America — its land, peoples, history, government and culture.
+footer: A new article is researched, checked and added every hour.
+fonts_url: https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&family=Libre+Franklin:wght@400..700&display=swap
+evidence:
+  established: Well documented
+  interpretive: Interpretations differ
+  contested: Contested
+  myth: Myth
+  legal-text: Text of the law
+  statistical: Official statistics
+  tradition: Custom or folklore
+domains: {}
+theme:
+  font_body: "'Source Serif 4', Georgia, serif"
+  font_display: "'Libre Caslon Text', Georgia, serif"
+  font_ui: "'Libre Franklin', system-ui, sans-serif"
+  hue_start: 215
+  light:
+    paper: "#F7F4EC"
+    panel: "#FDFBF6"
+    ink: "#13203A"
+    ink-soft: "#2E3A52"
+    muted: "#5C6476"
+    rule: "#E1DCCF"
+    rule-strong: "#C3BBA8"
+    accent: "#1F4180"
+    accent-wash: "#DFE6F3"
+    warn: "#A3212E"
+    warn-wash: "#F4DDDD"
+    good: "#2F6B45"
+    good-wash: "#DCEADF"
+  dark:
+    paper: "#0F1420"
+    panel: "#171E2C"
+    ink: "#ECEEF3"
+    ink-soft: "#C9CEDA"
+    muted: "#8E96A8"
+    rule: "#253047"
+    rule-strong: "#3A4763"
+    accent: "#93B3EC"
+    accent-wash: "#1E2B45"
+    warn: "#F09A9F"
+    warn-wash: "#3A1E24"
+    good: "#93CFA6"
+    good-wash: "#1B3226"

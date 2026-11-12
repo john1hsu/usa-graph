@@ -1,0 +1,9 @@
+# title: Events and eras with no recorded consequences
+# question: Which written eras, events and conflicts have no ledTo edge saying what they led to?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node uso:file ?f ; a ?type .
+  VALUES ?type { uso:Era uso:Event uso:Conflict }
+  FILTER NOT EXISTS { ?node uso:ledTo ?x }
+  FILTER NOT EXISTS { ?node a ?sub . ?sub rdfs:subClassOf ?type . FILTER(?sub != ?type) }
+} ORDER BY ?node

@@ -1,0 +1,6 @@
+# title: What documents and laws established
+# question: Which institutions, offices, rights and principles did each document or law establish?
+# gap: false
+SELECT ?document ?established WHERE {
+  ?document uso:establishes ?established
+} ORDER BY ?document ?established

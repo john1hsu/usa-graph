@@ -1,0 +1,249 @@
+@prefix us:      <https://github.com/john1hsu/usa-graph/id/> .
+@prefix uso:     <https://github.com/john1hsu/usa-graph/ontology#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# =============================================================================
+# USA Graph ontology (OWL 2 RL profile)
+#
+#  * Every article is a node; its class comes from frontmatter `type`.
+#  * `broader` / `related`         -> skos:broader / skos:related
+#  * `relations[].predicate`       -> the typed object properties below
+#  * `requires`                    -> uso:requires (transitive; learning paths)
+#  * `start` / `end`               -> schema:startDate / schema:endDate
+#  * `timeline`                    -> uso:TimelineEntry nodes (date + what happened)
+#  * `misconception`               -> uso:Misconception (myth / fact / why)
+#  * `review`                      -> uso:ReviewQuestion nodes (question + answer)
+#  * provenance                    -> PROV-O; edge evidence -> RDF-star
+#
+# Property characteristics (inverse, symmetric, transitive) and class
+# disjointness drive OWL-RL reasoning and contradiction detection in
+# `scripts/kg.py build`. Domain/range is enforced for written targets.
+# Add a class or property here BEFORE using it. Reuse first.
+# =============================================================================
+
+uso: a owl:Ontology ;
+    rdfs:label "USA Graph ontology" ;
+    dcterms:description "Classes and typed relations for a citation-backed knowledge graph of the United States of America: its land and places, Native nations, history from the colonial era to today, the Constitution, government and law, rights, elections, people, economy, society, culture, science and national symbols." ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Upper classes ------------------------------------------------------------
+uso:Entity  a owl:Class ; rdfs:label "Entity" .
+uso:Concept a owl:Class ; rdfs:subClassOf uso:Entity , skos:Concept ; rdfs:label "Concept" ;
+    rdfs:comment "A general idea in American life and history: the American Dream, the frontier, westward expansion, sectionalism, the separation of church and state as an idea." .
+uso:Place a owl:Class ; rdfs:subClassOf uso:Entity , schema:Place ; rdfs:label "Place" .
+uso:Happening a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Happening" ;
+    rdfs:comment "Something that took place in time: an era, an event or a conflict." .
+
+# ---- Ideas, rules and rights --------------------------------------------------
+uso:Principle a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Principle / constitutional doctrine" ;
+    rdfs:comment "A principle of government or constitutional doctrine: separation of powers, checks and balances, federalism, judicial review, popular sovereignty, the rule of law." .
+uso:Right a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Right / civil liberty" ;
+    rdfs:comment "A right or civil liberty: freedom of speech, freedom of religion, the right to vote, due process, equal protection, the right to counsel." .
+uso:Policy a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Policy / program" ;
+    rdfs:comment "A government policy, doctrine or program: the New Deal, the Monroe Doctrine, containment, Social Security, the Interstate Highway System, Indian removal." .
+uso:Movement a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Movement" ;
+    rdfs:comment "A social, political, religious or cultural movement: abolitionism, women's suffrage, the labor movement, the civil rights movement, the Second Great Awakening." .
+uso:Tradition a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Cultural tradition / form" ;
+    rdfs:comment "A custom, holiday, art form, genre, sport or foodway: Thanksgiving, Independence Day, jazz, the blues, country music, baseball, barbecue." .
+uso:Symbol a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "National symbol" ;
+    rdfs:comment "A national or state symbol: the flag, the Great Seal, the bald eagle, the national anthem, the national motto, Uncle Sam." .
+uso:Industry a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Industry / economic sector" ;
+    rdfs:comment "A sector of the economy: agriculture, railroads, steel, automobiles, aerospace, the technology industry, finance." .
+uso:Interpretation a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Interpretation / thesis" ;
+    rdfs:comment "A historians' or scholars' interpretation: Turner's frontier thesis, the idea of American exceptionalism, the Lost Cause narrative as a historiographical object, consensus history." .
+uso:Myth a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Myth / misconception" ;
+    rdfs:comment "A widely repeated claim about American history or life that the evidence does not support: George Washington's wooden teeth, Betsy Ross sewing the first flag, Columbus proving the Earth was round." .
+uso:Field a owl:Class ; rdfs:subClassOf uso:Concept ; rdfs:label "Field" ;
+    rdfs:comment "A discipline that studies the United States: American studies, constitutional law, U.S. history, Native American and Indigenous studies." .
+
+# ---- Places -------------------------------------------------------------------
+uso:Country a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "Country" ;
+    rdfs:comment "A sovereign country: the United States itself, and neighbours or partners that edges point to (Canada, Mexico)." .
+uso:State a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "State" ;
+    rdfs:comment "One of the fifty states." .
+uso:Territory a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "District / territory" ;
+    rdfs:comment "The District of Columbia, a U.S. territory (Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, the Northern Mariana Islands), or a historical territory (the Northwest Territory, Dakota Territory)." .
+uso:Region a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "Region" ;
+    rdfs:comment "A cultural or geographic region: New England, the South, the Midwest, the Great Plains, the Pacific Northwest, Appalachia." .
+uso:City a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "City / town" ;
+    rdfs:comment "A city, town or settlement, including historic ones: New York City, Chicago, New Orleans, Jamestown, Cahokia." .
+uso:NaturalFeature a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "Natural feature" ;
+    rdfs:comment "A river, lake, mountain range, canyon, coast or ecosystem: the Mississippi River, the Great Lakes, the Rocky Mountains, the Grand Canyon, the Everglades." .
+uso:Landmark a owl:Class ; rdfs:subClassOf uso:Place ; rdfs:label "Landmark / site" ;
+    rdfs:comment "A built or designated site: the Statue of Liberty, Independence Hall, Ellis Island, Mount Rushmore, a national park or national historic site." .
+
+# ---- Happenings ---------------------------------------------------------------
+uso:Era a owl:Class ; rdfs:subClassOf uso:Happening ; rdfs:label "Era / period" ;
+    rdfs:comment "A period of American history: the colonial era, the early republic, Reconstruction, the Gilded Age, the Progressive Era, the Great Depression, the Cold War." .
+uso:Event a owl:Class ; rdfs:subClassOf uso:Happening , schema:Event ; rdfs:label "Event" ;
+    rdfs:comment "A dated event: the Boston Tea Party, the Constitutional Convention, the Louisiana Purchase, the Seneca Falls Convention, the Apollo 11 landing." .
+uso:Conflict a owl:Class ; rdfs:subClassOf uso:Event ; rdfs:label "War / conflict / battle" ;
+    rdfs:comment "A war, battle, rebellion or armed conflict: the Revolutionary War, the Battle of Gettysburg, the Civil War, World War II, the Vietnam War." .
+
+# ---- Texts --------------------------------------------------------------------
+uso:Document a owl:Class ; rdfs:subClassOf uso:Entity , schema:CreativeWork ; rdfs:label "Founding / political document" ;
+    rdfs:comment "A founding, political or historical document: the Declaration of Independence, the Constitution, the Federalist Papers, the Gettysburg Address, a treaty, a presidential proclamation." .
+uso:Law a owl:Class ; rdfs:subClassOf uso:Document , schema:Legislation ; rdfs:label "Law / amendment" ;
+    rdfs:comment "A statute, constitutional amendment or executive order: the Fourteenth Amendment, the Civil Rights Act of 1964, the Indian Removal Act, Executive Order 9066." .
+uso:CourtCase a owl:Class ; rdfs:subClassOf uso:Document ; rdfs:label "Court case" ;
+    rdfs:comment "A court decision: Marbury v. Madison, Dred Scott v. Sandford, Plessy v. Ferguson, Brown v. Board of Education, Miranda v. Arizona." .
+uso:Work a owl:Class ; rdfs:subClassOf uso:Entity , schema:CreativeWork ; rdfs:label "Creative work" ;
+    rdfs:comment "A book, song, film, artwork or other creative work: Uncle Tom's Cabin, Adventures of Huckleberry Finn, \"The Star-Spangled Banner\" as a song, The Grapes of Wrath." .
+
+# ---- Agents and roles ---------------------------------------------------------
+uso:Person a owl:Class ; rdfs:subClassOf uso:Entity , schema:Person ; rdfs:label "Person" .
+uso:Organization a owl:Class ; rdfs:subClassOf uso:Entity , schema:Organization ; rdfs:label "Organization" ;
+    rdfs:comment "A non-governmental organization, company, union or party: the NAACP, the AFL-CIO, the Sons of Liberty, the Federalist Party, Standard Oil." .
+uso:Institution a owl:Class ; rdfs:subClassOf uso:Entity , schema:GovernmentOrganization ; rdfs:label "Government institution" ;
+    rdfs:comment "A government body or agency: Congress, the Supreme Court, the Electoral College, the Federal Reserve, NASA, the National Park Service, the Bureau of Indian Affairs." .
+uso:Office a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Office / position" ;
+    rdfs:comment "A public office: the presidency, the vice presidency, Chief Justice, Speaker of the House, Secretary of State, governor." .
+uso:TribalNation a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Native nation" ;
+    rdfs:comment "A Native nation or Indigenous people, past or present, named as the nation names itself: the Cherokee Nation, the Navajo Nation, the Haudenosaunee Confederacy, the Lakota, Native Hawaiians." .
+uso:Community a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Community / group" ;
+    rdfs:comment "An immigrant, ethnic, religious or social community: Irish Americans, Chinese Americans, Mexican Americans, the Amish, Gullah Geechee people." .
+
+# ---- Generated (not article types) --------------------------------------------
+uso:Source a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork ; rdfs:label "Cited source" .
+uso:ReviewQuestion a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Review question" ;
+    rdfs:comment "A check-your-understanding question with its answer, answerable from the article. Generated from frontmatter `review`." .
+uso:TimelineEntry a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Timeline entry" ;
+    rdfs:comment "A dated step in the article's story. Generated from frontmatter `timeline`." .
+uso:Misconception a owl:Class ; rdfs:subClassOf uso:Entity ; rdfs:label "Myth and fact" ;
+    rdfs:comment "A common misconception, what the evidence shows instead, and why it matters. Generated from frontmatter `misconception`." .
+
+# ---- Disjointness (contradiction detection) -----------------------------------
+[] a owl:AllDisjointClasses ; owl:members ( uso:Concept uso:Place uso:Happening uso:Document uso:Work uso:Person
+                                            uso:Organization uso:Institution uso:Office uso:TribalNation uso:Community ) .
+[] a owl:AllDisjointClasses ; owl:members ( uso:Country uso:State uso:Region uso:City uso:NaturalFeature ) .
+[] a owl:AllDisjointClasses ; owl:members ( uso:Era uso:Event ) .
+[] a owl:AllDisjointClasses ; owl:members ( uso:Myth uso:Right uso:Policy uso:Movement uso:Principle ) .
+
+# ---- SKOS axioms (so the reasoner materialises narrower / symmetric related) --
+skos:broader owl:inverseOf skos:narrower ; rdfs:subPropertyOf skos:broaderTransitive .
+skos:narrower rdfs:subPropertyOf skos:narrowerTransitive .
+skos:broaderTransitive a owl:TransitiveProperty ; owl:inverseOf skos:narrowerTransitive .
+skos:related a owl:SymmetricProperty .
+
+# ---- Typed relations ----------------------------------------------------------
+# Structure and learning
+uso:partOf a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf uso:hasPart ; rdfs:label "part of / component of" .
+uso:hasPart a owl:ObjectProperty ; rdfs:label "has part" .
+uso:requires a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf uso:prerequisiteOf ;
+    rdfs:label "requires (background needed to understand it)" .
+uso:prerequisiteOf a owl:ObjectProperty ; rdfs:label "prerequisite of" .
+uso:instanceOf a owl:ObjectProperty ; owl:inverseOf uso:hasInstance ; rdfs:label "instance / example of" .
+uso:hasInstance a owl:ObjectProperty ; rdfs:label "has instance" .
+uso:contrastsWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with" .
+uso:confusedWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "commonly confused with" .
+
+# Geography
+uso:locatedIn a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf uso:contains ;
+    rdfs:label "located in" ; rdfs:range uso:Place .
+uso:contains a owl:ObjectProperty ; rdfs:label "contains" .
+uso:borders a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "borders" ;
+    rdfs:domain uso:Place ; rdfs:range uso:Place .
+uso:capitalOf a owl:ObjectProperty ; owl:inverseOf uso:hasCapital ; rdfs:label "capital of" ; rdfs:range uso:Place .
+uso:hasCapital a owl:ObjectProperty ; rdfs:label "has capital" .
+
+# Time and causation
+uso:occurredDuring a owl:ObjectProperty ; owl:inverseOf uso:periodOf ; rdfs:label "occurred during (era)" ;
+    rdfs:range uso:Era .
+uso:periodOf a owl:ObjectProperty ; rdfs:label "period of" .
+uso:occurredIn a owl:ObjectProperty ; owl:inverseOf uso:siteOf ; rdfs:label "took place in" ;
+    rdfs:domain uso:Happening ; rdfs:range uso:Place .
+uso:siteOf a owl:ObjectProperty ; rdfs:label "site of" .
+uso:ledTo a owl:ObjectProperty ; owl:inverseOf uso:resultedFrom ; rdfs:label "led to / contributed to" .
+uso:resultedFrom a owl:ObjectProperty ; rdfs:label "resulted from" .
+
+# Government and law
+uso:establishedBy a owl:ObjectProperty ; owl:inverseOf uso:establishes ; rdfs:label "established / created by (document or law)" ;
+    rdfs:range uso:Document .
+uso:establishes a owl:ObjectProperty ; rdfs:label "establishes" .
+uso:enactedBy a owl:ObjectProperty ; owl:inverseOf uso:enacted ; rdfs:label "enacted / ratified by" ;
+    rdfs:domain uso:Law ; rdfs:range uso:Institution .
+uso:enacted a owl:ObjectProperty ; rdfs:label "enacted" .
+uso:signedBy a owl:ObjectProperty ; owl:inverseOf uso:signed ; rdfs:label "signed by" ;
+    rdfs:domain uso:Document ; rdfs:range uso:Person .
+uso:signed a owl:ObjectProperty ; rdfs:label "signed" .
+uso:amends a owl:ObjectProperty ; owl:inverseOf uso:amendedBy ; rdfs:label "amends" ;
+    rdfs:domain uso:Law ; rdfs:range uso:Document .
+uso:amendedBy a owl:ObjectProperty ; rdfs:label "amended by" .
+uso:interprets a owl:ObjectProperty ; owl:inverseOf uso:interpretedIn ; rdfs:label "interprets (text or clause)" ;
+    rdfs:domain uso:CourtCase .
+uso:interpretedIn a owl:ObjectProperty ; rdfs:label "interpreted in" .
+uso:overturns a owl:ObjectProperty ; owl:inverseOf uso:overturnedBy ; rdfs:label "overturns / supersedes" ;
+    rdfs:domain uso:Document ; rdfs:range uso:Document .
+uso:overturnedBy a owl:ObjectProperty ; rdfs:label "overturned / superseded by" .
+uso:protects a owl:ObjectProperty ; owl:inverseOf uso:protectedBy ; rdfs:label "protects / guarantees (right)" ;
+    rdfs:range uso:Right .
+uso:protectedBy a owl:ObjectProperty ; rdfs:label "protected by" .
+uso:heldOffice a owl:ObjectProperty ; owl:inverseOf uso:officeHolder ; rdfs:label "held office" ;
+    rdfs:domain uso:Person ; rdfs:range uso:Office .
+uso:officeHolder a owl:ObjectProperty ; rdfs:label "office holder" .
+
+# People, groups and their roles
+uso:memberOf a owl:ObjectProperty ; owl:inverseOf uso:hasMember ; rdfs:label "member of" .
+uso:hasMember a owl:ObjectProperty ; rdfs:label "has member" .
+uso:foundedBy a owl:ObjectProperty ; owl:inverseOf uso:founded ; rdfs:label "founded by" ; rdfs:range uso:Person .
+uso:founded a owl:ObjectProperty ; rdfs:label "founded" .
+uso:ledBy a owl:ObjectProperty ; owl:inverseOf uso:led ; rdfs:label "led / commanded by" ; rdfs:range uso:Person .
+uso:led a owl:ObjectProperty ; rdfs:label "led" .
+uso:participatedIn a owl:ObjectProperty ; owl:inverseOf uso:participant ; rdfs:label "took part in" ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( uso:Happening uso:Movement ) ] .
+uso:participant a owl:ObjectProperty ; rdfs:label "participant" .
+uso:affected a owl:ObjectProperty ; owl:inverseOf uso:affectedBy ; rdfs:label "affected / shaped" .
+uso:affectedBy a owl:ObjectProperty ; rdfs:label "affected by" .
+uso:originatedIn a owl:ObjectProperty ; owl:inverseOf uso:originOf ; rdfs:label "originated in / among" ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( uso:Place uso:Community uso:TribalNation ) ] .
+uso:originOf a owl:ObjectProperty ; rdfs:label "origin of" .
+
+# Meaning and memory
+uso:symbolizes a owl:ObjectProperty ; owl:inverseOf uso:symbolizedBy ; rdfs:label "symbolizes" .
+uso:symbolizedBy a owl:ObjectProperty ; rdfs:label "symbolized by" .
+uso:commemorates a owl:ObjectProperty ; owl:inverseOf uso:commemoratedBy ; rdfs:label "commemorates / memorializes" .
+uso:commemoratedBy a owl:ObjectProperty ; rdfs:label "commemorated by" .
+
+# Evidence
+uso:supportedBy a owl:ObjectProperty ; owl:inverseOf uso:supports ; rdfs:label "supported by (evidence)" .
+uso:supports a owl:ObjectProperty ; rdfs:label "supports" .
+uso:challengedBy a owl:ObjectProperty ; owl:inverseOf uso:challenges ; rdfs:label "challenged by (evidence, critique, myth-busting)" .
+uso:challenges a owl:ObjectProperty ; rdfs:label "challenges" .
+
+# Ideas and attribution
+uso:introducedBy a owl:ObjectProperty ; rdfs:range uso:Person ; owl:inverseOf uso:introduced ; rdfs:label "proposed / coined / introduced by" .
+uso:introduced a owl:ObjectProperty ; rdfs:label "introduced" .
+uso:introducedIn a owl:ObjectProperty ; owl:inverseOf uso:introduces ; rdfs:label "first set out in (document or work)" ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( uso:Document uso:Work ) ] .
+uso:introduces a owl:ObjectProperty ; rdfs:label "introduces" .
+uso:authoredBy a owl:ObjectProperty ; owl:inverseOf uso:authored ; rdfs:label "written / created by" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( uso:Document uso:Work ) ] ; rdfs:range uso:Person .
+uso:authored a owl:ObjectProperty ; rdfs:label "wrote / created" .
+uso:influencedBy a owl:ObjectProperty ; owl:inverseOf uso:influenced ; rdfs:label "influenced by" .
+uso:influenced a owl:ObjectProperty ; rdfs:label "influenced" .
+uso:studiedIn a owl:ObjectProperty ; rdfs:range uso:Field ; rdfs:label "studied in (field)" .
+
+# ---- Datatype / internal properties written by scripts/kg.py ------------------
+uso:domain a owl:DatatypeProperty ; rdfs:label "domain" .
+uso:level a owl:DatatypeProperty ; rdfs:label "reading level: introductory, intermediate, advanced" .
+uso:evidenceStatus a owl:DatatypeProperty ;
+    rdfs:label "evidence status: established, interpretive, contested, myth, legal-text, statistical, tradition" .
+uso:sourceType a owl:DatatypeProperty ; rdfs:label "source type" .
+uso:confidence a owl:DatatypeProperty ; rdfs:label "edge confidence: high, medium, low" .
+uso:evidence a owl:ObjectProperty ; rdfs:label "edge evidence (source), used on RDF-star quoted triples" .
+uso:file a owl:DatatypeProperty ; rdfs:label "source file in the repo" .
+uso:questionFor a owl:ObjectProperty ; rdfs:domain uso:ReviewQuestion ; rdfs:label "review question for" .
+uso:answer a owl:DatatypeProperty ; rdfs:label "answer to a review question" .
+uso:timelineEntry a owl:ObjectProperty ; rdfs:range uso:TimelineEntry ; rdfs:label "timeline entry" .
+uso:date a owl:DatatypeProperty ; rdfs:label "date (year, year-month or full date)" .
+uso:misconception a owl:ObjectProperty ; rdfs:range uso:Misconception ; rdfs:label "common misconception" .
+uso:myth a owl:DatatypeProperty ; rdfs:label "the misconception as commonly stated" .
+uso:fact a owl:DatatypeProperty ; rdfs:label "what the evidence shows" .
+uso:why a owl:DatatypeProperty ; rdfs:label "why the myth persists or why the difference matters" .

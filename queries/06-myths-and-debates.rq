@@ -1,0 +1,8 @@
+# title: Myths, contested claims and debated interpretations
+# question: Which nodes are myths, contested or open to competing interpretations, and what challenges them?
+# gap: false
+SELECT ?node ?status ?challenger WHERE {
+  ?node uso:evidenceStatus ?status .
+  FILTER(?status IN ("myth", "contested", "interpretive"))
+  OPTIONAL { ?node uso:challengedBy ?challenger }
+} ORDER BY ?status ?node ?challenger

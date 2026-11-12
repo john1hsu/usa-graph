@@ -1,0 +1,8 @@
+# title: Most consequential happenings, documents and policies
+# question: Which nodes led to, established or affected the most other things in the graph?
+# gap: false
+SELECT ?node (COUNT(DISTINCT ?target) AS ?reach) (GROUP_CONCAT(DISTINCT STR(?label); separator=", ") AS ?targets) WHERE {
+  { ?node uso:ledTo ?target } UNION { ?node uso:establishes ?target } UNION { ?node uso:affected ?target }
+  OPTIONAL { ?target skos:prefLabel ?l }
+  BIND(COALESCE(?l, REPLACE(STR(?target), "^.*/", "")) AS ?label)
+} GROUP BY ?node ORDER BY DESC(?reach) ?node

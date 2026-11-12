@@ -1,0 +1,6 @@
+# title: Rights and what protects them
+# question: Which amendments, laws and court cases protect each right?
+# gap: false
+SELECT ?right ?protector WHERE {
+  ?protector uso:protects ?right
+} ORDER BY ?right ?protector

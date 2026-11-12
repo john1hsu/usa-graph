@@ -1,0 +1,44 @@
+<https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil War and Reconstruction (1850–1877)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cold War and civil rights (1945–1991)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colonial America and the Revolution (to 1789)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Constitution and government" .
+<https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contemporary America (1991–present)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> <http://www.w3.org/2004/02/skos/core#prefLabel> "Culture, arts, sports and holidays" .
+<https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> <http://www.w3.org/2004/02/skos/core#prefLabel> "Democracy, voting and elections" .
+<https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Twenties, Depression and World War II (1920–1945)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> <http://www.w3.org/2004/02/skos/core#prefLabel> "The early republic and expansion (1789–1850)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economy, industry and work" .
+<https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foreign relations and the military" .
+<https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Land, rivers and environment" .
+<https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Gilded Age and Progressive Era (1877–1920)" .
+<https://github.com/john1hsu/usa-graph/id/scheme/native-nations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/native-nations> <http://www.w3.org/2004/02/skos/core#prefLabel> "Native nations and Indigenous history" .
+<https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> <http://www.w3.org/2004/02/skos/core#prefLabel> "Activists, thinkers and pioneers" .
+<https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidents and founders" .
+<https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regions, cities and landmarks" .
+<https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rights, amendments and landmark cases" .
+<https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Science, invention and exploration" .
+<https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immigration, communities and society" .
+<https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> <http://www.w3.org/2004/02/skos/core#prefLabel> "States and territories" .
+<https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symbols, ideals and national identity" .

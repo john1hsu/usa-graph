@@ -1,0 +1,127 @@
+{
+ "@context": {
+  "dcterms": "http://purl.org/dc/terms/",
+  "owl": "http://www.w3.org/2002/07/owl#",
+  "prov": "http://www.w3.org/ns/prov#",
+  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "schema": "https://schema.org/",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "us": "https://github.com/john1hsu/usa-graph/id/",
+  "uso": "https://github.com/john1hsu/usa-graph/ontology#",
+  "wd": "http://www.wikidata.org/entity/",
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
+ },
+ "@graph": [
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Civil War and Reconstruction (1850–1877)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Cold War and civil rights (1945–1991)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Colonial America and the Revolution (to 1789)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The Constitution and government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Contemporary America (1991–present)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Culture, arts, sports and holidays"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Democracy, voting and elections"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The Twenties, Depression and World War II (1920–1945)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The early republic and expansion (1789–1850)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Economy, industry and work"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Foreign relations and the military"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Land, rivers and environment"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The Gilded Age and Progressive Era (1877–1920)"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Native nations and Indigenous history"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Activists, thinkers and pioneers"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Presidents and founders"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Regions, cities and landmarks"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Rights, amendments and landmark cases"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Science, invention and exploration"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Immigration, communities and society"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "States and territories"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Symbols, ideals and national identity"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# Turtle-star (RDF 1.2): each typed edge annotated with the source that supports it and a confidence.
+@prefix uso: <https://github.com/john1hsu/usa-graph/ontology#> .
+@prefix us: <https://github.com/john1hsu/usa-graph/id/> .
+
+

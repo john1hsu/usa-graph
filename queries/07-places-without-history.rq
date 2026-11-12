@@ -1,0 +1,12 @@
+# title: Places with nothing tied to them
+# question: Which written places have no event, person, tradition or landmark in the graph tied to them?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node uso:file ?f ; a ?type .
+  ?type rdfs:subClassOf* uso:Place .
+  FILTER(STRSTARTS(STR(?type), STR(uso:)))
+  FILTER NOT EXISTS { ?node uso:siteOf ?e }
+  FILTER NOT EXISTS { ?node uso:originOf ?o }
+  FILTER NOT EXISTS { ?node uso:contains ?c . ?c uso:file ?g }
+  FILTER NOT EXISTS { ?node a ?sub . ?sub rdfs:subClassOf ?type . FILTER(?sub != ?type) }
+} ORDER BY ?node

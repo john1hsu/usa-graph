@@ -1,0 +1,7 @@
+# title: Offices and their holders
+# question: Which people in the graph held each public office?
+# gap: false
+SELECT ?office ?person ?born WHERE {
+  ?person uso:heldOffice ?office .
+  OPTIONAL { ?person schema:startDate ?born }
+} ORDER BY ?office ?born ?person

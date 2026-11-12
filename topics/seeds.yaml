@@ -1,0 +1,78 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed slugs to steer what gets written next. Seeds are
+# suggestions, not a queue: skip any that already exist.
+# Each domain becomes a SKOS ConceptScheme (us:scheme/<domain>) in the graph.
+#
+# Goal: an accurate, even-handed, citation-backed picture of the United States
+# of America — its land, its Native nations, its history from the colonial era
+# to today, how its government and laws work, its people, economy, culture and
+# symbols — where every claim traces to a primary, official or scholarly source
+# and popular myths are checked against the evidence.
+
+domains:
+  geography-and-environment:
+    label: Land, rivers and environment
+    seeds: [physical-geography-of-the-united-states, mississippi-river, rocky-mountains, appalachian-mountains, great-plains, great-lakes, grand-canyon, colorado-river, continental-divide, everglades, national-park-system, yellowstone-national-park, tornado-alley]
+  states-and-territories:
+    label: States and territories
+    seeds: [virginia, massachusetts, pennsylvania, new-york, california, texas, louisiana, ohio, alaska, hawaii, district-of-columbia, puerto-rico, guam, northwest-territory, admission-of-new-states]
+  regions-cities-and-landmarks:
+    label: Regions, cities and landmarks
+    seeds: [new-england, the-south, the-midwest, the-american-west, new-york-city, chicago, new-orleans, philadelphia, los-angeles, statue-of-liberty, independence-hall, ellis-island, mount-rushmore, golden-gate-bridge]
+  native-nations:
+    label: Native nations and Indigenous history
+    seeds: [tribal-sovereignty, cahokia, ancestral-puebloans, haudenosaunee-confederacy, cherokee-nation, navajo-nation, lakota, indian-removal-act, trail-of-tears, treaty-of-fort-laramie-1868, dawes-act, indian-reorganization-act, native-hawaiians, bureau-of-indian-affairs]
+  colonial-and-revolutionary:
+    label: Colonial America and the Revolution (to 1789)
+    seeds: [jamestown, plymouth-colony, thirteen-colonies, slavery-in-colonial-america, salem-witch-trials, french-and-indian-war, stamp-act, boston-tea-party, american-revolutionary-war, declaration-of-independence, articles-of-confederation, treaty-of-paris-1783, shays-rebellion, columbus-flat-earth-myth]
+  early-republic-and-expansion:
+    label: The early republic and expansion (1789–1850)
+    seeds: [first-party-system, louisiana-purchase, lewis-and-clark-expedition, war-of-1812, monroe-doctrine, missouri-compromise, jacksonian-democracy, manifest-destiny, mexican-american-war, oregon-trail, california-gold-rush, second-great-awakening, seneca-falls-convention, erie-canal]
+  civil-war-and-reconstruction:
+    label: Civil War and Reconstruction (1850–1877)
+    seeds: [compromise-of-1850, fugitive-slave-act-of-1850, kansas-nebraska-act, dred-scott-v-sandford, underground-railroad, abolitionism, secession, american-civil-war, battle-of-gettysburg, emancipation-proclamation, gettysburg-address, reconstruction, thirteenth-amendment, freedmens-bureau, juneteenth]
+  gilded-age-and-progressive-era:
+    label: The Gilded Age and Progressive Era (1877–1920)
+    seeds: [gilded-age, transcontinental-railroad, jim-crow-laws, plessy-v-ferguson, chinese-exclusion-act, great-migration, progressive-era, muckrakers, sherman-antitrust-act, spanish-american-war, world-war-i-and-the-united-states, womens-suffrage-movement, nineteenth-amendment]
+  depression-and-world-war:
+    label: The Twenties, Depression and World War II (1920–1945)
+    seeds: [roaring-twenties, harlem-renaissance, prohibition, stock-market-crash-of-1929, great-depression, dust-bowl, new-deal, social-security-act, attack-on-pearl-harbor, world-war-ii-and-the-united-states, japanese-american-incarceration, manhattan-project, d-day]
+  cold-war-and-civil-rights:
+    label: Cold War and civil rights (1945–1991)
+    seeds: [cold-war, marshall-plan, gi-bill, korean-war, mccarthyism, brown-v-board-of-education, montgomery-bus-boycott, civil-rights-movement, civil-rights-act-of-1964, voting-rights-act-of-1965, cuban-missile-crisis, vietnam-war, apollo-11, watergate-scandal]
+  contemporary-america:
+    label: Contemporary America (1991–present)
+    seeds: [post-cold-war-united-states, internet-age-in-the-united-states, september-11-attacks, department-of-homeland-security, great-recession, affordable-care-act, obergefell-v-hodges, 2020-united-states-census, covid-19-pandemic-in-the-united-states]
+  constitution-and-government:
+    label: The Constitution and government
+    seeds: [united-states-constitution, constitutional-convention, federalist-papers, separation-of-powers, checks-and-balances, federalism, united-states-congress, house-of-representatives, united-states-senate, presidency-of-the-united-states, supreme-court-of-the-united-states, judicial-review, cabinet-of-the-united-states, how-a-bill-becomes-a-law]
+  rights-and-law:
+    label: Rights, amendments and landmark cases
+    seeds: [bill-of-rights, first-amendment, second-amendment, fourth-amendment, fourteenth-amendment, due-process, equal-protection, marbury-v-madison, mcculloch-v-maryland, miranda-v-arizona, gideon-v-wainwright, tinker-v-des-moines]
+  democracy-and-elections:
+    label: Democracy, voting and elections
+    seeds: [electoral-college, voting-rights-in-the-united-states, fifteenth-amendment, twenty-sixth-amendment, two-party-system, primary-elections, census-and-apportionment, gerrymandering, presidential-election-of-1800, peaceful-transfer-of-power]
+  presidents-and-founders:
+    label: Presidents and founders
+    seeds: [george-washington, john-adams, thomas-jefferson, james-madison, alexander-hamilton, benjamin-franklin, andrew-jackson, abraham-lincoln, theodore-roosevelt, franklin-d-roosevelt, eleanor-roosevelt, dwight-d-eisenhower, john-f-kennedy, lyndon-b-johnson, washington-cherry-tree-myth]
+  people-who-shaped-america:
+    label: Activists, thinkers and pioneers
+    seeds: [frederick-douglass, harriet-tubman, sojourner-truth, susan-b-anthony, sitting-bull, sacagawea, booker-t-washington, w-e-b-du-bois, jane-addams, thomas-edison, martin-luther-king-jr, rosa-parks, cesar-chavez]
+  economy-and-work:
+    label: Economy, industry and work
+    seeds: [industrial-revolution-in-the-united-states, labor-movement, great-railroad-strike-of-1877, federal-reserve-system, united-states-dollar, wall-street, automobile-industry, agriculture-in-the-united-states, interstate-highway-system, silicon-valley, minimum-wage]
+  society-and-people:
+    label: Immigration, communities and society
+    seeds: [immigration-to-the-united-states, angel-island-immigration-station, immigration-and-nationality-act-of-1965, slavery-in-the-united-states, african-americans, irish-americans, chinese-americans, mexican-americans, gullah-geechee, religion-in-the-united-states, public-education-in-the-united-states, suburbanization]
+  culture-and-arts:
+    label: Culture, arts, sports and holidays
+    seeds: [jazz, blues, country-music, hip-hop, hollywood, broadway, mark-twain, hudson-river-school, baseball, american-football, thanksgiving, independence-day, barbecue-in-the-united-states, first-thanksgiving-myth]
+  science-and-innovation:
+    label: Science, invention and exploration
+    seeds: [nasa, space-race, telegraph, telephone, electrification-of-america, wright-brothers-first-flight, land-grant-universities, arpanet, human-genome-project, national-institutes-of-health, smithsonian-institution]
+  foreign-relations-and-military:
+    label: Foreign relations and the military
+    seeds: [united-states-armed-forces, isolationism, panama-canal, containment, truman-doctrine, nato, peace-corps, gulf-war, war-in-afghanistan, iraq-war, united-states-and-the-united-nations]
+  symbols-and-national-identity:
+    label: Symbols, ideals and national identity
+    seeds: [flag-of-the-united-states, star-spangled-banner, great-seal-of-the-united-states, bald-eagle, liberty-bell, pledge-of-allegiance, e-pluribus-unum, in-god-we-trust, uncle-sam, american-dream, american-exceptionalism, betsy-ross-flag-myth]

@@ -1,0 +1,84 @@
+@prefix sh:      <http://www.w3.org/ns/shacl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix uso:     <https://github.com/john1hsu/usa-graph/ontology#> .
+@prefix uss:     <https://github.com/john1hsu/usa-graph/shapes#> .
+
+# =============================================================================
+# SHACL shapes: the semantic contract for the exported RDF graph.
+# `scripts/kg.py build` runs these with pySHACL against the asserted graph plus
+# the ontology (RDFS inference on), so subclass membership counts.
+# =============================================================================
+
+uss:NodeShape a sh:NodeShape ;
+    sh:targetSubjectsOf uso:file ;
+    sh:property [ sh:path skos:prefLabel ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:string ] ;
+    sh:property [ sh:path skos:definition ; sh:minCount 1 ; sh:maxCount 1 ; sh:minLength 40 ] ;
+    sh:property [ sh:path dcterms:created ; sh:minCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path dcterms:modified ; sh:maxCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path uso:domain ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path uso:level ; sh:minCount 1 ; sh:in ( "introductory" "intermediate" "advanced" ) ] ;
+    sh:property [ sh:path uso:evidenceStatus ; sh:minCount 1 ; sh:maxCount 1 ;
+                  sh:in ( "established" "interpretive" "contested" "myth" "legal-text" "statistical" "tradition" ) ] ;
+    sh:property [ sh:path prov:wasDerivedFrom ; sh:minCount 3 ; sh:class uso:Source ] ;
+    sh:property [ sh:path skos:inScheme ; sh:minCount 1 ] ;
+    sh:property [ sh:path schema:startDate ; sh:maxCount 1 ] ;
+    sh:property [ sh:path schema:endDate ; sh:maxCount 1 ] ;
+    sh:property [ sh:path [ sh:inversePath uso:questionFor ] ; sh:minCount 2 ;
+                  sh:message "Every article needs at least 2 review questions with answers." ] .
+
+uss:SourceShape a sh:NodeShape ;
+    sh:targetClass uso:Source ;
+    sh:property [ sh:path dcterms:title ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:publisher ; sh:minCount 1 ] ;
+    sh:property [ sh:path schema:url ; sh:minCount 1 ; sh:nodeKind sh:IRI ; sh:pattern "^https://" ] ;
+    sh:property [ sh:path uso:sourceType ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:date ; sh:minCount 1 ; sh:datatype xsd:date ] .
+
+# Dated classes: only written articles (subjects of uso:file) are targeted, so an
+# unwritten frontier node typed by a property range (e.g. occurredDuring -> Era)
+# does not need a date until someone writes it.
+uss:DatedTargets a sh:NodeShape ;
+    sh:targetSubjectsOf uso:file ;
+    sh:or (
+        [ sh:not [ sh:or ( [ sh:class uso:Happening ] [ sh:class uso:Document ] [ sh:class uso:Person ]
+                           [ sh:class uso:State ] [ sh:class uso:Movement ] ) ] ]
+        [ sh:property [ sh:path schema:startDate ; sh:minCount 1 ] ]
+    ) ;
+    sh:message "Eras, events, conflicts, documents, laws, court cases, people, states and movements need a start date." .
+
+uss:TimelineTargets a sh:NodeShape ;
+    sh:targetSubjectsOf uso:file ;
+    sh:or (
+        [ sh:not [ sh:or ( [ sh:class uso:Era ] [ sh:class uso:Conflict ] [ sh:class uso:Movement ] ) ] ]
+        [ sh:property [ sh:path uso:timelineEntry ; sh:minCount 3 ] ]
+    ) ;
+    sh:message "Eras, conflicts and movements need a timeline of at least 3 entries." .
+
+uss:MythShape a sh:NodeShape ;
+    sh:targetClass uso:Myth ;
+    sh:property [ sh:path uso:misconception ; sh:minCount 1 ; sh:class uso:Misconception ;
+                  sh:message "A myth needs a myth/fact/why misconception block." ] .
+
+uss:MisconceptionShape a sh:NodeShape ;
+    sh:targetClass uso:Misconception ;
+    sh:property [ sh:path uso:myth ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path uso:fact ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path uso:why ; sh:minCount 1 ; sh:minLength 20 ] .
+
+uss:ReviewQuestionShape a sh:NodeShape ;
+    sh:targetClass uso:ReviewQuestion ;
+    sh:property [ sh:path rdfs:label ; sh:minCount 1 ; sh:pattern "\\?$" ;
+                  sh:message "Review items must be phrased as questions." ] ;
+    sh:property [ sh:path uso:answer ; sh:minCount 1 ; sh:maxCount 1 ; sh:minLength 20 ] ;
+    sh:property [ sh:path uso:questionFor ; sh:minCount 1 ; sh:maxCount 1 ] .
+
+uss:TimelineEntryShape a sh:NodeShape ;
+    sh:targetClass uso:TimelineEntry ;
+    sh:property [ sh:path uso:date ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path rdfs:label ; sh:minCount 1 ; sh:minLength 10 ] .
