@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
+| `us:great-railroad-strike-of-1877` | 1 | labor-movement |
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 | `us:plessy-v-ferguson` | 1 | Jim Crow laws |
@@ -50,6 +51,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | era | node | start |
 |---|---|---|
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
+| `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -60,6 +62,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
@@ -77,7 +80,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:great-railroad-strike-of-1877` |
 
 ## People with no recorded role (gap)
 

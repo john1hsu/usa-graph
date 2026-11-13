@@ -857,6 +857,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places.",
+   "uso:myth": "The 1877 strike was a planned national uprising, organized and directed by labor unions or radical leaders.",
+   "uso:why": "The strike's sudden national reach and the visible part socialists played in a few cities made it look coordinated, and treating it as a conspiracy obscures the wage cuts and hard times that drove ordinary workers and their neighbours into the streets."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did a wage cut on one railroad turn into a crisis that stretched from Baltimore to St. Louis?",
+   "uso:answer": "Railroad workers had already suffered years of depression and repeated wage cuts since 1873, so when the Baltimore and Ohio announced another ten percent cut, the walkout at Martinsburg spread along the connected trunk lines, drew in unemployed people and workers in other trades, and local police and militias could not or would not stop it.",
+   "uso:questionFor": {
+    "@id": "us:great-railroad-strike-of-1877"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the federal government become involved, and what limits did President Hayes set on that role?",
+   "uso:answer": "Governors who said they could not keep order formally asked for federal help, and Hayes issued proclamations and sent Army troops; he refused the Pennsylvania Railroad's request to act directly for the companies and did not use soldiers to run trains, describing his aim as restoring order, though the deployment set a precedent for later presidents.",
+   "uso:questionFor": {
+    "@id": "us:great-railroad-strike-of-1877"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What lessons did workers and employers each draw from the strike?",
+   "uso:answer": "Many workers concluded they needed lasting, organized unions, while businesses concluded they needed more political influence and government help, including better-prepared state forces to deal with future labor unrest.",
+   "uso:questionFor": {
+    "@id": "us:great-railroad-strike-of-1877"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The railroads' financial bubble bursts, beginning years of depression, layoffs and repeated wage cuts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Railroad workers at Martinsburg, West Virginia, walk off the job over a ten percent wage cut on the Baltimore and Ohio Railroad and stop trains.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor Henry M. Mathews asks for federal help, and President Rutherford B. Hayes proclaims that those obstructing the railroad must disperse by noon the next day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal troops arrive at Martinsburg and end the violence there.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hayes issues a similar proclamation for Maryland; in Pittsburgh, militia from Philadelphia fire into a crowd near the 28th Street crossing, killing about twenty people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fires in Pittsburgh destroy the Pennsylvania Railroad's Union Depot, more than thirty buildings and thousands of locomotives and cars.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Unrest in Chicago peaks over five days of walkouts, sympathy strikes and clashes with police, militia and U.S. Army troops.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By the end of July the strikes have largely been put down along the trunk lines.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-07-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By early 1880 the railroads have restored the wages they had cut.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1880"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership.",
@@ -2825,6 +2940,90 @@
     "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Robert D. Johnston, Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Rutherford B. Hayes: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/hayes/domestic-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Andrew C. Baker et al., The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "16. Capital and Labor",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/commentpress/16-capital-and-labor/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Rutherford B. Hayes, via The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Proclamation 236 — Law and Order in the State of West Virginia (July 18, 1877)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/proclamation-236-law-and-order-the-state-west-virginia"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Kenneth R. Bailey, e-WV: The West Virginia Encyclopedia, West Virginia Humanities Council",
+   "dcterms:title": "Railroad Strike of 1877",
+   "schema:url": {
+    "@id": "https://www.wvencyclopedia.org/entries/1906"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago, Chicago Historical Society and Newberry Library",
+   "dcterms:title": "Railroad Strike of 1877",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/1037.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Leslie Przybylek, Senator John Heinz History Center",
+   "dcterms:title": "Picturing Protest: The Great Railroad Strike of 1877",
+   "schema:url": {
+    "@id": "https://www.heinzhistorycenter.org/?p=1110"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1",
@@ -6028,6 +6227,140 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:great-railroad-strike-of-1877",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6"
+    }
+   ],
+   "rdfs:label": "Great Railroad Strike of 1877",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1877-08"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1877-07-16"
+   },
+   "skos:altLabel": [
+    "Great Labor Uprising of 1877",
+    "Great Strike of 1877",
+    "Great Upheaval",
+    "Railroad Strike of 1877",
+    "Railway Strike of 1877"
+   ],
+   "skos:broader": {
+    "@id": "us:labor-history-of-the-united-states"
+   },
+   "skos:definition": "A wave of strikes, protests and riots that began on the Baltimore and Ohio Railroad at Martinsburg, West Virginia, on July 16, 1877, spread along the rail lines from Baltimore to Chicago and St. Louis, and was put down by state militias and federal troops, leaving about a hundred people dead.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Great Railroad Strike of 1877",
+   "skos:related": [
+    {
+     "@id": "us:baltimore-and-ohio-railroad"
+    },
+    {
+     "@id": "us:national-guard-of-the-united-states"
+    },
+    {
+     "@id": "us:pennsylvania-railroad"
+    },
+    {
+     "@id": "us:railroads-in-the-united-states"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:rutherford-b-hayes"
+    }
+   ],
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/economy-and-work/great-railroad-strike-of-1877.md",
+   "uso:influencedBy": {
+    "@id": "us:panic-of-1873"
+   },
+   "uso:ledTo": {
+    "@id": "us:labor-movement"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:gilded-age"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:baltimore"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:pittsburgh"
+    },
+    {
+     "@id": "us:west-virginia"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:panic-of-1873"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
     }
    ]
   },

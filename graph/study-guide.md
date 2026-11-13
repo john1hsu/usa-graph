@@ -195,6 +195,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?
   **A:** It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.
 
+## economy-and-work
+
+### [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The 1877 strike was a planned national uprising, organized and directed by labor unions or radical leaders. | The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places. |
+
+**Why it matters:** The strike's sudden national reach and the visible part socialists played in a few cities made it look coordinated, and treating it as a conspiracy obscures the wage cuts and hard times that drove ordinary workers and their neighbours into the streets.
+
+- **Q:** Why did a wage cut on one railroad turn into a crisis that stretched from Baltimore to St. Louis?
+  **A:** Railroad workers had already suffered years of depression and repeated wage cuts since 1873, so when the Baltimore and Ohio announced another ten percent cut, the walkout at Martinsburg spread along the connected trunk lines, drew in unemployed people and workers in other trades, and local police and militias could not or would not stop it.
+- **Q:** How did the federal government become involved, and what limits did President Hayes set on that role?
+  **A:** Governors who said they could not keep order formally asked for federal help, and Hayes issued proclamations and sent Army troops; he refused the Pennsylvania Railroad's request to act directly for the companies and did not use soldiers to run trains, describing his aim as restoring order, though the deployment set a precedent for later presidents.
+- **Q:** What lessons did workers and employers each draw from the strike?
+  **A:** Many workers concluded they needed lasting, organized unions, while businesses concluded they needed more political influence and government help, including better-prepared state forces to deal with future labor unrest.
+
 ## foreign-relations-and-military
 
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict
