@@ -34,6 +34,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:united-states-constitution` | 3 | Slavery in the United States, bill-of-rights, federalist-papers |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
+| `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
@@ -66,6 +67,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:fifteenth-amendment` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
@@ -115,6 +117,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 | `us:equal-protection` | `us:brown-v-board-of-education` |
 | `us:equal-protection` | `us:fourteenth-amendment` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
+| `us:right-to-vote` | `us:fifteenth-amendment` |
 | `us:right-to-vote` | `us:voting-rights-act-of-1965` |
 
 ## What documents and laws established

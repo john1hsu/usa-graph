@@ -159,6 +159,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## democracy-and-elections
 
+### [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Fifteenth Amendment gave all Black Americans the right to vote in 1870. | The amendment only forbade denying the vote because of race, color or previous servitude; it conferred no right of suffrage on anyone, did not cover sex, so Black women were still excluded, and left states free to impose poll taxes, literacy tests and other qualifications that Southern states used to disfranchise most Black men until federal enforcement under the Voting Rights Act of 1965. |
+
+**Why it matters:** Treating 1870 as the moment Black Americans won the vote hides nearly a century of disfranchisement and explains poorly why the civil rights movement still had to fight for the ballot in the 1960s.
+
+- **Q:** Why could Southern states keep most Black men from voting for decades even though the Fifteenth Amendment was in force?
+  **A:** The amendment only barred denial of the vote on account of race, color or previous servitude and left states free to set other qualifications, so states used poll taxes, literacy tests, grandfather clauses and discriminatory administration, while 1876 Supreme Court rulings such as United States v. Reese weakened federal enforcement.
+- **Q:** How did the amendment divide the women's rights movement?
+  **A:** Because it protected against racial but not sex discrimination, Lucy Stone and Frederick Douglass supported it as a first step while Elizabeth Cady Stanton and Susan B. Anthony opposed any amendment that excluded women; the American Equal Rights Association broke up in 1869 and two rival suffrage organizations formed.
+- **Q:** How is the Voting Rights Act of 1965 connected to the Fifteenth Amendment?
+  **A:** The Act used the enforcement power in the amendment's Section 2; President Johnson asked Congress for a law that would make it impossible to thwart the amendment, and the Act abolished remaining barriers and authorized federal supervision of registration.
+
 ### [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) — Law
 
 | Myth | Fact |
