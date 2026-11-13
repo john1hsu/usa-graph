@@ -2455,6 +2455,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it.",
+   "uso:myth": "All of New Orleans lies below sea level.",
+   "uso:why": "Katrina's floodwaters covering most of the city made the \"bowl\" image memorable, but the oldest neighborhoods stand on the high ground the founders chose, and the low areas are largely drained swamp that has sunk since the early 1900s."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the French choose the site of New Orleans, and what Indigenous knowledge shaped that choice?",
+   "uso:answer": "Bienville was told to build a city near the Mississippi's mouth to keep British and Spanish rivals from moving up the river; Native people had told his brother Iberville's 1699 expedition of a ridge (now Esplanade Ridge) linking the river to Bayou St. John and Lake Pontchartrain, which made the spot strategically valuable.",
+   "uso:questionFor": {
+    "@id": "us:new-orleans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jefferson want New Orleans, and how did that lead to the Louisiana Purchase?",
+   "uso:answer": "Its port was the outlet for produce from more than a third of the country, and Spain's refusal in 1802 to let Americans deposit goods there angered westerners; Jefferson told Livingston to buy the city, and the negotiations ended in the April 30, 1803 treaty for all of Louisiana.",
+   "uso:questionFor": {
+    "@id": "us:new-orleans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did events in New Orleans shape Reconstruction and the fight against segregation?",
+   "uso:answer": "The 1866 Mechanics' Institute massacre helped bring about Radical Reconstruction and stronger congressional action, including the Fourteenth Amendment's citizenship guarantees; in 1891 the city's Comité des Citoyens organized and funded the legal challenge to the Separate Car Law that became Plessy v. Ferguson.",
+   "uso:questionFor": {
+    "@id": "us:new-orleans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?",
+   "uso:answer": "Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level.",
+   "uso:questionFor": {
+    "@id": "us:new-orleans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1699"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2005-08-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 2020 census counts 383,997 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1718"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "France makes New Orleans the capital of French Louisiana.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1722"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. flag is raised in New Orleans as Louisiana passes to the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1815-01-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The city's enslaved population peaks at 23,448, nearly a quarter of its residents.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1840"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-07-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1891-09-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed.",
@@ -5222,6 +5364,160 @@
    "dcterms:title": "Treaty of San Lorenzo/Pinckney's Treaty, 1795",
    "schema:url": {
     "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), by Jeffery U. Darensbourg",
+   "dcterms:title": "Bulbancha",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/bulbancha"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Geological Survey",
+   "dcterms:title": "Statement of S. Jeffress Williams, Coastal Marine Geologist, USGS Woods Hole Science Center (October 20, 2005)",
+   "schema:url": {
+    "@id": "https://www.usgs.gov/congressional/statement-s-jeffress-williams-coastal-marine-geologist-usgs-woods-hole-science-center"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: New Orleans city, Louisiana",
+   "schema:url": {
+    "@id": "https://census.gov/quickfacts/fact/table/neworleanscitylouisiana,losangelescountycalifornia/PST045217"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Jean Lafitte National Historical Park and Preserve",
+   "dcterms:title": "Early Europeans in Louisiana",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jela/learn/historyculture/early-europeans-in-louisiana.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, by Wayne T. De Cesar and Susan Page",
+   "dcterms:title": "The Louisiana Purchase: Prologue Magazine, Spring 2003",
+   "schema:url": {
+    "@id": "https://www.archives.gov/publications/prologue/2003/spring/louisiana-purchase"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Jean Lafitte National Historical Park and Preserve",
+   "dcterms:title": "The Treaty of Ghent",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), by John Bardes",
+   "dcterms:title": "Urban Slavery in Antebellum Louisiana",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/urban-slavery-in-antebellum-louisiana"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), by Clint Bruce",
+   "dcterms:title": "Mechanics' Institute Massacre of 1866",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/mechanics-institute-massacre-of-1866"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), by Fatima Shaik",
+   "dcterms:title": "Comité des Citoyens",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/comite-des-citoyens"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, New Orleans Jazz National Historical Park",
+   "dcterms:title": "A New Orleans Jazz History, 1895-1927",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jazz/learn/historyculture/jazz_history.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Weather Service, Mobile/Pensacola Forecast Office",
+   "dcterms:title": "Hurricane Katrina - August 2005",
+   "schema:url": {
+    "@id": "https://weather.gov/mob/katrina"
    },
    "uso:sourceType": "government"
   },
@@ -10099,6 +10395,159 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:new-orleans",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s9"
+    }
+   ],
+   "rdfs:label": "New Orleans",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1718"
+   },
+   "skos:altLabel": [
+    "Bulbancha",
+    "Crescent City",
+    "La Nouvelle-Orléans",
+    "NOLA"
+   ],
+   "skos:broader": {
+    "@id": "us:the-south"
+   },
+   "skos:definition": "Louisiana's largest city, founded by the French in 1718 on a natural levee near the mouth of the Mississippi River on land Choctaw speakers call Bulbancha; a colonial capital, the nation's largest antebellum slave market, the birthplace of jazz, and a low-lying port whose levees failed during Hurricane Katrina in 2005.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "New Orleans",
+   "skos:related": [
+    {
+     "@id": "us:battle-of-new-orleans"
+    },
+    {
+     "@id": "us:choctaw-nation"
+    },
+    {
+     "@id": "us:comite-des-citoyens"
+    },
+    {
+     "@id": "us:congo-square"
+    },
+    {
+     "@id": "us:domestic-slave-trade"
+    },
+    {
+     "@id": "us:hurricane-katrina"
+    },
+    {
+     "@id": "us:jazz"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:new-orleans-massacre-of-1866"
+    },
+    {
+     "@id": "us:plessy-v-ferguson"
+    },
+    {
+     "@id": "us:storyville"
+    }
+   ],
+   "uso:borders": [
+    {
+     "@id": "us:lake-pontchartrain"
+    },
+    {
+     "@id": "us:mississippi-river"
+    }
+   ],
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/new-orleans.md",
+   "uso:foundedBy": {
+    "@id": "us:jean-baptiste-le-moyne-de-bienville"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:louisiana"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/9"
     }
    ]
   },

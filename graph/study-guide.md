@@ -425,6 +425,25 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Jefferson's 1803 letter to William Henry Harrison propose to obtain Native land?
   **A:** He proposed government trading houses that would draw Native leaders into debt, which they would pay off by ceding land, and he expected Native nations either to be absorbed as citizens or to move west of the Mississippi.
 
+## regions-cities-and-landmarks
+
+### [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) — City
+
+| Myth | Fact |
+|---|---|
+| All of New Orleans lies below sea level. | A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it. |
+
+**Why it matters:** Katrina's floodwaters covering most of the city made the "bowl" image memorable, but the oldest neighborhoods stand on the high ground the founders chose, and the low areas are largely drained swamp that has sunk since the early 1900s.
+
+- **Q:** Why did the French choose the site of New Orleans, and what Indigenous knowledge shaped that choice?
+  **A:** Bienville was told to build a city near the Mississippi's mouth to keep British and Spanish rivals from moving up the river; Native people had told his brother Iberville's 1699 expedition of a ridge (now Esplanade Ridge) linking the river to Bayou St. John and Lake Pontchartrain, which made the spot strategically valuable.
+- **Q:** Why did Jefferson want New Orleans, and how did that lead to the Louisiana Purchase?
+  **A:** Its port was the outlet for produce from more than a third of the country, and Spain's refusal in 1802 to let Americans deposit goods there angered westerners; Jefferson told Livingston to buy the city, and the negotiations ended in the April 30, 1803 treaty for all of Louisiana.
+- **Q:** How did events in New Orleans shape Reconstruction and the fight against segregation?
+  **A:** The 1866 Mechanics' Institute massacre helped bring about Radical Reconstruction and stronger congressional action, including the Fourteenth Amendment's citizenship guarantees; in 1891 the city's Comité des Citoyens organized and funded the legal challenge to the Separate Car Law that became Plessy v. Ferguson.
+- **Q:** Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?
+  **A:** Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level.
+
 ## rights-and-law
 
 ### [Equal protection](../articles/rights-and-law/equal-protection.md) — Right

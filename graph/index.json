@@ -3060,6 +3060,181 @@
   ]
  },
  {
+  "id": "us:new-orleans",
+  "title": "New Orleans",
+  "aliases": [
+   "La Nouvelle-Orléans",
+   "Bulbancha",
+   "Crescent City",
+   "NOLA"
+  ],
+  "type": "City",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/new-orleans.md",
+  "created": "2026-11-13",
+  "summary": "Louisiana's largest city, founded by the French in 1718 on a natural levee near the mouth of the Mississippi River on land Choctaw speakers call Bulbancha; a colonial capital, the nation's largest antebellum slave market, the birthplace of jazz, and a low-lying port whose levees failed during Hurricane Katrina in 2005.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:the-south"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jazz"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:domestic-slave-trade"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:comite-des-citoyens"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:choctaw-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-new-orleans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hurricane-katrina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-orleans-massacre-of-1866"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:congo-square"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:storyville"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:louisiana",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:jean-baptiste-le-moyne-de-bienville",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:mississippi-river",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:lake-pontchartrain",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "1718",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the French choose the site of New Orleans, and what Indigenous knowledge shaped that choice?",
+    "answer": "Bienville was told to build a city near the Mississippi's mouth to keep British and Spanish rivals from moving up the river; Native people had told his brother Iberville's 1699 expedition of a ridge (now Esplanade Ridge) linking the river to Bayou St. John and Lake Pontchartrain, which made the spot strategically valuable."
+   },
+   {
+    "question": "Why did Jefferson want New Orleans, and how did that lead to the Louisiana Purchase?",
+    "answer": "Its port was the outlet for produce from more than a third of the country, and Spain's refusal in 1802 to let Americans deposit goods there angered westerners; Jefferson told Livingston to buy the city, and the negotiations ended in the April 30, 1803 treaty for all of Louisiana."
+   },
+   {
+    "question": "How did events in New Orleans shape Reconstruction and the fight against segregation?",
+    "answer": "The 1866 Mechanics' Institute massacre helped bring about Radical Reconstruction and stronger congressional action, including the Fourteenth Amendment's citizenship guarantees; in 1891 the city's Comité des Citoyens organized and funded the legal challenge to the Separate Car Law that became Plessy v. Ferguson."
+   },
+   {
+    "question": "Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?",
+    "answer": "Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1699",
+    "event": "Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain."
+   },
+   {
+    "date": "1718",
+    "event": "Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth."
+   },
+   {
+    "date": "1722",
+    "event": "France makes New Orleans the capital of French Louisiana."
+   },
+   {
+    "date": "1803-12-20",
+    "event": "The U.S. flag is raised in New Orleans as Louisiana passes to the United States."
+   },
+   {
+    "date": "1815-01-08",
+    "event": "Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect."
+   },
+   {
+    "date": "1840",
+    "event": "The city's enslaved population peaks at 23,448, nearly a quarter of its residents."
+   },
+   {
+    "date": "1866-07-30",
+    "event": "White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights."
+   },
+   {
+    "date": "1891-09-05",
+    "event": "Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law."
+   },
+   {
+    "date": "1895",
+    "event": "Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz."
+   },
+   {
+    "date": "2005-08-31",
+    "event": "After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The 2020 census counts 383,997 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "All of New Orleans lies below sea level.",
+   "fact": "A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it.",
+   "why": "Katrina's floodwaters covering most of the city made the \"bowl\" image memorable, but the oldest neighborhoods stand on the high ground the founders chose, and the low areas are largely drained swamp that has sunk since the early 1900s."
+  },
+  "source_urls": [
+   "https://64parishes.org/entry/bulbancha",
+   "https://www.nps.gov/jela/learn/historyculture/early-europeans-in-louisiana.htm",
+   "https://www.archives.gov/publications/prologue/2003/spring/louisiana-purchase",
+   "https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm",
+   "https://64parishes.org/entry/urban-slavery-in-antebellum-louisiana",
+   "https://64parishes.org/entry/mechanics-institute-massacre-of-1866",
+   "https://64parishes.org/entry/comite-des-citoyens",
+   "https://www.nps.gov/jazz/learn/historyculture/jazz_history.htm",
+   "https://weather.gov/mob/katrina",
+   "https://www.usgs.gov/congressional/statement-s-jeffress-williams-coastal-marine-geologist-usgs-woods-hole-science-center",
+   "https://census.gov/quickfacts/fact/table/neworleanscitylouisiana,losangelescountycalifornia/PST045217"
+  ]
+ },
+ {
   "id": "us:panic-of-1873",
   "title": "Panic of 1873",
   "aliases": [

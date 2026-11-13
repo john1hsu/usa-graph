@@ -9,7 +9,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1718 | **[New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md)** (City) |
+| 1718 | Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1722 | France makes New Orleans the capital of French Louisiana. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -93,6 +97,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-10-20 | The Senate ratifies the treaty by a vote of 24 to 7. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-11-30 | Spain formally returns Louisiana to France. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -104,6 +109,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -129,6 +135,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -193,6 +200,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1866-06-13 | The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1866-06-13 | The House passes the amendment, 120 to 32. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-16 | The joint resolution is submitted to the states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-07-30 | White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
@@ -245,12 +253,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1896 | Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -348,6 +358,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2003-08-11 | NATO assumes command of the UN-mandated International Security Assistance Force (ISAF). — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2004-02-14 | The Mississippi African-American Monument is dedicated in Vicksburg National Military Park. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -359,6 +370,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
