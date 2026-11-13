@@ -318,6 +318,16 @@
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s11> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s12> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s13> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/science-and-innovation/morrill-land-grant-college-act.md" .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/slavery-in-the-united-states.md" .
@@ -4790,6 +4800,146 @@
   <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> {
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The act gave states land or scrip — vouchers for distant federal land — to sell; the proceeds became a permanent endowment that could not be spent on buildings, and most of that land had been taken from Native nations through cessions, many of them coerced." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Land-grant universities are so called because the federal government gave them the land their campuses stand on." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The campus story hides where the money came from — New York's scrip, sold to fund Cornell, and Dakota land ceded in Minnesota endowed colleges far from the land itself." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why could the Morrill Act pass in 1862 when a similar bill had failed in 1859?" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "President Buchanan vetoed the 1859 bill on fiscal and constitutional grounds; after Southern states seceded, Morrill reintroduced it with added emphasis on military instruction and Lincoln signed it on July 2, 1862." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did a law about colleges in the East depend on Native land in the West?" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "States without enough federal land received scrip to claim and sell Western land, and Western states selected land within their borders; researchers traced about 10.7 million acres to cessions from nearly 250 tribes, bands and communities, for which the United States paid less than $400,000, often nothing." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1890 Morrill Act reshape the system the 1862 act began?" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It added annual federal funding and barred racial discrimination in admissions, but let states meet that rule with separate institutions \"of like character,\" which produced the 19 historically Black 1890 Institutions in the segregated South." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1857-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1859-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Morrill reintroduces the bill after Southern states secede." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1861"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln signs the Morrill Act; states in rebellion are excluded from its grants." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1862-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Hatch Act funds agricultural experiment stations at the land-grant colleges." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1887"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Smith-Lever Act creates the Cooperative Extension System." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1994-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2000/01/rdf-schema#label> "Morrill Land-Grant College Act" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#altLabel> "First Morrill Act" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Land-Grant College Act of 1862" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Morrill Act of 1862" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#definition> "The federal law signed by President Abraham Lincoln on July 2, 1862, that gave each loyal state 30,000 acres of federal land or land scrip per member of Congress to endow colleges teaching agriculture and the mechanic arts, founding the land-grant university system — largely with land taken from Native nations." .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morrill Land-Grant College Act" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cornell-university> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dakota-oyate> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/equity-in-educational-land-grant-status-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-buchanan> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/land-grant-universities> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-act-of-1890> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smith-lever-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-colleges-and-universities> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "science-and-innovation" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/science-and-innovation/morrill-land-grant-college-act.md" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/land-grant-universities> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://schema.org/startDate> "1862-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/title> "Morrill Act (1862)" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/morrill-act> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <http://purl.org/dc/terms/publisher> "Genevieve K. Croft, Congressional Research Service, August 9, 2022 (via EveryCRSReport.com)" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <http://purl.org/dc/terms/title> "The U.S. Land-Grant University System: Overview and Role in Agricultural Research (R45897)" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2> <https://schema.org/url> <https://www.everycrsreport.com/reports/R45897.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <http://purl.org/dc/terms/publisher> "Lisa S. Benson, Congressional Research Service, June 15, 2021" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <http://purl.org/dc/terms/title> "1890 Land-Grant Universities: Background and Selected Issues (IF11847)" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3> <https://schema.org/url> <https://www.congress.gov/crs_external_products/IF/PDF/IF11847/IF11847.9.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <http://purl.org/dc/terms/publisher> "Teaching American History (Ashbrook Center), text from The American Presidency Project" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <http://purl.org/dc/terms/title> "Veto Message Regarding Land Grant Colleges (James Buchanan, February 24, 1859)" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4> <https://schema.org/url> <https://teachingamericanhistory.org/document/veto-message-regarding-land-grant-colleges> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <http://purl.org/dc/terms/publisher> "Louis P. Towles, NCpedia (State Library of North Carolina), 2006" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <http://purl.org/dc/terms/title> "Land Grant Colleges" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> <https://schema.org/url> <https://ncpedia.org/node/2813> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <http://purl.org/dc/terms/publisher> "Robert Lee and Tristan Ahtone, High Country News, March 30, 2020" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <http://purl.org/dc/terms/title> "Land-grab universities" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> <https://schema.org/url> <https://www.hcn.org/issues/52-4/indigenous-affairs-education-land-grab-universities/> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <http://purl.org/dc/terms/publisher> "David R. Wrone, Illinois History Teacher (1998), via Illinois Periodicals Online, Northern Illinois University Libraries" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <http://purl.org/dc/terms/title> "The People's Choice College: The Movement Behind the Morrill Land Grant Act of 1862" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <https://schema.org/url> <https://ipo.lib.niu.edu/1998/iht519842.html> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> {
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865." .
@@ -5009,6 +5159,7 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -5054,6 +5205,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -5063,6 +5215,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -5215,6 +5368,8 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/dakota-oyate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/day-of-remembrance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -5296,6 +5451,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/equity-in-educational-land-grant-status-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/ex-parte-endo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -5445,12 +5601,16 @@
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -5483,6 +5643,7 @@
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/indian-removal> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -5493,6 +5654,7 @@
   <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -5588,7 +5750,11 @@
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/john-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/korematsu-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -5597,6 +5763,8 @@
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -5673,6 +5841,24 @@
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/mobile-v-bolden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-act-of-1890> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
@@ -5684,6 +5870,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans-massacre-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -5714,6 +5901,7 @@
   <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/northern-pacific-railway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -5921,10 +6109,12 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/smith-lever-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -6020,6 +6210,7 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-new-echota> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/tribal-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -6062,6 +6253,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .

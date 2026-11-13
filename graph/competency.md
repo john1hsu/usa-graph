@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
+| `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |

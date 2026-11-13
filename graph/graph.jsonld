@@ -2455,6 +2455,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The act gave states land or scrip — vouchers for distant federal land — to sell; the proceeds became a permanent endowment that could not be spent on buildings, and most of that land had been taken from Native nations through cessions, many of them coerced.",
+   "uso:myth": "Land-grant universities are so called because the federal government gave them the land their campuses stand on.",
+   "uso:why": "The campus story hides where the money came from — New York's scrip, sold to fund Cornell, and Dakota land ceded in Minnesota endowed colleges far from the land itself."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why could the Morrill Act pass in 1862 when a similar bill had failed in 1859?",
+   "uso:answer": "President Buchanan vetoed the 1859 bill on fiscal and constitutional grounds; after Southern states seceded, Morrill reintroduced it with added emphasis on military instruction and Lincoln signed it on July 2, 1862.",
+   "uso:questionFor": {
+    "@id": "us:morrill-land-grant-college-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a law about colleges in the East depend on Native land in the West?",
+   "uso:answer": "States without enough federal land received scrip to claim and sell Western land, and Western states selected land within their borders; researchers traced about 10.7 million acres to cessions from nearly 250 tribes, bands and communities, for which the United States paid less than $400,000, often nothing.",
+   "uso:questionFor": {
+    "@id": "us:morrill-land-grant-college-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1890 Morrill Act reshape the system the 1862 act began?",
+   "uso:answer": "It added annual federal funding and barred racial discrimination in admissions, but let states meet that rule with separate institutions \"of like character,\" which produced the 19 historically Black 1890 Institutions in the segregated South.",
+   "uso:questionFor": {
+    "@id": "us:morrill-land-grant-college-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1851-11-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1857-12-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1859-02-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Morrill reintroduces the bill after Southern states secede.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1861"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lincoln signs the Morrill Act; states in rebellion are excluded from its grants.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1862-07-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Hatch Act funds agricultural experiment stations at the land-grant colleges.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1887"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Smith-Lever Act creates the Cooperative Extension System.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1994-10-20"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it.",
@@ -5366,6 +5481,104 @@
     "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Morrill Act (1862)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/morrill-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Genevieve K. Croft, Congressional Research Service, August 9, 2022 (via EveryCRSReport.com)",
+   "dcterms:title": "The U.S. Land-Grant University System: Overview and Role in Agricultural Research (R45897)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R45897.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Lisa S. Benson, Congressional Research Service, June 15, 2021",
+   "dcterms:title": "1890 Land-Grant Universities: Background and Selected Issues (IF11847)",
+   "schema:url": {
+    "@id": "https://www.congress.gov/crs_external_products/IF/PDF/IF11847/IF11847.9.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center), text from The American Presidency Project",
+   "dcterms:title": "Veto Message Regarding Land Grant Colleges (James Buchanan, February 24, 1859)",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/veto-message-regarding-land-grant-colleges"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Louis P. Towles, NCpedia (State Library of North Carolina), 2006",
+   "dcterms:title": "Land Grant Colleges",
+   "schema:url": {
+    "@id": "https://ncpedia.org/node/2813"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Robert Lee and Tristan Ahtone, High Country News, March 30, 2020",
+   "dcterms:title": "Land-grab universities",
+   "schema:url": {
+    "@id": "https://www.hcn.org/issues/52-4/indigenous-affairs-education-land-grab-universities/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "David R. Wrone, Illinois History Teacher (1998), via Illinois Periodicals Online, Northern Illinois University Libraries",
+   "dcterms:title": "The People's Choice College: The Movement Behind the Morrill Land Grant Act of 1862",
+   "schema:url": {
+    "@id": "https://ipo.lib.niu.edu/1998/iht519842.html"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s1",
@@ -10395,6 +10608,153 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:morrill-land-grant-college-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7"
+    }
+   ],
+   "rdfs:label": "Morrill Land-Grant College Act",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1862-07-02"
+   },
+   "skos:altLabel": [
+    "First Morrill Act",
+    "Land-Grant College Act of 1862",
+    "Morrill Act of 1862"
+   ],
+   "skos:broader": {
+    "@id": "us:higher-education-in-the-united-states"
+   },
+   "skos:definition": "The federal law signed by President Abraham Lincoln on July 2, 1862, that gave each loyal state 30,000 acres of federal land or land scrip per member of Congress to endow colleges teaching agriculture and the mechanic arts, founding the land-grant university system — largely with land taken from Native nations.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Morrill Land-Grant College Act",
+   "skos:related": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:cornell-university"
+    },
+    {
+     "@id": "us:dakota-oyate"
+    },
+    {
+     "@id": "us:equity-in-educational-land-grant-status-act"
+    },
+    {
+     "@id": "us:hatch-act-of-1887"
+    },
+    {
+     "@id": "us:historically-black-colleges-and-universities"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:james-buchanan"
+    },
+    {
+     "@id": "us:land-grant-universities"
+    },
+    {
+     "@id": "us:morrill-act-of-1890"
+    },
+    {
+     "@id": "us:northwest-ordinance"
+    },
+    {
+     "@id": "us:smith-lever-act"
+    },
+    {
+     "@id": "us:tribal-colleges-and-universities"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:domain": "science-and-innovation",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/science-and-innovation/morrill-land-grant-college-act.md",
+   "uso:influencedBy": {
+    "@id": "us:jonathan-baldwin-turner"
+   },
+   "uso:introducedBy": {
+    "@id": "us:justin-smith-morrill"
+   },
+   "uso:ledTo": {
+    "@id": "us:land-grant-universities"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:american-civil-war"
+   },
+   "uso:signedBy": {
+    "@id": "us:abraham-lincoln"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/timeline/9"
     }
    ]
   },

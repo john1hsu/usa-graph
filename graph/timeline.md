@@ -142,12 +142,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1860-12-20 | A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1861 | Morrill reintroduces the bill after Southern states secede. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1861-02-04 | Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861-03-04 | Inaugurated after seven Southern states had seceded. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
@@ -155,6 +159,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1861-05 | At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as "contraband of war." — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862 | Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1862-04 | Congress abolishes slavery in the District of Columbia. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1862-07-02 | **[Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md)** (Law) |
+| 1862-07-02 | Lincoln signs the Morrill Act; states in rebellion are excluded from its grants. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -249,7 +255,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -273,6 +281,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -341,6 +350,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

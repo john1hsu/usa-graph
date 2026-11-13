@@ -476,6 +476,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Who was left out of the citizenship clause at first, and how did that change?
   **A:** Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.
 
+## science-and-innovation
+
+### [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Land-grant universities are so called because the federal government gave them the land their campuses stand on. | The act gave states land or scrip — vouchers for distant federal land — to sell; the proceeds became a permanent endowment that could not be spent on buildings, and most of that land had been taken from Native nations through cessions, many of them coerced. |
+
+**Why it matters:** The campus story hides where the money came from — New York's scrip, sold to fund Cornell, and Dakota land ceded in Minnesota endowed colleges far from the land itself.
+
+- **Q:** Why could the Morrill Act pass in 1862 when a similar bill had failed in 1859?
+  **A:** President Buchanan vetoed the 1859 bill on fiscal and constitutional grounds; after Southern states seceded, Morrill reintroduced it with added emphasis on military instruction and Lincoln signed it on July 2, 1862.
+- **Q:** How did a law about colleges in the East depend on Native land in the West?
+  **A:** States without enough federal land received scrip to claim and sell Western land, and Western states selected land within their borders; researchers traced about 10.7 million acres to cessions from nearly 250 tribes, bands and communities, for which the United States paid less than $400,000, often nothing.
+- **Q:** How did the 1890 Morrill Act reshape the system the 1862 act began?
+  **A:** It added annual federal funding and barred racial discrimination in admissions, but let states meet that rule with separate institutions "of like character," which produced the 19 historically Black 1890 Institutions in the segregated South.
+
 ## society-and-people
 
 ### [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) — Concept
