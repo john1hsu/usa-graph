@@ -34,9 +34,13 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 3 | Slavery in the United States, bill-of-rights, federalist-papers |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
+| `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
-| `us:plessy-v-ferguson` | 1 | jim-crow-laws |
+| `us:jim-crow-laws` | 1 | african-americans |
+| `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
+| `us:plessy-v-ferguson` | 1 | Jim Crow laws |
+| `us:separate-car-act` | 1 | Jim Crow laws |
 
 ## Happenings by era
 
@@ -53,6 +57,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:jim-crow-laws` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 | `us:united-states-constitution` | interpretive |  |
@@ -105,5 +110,8 @@ _Which institutions, offices, rights and principles did each document or law est
 
 | document | established |
 |---|---|
+| `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
+| `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
+| `us:separate-car-act` | `us:jim-crow-laws` |
 

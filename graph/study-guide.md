@@ -197,6 +197,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## gilded-age-and-progressive-era
 
+### [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| Jim Crow laws existed only in the former Confederate states. | Most Jim Crow laws were passed in the South, but border states adopted them too, Oklahoma used a grandfather clause to bar Black voters until 1915, and Black Northerners met segregation in schools and public accommodations. |
+
+**Why it matters:** Treating segregation as a purely regional custom hides how widely racial discrimination operated and why the civil rights movement sought national laws to end it.
+
+- **Q:** Why did historians argue for decades about when Jim Crow began?
+  **A:** C. Vann Woodward held that legal segregation was not inevitable and arrived mainly in the 1890s after a more fluid period, while critics such as Joel Williamson and Howard Rabinowitz found segregation by custom, and in some places by law, already in place during Reconstruction; the dispute shapes whether Jim Crow is seen as a legacy of slavery or a new system built by later choices.
+- **Q:** How did southern states keep Black citizens from voting despite the Fifteenth Amendment?
+  **A:** They used poll taxes, literacy tests, grandfather clauses, white primaries and new state constitutions such as Louisiana's of 1898 and Alabama's of 1901, enforced alongside economic intimidation and violence including lynching.
+- **Q:** Which federal actions dismantled the Jim Crow system?
+  **A:** Court rulings such as Brown v. Board of Education (1954), Harper v. Virginia State Board of Elections (1966) and Loving v. Virginia (1967), together with the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Civil Rights Act of 1968.
+
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase
 
 | Myth | Fact |

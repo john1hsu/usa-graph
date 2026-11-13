@@ -1437,6 +1437,214 @@
   ]
  },
  {
+  "id": "us:jim-crow-laws",
+  "title": "Jim Crow laws",
+  "aliases": [
+   "Jim Crow",
+   "Jim Crow segregation",
+   "Jim Crow system"
+  ],
+  "type": "Policy",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/jim-crow-laws.md",
+  "created": "2026-11-13",
+  "summary": "The state and local laws, backed by custom and violence, that enforced racial segregation and stripped Black Americans of voting rights, mainly in the South and border states, from the end of Reconstruction until federal laws and court rulings dismantled them in the 1950s and 1960s.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:racial-segregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-codes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-cases"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-act-of-1964"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:loving-v-virginia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:guinn-v-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:southern-united-states",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:separate-car-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:louisiana-constitution-of-1898",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:alabama-constitution-of-1901",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1877",
+  "end": "1968",
+  "review": [
+   {
+    "question": "Why did historians argue for decades about when Jim Crow began?",
+    "answer": "C. Vann Woodward held that legal segregation was not inevitable and arrived mainly in the 1890s after a more fluid period, while critics such as Joel Williamson and Howard Rabinowitz found segregation by custom, and in some places by law, already in place during Reconstruction; the dispute shapes whether Jim Crow is seen as a legacy of slavery or a new system built by later choices."
+   },
+   {
+    "question": "How did southern states keep Black citizens from voting despite the Fifteenth Amendment?",
+    "answer": "They used poll taxes, literacy tests, grandfather clauses, white primaries and new state constitutions such as Louisiana's of 1898 and Alabama's of 1901, enforced alongside economic intimidation and violence including lynching."
+   },
+   {
+    "question": "Which federal actions dismantled the Jim Crow system?",
+    "answer": "Court rulings such as Brown v. Board of Education (1954), Harper v. Virginia State Board of Elections (1966) and Loving v. Virginia (1967), together with the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Civil Rights Act of 1968."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1828",
+    "event": "Thomas Dartmouth Rice first performs the blackface minstrel routine \"Jump Jim Crow,\" source of the later name for segregation."
+   },
+   {
+    "date": "1865-12",
+    "event": "Alabama adopts a Black Code controlling the labor and movement of freed people."
+   },
+   {
+    "date": "1875",
+    "event": "Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars."
+   },
+   {
+    "date": "1881",
+    "event": "Tennessee orders segregated railroad cars, a law often called the first Jim Crow law."
+   },
+   {
+    "date": "1883",
+    "event": "In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875."
+   },
+   {
+    "date": "1890",
+    "event": "Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race."
+   },
+   {
+    "date": "1896",
+    "event": "Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine."
+   },
+   {
+    "date": "1898",
+    "event": "Louisiana's new constitution mandates segregated schools and restricts Black men's voting."
+   },
+   {
+    "date": "1901",
+    "event": "Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage."
+   },
+   {
+    "date": "1915-06",
+    "event": "In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment."
+   },
+   {
+    "date": "1954",
+    "event": "Brown v. Board of Education declares school segregation unconstitutional."
+   },
+   {
+    "date": "1964-07-02",
+    "event": "The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels."
+   },
+   {
+    "date": "1965-08-06",
+    "event": "President Johnson signs the Voting Rights Act."
+   },
+   {
+    "date": "1966",
+    "event": "Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional."
+   },
+   {
+    "date": "1967-06-12",
+    "event": "Loving v. Virginia unanimously strikes down a state ban on interracial marriage."
+   },
+   {
+    "date": "1968",
+    "event": "A new Civil Rights Act prohibits discrimination in housing."
+   }
+  ],
+  "misconception": {
+   "myth": "Jim Crow laws existed only in the former Confederate states.",
+   "fact": "Most Jim Crow laws were passed in the South, but border states adopted them too, Oklahoma used a grandfather clause to bar Black voters until 1915, and Black Northerners met segregation in schools and public accommodations.",
+   "why": "Treating segregation as a purely regional custom hides how widely racial discrimination operated and why the civil rights movement sought national laws to end it."
+  },
+  "source_urls": [
+   "https://jimcrowmuseum.ferris.edu/origins.htm",
+   "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/jimcrow.htm",
+   "https://www.britannica.com/event/Jim-Crow-law",
+   "https://loc.gov/exhibits/civil-rights-act/segregation-era.html",
+   "https://encyclopediaofalabama.org/article/segregation-jim-crow/",
+   "https://rci.nanzan-u.ac.jp/america/en/journal/item/nras42_03_KATO_Saori.pdf",
+   "https://louisianastatemuseum.org/reconstruction-conclusion",
+   "https://www.archives.gov/legislative/features/civil-rights-1964/civil-rights-act-1964.html",
+   "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us",
+   "https://www.britannica.com/story/50-years-ago-loving-v-virginia",
+   "https://cambridge.org/core/journals/law-and-history-review/article/new-takes-on-jim-crow-a-review-of-recent-scholarship/AF76279EE860C4FF0984962B99B53066"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [
