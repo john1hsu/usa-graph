@@ -27,6 +27,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
+| `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
@@ -46,7 +47,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 _For each era, which events, conflicts, laws and movements took place during it?_ — `queries/05-happenings-by-era.rq`
 
-_No results._
+| era | node | start |
+|---|---|---|
+| `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -58,6 +61,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:american-civil-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
+| `us:louisiana-purchase` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 | `us:united-states-constitution` | interpretive |  |

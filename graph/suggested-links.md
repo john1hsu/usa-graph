@@ -6,14 +6,16 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 2.68 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.34 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 1.93 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.82 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
+| 1.77 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | 1.76 | `us:american-civil-war` | `us:jim-crow-laws` | `us:fourteenth-amendment`, `us:reconstruction-era` |
 | 1.76 | `us:thirteenth-amendment` | `us:voting-rights-act-of-1965` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:united-states-congress` |
-| 1.62 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| 1.59 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.61 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.56 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
 | 1.22 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
-| 1.08 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 1.07 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 1.04 | `us:declaration-of-independence` | `us:louisiana-purchase` | `us:slavery-in-the-united-states`, `us:thomas-jefferson`, `us:united-states-constitution` |
 | 1.04 | `us:brown-v-board-of-education` | `us:japanese-american-incarceration` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 1.04 | `us:japanese-american-incarceration` | `us:plessy-v-ferguson` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 1.04 | `us:united-states-constitution` | `us:voting-rights-act-of-1965` | `us:fourteenth-amendment`, `us:united-states-congress` |
@@ -24,8 +26,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 0.72 | `us:brown-v-board-of-education` | `us:jazz` | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 0.72 | `us:fourteenth-amendment` | `us:jazz` | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 0.72 | `us:abraham-lincoln` | `us:fourteenth-amendment` | `us:american-civil-war`, `us:thirteenth-amendment` |
-| 0.72 | `us:jazz` | `us:thirteenth-amendment` | `us:plessy-v-ferguson`, `us:slavery-in-the-united-states` |
+| 0.71 | `us:jazz` | `us:thirteenth-amendment` | `us:plessy-v-ferguson`, `us:slavery-in-the-united-states` |
 | 0.70 | `us:brown-v-board-of-education` | `us:thirteenth-amendment` | `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
 | 0.69 | `us:american-civil-war` | `us:plessy-v-ferguson` | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| 0.69 | `us:plessy-v-ferguson` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| 0.69 | `us:constitutional-convention` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |

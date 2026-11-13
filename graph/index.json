@@ -1645,6 +1645,207 @@
   ]
  },
  {
+  "id": "us:louisiana-purchase",
+  "title": "Louisiana Purchase",
+  "aliases": [
+   "Louisiana Purchase Treaty",
+   "Purchase of Louisiana",
+   "Louisiana Purchase of 1803",
+   "Treaty of Cession of Louisiana"
+  ],
+  "type": "Event",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/louisiana-purchase.md",
+  "created": "2026-11-13",
+  "summary": "The 1803 agreement in which the United States paid France $15 million for its claim to Louisiana, about 828,000 square miles west of the Mississippi River, roughly doubling the nation's size while leaving the land itself in the hands of the Native nations who lived there.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lewis-and-clark-expedition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-monroe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:robert-r-livingston"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mississippi-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:german-coast-uprising"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:early-republic",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-orleans",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:haitian-revolution",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:territory-of-orleans",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:adams-onis-treaty",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:missouri-compromise",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1803-04-30",
+  "end": "1803-12-20",
+  "review": [
+   {
+    "question": "Why did Jefferson's envoys end up buying far more land than they were sent to get?",
+    "answer": "They were authorized to pay up to $10 million for New Orleans and the Floridas, but Napoleon, whose army had been devastated in Saint-Domingue and who faced renewed war with Britain, offered all of Louisiana, so Livingston and Monroe exceeded their instructions and agreed to $15 million for the whole territory."
+   },
+   {
+    "question": "How did the purchase test Jefferson's own view of the Constitution, and how did he resolve it?",
+    "answer": "Jefferson believed the Constitution made no provision for acquiring foreign territory and drafted an amendment, but his Cabinet argued it was unnecessary and Napoleon's deadline loomed, so he let the Senate ratify the treaty without one, comparing himself to a guardian investing a ward's money in adjacent land."
+   },
+   {
+    "question": "According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?",
+    "answer": "It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1795",
+    "event": "A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export."
+   },
+   {
+    "date": "1800",
+    "event": "France reacquires Louisiana from Spain."
+   },
+   {
+    "date": "1802-10",
+    "event": "Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit."
+   },
+   {
+    "date": "1803-01",
+    "event": "Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas."
+   },
+   {
+    "date": "1803-04-11",
+    "event": "French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana."
+   },
+   {
+    "date": "1803-04-30",
+    "event": "Livingston, Monroe and François Barbé-Marbois sign the treaty of cession and two financial conventions in Paris."
+   },
+   {
+    "date": "1803-07-04",
+    "event": "The purchase is officially announced in the United States."
+   },
+   {
+    "date": "1803-10-20",
+    "event": "The Senate ratifies the treaty by a vote of 24 to 7."
+   },
+   {
+    "date": "1803-11-30",
+    "event": "Spain formally returns Louisiana to France."
+   },
+   {
+    "date": "1803-12-20",
+    "event": "France transfers Louisiana to the United States at New Orleans."
+   },
+   {
+    "date": "1804",
+    "event": "Congress creates the Territory of Orleans from the southern part of the purchase."
+   },
+   {
+    "date": "1811",
+    "event": "More than eighty enslaved people launch the German Coast uprising upriver from New Orleans."
+   },
+   {
+    "date": "1812",
+    "event": "Louisiana is admitted as a state; President James Madison signs the statehood law."
+   },
+   {
+    "date": "1819",
+    "event": "The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders."
+   }
+  ],
+  "misconception": {
+   "myth": "In 1803 the United States bought the land of the Louisiana Territory from France for a few cents an acre.",
+   "fact": "France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count.",
+   "why": "The famous price makes the purchase look like a single real-estate bargain and erases the Native nations whose lands were the real subject of later negotiation, pressure and war."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+   "https://founders.archives.gov/documents/Jefferson/01-41-02-0139",
+   "https://history.state.gov/milestones/1801-1829/louisiana-purchase",
+   "https://academic.oup.com/jah/article/103/4/921/3052479",
+   "https://www.monticello.org/the-louisiana-purchase",
+   "https://64parishes.org/entry/louisiana-purchase-and-territorial-period",
+   "https://daily.jstor.org/the-actual-louisiana-purchase-price"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

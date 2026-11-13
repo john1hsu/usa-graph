@@ -50,17 +50,32 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1802-10 | Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1803-01 | Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-02-27 | In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1803-04-11 | French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-04-30 – 1803-12-20 | **[Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md)** (Event) |
+| 1803-04-30 | Livingston, Monroe and François Barbé-Marbois sign the treaty of cession and two financial conventions in Paris. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-07-04 | The purchase is officially announced in the United States. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-10-20 | The Senate ratifies the treaty by a vote of 24 to 7. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-11-30 | Spain formally returns Louisiana to France. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1808-01-01 | The federal ban on importing enslaved people takes effect. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |

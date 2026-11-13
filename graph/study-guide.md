@@ -178,6 +178,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did the redress movement achieve, and how?
   **A:** Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education.
 
+## early-republic-and-expansion
+
+### [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) — Event
+
+| Myth | Fact |
+|---|---|
+| In 1803 the United States bought the land of the Louisiana Territory from France for a few cents an acre. | France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count. |
+
+**Why it matters:** The famous price makes the purchase look like a single real-estate bargain and erases the Native nations whose lands were the real subject of later negotiation, pressure and war.
+
+- **Q:** Why did Jefferson's envoys end up buying far more land than they were sent to get?
+  **A:** They were authorized to pay up to $10 million for New Orleans and the Floridas, but Napoleon, whose army had been devastated in Saint-Domingue and who faced renewed war with Britain, offered all of Louisiana, so Livingston and Monroe exceeded their instructions and agreed to $15 million for the whole territory.
+- **Q:** How did the purchase test Jefferson's own view of the Constitution, and how did he resolve it?
+  **A:** Jefferson believed the Constitution made no provision for acquiring foreign territory and drafted an amendment, but his Cabinet argued it was unnecessary and Napoleon's deadline loomed, so he let the Senate ratify the treaty without one, comparing himself to a guardian investing a ward's money in adjacent land.
+- **Q:** According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?
+  **A:** It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.
+
 ## foreign-relations-and-military
 
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict

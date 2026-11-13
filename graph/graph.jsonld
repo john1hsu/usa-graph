@@ -1337,6 +1337,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count.",
+   "uso:myth": "In 1803 the United States bought the land of the Louisiana Territory from France for a few cents an acre.",
+   "uso:why": "The famous price makes the purchase look like a single real-estate bargain and erases the Native nations whose lands were the real subject of later negotiation, pressure and war."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jefferson's envoys end up buying far more land than they were sent to get?",
+   "uso:answer": "They were authorized to pay up to $10 million for New Orleans and the Floridas, but Napoleon, whose army had been devastated in Saint-Domingue and who faced renewed war with Britain, offered all of Louisiana, so Livingston and Monroe exceeded their instructions and agreed to $15 million for the whole territory.",
+   "uso:questionFor": {
+    "@id": "us:louisiana-purchase"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the purchase test Jefferson's own view of the Constitution, and how did he resolve it?",
+   "uso:answer": "Jefferson believed the Constitution made no provision for acquiring foreign territory and drafted an amendment, but his Cabinet argued it was unnecessary and Napoleon's deadline loomed, so he let the Senate ratify the treaty without one, comparing himself to a guardian investing a ward's money in adjacent land.",
+   "uso:questionFor": {
+    "@id": "us:louisiana-purchase"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?",
+   "uso:answer": "It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.",
+   "uso:questionFor": {
+    "@id": "us:louisiana-purchase"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1795"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "France transfers Louisiana to the United States at New Orleans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates the Territory of Orleans from the southern part of the purchase.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1804"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "More than eighty enslaved people launch the German Coast uprising upriver from New Orleans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1811"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Louisiana is admitted as a state; President James Madison signs the statehood law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1819"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "France reacquires Louisiana from Spain.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1800"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1802-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1803-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-04-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Livingston, Monroe and François Barbé-Marbois sign the treaty of cession and two financial conventions in Paris.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The purchase is officially announced in the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate ratifies the treaty by a vote of 24 to 7.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-10-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spain formally returns Louisiana to France.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-11-30"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -3029,6 +3189,104 @@
     "@id": "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Louisiana Purchase Treaty (1803)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Thomas Jefferson, vol. 41)",
+   "dcterms:title": "Thomas Jefferson to John Breckinridge, 12 August 1803",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Jefferson/01-41-02-0139"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Louisiana Purchase, 1803",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1801-1829/louisiana-purchase"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Robert Lee, Journal of American History 103, no. 4 (March 2017), 921–942, doi:10.1093/jahist/jaw504",
+   "dcterms:title": "Accounting for Conquest: The Price of the Louisiana Purchase of Indian Country",
+   "schema:url": {
+    "@id": "https://academic.oup.com/jah/article/103/4/921/3052479"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello)",
+   "dcterms:title": "The Louisiana Purchase",
+   "schema:url": {
+    "@id": "https://www.monticello.org/the-louisiana-purchase"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Peter J. Kastor, 64 Parishes (Louisiana Endowment for the Humanities)",
+   "dcterms:title": "Louisiana Purchase and Territorial Period",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/louisiana-purchase-and-territorial-period"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "JSTOR Daily",
+   "dcterms:title": "The Actual Louisiana Purchase Price",
+   "schema:url": {
+    "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1",
@@ -6256,6 +6514,172 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/jim-crow-laws/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:louisiana-purchase",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7"
+    }
+   ],
+   "rdfs:label": "Louisiana Purchase",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1803-12-20"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1803-04-30"
+   },
+   "skos:altLabel": [
+    "Louisiana Purchase Treaty",
+    "Louisiana Purchase of 1803",
+    "Purchase of Louisiana",
+    "Treaty of Cession of Louisiana"
+   ],
+   "skos:broader": {
+    "@id": "us:territorial-expansion-of-the-united-states"
+   },
+   "skos:definition": "The 1803 agreement in which the United States paid France $15 million for its claim to Louisiana, about 828,000 square miles west of the Mississippi River, roughly doubling the nation's size while leaving the land itself in the hands of the Native nations who lived there.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "Louisiana Purchase",
+   "skos:related": [
+    {
+     "@id": "us:german-coast-uprising"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:james-monroe"
+    },
+    {
+     "@id": "us:lewis-and-clark-expedition"
+    },
+    {
+     "@id": "us:louisiana"
+    },
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:robert-r-livingston"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/louisiana-purchase.md",
+   "uso:influencedBy": {
+    "@id": "us:haitian-revolution"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:adams-onis-treaty"
+    },
+    {
+     "@id": "us:missouri-compromise"
+    },
+    {
+     "@id": "us:territory-of-orleans"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:early-republic"
+   },
+   "uso:occurredIn": {
+    "@id": "us:new-orleans"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
     }
    ]
   },
