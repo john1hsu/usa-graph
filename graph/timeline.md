@@ -7,19 +7,26 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1681-03-04 | Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1682-10 | Penn arrives on the Welcome; Philadelphia is laid out as the capital. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1682-12-07 | The provincial Assembly adopts the Great Law. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1701 | The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1718 | **[New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md)** (City) |
 | 1718 | Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1722 | France makes New Orleans the capital of French Louisiana. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1732-02-22 – 1799-12-14 | **[George Washington](../articles/presidents-and-founders/george-washington.md)** (Person) |
 | 1732-02-22 | Born at Popes Creek in Westmoreland County, Virginia (February 11 under the Julian calendar then in use). — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1737-09-19 | The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1754-07-03 | Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -35,6 +42,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
@@ -44,6 +52,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -73,6 +82,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-09-28 | Congress unanimously resolves to send the Constitution to the states for ratifying conventions. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-12-07 | Delaware becomes the first state to ratify. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-12-07 | Delaware becomes the first state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1787-12-12 | **[Pennsylvania](../articles/states-and-territories/pennsylvania.md)** (State) |
+| 1787-12-12 | Pennsylvania becomes the second state to ratify the U.S. Constitution. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -91,6 +102,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -123,6 +135,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1812 | The state capital moves to Harrisburg, after a stay in Lancaster from 1799. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -146,6 +159,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -162,6 +176,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -191,6 +206,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-05-22 | A second general assault on a three-mile front fails, and Grant settles into a siege. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-06-07 | Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-06-25 | Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-07 | Union forces under Meade defeat Lee's invading army at Gettysburg. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1863-07-03 | Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07-03 | Pickett's Charge fails, ending the three-day Battle of Gettysburg. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-07-04 | At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
@@ -278,6 +294,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -293,6 +310,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -397,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

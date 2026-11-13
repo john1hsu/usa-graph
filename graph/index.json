@@ -3784,6 +3784,235 @@
   ]
  },
  {
+  "id": "us:pennsylvania",
+  "title": "Pennsylvania",
+  "aliases": [
+   "Commonwealth of Pennsylvania",
+   "Keystone State",
+   "Pensilvania",
+   "Province of Pennsylvania"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/pennsylvania.md",
+  "created": "2026-11-13",
+  "summary": "A U.S. state on the Lenape (Delaware) homeland, chartered to the Quaker William Penn in 1681, where the Declaration of Independence and the Constitution were written; the first state to pass an emancipation law (1780), the second to ratify the Constitution (December 12, 1787), and an industrial powerhouse of steel, coal, oil and railroads.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:philadelphia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pittsburgh"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harrisburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lenape"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:walking-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-shackamaxon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania-gradual-abolition-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:whiskey-rebellion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-gettysburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-railroad-strike-of-1877"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:homestead-strike"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:quakers"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:william-penn",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:charter-of-pennsylvania",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:delaware-river",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:maryland",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1787-12-12",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Charles II grant Pennsylvania to William Penn, and how did Penn's Quaker beliefs shape the colony's government?",
+    "answer": "The most plausible explanation is that the king owed Penn a large debt inherited from his father, Admiral Penn, and paid it in land. Penn's Frame of Government created an elected assembly, and the 1701 Charter of Privileges guaranteed worship to anyone who believed in one God, making Pennsylvania an early leader in separating religion from government, although Quakers were always a minority."
+   },
+   {
+    "question": "How did the Walking Purchase change the Lenape's place in Pennsylvania, and what did that lead to?",
+    "answer": "Using an unsigned 1686 draft deed, proprietary agents had pre-scouted walkers cover more than 60 miles in a day and a half and angled the boundary to take perhaps over a million acres. Most Delawares in eastern Pennsylvania moved west to the Ohio Valley, traded with the French, and many sided with France in the Seven Years' War; the Lenape were later pushed on to Indiana, Kansas and Indian Territory."
+   },
+   {
+    "question": "Why did slavery linger in Pennsylvania for decades after the 1780 abolition law?",
+    "answer": "The act freed no one at once; children born to enslaved mothers after it passed were bound as servants until age 28, and enslavers could keep registered people enslaved. The state recorded its last known enslaved person in the 1850s, and enslavers like President Washington rotated enslaved people in and out of Philadelphia to evade the residency rules."
+   },
+   {
+    "question": "How did Pennsylvania's resources make it the \"Arsenal of America,\" and what labor conflicts came with that growth?",
+    "answer": "Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1638",
+    "event": "Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks."
+   },
+   {
+    "date": "1681-03-04",
+    "event": "Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father."
+   },
+   {
+    "date": "1682-10",
+    "event": "Penn arrives on the Welcome; Philadelphia is laid out as the capital."
+   },
+   {
+    "date": "1682-12-07",
+    "event": "The provincial Assembly adopts the Great Law."
+   },
+   {
+    "date": "1701",
+    "event": "The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776."
+   },
+   {
+    "date": "1737-09-19",
+    "event": "The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land."
+   },
+   {
+    "date": "1767",
+    "event": "Mason and Dixon survey the boundary with Maryland."
+   },
+   {
+    "date": "1776-09-28",
+    "event": "Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor."
+   },
+   {
+    "date": "1780-03-01",
+    "event": "The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States."
+   },
+   {
+    "date": "1787-12-12",
+    "event": "Pennsylvania becomes the second state to ratify the U.S. Constitution."
+   },
+   {
+    "date": "1794",
+    "event": "President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania."
+   },
+   {
+    "date": "1812",
+    "event": "The state capital moves to Harrisburg, after a stay in Lancaster from 1799."
+   },
+   {
+    "date": "1838",
+    "event": "A new state constitution disenfranchises free African Americans."
+   },
+   {
+    "date": "1859",
+    "event": "Commercial oil production begins near Titusville."
+   },
+   {
+    "date": "1863-07",
+    "event": "Union forces under Meade defeat Lee's invading army at Gettysburg."
+   },
+   {
+    "date": "1892",
+    "event": "The Homestead Strike ends in defeat for the steelworkers' union."
+   },
+   {
+    "date": "1900",
+    "event": "Pennsylvania produces 60 percent of U.S. steel."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 13,002,700 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "Penn's \"Great Treaty\" with the Lenape under the elm at Shackamaxon was the one treaty never broken, so colonial Pennsylvania dealt honestly with Native people.",
+   "fact": "No original written record of a 1682 treaty exists and historians debate whether and when it happened; and in 1737 Thomas Penn and agent James Logan used an unsigned draft deed in the Walking Purchase to take a vast tract of Lenape land, which a scholarly encyclopedia describes as defrauding the Delawares.",
+   "why": "Voltaire's praise and Benjamin West's 1771–72 painting turned a possible meeting into a founding legend that still appears in textbooks, while the dispossession that followed is less visible in public memory."
+  },
+  "source_urls": [
+   "https://www.phmc.state.pa.us/portal/communities/documents/1681-1776/pennsylvania-charter.html",
+   "https://philadelphiaencyclopedia.org/?p=20580",
+   "https://www.phmc.state.pa.us/portal/communities/pa-history/1681-1776.html",
+   "https://delawaretribe.org/?p=2816",
+   "https://philadelphiaencyclopedia.org/?p=13667",
+   "https://philadelphiaencyclopedia.org/?p=10717",
+   "https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm",
+   "https://www.phmc.state.pa.us/portal/communities/pa-history/1776-1861.html",
+   "https://www.phmc.state.pa.us/portal/communities/pa-history/1861-1945.html",
+   "https://www.phmc.state.pa.us/portal/communities/pa-suburbs/post-war/pennsylvania-trends.html",
+   "https://www.census.gov/quickfacts/fact/table/PA/POP010220"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

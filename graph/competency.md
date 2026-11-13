@@ -41,6 +41,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
+| `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:equal-protection` | 1 | african-americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
@@ -91,7 +92,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:pennsylvania` | uso:State |
 
 ## Orphan articles (gap)
 
@@ -138,6 +141,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | document | established |
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
+| `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |

@@ -525,3 +525,22 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did slavery reach into the free states before the Civil War?
   **A:** The Constitution's fugitive slave clause required people escaping bondage to be returned, and the Fugitive Slave Act of 1850 used federal commissioners without juries to send about 1,000 Black Americans South, provoking resistance in northern communities.
 
+## states-and-territories
+
+### [Pennsylvania](../articles/states-and-territories/pennsylvania.md) — State
+
+| Myth | Fact |
+|---|---|
+| Penn's "Great Treaty" with the Lenape under the elm at Shackamaxon was the one treaty never broken, so colonial Pennsylvania dealt honestly with Native people. | No original written record of a 1682 treaty exists and historians debate whether and when it happened; and in 1737 Thomas Penn and agent James Logan used an unsigned draft deed in the Walking Purchase to take a vast tract of Lenape land, which a scholarly encyclopedia describes as defrauding the Delawares. |
+
+**Why it matters:** Voltaire's praise and Benjamin West's 1771–72 painting turned a possible meeting into a founding legend that still appears in textbooks, while the dispossession that followed is less visible in public memory.
+
+- **Q:** Why did Charles II grant Pennsylvania to William Penn, and how did Penn's Quaker beliefs shape the colony's government?
+  **A:** The most plausible explanation is that the king owed Penn a large debt inherited from his father, Admiral Penn, and paid it in land. Penn's Frame of Government created an elected assembly, and the 1701 Charter of Privileges guaranteed worship to anyone who believed in one God, making Pennsylvania an early leader in separating religion from government, although Quakers were always a minority.
+- **Q:** How did the Walking Purchase change the Lenape's place in Pennsylvania, and what did that lead to?
+  **A:** Using an unsigned 1686 draft deed, proprietary agents had pre-scouted walkers cover more than 60 miles in a day and a half and angled the boundary to take perhaps over a million acres. Most Delawares in eastern Pennsylvania moved west to the Ohio Valley, traded with the French, and many sided with France in the Seven Years' War; the Lenape were later pushed on to Indiana, Kansas and Indian Territory.
+- **Q:** Why did slavery linger in Pennsylvania for decades after the 1780 abolition law?
+  **A:** The act freed no one at once; children born to enslaved mothers after it passed were bound as servants until age 28, and enslavers could keep registered people enslaved. The state recorded its last known enslaved person in the 1850s, and enslavers like President Washington rotated enslaved people in and out of Philadelphia to evade the residency rules.
+- **Q:** How did Pennsylvania's resources make it the "Arsenal of America," and what labor conflicts came with that growth?
+  **A:** Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners.
+

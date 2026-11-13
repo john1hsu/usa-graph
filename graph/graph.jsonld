@@ -3005,6 +3005,211 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "No original written record of a 1682 treaty exists and historians debate whether and when it happened; and in 1737 Thomas Penn and agent James Logan used an unsigned draft deed in the Walking Purchase to take a vast tract of Lenape land, which a scholarly encyclopedia describes as defrauding the Delawares.",
+   "uso:myth": "Penn's \"Great Treaty\" with the Lenape under the elm at Shackamaxon was the one treaty never broken, so colonial Pennsylvania dealt honestly with Native people.",
+   "uso:why": "Voltaire's praise and Benjamin West's 1771–72 painting turned a possible meeting into a founding legend that still appears in textbooks, while the dispossession that followed is less visible in public memory."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Charles II grant Pennsylvania to William Penn, and how did Penn's Quaker beliefs shape the colony's government?",
+   "uso:answer": "The most plausible explanation is that the king owed Penn a large debt inherited from his father, Admiral Penn, and paid it in land. Penn's Frame of Government created an elected assembly, and the 1701 Charter of Privileges guaranteed worship to anyone who believed in one God, making Pennsylvania an early leader in separating religion from government, although Quakers were always a minority.",
+   "uso:questionFor": {
+    "@id": "us:pennsylvania"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Walking Purchase change the Lenape's place in Pennsylvania, and what did that lead to?",
+   "uso:answer": "Using an unsigned 1686 draft deed, proprietary agents had pre-scouted walkers cover more than 60 miles in a day and a half and angled the boundary to take perhaps over a million acres. Most Delawares in eastern Pennsylvania moved west to the Ohio Valley, traded with the French, and many sided with France in the Seven Years' War; the Lenape were later pushed on to Indiana, Kansas and Indian Territory.",
+   "uso:questionFor": {
+    "@id": "us:pennsylvania"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did slavery linger in Pennsylvania for decades after the 1780 abolition law?",
+   "uso:answer": "The act freed no one at once; children born to enslaved mothers after it passed were bound as servants until age 28, and enslavers could keep registered people enslaved. The state recorded its last known enslaved person in the 1850s, and enslavers like President Washington rotated enslaved people in and out of Philadelphia to evade the residency rules.",
+   "uso:questionFor": {
+    "@id": "us:pennsylvania"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Pennsylvania's resources make it the \"Arsenal of America,\" and what labor conflicts came with that growth?",
+   "uso:answer": "Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners.",
+   "uso:questionFor": {
+    "@id": "us:pennsylvania"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1638"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania becomes the second state to ratify the U.S. Constitution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-12-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1794"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The state capital moves to Harrisburg, after a stay in Lancaster from 1799.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A new state constitution disenfranchises free African Americans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1838"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Commercial oil production begins near Titusville.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1859"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Union forces under Meade defeat Lee's invading army at Gettysburg.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1863-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Homestead Strike ends in defeat for the steelworkers' union.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania produces 60 percent of U.S. steel.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 13,002,700 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1681-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Penn arrives on the Welcome; Philadelphia is laid out as the capital.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1682-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The provincial Assembly adopts the Great Law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1682-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1701"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1737-09-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mason and Dixon survey the boundary with Maryland.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1767"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-09-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1780-03-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -6138,6 +6343,160 @@
    "dcterms:title": "Freedman's Bank Demise",
    "schema:url": {
     "@id": "https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "Pennsylvania Charter to William Penn - March 4, 1681",
+   "schema:url": {
+    "@id": "https://www.phmc.state.pa.us/portal/communities/documents/1681-1776/pennsylvania-charter.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "Pennsylvania Trends",
+   "schema:url": {
+    "@id": "https://www.phmc.state.pa.us/portal/communities/pa-suburbs/post-war/pennsylvania-trends.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: Pennsylvania",
+   "schema:url": {
+    "@id": "https://www.census.gov/quickfacts/fact/table/PA/POP010220"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University), by Stephanie Grauman Wolf",
+   "dcterms:title": "Founding of Pennsylvania",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=20580"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "1681-1776: The Quaker Province",
+   "schema:url": {
+    "@id": "https://www.phmc.state.pa.us/portal/communities/pa-history/1681-1776.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Delaware Tribe of Indians",
+   "dcterms:title": "Removal History of the Delaware Tribe",
+   "schema:url": {
+    "@id": "https://delawaretribe.org/?p=2816"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University), by Tim Hayburn",
+   "dcterms:title": "Walking Purchase",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=13667"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopedia of Greater Philadelphia (Rutgers University), by Andrew Newman",
+   "dcterms:title": "Treaty of Shackamaxon",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/?p=10717"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "Pennsylvania's Gradual Abolition Act of 1780",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "1776-1861: Independence to the Civil War",
+   "schema:url": {
+    "@id": "https://www.phmc.state.pa.us/portal/communities/pa-history/1776-1861.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "1861-1945: Era of Industrial Ascendancy",
+   "schema:url": {
+    "@id": "https://www.phmc.state.pa.us/portal/communities/pa-history/1861-1945.html"
    },
    "uso:sourceType": "government"
   },
@@ -11556,6 +11915,200 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:pennsylvania",
+   "@type": "uso:State",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9"
+    }
+   ],
+   "rdfs:label": "Pennsylvania",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1787-12-12"
+   },
+   "skos:altLabel": [
+    "Commonwealth of Pennsylvania",
+    "Keystone State",
+    "Pensilvania",
+    "Province of Pennsylvania"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:thirteen-colonies"
+    },
+    {
+     "@id": "us:united-states"
+    }
+   ],
+   "skos:definition": "A U.S. state on the Lenape (Delaware) homeland, chartered to the Quaker William Penn in 1681, where the Declaration of Independence and the Constitution were written; the first state to pass an emancipation law (1780), the second to ratify the Constitution (December 12, 1787), and an industrial powerhouse of steel, coal, oil and railroads.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories"
+   },
+   "skos:prefLabel": "Pennsylvania",
+   "skos:related": [
+    {
+     "@id": "us:battle-of-gettysburg"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:harrisburg"
+    },
+    {
+     "@id": "us:homestead-strike"
+    },
+    {
+     "@id": "us:lenape"
+    },
+    {
+     "@id": "us:pennsylvania-gradual-abolition-act"
+    },
+    {
+     "@id": "us:philadelphia"
+    },
+    {
+     "@id": "us:pittsburgh"
+    },
+    {
+     "@id": "us:quakers"
+    },
+    {
+     "@id": "us:treaty-of-shackamaxon"
+    },
+    {
+     "@id": "us:underground-railroad"
+    },
+    {
+     "@id": "us:walking-purchase"
+    },
+    {
+     "@id": "us:whiskey-rebellion"
+    }
+   ],
+   "uso:borders": [
+    {
+     "@id": "us:delaware-river"
+    },
+    {
+     "@id": "us:maryland"
+    }
+   ],
+   "uso:domain": "states-and-territories",
+   "uso:establishedBy": {
+    "@id": "us:charter-of-pennsylvania"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/states-and-territories/pennsylvania.md",
+   "uso:foundedBy": {
+    "@id": "us:william-penn"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9"
     }
    ]
   },

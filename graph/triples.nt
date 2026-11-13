@@ -2222,6 +2222,147 @@
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://schema.org/endDate> "1879"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://schema.org/startDate> "1873-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No original written record of a 1682 treaty exists and historians debate whether and when it happened; and in 1737 Thomas Penn and agent James Logan used an unsigned draft deed in the Walking Purchase to take a vast tract of Lenape land, which a scholarly encyclopedia describes as defrauding the Delawares." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Penn's \"Great Treaty\" with the Lenape under the elm at Shackamaxon was the one treaty never broken, so colonial Pennsylvania dealt honestly with Native people." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Voltaire's praise and Benjamin West's 1771–72 painting turned a possible meeting into a founding legend that still appears in textbooks, while the dispossession that followed is less visible in public memory." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Charles II grant Pennsylvania to William Penn, and how did Penn's Quaker beliefs shape the colony's government?" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The most plausible explanation is that the king owed Penn a large debt inherited from his father, Admiral Penn, and paid it in land. Penn's Frame of Government created an elected assembly, and the 1701 Charter of Privileges guaranteed worship to anyone who believed in one God, making Pennsylvania an early leader in separating religion from government, although Quakers were always a minority." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Walking Purchase change the Lenape's place in Pennsylvania, and what did that lead to?" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Using an unsigned 1686 draft deed, proprietary agents had pre-scouted walkers cover more than 60 miles in a day and a half and angled the boundary to take perhaps over a million acres. Most Delawares in eastern Pennsylvania moved west to the Ohio Valley, traded with the French, and many sided with France in the Seven Years' War; the Lenape were later pushed on to Indiana, Kansas and Indian Territory." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did slavery linger in Pennsylvania for decades after the 1780 abolition law?" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The act freed no one at once; children born to enslaved mothers after it passed were bound as servants until age 28, and enslavers could keep registered people enslaved. The state recorded its last known enslaved person in the 1850s, and enslavers like President Washington rotated enslaved people in and out of Philadelphia to evade the residency rules." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did Pennsylvania's resources make it the \"Arsenal of America,\" and what labor conflicts came with that growth?" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania becomes the second state to ratify the U.S. Constitution." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1794"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The state capital moves to Harrisburg, after a stay in Lancaster from 1799." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1812"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "A new state constitution disenfranchises free African Americans." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1838"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Commercial oil production begins near Titusville." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1859"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Union forces under Meade defeat Lee's invading army at Gettysburg." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The Homestead Strike ends in defeat for the steelworkers' union." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1892"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania produces 60 percent of U.S. steel." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 13,002,700 residents." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1638"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1681-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Penn arrives on the Welcome; Philadelphia is laid out as the capital." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1682-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The provincial Assembly adopts the Great Law." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1682-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1701"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1737-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Mason and Dixon survey the boundary with Maryland." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1767"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1780-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#State> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#altLabel> "Commonwealth of Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#altLabel> "Keystone State" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#altLabel> "Pensilvania" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#altLabel> "Province of Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#definition> "A U.S. state on the Lenape (Delaware) homeland, chartered to the Quaker William Penn in 1681, where the Declaration of Independence and the Constitution were written; the first state to pass an emancipation law (1780), the second to ratify the Constitution (December 12, 1787), and an industrial powerhouse of steel, coal, oil and railroads." .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harrisburg> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/homestead-strike> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lenape> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania-gradual-abolition-act> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pittsburgh> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/quakers> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-shackamaxon> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/walking-purchase> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/delaware-river> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/maryland> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#domain> "states-and-territories" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/states-and-territories/pennsylvania.md" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#foundedBy> <https://github.com/john1hsu/usa-graph/id/william-penn> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/pennsylvania/misconception> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/pennsylvania/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://schema.org/startDate> "1787-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward." .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"" .
@@ -3734,6 +3875,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://schema.org/url> <https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <http://purl.org/dc/terms/publisher> "Pennsylvania Historical and Museum Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <http://purl.org/dc/terms/title> "Pennsylvania Trends" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s10> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/pa-suburbs/post-war/pennsylvania-trends.html> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <http://purl.org/dc/terms/title> "QuickFacts: Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s11> <https://schema.org/url> <https://www.census.gov/quickfacts/fact/table/PA/POP010220> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <http://purl.org/dc/terms/publisher> "Pennsylvania Historical and Museum Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <http://purl.org/dc/terms/title> "Pennsylvania Charter to William Penn - March 4, 1681" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s1> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/documents/1681-1776/pennsylvania-charter.html> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia of Greater Philadelphia (Rutgers University), by Stephanie Grauman Wolf" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <http://purl.org/dc/terms/title> "Founding of Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s2> <https://schema.org/url> <https://philadelphiaencyclopedia.org/?p=20580> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <http://purl.org/dc/terms/publisher> "Pennsylvania Historical and Museum Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <http://purl.org/dc/terms/title> "1681-1776: The Quaker Province" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s3> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/pa-history/1681-1776.html> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <http://purl.org/dc/terms/publisher> "Delaware Tribe of Indians" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <http://purl.org/dc/terms/title> "Removal History of the Delaware Tribe" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s4> <https://schema.org/url> <https://delawaretribe.org/?p=2816> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia of Greater Philadelphia (Rutgers University), by Tim Hayburn" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <http://purl.org/dc/terms/title> "Walking Purchase" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s5> <https://schema.org/url> <https://philadelphiaencyclopedia.org/?p=13667> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <http://purl.org/dc/terms/publisher> "Encyclopedia of Greater Philadelphia (Rutgers University), by Andrew Newman" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <http://purl.org/dc/terms/title> "Treaty of Shackamaxon" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s6> <https://schema.org/url> <https://philadelphiaencyclopedia.org/?p=10717> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <http://purl.org/dc/terms/title> "Pennsylvania's Gradual Abolition Act of 1780" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s7> <https://schema.org/url> <https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <http://purl.org/dc/terms/publisher> "Pennsylvania Historical and Museum Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <http://purl.org/dc/terms/title> "1776-1861: Independence to the Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s8> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/pa-history/1776-1861.html> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <http://purl.org/dc/terms/publisher> "Pennsylvania Historical and Museum Commission" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <http://purl.org/dc/terms/title> "1861-1945: Era of Industrial Ascendancy" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/pennsylvania/s9> <https://schema.org/url> <https://www.phmc.state.pa.us/portal/communities/pa-history/1861-1945.html> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/publisher> "Keith Weldon Medley, 64 Parishes (Louisiana Endowment for the Humanities)" .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/title> "Plessy v. Ferguson" .
