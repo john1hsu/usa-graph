@@ -3085,6 +3085,146 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, America's Founding Documents",
+   "dcterms:title": "The Constitution of the United States: A Transcription",
+   "schema:url": {
+    "@id": "https://www.archives.gov/founding-docs/constitution-transcript"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "OpenStax, American Government 3e (Rice University)",
+   "dcterms:title": "2.3 The Development of the Constitution",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/2-3-the-development-of-the-constitution"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Constitution of the United States (1787)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/Constitution"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "OpenStax, American Government 3e (Rice University)",
+   "dcterms:title": "2.4 The Ratification of the Constitution",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/2-4-the-ratification-of-the-constitution"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "The Bill of Rights (1791)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/bill-of-rights"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Ben Leubsdorf, Congressional Research Service (updated December 17, 2024), via EveryCRSReport.com",
+   "dcterms:title": "Proposals to Amend the U.S. Constitution: Fact Sheet (R47959)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R47959.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "Senate History: 1787–1800",
+   "schema:url": {
+    "@id": "https://www.senate.gov/history/1787.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Constitution Center (September 17, 2024)",
+   "dcterms:title": "Top myths about the Constitution on Constitution Day",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/top-10-myths-about-the-constitution-on-constitution-day"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Henry Steele Commager, American Heritage, vol. 10, no. 1 (December 1958)",
+   "dcterms:title": "The Constitution: Was It an Economic Document?",
+   "schema:url": {
+    "@id": "https://www.americanheritage.com/constitution-was-it-economic-document"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Stephen M. Feldman, Constitutional Commentary, vol. 29 (2014), University of Minnesota",
+   "dcterms:title": "The Interpretation of Constitutional History, or Charles Beard Becomes a Fortuneteller (with an Emphasis on Free Expression)",
+   "schema:url": {
+    "@id": "https://conservancy.umn.edu/bitstream/handle/11299/183169/3%20-%20The%20Interpretation%20of%20Constitutional%20History.pdf?sequence=1"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -3506,6 +3646,139 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "That phrase comes from the Declaration of Independence. The original Constitution contained no such promise and instead counted three-fifths of enslaved people for apportionment; an equality guarantee entered the text only with the Fourteenth Amendment after the Civil War.",
+   "uso:myth": "The Constitution declares that \"all men are created equal.\"",
+   "uso:why": "Running the two founding documents together hides how the 1787 text accommodated slavery and how much the Reconstruction amendments changed it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the Constitution try to keep any one part of the government from becoming too powerful?",
+   "uso:answer": "It separates legislative, executive and judicial power among Congress, the president and the courts, gives each checks on the others such as the veto, veto override, Senate confirmation, impeachment and judicial review, and divides power between the national government and the states.",
+   "uso:questionFor": {
+    "@id": "us:united-states-constitution"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did several states ratify only after being promised amendments, and what came of that promise?",
+   "uso:answer": "Anti-Federalists feared a strong central government could threaten individual liberties and demanded a bill of rights; the First Congress proposed twelve amendments in September 1789, and ten were ratified on December 15, 1791, as the Bill of Rights.",
+   "uso:questionFor": {
+    "@id": "us:united-states-constitution"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the original Constitution protect slavery without using the word \"slave\"?",
+   "uso:answer": "It used euphemisms such as other persons and persons held to service or labor; it counted three-fifths of enslaved people for representation and taxes, barred Congress from banning their importation before 1808, and required the return of people who escaped slavery into another state.",
+   "uso:questionFor": {
+    "@id": "us:united-states-constitution"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Charles Beard's interpretation of the Constitution differ from that of later ideological historians?",
+   "uso:answer": "Beard argued in 1913 that the framers and ratifiers acted mainly to protect their economic interests, while historians such as Bernard Bailyn and Gordon Wood argued that political ideas, especially republicanism, better explain the framing; later scholarship has largely undermined Beard's account.",
+   "uso:questionFor": {
+    "@id": "us:united-states-constitution"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1992-05-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delegates sign the finished four-page Constitution in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delaware becomes the first state to ratify.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-06-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The date the framers set for the new Congress to convene.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate achieves its first quorum.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The First Congress proposes twelve amendments to the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rhode Island becomes the thirteenth and last original state to ratify.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ten of the twelve proposed amendments are ratified as the Bill of Rights.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
    }
   },
   {
@@ -5485,6 +5758,159 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:united-states-constitution",
+   "@type": "uso:Document",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9"
+    }
+   ],
+   "rdfs:label": "United States Constitution",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   },
+   "skos:altLabel": [
+    "Constitution of the United States of America",
+    "Constitution of the United States",
+    "Federal Constitution",
+    "U.S. Constitution"
+   ],
+   "skos:broader": {
+    "@id": "us:founding-documents-of-the-united-states"
+   },
+   "skos:definition": "The supreme law of the United States, a four-page charter signed in Philadelphia on September 17, 1787, and ratified in 1788 that created the federal government of three separate branches, divided power between the nation and the states, and has been amended twenty-seven times.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "United States Constitution",
+   "skos:related": [
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:ratification-of-the-constitution"
+    },
+    {
+     "@id": "us:separation-of-powers"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:confusedWith": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:domain": "constitution-and-government",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/constitution-and-government/united-states-constitution.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:bill-of-rights"
+    },
+    {
+     "@id": "us:federalist-papers"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:constitutional-convention"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9"
     }
    ]
   },

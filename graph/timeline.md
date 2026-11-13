@@ -29,17 +29,27 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05-14 | The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05-25 – 1787-09-17 | **[Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md)** (Event) |
+| 1787-05-25 | A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1787-05-25 | Seven states form a quorum and the delegates unanimously elect George Washington president of the convention. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05-29 | Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-06-11 | James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-07-12 | The convention adopts the three-fifths rule, six states to two with two divided. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-07-16 | The Great (Connecticut) Compromise passes by a margin of one state. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-08 | A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-09-17 | **[United States Constitution](../articles/constitution-and-government/united-states-constitution.md)** (Document) |
+| 1787-09-17 | Delegates sign the finished four-page Constitution in Philadelphia. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1787-09-17 | Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-28 | Congress unanimously resolves to send the Constitution to the states for ratifying conventions. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-12-07 | Delaware becomes the first state to ratify. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-12-07 | Delaware becomes the first state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-03-04 | The date the framers set for the new Congress to convene. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -139,6 +149,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |

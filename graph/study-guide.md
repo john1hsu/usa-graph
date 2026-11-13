@@ -89,6 +89,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+### [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) — Document
+
+| Myth | Fact |
+|---|---|
+| The Constitution declares that "all men are created equal." | That phrase comes from the Declaration of Independence. The original Constitution contained no such promise and instead counted three-fifths of enslaved people for apportionment; an equality guarantee entered the text only with the Fourteenth Amendment after the Civil War. |
+
+**Why it matters:** Running the two founding documents together hides how the 1787 text accommodated slavery and how much the Reconstruction amendments changed it.
+
+- **Q:** How does the Constitution try to keep any one part of the government from becoming too powerful?
+  **A:** It separates legislative, executive and judicial power among Congress, the president and the courts, gives each checks on the others such as the veto, veto override, Senate confirmation, impeachment and judicial review, and divides power between the national government and the states.
+- **Q:** Why did several states ratify only after being promised amendments, and what came of that promise?
+  **A:** Anti-Federalists feared a strong central government could threaten individual liberties and demanded a bill of rights; the First Congress proposed twelve amendments in September 1789, and ten were ratified on December 15, 1791, as the Bill of Rights.
+- **Q:** How did the original Constitution protect slavery without using the word "slave"?
+  **A:** It used euphemisms such as other persons and persons held to service or labor; it counted three-fifths of enslaved people for representation and taxes, barred Congress from banning their importation before 1808, and required the return of people who escaped slavery into another state.
+- **Q:** How did Charles Beard's interpretation of the Constitution differ from that of later ideological historians?
+  **A:** Beard argued in 1913 that the framers and ratifiers acted mainly to protect their economic interests, while historians such as Bernard Bailyn and Gordon Wood argued that political ideas, especially republicanism, better explain the framing; later scholarship has largely undermined Beard's account.
+
 ## contemporary-america
 
 ### [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) — Event

@@ -28,8 +28,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
-| `us:constitutional-convention` | 3 | Slavery in the United States, ratification-of-the-constitution, united-states-constitution |
-| `us:slavery-in-the-united-states` | 3 | fugitive-slave-act-of-1850, underground-railroad, united-states-constitution |
+| `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
+| `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
+| `us:united-states-constitution` | 3 | Slavery in the United States, bill-of-rights, federalist-papers |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
@@ -52,6 +53,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:constitutional-convention` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
+| `us:united-states-constitution` | interpretive |  |
 | `us:war-in-afghanistan` | interpretive |  |
 
 ## Places with nothing tied to them (gap)

@@ -2100,6 +2100,184 @@
   ]
  },
  {
+  "id": "us:united-states-constitution",
+  "title": "United States Constitution",
+  "aliases": [
+   "Constitution of the United States",
+   "Constitution of the United States of America",
+   "U.S. Constitution",
+   "Federal Constitution"
+  ],
+  "type": "Document",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/constitution-and-government/united-states-constitution.md",
+  "created": "2026-11-13",
+  "summary": "The supreme law of the United States, a four-page charter signed in Philadelphia on September 17, 1787, and ratified in 1788 that created the federal government of three separate branches, divided power between the nation and the states, and has been amended twenty-seven times.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:founding-documents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ratification-of-the-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:bill-of-rights",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:federalist-papers",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:confusedWith",
+    "object": "us:declaration-of-independence",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1787-09-17",
+  "end": null,
+  "review": [
+   {
+    "question": "How does the Constitution try to keep any one part of the government from becoming too powerful?",
+    "answer": "It separates legislative, executive and judicial power among Congress, the president and the courts, gives each checks on the others such as the veto, veto override, Senate confirmation, impeachment and judicial review, and divides power between the national government and the states."
+   },
+   {
+    "question": "Why did several states ratify only after being promised amendments, and what came of that promise?",
+    "answer": "Anti-Federalists feared a strong central government could threaten individual liberties and demanded a bill of rights; the First Congress proposed twelve amendments in September 1789, and ten were ratified on December 15, 1791, as the Bill of Rights."
+   },
+   {
+    "question": "How did the original Constitution protect slavery without using the word \"slave\"?",
+    "answer": "It used euphemisms such as other persons and persons held to service or labor; it counted three-fifths of enslaved people for representation and taxes, barred Congress from banning their importation before 1808, and required the return of people who escaped slavery into another state."
+   },
+   {
+    "question": "How did Charles Beard's interpretation of the Constitution differ from that of later ideological historians?",
+    "answer": "Beard argued in 1913 that the framers and ratifiers acted mainly to protect their economic interests, while historians such as Bernard Bailyn and Gordon Wood argued that political ideas, especially republicanism, better explain the framing; later scholarship has largely undermined Beard's account."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-05-25",
+    "event": "A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House."
+   },
+   {
+    "date": "1787-09-17",
+    "event": "Delegates sign the finished four-page Constitution in Philadelphia."
+   },
+   {
+    "date": "1787-12-07",
+    "event": "Delaware becomes the first state to ratify."
+   },
+   {
+    "date": "1788-06-21",
+    "event": "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect."
+   },
+   {
+    "date": "1789-03-04",
+    "event": "The date the framers set for the new Congress to convene."
+   },
+   {
+    "date": "1789-04-06",
+    "event": "The Senate achieves its first quorum."
+   },
+   {
+    "date": "1789-09-25",
+    "event": "The First Congress proposes twelve amendments to the states."
+   },
+   {
+    "date": "1790-05-29",
+    "event": "Rhode Island becomes the thirteenth and last original state to ratify."
+   },
+   {
+    "date": "1791-12-15",
+    "event": "Ten of the twelve proposed amendments are ratified as the Bill of Rights."
+   },
+   {
+    "date": "1992-05-07",
+    "event": "A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution declares that \"all men are created equal.\"",
+   "fact": "That phrase comes from the Declaration of Independence. The original Constitution contained no such promise and instead counted three-fifths of enslaved people for apportionment; an equality guarantee entered the text only with the Fourteenth Amendment after the Civil War.",
+   "why": "Running the two founding documents together hides how the 1787 text accommodated slavery and how much the Reconstruction amendments changed it."
+  },
+  "source_urls": [
+   "https://www.archives.gov/founding-docs/constitution-transcript",
+   "https://www.archives.gov/milestone-documents/Constitution",
+   "https://openstax.org/books/american-government-3e/pages/2-4-the-ratification-of-the-constitution",
+   "https://www.archives.gov/milestone-documents/bill-of-rights",
+   "https://www.everycrsreport.com/reports/R47959.html",
+   "https://www.senate.gov/history/1787.htm",
+   "https://constitutioncenter.org/blog/top-10-myths-about-the-constitution-on-constitution-day",
+   "https://www.americanheritage.com/constitution-was-it-economic-document",
+   "https://conservancy.umn.edu/bitstream/handle/11299/183169/3%20-%20The%20Interpretation%20of%20Constitutional%20History.pdf?sequence=1",
+   "https://openstax.org/books/american-government-3e/pages/2-3-the-development-of-the-constitution"
+  ]
+ },
+ {
   "id": "us:war-in-afghanistan",
   "title": "War in Afghanistan (2001–2021)",
   "aliases": [

@@ -55,6 +55,19 @@
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/united-states-constitution.md" .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> .
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/september-11-attacks.md" .
@@ -913,6 +926,173 @@
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/constitutionalconvention-september17.htm> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/publisher> "OpenStax, American Government 3e (Rice University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/title> "2.3 The Development of the Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <https://schema.org/url> <https://openstax.org/books/american-government-3e/pages/2-3-the-development-of-the-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <http://purl.org/dc/terms/publisher> "National Archives, America's Founding Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <http://purl.org/dc/terms/title> "The Constitution of the United States: A Transcription" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> <https://schema.org/url> <https://www.archives.gov/founding-docs/constitution-transcript> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <http://purl.org/dc/terms/title> "Constitution of the United States (1787)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> <https://schema.org/url> <https://www.archives.gov/milestone-documents/Constitution> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <http://purl.org/dc/terms/publisher> "OpenStax, American Government 3e (Rice University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <http://purl.org/dc/terms/title> "2.4 The Ratification of the Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> <https://schema.org/url> <https://openstax.org/books/american-government-3e/pages/2-4-the-ratification-of-the-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <http://purl.org/dc/terms/title> "The Bill of Rights (1791)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> <https://schema.org/url> <https://www.archives.gov/milestone-documents/bill-of-rights> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <http://purl.org/dc/terms/publisher> "Ben Leubsdorf, Congressional Research Service (updated December 17, 2024), via EveryCRSReport.com" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <http://purl.org/dc/terms/title> "Proposals to Amend the U.S. Constitution: Fact Sheet (R47959)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> <https://schema.org/url> <https://www.everycrsreport.com/reports/R47959.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <http://purl.org/dc/terms/title> "Senate History: 1787–1800" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> <https://schema.org/url> <https://www.senate.gov/history/1787.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <http://purl.org/dc/terms/publisher> "National Constitution Center (September 17, 2024)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <http://purl.org/dc/terms/title> "Top myths about the Constitution on Constitution Day" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> <https://schema.org/url> <https://constitutioncenter.org/blog/top-10-myths-about-the-constitution-on-constitution-day> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <http://purl.org/dc/terms/publisher> "Henry Steele Commager, American Heritage, vol. 10, no. 1 (December 1958)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <http://purl.org/dc/terms/title> "The Constitution: Was It an Economic Document?" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> <https://schema.org/url> <https://www.americanheritage.com/constitution-was-it-economic-document> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <http://purl.org/dc/terms/publisher> "Stephen M. Feldman, Constitutional Commentary, vol. 29 (2014), University of Minnesota" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <http://purl.org/dc/terms/title> "The Interpretation of Constitutional History, or Charles Beard Becomes a Fortuneteller (with an Emphasis on Free Expression)" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> <https://schema.org/url> <https://conservancy.umn.edu/bitstream/handle/11299/183169/3%20-%20The%20Interpretation%20of%20Constitutional%20History.pdf?sequence=1> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "That phrase comes from the Declaration of Independence. The original Constitution contained no such promise and instead counted three-fifths of enslaved people for apportionment; an equality guarantee entered the text only with the Fourteenth Amendment after the Civil War." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution declares that \"all men are created equal.\"" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Running the two founding documents together hides how the 1787 text accommodated slavery and how much the Reconstruction amendments changed it." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does the Constitution try to keep any one part of the government from becoming too powerful?" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It separates legislative, executive and judicial power among Congress, the president and the courts, gives each checks on the others such as the veto, veto override, Senate confirmation, impeachment and judicial review, and divides power between the national government and the states." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did several states ratify only after being promised amendments, and what came of that promise?" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Anti-Federalists feared a strong central government could threaten individual liberties and demanded a bill of rights; the First Congress proposed twelve amendments in September 1789, and ten were ratified on December 15, 1791, as the Bill of Rights." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the original Constitution protect slavery without using the word \"slave\"?" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It used euphemisms such as other persons and persons held to service or labor; it counted three-fifths of enslaved people for representation and taxes, barred Congress from banning their importation before 1808, and required the return of people who escaped slavery into another state." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did Charles Beard's interpretation of the Constitution differ from that of later ideological historians?" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Beard argued in 1913 that the framers and ratifiers acted mainly to protect their economic interests, while historians such as Bernard Bailyn and Gordon Wood argued that political ideas, especially republicanism, better explain the framing; later scholarship has largely undermined Beard's account." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1992-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates sign the finished four-page Constitution in Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Delaware becomes the first state to ratify." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The date the framers set for the new Congress to convene." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate achieves its first quorum." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The First Congress proposes twelve amendments to the states." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Rhode Island becomes the thirteenth and last original state to ratify." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Ten of the twelve proposed amendments are ratified as the Bill of Rights." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1791-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2000/01/rdf-schema#label> "United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#altLabel> "Constitution of the United States of America" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#altLabel> "Constitution of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#altLabel> "Federal Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#definition> "The supreme law of the United States, a four-page charter signed in Philadelphia on September 17, 1787, and ratified in 1788 that created the federal government of three separate branches, divided power between the nation and the states, and has been amended twenty-seven times." .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s2> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s3> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s4> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s5> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s6> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s7> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/united-states-constitution.md" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://schema.org/startDate> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> {
@@ -2357,7 +2537,9 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -2365,6 +2547,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-fort-sumter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -2422,6 +2605,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2441,6 +2625,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -2470,11 +2655,15 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2497,6 +2686,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -2612,6 +2802,7 @@
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -2622,6 +2813,7 @@
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/ragtime> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -2636,6 +2828,7 @@
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2684,6 +2877,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -2696,6 +2890,7 @@
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/surrender-at-appomattox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/taliban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -2721,6 +2916,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -2751,6 +2947,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -2759,15 +2956,30 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
-  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
