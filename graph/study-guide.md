@@ -344,6 +344,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do estimates of how many people were removed range from about 50,000 to about 88,000?
   **A:** The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s.
 
+## people-who-shaped-america
+
+### [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Douglass was born on February 14, 1818, a birthday recorded at the time. | No record gives the day. Douglass believed he was born about 1817; a ledger kept by his enslaver Aaron Anthony notes February 1818, possibly added later, and Douglass chose February 14 to celebrate. |
+
+**Why it matters:** Enslaved people were routinely denied knowledge of their own birthdays, and the uncertainty is itself evidence of what slavery took from them.
+
+- **Q:** Why did publishing his Narrative in 1845 put Douglass in danger, and how was that danger resolved?
+  **A:** The book named the people and places of his enslavement, exposing him as a fugitive who could be seized; he toured Britain and Ireland, where supporters raised $711.66 to buy his freedom from Hugh Auld, so he returned to the United States legally free in 1847.
+- **Q:** How did Douglass's view of the Constitution change, and why does it matter?
+  **A:** He first held William Lloyd Garrison's view that the Constitution was a proslavery compact, but between about 1848 and 1852 came to read it as an antislavery document; that let him work through politics and the law against slavery and broke his alliance with Garrison.
+- **Q:** Why did Douglass support the Fifteenth Amendment even though it did not enfranchise women?
+  **A:** He backed women's suffrage, but argued in 1869 that for Black Americans in the former slave states the vote was a matter of life and death, so Black men's voting rights could not wait for a separate women's amendment.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person

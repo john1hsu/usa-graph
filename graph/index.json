@@ -1382,6 +1382,195 @@
   ]
  },
  {
+  "id": "us:frederick-douglass",
+  "title": "Frederick Douglass",
+  "aliases": [
+   "Frederick Augustus Washington Bailey",
+   "Frederick Bailey"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/people-who-shaped-america/frederick-douglass.md",
+  "created": "2026-11-13",
+  "summary": "An abolitionist, orator, editor and public official (c. 1818–1895) who escaped slavery in Maryland in 1838 and became the most prominent Black American voice of the nineteenth century, campaigning against slavery, for Black citizenship and voting rights, and for women's rights.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-sentiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-equal-rights-association"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fugitive-slave-act-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:abolitionism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:womens-suffrage-movement",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:united-states-minister-to-haiti",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:declaration-of-independence",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1818-02",
+  "end": "1895-02-20",
+  "review": [
+   {
+    "question": "Why did publishing his Narrative in 1845 put Douglass in danger, and how was that danger resolved?",
+    "answer": "The book named the people and places of his enslavement, exposing him as a fugitive who could be seized; he toured Britain and Ireland, where supporters raised $711.66 to buy his freedom from Hugh Auld, so he returned to the United States legally free in 1847."
+   },
+   {
+    "question": "How did Douglass's view of the Constitution change, and why does it matter?",
+    "answer": "He first held William Lloyd Garrison's view that the Constitution was a proslavery compact, but between about 1848 and 1852 came to read it as an antislavery document; that let him work through politics and the law against slavery and broke his alliance with Garrison."
+   },
+   {
+    "question": "Why did Douglass support the Fifteenth Amendment even though it did not enfranchise women?",
+    "answer": "He backed women's suffrage, but argued in 1869 that for Black Americans in the former slave states the vote was a matter of life and death, so Black men's voting rights could not wait for a separate women's amendment."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1818-02",
+    "event": "Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817."
+   },
+   {
+    "date": "1826",
+    "event": "Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read."
+   },
+   {
+    "date": "1834",
+    "event": "Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings."
+   },
+   {
+    "date": "1838-09-03",
+    "event": "Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray."
+   },
+   {
+    "date": "1838-09-15",
+    "event": "Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses."
+   },
+   {
+    "date": "1841",
+    "event": "Hired as a lecturer by the Massachusetts Anti-Slavery Society."
+   },
+   {
+    "date": "1845",
+    "event": "Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland."
+   },
+   {
+    "date": "1847",
+    "event": "Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York."
+   },
+   {
+    "date": "1848-07",
+    "event": "Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention."
+   },
+   {
+    "date": "1852-07-05",
+    "event": "Delivers \"What to the Slave Is the Fourth of July?\" at Corinthian Hall, Rochester."
+   },
+   {
+    "date": "1863-08-10",
+    "event": "Meets President Lincoln to protest unequal pay and treatment of Black soldiers."
+   },
+   {
+    "date": "1869-05-12",
+    "event": "At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death."
+   },
+   {
+    "date": "1877",
+    "event": "Appointed U.S. marshal for the District of Columbia by President Hayes."
+   },
+   {
+    "date": "1889",
+    "event": "Appointed U.S. minister resident and consul general to Haiti, serving until 1891."
+   },
+   {
+    "date": "1895-02-20",
+    "event": "Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women."
+   }
+  ],
+  "misconception": {
+   "myth": "Douglass was born on February 14, 1818, a birthday recorded at the time.",
+   "fact": "No record gives the day. Douglass believed he was born about 1817; a ledger kept by his enslaver Aaron Anthony notes February 1818, possibly added later, and Douglass chose February 14 to celebrate.",
+   "why": "Enslaved people were routinely denied knowledge of their own birthdays, and the uncertainty is itself evidence of what slavery took from them."
+  },
+  "source_urls": [
+   "https://www.loc.gov/collections/frederick-douglass-papers/articles-and-essays/frederick-douglass-timeline/",
+   "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm",
+   "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/013800/013800/html/013800bio.html",
+   "https://constitutioncenter.org/blog/the-story-behind-the-frederick-douglass-birthday-celebration",
+   "https://www.californialawreview.org/print/frederick-douglass-and-the-two-constitutions-proslavery-and-antislavery",
+   "https://anthology.lib.virginia.edu/work/Douglass/douglass-oration",
+   "https://www.nps.gov/frdo/learn/historyculture/confronting-a-president-douglass-and-lincoln.htm",
+   "https://npshistory.com/publications/wori/brochures/frederick-douglass.pdf",
+   "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
+  ]
+ },
+ {
   "id": "us:great-railroad-strike-of-1877",
   "title": "Great Railroad Strike of 1877",
   "aliases": [

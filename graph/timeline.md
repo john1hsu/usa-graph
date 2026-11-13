@@ -90,7 +90,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
+| 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -103,13 +106,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -142,6 +153,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-07-04 | Confederate forces surrender Vicksburg, Mississippi, ending a campaign for control of the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1863-07-04 | Vicksburg surrenders to Ulysses S. Grant, splitting the Confederacy in two. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-07-09 | Port Hudson, Louisiana, surrenders after learning of Vicksburg's fall, opening the whole Mississippi to Union navigation. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-08-10 | Meets President Lincoln to protest unequal pay and treatment of Black soldiers. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1863-08-26 | Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -175,6 +187,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1869-01-11 | Representative George Boutwell proposes a suffrage amendment in the House. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1869-05-12 | At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -187,6 +200,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
+| 1877 | Appointed U.S. marshal for the District of Columbia by President Hayes. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1877 | The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1877-07-16 – 1877-08 | **[Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md)** (Event) |
 | 1877-07-16 | Railroad workers at Martinsburg, West Virginia, walk off the job over a ten percent wage cut on the Baltimore and Ohio Railroad and stop trains. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -201,6 +215,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -211,6 +226,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1896 | Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
 | 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |

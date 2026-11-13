@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 2.61 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
 | 2.54 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.48 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 2.16 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
-| 1.96 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
-| 1.90 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
-| 1.82 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
+| 2.15 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
+| 1.95 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 1.89 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
+| 1.78 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 1.78 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.73 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.63 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| 1.61 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
 | 1.55 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
-| 1.45 | `us:declaration-of-independence` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:united-states-constitution` |
 | 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |
-| 1.42 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| 1.41 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:reconstruction-era`, `us:thirteenth-amendment` |
+| 1.44 | `us:declaration-of-independence` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:united-states-constitution` |
+| 1.38 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 1.29 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
+| 1.25 | `us:frederick-douglass` | `us:jim-crow-laws` | `us:african-american-history`, `us:fifteenth-amendment` |
 | 1.25 | `us:indian-removal-act` | `us:mississippi-river` | `us:louisiana-purchase`, `us:native-americans` |
-| 1.23 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
+| 1.22 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | 1.12 | `us:american-civil-war` | `us:mississippi-river` | `us:siege-of-vicksburg`, `us:united-states` |
-| 1.06 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
-| 1.04 | `us:jim-crow-laws` | `us:united-states-congress` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:voting-rights-act-of-1965` |
+| 1.09 | `us:fifteenth-amendment` | `us:slavery-in-the-united-states` | `us:frederick-douglass`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 1.05 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
 | 1.04 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
 | 1.04 | `us:american-civil-war` | `us:jim-crow-laws` | `us:fourteenth-amendment`, `us:reconstruction-era` |
-| 1.03 | `us:declaration-of-independence` | `us:louisiana-purchase` | `us:slavery-in-the-united-states`, `us:thomas-jefferson`, `us:united-states-constitution` |
-| 1.02 | `us:fifteenth-amendment` | `us:plessy-v-ferguson` | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
-| 1.01 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| 0.99 | `us:constitutional-convention` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
-| 0.99 | `us:thirteenth-amendment` | `us:voting-rights-act-of-1965` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:united-states-congress` |
+| 1.03 | `us:jim-crow-laws` | `us:united-states-congress` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:voting-rights-act-of-1965` |
