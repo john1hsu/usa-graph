@@ -1233,6 +1233,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865.",
+   "uso:myth": "Slavery was a purely Southern institution that the North never practised.",
+   "uso:why": "Treating slavery as only Southern hides how gradual and incomplete northern emancipation was, and how northern banks and merchants profited from the cotton economy."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Virginia's 1662 law matter so much for slavery's growth?",
+   "uso:answer": "It made a child's status follow the mother's rather than the father's, so every child of an enslaved woman was born enslaved; slavery became hereditary and could grow through births rather than only through imports.",
+   "uso:questionFor": {
+    "@id": "us:slavery-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the enslaved population grow from about 700,000 in 1790 to nearly 4 million in 1860 even though importing enslaved people was banned from 1808?",
+   "uso:answer": "Because children of enslaved mothers were born enslaved, the population grew through births, and the domestic slave trade then moved about a million people from the Upper South to the cotton-growing Deep South.",
+   "uso:questionFor": {
+    "@id": "us:slavery-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did slavery reach into the free states before the Civil War?",
+   "uso:answer": "The Constitution's fugitive slave clause required people escaping bondage to be returned, and the Fugitive Slave Act of 1850 used federal commissioners without juries to send about 1,000 Black Americans South, provoking resistance in northern communities.",
+   "uso:questionFor": {
+    "@id": "us:slavery-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1619-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-06-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Thirteenth Amendment is ratified, abolishing slavery nationwide.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Jersey's governor signs a state constitutional amendment ending slavery there.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-01-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1662-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Virginia law classes enslaved people as real estate.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1705"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania passes a gradual emancipation law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1780"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal ban on importing enslaved people takes effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1808-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Slavery ends in New York under its 1817 law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1827-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Nat Turner's rebellion begins in Southampton County, Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1831-08-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes a Fugitive Slave Act that denies accused people a jury trial.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 3,953,760 enslaved people, the peak and the last census to count them.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1860"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -2251,6 +2393,202 @@
    "dcterms:title": "Combating Post-9/11 Discriminatory Backlash",
    "schema:url": {
     "@id": "https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "History and the Census: Juneteenth",
+   "schema:url": {
+    "@id": "https://www.census.gov/about/history/stories/monthly/2025/june-2025.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "In Pursuit of Freedom (Brooklyn Historical Society, Weeksville Heritage Center and Irondale Ensemble Project)",
+   "dcterms:title": "Gradual Emancipation",
+   "schema:url": {
+    "@id": "https://pursuitoffreedom.org/gradual-emancipation/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Noelle Lorraine Williams, New Jersey Historical Commission, New Jersey Department of State",
+   "dcterms:title": "New Jersey, The Last Northern State to End Slavery",
+   "schema:url": {
+    "@id": "https://nj.gov/state/historical/his-2021-juneteenth.shtml"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, America's Historical Documents",
+   "dcterms:title": "13th Amendment to the U.S. Constitution",
+   "schema:url": {
+    "@id": "https://www.archives.gov/historical-docs/13th-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Daniel Aloi, Cornell Chronicle, Cornell University (2014-09-24)",
+   "dcterms:title": "Baptist book relates slavery's role in shaping America",
+   "schema:url": {
+    "@id": "https://news.cornell.edu/node/283461"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Alan Olmstead and Paul Rhode, Explorations in Economic History 67 (2018), 1-17 (RePEc record)",
+   "dcterms:title": "Cotton, slavery, and the new history of capitalism",
+   "schema:url": {
+    "@id": "https://econpapers.repec.org/RePEc:eee:exehis:v:67:y:2018:i:c:p:1-17"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Joseph C. Miller, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Transatlantic Slave Trade, The",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Virginia General Assembly, transcribed in Encyclopedia Virginia from Hening's Statutes at Large, vol. 2",
+   "dcterms:title": "\"Negro womens children to serve according to the condition of the mother\" (1662)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/primary-documents/negro-womens-children-to-serve-according-to-the-condition-of-the-mother-1662/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Museum of African American History and Culture, Smithsonian Institution (Searchable Museum)",
+   "dcterms:title": "The Chesapeake: Making Race (Enslaving Colonial North America)",
+   "schema:url": {
+    "@id": "https://www.searchablemuseum.com/the-chesapeake-making-race/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Kristalyn Shefveland, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Indian Enslavement in Virginia",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/indian-enslavement-in-virginia/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Ian Beamish et al., The American Yawp, eds. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "11. The Cotton Revolution",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/11-the-cotton-revolution/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "Retracing Slavery's Trail of Tears",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/slavery-trail-of-tears-180956968"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Paul Finkelman, National Park Service",
+   "dcterms:title": "The Constitution and the Underground Railroad",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/the-constitution-and-the-underground-railroad.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, National Underground Railroad Network to Freedom",
+   "dcterms:title": "What is the Underground Railroad?",
+   "schema:url": {
+    "@id": "https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm"
    },
    "uso:sourceType": "government"
   },
@@ -4027,6 +4365,167 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:slavery-in-the-united-states",
+   "@type": "uso:Concept",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9"
+    }
+   ],
+   "rdfs:label": "Slavery in the United States",
+   "skos:altLabel": [
+    "American slavery",
+    "Chattel slavery in the United States"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:african-american-history"
+    },
+    {
+     "@id": "us:slavery-in-the-americas"
+    }
+   ],
+   "skos:definition": "The system of hereditary, race-based chattel slavery that held people of African descent, and in the colonial era many Native Americans, as property in the English colonies and the United States from the early 1600s until the Thirteenth Amendment abolished it in 1865.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Slavery in the United States",
+   "skos:related": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:act-prohibiting-importation-of-slaves"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:domestic-slave-trade"
+    },
+    {
+     "@id": "us:emancipation-proclamation"
+    },
+    {
+     "@id": "us:juneteenth"
+    },
+    {
+     "@id": "us:nat-turners-rebellion"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:transatlantic-slave-trade"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:indentured-servitude"
+   },
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/society-and-people/slavery-in-the-united-states.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:fugitive-slave-act-of-1850"
+    },
+    {
+     "@id": "us:underground-railroad"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9"
     }
    ]
   },

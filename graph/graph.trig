@@ -122,6 +122,23 @@
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s11> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s12> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s13> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/slavery-in-the-united-states.md" .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> .
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> .
 
 <https://github.com/john1hsu/usa-graph/id/american-civil-war#graph> {
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
@@ -1753,7 +1770,202 @@
   <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> {
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Slavery was a purely Southern institution that the North never practised." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating slavery as only Southern hides how gradual and incomplete northern emancipation was, and how northern banks and merchants profited from the cotton economy." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Virginia's 1662 law matter so much for slavery's growth?" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It made a child's status follow the mother's rather than the father's, so every child of an enslaved woman was born enslaved; slavery became hereditary and could grow through births rather than only through imports." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the enslaved population grow from about 700,000 in 1790 to nearly 4 million in 1860 even though importing enslaved people was banned from 1808?" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because children of enslaved mothers were born enslaved, the population grew through births, and the domestic slave trade then moved about a million people from the Upper South to the cotton-growing Deep South." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did slavery reach into the free states before the Civil War?" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Constitution's fugitive slave clause required people escaping bondage to be returned, and the Fugitive Slave Act of 1850 used federal commissioners without juries to send about 1,000 Black Americans South, provoking resistance in northern communities." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Thirteenth Amendment is ratified, abolishing slavery nationwide." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey's governor signs a state constitutional amendment ending slavery there." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1866-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1619-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1662-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "A Virginia law classes enslaved people as real estate." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1705"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania passes a gradual emancipation law." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1780"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The federal ban on importing enslaved people takes effect." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1808-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Slavery ends in New York under its 1817 law." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1827-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Nat Turner's rebellion begins in Southampton County, Virginia." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1831-08-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes a Fugitive Slave Act that denies accused people a jury trial." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 3,953,760 enslaved people, the peak and the last census to count them." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1860"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2000/01/rdf-schema#label> "Slavery in the United States" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "American slavery" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "Chattel slavery in the United States" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#definition> "The system of hereditary, race-based chattel slavery that held people of African descent, and in the colonial era many Native Americans, as property in the English colonies and the United States from the early 1600s until the Thirteenth Amendment abolished it in 1865." .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slavery in the United States" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/juneteenth> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/indentured-servitude> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#domain> "society-and-people" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/society-and-people/slavery-in-the-united-states.md" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/publisher> "In Pursuit of Freedom (Brooklyn Historical Society, Weeksville Heritage Center and Irondale Ensemble Project)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/title> "Gradual Emancipation" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <https://schema.org/url> <https://pursuitoffreedom.org/gradual-emancipation/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <http://purl.org/dc/terms/publisher> "Noelle Lorraine Williams, New Jersey Historical Commission, New Jersey Department of State" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <http://purl.org/dc/terms/title> "New Jersey, The Last Northern State to End Slavery" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s11> <https://schema.org/url> <https://nj.gov/state/historical/his-2021-juneteenth.shtml> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <http://purl.org/dc/terms/publisher> "National Archives, America's Historical Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s12> <https://schema.org/url> <https://www.archives.gov/historical-docs/13th-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <http://purl.org/dc/terms/publisher> "Daniel Aloi, Cornell Chronicle, Cornell University (2014-09-24)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <http://purl.org/dc/terms/title> "Baptist book relates slavery's role in shaping America" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s13> <https://schema.org/url> <https://news.cornell.edu/node/283461> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <http://purl.org/dc/terms/publisher> "Alan Olmstead and Paul Rhode, Explorations in Economic History 67 (2018), 1-17 (RePEc record)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <http://purl.org/dc/terms/title> "Cotton, slavery, and the new history of capitalism" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s14> <https://schema.org/url> <https://econpapers.repec.org/RePEc:eee:exehis:v:67:y:2018:i:c:p:1-17> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <http://purl.org/dc/terms/title> "History and the Census: Juneteenth" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1> <https://schema.org/url> <https://www.census.gov/about/history/stories/monthly/2025/june-2025.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <http://purl.org/dc/terms/publisher> "Joseph C. Miller, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <http://purl.org/dc/terms/title> "Transatlantic Slave Trade, The" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s2> <https://schema.org/url> <https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <http://purl.org/dc/terms/publisher> "Virginia General Assembly, transcribed in Encyclopedia Virginia from Hening's Statutes at Large, vol. 2" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <http://purl.org/dc/terms/title> "\"Negro womens children to serve according to the condition of the mother\" (1662)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s3> <https://schema.org/url> <https://encyclopediavirginia.org/primary-documents/negro-womens-children-to-serve-according-to-the-condition-of-the-mother-1662/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <http://purl.org/dc/terms/publisher> "National Museum of African American History and Culture, Smithsonian Institution (Searchable Museum)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <http://purl.org/dc/terms/title> "The Chesapeake: Making Race (Enslaving Colonial North America)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s4> <https://schema.org/url> <https://www.searchablemuseum.com/the-chesapeake-making-race/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <http://purl.org/dc/terms/publisher> "Kristalyn Shefveland, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <http://purl.org/dc/terms/title> "Indian Enslavement in Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s5> <https://schema.org/url> <https://encyclopediavirginia.org/entries/indian-enslavement-in-virginia/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <http://purl.org/dc/terms/publisher> "Ian Beamish et al., The American Yawp, eds. Joseph Locke and Ben Wright (Stanford University Press)" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <http://purl.org/dc/terms/title> "11. The Cotton Revolution" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s6> <https://schema.org/url> <https://www.americanyawp.com/text/11-the-cotton-revolution/> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <http://purl.org/dc/terms/title> "Retracing Slavery's Trail of Tears" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s7> <https://schema.org/url> <https://www.smithsonianmag.com/history/slavery-trail-of-tears-180956968> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <http://purl.org/dc/terms/publisher> "Paul Finkelman, National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <http://purl.org/dc/terms/title> "The Constitution and the Underground Railroad" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s8> <https://schema.org/url> <https://www.nps.gov/articles/000/the-constitution-and-the-underground-railroad.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://purl.org/dc/terms/publisher> "National Park Service, National Underground Railroad Network to Freedom" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://purl.org/dc/terms/title> "What is the Underground Railroad?" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/inferred> {
+  <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1774,7 +1986,10 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/act-prohibiting-importation-of-slaves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -1797,6 +2012,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1887,6 +2103,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -1901,6 +2118,7 @@
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -1948,6 +2166,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -1962,6 +2181,7 @@
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/indentured-servitude> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/independence-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -1979,6 +2199,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/lost-cause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -1989,6 +2210,7 @@
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -2062,6 +2284,27 @@
   <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -2100,6 +2343,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -2129,9 +2373,12 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
@@ -2141,6 +2388,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .

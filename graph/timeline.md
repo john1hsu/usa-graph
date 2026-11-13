@@ -4,6 +4,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 
 | Date | What |
 |---|---|
+| 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -19,6 +22,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -42,13 +46,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-02-27 | In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1808-01-01 | The federal ban on importing enslaved people takes effect. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1860-12-20 | A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -76,10 +85,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1865-06-19 | General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery nationwide. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-13 | The House passes the amendment, 120 to 32. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |

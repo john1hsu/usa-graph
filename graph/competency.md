@@ -28,7 +28,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:september-11-attacks` | 4 | department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act, war-in-afghanistan |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
-| `us:constitutional-convention` | 3 | ratification-of-the-constitution, slavery-in-the-united-states, united-states-constitution |
+| `us:constitutional-convention` | 3 | Slavery in the United States, ratification-of-the-constitution, united-states-constitution |
+| `us:slavery-in-the-united-states` | 3 | fugitive-slave-act-of-1850, underground-railroad, united-states-constitution |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:plessy-v-ferguson` | 1 | jim-crow-laws |
@@ -48,6 +49,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 
 ## Places with nothing tied to them (gap)

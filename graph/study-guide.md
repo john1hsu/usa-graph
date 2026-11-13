@@ -174,3 +174,20 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Who was left out of the citizenship clause at first, and how did that change?
   **A:** Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.
 
+## society-and-people
+
+### [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) — Concept
+
+| Myth | Fact |
+|---|---|
+| Slavery was a purely Southern institution that the North never practised. | Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865. |
+
+**Why it matters:** Treating slavery as only Southern hides how gradual and incomplete northern emancipation was, and how northern banks and merchants profited from the cotton economy.
+
+- **Q:** Why did Virginia's 1662 law matter so much for slavery's growth?
+  **A:** It made a child's status follow the mother's rather than the father's, so every child of an enslaved woman was born enslaved; slavery became hereditary and could grow through births rather than only through imports.
+- **Q:** How did the enslaved population grow from about 700,000 in 1790 to nearly 4 million in 1860 even though importing enslaved people was banned from 1808?
+  **A:** Because children of enslaved mothers were born enslaved, the population grew through births, and the domestic slave trade then moved about a million people from the Upper South to the cotton-growing Deep South.
+- **Q:** How did slavery reach into the free states before the Civil War?
+  **A:** The Constitution's fugitive slave clause required people escaping bondage to be returned, and the Fugitive Slave Act of 1850 used federal commissioners without juries to send about 1,000 Black Americans South, provoking resistance in northern communities.
+
