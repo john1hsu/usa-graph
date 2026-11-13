@@ -210,6 +210,16 @@
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s4> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s5> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/native-nations/indian-removal-act.md" .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/abraham-lincoln.md" .
@@ -3251,6 +3261,162 @@
   <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <https://schema.org/url> <https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/indian-removal-act#graph> {
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Indian Removal Act itself ordered the army to drive Native nations out of the East." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Knowing that the law was framed as voluntary exchange shows how coercion operated through treaties, state laws and enforcement decisions, and why the Cherokee and others fought removal in the courts and in Congress rather than simply in the field." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "If the Indian Removal Act was written as a voluntary exchange of lands, how did it lead to the forced removal of the Cherokee Nation?" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The act let the president negotiate exchange treaties. When the Cherokee government under John Ross refused, federal agents concluded the Treaty of New Echota with a minority Treaty Party that had no authority to sign it; the Senate ratified it by a single vote, and in 1838 President Van Buren sent the army to round Cherokees into stockades and march them west." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court's ruling in Worcester v. Georgia fail to stop removal?" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Court held that Georgia's laws had no force in Cherokee territory, but neither Georgia nor President Jackson enforced the decision, so state pressure on Cherokee land continued." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do estimates of how many people were removed range from about 50,000 to about 88,000?" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1836"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1838-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The last Cherokee detachments reach Indian Territory, in present-day Oklahoma." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1839-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1839-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802)." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1802"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1814"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1827"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Gold is found on Native lands in Georgia." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1828"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1830-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1830-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1831"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1835-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Removal Act" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Indian Removal Act of 1830" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Removal Act of 1830" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/indian-removal> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#definition> "The federal law signed by President Andrew Jackson on May 28, 1830, that authorized the president to exchange lands west of the Mississippi River for the homelands of Native nations in the East, and that became the legal basis for the forced removal of the Cherokee, Muscogee (Creek), Choctaw, Chickasaw, Seminole and other nations in the 1830s and 1840s." .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/native-nations> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian Removal Act" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-territory> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-ross> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-van-buren> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/cherokee-nation> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/choctaw-nation> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "native-nations" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/native-nations/indian-removal-act.md" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/second-seminole-war> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/trail-of-tears> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-new-echota> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://schema.org/startDate> "1830-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <http://purl.org/dc/terms/title> "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <http://purl.org/dc/terms/publisher> "National Archives, DocsTeach (Enrolled Acts and Resolutions of Congress, Record Group 11)" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <http://purl.org/dc/terms/title> "Indian Removal Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2> <https://schema.org/url> <https://www.docsteach.org/documents/document/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <http://purl.org/dc/terms/title> "Indian Treaties and the Removal Act of 1830" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3> <https://schema.org/url> <https://history.state.gov/milestones/1830-1860/indian-treaties> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Pea Ridge National Military Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <http://purl.org/dc/terms/title> "How the Trail of Tears Began" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4> <https://schema.org/url> <https://www.nps.gov/peri/planyourvisit/stop-1-trail-of-tears.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <http://purl.org/dc/terms/publisher> "Tim Alan Garrison, New Georgia Encyclopedia (Georgia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <http://purl.org/dc/terms/title> "Cherokee Removal" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-removal> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <http://purl.org/dc/terms/publisher> "Andrew K. Frank, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <http://purl.org/dc/terms/title> "Indian Removal" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entry=IN015> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <http://purl.org/dc/terms/publisher> "Jeffrey Ostler, HUMANITIES (National Endowment for the Humanities), Summer 2024" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <http://purl.org/dc/terms/title> "Trails of Tears, Plural: What We Don't Know About Indian Removal" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <https://schema.org/url> <https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> {
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's." .
@@ -4214,6 +4380,10 @@
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -4222,6 +4392,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -4272,9 +4443,13 @@
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/cherokee-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/choctaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/civil-liberties-act-of-1988> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -4313,6 +4488,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -4521,7 +4697,32 @@
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/independence-hall> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
-  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/indian-removal> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -4608,6 +4809,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/john-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/korematsu-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -4645,6 +4847,7 @@
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-v-callais> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -4657,6 +4860,7 @@
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -4681,6 +4885,7 @@
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/missouri-river> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/mobile-v-bolden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -4688,6 +4893,7 @@
   <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-guard-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -4781,6 +4987,7 @@
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/second-seminole-war> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -4864,6 +5071,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -4888,6 +5096,7 @@
   <https://github.com/john1hsu/usa-graph/id/southern-united-states> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/surrender-at-appomattox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -4956,9 +5165,12 @@
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-new-echota> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -4995,6 +5207,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -5022,6 +5235,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#amendedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -5117,6 +5331,7 @@
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .

@@ -1543,6 +1543,213 @@
   ]
  },
  {
+  "id": "us:indian-removal-act",
+  "title": "Indian Removal Act",
+  "aliases": [
+   "Indian Removal Act of 1830",
+   "Removal Act of 1830"
+  ],
+  "type": "Law",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/native-nations/indian-removal-act.md",
+  "created": "2026-11-13",
+  "summary": "The federal law signed by President Andrew Jackson on May 28, 1830, that authorized the president to exchange lands west of the Mississippi River for the homelands of Native nations in the East, and that became the legal basis for the forced removal of the Cherokee, Muscogee (Creek), Choctaw, Chickasaw, Seminole and other nations in the 1830s and 1840s.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:indian-removal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worcester-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-ross"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martin-van-buren"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-territory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:andrew-jackson",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:cherokee-nation",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:choctaw-nation",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:muscogee-creek-nation",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:chickasaw-nation",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-new-echota",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:trail-of-tears",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:second-seminole-war",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1830-05-28",
+  "end": null,
+  "review": [
+   {
+    "question": "If the Indian Removal Act was written as a voluntary exchange of lands, how did it lead to the forced removal of the Cherokee Nation?",
+    "answer": "The act let the president negotiate exchange treaties. When the Cherokee government under John Ross refused, federal agents concluded the Treaty of New Echota with a minority Treaty Party that had no authority to sign it; the Senate ratified it by a single vote, and in 1838 President Van Buren sent the army to round Cherokees into stockades and march them west."
+   },
+   {
+    "question": "Why did the Supreme Court's ruling in Worcester v. Georgia fail to stop removal?",
+    "answer": "The Court held that Georgia's laws had no force in Cherokee territory, but neither Georgia nor President Jackson enforced the decision, so state pressure on Cherokee land continued."
+   },
+   {
+    "question": "Why do estimates of how many people were removed range from about 50,000 to about 88,000?",
+    "answer": "The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1802",
+    "event": "Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802)."
+   },
+   {
+    "date": "1814",
+    "event": "After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres."
+   },
+   {
+    "date": "1827",
+    "event": "The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory."
+   },
+   {
+    "date": "1828",
+    "event": "Gold is found on Native lands in Georgia."
+   },
+   {
+    "date": "1830-05-28",
+    "event": "After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson."
+   },
+   {
+    "date": "1830-12-06",
+    "event": "Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms."
+   },
+   {
+    "date": "1831",
+    "event": "The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins."
+   },
+   {
+    "date": "1832",
+    "event": "In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling."
+   },
+   {
+    "date": "1835-12-29",
+    "event": "A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year."
+   },
+   {
+    "date": "1836",
+    "event": "The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west."
+   },
+   {
+    "date": "1838-05-23",
+    "event": "Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades."
+   },
+   {
+    "date": "1839-03",
+    "event": "The last Cherokee detachments reach Indian Territory, in present-day Oklahoma."
+   },
+   {
+    "date": "1839-09-06",
+    "event": "The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah."
+   }
+  ],
+  "misconception": {
+   "myth": "The Indian Removal Act itself ordered the army to drive Native nations out of the East.",
+   "fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
+   "why": "Knowing that the law was framed as voluntary exchange shows how coercion operated through treaties, state laws and enforcement decisions, and why the Cherokee and others fought removal in the courts and in Congress rather than simply in the field."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+   "https://www.docsteach.org/documents/document/indian-removal-act",
+   "https://history.state.gov/milestones/1830-1860/indian-treaties",
+   "https://www.nps.gov/peri/planyourvisit/stop-1-trail-of-tears.htm",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-removal",
+   "https://www.okhistory.org/publications/enc/entry?entry=IN015",
+   "https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal"
+  ]
+ },
+ {
   "id": "us:japanese-american-incarceration",
   "title": "Japanese American incarceration during World War II",
   "aliases": [

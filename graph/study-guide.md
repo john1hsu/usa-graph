@@ -327,6 +327,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is Plessy considered so consequential even though it concerned railroad cars?
   **A:** By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954.
 
+## native-nations
+
+### [Indian Removal Act](../articles/native-nations/indian-removal-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Indian Removal Act itself ordered the army to drive Native nations out of the East. | The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them. |
+
+**Why it matters:** Knowing that the law was framed as voluntary exchange shows how coercion operated through treaties, state laws and enforcement decisions, and why the Cherokee and others fought removal in the courts and in Congress rather than simply in the field.
+
+- **Q:** If the Indian Removal Act was written as a voluntary exchange of lands, how did it lead to the forced removal of the Cherokee Nation?
+  **A:** The act let the president negotiate exchange treaties. When the Cherokee government under John Ross refused, federal agents concluded the Treaty of New Echota with a minority Treaty Party that had no authority to sign it; the Senate ratified it by a single vote, and in 1838 President Van Buren sent the army to round Cherokees into stockades and march them west.
+- **Q:** Why did the Supreme Court's ruling in Worcester v. Georgia fail to stop removal?
+  **A:** The Court held that Georgia's laws had no force in Cherokee territory, but neither Georgia nor President Jackson enforced the decision, so state pressure on Cherokee land continued.
+- **Q:** Why do estimates of how many people were removed range from about 50,000 to about 88,000?
+  **A:** The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person

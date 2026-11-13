@@ -26,6 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
+| `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -70,6 +71,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:constitutional-convention` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
+| `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |

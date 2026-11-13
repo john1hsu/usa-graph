@@ -1220,6 +1220,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
+   "uso:myth": "The Indian Removal Act itself ordered the army to drive Native nations out of the East.",
+   "uso:why": "Knowing that the law was framed as voluntary exchange shows how coercion operated through treaties, state laws and enforcement decisions, and why the Cherokee and others fought removal in the courts and in Congress rather than simply in the field."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "If the Indian Removal Act was written as a voluntary exchange of lands, how did it lead to the forced removal of the Cherokee Nation?",
+   "uso:answer": "The act let the president negotiate exchange treaties. When the Cherokee government under John Ross refused, federal agents concluded the Treaty of New Echota with a minority Treaty Party that had no authority to sign it; the Senate ratified it by a single vote, and in 1838 President Van Buren sent the army to round Cherokees into stockades and march them west.",
+   "uso:questionFor": {
+    "@id": "us:indian-removal-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court's ruling in Worcester v. Georgia fail to stop removal?",
+   "uso:answer": "The Court held that Georgia's laws had no force in Cherokee territory, but neither Georgia nor President Jackson enforced the decision, so state pressure on Cherokee land continued.",
+   "uso:questionFor": {
+    "@id": "us:indian-removal-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do estimates of how many people were removed range from about 50,000 to about 88,000?",
+   "uso:answer": "The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s.",
+   "uso:questionFor": {
+    "@id": "us:indian-removal-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1802"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1836"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1838-05-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last Cherokee detachments reach Indian Territory, in present-day Oklahoma.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1839-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1839-09-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1814"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1827"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gold is found on Native lands in Georgia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1828"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1830-05-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1830-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1831"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1835-12-29"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership.",
@@ -3743,6 +3894,104 @@
     "@id": "https://www.heinzhistorycenter.org/?p=1110"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, DocsTeach (Enrolled Acts and Resolutions of Congress, Record Group 11)",
+   "dcterms:title": "Indian Removal Act",
+   "schema:url": {
+    "@id": "https://www.docsteach.org/documents/document/indian-removal-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Indian Treaties and the Removal Act of 1830",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1830-1860/indian-treaties"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Pea Ridge National Military Park",
+   "dcterms:title": "How the Trail of Tears Began",
+   "schema:url": {
+    "@id": "https://www.nps.gov/peri/planyourvisit/stop-1-trail-of-tears.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Tim Alan Garrison, New Georgia Encyclopedia (Georgia Humanities)",
+   "dcterms:title": "Cherokee Removal",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-removal"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Andrew K. Frank, The Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society)",
+   "dcterms:title": "Indian Removal",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entry=IN015"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Jeffrey Ostler, HUMANITIES (National Endowment for the Humanities), Summer 2024",
+   "dcterms:title": "Trails of Tears, Plural: What We Don't Know About Indian Removal",
+   "schema:url": {
+    "@id": "https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1",
@@ -7821,6 +8070,171 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:indian-removal-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7"
+    }
+   ],
+   "rdfs:label": "Indian Removal Act",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1830-05-28"
+   },
+   "skos:altLabel": [
+    "Indian Removal Act of 1830",
+    "Removal Act of 1830"
+   ],
+   "skos:broader": {
+    "@id": "us:indian-removal"
+   },
+   "skos:definition": "The federal law signed by President Andrew Jackson on May 28, 1830, that authorized the president to exchange lands west of the Mississippi River for the homelands of Native nations in the East, and that became the legal basis for the forced removal of the Cherokee, Muscogee (Creek), Choctaw, Chickasaw, Seminole and other nations in the 1830s and 1840s.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Indian Removal Act",
+   "skos:related": [
+    {
+     "@id": "us:andrew-jackson"
+    },
+    {
+     "@id": "us:cherokee-nation-v-georgia"
+    },
+    {
+     "@id": "us:indian-territory"
+    },
+    {
+     "@id": "us:john-ross"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:martin-van-buren"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:cherokee-nation"
+    },
+    {
+     "@id": "us:chickasaw-nation"
+    },
+    {
+     "@id": "us:choctaw-nation"
+    },
+    {
+     "@id": "us:muscogee-creek-nation"
+    }
+   ],
+   "uso:domain": "native-nations",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/native-nations/indian-removal-act.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:second-seminole-war"
+    },
+    {
+     "@id": "us:trail-of-tears"
+    },
+    {
+     "@id": "us:treaty-of-new-echota"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:louisiana-purchase"
+   },
+   "uso:signedBy": {
+    "@id": "us:andrew-jackson"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9"
     }
    ]
   },
