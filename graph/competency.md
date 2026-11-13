@@ -33,6 +33,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 4 | Slavery in the United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
+| `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
@@ -58,6 +59,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | era | node | start |
 |---|---|---|
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
+| `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 
 ## Myths, contested claims and debated interpretations
@@ -75,6 +77,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
+| `us:panic-of-1873` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 | `us:united-states-constitution` | interpretive |  |
@@ -90,9 +93,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:great-railroad-strike-of-1877` |
+_No results._
 
 ## People with no recorded role (gap)
 

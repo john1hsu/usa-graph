@@ -261,6 +261,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What lessons did workers and employers each draw from the strike?
   **A:** Many workers concluded they needed lasting, organized unions, while businesses concluded they needed more political influence and government help, including better-prepared state forces to deal with future labor unrest.
 
+### [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Panic of 1873 was a purely American crash that began on Wall Street when Jay Cooke's bank failed. | Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed. |
+
+**Why it matters:** Seeing the transatlantic origins shows how closely American railroads and banks already depended on European capital, and why a crash abroad could ruin firms, workers and depositors across the United States.
+
+- **Q:** How did a stock market crash in Europe help cause a banking panic in the United States?
+  **A:** After the Vienna crashes of 1873, European investors sold American securities, especially railroad bonds; that cut off the borrowing that overbuilt railroads depended on, many defaulted on their bank loans, and when Jay Cooke and Company, deeply invested in the Northern Pacific Railway, failed on September 18, depositors rushed to withdraw their money from banks across the country.
+- **Q:** Why did the panic fall so hard on Black depositors of the Freedman's Savings Bank?
+  **A:** After an 1870 charter change, the bank's trustees had put depositors' savings into railroads, real estate and risky loans; the panic made most of those investments worthless, runs drained its cash, and when it closed in June 1874 its deposits had no federal protection, so only about half of the depositors ever received anything, and they recovered roughly three-fifths of their balances.
+- **Q:** Why do historians link the depression that followed the panic to the end of Reconstruction?
+  **A:** The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence.
+
 ## foreign-relations-and-military
 
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict

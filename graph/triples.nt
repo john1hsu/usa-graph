@@ -1682,6 +1682,99 @@
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/6> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Panic of 1873 was a purely American crash that began on Wall Street when Jay Cooke's bank failed." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Seeing the transatlantic origins shows how closely American railroads and banks already depended on European capital, and why a crash abroad could ruin firms, workers and depositors across the United States." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did a stock market crash in Europe help cause a banking panic in the United States?" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "After the Vienna crashes of 1873, European investors sold American securities, especially railroad bonds; that cut off the borrowing that overbuilt railroads depended on, many defaulted on their bank loans, and when Jay Cooke and Company, deeply invested in the Northern Pacific Railway, failed on September 18, depositors rushed to withdraw their money from banks across the country." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the panic fall so hard on Black depositors of the Freedman's Savings Bank?" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "After an 1870 charter change, the bank's trustees had put depositors' savings into railroads, real estate and risky loans; the panic made most of those investments worthless, runs drained its cash, and when it closed in June 1874 its deposits had no federal protection, so only about half of the depositors ever received anything, and they recovered roughly three-fifths of their balances." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians link the depression that followed the panic to the end of Reconstruction?" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The depression begins to lift early in the year." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1879"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The New York Stock Exchange closes for the first time in its history and stays shut for ten days." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The New York Clearing House suspends cash payments in New York." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The acute panic subsides by mid-October, but a long depression follows." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1873-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1874-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1874-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1875-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Railroad wage cuts during the depression set off the Great Railroad Strike." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1877-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2000/01/rdf-schema#label> "Panic of 1873" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#altLabel> "Depression of 1873" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#altLabel> "Depression of 1873–1879" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#altLabel> "Financial Panic of 1873" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#altLabel> "Long Depression" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#definition> "A financial crisis that began when the railroad-financing bank Jay Cooke and Company failed on September 18, 1873, closed the New York Stock Exchange for ten days, and set off a depression that lasted until about 1879, ruining thousands of businesses, sinking the Freedman's Savings Bank and helping to turn national politics away from Reconstruction." .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Panic of 1873" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/coinage-act-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jay-cooke-and-company> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/northern-pacific-railway> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/freedmans-savings-and-trust-company> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#domain> "economy-and-work" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/economy-and-work/panic-of-1873.md" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://schema.org/endDate> "1879"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://schema.org/startDate> "1873-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward." .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"" .
@@ -2948,6 +3041,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <https://schema.org/url> <https://history.state.gov/milestones/1784-1800/pickney-treaty> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/publisher> "Gary Richardson and Tim Sablik, Federal Reserve History (Federal Reserve Bank of Richmond)" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/title> "Banking Panics of the Gilded Age" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <https://schema.org/url> <https://federalreservehistory.org/essay/banking-panics-of-the-gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <http://purl.org/dc/terms/publisher> "Thomas Klitgaard and James Narron, Liberty Street Economics, Federal Reserve Bank of New York" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <http://purl.org/dc/terms/title> "Crisis Chronicles: The Long Depression and the Panic of 1873" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2> <https://schema.org/url> <https://libertystreeteconomics.newyorkfed.org/2016/02/crisis-chronicles-the-long-depression-and-the-panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <http://purl.org/dc/terms/publisher> "Michael J. Megelsh, CALS Encyclopedia of Arkansas, Central Arkansas Library System" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <http://purl.org/dc/terms/title> "Panic of 1873" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3> <https://schema.org/url> <https://encyclopediaofarkansas.net/entries/panic-of-1873-6385/> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <http://purl.org/dc/terms/publisher> "Christopher Abernathy et al., The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <http://purl.org/dc/terms/title> "15. Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> <https://schema.org/url> <https://www.americanyawp.com/commentpress/15-reconstruction/> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <http://purl.org/dc/terms/publisher> "Reginald Washington, Prologue Magazine 29, no. 2 (Summer 1997), National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <http://purl.org/dc/terms/title> "The Freedman's Savings and Trust Company and African American Genealogical Research" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> <https://schema.org/url> <https://www.archives.gov/publications/prologue/1997/summer/freedmans-savings-and-trust.html> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of the Treasury" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://purl.org/dc/terms/title> "Freedman's Bank Demise" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://schema.org/url> <https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/publisher> "Keith Weldon Medley, 64 Parishes (Louisiana Endowment for the Humanities)" .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/title> "Plessy v. Ferguson" .

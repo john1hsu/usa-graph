@@ -2855,6 +2855,162 @@
   ]
  },
  {
+  "id": "us:panic-of-1873",
+  "title": "Panic of 1873",
+  "aliases": [
+   "Financial Panic of 1873",
+   "Depression of 1873",
+   "Depression of 1873–1879",
+   "Long Depression"
+  ],
+  "type": "Event",
+  "domain": "economy-and-work",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/economy-and-work/panic-of-1873.md",
+  "created": "2026-11-13",
+  "summary": "A financial crisis that began when the railroad-financing bank Jay Cooke and Company failed on September 18, 1873, closed the New York Stock Exchange for ten days, and set off a depression that lasted until about 1879, ruining thousands of businesses, sinking the Freedman's Savings Bank and helping to turn national politics away from Reconstruction.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jay-cooke-and-company"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:northern-pacific-railway"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ulysses-s-grant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:coinage-act-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:railroads-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:labor-movement"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:railroads-in-the-united-states"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:great-railroad-strike-of-1877",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:freedmans-savings-and-trust-company",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:reconstruction-era",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:gilded-age",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-york-city",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1873-09-18",
+  "end": "1879",
+  "review": [
+   {
+    "question": "How did a stock market crash in Europe help cause a banking panic in the United States?",
+    "answer": "After the Vienna crashes of 1873, European investors sold American securities, especially railroad bonds; that cut off the borrowing that overbuilt railroads depended on, many defaulted on their bank loans, and when Jay Cooke and Company, deeply invested in the Northern Pacific Railway, failed on September 18, depositors rushed to withdraw their money from banks across the country."
+   },
+   {
+    "question": "Why did the panic fall so hard on Black depositors of the Freedman's Savings Bank?",
+    "answer": "After an 1870 charter change, the bank's trustees had put depositors' savings into railroads, real estate and risky loans; the panic made most of those investments worthless, runs drained its cash, and when it closed in June 1874 its deposits had no federal protection, so only about half of the depositors ever received anything, and they recovered roughly three-fifths of their balances."
+   },
+   {
+    "question": "Why do historians link the depression that followed the panic to the end of Reconstruction?",
+    "answer": "The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1873-05",
+    "event": "A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds."
+   },
+   {
+    "date": "1873-09-18",
+    "event": "Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt."
+   },
+   {
+    "date": "1873-09-20",
+    "event": "The New York Stock Exchange closes for the first time in its history and stays shut for ten days."
+   },
+   {
+    "date": "1873-09-24",
+    "event": "The New York Clearing House suspends cash payments in New York."
+   },
+   {
+    "date": "1873-10",
+    "event": "The acute panic subsides by mid-October, but a long depression follows."
+   },
+   {
+    "date": "1874-03",
+    "event": "Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes."
+   },
+   {
+    "date": "1874-06-29",
+    "event": "The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board."
+   },
+   {
+    "date": "1875-01",
+    "event": "The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years."
+   },
+   {
+    "date": "1877-07",
+    "event": "Railroad wage cuts during the depression set off the Great Railroad Strike."
+   },
+   {
+    "date": "1879",
+    "event": "The depression begins to lift early in the year."
+   }
+  ],
+  "misconception": {
+   "myth": "The Panic of 1873 was a purely American crash that began on Wall Street when Jay Cooke's bank failed.",
+   "fact": "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed.",
+   "why": "Seeing the transatlantic origins shows how closely American railroads and banks already depended on European capital, and why a crash abroad could ruin firms, workers and depositors across the United States."
+  },
+  "source_urls": [
+   "https://federalreservehistory.org/essay/banking-panics-of-the-gilded-age",
+   "https://libertystreeteconomics.newyorkfed.org/2016/02/crisis-chronicles-the-long-depression-and-the-panic-of-1873",
+   "https://encyclopediaofarkansas.net/entries/panic-of-1873-6385/",
+   "https://www.americanyawp.com/commentpress/15-reconstruction/",
+   "https://www.archives.gov/publications/prologue/1997/summer/freedmans-savings-and-trust.html",
+   "https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

@@ -2286,6 +2286,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed.",
+   "uso:myth": "The Panic of 1873 was a purely American crash that began on Wall Street when Jay Cooke's bank failed.",
+   "uso:why": "Seeing the transatlantic origins shows how closely American railroads and banks already depended on European capital, and why a crash abroad could ruin firms, workers and depositors across the United States."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a stock market crash in Europe help cause a banking panic in the United States?",
+   "uso:answer": "After the Vienna crashes of 1873, European investors sold American securities, especially railroad bonds; that cut off the borrowing that overbuilt railroads depended on, many defaulted on their bank loans, and when Jay Cooke and Company, deeply invested in the Northern Pacific Railway, failed on September 18, depositors rushed to withdraw their money from banks across the country.",
+   "uso:questionFor": {
+    "@id": "us:panic-of-1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the panic fall so hard on Black depositors of the Freedman's Savings Bank?",
+   "uso:answer": "After an 1870 charter change, the bank's trustees had put depositors' savings into railroads, real estate and risky loans; the panic made most of those investments worthless, runs drained its cash, and when it closed in June 1874 its deposits had no federal protection, so only about half of the depositors ever received anything, and they recovered roughly three-fifths of their balances.",
+   "uso:questionFor": {
+    "@id": "us:panic-of-1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians link the depression that followed the panic to the end of Reconstruction?",
+   "uso:answer": "The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence.",
+   "uso:questionFor": {
+    "@id": "us:panic-of-1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1873-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The depression begins to lift early in the year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1879"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1873-09-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The New York Stock Exchange closes for the first time in its history and stays shut for ten days.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1873-09-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The New York Clearing House suspends cash payments in New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1873-09-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The acute panic subsides by mid-October, but a long depression follows.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1873-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1874-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1874-06-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1875-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Railroad wage cuts during the depression set off the Great Railroad Strike.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1877-07"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -4845,6 +4969,90 @@
    "dcterms:title": "Treaty of San Lorenzo/Pinckney's Treaty, 1795",
    "schema:url": {
     "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Gary Richardson and Tim Sablik, Federal Reserve History (Federal Reserve Bank of Richmond)",
+   "dcterms:title": "Banking Panics of the Gilded Age",
+   "schema:url": {
+    "@id": "https://federalreservehistory.org/essay/banking-panics-of-the-gilded-age"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Thomas Klitgaard and James Narron, Liberty Street Economics, Federal Reserve Bank of New York",
+   "dcterms:title": "Crisis Chronicles: The Long Depression and the Panic of 1873",
+   "schema:url": {
+    "@id": "https://libertystreeteconomics.newyorkfed.org/2016/02/crisis-chronicles-the-long-depression-and-the-panic-of-1873"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Michael J. Megelsh, CALS Encyclopedia of Arkansas, Central Arkansas Library System",
+   "dcterms:title": "Panic of 1873",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/panic-of-1873-6385/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Christopher Abernathy et al., The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "15. Reconstruction",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/commentpress/15-reconstruction/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Reginald Washington, Prologue Magazine 29, no. 2 (Summer 1997), National Archives",
+   "dcterms:title": "The Freedman's Savings and Trust Company and African American Genealogical Research",
+   "schema:url": {
+    "@id": "https://www.archives.gov/publications/prologue/1997/summer/freedmans-savings-and-trust.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of the Treasury",
+   "dcterms:title": "Freedman's Bank Demise",
+   "schema:url": {
+    "@id": "https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise"
    },
    "uso:sourceType": "government"
   },
@@ -9472,6 +9680,139 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:panic-of-1873",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6"
+    }
+   ],
+   "rdfs:label": "Panic of 1873",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1879"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1873-09-18"
+   },
+   "skos:altLabel": [
+    "Depression of 1873",
+    "Depression of 1873–1879",
+    "Financial Panic of 1873",
+    "Long Depression"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "A financial crisis that began when the railroad-financing bank Jay Cooke and Company failed on September 18, 1873, closed the New York Stock Exchange for ten days, and set off a depression that lasted until about 1879, ruining thousands of businesses, sinking the Freedman's Savings Bank and helping to turn national politics away from Reconstruction.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Panic of 1873",
+   "skos:related": [
+    {
+     "@id": "us:coinage-act-of-1873"
+    },
+    {
+     "@id": "us:frederick-douglass"
+    },
+    {
+     "@id": "us:jay-cooke-and-company"
+    },
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:northern-pacific-railway"
+    },
+    {
+     "@id": "us:railroads-in-the-united-states"
+    },
+    {
+     "@id": "us:ulysses-s-grant"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:freedmans-savings-and-trust-company"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    }
+   ],
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/economy-and-work/panic-of-1873.md",
+   "uso:ledTo": {
+    "@id": "us:great-railroad-strike-of-1877"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:gilded-age"
+   },
+   "uso:occurredIn": {
+    "@id": "us:new-york-city"
+   },
+   "uso:requires": {
+    "@id": "us:railroads-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/timeline/9"
     }
    ]
   },

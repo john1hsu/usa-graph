@@ -196,12 +196,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1873 | The railroads' financial bubble bursts, beginning years of depression, layoffs and repeated wage cuts. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1873-05 | A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-09-18 – 1879 | **[Panic of 1873](../articles/economy-and-work/panic-of-1873.md)** (Event) |
+| 1873-09-18 | Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-09-20 | The New York Stock Exchange closes for the first time in its history and stays shut for ten days. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-09-24 | The New York Clearing House suspends cash payments in New York. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-10 | The acute panic subsides by mid-October, but a long depression follows. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1874-03 | Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
 | 1877 | Appointed U.S. marshal for the District of Columbia by President Hayes. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1877 | The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1877-07 | Railroad wage cuts during the depression set off the Great Railroad Strike. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1877-07-16 – 1877-08 | **[Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md)** (Event) |
 | 1877-07-16 | Railroad workers at Martinsburg, West Virginia, walk off the job over a ten percent wage cut on the Baltimore and Ohio Railroad and stop trains. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-18 | Governor Henry M. Mathews asks for federal help, and President Rutherford B. Hayes proclaims that those obstructing the railroad must disperse by noon the next day. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -210,6 +220,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-22 | Fires in Pittsburgh destroy the Pennsylvania Railroad's Union Depot, more than thirty buildings and thousands of locomotives and cars. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-24 | Unrest in Chicago peaks over five days of walkouts, sympathy strikes and clashes with police, militia and U.S. Army troops. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
