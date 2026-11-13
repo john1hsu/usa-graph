@@ -159,6 +159,25 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did the 1982 amendment to Section 2 change, and why?
   **A:** After Mobile v. Bolden (1980) required proof of discriminatory purpose in vote-dilution cases, Congress amended Section 2 so a violation could be shown without proving intent.
 
+## depression-and-world-war
+
+### [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Japanese Americans were removed and imprisoned because they were caught spying or committing sabotage, so the camps were a military necessity. | No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership. |
+
+**Why it matters:** The government justified the removal as military necessity at the time, the Supreme Court accepted that claim in 1944, and the word "evacuation" made forced removal sound like protection.
+
+- **Q:** Why do the National Park Service and many historians prefer "incarceration" and "forced removal" to "internment" and "evacuation"?
+  **A:** Internment is a law-of-war term for detaining enemy nationals, which the Justice Department and Army did separately to non-citizens; most people in the ten WRA camps were U.S. citizens held without charges, and "evacuation" wrongly suggests being moved out of danger.
+- **Q:** How did the government justify the removal, and what does the evidence show?
+  **A:** General DeWitt and President Roosevelt claimed military necessity, citing reports of signals and sabotage; those reports were unverified, the FBI's director mocked the Army's intelligence as hysterical, and no Japanese American was convicted of serious espionage or sabotage.
+- **Q:** How did the Supreme Court's two December 1944 decisions differ?
+  **A:** In Korematsu it upheld the exclusion order 6–3 as a military necessity, while in Ex parte Endo it ruled that the government could not keep detaining citizens it conceded were loyal; the exclusion orders were lifted effective January 2, 1945.
+- **Q:** What did the redress movement achieve, and how?
+  **A:** Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education.
+
 ## foreign-relations-and-military
 
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict

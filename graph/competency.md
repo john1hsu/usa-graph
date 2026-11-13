@@ -26,6 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
+| `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
@@ -34,6 +35,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
+| `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:plessy-v-ferguson` | 1 | jim-crow-laws |
 
 ## Happenings by era
@@ -101,5 +103,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 
 _Which institutions, offices, rights and principles did each document or law establish?_ — `queries/12-what-founding-texts-established.rq`
 
-_No results._
+| document | established |
+|---|---|
+| `us:executive-order-9066` | `us:japanese-american-incarceration` |
 

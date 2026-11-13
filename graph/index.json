@@ -1075,6 +1075,205 @@
   ]
  },
  {
+  "id": "us:japanese-american-incarceration",
+  "title": "Japanese American incarceration during World War II",
+  "aliases": [
+   "Japanese American incarceration",
+   "Incarceration of Japanese Americans",
+   "Japanese American internment",
+   "Internment of Japanese Americans",
+   "Japanese American relocation",
+   "Mass removal of Japanese Americans"
+  ],
+  "type": "Event",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/depression-and-world-war/japanese-american-incarceration.md",
+  "created": "2026-11-13",
+  "summary": "The forced removal of people of Japanese ancestry from the U.S. West Coast under Executive Order 9066 and their imprisonment, without charges or trial, in War Relocation Authority camps and other sites from 1942 to 1946; about two-thirds of those held were U.S. citizens.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:attack-on-pearl-harbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ex-parte-endo"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:due-process"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:442nd-regimental-combat-team"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:day-of-remembrance"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:executive-order-9066",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:manzanar",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:tule-lake-segregation-center",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:japanese-americans",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:korematsu-v-united-states",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:commission-on-wartime-relocation-and-internment-of-civilians",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:civil-liberties-act-of-1988",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1942-02-19",
+  "end": "1946-03-20",
+  "review": [
+   {
+    "question": "Why do the National Park Service and many historians prefer \"incarceration\" and \"forced removal\" to \"internment\" and \"evacuation\"?",
+    "answer": "Internment is a law-of-war term for detaining enemy nationals, which the Justice Department and Army did separately to non-citizens; most people in the ten WRA camps were U.S. citizens held without charges, and \"evacuation\" wrongly suggests being moved out of danger."
+   },
+   {
+    "question": "How did the government justify the removal, and what does the evidence show?",
+    "answer": "General DeWitt and President Roosevelt claimed military necessity, citing reports of signals and sabotage; those reports were unverified, the FBI's director mocked the Army's intelligence as hysterical, and no Japanese American was convicted of serious espionage or sabotage."
+   },
+   {
+    "question": "How did the Supreme Court's two December 1944 decisions differ?",
+    "answer": "In Korematsu it upheld the exclusion order 6–3 as a military necessity, while in Ex parte Endo it ruled that the government could not keep detaining citizens it conceded were loyal; the exclusion orders were lifted effective January 2, 1945."
+   },
+   {
+    "question": "What did the redress movement achieve, and how?",
+    "answer": "Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1941-12-07",
+    "event": "Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens."
+   },
+   {
+    "date": "1942-02-19",
+    "event": "President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded."
+   },
+   {
+    "date": "1942-03-18",
+    "event": "Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps."
+   },
+   {
+    "date": "1942-03-21",
+    "event": "Public Law 503 makes violating an exclusion order a federal crime."
+   },
+   {
+    "date": "1942-03-23",
+    "event": "The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington."
+   },
+   {
+    "date": "1943-02-01",
+    "event": "The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers."
+   },
+   {
+    "date": "1943-02-03",
+    "event": "The WRA begins giving incarcerated adults the so-called loyalty questionnaire."
+   },
+   {
+    "date": "1943-07-31",
+    "event": "Tule Lake is designated a segregation center for people the government labeled disloyal."
+   },
+   {
+    "date": "1944-12-18",
+    "event": "The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held."
+   },
+   {
+    "date": "1945-01-02",
+    "event": "The West Coast exclusion orders are lifted."
+   },
+   {
+    "date": "1946-03-20",
+    "event": "Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946."
+   },
+   {
+    "date": "1983-11-10",
+    "event": "A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct."
+   },
+   {
+    "date": "1988-08-10",
+    "event": "President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person."
+   }
+  ],
+  "misconception": {
+   "myth": "Japanese Americans were removed and imprisoned because they were caught spying or committing sabotage, so the camps were a military necessity.",
+   "fact": "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership.",
+   "why": "The government justified the removal as military necessity at the time, the Supreme Court accepted that claim in 1944, and the word \"evacuation\" made forced removal sound like protection."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/executive-order-9066",
+   "https://www.nps.gov/subjects/worldwarii/confinement.htm",
+   "https://home.nps.gov/articles/000/terminology-and-the-mass-incarceration-of-japanese-americans-during-world-war-ii.htm",
+   "https://www.nps.gov/tule/planyourvisit/timeline-japanese-americans-during-world-war-ii.htm",
+   "https://www.nps.gov/articles/historyinternment.htm",
+   "https://www.uscourts.gov/educational-resources/educational-activities/facts-and-case-summary-korematsu-v-us",
+   "https://encyclopedia.densho.org/Civil%20Liberties%20Act%20of%201988/",
+   "https://docsteach.org/document/personal-justice-denied-recommendations/",
+   "https://newsdesk.si.edu/releases/smithsonian-marks-75th-anniversary-executive-order-9066"
+  ]
+ },
+ {
   "id": "us:jazz",
   "title": "Jazz",
   "aliases": [

@@ -857,6 +857,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership.",
+   "uso:myth": "Japanese Americans were removed and imprisoned because they were caught spying or committing sabotage, so the camps were a military necessity.",
+   "uso:why": "The government justified the removal as military necessity at the time, the Supreme Court accepted that claim in 1944, and the word \"evacuation\" made forced removal sound like protection."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do the National Park Service and many historians prefer \"incarceration\" and \"forced removal\" to \"internment\" and \"evacuation\"?",
+   "uso:answer": "Internment is a law-of-war term for detaining enemy nationals, which the Justice Department and Army did separately to non-citizens; most people in the ten WRA camps were U.S. citizens held without charges, and \"evacuation\" wrongly suggests being moved out of danger.",
+   "uso:questionFor": {
+    "@id": "us:japanese-american-incarceration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the government justify the removal, and what does the evidence show?",
+   "uso:answer": "General DeWitt and President Roosevelt claimed military necessity, citing reports of signals and sabotage; those reports were unverified, the FBI's director mocked the Army's intelligence as hysterical, and no Japanese American was convicted of serious espionage or sabotage.",
+   "uso:questionFor": {
+    "@id": "us:japanese-american-incarceration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Supreme Court's two December 1944 decisions differ?",
+   "uso:answer": "In Korematsu it upheld the exclusion order 6–3 as a military necessity, while in Ex parte Endo it ruled that the government could not keep detaining citizens it conceded were loyal; the exclusion orders were lifted effective January 2, 1945.",
+   "uso:questionFor": {
+    "@id": "us:japanese-american-incarceration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the redress movement achieve, and how?",
+   "uso:answer": "Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education.",
+   "uso:questionFor": {
+    "@id": "us:japanese-american-incarceration"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The West Coast exclusion orders are lifted.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-01-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1946-03-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1983-11-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1988-08-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-03-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Public Law 503 makes violating an exclusion order a federal crime.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-03-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1943-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The WRA begins giving incarcerated adults the so-called loyalty questionnaire.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1943-02-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tule Lake is designated a segregation center for people the government labeled disloyal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1943-07-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1944-12-18"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/jazz/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Jazz grew out of New Orleans neighborhood life — brass bands, parades, dance halls, social clubs and street music — and Storyville was only one of many places musicians worked. Research by Tulane's Hogan Jazz Archive curator Bruce Raeburn on musicians who left the city between 1902 and 1922 found that they went for better pay, working conditions, racial equality and safety, not because the district closed; several had left years before 1917.",
@@ -2327,6 +2487,132 @@
     "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Executive Order 9066: Resulting in Japanese-American Incarceration (1942)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/executive-order-9066"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service (World War II)",
+   "dcterms:title": "Japanese American Incarceration",
+   "schema:url": {
+    "@id": "https://www.nps.gov/subjects/worldwarii/confinement.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Terminology and the Mass Incarceration of Japanese Americans during World War II",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/terminology-and-the-mass-incarceration-of-japanese-americans-during-world-war-ii.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Tule Lake National Monument",
+   "dcterms:title": "Timeline: Japanese Americans during World War II",
+   "schema:url": {
+    "@id": "https://www.nps.gov/tule/planyourvisit/timeline-japanese-americans-during-world-war-ii.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "A Brief History of Japanese American Relocation During World War II",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/historyinternment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Administrative Office of the U.S. Courts",
+   "dcterms:title": "Facts and Case Summary - Korematsu v. U.S.",
+   "schema:url": {
+    "@id": "https://www.uscourts.gov/educational-resources/educational-activities/facts-and-case-summary-korematsu-v-us"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Densho Encyclopedia (Sharon Yamato)",
+   "dcterms:title": "Civil Liberties Act of 1988",
+   "schema:url": {
+    "@id": "https://encyclopedia.densho.org/Civil%20Liberties%20Act%20of%201988/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach)",
+   "dcterms:title": "Personal Justice Denied: Report of the Commission on Wartime Relocation and Internment of Civilians, Part 2, Recommendations",
+   "schema:url": {
+    "@id": "https://docsteach.org/document/personal-justice-denied-recommendations/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Smithsonian Institution",
+   "dcterms:title": "Smithsonian Marks 75th Anniversary of Executive Order 9066",
+   "schema:url": {
+    "@id": "https://newsdesk.si.edu/releases/smithsonian-marks-75th-anniversary-executive-order-9066"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s1",
@@ -5152,6 +5438,173 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:japanese-american-incarceration",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9"
+    }
+   ],
+   "rdfs:label": "Japanese American incarceration during World War II",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1946-03-20"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1942-02-19"
+   },
+   "skos:altLabel": [
+    "Incarceration of Japanese Americans",
+    "Internment of Japanese Americans",
+    "Japanese American incarceration",
+    "Japanese American internment",
+    "Japanese American relocation",
+    "Mass removal of Japanese Americans"
+   ],
+   "skos:broader": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "skos:definition": "The forced removal of people of Japanese ancestry from the U.S. West Coast under Executive Order 9066 and their imprisonment, without charges or trial, in War Relocation Authority camps and other sites from 1942 to 1946; about two-thirds of those held were U.S. citizens.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "Japanese American incarceration during World War II",
+   "skos:related": [
+    {
+     "@id": "us:442nd-regimental-combat-team"
+    },
+    {
+     "@id": "us:attack-on-pearl-harbor"
+    },
+    {
+     "@id": "us:day-of-remembrance"
+    },
+    {
+     "@id": "us:due-process"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:ex-parte-endo"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:japanese-americans"
+   },
+   "uso:domain": "depression-and-world-war",
+   "uso:establishedBy": {
+    "@id": "us:executive-order-9066"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/depression-and-world-war/japanese-american-incarceration.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:civil-liberties-act-of-1988"
+    },
+    {
+     "@id": "us:commission-on-wartime-relocation-and-internment-of-civilians"
+    },
+    {
+     "@id": "us:korematsu-v-united-states"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:manzanar"
+    },
+    {
+     "@id": "us:tule-lake-segregation-center"
+    },
+    {
+     "@id": "us:united-states"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/timeline/9"
     }
    ]
   },

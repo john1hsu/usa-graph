@@ -5,16 +5,20 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 2.68 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 2.49 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
-| 1.96 | `us:thirteenth-amendment` | `us:voting-rights-act-of-1965` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:united-states-congress` |
+| 2.48 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
+| 1.95 | `us:thirteenth-amendment` | `us:voting-rights-act-of-1965` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:united-states-congress` |
 | 1.62 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.59 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 1.44 | `us:american-civil-war` | `us:september-11-attacks` | `us:united-states` |
+| 1.23 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
 | 1.11 | `us:brown-v-board-of-education` | `us:jazz` | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 1.08 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 1.04 | `us:brown-v-board-of-education` | `us:japanese-american-incarceration` | `us:equal-protection`, `us:fourteenth-amendment` |
+| 1.04 | `us:japanese-american-incarceration` | `us:plessy-v-ferguson` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 1.04 | `us:plessy-v-ferguson` | `us:voting-rights-act-of-1965` | `us:fourteenth-amendment`, `us:jim-crow-laws` |
 | 1.04 | `us:united-states-constitution` | `us:voting-rights-act-of-1965` | `us:fourteenth-amendment`, `us:united-states-congress` |
 | 1.03 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 0.91 | `us:american-civil-war` | `us:september-11-attacks` | `us:united-states` |
+| 0.91 | `us:japanese-american-incarceration` | `us:september-11-attacks` | `us:united-states` |
 | 0.76 | `us:plessy-v-ferguson` | `us:slavery-in-the-united-states` | `us:jazz`, `us:thirteenth-amendment` |
 | 0.72 | `us:jazz` | `us:voting-rights-act-of-1965` | `us:jim-crow-laws` |
 | 0.72 | `us:abraham-lincoln` | `us:fourteenth-amendment` | `us:american-civil-war`, `us:thirteenth-amendment` |
@@ -25,7 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 0.69 | `us:constitutional-convention` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
 | 0.69 | `us:declaration-of-independence` | `us:thirteenth-amendment` | `us:slavery-in-the-united-states`, `us:united-states-constitution` |
 | 0.68 | `us:constitutional-convention` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:slavery-in-the-united-states` |
-| 0.39 | `us:fourteenth-amendment` | `us:jazz` | `us:plessy-v-ferguson` |
-| 0.38 | `us:abraham-lincoln` | `us:plessy-v-ferguson` | `us:thirteenth-amendment` |
-| 0.36 | `us:constitutional-convention` | `us:fourteenth-amendment` | `us:united-states-constitution` |
-| 0.36 | `us:declaration-of-independence` | `us:fourteenth-amendment` | `us:united-states-constitution` |
