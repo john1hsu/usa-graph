@@ -89,6 +89,17 @@
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s4> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s5> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/voting-rights-act-of-1965.md" .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> .
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/foreign-relations-and-military/war-in-afghanistan.md" .
@@ -1393,6 +1404,173 @@
   <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <https://schema.org/url> <https://stories.state.gov/the-unifying-power-of-music> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <http://purl.org/dc/terms/title> "Voting Rights Act (1965)" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> <https://schema.org/url> <https://archives.gov/milestone-documents/voting-rights-act> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <http://purl.org/dc/terms/publisher> "National Archives, Center for Legislative Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <http://purl.org/dc/terms/title> "Voting Rights Act of 1965: Roll Call Votes" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> <https://schema.org/url> <https://www.archives.gov/legislative/features/voting-rights-1965/roll-call.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <http://purl.org/dc/terms/publisher> "U.S. Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <http://purl.org/dc/terms/title> "Senate Passes Voting Rights Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/minute/Senate_Passes_Voting_Rights_Act.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <http://purl.org/dc/terms/publisher> "Christopher Maloney, Encyclopedia of Alabama" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <http://purl.org/dc/terms/title> "Voting Rights Act of 1965 in Alabama" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> <https://schema.org/url> <https://encyclopediaofalabama.org/article/voting-rights-act-of-1965-in-alabama/> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Civil Rights Division" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <http://purl.org/dc/terms/title> "History of Federal Voting Rights Laws" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> <https://schema.org/url> <https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Civil Rights Division" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <http://purl.org/dc/terms/title> "Voting Rights Act Clarification" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> <https://schema.org/url> <https://www.justice.gov/crt/voting-rights-act-clarification> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Justia)" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <http://purl.org/dc/terms/title> "Shelby County v. Holder, 570 U.S. 529 (2013)" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> <https://schema.org/url> <https://supreme.justia.com/cases/federal/us/570/529> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States, slip opinion" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <http://purl.org/dc/terms/title> "Louisiana v. Callais, Nos. 24-109 and 24-110 (decided April 29, 2026)" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> <https://schema.org/url> <https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The bans on racial discrimination in voting in the Fifteenth Amendment and in the Act's core provisions, such as Section 2, are permanent; only the \"special provisions\" for certain jurisdictions, such as Section 5 preclearance and federal examiners and observers, were written with expiration dates and periodically renewed." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Black Americans' right to vote rests on the Voting Rights Act and will expire unless Congress renews the Act." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The rumor, which the Justice Department publicly called false, confuses temporary remedies with the underlying constitutional right, and it can distract from the real debates over how the Act's remedies should work." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress single out certain states and counties for preclearance instead of relying only on lawsuits?" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Case-by-case litigation was slow and easily evaded, so Section 4 used a formula (a voting test or device in 1964 plus registration or turnout under 50 percent) to identify places with a record of disenfranchisement, and Section 5 required them to get federal approval before changing voting rules; the Supreme Court said this shifted the \"advantage of time and inertia\" from those discriminating to their victims." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Selma campaign help produce the Act?" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Violence against peaceful marchers, especially on Bloody Sunday in March 1965, drew national outrage; Johnson sent voting rights proposals to Congress within days and later credited the events at Selma with prompting federal action, though he had already been considering reform after the 1964 election." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Shelby County v. Holder change the Act without striking down Section 5 itself?" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Court held that the Section 4(b) coverage formula relied on decades-old data, so no jurisdiction could be required to seek preclearance until Congress wrote a new formula, which it has not done." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did the 1982 amendment to Section 2 change, and why?" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Mobile v. Bolden (1980) required proof of discriminatory purpose in vote-dilution cases, Congress amended Section 2 so a violation could be shown without proving intent." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Congress extends preclearance for seven years and adds protections for language-minority citizens." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980)." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2026-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-02-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "On \"Bloody Sunday,\" law enforcement officers attack about 600 marchers leaving Selma for Montgomery." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President Johnson outlines his voting rights proposals in a televised address to a joint session of Congress." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Some 25,000 marchers led by Martin Luther King Jr. reach Montgomery under federal protection." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes S. 1564, 77 to 19, a day after invoking cloture 70 to 30 to end a filibuster." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes H.R. 6400, 333 to 85." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1966"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Congress extends Section 5 preclearance for five years." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1970"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2000/01/rdf-schema#label> "Voting Rights Act of 1965" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#altLabel> "H.R. 6400 (1965)" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#altLabel> "S. 1564 (1965)" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#altLabel> "VRA" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#altLabel> "Voting Rights Act" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#definition> "The federal statute, signed by President Lyndon B. Johnson on August 6, 1965, that enforced the Fifteenth Amendment by banning racial discrimination in voting nationwide, outlawing literacy tests, and placing jurisdictions with a record of disenfranchisement under federal registration and \"preclearance\" oversight." .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voting Rights Act of 1965" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-v-callais> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mobile-v-bolden> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/voting-rights-act-of-1965.md" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/right-to-vote> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://schema.org/startDate> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan#graph> {
   <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/publisher> "Air & Space Forces Magazine" .
@@ -2578,6 +2756,8 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/common-sense> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -2659,6 +2839,8 @@
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -2687,6 +2869,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -2744,6 +2927,7 @@
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -2760,10 +2944,15 @@
   <https://github.com/john1hsu/usa-graph/id/louis-armstrong> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-v-callais> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/mobile-v-bolden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -2821,12 +3010,17 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2849,6 +3043,7 @@
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -2887,6 +3082,7 @@
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
@@ -2952,6 +3148,7 @@
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2959,6 +3156,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -2997,6 +3195,30 @@
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .

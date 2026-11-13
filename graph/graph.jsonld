@@ -3225,6 +3225,118 @@
    "uso:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Voting Rights Act (1965)",
+   "schema:url": {
+    "@id": "https://archives.gov/milestone-documents/voting-rights-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, Center for Legislative Archives",
+   "dcterms:title": "Voting Rights Act of 1965: Roll Call Votes",
+   "schema:url": {
+    "@id": "https://www.archives.gov/legislative/features/voting-rights-1965/roll-call.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Senate Historical Office",
+   "dcterms:title": "Senate Passes Voting Rights Act",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_Voting_Rights_Act.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Christopher Maloney, Encyclopedia of Alabama",
+   "dcterms:title": "Voting Rights Act of 1965 in Alabama",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/voting-rights-act-of-1965-in-alabama/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Civil Rights Division",
+   "dcterms:title": "History of Federal Voting Rights Laws",
+   "schema:url": {
+    "@id": "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Civil Rights Division",
+   "dcterms:title": "Voting Rights Act Clarification",
+   "schema:url": {
+    "@id": "https://www.justice.gov/crt/voting-rights-act-clarification"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Justia)",
+   "dcterms:title": "Shelby County v. Holder, 570 U.S. 529 (2013)",
+   "schema:url": {
+    "@id": "https://supreme.justia.com/cases/federal/us/570/529"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, slip opinion",
+   "dcterms:title": "Louisiana v. Callais, Nos. 24-109 and 24-110 (decided April 29, 2026)",
+   "schema:url": {
+    "@id": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -3779,6 +3891,175 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1791-12-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The bans on racial discrimination in voting in the Fifteenth Amendment and in the Act's core provisions, such as Section 2, are permanent; only the \"special provisions\" for certain jurisdictions, such as Section 5 preclearance and federal examiners and observers, were written with expiration dates and periodically renewed.",
+   "uso:myth": "Black Americans' right to vote rests on the Voting Rights Act and will expire unless Congress renews the Act.",
+   "uso:why": "The rumor, which the Justice Department publicly called false, confuses temporary remedies with the underlying constitutional right, and it can distract from the real debates over how the Act's remedies should work."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress single out certain states and counties for preclearance instead of relying only on lawsuits?",
+   "uso:answer": "Case-by-case litigation was slow and easily evaded, so Section 4 used a formula (a voting test or device in 1964 plus registration or turnout under 50 percent) to identify places with a record of disenfranchisement, and Section 5 required them to get federal approval before changing voting rules; the Supreme Court said this shifted the \"advantage of time and inertia\" from those discriminating to their victims.",
+   "uso:questionFor": {
+    "@id": "us:voting-rights-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Selma campaign help produce the Act?",
+   "uso:answer": "Violence against peaceful marchers, especially on Bloody Sunday in March 1965, drew national outrage; Johnson sent voting rights proposals to Congress within days and later credited the events at Selma with prompting federal action, though he had already been considering reform after the 1964 election.",
+   "uso:questionFor": {
+    "@id": "us:voting-rights-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Shelby County v. Holder change the Act without striking down Section 5 itself?",
+   "uso:answer": "The Court held that the Section 4(b) coverage formula relied on decades-old data, so no jurisdiction could be required to seek preclearance until Congress wrote a new formula, which it has not done.",
+   "uso:questionFor": {
+    "@id": "us:voting-rights-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the 1982 amendment to Section 2 change, and why?",
+   "uso:answer": "After Mobile v. Bolden (1980) required proof of discriminatory purpose in vote-dilution cases, Congress amended Section 2 so a violation could be shown without proving intent.",
+   "uso:questionFor": {
+    "@id": "us:voting-rights-act-of-1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-02-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress extends preclearance for seven years and adds protections for language-minority citizens.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1975"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1982"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2006"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2026-04-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "On \"Bloody Sunday,\" law enforcement officers attack about 600 marchers leaving Selma for Montgomery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-03-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Johnson outlines his voting rights proposals in a televised address to a joint session of Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-03-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Some 25,000 marchers led by Martin Luther King Jr. reach Montgomery under federal protection.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-03-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes S. 1564, 77 to 19, a day after invoking cloture 70 to 30 to end a filibuster.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-05-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes H.R. 6400, 333 to 85.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-07-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1966"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress extends Section 5 preclearance for five years.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
    }
   },
   {
@@ -5911,6 +6192,159 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:voting-rights-act-of-1965",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8"
+    }
+   ],
+   "rdfs:label": "Voting Rights Act of 1965",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1965-08-06"
+   },
+   "skos:altLabel": [
+    "H.R. 6400 (1965)",
+    "S. 1564 (1965)",
+    "VRA",
+    "Voting Rights Act"
+   ],
+   "skos:broader": {
+    "@id": "us:voting-rights-in-the-united-states"
+   },
+   "skos:definition": "The federal statute, signed by President Lyndon B. Johnson on August 6, 1965, that enforced the Fifteenth Amendment by banning racial discrimination in voting nationwide, outlawing literacy tests, and placing jurisdictions with a record of disenfranchisement under federal registration and \"preclearance\" oversight.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections"
+   },
+   "skos:prefLabel": "Voting Rights Act of 1965",
+   "skos:related": [
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:louisiana-v-callais"
+    },
+    {
+     "@id": "us:mobile-v-bolden"
+    },
+    {
+     "@id": "us:shelby-county-v-holder"
+    },
+    {
+     "@id": "us:south-carolina-v-katzenbach"
+    },
+    {
+     "@id": "us:twenty-fourth-amendment"
+    }
+   ],
+   "uso:domain": "democracy-and-elections",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/democracy-and-elections/voting-rights-act-of-1965.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:selma-to-montgomery-marches"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/misconception"
+   },
+   "uso:protects": {
+    "@id": "us:right-to-vote"
+   },
+   "uso:requires": {
+    "@id": "us:fifteenth-amendment"
+   },
+   "uso:signedBy": {
+    "@id": "us:lyndon-b-johnson"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9"
     }
    ]
   },

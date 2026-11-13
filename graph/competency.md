@@ -95,6 +95,7 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 | `us:equal-protection` | `us:brown-v-board-of-education` |
 | `us:equal-protection` | `us:fourteenth-amendment` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
+| `us:right-to-vote` | `us:voting-rights-act-of-1965` |
 
 ## What documents and laws established
 

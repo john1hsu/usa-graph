@@ -140,6 +140,25 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did bebop change the role of jazz compared with the swing era?
   **A:** Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.
 
+## democracy-and-elections
+
+### [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Black Americans' right to vote rests on the Voting Rights Act and will expire unless Congress renews the Act. | The bans on racial discrimination in voting in the Fifteenth Amendment and in the Act's core provisions, such as Section 2, are permanent; only the "special provisions" for certain jurisdictions, such as Section 5 preclearance and federal examiners and observers, were written with expiration dates and periodically renewed. |
+
+**Why it matters:** The rumor, which the Justice Department publicly called false, confuses temporary remedies with the underlying constitutional right, and it can distract from the real debates over how the Act's remedies should work.
+
+- **Q:** Why did Congress single out certain states and counties for preclearance instead of relying only on lawsuits?
+  **A:** Case-by-case litigation was slow and easily evaded, so Section 4 used a formula (a voting test or device in 1964 plus registration or turnout under 50 percent) to identify places with a record of disenfranchisement, and Section 5 required them to get federal approval before changing voting rules; the Supreme Court said this shifted the "advantage of time and inertia" from those discriminating to their victims.
+- **Q:** How did the Selma campaign help produce the Act?
+  **A:** Violence against peaceful marchers, especially on Bloody Sunday in March 1965, drew national outrage; Johnson sent voting rights proposals to Congress within days and later credited the events at Selma with prompting federal action, though he had already been considering reform after the 1964 election.
+- **Q:** How did Shelby County v. Holder change the Act without striking down Section 5 itself?
+  **A:** The Court held that the Section 4(b) coverage formula relied on decades-old data, so no jurisdiction could be required to seek preclearance until Congress wrote a new formula, which it has not done.
+- **Q:** What did the 1982 amendment to Section 2 change, and why?
+  **A:** After Mobile v. Bolden (1980) required proof of discriminatory purpose in vote-dilution cases, Congress amended Section 2 so a violation could be shown without proving intent.
+
 ## foreign-relations-and-military
 
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict

@@ -2278,6 +2278,192 @@
   ]
  },
  {
+  "id": "us:voting-rights-act-of-1965",
+  "title": "Voting Rights Act of 1965",
+  "aliases": [
+   "VRA",
+   "Voting Rights Act",
+   "H.R. 6400 (1965)",
+   "S. 1564 (1965)"
+  ],
+  "type": "Law",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/democracy-and-elections/voting-rights-act-of-1965.md",
+  "created": "2026-11-13",
+  "summary": "The federal statute, signed by President Lyndon B. Johnson on August 6, 1965, that enforced the Fifteenth Amendment by banning racial discrimination in voting nationwide, outlawing literacy tests, and placing jurisdictions with a record of disenfranchisement under federal registration and \"preclearance\" oversight.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-fourth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:south-carolina-v-katzenbach"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mobile-v-bolden"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:shelby-county-v-holder"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-v-callais"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:lyndon-b-johnson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:right-to-vote",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:selma-to-montgomery-marches",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:civil-rights-movement",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1965-08-06",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Congress single out certain states and counties for preclearance instead of relying only on lawsuits?",
+    "answer": "Case-by-case litigation was slow and easily evaded, so Section 4 used a formula (a voting test or device in 1964 plus registration or turnout under 50 percent) to identify places with a record of disenfranchisement, and Section 5 required them to get federal approval before changing voting rules; the Supreme Court said this shifted the \"advantage of time and inertia\" from those discriminating to their victims."
+   },
+   {
+    "question": "How did the Selma campaign help produce the Act?",
+    "answer": "Violence against peaceful marchers, especially on Bloody Sunday in March 1965, drew national outrage; Johnson sent voting rights proposals to Congress within days and later credited the events at Selma with prompting federal action, though he had already been considering reform after the 1964 election."
+   },
+   {
+    "question": "How did Shelby County v. Holder change the Act without striking down Section 5 itself?",
+    "answer": "The Court held that the Section 4(b) coverage formula relied on decades-old data, so no jurisdiction could be required to seek preclearance until Congress wrote a new formula, which it has not done."
+   },
+   {
+    "question": "What did the 1982 amendment to Section 2 change, and why?",
+    "answer": "After Mobile v. Bolden (1980) required proof of discriminatory purpose in vote-dilution cases, Congress amended Section 2 so a violation could be shown without proving intent."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1965-02-26",
+    "event": "Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery."
+   },
+   {
+    "date": "1965-03-07",
+    "event": "On \"Bloody Sunday,\" law enforcement officers attack about 600 marchers leaving Selma for Montgomery."
+   },
+   {
+    "date": "1965-03-15",
+    "event": "President Johnson outlines his voting rights proposals in a televised address to a joint session of Congress."
+   },
+   {
+    "date": "1965-03-25",
+    "event": "Some 25,000 marchers led by Martin Luther King Jr. reach Montgomery under federal protection."
+   },
+   {
+    "date": "1965-05-26",
+    "event": "The Senate passes S. 1564, 77 to 19, a day after invoking cloture 70 to 30 to end a filibuster."
+   },
+   {
+    "date": "1965-07-09",
+    "event": "The House passes H.R. 6400, 333 to 85."
+   },
+   {
+    "date": "1965-08-06",
+    "event": "Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage."
+   },
+   {
+    "date": "1966",
+    "event": "In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality."
+   },
+   {
+    "date": "1970",
+    "event": "Congress extends Section 5 preclearance for five years."
+   },
+   {
+    "date": "1975",
+    "event": "Congress extends preclearance for seven years and adds protections for language-minority citizens."
+   },
+   {
+    "date": "1982",
+    "event": "Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980)."
+   },
+   {
+    "date": "2006",
+    "event": "Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act."
+   },
+   {
+    "date": "2013-06-25",
+    "event": "In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance."
+   },
+   {
+    "date": "2026-04-29",
+    "event": "In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination."
+   }
+  ],
+  "misconception": {
+   "myth": "Black Americans' right to vote rests on the Voting Rights Act and will expire unless Congress renews the Act.",
+   "fact": "The bans on racial discrimination in voting in the Fifteenth Amendment and in the Act's core provisions, such as Section 2, are permanent; only the \"special provisions\" for certain jurisdictions, such as Section 5 preclearance and federal examiners and observers, were written with expiration dates and periodically renewed.",
+   "why": "The rumor, which the Justice Department publicly called false, confuses temporary remedies with the underlying constitutional right, and it can distract from the real debates over how the Act's remedies should work."
+  },
+  "source_urls": [
+   "https://archives.gov/milestone-documents/voting-rights-act",
+   "https://www.archives.gov/legislative/features/voting-rights-1965/roll-call.html",
+   "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_Voting_Rights_Act.htm",
+   "https://encyclopediaofalabama.org/article/voting-rights-act-of-1965-in-alabama/",
+   "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us",
+   "https://www.justice.gov/crt/voting-rights-act-clarification",
+   "https://supreme.justia.com/cases/federal/us/570/529",
+   "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf"
+  ]
+ },
+ {
   "id": "us:war-in-afghanistan",
   "title": "War in Afghanistan (2001–2021)",
   "aliases": [
