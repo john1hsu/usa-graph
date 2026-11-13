@@ -5089,6 +5089,104 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "The Constitution of the United States: A Transcription",
+   "schema:url": {
+    "@id": "https://www.archives.gov/founding-docs/constitution-transcript"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "United States Senate, Historical Office",
+   "dcterms:title": "Senate Chronology",
+   "schema:url": {
+    "@id": "https://www.senate.gov/history/chronology.shtml"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "United States Senate, Historical Office",
+   "dcterms:title": "Treasures from the Senate Archives: Long Journey to Quorum",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/senate-stories/treasures-from-the-senate-archives-long-journey-to-quorum.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "United States Senate, Historical Office",
+   "dcterms:title": "Direct Election of Senators",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/common/briefing/Direct_Election_Senators.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Congressional Apportionment: Historical Perspective",
+   "schema:url": {
+    "@id": "https://www.census.gov/topics/public-sector/congressional-apportionment/about/historical-perspective.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "American Government 3e, Chapter 11 Summary: Congress",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/11-summary"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives, Center for Legislative Archives",
+   "dcterms:title": "Treasures of Congress: The First Congress and the Bill of Rights",
+   "schema:url": {
+    "@id": "https://www.archives.gov/exhibits/treasures_of_congress/text/page3_text.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -5762,6 +5860,175 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Constitution set only the House's first size (65 members) and a minimum of one representative per state; Congress set the number by law, enlarging the House after most censuses, fixing it at 433 plus two in 1911 and capping it at 435 from 1929, apart from a temporary 437 after Alaska and Hawaii joined.",
+   "uso:myth": "The Constitution fixes the House of Representatives at 435 members.",
+   "uso:why": "Because 435 has not changed for about a century, it is easy to mistake an ordinary statute that Congress could amend for a constitutional rule."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does Congress have two chambers with different bases of representation?",
+   "uso:answer": "The framers created a bicameral legislature in July 1787 in which House seats are apportioned among the states by population while every state has two senators, balancing the interests of populous and small states.",
+   "uso:questionFor": {
+    "@id": "us:united-states-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Seventeenth Amendment change the Senate, and why was it adopted?",
+   "uso:answer": "It replaced election of senators by state legislatures with election by the people; legislative selection had produced long deadlocks (45 in 20 states between 1891 and 1905), vacant seats and bribery cases, and many states had already moved to popular choice through primaries before the amendment was ratified in 1913.",
+   "uso:questionFor": {
+    "@id": "us:united-states-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the original Constitution's formula for apportioning House seats involve slavery?",
+   "uso:answer": "Article I counted the whole number of free persons, excluded \"Indians not taxed,\" and added three-fifths of \"all other Persons,\" meaning enslaved people, who could not vote, still added to the representation of the states that held them.",
+   "uso:questionFor": {
+    "@id": "us:united-states-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the First Congress unable to start work on March 4, 1789?",
+   "uso:answer": "Too few members had arrived in New York; only 8 of 22 senators and 13 of 59 representatives were present, so neither chamber had a quorum until April 1 (House) and April 6 (Senate).",
+   "uso:questionFor": {
+    "@id": "us:united-states-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delegates at the Constitutional Convention agree on a two-chamber legislature with equal state representation in the Senate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-07-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1911"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Seventeenth Amendment, providing for popular election of senators, is ratified.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-04-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate adopts its first cloture rule to limit filibusters.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1917"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hattie Caraway becomes the first woman elected to the Senate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-01-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Legislative Reorganization Act reforms the committee system.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1946"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House of Representatives achieves the first quorum.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate achieves its first quorum and the electoral votes for president are counted.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Representative James Madison proposes constitutional amendments on the House floor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress begins a ten-year residence in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate moves into the unfinished Capitol in Washington, D.C.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1800-11-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British troops set fire to the Capitol during the War of 1812.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-08-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hiram Revels is sworn in as the first African American senator.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1870-02-25"
    }
   },
   {
@@ -9230,6 +9497,158 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:united-states-congress",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7"
+    }
+   ],
+   "rdfs:label": "United States Congress",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1789-03-04"
+   },
+   "skos:altLabel": [
+    "Congress of the United States",
+    "Congress",
+    "U.S. Congress"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:federal-government-of-the-united-states"
+    },
+    {
+     "@id": "us:separation-of-powers"
+    }
+   ],
+   "skos:definition": "The legislative branch of the U.S. federal government, created by Article I of the Constitution: a two-chamber body made up of the House of Representatives, apportioned among the states by population, and the Senate, with two members per state, which first met in 1789.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "United States Congress",
+   "skos:related": [
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:great-compromise"
+    },
+    {
+     "@id": "us:hiram-revels"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    },
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:seventeenth-amendment"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:united-states-senate"
+    }
+   ],
+   "uso:domain": "constitution-and-government",
+   "uso:establishedBy": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/constitution-and-government/united-states-congress.md",
+   "uso:influencedBy": {
+    "@id": "us:articles-of-confederation"
+   },
+   "uso:ledTo": {
+    "@id": "us:bill-of-rights"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:washington-dc"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9"
     }
    ]
   },

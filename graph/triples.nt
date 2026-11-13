@@ -2958,6 +2958,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://schema.org/url> <https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <http://purl.org/dc/terms/publisher> "National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <http://purl.org/dc/terms/title> "The Constitution of the United States: A Transcription" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> <https://schema.org/url> <https://www.archives.gov/founding-docs/constitution-transcript> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <http://purl.org/dc/terms/publisher> "United States Senate, Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <http://purl.org/dc/terms/title> "Senate Chronology" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> <https://schema.org/url> <https://www.senate.gov/history/chronology.shtml> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <http://purl.org/dc/terms/publisher> "United States Senate, Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <http://purl.org/dc/terms/title> "Treasures from the Senate Archives: Long Journey to Quorum" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> <https://schema.org/url> <https://www.senate.gov/artandhistory/senate-stories/treasures-from-the-senate-archives-long-journey-to-quorum.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <http://purl.org/dc/terms/publisher> "United States Senate, Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <http://purl.org/dc/terms/title> "Direct Election of Senators" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/common/briefing/Direct_Election_Senators.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <http://purl.org/dc/terms/title> "Congressional Apportionment: Historical Perspective" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> <https://schema.org/url> <https://www.census.gov/topics/public-sector/congressional-apportionment/about/historical-perspective.html> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <http://purl.org/dc/terms/title> "American Government 3e, Chapter 11 Summary: Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> <https://schema.org/url> <https://openstax.org/books/american-government-3e/pages/11-summary> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <http://purl.org/dc/terms/publisher> "National Archives, Center for Legislative Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <http://purl.org/dc/terms/title> "Treasures of Congress: The First Congress and the Bill of Rights" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> <https://schema.org/url> <https://www.archives.gov/exhibits/treasures_of_congress/text/page3_text.html> .
 <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/publisher> "OpenStax, American Government 3e (Rice University)" .
 <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> <http://purl.org/dc/terms/title> "2.3 The Development of the Constitution" .
@@ -3337,6 +3379,121 @@
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/deathDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/endDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/startDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Constitution set only the House's first size (65 members) and a minimum of one representative per state; Congress set the number by law, enlarging the House after most censuses, fixing it at 433 plus two in 1911 and capping it at 435 from 1929, apart from a temporary 437 after Alaska and Hawaii joined." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution fixes the House of Representatives at 435 members." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because 435 has not changed for about a century, it is easy to mistake an ordinary statute that Congress could amend for a constitutional rule." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Congress have two chambers with different bases of representation?" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The framers created a bicameral legislature in July 1787 in which House seats are apportioned among the states by population while every state has two senators, balancing the interests of populous and small states." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Seventeenth Amendment change the Senate, and why was it adopted?" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It replaced election of senators by state legislatures with election by the people; legislative selection had produced long deadlocks (45 in 20 states between 1891 and 1905), vacant seats and bribery cases, and many states had already moved to popular choice through primaries before the amendment was ratified in 1913." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the original Constitution's formula for apportioning House seats involve slavery?" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Article I counted the whole number of free persons, excluded \"Indians not taxed,\" and added three-fifths of \"all other Persons,\" meaning enslaved people, who could not vote, still added to the representation of the states that held them." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the First Congress unable to start work on March 4, 1789?" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Too few members had arrived in New York; only 8 of 22 senators and 13 of 59 representatives were present, so neither chamber had a quorum until April 1 (House) and April 6 (Senate)." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1911"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Seventeenth Amendment, providing for popular election of senators, is ratified." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate adopts its first cloture rule to limit filibusters." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1917"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Hattie Caraway becomes the first woman elected to the Senate." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The Legislative Reorganization Act reforms the committee system." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates at the Constitutional Convention agree on a two-chamber legislature with equal state representation in the Senate." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The House of Representatives achieves the first quorum." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate achieves its first quorum and the electoral votes for president are counted." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Representative James Madison proposes constitutional amendments on the House floor." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Congress begins a ten-year residence in Philadelphia." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate moves into the unfinished Capitol in Washington, D.C." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1800-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "British troops set fire to the Capitol during the War of 1812." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Hiram Revels is sworn in as the first African American senator." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1870-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2000/01/rdf-schema#label> "United States Congress" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#altLabel> "Congress of the United States" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#altLabel> "Congress" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Congress" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#definition> "The legislative branch of the U.S. federal government, created by Article I of the Constitution: a two-chamber body made up of the House of Representatives, apportioned among the states by population, and the Senate, with two members per state, which first met in 1789." .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States Congress" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-compromise> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hiram-revels> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/seventeenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-senate> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s2> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s3> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s4> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s5> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s6> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s7> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/united-states-congress.md" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/washington-dc> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-congress/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://schema.org/startDate> "1789-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "That phrase comes from the Declaration of Independence. The original Constitution contained no such promise and instead counted three-fifths of enslaved people for apportionment; an equality guarantee entered the text only with the Fourteenth Amendment after the Civil War." .
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution declares that \"all men are created equal.\"" .

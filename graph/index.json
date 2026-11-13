@@ -3499,6 +3499,192 @@
   ]
  },
  {
+  "id": "us:united-states-congress",
+  "title": "United States Congress",
+  "aliases": [
+   "Congress of the United States",
+   "U.S. Congress",
+   "Congress"
+  ],
+  "type": "Institution",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/constitution-and-government/united-states-congress.md",
+  "created": "2026-11-13",
+  "summary": "The legislative branch of the U.S. federal government, created by Article I of the Constitution: a two-chamber body made up of the House of Representatives, apportioned among the states by population, and the Senate, with two members per state, which first met in 1789.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-government-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-of-representatives"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-senate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-compromise"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:seventeenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hiram-revels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:articles-of-confederation",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:bill-of-rights",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:washington-dc",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1789-03-04",
+  "end": null,
+  "review": [
+   {
+    "question": "Why does Congress have two chambers with different bases of representation?",
+    "answer": "The framers created a bicameral legislature in July 1787 in which House seats are apportioned among the states by population while every state has two senators, balancing the interests of populous and small states."
+   },
+   {
+    "question": "How did the Seventeenth Amendment change the Senate, and why was it adopted?",
+    "answer": "It replaced election of senators by state legislatures with election by the people; legislative selection had produced long deadlocks (45 in 20 states between 1891 and 1905), vacant seats and bribery cases, and many states had already moved to popular choice through primaries before the amendment was ratified in 1913."
+   },
+   {
+    "question": "How did the original Constitution's formula for apportioning House seats involve slavery?",
+    "answer": "Article I counted the whole number of free persons, excluded \"Indians not taxed,\" and added three-fifths of \"all other Persons,\" meaning enslaved people, who could not vote, still added to the representation of the states that held them."
+   },
+   {
+    "question": "Why was the First Congress unable to start work on March 4, 1789?",
+    "answer": "Too few members had arrived in New York; only 8 of 22 senators and 13 of 59 representatives were present, so neither chamber had a quorum until April 1 (House) and April 6 (Senate)."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-07-16",
+    "event": "Delegates at the Constitutional Convention agree on a two-chamber legislature with equal state representation in the Senate."
+   },
+   {
+    "date": "1789-03-04",
+    "event": "The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum."
+   },
+   {
+    "date": "1789-04-01",
+    "event": "The House of Representatives achieves the first quorum."
+   },
+   {
+    "date": "1789-04-06",
+    "event": "The Senate achieves its first quorum and the electoral votes for president are counted."
+   },
+   {
+    "date": "1789-06-08",
+    "event": "Representative James Madison proposes constitutional amendments on the House floor."
+   },
+   {
+    "date": "1790-12-06",
+    "event": "Congress begins a ten-year residence in Philadelphia."
+   },
+   {
+    "date": "1800-11-17",
+    "event": "The Senate moves into the unfinished Capitol in Washington, D.C."
+   },
+   {
+    "date": "1814-08-24",
+    "event": "British troops set fire to the Capitol during the War of 1812."
+   },
+   {
+    "date": "1870-02-25",
+    "event": "Hiram Revels is sworn in as the first African American senator."
+   },
+   {
+    "date": "1911",
+    "event": "A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood."
+   },
+   {
+    "date": "1913-04-08",
+    "event": "The Seventeenth Amendment, providing for popular election of senators, is ratified."
+   },
+   {
+    "date": "1917",
+    "event": "The Senate adopts its first cloture rule to limit filibusters."
+   },
+   {
+    "date": "1932-01-12",
+    "event": "Hattie Caraway becomes the first woman elected to the Senate."
+   },
+   {
+    "date": "1946",
+    "event": "The Legislative Reorganization Act reforms the committee system."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution fixes the House of Representatives at 435 members.",
+   "fact": "The Constitution set only the House's first size (65 members) and a minimum of one representative per state; Congress set the number by law, enlarging the House after most censuses, fixing it at 433 plus two in 1911 and capping it at 435 from 1929, apart from a temporary 437 after Alaska and Hawaii joined.",
+   "why": "Because 435 has not changed for about a century, it is easy to mistake an ordinary statute that Congress could amend for a constitutional rule."
+  },
+  "source_urls": [
+   "https://www.archives.gov/founding-docs/constitution-transcript",
+   "https://www.senate.gov/history/chronology.shtml",
+   "https://www.senate.gov/artandhistory/senate-stories/treasures-from-the-senate-archives-long-journey-to-quorum.htm",
+   "https://www.senate.gov/artandhistory/history/common/briefing/Direct_Election_Senators.htm",
+   "https://www.census.gov/topics/public-sector/congressional-apportionment/about/historical-perspective.html",
+   "https://openstax.org/books/american-government-3e/pages/11-summary",
+   "https://www.archives.gov/exhibits/treasures_of_congress/text/page3_text.html"
+  ]
+ },
+ {
   "id": "us:united-states-constitution",
   "title": "United States Constitution",
   "aliases": [

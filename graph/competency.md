@@ -29,10 +29,10 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
+| `us:united-states-constitution` | 4 | Slavery in the United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
-| `us:united-states-constitution` | 3 | Slavery in the United States, bill-of-rights, federalist-papers |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
@@ -48,6 +48,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:plessy-v-ferguson` | 1 | Jim Crow laws |
 | `us:separate-car-act` | 1 | Jim Crow laws |
 | `us:siege-of-vicksburg` | 1 | siege-of-port-hudson |
+| `us:united-states-congress` | 1 | bill-of-rights |
 
 ## Happenings by era
 
@@ -131,4 +132,5 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:fourteenth-amendment` | `us:equal-protection` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
+| `us:united-states-constitution` | `us:united-states-congress` |
 

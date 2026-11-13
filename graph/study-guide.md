@@ -106,6 +106,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+### [United States Congress](../articles/constitution-and-government/united-states-congress.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Constitution fixes the House of Representatives at 435 members. | The Constitution set only the House's first size (65 members) and a minimum of one representative per state; Congress set the number by law, enlarging the House after most censuses, fixing it at 433 plus two in 1911 and capping it at 435 from 1929, apart from a temporary 437 after Alaska and Hawaii joined. |
+
+**Why it matters:** Because 435 has not changed for about a century, it is easy to mistake an ordinary statute that Congress could amend for a constitutional rule.
+
+- **Q:** Why does Congress have two chambers with different bases of representation?
+  **A:** The framers created a bicameral legislature in July 1787 in which House seats are apportioned among the states by population while every state has two senators, balancing the interests of populous and small states.
+- **Q:** How did the Seventeenth Amendment change the Senate, and why was it adopted?
+  **A:** It replaced election of senators by state legislatures with election by the people; legislative selection had produced long deadlocks (45 in 20 states between 1891 and 1905), vacant seats and bribery cases, and many states had already moved to popular choice through primaries before the amendment was ratified in 1913.
+- **Q:** How did the original Constitution's formula for apportioning House seats involve slavery?
+  **A:** Article I counted the whole number of free persons, excluded "Indians not taxed," and added three-fifths of "all other Persons," meaning enslaved people, who could not vote, still added to the representation of the states that held them.
+- **Q:** Why was the First Congress unable to start work on March 4, 1789?
+  **A:** Too few members had arrived in New York; only 8 of 22 senators and 13 of 59 representatives were present, so neither chamber had a quorum until April 1 (House) and April 6 (Senate).
+
 ### [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) — Document
 
 | Myth | Fact |

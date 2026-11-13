@@ -5,40 +5,45 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
 | `us:emancipation-proclamation` | 5.79 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| `us:united-states-congress` | 5.79 | Institution | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment`, `us:united-states-constitution`, `us:voting-rights-act-of-1965` |
-| `us:reconstruction-era` | 5.27 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws` |
-| `us:civil-rights-movement` | 4.71 | - | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
-| `us:articles-of-confederation` | 4.69 | - | `us:constitutional-convention`, `us:declaration-of-independence`, `us:united-states-constitution` |
-| `us:united-states` | 4.19 | Place | `us:american-civil-war`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:september-11-attacks` |
+| `us:articles-of-confederation` | 5.75 | - | `us:constitutional-convention`, `us:declaration-of-independence`, `us:united-states-congress`, `us:united-states-constitution` |
+| `us:reconstruction-era` | 5.26 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws` |
+| `us:presidency-of-the-united-states` | 4.71 | Office | `us:abraham-lincoln`, `us:thomas-jefferson`, `us:united-states-congress`, `us:united-states-constitution` |
+| `us:civil-rights-movement` | 4.70 | - | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
+| `us:three-fifths-clause` | 4.22 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
+| `us:united-states` | 4.18 | Place | `us:american-civil-war`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:september-11-attacks` |
 | `us:due-process` | 3.67 | Right | `us:equal-protection`, `us:fourteenth-amendment`, `us:japanese-american-incarceration` |
 | `us:african-americans` | 3.65 | - | `us:equal-protection`, `us:jazz`, `us:jim-crow-laws` |
-| `us:presidency-of-the-united-states` | 3.65 | Office | `us:abraham-lincoln`, `us:thomas-jefferson`, `us:united-states-constitution` |
 | `us:new-orleans` | 3.63 | Place | `us:jazz`, `us:louisiana-purchase`, `us:mississippi-river` |
-| `us:black-codes` | 3.20 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
-| `us:reconstruction-amendments` | 3.19 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:three-fifths-clause` | 3.17 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-constitution` |
-| `us:ratification-of-the-constitution` | 3.14 | - | `us:constitutional-convention`, `us:united-states-constitution` |
-| `us:abolitionism` | 2.63 | - | `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| `us:gettysburg-address` | 2.61 | - | `us:abraham-lincoln`, `us:american-civil-war` |
+| `us:black-codes` | 3.19 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
+| `us:reconstruction-amendments` | 3.18 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
+| `us:ratification-of-the-constitution` | 3.15 | - | `us:constitutional-convention`, `us:united-states-constitution` |
+| `us:abolitionism` | 2.62 | - | `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| `us:bill-of-rights` | 2.61 | - | `us:united-states-congress`, `us:united-states-constitution` |
+| `us:separation-of-powers` | 2.61 | - | `us:united-states-congress`, `us:united-states-constitution` |
+| `us:supreme-court-of-the-united-states` | 2.61 | - | `us:united-states-congress`, `us:united-states-constitution` |
+| `us:gettysburg-address` | 2.60 | - | `us:abraham-lincoln`, `us:american-civil-war` |
+| `us:house-of-representatives` | 2.60 | - | `us:abraham-lincoln`, `us:united-states-congress` |
 | `us:battle-of-gettysburg` | 2.60 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
-| `us:voting-rights-in-the-united-states` | 2.60 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
+| `us:voting-rights-in-the-united-states` | 2.59 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
 | `us:independence-day` | 2.59 | - | `us:declaration-of-independence`, `us:siege-of-vicksburg` |
 | `us:american-revolutionary-war` | 2.59 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
 | `us:world-war-ii-and-the-united-states` | 2.59 | - | `us:japanese-american-incarceration` |
 | `us:louisiana` | 2.59 | - | `us:louisiana-purchase`, `us:mississippi-river` |
 | `us:lewis-and-clark-expedition` | 2.59 | - | `us:louisiana-purchase`, `us:thomas-jefferson` |
 | `us:iraq-war` | 2.58 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
-| `us:african-american-history` | 2.13 | - | `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
+| `us:african-american-history` | 2.12 | - | `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
 | `us:civil-rights-cases` | 2.12 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:racial-segregation-in-the-united-states` | 2.12 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:separate-car-act` | 2.12 | Document | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:guinn-v-united-states` | 2.11 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
 | `us:massive-resistance` | 2.11 | - | `us:brown-v-board-of-education` |
-| `us:act-prohibiting-importation-of-slaves` | 2.11 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
 | `us:founding-documents-of-the-united-states` | 2.11 | - | `us:declaration-of-independence`, `us:united-states-constitution` |
+| `us:act-prohibiting-importation-of-slaves` | 2.11 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
+| `us:hiram-revels` | 2.10 | - | `us:fifteenth-amendment`, `us:united-states-congress` |
 | `us:lost-cause` | 2.10 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
 | `us:united-states-colored-troops` | 2.10 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
-| `us:right-to-vote` | 2.10 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
+| `us:great-compromise` | 2.10 | - | `us:constitutional-convention`, `us:united-states-congress` |
+| `us:right-to-vote` | 2.09 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
 | `us:presidents-of-the-united-states` | 2.09 | - | `us:abraham-lincoln`, `us:thomas-jefferson` |
 | `us:second-continental-congress` | 2.09 | - | `us:declaration-of-independence`, `us:thomas-jefferson` |
 | `us:native-americans` | 2.09 | - | `us:louisiana-purchase`, `us:mississippi-river` |
@@ -52,30 +57,28 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:fugitive-slave-act-of-1850` | 1.56 | - | `us:slavery-in-the-united-states` |
 | `us:juneteenth` | 1.56 | - | `us:slavery-in-the-united-states` |
 | `us:underground-railroad` | 1.56 | - | `us:slavery-in-the-united-states` |
-| `us:civil-rights-act-of-1964` | 1.56 | - | `us:jim-crow-laws` |
-| `us:bill-of-rights` | 1.56 | - | `us:united-states-constitution` |
 | `us:federalism` | 1.56 | - | `us:united-states-constitution` |
 | `us:federalist-papers` | 1.56 | - | `us:united-states-constitution` |
-| `us:separation-of-powers` | 1.56 | - | `us:united-states-constitution` |
-| `us:supreme-court-of-the-united-states` | 1.56 | - | `us:united-states-constitution` |
+| `us:civil-rights-act-of-1964` | 1.56 | - | `us:jim-crow-laws` |
+| `us:census-and-apportionment` | 1.55 | - | `us:united-states-congress` |
+| `us:united-states-senate` | 1.55 | - | `us:united-states-congress` |
 | `us:nineteenth-amendment` | 1.55 | - | `us:fifteenth-amendment` |
 | `us:womens-suffrage-movement` | 1.55 | - | `us:fifteenth-amendment` |
-| `us:house-of-representatives` | 1.55 | - | `us:abraham-lincoln` |
 | `us:mexican-american-war` | 1.55 | - | `us:abraham-lincoln` |
 | `us:frederick-douglass` | 1.55 | - | `us:declaration-of-independence` |
 | `us:thirteen-colonies` | 1.55 | - | `us:declaration-of-independence` |
-| `us:attack-on-pearl-harbor` | 1.55 | - | `us:japanese-american-incarceration` |
-| `us:franklin-d-roosevelt` | 1.55 | - | `us:japanese-american-incarceration` |
+| `us:attack-on-pearl-harbor` | 1.54 | - | `us:japanese-american-incarceration` |
+| `us:franklin-d-roosevelt` | 1.54 | - | `us:japanese-american-incarceration` |
+| `us:benjamin-franklin` | 1.54 | - | `us:constitutional-convention` |
+| `us:george-washington` | 1.54 | Person | `us:constitutional-convention` |
+| `us:independence-hall` | 1.54 | Place | `us:constitutional-convention` |
+| `us:james-madison` | 1.54 | - | `us:constitutional-convention` |
 | `us:indian-removal-act` | 1.54 | - | `us:louisiana-purchase` |
 | `us:missouri-compromise` | 1.54 | - | `us:louisiana-purchase` |
 | `us:tribal-sovereignty` | 1.54 | - | `us:louisiana-purchase` |
 | `us:cahokia` | 1.54 | - | `us:mississippi-river` |
 | `us:physical-geography-of-the-united-states` | 1.54 | - | `us:mississippi-river` |
 | `us:lyndon-b-johnson` | 1.54 | Person | `us:voting-rights-act-of-1965` |
-| `us:benjamin-franklin` | 1.54 | - | `us:constitutional-convention` |
-| `us:george-washington` | 1.54 | Person | `us:constitutional-convention` |
-| `us:independence-hall` | 1.54 | Place | `us:constitutional-convention` |
-| `us:james-madison` | 1.54 | - | `us:constitutional-convention` |
 | `us:department-of-homeland-security` | 1.54 | - | `us:september-11-attacks` |
 | `us:nato` | 1.54 | - | `us:war-in-afghanistan` |
 | `us:blues` | 1.54 | - | `us:jazz` |
@@ -107,23 +110,25 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:henry-billings-brown` | 1.06 | Person | `us:plessy-v-ferguson` |
 | `us:homer-plessy` | 1.06 | - | `us:plessy-v-ferguson` |
 | `us:john-marshall-harlan` | 1.06 | - | `us:plessy-v-ferguson` |
-| `us:battle-of-antietam` | 1.06 | - | `us:american-civil-war` |
-| `us:battle-of-fort-sumter` | 1.06 | - | `us:american-civil-war` |
-| `us:confederate-states-of-america` | 1.06 | - | `us:american-civil-war` |
-| `us:secession-crisis` | 1.06 | - | `us:american-civil-war` |
-| `us:stand-watie` | 1.06 | - | `us:american-civil-war` |
-| `us:surrender-at-appomattox` | 1.06 | - | `us:american-civil-war` |
-| `us:wars-of-the-united-states` | 1.06 | - | `us:american-civil-war` |
-| `us:bolling-v-sharpe` | 1.06 | - | `us:brown-v-board-of-education` |
-| `us:earl-warren` | 1.06 | Person | `us:brown-v-board-of-education` |
-| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.06 | - | `us:brown-v-board-of-education` |
-| `us:naacp-legal-defense-and-educational-fund` | 1.06 | - | `us:brown-v-board-of-education` |
-| `us:school-desegregation-in-the-united-states` | 1.06 | - | `us:brown-v-board-of-education` |
-| `us:southern-manifesto` | 1.06 | - | `us:brown-v-board-of-education` |
-| `us:thurgood-marshall` | 1.06 | - | `us:brown-v-board-of-education` |
+| `us:battle-of-antietam` | 1.05 | - | `us:american-civil-war` |
+| `us:battle-of-fort-sumter` | 1.05 | - | `us:american-civil-war` |
+| `us:confederate-states-of-america` | 1.05 | - | `us:american-civil-war` |
+| `us:secession-crisis` | 1.05 | - | `us:american-civil-war` |
+| `us:stand-watie` | 1.05 | - | `us:american-civil-war` |
+| `us:surrender-at-appomattox` | 1.05 | - | `us:american-civil-war` |
+| `us:wars-of-the-united-states` | 1.05 | - | `us:american-civil-war` |
+| `us:bolling-v-sharpe` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:earl-warren` | 1.05 | Person | `us:brown-v-board-of-education` |
+| `us:griffin-v-county-school-board-of-prince-edward-county` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:naacp-legal-defense-and-educational-fund` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:school-desegregation-in-the-united-states` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:southern-manifesto` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:thurgood-marshall` | 1.05 | - | `us:brown-v-board-of-education` |
+| `us:federal-government-of-the-united-states` | 1.05 | - | `us:united-states-congress` |
+| `us:seventeenth-amendment` | 1.05 | - | `us:united-states-congress` |
+| `us:washington-dc` | 1.05 | Place | `us:united-states-congress` |
 | `us:american-equal-rights-association` | 1.05 | - | `us:fifteenth-amendment` |
 | `us:enforcement-acts` | 1.05 | - | `us:fifteenth-amendment` |
-| `us:hiram-revels` | 1.05 | - | `us:fifteenth-amendment` |
 | `us:united-states-v-cruikshank` | 1.05 | - | `us:fifteenth-amendment` |
 | `us:united-states-v-reese` | 1.05 | - | `us:fifteenth-amendment` |
 | `us:assassination-of-abraham-lincoln` | 1.05 | - | `us:abraham-lincoln` |
@@ -136,21 +141,23 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:john-hancock` | 1.05 | Person | `us:declaration-of-independence` |
 | `us:lee-resolution` | 1.05 | - | `us:declaration-of-independence` |
 | `us:treaty-of-alliance-1778` | 1.05 | - | `us:declaration-of-independence` |
-| `us:442nd-regimental-combat-team` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:civil-liberties-act-of-1988` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:commission-on-wartime-relocation-and-internment-of-civilians` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:day-of-remembrance` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:ex-parte-endo` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:executive-order-9066` | 1.05 | Document | `us:japanese-american-incarceration` |
-| `us:japanese-americans` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:korematsu-v-united-states` | 1.05 | - | `us:japanese-american-incarceration` |
-| `us:manzanar` | 1.05 | Place | `us:japanese-american-incarceration` |
-| `us:tule-lake-segregation-center` | 1.05 | Place | `us:japanese-american-incarceration` |
-| `us:battle-of-millikens-bend` | 1.05 | - | `us:siege-of-vicksburg` |
-| `us:john-c-pemberton` | 1.05 | Person | `us:siege-of-vicksburg` |
-| `us:siege-of-port-hudson` | 1.05 | - | `us:siege-of-vicksburg` |
-| `us:ulysses-s-grant` | 1.05 | Person | `us:siege-of-vicksburg` |
-| `us:vicksburg-mississippi` | 1.05 | Place | `us:siege-of-vicksburg` |
+| `us:442nd-regimental-combat-team` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:civil-liberties-act-of-1988` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:commission-on-wartime-relocation-and-internment-of-civilians` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:day-of-remembrance` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:ex-parte-endo` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:executive-order-9066` | 1.04 | Document | `us:japanese-american-incarceration` |
+| `us:japanese-americans` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:korematsu-v-united-states` | 1.04 | - | `us:japanese-american-incarceration` |
+| `us:manzanar` | 1.04 | Place | `us:japanese-american-incarceration` |
+| `us:tule-lake-segregation-center` | 1.04 | Place | `us:japanese-american-incarceration` |
+| `us:confederation-period` | 1.04 | - | `us:constitutional-convention` |
+| `us:virginia-plan` | 1.04 | - | `us:constitutional-convention` |
+| `us:battle-of-millikens-bend` | 1.04 | - | `us:siege-of-vicksburg` |
+| `us:john-c-pemberton` | 1.04 | Person | `us:siege-of-vicksburg` |
+| `us:siege-of-port-hudson` | 1.04 | - | `us:siege-of-vicksburg` |
+| `us:ulysses-s-grant` | 1.04 | Person | `us:siege-of-vicksburg` |
+| `us:vicksburg-mississippi` | 1.04 | Place | `us:siege-of-vicksburg` |
 | `us:adams-onis-treaty` | 1.04 | - | `us:louisiana-purchase` |
 | `us:early-republic` | 1.04 | Era | `us:louisiana-purchase` |
 | `us:german-coast-uprising` | 1.04 | - | `us:louisiana-purchase` |
@@ -175,9 +182,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:university-of-virginia` | 1.04 | - | `us:thomas-jefferson` |
 | `us:vice-presidency-of-the-united-states` | 1.04 | Office | `us:thomas-jefferson` |
 | `us:virginia-statute-for-religious-freedom` | 1.04 | - | `us:thomas-jefferson` |
-| `us:confederation-period` | 1.04 | - | `us:constitutional-convention` |
-| `us:great-compromise` | 1.04 | - | `us:constitutional-convention` |
-| `us:virginia-plan` | 1.04 | - | `us:constitutional-convention` |
 | `us:flight-93-national-memorial` | 1.04 | - | `us:september-11-attacks` |
 | `us:national-commission-on-terrorist-attacks-upon-the-united-states` | 1.04 | - | `us:september-11-attacks` |
 | `us:national-september-11-memorial-and-museum` | 1.04 | - | `us:september-11-attacks` |
