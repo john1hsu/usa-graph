@@ -1583,6 +1583,119 @@
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://schema.org/startDate> "2001-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Lincoln's line that the Father of Waters again flowed \"unvexed to the sea\" was his spontaneous reaction to the news from Vicksburg." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Detaching the line from the letter loses Lincoln's purpose, which was to defend emancipation and Black enlistment to Northern critics by pointing to victories like Vicksburg." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did both sides consider Vicksburg so important?" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Confederate guns on its bluffs blocked Union traffic on the Mississippi, on which Midwestern farmers depended, and the city linked the eastern Confederacy to the supplies and men of Louisiana, Arkansas and Texas; taking it would reopen the river and split the South." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Grant finally get his army into position to besiege Vicksburg after months of failure?" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He crossed the river south of the city on April 30–May 1, 1863, won a string of battles inland through May 17 that drove Pemberton back into the city, and after two failed assaults on May 19 and 22 settled into a siege." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Pemberton surrender on July 4 rather than fight his way out?" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "After about six weeks of siege, hunger and disease had worn down his garrison; his commanders judged a breakout impossible, and Grant's offer to parole the men rather than imprison them was the best term available." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the fall of Vicksburg lead to Union control of the entire Mississippi?" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The garrison at Port Hudson, Louisiana, the last Confederate stronghold on the river, surrendered on July 9, 1863, after learning Vicksburg had fallen, opening the river from its source to New Orleans." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Port Hudson, Louisiana, surrenders after learning of Vicksburg's fall, opening the whole Mississippi to Union navigation." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1877"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The Mississippi African-American Monument is dedicated in Vicksburg National Military Park." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2004-02-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1862"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Union victory at Port Gibson opens an inland campaign that wins at Raymond, Jackson, Champion Hill and the Big Black River by May 17." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Grant's Army of the Tennessee reaches the Confederate defenses of Vicksburg." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Sherman's corps assaults the Stockade Redan and is repulsed with about 1,000 Union casualties." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A second general assault on a three-mile front fails, and Grant settles into a siege." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2000/01/rdf-schema#label> "Siege of Vicksburg" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#altLabel> "Fall of Vicksburg" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#altLabel> "Vicksburg siege" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#definition> "The 47-day Union siege of the Confederate river fortress at Vicksburg, Mississippi, from May 18 to July 4, 1863, in which Ulysses S. Grant's army forced John C. Pemberton's garrison to surrender, giving the Union control of the Mississippi River and splitting the Confederacy." .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#prefLabel> "Siege of Vicksburg" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/independence-day> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lost-cause> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/siege-of-vicksburg.md" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/siege-of-port-hudson> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://schema.org/endDate> "1863-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://schema.org/startDate> "1863-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865." .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Slavery was a purely Southern institution that the North never practised." .
@@ -2434,6 +2547,54 @@
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://schema.org/url> <https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Vicksburg National Military Park" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/title> "Surrender (July 4)" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <https://schema.org/url> <https://www.nps.gov/vick/learn/historyculture/vicksurrender.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <http://purl.org/dc/terms/publisher> "Mississippi History Now, Mississippi Department of Archives and History, by Michael B. Ballard" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <http://purl.org/dc/terms/title> "Vicksburg During the Civil War (1862-1863): A Campaign; A Siege" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2> <https://schema.org/url> <https://mshistory.mdah.ms.gov/issue/vicksburg-during-the-civil-war-1862-1863> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Vicksburg National Military Park" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <http://purl.org/dc/terms/title> "African Americans and the Vicksburg Campaign" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3> <https://schema.org/url> <https://www.nps.gov/vick/learn/historyculture/african-americans-and-the-campaign.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <http://purl.org/dc/terms/publisher> "National Park Service, The Civil War" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <http://purl.org/dc/terms/title> "Port Hudson (Battle Summary)" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4> <https://schema.org/url> <https://www.nps.gov/civilwar/search-battles-detail.htm?battleCode=LA010> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of American History" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <http://purl.org/dc/terms/title> "Abraham Lincoln to James C. Conkling, August 26, 1863 (transcript)" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5> <https://schema.org/url> <https://amhistory.si.edu/documentsgallery/exhibitions/document_transcripts/transcript_lincolntoconkling1.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <http://purl.org/dc/terms/publisher> "American Battlefield Trust" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <http://purl.org/dc/terms/title> "Vicksburg" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6> <https://schema.org/url> <https://www.battlefields.org/learn/articles/vicksburg> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <http://purl.org/dc/terms/publisher> "Civil War Memory, by historian Kevin M. Levin" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <http://purl.org/dc/terms/title> "July 4 and Vicksburg, or Who is a Southerner?" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7> <https://schema.org/url> <https://cwmemory.com/2008/02/20/july-4-and-vicksburg-or-who-is-a-southerner/> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <http://purl.org/dc/terms/publisher> "The Reconstruction Era, by Patrick Young" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <http://purl.org/dc/terms/title> "When Southern Whites Boycotted and Blacks Embraced the Fourth of July During Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8> <https://schema.org/url> <https://thereconstructionera.com/when-southern-whites-boycotted-and-blacks-embraced-the-fourth-of-july/> .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/publisher> "In Pursuit of Freedom (Brooklyn Historical Society, Weeksville Heritage Center and Irondale Ensemble Project)" .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s10> <http://purl.org/dc/terms/title> "Gradual Emancipation" .

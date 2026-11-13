@@ -2610,6 +2610,184 @@
   ]
  },
  {
+  "id": "us:siege-of-vicksburg",
+  "title": "Siege of Vicksburg",
+  "aliases": [
+   "Vicksburg siege",
+   "Fall of Vicksburg"
+  ],
+  "type": "Conflict",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/civil-war-and-reconstruction/siege-of-vicksburg.md",
+  "created": "2026-11-13",
+  "summary": "The 47-day Union siege of the Confederate river fortress at Vicksburg, Mississippi, from May 18 to July 4, 1863, in which Ulysses S. Grant's army forced John C. Pemberton's garrison to surrender, giving the Union control of the Mississippi River and splitting the Confederacy.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-gettysburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-millikens-bend"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lost-cause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:independence-day"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:american-civil-war",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:mississippi-river",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:vicksburg-mississippi",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:ulysses-s-grant",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:john-c-pemberton",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:siege-of-port-hudson",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "1863-05-18",
+  "end": "1863-07-04",
+  "review": [
+   {
+    "question": "Why did both sides consider Vicksburg so important?",
+    "answer": "Confederate guns on its bluffs blocked Union traffic on the Mississippi, on which Midwestern farmers depended, and the city linked the eastern Confederacy to the supplies and men of Louisiana, Arkansas and Texas; taking it would reopen the river and split the South."
+   },
+   {
+    "question": "How did Grant finally get his army into position to besiege Vicksburg after months of failure?",
+    "answer": "He crossed the river south of the city on April 30–May 1, 1863, won a string of battles inland through May 17 that drove Pemberton back into the city, and after two failed assaults on May 19 and 22 settled into a siege."
+   },
+   {
+    "question": "Why did Pemberton surrender on July 4 rather than fight his way out?",
+    "answer": "After about six weeks of siege, hunger and disease had worn down his garrison; his commanders judged a breakout impossible, and Grant's offer to parole the men rather than imprison them was the best term available."
+   },
+   {
+    "question": "How did the fall of Vicksburg lead to Union control of the entire Mississippi?",
+    "answer": "The garrison at Port Hudson, Louisiana, the last Confederate stronghold on the river, surrendered on July 9, 1863, after learning Vicksburg had fallen, opening the river from its source to New Orleans."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1862",
+    "event": "Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall."
+   },
+   {
+    "date": "1863-04-30",
+    "event": "Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1."
+   },
+   {
+    "date": "1863-05-01",
+    "event": "Union victory at Port Gibson opens an inland campaign that wins at Raymond, Jackson, Champion Hill and the Big Black River by May 17."
+   },
+   {
+    "date": "1863-05-18",
+    "event": "Grant's Army of the Tennessee reaches the Confederate defenses of Vicksburg."
+   },
+   {
+    "date": "1863-05-19",
+    "event": "Sherman's corps assaults the Stockade Redan and is repulsed with about 1,000 Union casualties."
+   },
+   {
+    "date": "1863-05-22",
+    "event": "A second general assault on a three-mile front fails, and Grant settles into a siege."
+   },
+   {
+    "date": "1863-06-07",
+    "event": "Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana."
+   },
+   {
+    "date": "1863-06-25",
+    "event": "Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground."
+   },
+   {
+    "date": "1863-07-03",
+    "event": "Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison."
+   },
+   {
+    "date": "1863-07-04",
+    "event": "At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city."
+   },
+   {
+    "date": "1863-07-09",
+    "event": "Port Hudson, Louisiana, surrenders after learning of Vicksburg's fall, opening the whole Mississippi to Union navigation."
+   },
+   {
+    "date": "1863-08-26",
+    "event": "Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers."
+   },
+   {
+    "date": "1877",
+    "event": "The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg."
+   },
+   {
+    "date": "2004-02-14",
+    "event": "The Mississippi African-American Monument is dedicated in Vicksburg National Military Park."
+   }
+  ],
+  "misconception": {
+   "myth": "Lincoln's line that the Father of Waters again flowed \"unvexed to the sea\" was his spontaneous reaction to the news from Vicksburg.",
+   "fact": "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops.",
+   "why": "Detaching the line from the letter loses Lincoln's purpose, which was to defend emancipation and Black enlistment to Northern critics by pointing to victories like Vicksburg."
+  },
+  "source_urls": [
+   "https://www.nps.gov/vick/learn/historyculture/vicksurrender.htm",
+   "https://mshistory.mdah.ms.gov/issue/vicksburg-during-the-civil-war-1862-1863",
+   "https://www.nps.gov/vick/learn/historyculture/african-americans-and-the-campaign.htm",
+   "https://www.nps.gov/civilwar/search-battles-detail.htm?battleCode=LA010",
+   "https://amhistory.si.edu/documentsgallery/exhibitions/document_transcripts/transcript_lincolntoconkling1.pdf",
+   "https://www.battlefields.org/learn/articles/vicksburg",
+   "https://cwmemory.com/2008/02/20/july-4-and-vicksburg-or-who-is-a-southerner/",
+   "https://thereconstructionera.com/when-southern-whites-boycotted-and-blacks-embraced-the-fourth-of-july/"
+  ]
+ },
+ {
   "id": "us:slavery-in-the-united-states",
   "title": "Slavery in the United States",
   "aliases": [

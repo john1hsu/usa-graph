@@ -43,9 +43,10 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
-| `us:mississippi-river` | 1 | siege-of-vicksburg |
+| `us:mississippi-river` | 1 | Siege of Vicksburg |
 | `us:plessy-v-ferguson` | 1 | Jim Crow laws |
 | `us:separate-car-act` | 1 | Jim Crow laws |
+| `us:siege-of-vicksburg` | 1 | siege-of-port-hudson |
 
 ## Happenings by era
 
@@ -77,9 +78,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:mississippi-river` | uso:NaturalFeature |
+_No results._
 
 ## Orphan articles (gap)
 

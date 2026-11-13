@@ -97,16 +97,29 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
 | 1861-04-12 | Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861-05 | At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as "contraband of war." — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1862 | Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1862-04 | Congress abolishes slavery in the District of Columbia. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas under Confederate control. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1863-04-30 | Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-05 | The War Department creates the Bureau of Colored Troops to organize Black regiments. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1863-05-01 | Union victory at Port Gibson opens an inland campaign that wins at Raymond, Jackson, Champion Hill and the Big Black River by May 17. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-05-18 – 1863-07-04 | **[Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md)** (Conflict) |
+| 1863-05-18 | Grant's Army of the Tennessee reaches the Confederate defenses of Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-05-19 | Sherman's corps assaults the Stockade Redan and is repulsed with about 1,000 Union casualties. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-05-22 | A second general assault on a three-mile front fails, and Grant settles into a siege. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-06-07 | Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-06-25 | Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-07-03 | Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07-03 | Pickett's Charge fails, ending the three-day Battle of Gettysburg. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1863-07-04 | At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07-04 | Confederate forces surrender Vicksburg, Mississippi, ending a campaign for control of the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1863-07-04 | Vicksburg surrenders to Ulysses S. Grant, splitting the Confederacy in two. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1863-07-09 | Port Hudson, Louisiana, surrenders after learning of Vicksburg's fall, opening the whole Mississippi to Union navigation. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-08-26 | Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -142,6 +155,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
+| 1877 | The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1877-07-16 – 1877-08 | **[Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md)** (Event) |
 | 1877-07-16 | Railroad workers at Martinsburg, West Virginia, walk off the job over a ten percent wage cut on the Baltimore and Ohio Railroad and stop trains. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-18 | Governor Henry M. Mathews asks for federal help, and President Rutherford B. Hayes proclaims that those obstructing the railroad must disperse by noon the next day. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -249,6 +263,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2003-03-01 | The Department of Homeland Security opens, combining parts or all of 22 federal agencies. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2003-08-11 | NATO assumes command of the UN-mandated International Security Assistance Force (ISAF). — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2004-02-14 | The Mississippi African-American Monument is dedicated in Vicksburg National Military Park. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

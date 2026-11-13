@@ -19,6 +19,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians now cite about 750,000 deaths instead of the long-used 620,000?
   **A:** J. David Hacker compared census survival rates for 1860–1870 with the decades before and after, and the shortfall pointed to about 750,000 deaths (range 650,000–850,000), since earlier counts relied on incomplete military records.
 
+### [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| Lincoln's line that the Father of Waters again flowed "unvexed to the sea" was his spontaneous reaction to the news from Vicksburg. | The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops. |
+
+**Why it matters:** Detaching the line from the letter loses Lincoln's purpose, which was to defend emancipation and Black enlistment to Northern critics by pointing to victories like Vicksburg.
+
+- **Q:** Why did both sides consider Vicksburg so important?
+  **A:** Confederate guns on its bluffs blocked Union traffic on the Mississippi, on which Midwestern farmers depended, and the city linked the eastern Confederacy to the supplies and men of Louisiana, Arkansas and Texas; taking it would reopen the river and split the South.
+- **Q:** How did Grant finally get his army into position to besiege Vicksburg after months of failure?
+  **A:** He crossed the river south of the city on April 30–May 1, 1863, won a string of battles inland through May 17 that drove Pemberton back into the city, and after two failed assaults on May 19 and 22 settled into a siege.
+- **Q:** Why did Pemberton surrender on July 4 rather than fight his way out?
+  **A:** After about six weeks of siege, hunger and disease had worn down his garrison; his commanders judged a breakout impossible, and Grant's offer to parole the men rather than imprison them was the best term available.
+- **Q:** How did the fall of Vicksburg lead to Union control of the entire Mississippi?
+  **A:** The garrison at Port Hudson, Louisiana, the last Confederate stronghold on the river, surrendered on July 9, 1863, after learning Vicksburg had fallen, opening the river from its source to New Orleans.
+
 ### [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) — Law
 
 | Myth | Fact |

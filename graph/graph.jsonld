@@ -2191,6 +2191,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops.",
+   "uso:myth": "Lincoln's line that the Father of Waters again flowed \"unvexed to the sea\" was his spontaneous reaction to the news from Vicksburg.",
+   "uso:why": "Detaching the line from the letter loses Lincoln's purpose, which was to defend emancipation and Black enlistment to Northern critics by pointing to victories like Vicksburg."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did both sides consider Vicksburg so important?",
+   "uso:answer": "Confederate guns on its bluffs blocked Union traffic on the Mississippi, on which Midwestern farmers depended, and the city linked the eastern Confederacy to the supplies and men of Louisiana, Arkansas and Texas; taking it would reopen the river and split the South.",
+   "uso:questionFor": {
+    "@id": "us:siege-of-vicksburg"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Grant finally get his army into position to besiege Vicksburg after months of failure?",
+   "uso:answer": "He crossed the river south of the city on April 30–May 1, 1863, won a string of battles inland through May 17 that drove Pemberton back into the city, and after two failed assaults on May 19 and 22 settled into a siege.",
+   "uso:questionFor": {
+    "@id": "us:siege-of-vicksburg"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Pemberton surrender on July 4 rather than fight his way out?",
+   "uso:answer": "After about six weeks of siege, hunger and disease had worn down his garrison; his commanders judged a breakout impossible, and Grant's offer to parole the men rather than imprison them was the best term available.",
+   "uso:questionFor": {
+    "@id": "us:siege-of-vicksburg"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the fall of Vicksburg lead to Union control of the entire Mississippi?",
+   "uso:answer": "The garrison at Port Hudson, Louisiana, the last Confederate stronghold on the river, surrendered on July 9, 1863, after learning Vicksburg had fallen, opening the river from its source to New Orleans.",
+   "uso:questionFor": {
+    "@id": "us:siege-of-vicksburg"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1862"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Port Hudson, Louisiana, surrenders after learning of Vicksburg's fall, opening the whole Mississippi to Union navigation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-07-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-08-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1877"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Mississippi African-American Monument is dedicated in Vicksburg National Military Park.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2004-02-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Union victory at Port Gibson opens an inland campaign that wins at Raymond, Jackson, Champion Hill and the Big Black River by May 17.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-05-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Grant's Army of the Tennessee reaches the Confederate defenses of Vicksburg.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-05-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sherman's corps assaults the Stockade Redan and is repulsed with about 1,000 Union casualties.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-05-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second general assault on a three-mile front fails, and Grant settles into a siege.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-05-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-06-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-07-03"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865.",
@@ -4067,6 +4236,118 @@
     "@id": "https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Vicksburg National Military Park",
+   "dcterms:title": "Surrender (July 4)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/vick/learn/historyculture/vicksurrender.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Mississippi History Now, Mississippi Department of Archives and History, by Michael B. Ballard",
+   "dcterms:title": "Vicksburg During the Civil War (1862-1863): A Campaign; A Siege",
+   "schema:url": {
+    "@id": "https://mshistory.mdah.ms.gov/issue/vicksburg-during-the-civil-war-1862-1863"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Vicksburg National Military Park",
+   "dcterms:title": "African Americans and the Vicksburg Campaign",
+   "schema:url": {
+    "@id": "https://www.nps.gov/vick/learn/historyculture/african-americans-and-the-campaign.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, The Civil War",
+   "dcterms:title": "Port Hudson (Battle Summary)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/civilwar/search-battles-detail.htm?battleCode=LA010"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of American History",
+   "dcterms:title": "Abraham Lincoln to James C. Conkling, August 26, 1863 (transcript)",
+   "schema:url": {
+    "@id": "https://amhistory.si.edu/documentsgallery/exhibitions/document_transcripts/transcript_lincolntoconkling1.pdf"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "Vicksburg",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/articles/vicksburg"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Civil War Memory, by historian Kevin M. Levin",
+   "dcterms:title": "July 4 and Vicksburg, or Who is a Southerner?",
+   "schema:url": {
+    "@id": "https://cwmemory.com/2008/02/20/july-4-and-vicksburg-or-who-is-a-southerner/"
+   },
+   "uso:sourceType": "community"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Reconstruction Era, by Patrick Young",
+   "dcterms:title": "When Southern Whites Boycotted and Blacks Embraced the Fourth of July During Reconstruction",
+   "schema:url": {
+    "@id": "https://thereconstructionera.com/when-southern-whites-boycotted-and-blacks-embraced-the-fourth-of-july/"
+   },
+   "uso:sourceType": "community"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s1",
@@ -7887,6 +8168,157 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:siege-of-vicksburg",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s8"
+    }
+   ],
+   "rdfs:label": "Siege of Vicksburg",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1863-07-04"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1863-05-18"
+   },
+   "skos:altLabel": [
+    "Fall of Vicksburg",
+    "Vicksburg siege"
+   ],
+   "skos:broader": {
+    "@id": "us:american-civil-war"
+   },
+   "skos:definition": "The 47-day Union siege of the Confederate river fortress at Vicksburg, Mississippi, from May 18 to July 4, 1863, in which Ulysses S. Grant's army forced John C. Pemberton's garrison to surrender, giving the Union control of the Mississippi River and splitting the Confederacy.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Siege of Vicksburg",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:battle-of-gettysburg"
+    },
+    {
+     "@id": "us:battle-of-millikens-bend"
+    },
+    {
+     "@id": "us:independence-day"
+    },
+    {
+     "@id": "us:lost-cause"
+    },
+    {
+     "@id": "us:united-states-colored-troops"
+    }
+   ],
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/civil-war-and-reconstruction/siege-of-vicksburg.md",
+   "uso:ledBy": [
+    {
+     "@id": "us:john-c-pemberton"
+    },
+    {
+     "@id": "us:ulysses-s-grant"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:siege-of-port-hudson"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:vicksburg-mississippi"
+    }
+   ],
+   "uso:partOf": {
+    "@id": "us:american-civil-war"
+   },
+   "uso:requires": {
+    "@id": "us:american-civil-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/timeline/9"
     }
    ]
   },
