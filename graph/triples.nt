@@ -1756,6 +1756,66 @@
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s9> <https://schema.org/url> <https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/publisher> "Air & Space Forces Magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://purl.org/dc/terms/title> "Kabul Airlift Continues After Suicide Bombing Kills 13 Troops, Dozens of Afghans" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> <https://schema.org/url> <https://www.airandspaceforces.com/afghanistan-airlift-continues-after-suicide-bombing/> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport.com)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <http://purl.org/dc/terms/title> "U.S. Military Withdrawal and Taliban Takeover in Afghanistan: Frequently Asked Questions (R46879, September 17, 2021)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> <https://schema.org/url> <https://www.everycrsreport.com/reports/R46879.html> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <http://purl.org/dc/terms/publisher> "Special Inspector General for Afghanistan Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <http://purl.org/dc/terms/title> "What We Need to Learn: Lessons from Twenty Years of Afghanistan Reconstruction (SIGAR 21-46-LL), Executive Summary" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> <https://schema.org/url> <https://sigar.mil/Portals/147/Files/Reports/Lessons-Learned/SIGAR-21-46-LL-Executive-Summary.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <http://purl.org/dc/terms/title> "America's troubled history in Afghanistan" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> <https://schema.org/url> <https://millercenter.org/americas-troubled-history-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <http://purl.org/dc/terms/title> "George W. Bush: Foreign Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> <https://schema.org/url> <https://millercenter.org/president/gwbush/foreign-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <http://purl.org/dc/terms/title> "Barack Obama: Foreign Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> <https://schema.org/url> <https://millercenter.org/node/427> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <http://purl.org/dc/terms/publisher> "U.S. Congress (Congress.gov)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <http://purl.org/dc/terms/title> "Authorization for Use of Military Force (Public Law 107-40)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> <https://schema.org/url> <https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <http://purl.org/dc/terms/publisher> "U.S. Department of State (GovInfo)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <http://purl.org/dc/terms/title> "Agreement for Bringing Peace to Afghanistan (February 29, 2020)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-gpo132866/pdf/GOVPUB-S-PURL-gpo132866.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <http://purl.org/dc/terms/publisher> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <http://purl.org/dc/terms/title> "ISAF's mission in Afghanistan (2001–2014)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> <https://schema.org/url> <https://www.nato.int/en/what-we-do/operations-and-missions/isafs-mission-in-afghanistan-2001-2014> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <http://purl.org/dc/terms/publisher> "U.S. Department of Homeland Security" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <http://purl.org/dc/terms/title> "DHS Operation Allies Welcome Afghan Evacuee Report, Update 1 (April 21, 2022)" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> <https://schema.org/url> <https://dhs.gov/sites/default/files/2022-06/DMO-OSEM%20-%20DHS%20Operation%20Allies%20Welcome%20Afghan%20Evacuee%20Report%20-%20Update%201.pdf> .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865." .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Emancipation Proclamation ended slavery throughout the United States." .
@@ -1967,3 +2027,110 @@
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/deathDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/endDate> "1826-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/startDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "At least 66,000 Afghan troops were killed in the war (SIGAR, 2021), and Congressional researchers traced the collapse to structural causes — corruption that left soldiers unpaid or unfed, dependence on departing U.S. contractors for maintenance, intelligence and air support, overstretched rural outposts, and demoralization after the 2020 U.S.-Taliban agreement." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Afghanistan's army collapsed in 2021 simply because its soldiers would not fight." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The speed of the Taliban's August 2021 advance made a single explanation tempting, but it hides two decades of heavy Afghan losses and the design choices that left the force unable to sustain itself once foreign support ended." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States go to war in Afghanistan in 2001?" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "After the September 11 attacks Congress authorized force against those who planned them and anyone who harbored them; al Qaeda was based in Afghanistan under Taliban protection, so U.S. strikes began on October 7, 2001, to destroy al Qaeda's base and drive the Taliban from power." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the war in Iraq affect the war in Afghanistan?" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "From 2003 U.S. attention and resources shifted to Iraq, where about 150,000–170,000 U.S. troops served against about 20,000 in Afghanistan; officials later said Afghanistan was under-managed in those years as the Taliban regrouped and violence rose from about 2005–2006." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 2020 Doha agreement contribute to the events of August 2021?" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Taliban enter Kabul and President Ashraf Ghani flees the country." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-08-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Congress's Authorization for Use of Military Force against those responsible for the September 11 attacks, and those who harbored them, is approved." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. air strikes begin against Taliban military installations and al Qaeda training camps." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "NATO assumes command of the UN-mandated International Security Assistance Force (ISAF)." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2003-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2011-05-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Afghan forces begin taking over security responsibility from international troops." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2011-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2015-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-02-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2000/01/rdf-schema#label> "War in Afghanistan (2001–2021)" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#altLabel> "Afghanistan War" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. war in Afghanistan" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#altLabel> "War in Afghanistan" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/war-on-terror> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#definition> "The twenty-year U.S.-led war in Afghanistan, launched on October 7, 2001, after the September 11 attacks to destroy al Qaeda's base and topple the Taliban government that sheltered it, which ended with the Taliban's return to power and the final U.S. withdrawal from Kabul on August 30, 2021." .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#prefLabel> "War in Afghanistan (2001–2021)" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/barack-obama> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-w-bush> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/iraq-war> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/taliban> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/al-qaeda> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/war-in-afghanistan.md" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://schema.org/endDate> "2021-08-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://schema.org/startDate> "2001-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .

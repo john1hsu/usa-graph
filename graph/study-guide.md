@@ -123,6 +123,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did bebop change the role of jazz compared with the swing era?
   **A:** Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.
 
+## foreign-relations-and-military
+
+### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| Afghanistan's army collapsed in 2021 simply because its soldiers would not fight. | At least 66,000 Afghan troops were killed in the war (SIGAR, 2021), and Congressional researchers traced the collapse to structural causes — corruption that left soldiers unpaid or unfed, dependence on departing U.S. contractors for maintenance, intelligence and air support, overstretched rural outposts, and demoralization after the 2020 U.S.-Taliban agreement. |
+
+**Why it matters:** The speed of the Taliban's August 2021 advance made a single explanation tempting, but it hides two decades of heavy Afghan losses and the design choices that left the force unable to sustain itself once foreign support ended.
+
+- **Q:** Why did the United States go to war in Afghanistan in 2001?
+  **A:** After the September 11 attacks Congress authorized force against those who planned them and anyone who harbored them; al Qaeda was based in Afghanistan under Taliban protection, so U.S. strikes began on October 7, 2001, to destroy al Qaeda's base and drive the Taliban from power.
+- **Q:** How did the war in Iraq affect the war in Afghanistan?
+  **A:** From 2003 U.S. attention and resources shifted to Iraq, where about 150,000–170,000 U.S. troops served against about 20,000 in Afghanistan; officials later said Afghanistan was under-managed in those years as the Taliban regrouped and violence rose from about 2005–2006.
+- **Q:** How did the 2020 Doha agreement contribute to the events of August 2021?
+  **A:** It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021.
+
 ## gilded-age-and-progressive-era
 
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase

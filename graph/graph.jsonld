@@ -3085,6 +3085,146 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport.com)",
+   "dcterms:title": "U.S. Military Withdrawal and Taliban Takeover in Afghanistan: Frequently Asked Questions (R46879, September 17, 2021)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R46879.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Air & Space Forces Magazine",
+   "dcterms:title": "Kabul Airlift Continues After Suicide Bombing Kills 13 Troops, Dozens of Afghans",
+   "schema:url": {
+    "@id": "https://www.airandspaceforces.com/afghanistan-airlift-continues-after-suicide-bombing/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Special Inspector General for Afghanistan Reconstruction",
+   "dcterms:title": "What We Need to Learn: Lessons from Twenty Years of Afghanistan Reconstruction (SIGAR 21-46-LL), Executive Summary",
+   "schema:url": {
+    "@id": "https://sigar.mil/Portals/147/Files/Reports/Lessons-Learned/SIGAR-21-46-LL-Executive-Summary.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "America's troubled history in Afghanistan",
+   "schema:url": {
+    "@id": "https://millercenter.org/americas-troubled-history-afghanistan"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "George W. Bush: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/gwbush/foreign-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "Barack Obama: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/427"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Congress (Congress.gov)",
+   "dcterms:title": "Authorization for Use of Military Force (Public Law 107-40)",
+   "schema:url": {
+    "@id": "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of State (GovInfo)",
+   "dcterms:title": "Agreement for Bringing Peace to Afghanistan (February 29, 2020)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-gpo132866/pdf/GOVPUB-S-PURL-gpo132866.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "North Atlantic Treaty Organization",
+   "dcterms:title": "ISAF's mission in Afghanistan (2001–2014)",
+   "schema:url": {
+    "@id": "https://www.nato.int/en/what-we-do/operations-and-missions/isafs-mission-in-afghanistan-2001-2014"
+   },
+   "uso:sourceType": "intergovernmental"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of Homeland Security",
+   "dcterms:title": "DHS Operation Allies Welcome Afghan Evacuee Report, Update 1 (April 21, 2022)",
+   "schema:url": {
+    "@id": "https://dhs.gov/sites/default/files/2022-06/DMO-OSEM%20-%20DHS%20Operation%20Allies%20Welcome%20Afghan%20Evacuee%20Report%20-%20Update%201.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
@@ -3366,6 +3506,157 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "At least 66,000 Afghan troops were killed in the war (SIGAR, 2021), and Congressional researchers traced the collapse to structural causes — corruption that left soldiers unpaid or unfed, dependence on departing U.S. contractors for maintenance, intelligence and air support, overstretched rural outposts, and demoralization after the 2020 U.S.-Taliban agreement.",
+   "uso:myth": "Afghanistan's army collapsed in 2021 simply because its soldiers would not fight.",
+   "uso:why": "The speed of the Taliban's August 2021 advance made a single explanation tempting, but it hides two decades of heavy Afghan losses and the design choices that left the force unable to sustain itself once foreign support ended."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States go to war in Afghanistan in 2001?",
+   "uso:answer": "After the September 11 attacks Congress authorized force against those who planned them and anyone who harbored them; al Qaeda was based in Afghanistan under Taliban protection, so U.S. strikes began on October 7, 2001, to destroy al Qaeda's base and drive the Taliban from power.",
+   "uso:questionFor": {
+    "@id": "us:war-in-afghanistan"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the war in Iraq affect the war in Afghanistan?",
+   "uso:answer": "From 2003 U.S. attention and resources shifted to Iraq, where about 150,000–170,000 U.S. troops served against about 20,000 in Afghanistan; officials later said Afghanistan was under-managed in those years as the Taliban regrouped and violence rose from about 2005–2006.",
+   "uso:questionFor": {
+    "@id": "us:war-in-afghanistan"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 2020 Doha agreement contribute to the events of August 2021?",
+   "uso:answer": "It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021.",
+   "uso:questionFor": {
+    "@id": "us:war-in-afghanistan"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress's Authorization for Use of Military Force against those responsible for the September 11 attacks, and those who harbored them, is approved.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-09-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-04-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Taliban enter Kabul and President Ashraf Ghani flees the country.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-08-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-08-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. air strikes begin against Taliban military installations and al Qaeda training camps.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-10-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "NATO assumes command of the UN-mandated International Security Assistance Force (ISAF).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2003-08-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2011-05-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Afghan forces begin taking over security responsibility from international troops.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2011-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2015-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-02-29"
    }
   },
   {
@@ -5194,6 +5485,154 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:war-in-afghanistan",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-in-afghanistan/s9"
+    }
+   ],
+   "rdfs:label": "War in Afghanistan (2001–2021)",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "2021-08-30"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2001-10-07"
+   },
+   "skos:altLabel": [
+    "Afghanistan War",
+    "U.S. war in Afghanistan",
+    "War in Afghanistan"
+   ],
+   "skos:broader": {
+    "@id": "us:war-on-terror"
+   },
+   "skos:definition": "The twenty-year U.S.-led war in Afghanistan, launched on October 7, 2001, after the September 11 attacks to destroy al Qaeda's base and topple the Taliban government that sheltered it, which ended with the Taliban's return to power and the final U.S. withdrawal from Kabul on August 30, 2021.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "War in Afghanistan (2001–2021)",
+   "skos:related": [
+    {
+     "@id": "us:agreement-for-bringing-peace-to-afghanistan"
+    },
+    {
+     "@id": "us:authorization-for-use-of-military-force-of-2001"
+    },
+    {
+     "@id": "us:barack-obama"
+    },
+    {
+     "@id": "us:george-w-bush"
+    },
+    {
+     "@id": "us:iraq-war"
+    },
+    {
+     "@id": "us:nato"
+    },
+    {
+     "@id": "us:osama-bin-laden"
+    },
+    {
+     "@id": "us:taliban"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:al-qaeda"
+   },
+   "uso:domain": "foreign-relations-and-military",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/foreign-relations-and-military/war-in-afghanistan.md",
+   "uso:ledTo": {
+    "@id": "us:operation-allies-welcome"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:afghanistan"
+   },
+   "uso:requires": {
+    "@id": "us:september-11-attacks"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9"
     }
    ]
   }

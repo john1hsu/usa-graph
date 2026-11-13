@@ -2098,5 +2098,168 @@
    "https://www.monticello.org/encyclopedia/embargo-1807",
    "https://www.battlefields.org/learn/primary-sources/act-prohibit-importation-slaves"
   ]
+ },
+ {
+  "id": "us:war-in-afghanistan",
+  "title": "War in Afghanistan (2001–2021)",
+  "aliases": [
+   "Afghanistan War",
+   "U.S. war in Afghanistan",
+   "War in Afghanistan"
+  ],
+  "type": "Conflict",
+  "domain": "foreign-relations-and-military",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/foreign-relations-and-military/war-in-afghanistan.md",
+  "created": "2026-11-13",
+  "summary": "The twenty-year U.S.-led war in Afghanistan, launched on October 7, 2001, after the September 11 attacks to destroy al Qaeda's base and topple the Taliban government that sheltered it, which ended with the Taliban's return to power and the final U.S. withdrawal from Kabul on August 30, 2021.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:war-on-terror"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:iraq-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-w-bush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barack-obama"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:osama-bin-laden"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:taliban"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nato"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:agreement-for-bringing-peace-to-afghanistan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:authorization-for-use-of-military-force-of-2001"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:afghanistan",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:al-qaeda",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:operation-allies-welcome",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "2001-10-07",
+  "end": "2021-08-30",
+  "review": [
+   {
+    "question": "Why did the United States go to war in Afghanistan in 2001?",
+    "answer": "After the September 11 attacks Congress authorized force against those who planned them and anyone who harbored them; al Qaeda was based in Afghanistan under Taliban protection, so U.S. strikes began on October 7, 2001, to destroy al Qaeda's base and drive the Taliban from power."
+   },
+   {
+    "question": "How did the war in Iraq affect the war in Afghanistan?",
+    "answer": "From 2003 U.S. attention and resources shifted to Iraq, where about 150,000–170,000 U.S. troops served against about 20,000 in Afghanistan; officials later said Afghanistan was under-managed in those years as the Taliban regrouped and violence rose from about 2005–2006."
+   },
+   {
+    "question": "How did the 2020 Doha agreement contribute to the events of August 2021?",
+    "answer": "It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2001-09-18",
+    "event": "Congress's Authorization for Use of Military Force against those responsible for the September 11 attacks, and those who harbored them, is approved."
+   },
+   {
+    "date": "2001-10-07",
+    "event": "U.S. air strikes begin against Taliban military installations and al Qaeda training camps."
+   },
+   {
+    "date": "2001-12-07",
+    "event": "Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north."
+   },
+   {
+    "date": "2003-08-11",
+    "event": "NATO assumes command of the UN-mandated International Security Assistance Force (ISAF)."
+   },
+   {
+    "date": "2009-12-01",
+    "event": "In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011."
+   },
+   {
+    "date": "2011-05-02",
+    "event": "Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan."
+   },
+   {
+    "date": "2011-07",
+    "event": "Afghan forces begin taking over security responsibility from international troops."
+   },
+   {
+    "date": "2015-01-01",
+    "event": "ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins."
+   },
+   {
+    "date": "2020-02-29",
+    "event": "The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline."
+   },
+   {
+    "date": "2021-04-14",
+    "event": "President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission."
+   },
+   {
+    "date": "2021-08-15",
+    "event": "The Taliban enter Kabul and President Ashraf Ghani flees the country."
+   },
+   {
+    "date": "2021-08-26",
+    "event": "A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans."
+   },
+   {
+    "date": "2021-08-30",
+    "event": "The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal."
+   }
+  ],
+  "misconception": {
+   "myth": "Afghanistan's army collapsed in 2021 simply because its soldiers would not fight.",
+   "fact": "At least 66,000 Afghan troops were killed in the war (SIGAR, 2021), and Congressional researchers traced the collapse to structural causes — corruption that left soldiers unpaid or unfed, dependence on departing U.S. contractors for maintenance, intelligence and air support, overstretched rural outposts, and demoralization after the 2020 U.S.-Taliban agreement.",
+   "why": "The speed of the Taliban's August 2021 advance made a single explanation tempting, but it hides two decades of heavy Afghan losses and the design choices that left the force unable to sustain itself once foreign support ended."
+  },
+  "source_urls": [
+   "https://www.everycrsreport.com/reports/R46879.html",
+   "https://sigar.mil/Portals/147/Files/Reports/Lessons-Learned/SIGAR-21-46-LL-Executive-Summary.pdf",
+   "https://millercenter.org/americas-troubled-history-afghanistan",
+   "https://millercenter.org/president/gwbush/foreign-affairs",
+   "https://millercenter.org/node/427",
+   "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.htm",
+   "https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-gpo132866/pdf/GOVPUB-S-PURL-gpo132866.pdf",
+   "https://www.nato.int/en/what-we-do/operations-and-missions/isafs-mission-in-afghanistan-2001-2014",
+   "https://dhs.gov/sites/default/files/2022-06/DMO-OSEM%20-%20DHS%20Operation%20Allies%20Welcome%20Afghan%20Evacuee%20Report%20-%20Update%201.pdf",
+   "https://www.airandspaceforces.com/afghanistan-airlift-continues-after-suicide-bombing/"
+  ]
  }
 ]
