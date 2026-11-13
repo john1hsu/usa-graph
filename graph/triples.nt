@@ -212,6 +212,124 @@
 <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://schema.org/endDate> "1865-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://schema.org/startDate> "1861-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The government under the Articles of Confederation accomplished nothing and was simply a failure." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because the Constitution replaced the Articles, the Confederation is often remembered only as the failed first draft, a view that overlooks lasting achievements and the real reasons people in the 1770s distrusted a strong central government." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress under the Articles struggle to pay its bills, and what did that mean in practice?" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Articles gave Congress no power to tax; it could only ask the state legislatures for money, and between 1781 and 1787 it received about $1.5 million of the $10 million it requested, leaving it unable to pay war debts or raise its own army, as Shays' Rebellion showed." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the dispute over western lands delay the Articles from taking effect?" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Ratification had to be unanimous, and states without western land claims, above all Maryland, refused to ratify until states such as Virginia gave up their claims; Maryland ratified only on March 1, 1781, after Virginia agreed to do so." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Articles' clause on Indian affairs lead to conflict at Fort Stanwix in 1784?" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Articles gave Congress power over affairs with Native peoples who were not members of any state, but New York claimed the Haudenosaunee as within its jurisdiction and held its own meeting, so Congress and the state competed for land cessions, and New York later sold land it had failed to obtain by treaty." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the framers of the Articles deliberately create a weak central government?" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many Americans feared losing power to a central body, as the earlier failure of the Albany Plan showed, so the Articles let each state keep its sovereignty and every power not expressly delegated, gave Congress no taxing power and no independent executive or courts, and required every state to agree to amendments." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1784-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates from several states gather at the Annapolis Convention." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1786-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "New York's refusal of the revised impost ends Congress's attempt to win a national tariff." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The Articles cease to be in force as government under the Constitution begins." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1789"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The committee, with John Dickinson as principal writer, presents its draft to Congress." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress sends the Articles to the states, all thirteen of which must ratify." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia becomes the first state to ratify." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey ratifies after holding out over western land claims." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1778-11-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Delaware ratifies, leaving Maryland the last holdout." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1779-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Congress creates a Department of Foreign Affairs." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2000/01/rdf-schema#label> "Articles of Confederation" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#altLabel> "Articles of Confederation and Perpetual Union" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#definition> "The first written frame of national government for the United States, adopted by the Second Continental Congress on November 15, 1777, in force from Maryland's ratification on March 1, 1781, until the Constitution replaced it in 1789; it joined sovereign states in a league governed by a one-state, one-vote Congress with no power to tax." .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Articles of Confederation" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/annapolis-convention> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shays-rebellion> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-dickinson> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/articles-of-confederation.md" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/tenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://schema.org/endDate> "1789"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://schema.org/startDate> "1777-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people." .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The case began when Oliver Brown alone sued after his daughter Linda was turned away from a nearby white school and forced to walk far to a Black school." .
@@ -2351,6 +2469,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s7> <https://schema.org/url> <https://www.digitalhistory.uh.edu/teachers/modules/civwar/historiography.cfm> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://purl.org/dc/terms/title> "Articles of Confederation (1777)" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <http://purl.org/dc/terms/title> "Articles of Confederation: March 1, 1781" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2> <https://schema.org/url> <https://avalon.law.yale.edu/18th_Century/artconf.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. Department of State" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <http://purl.org/dc/terms/title> "Articles of Confederation, 1777–1781" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3> <https://schema.org/url> <https://history.state.gov/milestones/1776-1783/articles> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <http://purl.org/dc/terms/publisher> "George Washington's Mount Vernon, Digital Encyclopedia (Aubrianna Mierow)" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <http://purl.org/dc/terms/title> "The Articles of Confederation" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> <https://schema.org/url> <https://edit.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/the-articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <http://purl.org/dc/terms/publisher> "McGraw-Hill Education (Alan Brinkley)" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <http://purl.org/dc/terms/title> "Debating the Past (Chapter 6), The Unfinished Nation: A Concise History of the American People, 7th edition" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> <https://schema.org/url> <https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter6/debating_the_past.html> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <http://purl.org/dc/terms/publisher> "Macmillan Learning (U.S. history textbook, chapter 8)" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <http://purl.org/dc/terms/title> "The Treaty of Fort Stanwix" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <https://schema.org/url> <https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1> <http://purl.org/dc/terms/title> "Brown v. Board of Education (1954)" .

@@ -18,14 +18,14 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.55 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
 | 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |
 | 1.44 | `us:panic-of-1873` | `us:siege-of-vicksburg` | `us:ulysses-s-grant` |
-| 1.44 | `us:declaration-of-independence` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:united-states-constitution` |
 | 1.37 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.29 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
+| 1.26 | `us:articles-of-confederation` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:second-continental-congress` |
 | 1.25 | `us:frederick-douglass` | `us:jim-crow-laws` | `us:african-american-history`, `us:fifteenth-amendment` |
 | 1.25 | `us:indian-removal-act` | `us:mississippi-river` | `us:louisiana-purchase`, `us:native-americans` |
 | 1.22 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | 1.12 | `us:american-civil-war` | `us:mississippi-river` | `us:siege-of-vicksburg`, `us:united-states` |
 | 1.08 | `us:fifteenth-amendment` | `us:slavery-in-the-united-states` | `us:frederick-douglass`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 1.07 | `us:articles-of-confederation` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:united-states-constitution` |
+| 1.06 | `us:declaration-of-independence` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:united-states-constitution` |
 | 1.05 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
-| 1.04 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
-| 1.03 | `us:jim-crow-laws` | `us:united-states-congress` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:voting-rights-act-of-1965` |

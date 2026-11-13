@@ -16,20 +16,34 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-06-11 | After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-06-28 | The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-01 | A first vote on Lee's resolution: nine colonies in favour, Pennsylvania and South Carolina opposed, Delaware deadlocked and New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-02 | Twelve colonies vote for independence, with New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | **[Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md)** (Document) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
+| 1777-11-15 | After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1787-02 | New York's refusal of the revised impost ends Congress's attempt to win a national tariff. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-05 | The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-05-14 | The convention's scheduled opening day; too few delegations are present, so members adjourn from day to day. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05-25 – 1787-09-17 | **[Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md)** (Event) |
 | 1787-05-25 | A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
@@ -48,6 +62,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-12-07 | Delaware becomes the first state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1789-03-04 | **[United States Congress](../articles/constitution-and-government/united-states-congress.md)** (Institution) |
 | 1789-03-04 | The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-03-04 | The date the framers set for the new Congress to convene. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |

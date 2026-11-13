@@ -348,6 +348,211 @@
   ]
  },
  {
+  "id": "us:articles-of-confederation",
+  "title": "Articles of Confederation",
+  "aliases": [
+   "Articles of Confederation and Perpetual Union"
+  ],
+  "type": "Document",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/colonial-and-revolutionary/articles-of-confederation.md",
+  "created": "2026-11-13",
+  "summary": "The first written frame of national government for the United States, adopted by the Second Continental Congress on November 15, 1777, in force from Maryland's ratification on March 1, 1781, until the Constitution replaced it in 1789; it joined sovereign states in a league governed by a one-state, one-vote Congress with no power to tax.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:founding-documents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:confederation-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:shays-rebellion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:northwest-ordinance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-paris-1783"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-fort-stanwix-1784"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:annapolis-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-dickinson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:constitutional-convention",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:haudenosaunee",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:tenth-amendment",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1777-11-15",
+  "end": "1789",
+  "review": [
+   {
+    "question": "Why did Congress under the Articles struggle to pay its bills, and what did that mean in practice?",
+    "answer": "The Articles gave Congress no power to tax; it could only ask the state legislatures for money, and between 1781 and 1787 it received about $1.5 million of the $10 million it requested, leaving it unable to pay war debts or raise its own army, as Shays' Rebellion showed."
+   },
+   {
+    "question": "How did the dispute over western lands delay the Articles from taking effect?",
+    "answer": "Ratification had to be unanimous, and states without western land claims, above all Maryland, refused to ratify until states such as Virginia gave up their claims; Maryland ratified only on March 1, 1781, after Virginia agreed to do so."
+   },
+   {
+    "question": "How did the Articles' clause on Indian affairs lead to conflict at Fort Stanwix in 1784?",
+    "answer": "The Articles gave Congress power over affairs with Native peoples who were not members of any state, but New York claimed the Haudenosaunee as within its jurisdiction and held its own meeting, so Congress and the state competed for land cessions, and New York later sold land it had failed to obtain by treaty."
+   },
+   {
+    "question": "Why did the framers of the Articles deliberately create a weak central government?",
+    "answer": "Many Americans feared losing power to a central body, as the earlier failure of the Albany Plan showed, so the Articles let each state keep its sovereignty and every power not expressly delegated, gave Congress no taxing power and no independent executive or courts, and required every state to agree to amendments."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1776-06-11",
+    "event": "After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation."
+   },
+   {
+    "date": "1776-07-12",
+    "event": "The committee, with John Dickinson as principal writer, presents its draft to Congress."
+   },
+   {
+    "date": "1777-11-15",
+    "event": "After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles."
+   },
+   {
+    "date": "1777-11-17",
+    "event": "Congress sends the Articles to the states, all thirteen of which must ratify."
+   },
+   {
+    "date": "1777-12-16",
+    "event": "Virginia becomes the first state to ratify."
+   },
+   {
+    "date": "1778-11-20",
+    "event": "New Jersey ratifies after holding out over western land claims."
+   },
+   {
+    "date": "1779-02-01",
+    "event": "Delaware ratifies, leaving Maryland the last holdout."
+   },
+   {
+    "date": "1781-01-10",
+    "event": "Congress creates a Department of Foreign Affairs."
+   },
+   {
+    "date": "1781-03-01",
+    "event": "Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect."
+   },
+   {
+    "date": "1784-10",
+    "event": "Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations."
+   },
+   {
+    "date": "1786-09-11",
+    "event": "Delegates from several states gather at the Annapolis Convention."
+   },
+   {
+    "date": "1787-02",
+    "event": "New York's refusal of the revised impost ends Congress's attempt to win a national tariff."
+   },
+   {
+    "date": "1787-05",
+    "event": "The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution."
+   },
+   {
+    "date": "1789",
+    "event": "The Articles cease to be in force as government under the Constitution begins."
+   }
+  ],
+  "misconception": {
+   "myth": "The government under the Articles of Confederation accomplished nothing and was simply a failure.",
+   "fact": "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen.",
+   "why": "Because the Constitution replaced the Articles, the Confederation is often remembered only as the failed first draft, a view that overlooks lasting achievements and the real reasons people in the 1770s distrusted a strong central government."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/articles-of-confederation",
+   "https://avalon.law.yale.edu/18th_Century/artconf.asp",
+   "https://history.state.gov/milestones/1776-1783/articles",
+   "https://edit.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/the-articles-of-confederation",
+   "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter6/debating_the_past.html",
+   "https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html"
+  ]
+ },
+ {
   "id": "us:brown-v-board-of-education",
   "title": "Brown v. Board of Education",
   "aliases": [

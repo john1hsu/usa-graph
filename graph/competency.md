@@ -32,6 +32,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:united-states-constitution` | 4 | Slavery in the United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
+| `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
@@ -70,6 +71,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 |---|---|---|
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
+| `us:articles-of-confederation` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |

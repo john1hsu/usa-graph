@@ -298,6 +298,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen.",
+   "uso:myth": "The government under the Articles of Confederation accomplished nothing and was simply a failure.",
+   "uso:why": "Because the Constitution replaced the Articles, the Confederation is often remembered only as the failed first draft, a view that overlooks lasting achievements and the real reasons people in the 1770s distrusted a strong central government."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress under the Articles struggle to pay its bills, and what did that mean in practice?",
+   "uso:answer": "The Articles gave Congress no power to tax; it could only ask the state legislatures for money, and between 1781 and 1787 it received about $1.5 million of the $10 million it requested, leaving it unable to pay war debts or raise its own army, as Shays' Rebellion showed.",
+   "uso:questionFor": {
+    "@id": "us:articles-of-confederation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the dispute over western lands delay the Articles from taking effect?",
+   "uso:answer": "Ratification had to be unanimous, and states without western land claims, above all Maryland, refused to ratify until states such as Virginia gave up their claims; Maryland ratified only on March 1, 1781, after Virginia agreed to do so.",
+   "uso:questionFor": {
+    "@id": "us:articles-of-confederation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Articles' clause on Indian affairs lead to conflict at Fort Stanwix in 1784?",
+   "uso:answer": "The Articles gave Congress power over affairs with Native peoples who were not members of any state, but New York claimed the Haudenosaunee as within its jurisdiction and held its own meeting, so Congress and the state competed for land cessions, and New York later sold land it had failed to obtain by treaty.",
+   "uso:questionFor": {
+    "@id": "us:articles-of-confederation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the framers of the Articles deliberately create a weak central government?",
+   "uso:answer": "Many Americans feared losing power to a central body, as the earlier failure of the Albany Plan showed, so the Articles let each state keep its sovereignty and every power not expressly delegated, gave Congress no taxing power and no independent executive or courts, and required every state to agree to amendments.",
+   "uso:questionFor": {
+    "@id": "us:articles-of-confederation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1784-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delegates from several states gather at the Annapolis Convention.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1786-09-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York's refusal of the revised impost ends Congress's attempt to win a national tariff.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1787-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1787-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Articles cease to be in force as government under the Constitution begins.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1789"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The committee, with John Dickinson as principal writer, presents its draft to Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-11-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress sends the Articles to the states, all thirteen of which must ratify.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-11-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia becomes the first state to ratify.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-12-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Jersey ratifies after holding out over western land claims.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1778-11-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delaware ratifies, leaving Maryland the last holdout.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1779-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates a Department of Foreign Affairs.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-01-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-03-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people.",
@@ -3361,6 +3530,90 @@
     "@id": "https://www.digitalhistory.uh.edu/teachers/modules/civwar/historiography.cfm"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Articles of Confederation (1777)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/articles-of-confederation"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Articles of Confederation: March 1, 1781",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_Century/artconf.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "Articles of Confederation, 1777–1781",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/articles"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon, Digital Encyclopedia (Aubrianna Mierow)",
+   "dcterms:title": "The Articles of Confederation",
+   "schema:url": {
+    "@id": "https://edit.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/the-articles-of-confederation"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "McGraw-Hill Education (Alan Brinkley)",
+   "dcterms:title": "Debating the Past (Chapter 6), The Unfinished Nation: A Concise History of the American People, 7th edition",
+   "schema:url": {
+    "@id": "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter6/debating_the_past.html"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Macmillan Learning (U.S. history textbook, chapter 8)",
+   "dcterms:title": "The Treaty of Fort Stanwix",
+   "schema:url": {
+    "@id": "https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html"
+   },
+   "uso:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1",
@@ -7553,6 +7806,172 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:articles-of-confederation",
+   "@type": "uso:Document",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6"
+    }
+   ],
+   "rdfs:label": "Articles of Confederation",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1789"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1777-11-15"
+   },
+   "skos:altLabel": "Articles of Confederation and Perpetual Union",
+   "skos:broader": [
+    {
+     "@id": "us:confederation-period"
+    },
+    {
+     "@id": "us:founding-documents-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The first written frame of national government for the United States, adopted by the Second Continental Congress on November 15, 1777, in force from Maryland's ratification on March 1, 1781, until the Constitution replaced it in 1789; it joined sovereign states in a league governed by a one-state, one-vote Congress with no power to tax.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Articles of Confederation",
+   "skos:related": [
+    {
+     "@id": "us:annapolis-convention"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:northwest-ordinance"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:shays-rebellion"
+    },
+    {
+     "@id": "us:tenth-amendment"
+    },
+    {
+     "@id": "us:treaty-of-fort-stanwix-1784"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:haudenosaunee"
+   },
+   "uso:authoredBy": {
+    "@id": "us:john-dickinson"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/colonial-and-revolutionary/articles-of-confederation.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:tenth-amendment"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9"
     }
    ]
   },

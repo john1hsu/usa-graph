@@ -70,6 +70,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## colonial-and-revolutionary
 
+### [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) — Document
+
+| Myth | Fact |
+|---|---|
+| The government under the Articles of Confederation accomplished nothing and was simply a failure. | Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen. |
+
+**Why it matters:** Because the Constitution replaced the Articles, the Confederation is often remembered only as the failed first draft, a view that overlooks lasting achievements and the real reasons people in the 1770s distrusted a strong central government.
+
+- **Q:** Why did Congress under the Articles struggle to pay its bills, and what did that mean in practice?
+  **A:** The Articles gave Congress no power to tax; it could only ask the state legislatures for money, and between 1781 and 1787 it received about $1.5 million of the $10 million it requested, leaving it unable to pay war debts or raise its own army, as Shays' Rebellion showed.
+- **Q:** How did the dispute over western lands delay the Articles from taking effect?
+  **A:** Ratification had to be unanimous, and states without western land claims, above all Maryland, refused to ratify until states such as Virginia gave up their claims; Maryland ratified only on March 1, 1781, after Virginia agreed to do so.
+- **Q:** How did the Articles' clause on Indian affairs lead to conflict at Fort Stanwix in 1784?
+  **A:** The Articles gave Congress power over affairs with Native peoples who were not members of any state, but New York claimed the Haudenosaunee as within its jurisdiction and held its own meeting, so Congress and the state competed for land cessions, and New York later sold land it had failed to obtain by treaty.
+- **Q:** Why did the framers of the Articles deliberately create a weak central government?
+  **A:** Many Americans feared losing power to a central body, as the earlier failure of the Albany Plan showed, so the Articles let each state keep its sovereignty and every power not expressly delegated, gave Congress no taxing power and no independent executive or courts, and required every state to agree to amendments.
+
 ### [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) — Document
 
 | Myth | Fact |
