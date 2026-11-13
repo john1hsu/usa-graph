@@ -295,6 +295,19 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## rights-and-law
 
+### [Equal protection](../articles/rights-and-law/equal-protection.md) — Right
+
+| Myth | Fact |
+|---|---|
+| The Equal Protection Clause forbids government from ever treating people differently. | Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are "rationally related to a legitimate state interest"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny. |
+
+**Why it matters:** Equal protection requires equal treatment of those who are "similarly situated," not identical treatment of everyone, so the real question a court asks is which differences a law may lawfully draw on.
+
+- **Q:** Why did the framers of the Fourteenth Amendment write an equal protection guarantee into the Constitution rather than rely on ordinary legislation?
+  **A:** They wanted to give civil rights measures such as the Civil Rights Act of 1866 a constitutional footing that a later simple majority in Congress could not repeal, so that the equal legal standing of formerly enslaved people could not be undone by shifting politics.
+- **Q:** How can two laws that both classify people be judged so differently under the Equal Protection Clause?
+  **A:** Courts apply different levels of review depending on the classification. Most laws need only a rational relationship to a legitimate interest, but a law that sorts people by race (a suspect classification) or burdens a fundamental right must survive strict scrutiny, meaning it must be narrowly tailored to a compelling government interest.
+
 ### [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) — Law
 
 | Myth | Fact |

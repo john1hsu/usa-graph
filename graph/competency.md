@@ -37,7 +37,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
+| `us:equal-protection` | 1 | african-americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
+| `us:fourteenth-amendment` | 1 | Equal protection |
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
@@ -121,6 +123,7 @@ _Which institutions, offices, rights and principles did each document or law est
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
+| `us:fourteenth-amendment` | `us:equal-protection` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
 

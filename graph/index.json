@@ -863,6 +863,123 @@
   ]
  },
  {
+  "id": "us:equal-protection",
+  "title": "Equal protection",
+  "aliases": [
+   "Equal Protection Clause",
+   "Equal protection of the laws"
+  ],
+  "type": "Right",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/rights-and-law/equal-protection.md",
+  "created": "2026-11-13",
+  "summary": "The constitutional guarantee, in the Fourteenth Amendment's command that no state \"deny to any person within its jurisdiction the equal protection of the laws,\" that government may not draw arbitrary or invidious distinctions among the people it governs.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:fourteenth-amendment",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:due-process",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1868-07-09",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the framers of the Fourteenth Amendment write an equal protection guarantee into the Constitution rather than rely on ordinary legislation?",
+    "answer": "They wanted to give civil rights measures such as the Civil Rights Act of 1866 a constitutional footing that a later simple majority in Congress could not repeal, so that the equal legal standing of formerly enslaved people could not be undone by shifting politics."
+   },
+   {
+    "question": "How can two laws that both classify people be judged so differently under the Equal Protection Clause?",
+    "answer": "Courts apply different levels of review depending on the classification. Most laws need only a rational relationship to a legitimate interest, but a law that sorts people by race (a suspect classification) or burdens a fundamental right must survive strict scrutiny, meaning it must be narrowly tailored to a compelling government interest."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1866-06-13",
+    "event": "The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language."
+   },
+   {
+    "date": "1868-07-09",
+    "event": "Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution."
+   },
+   {
+    "date": "1873",
+    "event": "The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone."
+   },
+   {
+    "date": "1886",
+    "event": "Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance."
+   },
+   {
+    "date": "1954",
+    "event": "Brown v. Board of Education holds that segregated public schools violate equal protection."
+   },
+   {
+    "date": "1971",
+    "event": "Reed v. Reed applies heightened review to a sex-based classification for the first time."
+   },
+   {
+    "date": "1976",
+    "event": "Craig v. Boren sets the intermediate-scrutiny standard for sex classifications."
+   },
+   {
+    "date": "2015",
+    "event": "Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause."
+   }
+  ],
+  "misconception": {
+   "myth": "The Equal Protection Clause forbids government from ever treating people differently.",
+   "fact": "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny.",
+   "why": "Equal protection requires equal treatment of those who are \"similarly situated,\" not identical treatment of everyone, so the real question a court asks is which differences a law may lawfully draw on."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-overview",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/non-race-based-classifications-overview",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-general-background-and-rational-basis-review",
+   "https://www.archives.gov/milestone-documents/14th-amendment",
+   "https://history.house.gov/HistoricalHighlight/Detail/25769819198"
+  ]
+ },
+ {
   "id": "us:fourteenth-amendment",
   "title": "Fourteenth Amendment",
   "aliases": [

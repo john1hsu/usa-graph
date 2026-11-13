@@ -515,6 +515,78 @@
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://schema.org/startDate> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Equal Protection Clause forbids government from ever treating people differently." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Equal protection requires equal treatment of those who are \"similarly situated,\" not identical treatment of everyone, so the real question a court asks is which differences a law may lawfully draw on." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the framers of the Fourteenth Amendment write an equal protection guarantee into the Constitution rather than rely on ordinary legislation?" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "They wanted to give civil rights measures such as the Civil Rights Act of 1866 a constitutional footing that a later simple majority in Congress could not repeal, so that the equal legal standing of formerly enslaved people could not be undone by shifting politics." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How can two laws that both classify people be judged so differently under the Equal Protection Clause?" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Courts apply different levels of review depending on the classification. Most laws need only a rational relationship to a legitimate interest, but a law that sorts people by race (a suspect classification) or burdens a fundamental right must survive strict scrutiny, meaning it must be narrowly tailored to a compelling government interest." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1866-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1873"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1886"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Brown v. Board of Education holds that segregated public schools violate equal protection." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Reed v. Reed applies heightened review to a sex-based classification for the first time." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Craig v. Boren sets the intermediate-scrutiny standard for sex classifications." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2000/01/rdf-schema#label> "Equal protection" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#altLabel> "Equal Protection Clause" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#altLabel> "Equal protection of the laws" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#definition> "The constitutional guarantee, in the Fourteenth Amendment's command that no state \"deny to any person within its jurisdiction the equal protection of the laws,\" that government may not draw arbitrary or invidious distinctions among the people it governs." .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equal protection" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/due-process> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#domain> "rights-and-law" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/rights-and-law/equal-protection.md" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/equal-protection> <https://schema.org/startDate> "1868-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920." .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "By making women citizens, the Fourteenth Amendment gave them the right to vote." .
@@ -1806,6 +1878,36 @@
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
 <https://github.com/john1hsu/usa-graph/id/source/declaration-of-independence/s9> <https://schema.org/url> <https://www.monticello.org/thomas-jefferson/jefferson-slavery/> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/publisher> "Constitution Annotated, Congress.gov (Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/title> "Equal Protection: Overview" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-overview> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <http://purl.org/dc/terms/publisher> "Constitution Annotated (Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <http://purl.org/dc/terms/title> "Non-Race-Based Classifications: Overview" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/non-race-based-classifications-overview> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <http://purl.org/dc/terms/publisher> "Constitution Annotated (Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <http://purl.org/dc/terms/title> "Equal Protection: General Background and Rational Basis Review" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-general-background-and-rational-basis-review> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <http://purl.org/dc/terms/title> "14th Amendment to the U.S. Constitution: Civil Rights (1868)" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4> <https://schema.org/url> <https://www.archives.gov/milestone-documents/14th-amendment> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <http://purl.org/dc/terms/publisher> "U.S. House of Representatives, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <http://purl.org/dc/terms/title> "The House passes the Fourteenth Amendment" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5> <https://schema.org/url> <https://history.house.gov/HistoricalHighlight/Detail/25769819198> .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s10> <http://purl.org/dc/terms/publisher> "Supreme Court Historical Society, Civics Resources" .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s10> <http://purl.org/dc/terms/title> "United States v. Wong Kim Ark (1898)" .

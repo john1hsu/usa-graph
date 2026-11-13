@@ -697,6 +697,103 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny.",
+   "uso:myth": "The Equal Protection Clause forbids government from ever treating people differently.",
+   "uso:why": "Equal protection requires equal treatment of those who are \"similarly situated,\" not identical treatment of everyone, so the real question a court asks is which differences a law may lawfully draw on."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the framers of the Fourteenth Amendment write an equal protection guarantee into the Constitution rather than rely on ordinary legislation?",
+   "uso:answer": "They wanted to give civil rights measures such as the Civil Rights Act of 1866 a constitutional footing that a later simple majority in Congress could not repeal, so that the equal legal standing of formerly enslaved people could not be undone by shifting politics.",
+   "uso:questionFor": {
+    "@id": "us:equal-protection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How can two laws that both classify people be judged so differently under the Equal Protection Clause?",
+   "uso:answer": "Courts apply different levels of review depending on the classification. Most laws need only a rational relationship to a legitimate interest, but a law that sorts people by race (a suspect classification) or burdens a fundamental right must survive strict scrutiny, meaning it must be narrowly tailored to a compelling government interest.",
+   "uso:questionFor": {
+    "@id": "us:equal-protection"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-06-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-07-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1886"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Brown v. Board of Education holds that segregated public schools violate equal protection.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1954"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reed v. Reed applies heightened review to a sex-based classification for the first time.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1971"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Craig v. Boren sets the intermediate-scrutiny standard for sex classifications.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2015"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Section 2 penalized states only for denying the vote to male citizens, and in Minor v. Happersett (1875) the Supreme Court held that citizenship did not carry the right to vote; women won a constitutional guarantee only with the Nineteenth Amendment in 1920.",
@@ -2758,6 +2855,76 @@
     "@id": "https://www.monticello.org/thomas-jefferson/jefferson-slavery/"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Constitution Annotated, Congress.gov (Cornell Legal Information Institute)",
+   "dcterms:title": "Equal Protection: Overview",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-overview"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Constitution Annotated (Cornell Legal Information Institute)",
+   "dcterms:title": "Non-Race-Based Classifications: Overview",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/non-race-based-classifications-overview"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Constitution Annotated (Cornell Legal Information Institute)",
+   "dcterms:title": "Equal Protection: General Background and Rational Basis Review",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equal-protection-general-background-and-rational-basis-review"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "14th Amendment to the U.S. Constitution: Civil Rights (1868)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/14th-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. House of Representatives, Office of the Historian",
+   "dcterms:title": "The House passes the Fourteenth Amendment",
+   "schema:url": {
+    "@id": "https://history.house.gov/HistoricalHighlight/Detail/25769819198"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s1",
@@ -6043,6 +6210,107 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:equal-protection",
+   "@type": "uso:Right",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s5"
+    }
+   ],
+   "rdfs:label": "Equal protection",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1868-07-09"
+   },
+   "skos:altLabel": [
+    "Equal Protection Clause",
+    "Equal protection of the laws"
+   ],
+   "skos:broader": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "skos:definition": "The constitutional guarantee, in the Fourteenth Amendment's command that no state \"deny to any person within its jurisdiction the equal protection of the laws,\" that government may not draw arbitrary or invidious distinctions among the people it governs.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Equal protection",
+   "skos:related": [
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:plessy-v-ferguson"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:african-americans"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:due-process"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:establishedBy": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/rights-and-law/equal-protection.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8"
     }
    ]
   },
