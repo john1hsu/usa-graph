@@ -1709,6 +1709,112 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer.",
+   "uso:myth": "The Mississippi is the longest river in the United States.",
+   "uso:why": "The Mississippi carries the larger flow and the larger name, and the two rivers are often added together as one system, so its length record gets assumed rather than checked."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it inaccurate to call the Mississippi the longest river in the United States, and why do published lengths for it differ?",
+   "uso:answer": "The Missouri, which flows into it, is longer (2,540 miles against 2,340 in the USGS list, or about 100 miles longer by the Park Service's count); figures for the Mississippi itself range from about 2,300 to 2,350 miles because agencies measure a shifting channel differently.",
+   "uso:questionFor": {
+    "@id": "us:mississippi-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Union leaders consider capturing Vicksburg essential?",
+   "uso:answer": "The Confederacy had closed the Mississippi to Northern commerce; taking Vicksburg would reopen the river to Midwestern farm exports, split the South in two and cut a vital Confederate supply line.",
+   "uso:questionFor": {
+    "@id": "us:mississippi-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Great Flood of 1927 change federal flood-control policy, and who bore its heaviest costs?",
+   "uso:answer": "It showed that levees alone could not hold the river, so the 1928 Flood Control Act added spillways, floodways and diversion works; the heaviest costs fell on displaced residents, including many Black tenant farmers who were segregated in relief shelters and later left for northern cities.",
+   "uso:questionFor": {
+    "@id": "us:mississippi-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1000"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1541"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Louis Jolliet and the Jesuit Jacques Marquette travel the river for France.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1673"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1795-10-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Confederate forces surrender Vicksburg, Mississippi, ending a campaign for control of the river.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1927-04-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1928"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A major summer flood strikes the upper river basin.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1993"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -3653,6 +3759,104 @@
     "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Mississippi National River and Recreation Area",
+   "dcterms:title": "Mississippi River Facts",
+   "schema:url": {
+    "@id": "https://nps.gov/miss/riverfacts.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Water Science School",
+   "dcterms:title": "Rivers of the World: World's Longest Rivers",
+   "schema:url": {
+    "@id": "https://www.usgs.gov/water-science-school/science/rivers-world-worlds-longest-rivers"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Encyclopedia of Arkansas (Central Arkansas Library System), by Hubert B. Stroud",
+   "dcterms:title": "Mississippi River",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/mississippi-river-2648/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), by Jim Bradshaw",
+   "dcterms:title": "Great Flood of 1927",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/great-flood-of-1927"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Cahokia Mounds State Historic Site World Heritage Site",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, Vicksburg National Military Park",
+   "dcterms:title": "Campaign for Vicksburg",
+   "schema:url": {
+    "@id": "https://www.nps.gov/vick/learn/historyculture/campaign-for-vicksburg.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Treaty of San Lorenzo/Pinckney's Treaty, 1795",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1",
@@ -7281,6 +7485,124 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:mississippi-river",
+   "@type": "uso:NaturalFeature",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7"
+    }
+   ],
+   "rdfs:label": "Mississippi River",
+   "skos:altLabel": [
+    "Father of Waters",
+    "Messipi"
+   ],
+   "skos:broader": {
+    "@id": "us:physical-geography-of-the-united-states"
+   },
+   "skos:definition": "North America's second-longest river, flowing about 2,340 miles from Lake Itasca in Minnesota to the Gulf of Mexico and draining roughly 1.2 million square miles of the interior; a homeland and highway for Native nations, a prize of empires and the Civil War, and a heavily engineered shipping and flood-control system today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Mississippi River",
+   "skos:related": [
+    {
+     "@id": "us:cahokia"
+    },
+    {
+     "@id": "us:great-mississippi-flood-of-1927"
+    },
+    {
+     "@id": "us:louisiana"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:missouri-river"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:new-orleans"
+    },
+    {
+     "@id": "us:pinckneys-treaty"
+    },
+    {
+     "@id": "us:siege-of-vicksburg"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:siege-of-vicksburg"
+   },
+   "uso:borders": {
+    "@id": "us:arkansas"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:missouri-river"
+   },
+   "uso:domain": "geography-and-environment",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/geography-and-environment/mississippi-river.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
     }
    ]
   },

@@ -229,6 +229,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the 2020 Doha agreement contribute to the events of August 2021?
   **A:** It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021.
 
+## geography-and-environment
+
+### [Mississippi River](../articles/geography-and-environment/mississippi-river.md) — NaturalFeature
+
+| Myth | Fact |
+|---|---|
+| The Mississippi is the longest river in the United States. | The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer. |
+
+**Why it matters:** The Mississippi carries the larger flow and the larger name, and the two rivers are often added together as one system, so its length record gets assumed rather than checked.
+
+- **Q:** Why is it inaccurate to call the Mississippi the longest river in the United States, and why do published lengths for it differ?
+  **A:** The Missouri, which flows into it, is longer (2,540 miles against 2,340 in the USGS list, or about 100 miles longer by the Park Service's count); figures for the Mississippi itself range from about 2,300 to 2,350 miles because agencies measure a shifting channel differently.
+- **Q:** Why did Union leaders consider capturing Vicksburg essential?
+  **A:** The Confederacy had closed the Mississippi to Northern commerce; taking Vicksburg would reopen the river to Midwestern farm exports, split the South in two and cut a vital Confederate supply line.
+- **Q:** How did the Great Flood of 1927 change federal flood-control policy, and who bore its heaviest costs?
+  **A:** It showed that levees alone could not hold the river, so the 1928 Flood Control Act added spillways, floodways and diversion works; the heaviest costs fell on displaced residents, including many Black tenant farmers who were segregated in relief shelters and later left for northern cities.
+
 ## gilded-age-and-progressive-era
 
 ### [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) — Policy

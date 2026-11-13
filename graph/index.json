@@ -2124,6 +2124,151 @@
   ]
  },
  {
+  "id": "us:mississippi-river",
+  "title": "Mississippi River",
+  "aliases": [
+   "Father of Waters",
+   "Messipi"
+  ],
+  "type": "NaturalFeature",
+  "domain": "geography-and-environment",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/geography-and-environment/mississippi-river.md",
+  "created": "2026-11-13",
+  "summary": "North America's second-longest river, flowing about 2,340 miles from Lake Itasca in Minnesota to the Gulf of Mexico and draining roughly 1.2 million square miles of the interior; a homeland and highway for Native nations, a prize of empires and the Civil War, and a heavily engineered shipping and flood-control system today.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:physical-geography-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-orleans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cahokia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-vicksburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-mississippi-flood-of-1927"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pinckneys-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri-river"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:arkansas",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:missouri-river",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:siege-of-vicksburg",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why is it inaccurate to call the Mississippi the longest river in the United States, and why do published lengths for it differ?",
+    "answer": "The Missouri, which flows into it, is longer (2,540 miles against 2,340 in the USGS list, or about 100 miles longer by the Park Service's count); figures for the Mississippi itself range from about 2,300 to 2,350 miles because agencies measure a shifting channel differently."
+   },
+   {
+    "question": "Why did Union leaders consider capturing Vicksburg essential?",
+    "answer": "The Confederacy had closed the Mississippi to Northern commerce; taking Vicksburg would reopen the river to Midwestern farm exports, split the South in two and cut a vital Confederate supply line."
+   },
+   {
+    "question": "How did the Great Flood of 1927 change federal flood-control policy, and who bore its heaviest costs?",
+    "answer": "It showed that levees alone could not hold the river, so the 1928 Flood Control Act added spillways, floodways and diversion works; the heaviest costs fell on displaced residents, including many Black tenant farmers who were segregated in relief shelters and later left for northern cities."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1000",
+    "event": "The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350."
+   },
+   {
+    "date": "1541",
+    "event": "Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river."
+   },
+   {
+    "date": "1673",
+    "event": "Louis Jolliet and the Jesuit Jacques Marquette travel the river for France."
+   },
+   {
+    "date": "1795-10-27",
+    "event": "Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans."
+   },
+   {
+    "date": "1863-07-04",
+    "event": "Confederate forces surrender Vicksburg, Mississippi, ending a campaign for control of the river."
+   },
+   {
+    "date": "1927-04-29",
+    "event": "During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans."
+   },
+   {
+    "date": "1928",
+    "event": "Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways."
+   },
+   {
+    "date": "1993",
+    "event": "A major summer flood strikes the upper river basin."
+   }
+  ],
+  "misconception": {
+   "myth": "The Mississippi is the longest river in the United States.",
+   "fact": "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer.",
+   "why": "The Mississippi carries the larger flow and the larger name, and the two rivers are often added together as one system, so its length record gets assumed rather than checked."
+  },
+  "source_urls": [
+   "https://nps.gov/miss/riverfacts.htm",
+   "https://www.usgs.gov/water-science-school/science/rivers-world-worlds-longest-rivers",
+   "https://encyclopediaofarkansas.net/entries/mississippi-river-2648/",
+   "https://64parishes.org/entry/great-flood-of-1927",
+   "https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm",
+   "https://www.nps.gov/vick/learn/historyculture/campaign-for-vicksburg.htm",
+   "https://history.state.gov/milestones/1784-1800/pickney-treaty"
+  ]
+ },
+ {
   "id": "us:plessy-v-ferguson",
   "title": "Plessy v. Ferguson",
   "aliases": [

@@ -6,26 +6,26 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 2.68 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.34 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 2.16 | `us:american-civil-war` | `us:mississippi-river` | `us:siege-of-vicksburg`, `us:united-states` |
 | 1.93 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.82 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
-| 1.77 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | 1.76 | `us:thirteenth-amendment` | `us:voting-rights-act-of-1965` | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:united-states-congress` |
 | 1.63 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 1.61 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.55 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
-| 1.22 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
+| 1.23 | `us:jazz` | `us:louisiana-purchase` | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | 1.22 | `us:american-civil-war` | `us:jim-crow-laws` | `us:fourteenth-amendment`, `us:reconstruction-era` |
 | 1.07 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:american-civil-war`, `us:thirteenth-amendment`, `us:united-states-constitution` |
 | 1.04 | `us:declaration-of-independence` | `us:louisiana-purchase` | `us:slavery-in-the-united-states`, `us:thomas-jefferson`, `us:united-states-constitution` |
+| 1.04 | `us:american-civil-war` | `us:japanese-american-incarceration` | `us:fourteenth-amendment`, `us:united-states` |
 | 1.04 | `us:united-states-constitution` | `us:voting-rights-act-of-1965` | `us:fourteenth-amendment`, `us:united-states-congress` |
 | 1.02 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 0.91 | `us:american-civil-war` | `us:great-railroad-strike-of-1877` | `us:reconstruction-era` |
-| 0.91 | `us:american-civil-war` | `us:september-11-attacks` | `us:united-states` |
 | 0.91 | `us:great-railroad-strike-of-1877` | `us:jim-crow-laws` | `us:reconstruction-era` |
-| 0.91 | `us:japanese-american-incarceration` | `us:september-11-attacks` | `us:united-states` |
+| 0.91 | `us:jazz` | `us:mississippi-river` | `us:new-orleans` |
 | 0.83 | `us:brown-v-board-of-education` | `us:japanese-american-incarceration` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 0.83 | `us:japanese-american-incarceration` | `us:jim-crow-laws` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 0.83 | `us:japanese-american-incarceration` | `us:plessy-v-ferguson` | `us:equal-protection`, `us:fourteenth-amendment` |
 | 0.76 | `us:plessy-v-ferguson` | `us:slavery-in-the-united-states` | `us:jazz`, `us:thirteenth-amendment` |
-| 0.72 | `us:abraham-lincoln` | `us:fourteenth-amendment` | `us:american-civil-war`, `us:thirteenth-amendment` |
-| 0.72 | `us:brown-v-board-of-education` | `us:jazz` | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| 0.72 | `us:american-civil-war` | `us:september-11-attacks` | `us:united-states` |
+| 0.72 | `us:japanese-american-incarceration` | `us:mississippi-river` | `us:united-states` |
