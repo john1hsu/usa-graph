@@ -106,6 +106,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the attacks reshape the federal government at home?
   **A:** Within weeks the president created a White House Office of Homeland Security, Congress passed the USA PATRIOT Act and created the TSA in 2001, and the Homeland Security Act of 2002 merged 22 agencies into a new Cabinet department; the 9/11 Commission's 2004 report then led to proposals such as a National Counterterrorism Center and a national intelligence director.
 
+## culture-and-arts
+
+### [Jazz](../articles/culture-and-arts/jazz.md) — Tradition
+
+| Myth | Fact |
+|---|---|
+| Jazz was born in the brothels of Storyville, and its musicians scattered north when the district was closed in 1917. | Jazz grew out of New Orleans neighborhood life — brass bands, parades, dance halls, social clubs and street music — and Storyville was only one of many places musicians worked. Research by Tulane's Hogan Jazz Archive curator Bruce Raeburn on musicians who left the city between 1902 and 1922 found that they went for better pay, working conditions, racial equality and safety, not because the district closed; several had left years before 1917. |
+
+**Why it matters:** The red-light story is colorful and easy to tell, but it hides the African American and Creole communities, institutions and traditions that actually produced the music, and the segregation and police harassment that drove many musicians away.
+
+- **Q:** How did the segregation laws of the 1890s help shape early jazz in New Orleans?
+  **A:** They stripped Creoles of color of their separate social status and pushed them together with uptown Black musicians, combining the Creoles' formal training and discipline with the improvised, blues-based playing of uptown bands.
+- **Q:** Why is the story that jazz musicians left New Orleans because Storyville closed misleading?
+  **A:** Many musicians, such as Jelly Roll Morton, the Original Creole Orchestra and Tom Brown's band, had left before the district closed in November 1917, and research on musicians who left between 1902 and 1922 shows they sought better pay, working conditions, racial equality and safety; King Oliver, for example, had been repeatedly arrested while playing.
+- **Q:** How did bebop change the role of jazz compared with the swing era?
+  **A:** Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.
+
 ## gilded-age-and-progressive-era
 
 ### [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) — CourtCase

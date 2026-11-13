@@ -637,6 +637,104 @@
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://schema.org/startDate> "1868-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jazz/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/jazz/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Jazz grew out of New Orleans neighborhood life — brass bands, parades, dance halls, social clubs and street music — and Storyville was only one of many places musicians worked. Research by Tulane's Hogan Jazz Archive curator Bruce Raeburn on musicians who left the city between 1902 and 1922 found that they went for better pay, working conditions, racial equality and safety, not because the district closed; several had left years before 1917." .
+<https://github.com/john1hsu/usa-graph/id/jazz/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Jazz was born in the brothels of Storyville, and its musicians scattered north when the district was closed in 1917." .
+<https://github.com/john1hsu/usa-graph/id/jazz/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The red-light story is colorful and easy to tell, but it hides the African American and Creole communities, institutions and traditions that actually produced the music, and the segregation and police harassment that drove many musicians away." .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did the segregation laws of the 1890s help shape early jazz in New Orleans?" .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "They stripped Creoles of color of their separate social status and pushed them together with uptown Black musicians, combining the Creoles' formal training and discipline with the improvised, blues-based playing of uptown bands." .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jazz> .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the story that jazz musicians left New Orleans because Storyville closed misleading?" .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many musicians, such as Jelly Roll Morton, the Original Creole Orchestra and Tom Brown's band, had left before the district closed in November 1917, and research on musicians who left between 1902 and 1922 shows they sought better pay, working conditions, racial equality and safety; King Oliver, for example, had been repeatedly arrested while playing." .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jazz> .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did bebop change the role of jazz compared with the swing era?" .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening." .
+<https://github.com/john1hsu/usa-graph/id/jazz/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jazz> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1946-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1817"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Around this time uptown cornetist Charles \"Buddy\" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Pianist and composer Jelly Roll Morton begins touring outside New Orleans." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Tom Brown's band leaves New Orleans for Chicago." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1915"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1917-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "New Orleans closes its Storyville red-light district." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1917-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts." .
+<https://github.com/john1hsu/usa-graph/id/jazz/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1927"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Tradition> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2000/01/rdf-schema#label> "Jazz" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#altLabel> "New Orleans jazz" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#altLabel> "jass" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#altLabel> "jazz music" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#definition> "A form of music created by African American musicians in New Orleans around the turn of the twentieth century, blending blues, ragtime, brass-band and dance traditions with collective and solo improvisation, which spread across the United States and the world through recordings, migration and touring." .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/duke-ellington> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz-ambassadors> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louis-armstrong> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/storyville> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s1> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s2> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s3> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s4> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s5> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#domain> "culture-and-arts" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/culture-and-arts/jazz.md" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/congo-square> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/ragtime> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/jazz/misconception> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/jazz> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jazz/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward." .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Supreme Court's majority opinion in Plessy announced the phrase \"separate but equal.\"" .
@@ -1334,6 +1432,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <http://purl.org/dc/terms/publisher> "National Park Service, New Orleans Jazz National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <http://purl.org/dc/terms/title> "Jazz Origins in New Orleans" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s1> <https://schema.org/url> <https://www.nps.gov/jazz/learn/historyculture/history_early.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <http://purl.org/dc/terms/publisher> "Bruce Raeburn, 64 Parishes (Louisiana Endowment for the Humanities)" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <http://purl.org/dc/terms/title> "Traditional New Orleans Jazz" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s2> <https://schema.org/url> <https://64parishes.org/?p=546> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <http://purl.org/dc/terms/publisher> "Tulane University, Tulane News (2014)" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <http://purl.org/dc/terms/title> "Bruce Raeburn dispels Storyville myths" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s3> <https://schema.org/url> <https://news.tulane.edu/news/bruce-raeburn-dispels-storyville-myths> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <http://purl.org/dc/terms/publisher> "John Gennari, The National WWII Museum (2021)" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <http://purl.org/dc/terms/title> "Jazz in the Late 1940s: American Culture at Its Most Alluring" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s4> <https://schema.org/url> <https://www.nationalww2museum.org/war/articles/modern-jazz-late-1940s> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of African American History and Culture" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <http://purl.org/dc/terms/title> "Jazz Appreciation Month: Duke Ellington" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s5> <https://schema.org/url> <https://nmaahc.si.edu/explore/stories/jazz-appreciation-month-duke-ellington> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of State (2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <http://purl.org/dc/terms/title> "The Unifying Power of Music" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <https://schema.org/url> <https://stories.state.gov/the-unifying-power-of-music> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/publisher> "Keith Weldon Medley, 64 Parishes (Louisiana Endowment for the Humanities)" .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s1> <http://purl.org/dc/terms/title> "Plessy v. Ferguson" .

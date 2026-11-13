@@ -857,6 +857,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Jazz grew out of New Orleans neighborhood life — brass bands, parades, dance halls, social clubs and street music — and Storyville was only one of many places musicians worked. Research by Tulane's Hogan Jazz Archive curator Bruce Raeburn on musicians who left the city between 1902 and 1922 found that they went for better pay, working conditions, racial equality and safety, not because the district closed; several had left years before 1917.",
+   "uso:myth": "Jazz was born in the brothels of Storyville, and its musicians scattered north when the district was closed in 1917.",
+   "uso:why": "The red-light story is colorful and easy to tell, but it hides the African American and Creole communities, institutions and traditions that actually produced the music, and the segregation and police harassment that drove many musicians away."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the segregation laws of the 1890s help shape early jazz in New Orleans?",
+   "uso:answer": "They stripped Creoles of color of their separate social status and pushed them together with uptown Black musicians, combining the Creoles' formal training and discipline with the improvised, blues-based playing of uptown bands.",
+   "uso:questionFor": {
+    "@id": "us:jazz"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the story that jazz musicians left New Orleans because Storyville closed misleading?",
+   "uso:answer": "Many musicians, such as Jelly Roll Morton, the Original Creole Orchestra and Tom Brown's band, had left before the district closed in November 1917, and research on musicians who left between 1902 and 1922 shows they sought better pay, working conditions, racial equality and safety; King Oliver, for example, had been repeatedly arrested while playing.",
+   "uso:questionFor": {
+    "@id": "us:jazz"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did bebop change the role of jazz compared with the swing era?",
+   "uso:answer": "Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.",
+   "uso:questionFor": {
+    "@id": "us:jazz"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1817"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1941"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1946-02-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1956-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Around this time uptown cornetist Charles \"Buddy\" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pianist and composer Jelly Roll Morton begins touring outside New Orleans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1907"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tom Brown's band leaves New Orleans for Chicago.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1915"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1917-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Orleans closes its Storyville red-light district.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1917-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1922"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1925"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1927"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The majority opinion speaks of the statute's \"equal but separate\" accommodations; the words \"separate but equal\" appear in Justice Harlan's dissent, and the label for the doctrine became common afterward.",
@@ -2183,6 +2325,90 @@
    "dcterms:title": "Modern Doctrine on Selective Incorporation of Bill of Rights",
    "schema:url": {
     "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, New Orleans Jazz National Historical Park",
+   "dcterms:title": "Jazz Origins in New Orleans",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jazz/learn/historyculture/history_early.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Bruce Raeburn, 64 Parishes (Louisiana Endowment for the Humanities)",
+   "dcterms:title": "Traditional New Orleans Jazz",
+   "schema:url": {
+    "@id": "https://64parishes.org/?p=546"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Tulane University, Tulane News (2014)",
+   "dcterms:title": "Bruce Raeburn dispels Storyville myths",
+   "schema:url": {
+    "@id": "https://news.tulane.edu/news/bruce-raeburn-dispels-storyville-myths"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "John Gennari, The National WWII Museum (2021)",
+   "dcterms:title": "Jazz in the Late 1940s: American Culture at Its Most Alluring",
+   "schema:url": {
+    "@id": "https://www.nationalww2museum.org/war/articles/modern-jazz-late-1940s"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of African American History and Culture",
+   "dcterms:title": "Jazz Appreciation Month: Duke Ellington",
+   "schema:url": {
+    "@id": "https://nmaahc.si.edu/explore/stories/jazz-appreciation-month-duke-ellington"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Department of State (2023)",
+   "dcterms:title": "The Unifying Power of Music",
+   "schema:url": {
+    "@id": "https://stories.state.gov/the-unifying-power-of-music"
    },
    "uso:sourceType": "government"
   },
@@ -4081,6 +4307,138 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:jazz",
+   "@type": "uso:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jazz/s6"
+    }
+   ],
+   "rdfs:label": "Jazz",
+   "skos:altLabel": [
+    "New Orleans jazz",
+    "jass",
+    "jazz music"
+   ],
+   "skos:broader": {
+    "@id": "us:music-of-the-united-states"
+   },
+   "skos:definition": "A form of music created by African American musicians in New Orleans around the turn of the twentieth century, blending blues, ragtime, brass-band and dance traditions with collective and solo improvisation, which spread across the United States and the world through recordings, migration and touring.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Jazz",
+   "skos:related": [
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:duke-ellington"
+    },
+    {
+     "@id": "us:jazz-ambassadors"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:louis-armstrong"
+    },
+    {
+     "@id": "us:plessy-v-ferguson"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:storyville"
+    }
+   ],
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/culture-and-arts/jazz.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:blues"
+    },
+    {
+     "@id": "us:congo-square"
+    },
+    {
+     "@id": "us:ragtime"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/jazz/misconception"
+   },
+   "uso:originatedIn": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:new-orleans"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jazz/timeline/9"
     }
    ]
   },

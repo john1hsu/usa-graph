@@ -50,6 +50,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -110,11 +111,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
 | 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -123,6 +134,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-05-17 | Brown v. Board of Education rejects separate but equal in public education. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1954-05-17 | The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1956-03 | The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1956-03-12 | The Southern Manifesto denouncing the decision is introduced in Congress. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
