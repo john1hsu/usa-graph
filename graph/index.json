@@ -1776,6 +1776,217 @@
   ]
  },
  {
+  "id": "us:george-washington",
+  "title": "George Washington",
+  "aliases": [
+   "Washington",
+   "President Washington",
+   "General Washington",
+   "1st President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/george-washington.md",
+  "created": "2026-11-13",
+  "summary": "A Virginia planter, surveyor and soldier (1732–1799) who commanded the Continental Army in the American Revolutionary War, presided over the Constitutional Convention and served as the first president of the United States (1789–1797), setting many precedents of the office while enslaving hundreds of people at Mount Vernon.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:farewell-address"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mount-vernon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martha-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jay-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:neutrality-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-greenville"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:french-and-indian-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alexander-hamilton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-wooden-teeth-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-cherry-tree-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:second-continental-congress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-revolutionary-war",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:constitutional-convention",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:northwest-indian-war",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:whiskey-rebellion",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1732-02-22",
+  "end": "1799-12-14",
+  "review": [
+   {
+    "question": "Why did Washington's will free only 123 of the 317 enslaved people living at Mount Vernon in 1799?",
+    "answer": "Only 123 belonged to him; 153 were \"dower\" slaves from the estate of Martha Washington's first husband, which neither spouse could legally free and which passed to the Custis grandchildren, and 40 more were rented from a neighbor."
+   },
+   {
+    "question": "How did the Western Confederacy's victory over Arthur St. Clair in 1791 change Washington's frontier policy?",
+    "answer": "After more than 630 of St. Clair's roughly 930 soldiers were killed, Washington and Congress built a larger, professionally trained Legion of the United States under Anthony Wayne, which won at Fallen Timbers in 1794 and forced the 1795 Treaty of Greenville cessions."
+   },
+   {
+    "question": "Why do historians disagree about whether Washington stood above party politics?",
+    "answer": "He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1732-02-22",
+    "event": "Born at Popes Creek in Westmoreland County, Virginia (February 11 under the Julian calendar then in use)."
+   },
+   {
+    "date": "1754-07-03",
+    "event": "Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War."
+   },
+   {
+    "date": "1759-02",
+    "event": "Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis."
+   },
+   {
+    "date": "1775-06-15",
+    "event": "The Second Continental Congress appoints him commander in chief of the new Continental Army."
+   },
+   {
+    "date": "1776-12",
+    "event": "Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later."
+   },
+   {
+    "date": "1781-10-19",
+    "event": "Lord Cornwallis surrenders the British army at Yorktown, Virginia."
+   },
+   {
+    "date": "1783-12-23",
+    "event": "Resigns his commission to Congress at Annapolis, Maryland."
+   },
+   {
+    "date": "1787-05-25",
+    "event": "Elected president of the Constitutional Convention in Philadelphia."
+   },
+   {
+    "date": "1789-04-30",
+    "event": "Takes the oath as the first president at Federal Hall in New York City."
+   },
+   {
+    "date": "1791-11-04",
+    "event": "Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash."
+   },
+   {
+    "date": "1793-04",
+    "event": "Issues a proclamation of neutrality in the war between France and Britain."
+   },
+   {
+    "date": "1796-09-19",
+    "event": "His Farewell Address appears in a Philadelphia newspaper."
+   },
+   {
+    "date": "1797-03-04",
+    "event": "Leaves office after two terms."
+   },
+   {
+    "date": "1799-12-14",
+    "event": "Dies at Mount Vernon of an acute throat infection."
+   },
+   {
+    "date": "1801-01-01",
+    "event": "The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission."
+   }
+  ],
+  "misconception": {
+   "myth": "George Washington wore wooden false teeth.",
+   "fact": "Mount Vernon finds no wood in any of his dentures; they were made of human teeth, ivory, metal and probably cow and horse teeth, and staining could make them look like wood.",
+   "why": "The myth hides a harder story, since some of the human teeth available to him may have come from enslaved people at Mount Vernon."
+  },
+  "source_urls": [
+   "https://millercenter.org/president/washington/life-in-brief",
+   "https://millercenter.org/node/69",
+   "https://millercenter.org/president/washington/foreign-affairs",
+   "https://encyclopediavirginia.org/entries/washington-george-1732-1799/",
+   "https://www.nps.gov/gewa/learn/historyculture/george-washington.htm",
+   "https://www.mountvernon.org/george-washington/slavery/washingtons-1799-will/",
+   "https://mountvernon.org/george-washington/facts/ten-misconceptions-about-washington",
+   "https://mountvernon.org/digital-encyclopedia/article/false-teeth",
+   "https://mountvernon.org/george-washington/facts/a-history-of-washingtons-dental-troubles",
+   "https://www.potawatomi.org/blog/2019/07/15/little-turtles-war-and-native-americas-greatest-victory-over-american-forces/",
+   "https://founders.archives.gov/documents/Washington/05-20-02-0440-0002"
+  ]
+ },
+ {
   "id": "us:great-railroad-strike-of-1877",
   "title": "Great Railroad Strike of 1877",
   "aliases": [

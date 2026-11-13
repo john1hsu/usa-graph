@@ -76,6 +76,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:constitutional-convention` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
+| `us:george-washington` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
@@ -110,6 +111,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 
 | office | person | born |
 |---|---|---|
+| `us:presidency-of-the-united-states` | `us:george-washington` | 1732-02-22 |
 | `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:united-states-minister-to-haiti` | `us:frederick-douglass` | 1818-02 |

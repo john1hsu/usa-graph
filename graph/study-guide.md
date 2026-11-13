@@ -410,6 +410,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
   **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
 
+### [George Washington](../articles/presidents-and-founders/george-washington.md) — Person
+
+| Myth | Fact |
+|---|---|
+| George Washington wore wooden false teeth. | Mount Vernon finds no wood in any of his dentures; they were made of human teeth, ivory, metal and probably cow and horse teeth, and staining could make them look like wood. |
+
+**Why it matters:** The myth hides a harder story, since some of the human teeth available to him may have come from enslaved people at Mount Vernon.
+
+- **Q:** Why did Washington's will free only 123 of the 317 enslaved people living at Mount Vernon in 1799?
+  **A:** Only 123 belonged to him; 153 were "dower" slaves from the estate of Martha Washington's first husband, which neither spouse could legally free and which passed to the Custis grandchildren, and 40 more were rented from a neighbor.
+- **Q:** How did the Western Confederacy's victory over Arthur St. Clair in 1791 change Washington's frontier policy?
+  **A:** After more than 630 of St. Clair's roughly 930 soldiers were killed, Washington and Congress built a larger, professionally trained Legion of the United States under Anthony Wayne, which won at Fallen Timbers in 1794 and forced the 1795 Treaty of Greenville cessions.
+- **Q:** Why do historians disagree about whether Washington stood above party politics?
+  **A:** He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800.
+
 ### [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) — Person
 
 | Myth | Fact |

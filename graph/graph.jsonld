@@ -1443,6 +1443,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Mount Vernon finds no wood in any of his dentures; they were made of human teeth, ivory, metal and probably cow and horse teeth, and staining could make them look like wood.",
+   "uso:myth": "George Washington wore wooden false teeth.",
+   "uso:why": "The myth hides a harder story, since some of the human teeth available to him may have come from enslaved people at Mount Vernon."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Washington's will free only 123 of the 317 enslaved people living at Mount Vernon in 1799?",
+   "uso:answer": "Only 123 belonged to him; 153 were \"dower\" slaves from the estate of Martha Washington's first husband, which neither spouse could legally free and which passed to the Custis grandchildren, and 40 more were rented from a neighbor.",
+   "uso:questionFor": {
+    "@id": "us:george-washington"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Western Confederacy's victory over Arthur St. Clair in 1791 change Washington's frontier policy?",
+   "uso:answer": "After more than 630 of St. Clair's roughly 930 soldiers were killed, Washington and Congress built a larger, professionally trained Legion of the United States under Anthony Wayne, which won at Fallen Timbers in 1794 and forced the 1795 Treaty of Greenville cessions.",
+   "uso:questionFor": {
+    "@id": "us:george-washington"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about whether Washington stood above party politics?",
+   "uso:answer": "He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800.",
+   "uso:questionFor": {
+    "@id": "us:george-washington"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born at Popes Creek in Westmoreland County, Virginia (February 11 under the Julian calendar then in use).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1732-02-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1791-11-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Issues a proclamation of neutrality in the war between France and Britain.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1793-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "His Farewell Address appears in a Philadelphia newspaper.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1796-09-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leaves office after two terms.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1797-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at Mount Vernon of an acute throat infection.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1799-12-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1754-07-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1759-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Second Continental Congress appoints him commander in chief of the new Continental Army.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1776-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lord Cornwallis surrenders the British army at Yorktown, Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Resigns his commission to Congress at Annapolis, Maryland.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-12-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected president of the Constitutional Convention in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes the oath as the first president at Federal Hall in New York City.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-30"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places.",
@@ -4739,6 +4908,160 @@
     "@id": "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "George Washington: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/washington/life-in-brief"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Citizen Potawatomi Nation, Public Information Office",
+   "dcterms:title": "Little Turtle's War and Native America's greatest victory over American forces",
+   "schema:url": {
+    "@id": "https://www.potawatomi.org/blog/2019/07/15/little-turtles-war-and-native-americas-greatest-victory-over-american-forces/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of George Washington, Presidential Series, vol. 20)",
+   "dcterms:title": "Farewell Address, 19 September 1796",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Washington/05-20-02-0440-0002"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "George Washington: Life Before the Presidency",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/69"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "George Washington: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/washington/foreign-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Henry Wiencek, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "George Washington (1732–1799)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/washington-george-1732-1799/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service, George Washington Birthplace National Monument",
+   "dcterms:title": "George Washington",
+   "schema:url": {
+    "@id": "https://www.nps.gov/gewa/learn/historyculture/george-washington.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon (Mount Vernon Ladies' Association)",
+   "dcterms:title": "Washington's 1799 Will",
+   "schema:url": {
+    "@id": "https://www.mountvernon.org/george-washington/slavery/washingtons-1799-will/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon (Mount Vernon Ladies' Association)",
+   "dcterms:title": "Ten Misconceptions about Washington",
+   "schema:url": {
+    "@id": "https://mountvernon.org/george-washington/facts/ten-misconceptions-about-washington"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon, Digital Encyclopedia",
+   "dcterms:title": "False Teeth",
+   "schema:url": {
+    "@id": "https://mountvernon.org/digital-encyclopedia/article/false-teeth"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon (Mount Vernon Ladies' Association)",
+   "dcterms:title": "A History of Washington's Dental Troubles",
+   "schema:url": {
+    "@id": "https://mountvernon.org/george-washington/facts/a-history-of-washingtons-dental-troubles"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1",
@@ -9539,6 +9862,198 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/frederick-douglass/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:george-washington",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s9"
+    }
+   ],
+   "rdfs:label": "George Washington",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1732-02-22"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1799-12-14"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1799-12-14"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1732-02-22"
+   },
+   "skos:altLabel": [
+    "1st President of the United States",
+    "General Washington",
+    "President Washington",
+    "Washington"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "A Virginia planter, surveyor and soldier (1732–1799) who commanded the Continental Army in the American Revolutionary War, presided over the Constitutional Convention and served as the first president of the United States (1789–1797), setting many precedents of the office while enslaving hundreds of people at Mount Vernon.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "George Washington",
+   "skos:related": [
+    {
+     "@id": "us:alexander-hamilton"
+    },
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:farewell-address"
+    },
+    {
+     "@id": "us:french-and-indian-war"
+    },
+    {
+     "@id": "us:jay-treaty"
+    },
+    {
+     "@id": "us:martha-washington"
+    },
+    {
+     "@id": "us:mount-vernon"
+    },
+    {
+     "@id": "us:neutrality-proclamation"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:treaty-of-greenville"
+    },
+    {
+     "@id": "us:washington-cherry-tree-myth"
+    },
+    {
+     "@id": "us:washington-wooden-teeth-myth"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/george-washington.md",
+   "uso:heldOffice": {
+    "@id": "us:presidency-of-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:second-continental-congress"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:northwest-indian-war"
+    },
+    {
+     "@id": "us:whiskey-rebellion"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9"
     }
    ]
   },

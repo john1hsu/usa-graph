@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 2.88 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 3.02 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
+| 2.78 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.59 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
-| 2.48 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.15 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
-| 1.89 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
+| 1.88 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
+| 1.84 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.84 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |
-| 1.78 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.77 | `us:articles-of-confederation` | `us:morrill-land-grant-college-act` | `us:northwest-ordinance`, `us:united-states-congress` |
-| 1.73 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.68 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
+| 1.67 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 1.66 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.62 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.62 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 1.60 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
 | 1.55 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
 | 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |
 | 1.44 | `us:panic-of-1873` | `us:siege-of-vicksburg` | `us:ulysses-s-grant` |
-| 1.37 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 1.41 | `us:articles-of-confederation` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:george-washington`, `us:second-continental-congress` |
+| 1.41 | `us:articles-of-confederation` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:united-states-constitution` |
+| 1.36 | `us:american-civil-war` | `us:united-states-constitution` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| 1.35 | `us:george-washington` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states` |
 | 1.29 | `us:jim-crow-laws` | `us:slavery-in-the-united-states` | `us:african-american-history`, `us:jazz` |
-| 1.26 | `us:articles-of-confederation` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:second-continental-congress` |
-| 1.25 | `us:frederick-douglass` | `us:jim-crow-laws` | `us:african-american-history`, `us:fifteenth-amendment` |
-| 1.12 | `us:american-civil-war` | `us:mississippi-river` | `us:siege-of-vicksburg`, `us:united-states` |
-| 1.08 | `us:fifteenth-amendment` | `us:slavery-in-the-united-states` | `us:frederick-douglass`, `us:thirteenth-amendment`, `us:united-states-constitution` |
-| 1.07 | `us:articles-of-confederation` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:united-states-constitution` |
-| 1.06 | `us:declaration-of-independence` | `us:united-states-congress` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:united-states-constitution` |
