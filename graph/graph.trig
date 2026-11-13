@@ -173,6 +173,15 @@
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s4> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s5> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/lattimer-massacre.md" .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> .
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/panic-of-1873.md" .
@@ -2872,6 +2881,128 @@
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <https://schema.org/url> <https://www.heinzhistorycenter.org/?p=1110> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> {
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The marchers had agreed not to carry firearms or clubs, the state's historical marker and a National Park Service study describe them as unarmed, and over a dozen marchers were shot in the back while fleeing; exactly how the first shots came is still debated." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The \"Lattimer riots\" were a violent uprising by armed foreign miners that deputies had to put down." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Early newspaper accounts came largely from the sheriff and coal-company sympathizers, the trial records have been lost, and nativist hostility toward Slavic immigrants made the \"riot\" label easy to accept, so some newspapers still used it in the 1930s." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why were the Lattimer marchers on strike, and why were immigrant miners especially vulnerable in 1897?" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "They were protesting low wages, high prices for supplies the company sold them and abuses by company-town staff. As recent Polish, Slovak and Lithuanian immigrants, none of them citizens, they faced nativist hostility, a new state tax on employers of non-citizens, and a sheriff's posse drawn from Anglo-American townspeople and company agents." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did a massacre that ended in acquittals end up strengthening the miners' union?" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The killings united the region's immigrant communities and disproved the idea that Slavic and Italian workers were docile; within four months more than 15,000 anthracite workers joined the United Mine Workers, which under John Mitchell led the 1900 and 1902 strikes that brought presidential intervention." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Lattimer massacre fade from national memory, and how was it revived?" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Scholars point to the victims' ethnicity, nativist attitudes, the site's rural remoteness and coal operators' interest in forgetting. Interest revived in the civil rights era, leading to a 1972 memorial dedicated with Cesar Chavez, centennial markers in 1997 and an archaeological survey in 2010." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania enacts the Campbell Act, a tax of three cents a day on coal operators for each non-citizen they employ." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1897-08-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1897-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The jury acquits all the defendants." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "A UMW-led anthracite strike of about 125,000 workers ends." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1900-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Miners return to work after the five-month anthracite strike of 1902." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1902-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1972-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The centennial is marked with new state markers and remarks in the Congressional Record." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1997-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://purl.org/dc/terms/created> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2000/01/rdf-schema#label> "Lattimer massacre" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#altLabel> "Lattimer Massacre of 1897" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#altLabel> "Lattimer riots" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#definition> "The killing of at least nineteen unarmed striking coal miners, nearly all Polish, Slovak and Lithuanian immigrants, by a Luzerne County sheriff's posse on the road to Lattimer, Pennsylvania, on September 10, 1897; the sheriff and his deputies were acquitted, and the killings drove thousands of anthracite miners into the United Mine Workers." .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lattimer massacre" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/coal-and-iron-police> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/homestead-strike> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-mitchell> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#domain> "economy-and-work" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/economy-and-work/lattimer-massacre.md" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/anthracite-coal-strike-of-1902> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://schema.org/endDate> "1897-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://schema.org/startDate> "1897-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <http://purl.org/dc/terms/publisher> "National Park Service / Pennsylvania Historical and Museum Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <http://purl.org/dc/terms/title> "Anthracite-Related Resources of Northeastern Pennsylvania, 1769-1945 (National Register of Historic Places Multiple Property Documentation Form)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1> <https://schema.org/url> <https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500524_text> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <http://purl.org/dc/terms/publisher> "ExplorePAHistory.com (WITF)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <http://purl.org/dc/terms/title> "Lattimer Massacre (Pennsylvania historical marker)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2> <https://schema.org/url> <https://explorepahistory.com/hmarker.php%3FmarkerId=1-A-3BA.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <http://purl.org/dc/terms/publisher> "ExplorePAHistory.com (WITF)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <http://purl.org/dc/terms/title> "Lattimer Massacre: Background Information for Teachers" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3> <https://schema.org/url> <https://explorepahistory.com/lesson_background.php%3Fid=1-D-27.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <http://purl.org/dc/terms/publisher> "Paul A. Shackel and Michael Roller, University of Maryland" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <http://purl.org/dc/terms/title> "The Gilded Age Wasn't So Gilded in the Anthracite Region of Pennsylvania (International Journal of Historical Archaeology 16:4, 2012, doi 10.1007/s10761-012-0203-0)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4> <https://schema.org/url> <https://anth.umd.edu/sites/anth.umd.edu/files/pubs/IJHA%20Gilded%20Age%20(1).pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine, by Paul A. Shackel" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <http://purl.org/dc/terms/title> "How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing Crisis to Forgotten History" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5> <https://schema.org/url> <https://www.smithsonianmag.com/history/how-1897-massacre-pennsylvania-coal-miners-morphed-galvanizing-crisis-forgotten-history-180971695/> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (GovInfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <http://purl.org/dc/terms/title> "Congressional Record, Extensions of Remarks, September 10, 1997 (Rep. Paul E. Kanjorski on the Lattimer Massacre centennial)" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/CREC-1997-09-10/html/CREC-1997-09-10-pt1-PgE1714.htm> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> {
@@ -5666,6 +5797,7 @@
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/annapolis-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/anthracite-coal-strike-of-1902> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -5767,6 +5899,7 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/coal-and-iron-police> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/coinage-act-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
@@ -6042,6 +6175,7 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -6062,6 +6196,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -6081,6 +6216,7 @@
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
@@ -6219,6 +6355,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/john-mitchell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/john-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -6228,7 +6365,10 @@
   <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/korematsu-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -6236,6 +6376,22 @@
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -6432,6 +6588,7 @@
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -6744,6 +6901,7 @@
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .

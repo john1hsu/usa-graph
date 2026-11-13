@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
+| `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
@@ -64,6 +65,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
+| `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -81,6 +83,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
+| `us:lattimer-massacre` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
@@ -92,9 +95,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:pennsylvania` | uso:State |
+_No results._
 
 ## Orphan articles (gap)
 

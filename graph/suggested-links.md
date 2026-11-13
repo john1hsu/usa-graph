@@ -7,6 +7,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.01 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.78 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.59 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
+| 2.18 | `us:lattimer-massacre` | `us:panic-of-1873` | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:labor-movement` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.14 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |
 | 1.44 | `us:panic-of-1873` | `us:siege-of-vicksburg` | `us:ulysses-s-grant` |
 | 1.40 | `us:articles-of-confederation` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:george-washington`, `us:second-continental-congress` |
-| 1.39 | `us:articles-of-confederation` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:united-states-constitution` |

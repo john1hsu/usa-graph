@@ -2358,6 +2358,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The marchers had agreed not to carry firearms or clubs, the state's historical marker and a National Park Service study describe them as unarmed, and over a dozen marchers were shot in the back while fleeing; exactly how the first shots came is still debated.",
+   "uso:myth": "The \"Lattimer riots\" were a violent uprising by armed foreign miners that deputies had to put down.",
+   "uso:why": "Early newspaper accounts came largely from the sheriff and coal-company sympathizers, the trial records have been lost, and nativist hostility toward Slavic immigrants made the \"riot\" label easy to accept, so some newspapers still used it in the 1930s."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why were the Lattimer marchers on strike, and why were immigrant miners especially vulnerable in 1897?",
+   "uso:answer": "They were protesting low wages, high prices for supplies the company sold them and abuses by company-town staff. As recent Polish, Slovak and Lithuanian immigrants, none of them citizens, they faced nativist hostility, a new state tax on employers of non-citizens, and a sheriff's posse drawn from Anglo-American townspeople and company agents.",
+   "uso:questionFor": {
+    "@id": "us:lattimer-massacre"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a massacre that ended in acquittals end up strengthening the miners' union?",
+   "uso:answer": "The killings united the region's immigrant communities and disproved the idea that Slavic and Italian workers were docile; within four months more than 15,000 anthracite workers joined the United Mine Workers, which under John Mitchell led the 1900 and 1902 strikes that brought presidential intervention.",
+   "uso:questionFor": {
+    "@id": "us:lattimer-massacre"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Lattimer massacre fade from national memory, and how was it revived?",
+   "uso:answer": "Scholars point to the victims' ethnicity, nativist attitudes, the site's rural remoteness and coal operators' interest in forgetting. Interest revived in the civil rights era, leading to a 1972 memorial dedicated with Cesar Chavez, centennial markers in 1997 and an archaeological survey in 2010.",
+   "uso:questionFor": {
+    "@id": "us:lattimer-massacre"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania enacts the Campbell Act, a tax of three cents a day on coal operators for each non-citizen they employ.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1897-08-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1897-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The jury acquits all the defendants.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A UMW-led anthracite strike of about 125,000 workers ends.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1900-10-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Miners return to work after the five-month anthracite strike of 1902.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1902-10-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1972-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The centennial is marked with new state markers and remarks in the Congressional Record.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1997-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2010"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count.",
@@ -5813,6 +5928,90 @@
     "@id": "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "National Park Service / Pennsylvania Historical and Museum Commission",
+   "dcterms:title": "Anthracite-Related Resources of Northeastern Pennsylvania, 1769-1945 (National Register of Historic Places Multiple Property Documentation Form)",
+   "schema:url": {
+    "@id": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500524_text"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "ExplorePAHistory.com (WITF)",
+   "dcterms:title": "Lattimer Massacre (Pennsylvania historical marker)",
+   "schema:url": {
+    "@id": "https://explorepahistory.com/hmarker.php%3FmarkerId=1-A-3BA.html"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "ExplorePAHistory.com (WITF)",
+   "dcterms:title": "Lattimer Massacre: Background Information for Teachers",
+   "schema:url": {
+    "@id": "https://explorepahistory.com/lesson_background.php%3Fid=1-D-27.html"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Paul A. Shackel and Michael Roller, University of Maryland",
+   "dcterms:title": "The Gilded Age Wasn't So Gilded in the Anthracite Region of Pennsylvania (International Journal of Historical Archaeology 16:4, 2012, doi 10.1007/s10761-012-0203-0)",
+   "schema:url": {
+    "@id": "https://anth.umd.edu/sites/anth.umd.edu/files/pubs/IJHA%20Gilded%20Age%20(1).pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "Smithsonian Magazine, by Paul A. Shackel",
+   "dcterms:title": "How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing Crisis to Forgotten History",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/how-1897-massacre-pennsylvania-coal-miners-morphed-galvanizing-crisis-forgotten-history-180971695/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (GovInfo)",
+   "dcterms:title": "Congressional Record, Extensions of Remarks, September 10, 1997 (Rep. Paul E. Kanjorski on the Lattimer Massacre centennial)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/CREC-1997-09-10/html/CREC-1997-09-10-pt1-PgE1714.htm"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1",
@@ -11198,6 +11397,120 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/jim-crow-laws/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:lattimer-massacre",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-13"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6"
+    }
+   ],
+   "rdfs:label": "Lattimer massacre",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1897-09-10"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1897-09-10"
+   },
+   "skos:altLabel": [
+    "Lattimer Massacre of 1897",
+    "Lattimer riots"
+   ],
+   "skos:broader": {
+    "@id": "us:labor-history-of-the-united-states"
+   },
+   "skos:definition": "The killing of at least nineteen unarmed striking coal miners, nearly all Polish, Slovak and Lithuanian immigrants, by a Luzerne County sheriff's posse on the road to Lattimer, Pennsylvania, on September 10, 1897; the sheriff and his deputies were acquitted, and the killings drove thousands of anthracite miners into the United Mine Workers.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Lattimer massacre",
+   "skos:related": [
+    {
+     "@id": "us:coal-and-iron-police"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:homestead-strike"
+    },
+    {
+     "@id": "us:john-mitchell"
+    },
+    {
+     "@id": "us:labor-movement"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:united-mine-workers-of-america"
+   },
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/economy-and-work/lattimer-massacre.md",
+   "uso:ledTo": {
+    "@id": "us:anthracite-coal-strike-of-1902"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:gilded-age"
+   },
+   "uso:occurredIn": {
+    "@id": "us:pennsylvania"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9"
     }
    ]
   },

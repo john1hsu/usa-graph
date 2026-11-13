@@ -308,10 +308,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
 | 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1897-08-21 | Pennsylvania enacts the Campbell Act, a tax of three cents a day on coal operators for each non-citizen they employ. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1897-09-10 | **[Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md)** (Event) |
+| 1897-09-10 | Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -376,6 +383,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -385,6 +393,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
@@ -406,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

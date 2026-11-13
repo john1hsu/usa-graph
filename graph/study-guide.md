@@ -278,6 +278,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What lessons did workers and employers each draw from the strike?
   **A:** Many workers concluded they needed lasting, organized unions, while businesses concluded they needed more political influence and government help, including better-prepared state forces to deal with future labor unrest.
 
+### [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The "Lattimer riots" were a violent uprising by armed foreign miners that deputies had to put down. | The marchers had agreed not to carry firearms or clubs, the state's historical marker and a National Park Service study describe them as unarmed, and over a dozen marchers were shot in the back while fleeing; exactly how the first shots came is still debated. |
+
+**Why it matters:** Early newspaper accounts came largely from the sheriff and coal-company sympathizers, the trial records have been lost, and nativist hostility toward Slavic immigrants made the "riot" label easy to accept, so some newspapers still used it in the 1930s.
+
+- **Q:** Why were the Lattimer marchers on strike, and why were immigrant miners especially vulnerable in 1897?
+  **A:** They were protesting low wages, high prices for supplies the company sold them and abuses by company-town staff. As recent Polish, Slovak and Lithuanian immigrants, none of them citizens, they faced nativist hostility, a new state tax on employers of non-citizens, and a sheriff's posse drawn from Anglo-American townspeople and company agents.
+- **Q:** How did a massacre that ended in acquittals end up strengthening the miners' union?
+  **A:** The killings united the region's immigrant communities and disproved the idea that Slavic and Italian workers were docile; within four months more than 15,000 anthracite workers joined the United Mine Workers, which under John Mitchell led the 1900 and 1902 strikes that brought presidential intervention.
+- **Q:** Why did the Lattimer massacre fade from national memory, and how was it revived?
+  **A:** Scholars point to the victims' ethnicity, nativist attitudes, the site's rural remoteness and coal operators' interest in forgetting. Interest revived in the civil rights era, leading to a 1972 memorial dedicated with Cesar Chavez, centennial markers in 1997 and an archaeological survey in 2010.
+
 ### [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) — Event
 
 | Myth | Fact |
