@@ -413,6 +413,202 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Britain still had about 26,000 troops in North America after Yorktown, fighting went on in the West and South into late 1782, the peace treaty was signed only on September 3, 1783, and the British did not leave New York City until November 25, 1783.",
+   "uso:myth": "The Revolutionary War ended when Cornwallis surrendered at Yorktown in October 1781.",
+   "uso:why": "Yorktown was the last great battle in the East and broke Britain's will to keep fighting, so later histories let the surrender stand for the whole victory and forgot the two years of frontier war, evacuation and diplomacy that followed."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the American victory at Saratoga matter far beyond the battlefield?",
+   "uso:answer": "It was the first surrender of a British army to another nation, and the news persuaded France's foreign minister to offer a formal alliance; the treaties signed in February 1778 brought French money, troops and ships and turned the rebellion into a global war.",
+   "uso:questionFor": {
+    "@id": "us:american-revolutionary-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did most Native nations side with Britain, and how did the war turn out for them?",
+   "uso:answer": "Nations such as the Shawnee, Creek, Cherokee and most of the Six Nations hoped a British victory would hold back settlers west of the Appalachians; American victory opened those lands to expansion, and even the Oneida, who fought for the Americans, lost villages in the war and saw promises to protect their lands go unenforced.",
+   "uso:questionFor": {
+    "@id": "us:american-revolutionary-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the war open paths to freedom for enslaved people, and why were those paths limited?",
+   "uso:answer": "British offers of freedom such as Dunmore's 1775 proclamation led tens of thousands to flee their enslavers, and some Black men won freedom by serving in American units; but many who reached British lines were still held by loyalists, and the evacuations of 1782–1783 carried some to freedom in Nova Scotia and others onward in slavery.",
+   "uso:questionFor": {
+    "@id": "us:american-revolutionary-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the war not end immediately after Yorktown?",
+   "uso:answer": "Britain still held New York, Charleston and other posts with about 26,000 troops, frontier warfare continued, and peace required a change of government in London, preliminary articles in November 1782 and a final treaty in September 1783.",
+   "uso:questionFor": {
+    "@id": "us:american-revolutionary-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-04-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cornwallis's army surrenders to American and French forces at Yorktown, Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lord North resigns as prime minister; the new British government opens peace talks in Paris.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-03-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-08-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "American and British commissioners sign preliminary articles of peace.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-11-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The British evacuate Charleston, South Carolina, taking loyalists and thousands of Black people with them.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-12-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Paris is signed, ending the war and recognizing American independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-09-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British forces leave New York City, their last stronghold in the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-11-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New England militia begin the siege of British-held Boston.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-04-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Continental Congress votes to raise a Continental Army and the next day unanimously chooses George Washington to command it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-06-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After losing New York, Washington crosses the Delaware and surprises the Hessian garrison at Trenton.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-12-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-10-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "American commissioners sign the Treaty of Alliance and the Treaty of Amity and Commerce with France.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1778-02-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spain enters the war against Britain.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1779-06-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1780"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen.",
@@ -7028,6 +7224,188 @@
     "@id": "https://www.digitalhistory.uh.edu/teachers/modules/civwar/historiography.cfm"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Michael Hattem, ed., The American Yawp (Stanford University Press)",
+   "dcterms:title": "5. The American Revolution",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/?p=67"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service (compiled by Park Ranger William Sawyer)",
+   "dcterms:title": "The Oneida Nation in the American Revolution",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/the-oneida-nation-in-the-american-revolution.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Fort Sumter and Fort Moultrie National Historical Park",
+   "dcterms:title": "Liberty Won and Lost: The British Evacuation of Charleston",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/british-evacuation-of-charleston.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Kentucky National Guard History eMuseum (Commonwealth of Kentucky)",
+   "dcterms:title": "Battle of Blue Licks",
+   "schema:url": {
+    "@id": "https://kynghistory.ky.gov/Media/Paintings/Pages/Battle-of-Blue-Licks.aspx"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of Veterans Affairs, Office of Public Affairs",
+   "dcterms:title": "America's Wars (fact sheet)",
+   "schema:url": {
+    "@id": "https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf?"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Minute Man National Historical Park",
+   "dcterms:title": "April 19, 1775",
+   "schema:url": {
+    "@id": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "George Washington's Commission as Commander in Chief",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/washingtoncommission.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Saratoga National Historical Park",
+   "dcterms:title": "Saratoga Surrender Site",
+   "schema:url": {
+    "@id": "https://home.nps.gov/places/saratoga-surrender-site.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Franco-American Alliance (Milestones: 1776–1783)",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/french-alliance"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Colonial National Historical Park (Yorktown Battlefield)",
+   "dcterms:title": "History of the Siege",
+   "schema:url": {
+    "@id": "https://www.nps.gov/YORK/HISTORYCULTURE/HISTORY-OF-THE-SIEGE.HTM"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Colonial National Historical Park (Yorktown Battlefield)",
+   "dcterms:title": "Chronology of Events After The Siege",
+   "schema:url": {
+    "@id": "https://www.nps.gov/york/learn/historyculture/afterthesiege.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Treaty of Paris, 1783 (Milestones: 1776–1783)",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/treaty"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon (Mount Vernon Ladies' Association)",
+   "dcterms:title": "African Americans in the Revolutionary War",
+   "schema:url": {
+    "@id": "https://www.mountvernon.org/george-washington/the-revolutionary-war/african-americans-in-the-revolutionary-war/"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1",
@@ -15476,6 +15854,192 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/american-civil-war/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:american-revolutionary-war",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/american-revolutionary-war/s9"
+    }
+   ],
+   "rdfs:label": "American Revolutionary War",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1783-09-03"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1775-04-19"
+   },
+   "skos:altLabel": [
+    "American War of Independence",
+    "Revolutionary War",
+    "War of Independence"
+   ],
+   "skos:broader": {
+    "@id": "us:wars-of-the-united-states"
+   },
+   "skos:definition": "The war of 1775–1783 in which thirteen British colonies, allied from 1778 with France and later joined in the wider war by Spain and the Dutch Republic, fought Great Britain and won recognition of the independence of the United States in the Treaty of Paris.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "American Revolutionary War",
+   "skos:related": [
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:battle-of-saratoga"
+    },
+    {
+     "@id": "us:battles-of-lexington-and-concord"
+    },
+    {
+     "@id": "us:continental-army"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:dunmores-proclamation"
+    },
+    {
+     "@id": "us:french-and-indian-war"
+    },
+    {
+     "@id": "us:loyalists"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:siege-of-yorktown"
+    },
+    {
+     "@id": "us:treaty-of-alliance-1778"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:haudenosaunee"
+    }
+   ],
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/colonial-and-revolutionary/american-revolutionary-war.md",
+   "uso:ledBy": {
+    "@id": "us:george-washington"
+   },
+   "uso:ledTo": {
+    "@id": "us:treaty-of-paris-1783"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:thirteen-colonies"
+   },
+   "uso:requires": {
+    "@id": "us:thirteen-colonies"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/9"
     }
    ]
   },

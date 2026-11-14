@@ -510,6 +510,216 @@
   ]
  },
  {
+  "id": "us:american-revolutionary-war",
+  "title": "American Revolutionary War",
+  "aliases": [
+   "Revolutionary War",
+   "American War of Independence",
+   "War of Independence"
+  ],
+  "type": "Conflict",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/colonial-and-revolutionary/american-revolutionary-war.md",
+  "created": "2026-11-14",
+  "summary": "The war of 1775–1783 in which thirteen British colonies, allied from 1778 with France and later joined in the wider war by Spain and the Dutch Republic, fought Great Britain and won recognition of the independence of the United States in the Treaty of Paris.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:wars-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battles-of-lexington-and-concord"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-saratoga"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-yorktown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:continental-army"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-alliance-1778"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dunmores-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:loyalists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:french-and-indian-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:george-washington",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:thirteen-colonies",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-paris-1783",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:haudenosaunee",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1775-04-19",
+  "end": "1783-09-03",
+  "review": [
+   {
+    "question": "Why did the American victory at Saratoga matter far beyond the battlefield?",
+    "answer": "It was the first surrender of a British army to another nation, and the news persuaded France's foreign minister to offer a formal alliance; the treaties signed in February 1778 brought French money, troops and ships and turned the rebellion into a global war."
+   },
+   {
+    "question": "Why did most Native nations side with Britain, and how did the war turn out for them?",
+    "answer": "Nations such as the Shawnee, Creek, Cherokee and most of the Six Nations hoped a British victory would hold back settlers west of the Appalachians; American victory opened those lands to expansion, and even the Oneida, who fought for the Americans, lost villages in the war and saw promises to protect their lands go unenforced."
+   },
+   {
+    "question": "How did the war open paths to freedom for enslaved people, and why were those paths limited?",
+    "answer": "British offers of freedom such as Dunmore's 1775 proclamation led tens of thousands to flee their enslavers, and some Black men won freedom by serving in American units; but many who reached British lines were still held by loyalists, and the evacuations of 1782–1783 carried some to freedom in Nova Scotia and others onward in slavery."
+   },
+   {
+    "question": "Why did the war not end immediately after Yorktown?",
+    "answer": "Britain still held New York, Charleston and other posts with about 26,000 troops, frontier warfare continued, and peace required a change of government in London, preliminary articles in November 1782 and a final treaty in September 1783."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1775-04-19",
+    "event": "British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war."
+   },
+   {
+    "date": "1775-04-20",
+    "event": "New England militia begin the siege of British-held Boston."
+   },
+   {
+    "date": "1775-06-14",
+    "event": "The Continental Congress votes to raise a Continental Army and the next day unanimously chooses George Washington to command it."
+   },
+   {
+    "date": "1776-12-25",
+    "event": "After losing New York, Washington crosses the Delaware and surprises the Hessian garrison at Trenton."
+   },
+   {
+    "date": "1777-08-06",
+    "event": "Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war."
+   },
+   {
+    "date": "1777-10-17",
+    "event": "John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York."
+   },
+   {
+    "date": "1778-02-06",
+    "event": "American commissioners sign the Treaty of Alliance and the Treaty of Amity and Commerce with France."
+   },
+   {
+    "date": "1779-06-21",
+    "event": "Spain enters the war against Britain."
+   },
+   {
+    "date": "1780",
+    "event": "One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations."
+   },
+   {
+    "date": "1781-09-05",
+    "event": "The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake."
+   },
+   {
+    "date": "1781-10-19",
+    "event": "Cornwallis's army surrenders to American and French forces at Yorktown, Virginia."
+   },
+   {
+    "date": "1782-03-20",
+    "event": "Lord North resigns as prime minister; the new British government opens peace talks in Paris."
+   },
+   {
+    "date": "1782-08-19",
+    "event": "British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown."
+   },
+   {
+    "date": "1782-11-30",
+    "event": "American and British commissioners sign preliminary articles of peace."
+   },
+   {
+    "date": "1782-12-14",
+    "event": "The British evacuate Charleston, South Carolina, taking loyalists and thousands of Black people with them."
+   },
+   {
+    "date": "1783-09-03",
+    "event": "The Treaty of Paris is signed, ending the war and recognizing American independence."
+   },
+   {
+    "date": "1783-11-25",
+    "event": "British forces leave New York City, their last stronghold in the United States."
+   }
+  ],
+  "misconception": {
+   "myth": "The Revolutionary War ended when Cornwallis surrendered at Yorktown in October 1781.",
+   "fact": "Britain still had about 26,000 troops in North America after Yorktown, fighting went on in the West and South into late 1782, the peace treaty was signed only on September 3, 1783, and the British did not leave New York City until November 25, 1783.",
+   "why": "Yorktown was the last great battle in the East and broke Britain's will to keep fighting, so later histories let the surrender stand for the whole victory and forgot the two years of frontier war, evacuation and diplomacy that followed."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/text/?p=67",
+   "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm",
+   "https://home.nps.gov/articles/000/washingtoncommission.htm",
+   "https://home.nps.gov/places/saratoga-surrender-site.htm",
+   "https://history.state.gov/milestones/1776-1783/french-alliance",
+   "https://www.nps.gov/YORK/HISTORYCULTURE/HISTORY-OF-THE-SIEGE.HTM",
+   "https://www.nps.gov/york/learn/historyculture/afterthesiege.htm",
+   "https://history.state.gov/milestones/1776-1783/treaty",
+   "https://www.mountvernon.org/george-washington/the-revolutionary-war/african-americans-in-the-revolutionary-war/",
+   "https://www.nps.gov/articles/the-oneida-nation-in-the-american-revolution.htm",
+   "https://www.nps.gov/articles/000/british-evacuation-of-charleston.htm",
+   "https://kynghistory.ky.gov/Media/Paintings/Pages/Battle-of-Blue-Licks.aspx",
+   "https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf?"
+  ]
+ },
+ {
   "id": "us:articles-of-confederation",
   "title": "Articles of Confederation",
   "aliases": [

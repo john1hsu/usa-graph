@@ -100,6 +100,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## colonial-and-revolutionary
 
+### [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| The Revolutionary War ended when Cornwallis surrendered at Yorktown in October 1781. | Britain still had about 26,000 troops in North America after Yorktown, fighting went on in the West and South into late 1782, the peace treaty was signed only on September 3, 1783, and the British did not leave New York City until November 25, 1783. |
+
+**Why it matters:** Yorktown was the last great battle in the East and broke Britain's will to keep fighting, so later histories let the surrender stand for the whole victory and forgot the two years of frontier war, evacuation and diplomacy that followed.
+
+- **Q:** Why did the American victory at Saratoga matter far beyond the battlefield?
+  **A:** It was the first surrender of a British army to another nation, and the news persuaded France's foreign minister to offer a formal alliance; the treaties signed in February 1778 brought French money, troops and ships and turned the rebellion into a global war.
+- **Q:** Why did most Native nations side with Britain, and how did the war turn out for them?
+  **A:** Nations such as the Shawnee, Creek, Cherokee and most of the Six Nations hoped a British victory would hold back settlers west of the Appalachians; American victory opened those lands to expansion, and even the Oneida, who fought for the Americans, lost villages in the war and saw promises to protect their lands go unenforced.
+- **Q:** How did the war open paths to freedom for enslaved people, and why were those paths limited?
+  **A:** British offers of freedom such as Dunmore's 1775 proclamation led tens of thousands to flee their enslavers, and some Black men won freedom by serving in American units; but many who reached British lines were still held by loyalists, and the evacuations of 1782–1783 carried some to freedom in Nova Scotia and others onward in slavery.
+- **Q:** Why did the war not end immediately after Yorktown?
+  **A:** Britain still held New York, Charleston and other posts with about 26,000 troops, frontier warfare continued, and peace required a change of government in London, preliminary articles in November 1782 and a final treaty in September 1783.
+
 ### [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) — Document
 
 | Myth | Fact |

@@ -35,6 +35,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
+| `us:american-revolutionary-war` | 3 | African Americans, haudenosaunee, treaty-of-paris-1783 |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:blues` | 1 | rock-and-roll |
 | `us:boulder-canyon-project-act` | 1 | Hoover Dam |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
-| `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
 
-…and 16 more.
+…and 17 more.
 
 ## Happenings by era
 
