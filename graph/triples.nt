@@ -7535,6 +7535,66 @@
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <http://purl.org/dc/terms/title> "Panama Canal: Capital improvements" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> <https://schema.org/url> <https://britannica.com/topic/Panama-Canal/Capital-improvements> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, GovInfo (United States Statutes at Large)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <http://purl.org/dc/terms/title> "An Act Authorizing and providing for the construction of additional facilities on the Canal Zone (August 11, 1939; ch. 694, 53 Stat. 1409; Public No. 391, H.R. 5129)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> <https://schema.org/url> <https://www.govinfo.gov/link/statute/53/1409> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <http://purl.org/dc/terms/title> "Statement on Signing Bill for Improvements to the Panama Canal (August 11, 1939)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/statement-signing-bill-for-improvements-the-panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <http://purl.org/dc/terms/title> "Foreign Relations of the United States, 1939, Volume V, Document 692: The Secretary of State to the Ambassador in Panama (August 19, 1939)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> <https://schema.org/url> <https://history.state.gov/historicaldocuments/frus1939v05/d692> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <http://purl.org/dc/terms/title> "Foreign Relations of the United States, 1940, Volume V, Document 1178: The Secretary of State to the Ambassador in Panama (January 13, 1940)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> <https://schema.org/url> <https://history.state.gov/historicaldocuments/frus1940v05/d1178> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <http://purl.org/dc/terms/publisher> "Linda Hall Library of Science, Engineering & Technology" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <http://purl.org/dc/terms/title> "The Land Divided, The World United: A Century of Progress" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> <https://schema.org/url> <https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <http://purl.org/dc/terms/publisher> "George A. Smathers Libraries, University of Florida" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <http://purl.org/dc/terms/title> "Expansion: Panama Canal Centennial Online Exhibit" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> <https://schema.org/url> <https://exhibits.uflib.ufl.edu/canal100/expansion.html> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <http://purl.org/dc/terms/publisher> "Naval History and Heritage Command" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <http://purl.org/dc/terms/title> "Montana Class (BB-67 through BB-71)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> <https://schema.org/url> <https://www.history.navy.mil/our-collections/photography/us-navy-ships/battleships/montana-class-bb-67-71.html> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <http://purl.org/dc/terms/publisher> "Scholars' Mine, Missouri University of Science and Technology" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <http://purl.org/dc/terms/title> "70 Years of Schemes to Improve and Enlarge the Panama Canal (J. David Rogers, World Environmental and Water Resources Congress 2012, ASCE)" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> <https://schema.org/url> <https://scholarsmine.mst.edu/geosci_geo_peteng_facwork/1005> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <http://purl.org/dc/terms/publisher> "GlobalSecurity.org" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <http://purl.org/dc/terms/title> "Panama Canal Third Locks 1939-1942" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> <https://schema.org/url> <https://www.globalsecurity.org/military/facility/panama-canal-third-locks.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .
@@ -8129,6 +8189,109 @@
 <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8> <https://schema.org/url> <https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/collection-highlights/huffman-prairie/> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The third set of Panama Canal locks that opened in 2016 was an idea first pursued in the 2000s." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The 1940s work stopped before any lock was built, so it left only dormant channels rather than a landmark, and it is easily overlooked in accounts of the modern expansion." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress authorize a third set of locks for the Panama Canal in 1939?" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Ships, especially warships, were growing too wide for the 110-foot lock chambers, and officials feared one act of sabotage could cripple the existing locks, so with war looming they backed larger, separately sited locks to improve both defense and commercial capacity." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did President Roosevelt sign the 1939 law while objecting to part of it?" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He wanted the third locks for the security of the canal and the hemisphere, but the law required new skilled and supervisory construction hires to be U.S. citizens, which he said conflicted with the 1936 treaty pledge of equal job opportunity for Panamanians, so he promised to seek an amendment." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the project stopped in 1942?" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Pearl Harbor naval priorities shifted from battleships to aircraft carriers, the Montana-class battleships the locks were sized for were suspended, wartime money and materials were needed elsewhere, and Army commanders argued new locks would add another air-attack target; Secretary of War Stimson halted the work on May 23, 1942." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the abandoned 1940s work affect the canal's 21st-century expansion?" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "On the Atlantic side, Panama built its new, larger lock chambers on the original third-locks excavation, which sped construction; on the Pacific side the locks were placed elsewhere and the old cut was filled in." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Panama's expanded canal opens with new locks on both coasts." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2016-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The canal report later adopted as the plan for the work (House Document No. 210) is dated." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1939-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1939-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1939-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-01-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Dry excavation begins in the Gatun sector." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2007-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2000/01/rdf-schema#label> "Third Locks Project" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#altLabel> "Panama Canal Third Locks Project" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#altLabel> "Third Locks Program" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#definition> "A U.S. program, authorized by Congress on August 11, 1939, to build a third and larger set of locks for the Panama Canal near the existing Gatun, Pedro Miguel and Miraflores locks for defense and commerce; excavation began in 1940 and the Secretary of War halted it in May 1942." .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#prefLabel> "Third Locks Project" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/agua-clara-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/henry-l-stimson> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/miraflores-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montana-class-battleship> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/third-locks-project.md" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/miraflores-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://schema.org/endDate> "1942-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://schema.org/startDate> "1939-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865." .
 <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Emancipation Proclamation ended slavery throughout the United States." .

@@ -27,5 +27,5 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.84 | `us:articles-of-confederation` | `us:tribal-sovereignty` | `us:federalism`, `us:united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | 1.83 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 1.83 | `us:great-depression` | `us:japanese-american-incarceration` | `us:franklin-d-roosevelt`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 1.78 | `us:american-civil-war` | `us:american-revolutionary-war` | `us:african-americans`, `us:wars-of-the-united-states` |
+| 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |

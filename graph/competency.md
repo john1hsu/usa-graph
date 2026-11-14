@@ -50,14 +50,14 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
+| `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:wright-brothers-first-flight` | 2 | huffman-prairie, wright-brothers-national-memorial |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
 | `us:boulder-canyon-project-act` | 1 | Hoover Dam |
-| `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 
-…and 17 more.
+…and 19 more.
 
 ## Happenings by era
 
@@ -110,9 +110,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:gatun-locks` | uso:Landmark |
+_No results._
 
 ## Orphan articles (gap)
 
@@ -162,6 +160,7 @@ _Which institutions, offices, rights and principles did each document or law est
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
 | `us:boulder-canyon-project-act` | `us:hoover-dam` |
+| `us:canal-zone-additional-facilities-act-of-1939` | `us:third-locks-project` |
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |

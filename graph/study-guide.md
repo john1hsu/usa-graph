@@ -472,6 +472,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the United States agree in 1977 to hand the canal to Panama?
   **A:** Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral.
 
+### [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The third set of Panama Canal locks that opened in 2016 was an idea first pursued in the 2000s. | The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation. |
+
+**Why it matters:** The 1940s work stopped before any lock was built, so it left only dormant channels rather than a landmark, and it is easily overlooked in accounts of the modern expansion.
+
+- **Q:** Why did Congress authorize a third set of locks for the Panama Canal in 1939?
+  **A:** Ships, especially warships, were growing too wide for the 110-foot lock chambers, and officials feared one act of sabotage could cripple the existing locks, so with war looming they backed larger, separately sited locks to improve both defense and commercial capacity.
+- **Q:** Why did President Roosevelt sign the 1939 law while objecting to part of it?
+  **A:** He wanted the third locks for the security of the canal and the hemisphere, but the law required new skilled and supervisory construction hires to be U.S. citizens, which he said conflicted with the 1936 treaty pledge of equal job opportunity for Panamanians, so he promised to seek an amendment.
+- **Q:** Why was the project stopped in 1942?
+  **A:** After Pearl Harbor naval priorities shifted from battleships to aircraft carriers, the Montana-class battleships the locks were sized for were suspended, wartime money and materials were needed elsewhere, and Army commanders argued new locks would add another air-attack target; Secretary of War Stimson halted the work on May 23, 1942.
+- **Q:** How did the abandoned 1940s work affect the canal's 21st-century expansion?
+  **A:** On the Atlantic side, Panama built its new, larger lock chambers on the original third-locks excavation, which sped construction; on the Pacific side the locks were placed elsewhere and the old cut was filled in.
+
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict
 
 | Myth | Fact |

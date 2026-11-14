@@ -553,12 +553,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1939-02-24 | The canal report later adopted as the plan for the work (House Document No. 210) is dated. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1939-08-11 – 1942-05-23 | **[Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md)** (Event) |
+| 1939-08-11 | President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1939-08-19 | The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1939-12 | Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted. — [Okies](../articles/society-and-people/okies.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1940-07-01 | Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1941-02-19 | Dry excavation begins in the Gatun sector. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1941-11-24 | In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states. — [Okies](../articles/society-and-people/okies.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -567,9 +574,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-21 | Public Law 503 makes violating an exclusion order a federal crime. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-23 | The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1942-05-23 | Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1943-07 | The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1943-07-31 | Tule Lake is designated a segregation center for people the government labeled disloyal. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -715,6 +724,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -725,6 +735,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |

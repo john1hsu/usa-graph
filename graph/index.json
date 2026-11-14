@@ -8387,6 +8387,186 @@
   ]
  },
  {
+  "id": "us:third-locks-project",
+  "title": "Third Locks Project",
+  "aliases": [
+   "Third Locks Program",
+   "Panama Canal Third Locks Project"
+  ],
+  "type": "Event",
+  "domain": "foreign-relations-and-military",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/foreign-relations-and-military/third-locks-project.md",
+  "created": "2026-11-14",
+  "summary": "A U.S. program, authorized by Congress on August 11, 1939, to build a third and larger set of locks for the Panama Canal near the existing Gatun, Pedro Miguel and Miraflores locks for defense and commerce; excavation began in 1940 and the Secretary of War halted it in May 1942.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gatun-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:miraflores-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pedro-miguel-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal-zone"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montana-class-battleship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-l-stimson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal-expansion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:agua-clara-locks"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:gatun-locks"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:canal-zone-additional-facilities-act-of-1939",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:panama-canal-zone",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:gatun-locks",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:miraflores-locks",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:panama-canal",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:panama-canal-expansion",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1939-08-11",
+  "end": "1942-05-23",
+  "review": [
+   {
+    "question": "Why did Congress authorize a third set of locks for the Panama Canal in 1939?",
+    "answer": "Ships, especially warships, were growing too wide for the 110-foot lock chambers, and officials feared one act of sabotage could cripple the existing locks, so with war looming they backed larger, separately sited locks to improve both defense and commercial capacity."
+   },
+   {
+    "question": "Why did President Roosevelt sign the 1939 law while objecting to part of it?",
+    "answer": "He wanted the third locks for the security of the canal and the hemisphere, but the law required new skilled and supervisory construction hires to be U.S. citizens, which he said conflicted with the 1936 treaty pledge of equal job opportunity for Panamanians, so he promised to seek an amendment."
+   },
+   {
+    "question": "Why was the project stopped in 1942?",
+    "answer": "After Pearl Harbor naval priorities shifted from battleships to aircraft carriers, the Montana-class battleships the locks were sized for were suspended, wartime money and materials were needed elsewhere, and Army commanders argued new locks would add another air-attack target; Secretary of War Stimson halted the work on May 23, 1942."
+   },
+   {
+    "question": "How did the abandoned 1940s work affect the canal's 21st-century expansion?",
+    "answer": "On the Atlantic side, Panama built its new, larger lock chambers on the original third-locks excavation, which sped construction; on the Pacific side the locks were placed elsewhere and the old cut was filled in."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1939-02-24",
+    "event": "The canal report later adopted as the plan for the work (House Document No. 210) is dated."
+   },
+   {
+    "date": "1939-08-11",
+    "event": "President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule."
+   },
+   {
+    "date": "1939-08-19",
+    "event": "The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government."
+   },
+   {
+    "date": "1940-01-13",
+    "event": "The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised."
+   },
+   {
+    "date": "1940-07-01",
+    "event": "Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site."
+   },
+   {
+    "date": "1941-02-19",
+    "event": "Dry excavation begins in the Gatun sector."
+   },
+   {
+    "date": "1942-05-23",
+    "event": "Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed."
+   },
+   {
+    "date": "1943-07",
+    "event": "The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate."
+   },
+   {
+    "date": "2007-09-03",
+    "event": "Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations."
+   },
+   {
+    "date": "2016-06-26",
+    "event": "Panama's expanded canal opens with new locks on both coasts."
+   }
+  ],
+  "misconception": {
+   "myth": "The third set of Panama Canal locks that opened in 2016 was an idea first pursued in the 2000s.",
+   "fact": "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation.",
+   "why": "The 1940s work stopped before any lock was built, so it left only dormant channels rather than a landmark, and it is easily overlooked in accounts of the modern expansion."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/link/statute/53/1409",
+   "https://www.presidency.ucsb.edu/documents/statement-signing-bill-for-improvements-the-panama-canal",
+   "https://history.state.gov/historicaldocuments/frus1939v05/d692",
+   "https://history.state.gov/historicaldocuments/frus1940v05/d1178",
+   "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/",
+   "https://exhibits.uflib.ufl.edu/canal100/expansion.html",
+   "https://www.history.navy.mil/our-collections/photography/us-navy-ships/battleships/montana-class-bb-67-71.html",
+   "https://scholarsmine.mst.edu/geosci_geo_peteng_facwork/1005",
+   "https://www.globalsecurity.org/military/facility/panama-canal-third-locks.htm",
+   "https://britannica.com/topic/Panama-Canal/Capital-improvements"
+  ]
+ },
+ {
   "id": "us:thirteenth-amendment",
   "title": "Thirteenth Amendment",
   "aliases": [

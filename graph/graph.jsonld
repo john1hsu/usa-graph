@@ -12781,6 +12781,146 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office, GovInfo (United States Statutes at Large)",
+   "dcterms:title": "An Act Authorizing and providing for the construction of additional facilities on the Canal Zone (August 11, 1939; ch. 694, 53 Stat. 1409; Public No. 391, H.R. 5129)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/link/statute/53/1409"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Panama Canal: Capital improvements",
+   "schema:url": {
+    "@id": "https://britannica.com/topic/Panama-Canal/Capital-improvements"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Statement on Signing Bill for Improvements to the Panama Canal (August 11, 1939)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-signing-bill-for-improvements-the-panama-canal"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Foreign Relations of the United States, 1939, Volume V, Document 692: The Secretary of State to the Ambassador in Panama (August 19, 1939)",
+   "schema:url": {
+    "@id": "https://history.state.gov/historicaldocuments/frus1939v05/d692"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Foreign Relations of the United States, 1940, Volume V, Document 1178: The Secretary of State to the Ambassador in Panama (January 13, 1940)",
+   "schema:url": {
+    "@id": "https://history.state.gov/historicaldocuments/frus1940v05/d1178"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Linda Hall Library of Science, Engineering & Technology",
+   "dcterms:title": "The Land Divided, The World United: A Century of Progress",
+   "schema:url": {
+    "@id": "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George A. Smathers Libraries, University of Florida",
+   "dcterms:title": "Expansion: Panama Canal Centennial Online Exhibit",
+   "schema:url": {
+    "@id": "https://exhibits.uflib.ufl.edu/canal100/expansion.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Naval History and Heritage Command",
+   "dcterms:title": "Montana Class (BB-67 through BB-71)",
+   "schema:url": {
+    "@id": "https://www.history.navy.mil/our-collections/photography/us-navy-ships/battleships/montana-class-bb-67-71.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Scholars' Mine, Missouri University of Science and Technology",
+   "dcterms:title": "70 Years of Schemes to Improve and Enlarge the Panama Canal (J. David Rogers, World Environmental and Water Resources Congress 2012, ASCE)",
+   "schema:url": {
+    "@id": "https://scholarsmine.mst.edu/geosci_geo_peteng_facwork/1005"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "GlobalSecurity.org",
+   "dcterms:title": "Panama Canal Third Locks 1939-1942",
+   "schema:url": {
+    "@id": "https://www.globalsecurity.org/military/facility/panama-canal-third-locks.htm"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/thirteenth-amendment/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -14165,6 +14305,139 @@
     "@id": "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/collection-highlights/huffman-prairie/"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation.",
+   "uso:myth": "The third set of Panama Canal locks that opened in 2016 was an idea first pursued in the 2000s.",
+   "uso:why": "The 1940s work stopped before any lock was built, so it left only dormant channels rather than a landmark, and it is easily overlooked in accounts of the modern expansion."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress authorize a third set of locks for the Panama Canal in 1939?",
+   "uso:answer": "Ships, especially warships, were growing too wide for the 110-foot lock chambers, and officials feared one act of sabotage could cripple the existing locks, so with war looming they backed larger, separately sited locks to improve both defense and commercial capacity.",
+   "uso:questionFor": {
+    "@id": "us:third-locks-project"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did President Roosevelt sign the 1939 law while objecting to part of it?",
+   "uso:answer": "He wanted the third locks for the security of the canal and the hemisphere, but the law required new skilled and supervisory construction hires to be U.S. citizens, which he said conflicted with the 1936 treaty pledge of equal job opportunity for Panamanians, so he promised to seek an amendment.",
+   "uso:questionFor": {
+    "@id": "us:third-locks-project"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the project stopped in 1942?",
+   "uso:answer": "After Pearl Harbor naval priorities shifted from battleships to aircraft carriers, the Montana-class battleships the locks were sized for were suspended, wartime money and materials were needed elsewhere, and Army commanders argued new locks would add another air-attack target; Secretary of War Stimson halted the work on May 23, 1942.",
+   "uso:questionFor": {
+    "@id": "us:third-locks-project"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the abandoned 1940s work affect the canal's 21st-century expansion?",
+   "uso:answer": "On the Atlantic side, Panama built its new, larger lock chambers on the original third-locks excavation, which sped construction; on the Pacific side the locks were placed elsewhere and the old cut was filled in.",
+   "uso:questionFor": {
+    "@id": "us:third-locks-project"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The canal report later adopted as the plan for the work (House Document No. 210) is dated.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1939-02-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Panama's expanded canal opens with new locks on both coasts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2016-06-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt signs H.R. 5129, capping the cost at $277 million, and objects to its citizenship hiring rule.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1939-08-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The State Department sends Roosevelt's statement to the U.S. ambassador to share with Panama's government.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1939-08-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-01-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dry excavation begins in the Gatun sector.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-05-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1943-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2007-09-03"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
@@ -22859,6 +23132,163 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:third-locks-project",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s9"
+    }
+   ],
+   "rdfs:label": "Third Locks Project",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1942-05-23"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1939-08-11"
+   },
+   "skos:altLabel": [
+    "Panama Canal Third Locks Project",
+    "Third Locks Program"
+   ],
+   "skos:broader": {
+    "@id": "us:panama-canal"
+   },
+   "skos:definition": "A U.S. program, authorized by Congress on August 11, 1939, to build a third and larger set of locks for the Panama Canal near the existing Gatun, Pedro Miguel and Miraflores locks for defense and commerce; excavation began in 1940 and the Secretary of War halted it in May 1942.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "Third Locks Project",
+   "skos:related": [
+    {
+     "@id": "us:agua-clara-locks"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:gatun-locks"
+    },
+    {
+     "@id": "us:henry-l-stimson"
+    },
+    {
+     "@id": "us:miraflores-locks"
+    },
+    {
+     "@id": "us:montana-class-battleship"
+    },
+    {
+     "@id": "us:panama-canal-expansion"
+    },
+    {
+     "@id": "us:panama-canal-zone"
+    },
+    {
+     "@id": "us:pedro-miguel-locks"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:panama-canal"
+   },
+   "uso:domain": "foreign-relations-and-military",
+   "uso:establishedBy": {
+    "@id": "us:canal-zone-additional-facilities-act-of-1939"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/foreign-relations-and-military/third-locks-project.md",
+   "uso:ledTo": {
+    "@id": "us:panama-canal-expansion"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:gatun-locks"
+    },
+    {
+     "@id": "us:miraflores-locks"
+    },
+    {
+     "@id": "us:panama-canal-zone"
+    }
+   ],
+   "uso:requires": [
+    {
+     "@id": "us:gatun-locks"
+    },
+    {
+     "@id": "us:panama-canal"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/timeline/9"
     }
    ]
   },
