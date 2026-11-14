@@ -6815,6 +6815,264 @@
   ]
  },
  {
+  "id": "us:united-states",
+  "title": "United States",
+  "aliases": [
+   "United States of America",
+   "USA",
+   "U.S.A.",
+   "the United States",
+   "United Colonies"
+  ],
+  "type": "Country",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/united-states.md",
+  "created": "2026-11-14",
+  "summary": "A federal republic in North America made up of fifty states and the District of Columbia, with five inhabited territories and 575 federally recognized tribal nations within its borders; it declared independence from Great Britain on July 4, 1776, took its name in 1776, won recognition in the Treaty of Paris of 1783, and has been governed under the Constitution since 1789.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:north-america"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-dc"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-paris-1783"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cahokia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:puerto-rico"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mississippi-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:declaration-of-independence",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:canada",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:mexico",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:north-america",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1776-07-04",
+  "end": null,
+  "review": [
+   {
+    "question": "How did the United States grow from thirteen states on the Atlantic seaboard into a country reaching the Arctic and the Pacific, and who paid the cost?",
+    "answer": "The 1783 Treaty of Paris set its western boundary at the Mississippi River; the Louisiana Purchase (1803) added about 530 million acres, and Alaska was bought from Russia in 1867; Alaska and Hawaii became states in 1959. The land was Native homeland, and expansion came at Native nations' expense; under the 1830 Indian Removal Act nearly 50,000 eastern Indians were relocated, and about 4,000 of 16,000 Cherokees died on the Trail of Tears."
+   },
+   {
+    "question": "Why does the Constitution apply differently in Puerto Rico or Guam than in a state?",
+    "answer": "They are unincorporated territories, insular areas that are not part of any state or the federal district, where Congress has decided that only selected parts of the Constitution apply. Puerto Rico and the Northern Mariana Islands are also commonwealths with a more developed relationship set out in written agreements."
+   },
+   {
+    "question": "Why does the Declaration of Independence speak of the \"united States of America\" with a lowercase \"united,\" and when did the name become official?",
+    "answer": "In mid-1776 the states saw themselves as separate states acting together. Congress ordered \"United States\" to replace \"United Colonies\" in official documents on September 9, 1776, and the Articles of Confederation's first article made \"The United States of America\" the confederacy's formal name."
+   },
+   {
+    "question": "How do Native nations fit into the U.S. political system today?",
+    "answer": "The 575 federally recognized tribes hold inherent rights of self-government (tribal sovereignty) and a government-to-government relationship with the United States, alongside the federal government, the fifty states, the District of Columbia and the territories."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1050",
+    "event": "Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico."
+   },
+   {
+    "date": "1507",
+    "event": "The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses \"America\" after Amerigo Vespucci."
+   },
+   {
+    "date": "1776-07-02",
+    "event": "The Second Continental Congress votes for independence by adopting the Lee Resolution."
+   },
+   {
+    "date": "1776-07-04",
+    "event": "Congress adopts the Declaration of Independence."
+   },
+   {
+    "date": "1776-09-09",
+    "event": "Congress orders that \"United States\" replace \"United Colonies\" in official documents."
+   },
+   {
+    "date": "1777-11-15",
+    "event": "Congress adopts the Articles of Confederation, whose first article names the confederacy \"The United States of America.\""
+   },
+   {
+    "date": "1781-03-01",
+    "event": "Maryland's ratification puts the Articles of Confederation into force."
+   },
+   {
+    "date": "1783-09-03",
+    "event": "The Treaty of Paris recognizes U.S. independence, with a western boundary at the Mississippi River."
+   },
+   {
+    "date": "1789",
+    "event": "The present-day Constitution goes into effect, replacing the Articles."
+   },
+   {
+    "date": "1790",
+    "event": "The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800."
+   },
+   {
+    "date": "1803",
+    "event": "The United States buys the Louisiana territory, about 530 million acres, from France for $15 million."
+   },
+   {
+    "date": "1830-05-28",
+    "event": "President Andrew Jackson signs the Indian Removal Act."
+   },
+   {
+    "date": "1838",
+    "event": "Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears."
+   },
+   {
+    "date": "1865-12-06",
+    "event": "The Thirteenth Amendment is ratified, abolishing slavery except as punishment for crime."
+   },
+   {
+    "date": "1867-10-18",
+    "event": "Alaska, bought from Russia for $7.2 million, is formally transferred to the United States."
+   },
+   {
+    "date": "1898-12-19",
+    "event": "Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii."
+   },
+   {
+    "date": "1959-01-03",
+    "event": "Alaska becomes a state."
+   },
+   {
+    "date": "1959-08-21",
+    "event": "Hawaii becomes the fiftieth state."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 331,449,281 residents, up 7.4 percent from 2010."
+   }
+  ],
+  "misconception": {
+   "myth": "When Europeans arrived, the land that became the United States was a thinly peopled, untouched wilderness.",
+   "fact": "Millions of Indigenous people lived in the Americas before 1492; they farmed corn, beans and squash, burned underbrush to shape forests, and built towns such as Cahokia, which may have held 10,000–20,000 people (some estimates run to 30,000) around 1050–1150.",
+   "why": "Picturing an empty continent erases the Native nations whose homelands became the United States, and whose 575 federally recognized governments still keep a government-to-government relationship with it."
+  },
+  "source_urls": [
+   "https://www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html",
+   "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html.html",
+   "https://www.archives.gov/milestone-documents/declaration-of-Independence",
+   "https://www.archives.gov/milestone-documents/articles-of-confederation",
+   "https://www.archives.gov/milestone-documents/treaty-of-paris",
+   "https://www.americanyawp.com/textbook/01-american-origins",
+   "https://whc.unesco.org/es/list/198",
+   "https://history.state.gov/milestones/1801-1829/louisiana-purchase",
+   "https://history.state.gov/milestones/1866-1898/alaska-purchase",
+   "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+   "https://www.archives.gov/milestone-documents/13th-amendment",
+   "https://www.archives.gov/legislative/features/hawaii",
+   "https://www.doi.gov/oia/islands/politicatypes",
+   "https://www.bia.gov/faqs/what-federally-recognized-tribe",
+   "https://internationalboundarycommission.org/en/about/the-boundary.php",
+   "https://www.ibwc.gov/about-us/",
+   "https://www.senate.gov/about/historic-buildings-spaces/meeting-places/washington-dc.htm",
+   "https://constitutioncenter.org/blog/today-the-name-united-states-of-america-becomes-offici",
+   "https://www.smithsonianmag.com/history/how-did-the-nation-get-its-name-other-suggestions-included-the-united-colonies-columbia-and-the-united-states-of-alleghania-180989435/"
+  ]
+ },
+ {
   "id": "us:united-states-congress",
   "title": "United States Congress",
   "aliases": [

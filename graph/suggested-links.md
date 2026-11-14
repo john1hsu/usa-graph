@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 3.00 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
-| 2.78 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
-| 2.39 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
+| 4.25 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 2.99 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
+| 2.77 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 2.38 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
 | 2.35 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
-| 2.26 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
+| 2.16 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states`, `us:united-states-congress` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
-| 2.14 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
+| 2.12 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
 | 2.10 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
+| 2.01 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.97 | `us:frederick-douglass` | `us:liberty-bell` | `us:abolitionism`, `us:declaration-of-independence`, `us:womens-suffrage-movement` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 1.91 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad`, `us:united-states` |
 | 1.91 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
-| 1.91 | `us:african-americans` | `us:frederick-douglass` | `us:african-american-history`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:united-states-colored-troops` |
+| 1.90 | `us:african-americans` | `us:frederick-douglass` | `us:african-american-history`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:united-states-colored-troops` |
 | 1.90 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
-| 1.87 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
 | 1.83 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.81 | `us:george-washington` | `us:pennsylvania` | `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |
 | 1.77 | `us:african-americans` | `us:morrill-land-grant-college-act` | `us:american-civil-war`, `us:historically-black-colleges-and-universities` |
 | 1.76 | `us:articles-of-confederation` | `us:morrill-land-grant-college-act` | `us:northwest-ordinance`, `us:united-states-congress` |
-| 1.66 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| 1.64 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 1.62 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad` |
-| 1.60 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.67 | `us:articles-of-confederation` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:united-states`, `us:united-states-constitution` |
+| 1.65 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |

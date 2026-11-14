@@ -685,6 +685,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Pennsylvania's resources make it the "Arsenal of America," and what labor conflicts came with that growth?
   **A:** Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners.
 
+### [United States](../articles/states-and-territories/united-states.md) — Country
+
+| Myth | Fact |
+|---|---|
+| When Europeans arrived, the land that became the United States was a thinly peopled, untouched wilderness. | Millions of Indigenous people lived in the Americas before 1492; they farmed corn, beans and squash, burned underbrush to shape forests, and built towns such as Cahokia, which may have held 10,000–20,000 people (some estimates run to 30,000) around 1050–1150. |
+
+**Why it matters:** Picturing an empty continent erases the Native nations whose homelands became the United States, and whose 575 federally recognized governments still keep a government-to-government relationship with it.
+
+- **Q:** How did the United States grow from thirteen states on the Atlantic seaboard into a country reaching the Arctic and the Pacific, and who paid the cost?
+  **A:** The 1783 Treaty of Paris set its western boundary at the Mississippi River; the Louisiana Purchase (1803) added about 530 million acres, and Alaska was bought from Russia in 1867; Alaska and Hawaii became states in 1959. The land was Native homeland, and expansion came at Native nations' expense; under the 1830 Indian Removal Act nearly 50,000 eastern Indians were relocated, and about 4,000 of 16,000 Cherokees died on the Trail of Tears.
+- **Q:** Why does the Constitution apply differently in Puerto Rico or Guam than in a state?
+  **A:** They are unincorporated territories, insular areas that are not part of any state or the federal district, where Congress has decided that only selected parts of the Constitution apply. Puerto Rico and the Northern Mariana Islands are also commonwealths with a more developed relationship set out in written agreements.
+- **Q:** Why does the Declaration of Independence speak of the "united States of America" with a lowercase "united," and when did the name become official?
+  **A:** In mid-1776 the states saw themselves as separate states acting together. Congress ordered "United States" to replace "United Colonies" in official documents on September 9, 1776, and the Articles of Confederation's first article made "The United States of America" the confederacy's formal name.
+- **Q:** How do Native nations fit into the U.S. political system today?
+  **A:** The 575 federally recognized tribes hold inherent rights of self-government (tribal sovereignty) and a government-to-government relationship with the United States, alongside the federal government, the fifty states, the District of Columbia and the territories.
+
 ## symbols-and-national-identity
 
 ### [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) — Symbol

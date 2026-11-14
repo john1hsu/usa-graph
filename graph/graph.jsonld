@@ -10146,6 +10146,272 @@
    "uso:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "2020 Census Apportionment Results Delivered to the President",
+   "schema:url": {
+    "@id": "https://www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/13th-amendment"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Center for Legislative Archives",
+   "dcterms:title": "Hawaii Statehood, August 21, 1959",
+   "schema:url": {
+    "@id": "https://www.archives.gov/legislative/features/hawaii"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior, Office of Insular Affairs",
+   "dcterms:title": "Definitions of Insular Area Political Organizations",
+   "schema:url": {
+    "@id": "https://www.doi.gov/oia/islands/politicatypes"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior, Bureau of Indian Affairs",
+   "dcterms:title": "What is a federally recognized tribe?",
+   "schema:url": {
+    "@id": "https://www.bia.gov/faqs/what-federally-recognized-tribe"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "International Boundary Commission",
+   "dcterms:title": "The Boundary",
+   "schema:url": {
+    "@id": "https://internationalboundarycommission.org/en/about/the-boundary.php"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "International Boundary and Water Commission, United States Section",
+   "dcterms:title": "About Us",
+   "schema:url": {
+    "@id": "https://www.ibwc.gov/about-us/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s17",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Senate Historical Office",
+   "dcterms:title": "Washington, D.C.",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/historic-buildings-spaces/meeting-places/washington-dc.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s18",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Constitution Center, Constitution Daily",
+   "dcterms:title": "Today: The name 'United States of America' becomes official",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/today-the-name-united-states-of-america-becomes-offici"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s19",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Magazine",
+   "dcterms:title": "How Did the Nation Get Its Name? Other Suggestions Included the United Colonies, Columbia and the United States of Alleghania",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/how-did-the-nation-get-its-name-other-suggestions-included-the-united-colonies-columbia-and-the-united-states-of-alleghania-180989435/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "State Area Measurements and Internal Point Coordinates (2010)",
+   "schema:url": {
+    "@id": "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Declaration of Independence (1776)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/declaration-of-Independence"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Articles of Confederation (1777)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/articles-of-confederation"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Treaty of Paris (1783)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/treaty-of-paris"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Yawp (ed. Christen Mucher)",
+   "dcterms:title": "1. American Origins",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/textbook/01-american-origins"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "UNESCO World Heritage Centre",
+   "dcterms:title": "Cahokia Mounds State Historic Site",
+   "schema:url": {
+    "@id": "https://whc.unesco.org/es/list/198"
+   },
+   "uso:sourceType": "intergovernmental"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Louisiana Purchase, 1803",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1801-1829/louisiana-purchase"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Purchase of Alaska, 1867",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -10981,6 +11247,220 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1791-12-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Millions of Indigenous people lived in the Americas before 1492; they farmed corn, beans and squash, burned underbrush to shape forests, and built towns such as Cahokia, which may have held 10,000–20,000 people (some estimates run to 30,000) around 1050–1150.",
+   "uso:myth": "When Europeans arrived, the land that became the United States was a thinly peopled, untouched wilderness.",
+   "uso:why": "Picturing an empty continent erases the Native nations whose homelands became the United States, and whose 575 federally recognized governments still keep a government-to-government relationship with it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the United States grow from thirteen states on the Atlantic seaboard into a country reaching the Arctic and the Pacific, and who paid the cost?",
+   "uso:answer": "The 1783 Treaty of Paris set its western boundary at the Mississippi River; the Louisiana Purchase (1803) added about 530 million acres, and Alaska was bought from Russia in 1867; Alaska and Hawaii became states in 1959. The land was Native homeland, and expansion came at Native nations' expense; under the 1830 Indian Removal Act nearly 50,000 eastern Indians were relocated, and about 4,000 of 16,000 Cherokees died on the Trail of Tears.",
+   "uso:questionFor": {
+    "@id": "us:united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the Constitution apply differently in Puerto Rico or Guam than in a state?",
+   "uso:answer": "They are unincorporated territories, insular areas that are not part of any state or the federal district, where Congress has decided that only selected parts of the Constitution apply. Puerto Rico and the Northern Mariana Islands are also commonwealths with a more developed relationship set out in written agreements.",
+   "uso:questionFor": {
+    "@id": "us:united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the Declaration of Independence speak of the \"united States of America\" with a lowercase \"united,\" and when did the name become official?",
+   "uso:answer": "In mid-1776 the states saw themselves as separate states acting together. Congress ordered \"United States\" to replace \"United Colonies\" in official documents on September 9, 1776, and the Articles of Confederation's first article made \"The United States of America\" the confederacy's formal name.",
+   "uso:questionFor": {
+    "@id": "us:united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do Native nations fit into the U.S. political system today?",
+   "uso:answer": "The 575 federally recognized tribes hold inherent rights of self-government (tribal sovereignty) and a government-to-government relationship with the United States, alongside the federal government, the fifty states, the District of Columbia and the territories.",
+   "uso:questionFor": {
+    "@id": "us:united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1050"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1790"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States buys the Louisiana territory, about 530 million acres, from France for $15 million.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1803"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Andrew Jackson signs the Indian Removal Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1830-05-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1838"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Thirteenth Amendment is ratified, abolishing slavery except as punishment for crime.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alaska, bought from Russia for $7.2 million, is formally transferred to the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-10-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-12-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alaska becomes a state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-01-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hawaii becomes the fiftieth state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-08-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 331,449,281 residents, up 7.4 percent from 2010.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses \"America\" after Amerigo Vespucci.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1507"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Second Continental Congress votes for independence by adopting the Lee Resolution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts the Declaration of Independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress orders that \"United States\" replace \"United Colonies\" in official documents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-09-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts the Articles of Confederation, whose first article names the confederacy \"The United States of America.\"",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-11-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Maryland's ratification puts the Articles of Confederation into force.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Paris recognizes U.S. independence, with a western boundary at the Mississippi River.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-09-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The present-day Constitution goes into effect, replacing the Articles.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1789"
    }
   },
   {
@@ -17127,6 +17607,240 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:united-states",
+   "@type": "uso:Country",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states/s9"
+    }
+   ],
+   "rdfs:label": "United States",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   },
+   "skos:altLabel": [
+    "U.S.A.",
+    "USA",
+    "United Colonies",
+    "United States of America",
+    "the United States"
+   ],
+   "skos:broader": {
+    "@id": "us:north-america"
+   },
+   "skos:definition": "A federal republic in North America made up of fifty states and the District of Columbia, with five inhabited territories and 575 federally recognized tribal nations within its borders; it declared independence from Great Britain on July 4, 1776, took its name in 1776, won recognition in the Treaty of Paris of 1783, and has been governed under the Constitution since 1789.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories"
+   },
+   "skos:prefLabel": "United States",
+   "skos:related": [
+    {
+     "@id": "us:alaska"
+    },
+    {
+     "@id": "us:alaska-purchase"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:cahokia"
+    },
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:hawaii"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:puerto-rico"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:territorial-expansion-of-the-united-states"
+    },
+    {
+     "@id": "us:thirteen-colonies"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:washington-dc"
+    }
+   ],
+   "uso:borders": [
+    {
+     "@id": "us:canada"
+    },
+    {
+     "@id": "us:mexico"
+    }
+   ],
+   "uso:domain": "states-and-territories",
+   "uso:establishedBy": [
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/states-and-territories/united-states.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:north-america"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/united-states/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/united-states/timeline/9"
     }
    ]
   },

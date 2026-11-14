@@ -5,6 +5,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | Date | What |
 |---|---|
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
+| 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -41,19 +43,24 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-06-11 | After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-06-28 | The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-01 | A first vote on Lee's resolution: nine colonies in favour, Pennsylvania and South Carolina opposed, Delaware deadlocked and New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-07-02 | The Second Continental Congress votes for independence by adopting the Lee Resolution. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-02 | Twelve colonies vote for independence, with New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | **[Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md)** (Document) |
+| 1776-07-04 | **[United States](../articles/states-and-territories/united-states.md)** (Country) |
+| 1776-07-04 | Congress adopts the Declaration of Independence. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-09-09 | Congress orders that "United States" replace "United Colonies" in official documents. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1777 | Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
 | 1777-11-15 | After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1777-11-15 | Congress adopts the Articles of Confederation, whose first article names the confederacy "The United States of America." — [United States](../articles/states-and-territories/united-states.md) |
 | 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -62,8 +69,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1781-03-01 | Maryland's ratification puts the Articles of Confederation into force. — [United States](../articles/states-and-territories/united-states.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1783-09-03 | The Treaty of Paris recognizes U.S. independence, with a western boundary at the Mississippi River. — [United States](../articles/states-and-territories/united-states.md) |
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -96,6 +105,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1789 | The present-day Constitution goes into effect, replacing the Articles. — [United States](../articles/states-and-territories/united-states.md) |
 | 1789-03-04 | **[United States Congress](../articles/constitution-and-government/united-states-congress.md)** (Institution) |
 | 1789-03-04 | The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-03-04 | The date the framers set for the new Congress to convene. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
@@ -106,6 +116,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -125,6 +136,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1802 | Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802). — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1802-10 | Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1803 | The United States buys the Louisiana territory, about 530 million acres, from France for $15 million. — [United States](../articles/states-and-territories/united-states.md) |
 | 1803-01 | Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-02-27 | In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803-04-11 | French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -161,6 +173,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -172,6 +185,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1838 | Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears. — [United States](../articles/states-and-territories/united-states.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -245,6 +259,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12 | Alabama adopts a Black Code controlling the labor and movement of freed people. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery except as punishment for crime. — [United States](../articles/states-and-territories/united-states.md) |
 | 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery nationwide. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -257,6 +272,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1866-07-30 | White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
 | 1868-07-09 | **[Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md)** (Law) |
 | 1868-07-09 | Louisiana and South Carolina ratify, completing the three-fourths needed. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -343,6 +359,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1898-12-19 | Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii. — [United States](../articles/states-and-territories/united-states.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1900 | The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
@@ -450,7 +467,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -543,6 +562,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2020-04-01 | The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

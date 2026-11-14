@@ -27,11 +27,11 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
+| `us:united-states-constitution` | 5 | Slavery in the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
-| `us:united-states-constitution` | 4 | Slavery in the United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
@@ -39,6 +39,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
+| `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
@@ -47,7 +48,6 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
-| `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
 | `us:equal-protection` | 1 | African Americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
@@ -152,10 +152,12 @@ _Which institutions, offices, rights and principles did each document or law est
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
+| `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
+| `us:united-states-constitution` | `us:united-states` |
 | `us:united-states-constitution` | `us:united-states-congress` |
 
