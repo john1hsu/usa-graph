@@ -3032,6 +3032,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year.",
+   "uso:myth": "Rosa Parks was a quiet seamstress who kept her seat only because she was tired after work, and the boycott arose spontaneously from her single act.",
+   "uso:why": "The \"tired seamstress\" story turns an organized, community-wide campaign into an accident and hides the planning, risk and sacrifice of many people, especially Black women, that made it work."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the boycott continue after the federal district court ruled against bus segregation in June 1956?",
+   "uso:answer": "The city appealed and kept enforcing segregation, so King and the MIA urged boycotters to stay off the buses until the ruling was actually implemented; that happened only after the Supreme Court affirmed it in November and its order reached Montgomery on December 20, 1956.",
+   "uso:questionFor": {
+    "@id": "us:montgomery-bus-boycott"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did tens of thousands of people get to work for more than a year without the buses?",
+   "uso:answer": "Many walked, sometimes miles a day, and after the city penalized Black taxi drivers who offered cheap fares, the MIA organized a volunteer carpool of roughly 300 cars with pick-up stations, modeled on the 1953 Baton Rouge boycott and funded by collections at church mass meetings.",
+   "uso:questionFor": {
+    "@id": "us:montgomery-bus-boycott"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was Rosa Parks not a plaintiff in Browder v. Gayle?",
+   "uso:answer": "Her criminal case was still moving through the state courts, and Fred Gray wanted the federal court to face a single issue, the constitutionality of the bus segregation laws, so he filed on behalf of other women who had been mistreated on the buses.",
+   "uso:questionFor": {
+    "@id": "us:montgomery-bus-boycott"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1954-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A three-judge federal court rules 2–1 that bus segregation is unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-06-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Supreme Court affirms the district court's ruling.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-11-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court rejects city and state requests to reconsider.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-12-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court's order reaches Montgomery and the MIA votes to end the boycott.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Montgomery's buses operate on an integrated basis.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-12-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-05-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rosa Parks is arrested for refusing to give up her seat to a white passenger.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 90 percent of Black riders stay off the buses; the Montgomery Improvement Association forms and elects Martin Luther King Jr. president.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-12-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The MIA presents its demands: courtesy, first-come seating and Black drivers on mainly Black routes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-12-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Segregationists bomb King's house.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-01-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fred Gray and Charles D. Langford file Browder v. Gayle in federal court.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-03-22"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The act gave states land or scrip — vouchers for distant federal land — to sell; the proceeds became a permanent endowment that could not be spent on buildings, and most of that land had been taken from Native nations through cessions, many of them coerced.",
@@ -6739,6 +6899,104 @@
     "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Montgomery Bus Boycott",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Montgomery Bus Boycott",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/montgomery-bus-boycott.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Matthew Roberts, Encyclopedia of Alabama (Alabama Humanities Alliance)",
+   "dcterms:title": "Browder v. Gayle",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/embrowder-v-gayle-em/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Browder v. Gayle, 352 U.S. 903",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/browder-v-gayle-352-us-903"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "Browder v. Gayle Class Action Lawsuit; Bus Situation (Rosa Parks: In Her Own Words)",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibitions/rosa-parks-in-her-own-words/about-this-exhibition/the-bus-boycott/browder-v-gayle-class-action-lawsuit-bus-situation/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Pieces of History blog",
+   "dcterms:title": "The Montgomery Bus Boycott",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/?p=16375"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Portrait Gallery, Smithsonian Institution",
+   "dcterms:title": "Rosa Parks: Tired of Giving In",
+   "schema:url": {
+    "@id": "https://npg.si.edu/es/node/5946"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1",
@@ -12636,6 +12894,155 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:montgomery-bus-boycott",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7"
+    }
+   ],
+   "rdfs:label": "Montgomery bus boycott",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1956-12-20"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1955-12-05"
+   },
+   "skos:altLabel": [
+    "Montgomery Bus Boycott of 1955–1956",
+    "Montgomery boycott"
+   ],
+   "skos:broader": {
+    "@id": "us:civil-rights-movement"
+   },
+   "skos:definition": "A 381-day mass protest, from December 5, 1955, to December 20, 1956, in which Black residents of Montgomery, Alabama, refused to ride the city's segregated buses; it ended after federal courts struck down Alabama's bus segregation laws in Browder v. Gayle.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Montgomery bus boycott",
+   "skos:related": [
+    {
+     "@id": "us:claudette-colvin"
+    },
+    {
+     "@id": "us:e-d-nixon"
+    },
+    {
+     "@id": "us:fred-gray"
+    },
+    {
+     "@id": "us:jo-ann-robinson"
+    },
+    {
+     "@id": "us:montgomery-improvement-association"
+    },
+    {
+     "@id": "us:racial-segregation-in-the-united-states"
+    },
+    {
+     "@id": "us:rosa-parks"
+    },
+    {
+     "@id": "us:womens-political-council"
+    }
+   ],
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/cold-war-and-civil-rights/montgomery-bus-boycott.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:baton-rouge-bus-boycott"
+    },
+    {
+     "@id": "us:brown-v-board-of-education"
+    }
+   ],
+   "uso:ledBy": {
+    "@id": "us:martin-luther-king-jr"
+   },
+   "uso:ledTo": {
+    "@id": "us:browder-v-gayle"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:montgomery"
+   },
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9"
     }
    ]
   },

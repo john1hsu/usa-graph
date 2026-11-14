@@ -383,12 +383,27 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1954 | Brown v. Board of Education declares school segregation unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1954 | Brown v. Board of Education holds that segregated public schools violate equal protection. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
 | 1954-05-17 | Brown v. Board of Education rejects separate but equal in public education. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1954-05-17 | The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1954-05-21 | Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1955-12-01 | Rosa Parks is arrested for refusing to give up her seat to a white passenger. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1955-12-05 – 1956-12-20 | **[Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md)** (Event) |
+| 1955-12-05 | About 90 percent of Black riders stay off the buses; the Montgomery Improvement Association forms and elects Martin Luther King Jr. president. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1955-12-08 | The MIA presents its demands: courtesy, first-come seating and Black drivers on mainly Black routes. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-01-30 | Segregationists bomb King's house. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-02-01 | Fred Gray and Charles D. Langford file Browder v. Gayle in federal court. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-03 | The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1956-03-12 | The Southern Manifesto denouncing the decision is introduced in Congress. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1956-03-22 | King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-06-05 | A three-judge federal court rules 2–1 that bus segregation is unconstitutional. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-11-13 | The U.S. Supreme Court affirms the district court's ruling. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-12-17 | The Supreme Court rejects city and state requests to reconsider. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |

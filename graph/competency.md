@@ -52,10 +52,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 | `us:mississippi-river` | 1 | Siege of Vicksburg |
+| `us:montgomery-bus-boycott` | 1 | browder-v-gayle |
 | `us:plessy-v-ferguson` | 1 | Jim Crow laws |
 | `us:separate-car-act` | 1 | Jim Crow laws |
 | `us:siege-of-vicksburg` | 1 | siege-of-port-hudson |
-| `us:united-states-congress` | 1 | bill-of-rights |
+
+…and 1 more.
 
 ## Happenings by era
 

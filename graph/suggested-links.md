@@ -23,9 +23,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.67 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.65 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.62 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad` |
-| 1.61 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 1.61 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.61 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.61 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| 1.61 | `us:montgomery-bus-boycott` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.60 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
 | 1.47 | `us:american-civil-war` | `us:pennsylvania` | `us:battle-of-gettysburg`, `us:united-states` |
-| 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |

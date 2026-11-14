@@ -68,6 +68,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Court's approach to remedies allow segregation to continue for years after 1954?
   **A:** The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed "with all deliberate speed," and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.
 
+### [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Rosa Parks was a quiet seamstress who kept her seat only because she was tired after work, and the boycott arose spontaneously from her single act. | Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year. |
+
+**Why it matters:** The "tired seamstress" story turns an organized, community-wide campaign into an accident and hides the planning, risk and sacrifice of many people, especially Black women, that made it work.
+
+- **Q:** Why did the boycott continue after the federal district court ruled against bus segregation in June 1956?
+  **A:** The city appealed and kept enforcing segregation, so King and the MIA urged boycotters to stay off the buses until the ruling was actually implemented; that happened only after the Supreme Court affirmed it in November and its order reached Montgomery on December 20, 1956.
+- **Q:** How did tens of thousands of people get to work for more than a year without the buses?
+  **A:** Many walked, sometimes miles a day, and after the city penalized Black taxi drivers who offered cheap fares, the MIA organized a volunteer carpool of roughly 300 cars with pick-up stations, modeled on the 1953 Baton Rouge boycott and funded by collections at church mass meetings.
+- **Q:** Why was Rosa Parks not a plaintiff in Browder v. Gayle?
+  **A:** Her criminal case was still moving through the state courts, and Fred Gray wanted the federal court to face a single issue, the constitutionality of the bus segregation laws, so he filed on behalf of other women who had been mistreated on the buses.
+
 ## colonial-and-revolutionary
 
 ### [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) — Document

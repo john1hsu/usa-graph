@@ -2224,6 +2224,115 @@
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/6> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Rosa Parks was a quiet seamstress who kept her seat only because she was tired after work, and the boycott arose spontaneously from her single act." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The \"tired seamstress\" story turns an organized, community-wide campaign into an accident and hides the planning, risk and sacrifice of many people, especially Black women, that made it work." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the boycott continue after the federal district court ruled against bus segregation in June 1956?" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The city appealed and kept enforcing segregation, so King and the MIA urged boycotters to stay off the buses until the ruling was actually implemented; that happened only after the Supreme Court affirmed it in November and its order reached Montgomery on December 20, 1956." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did tens of thousands of people get to work for more than a year without the buses?" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many walked, sometimes miles a day, and after the city penalized Black taxi drivers who offered cheap fares, the MIA organized a volunteer carpool of roughly 300 cars with pick-up stations, modeled on the 1953 Baton Rouge boycott and funded by collections at church mass meetings." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Rosa Parks not a plaintiff in Browder v. Gayle?" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Her criminal case was still moving through the state courts, and Fred Gray wanted the federal court to face a single issue, the constitutionality of the bus segregation laws, so he filed on behalf of other women who had been mistreated on the buses." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A three-judge federal court rules 2–1 that bus segregation is unconstitutional." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-06-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Supreme Court affirms the district court's ruling." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court rejects city and state requests to reconsider." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The Court's order reaches Montgomery and the MIA votes to end the boycott." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Montgomery's buses operate on an integrated basis." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Rosa Parks is arrested for refusing to give up her seat to a white passenger." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "About 90 percent of Black riders stay off the buses; the Montgomery Improvement Association forms and elects Martin Luther King Jr. president." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The MIA presents its demands: courtesy, first-come seating and Black drivers on mainly Black routes." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Segregationists bomb King's house." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Gray and Charles D. Langford file Browder v. Gayle in federal court." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2000/01/rdf-schema#label> "Montgomery bus boycott" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#altLabel> "Montgomery Bus Boycott of 1955–1956" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#altLabel> "Montgomery boycott" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#definition> "A 381-day mass protest, from December 5, 1955, to December 20, 1956, in which Black residents of Montgomery, Alabama, refused to ride the city's segregated buses; it ended after federal courts struck down Alabama's bus segregation laws in Browder v. Gayle." .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montgomery bus boycott" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/claudette-colvin> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-d-nixon> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fred-gray> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jo-ann-robinson> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-improvement-association> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rosa-parks> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-political-council> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#domain> "cold-war-and-civil-rights" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/cold-war-and-civil-rights/montgomery-bus-boycott.md" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/baton-rouge-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/montgomery> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://schema.org/endDate> "1956-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://schema.org/startDate> "1955-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The act gave states land or scrip — vouchers for distant federal land — to sell; the proceeds became a permanent endowment that could not be spent on buildings, and most of that land had been taken from Native nations through cessions, many of them coerced." .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Land-grant universities are so called because the federal government gave them the land their campuses stand on." .
@@ -4166,6 +4275,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s7> <https://schema.org/url> <https://history.state.gov/milestones/1784-1800/pickney-treaty> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/title> "Montgomery Bus Boycott" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <https://schema.org/url> <https://kinginstitute.stanford.edu/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <http://purl.org/dc/terms/title> "Montgomery Bus Boycott" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s2> <https://schema.org/url> <https://home.nps.gov/articles/montgomery-bus-boycott.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <http://purl.org/dc/terms/publisher> "Matthew Roberts, Encyclopedia of Alabama (Alabama Humanities Alliance)" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <http://purl.org/dc/terms/title> "Browder v. Gayle" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s3> <https://schema.org/url> <https://encyclopediaofalabama.org/article/embrowder-v-gayle-em/> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <http://purl.org/dc/terms/title> "Browder v. Gayle, 352 U.S. 903" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s4> <https://schema.org/url> <https://kinginstitute.stanford.edu/browder-v-gayle-352-us-903> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <http://purl.org/dc/terms/title> "Browder v. Gayle Class Action Lawsuit; Bus Situation (Rosa Parks: In Her Own Words)" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s5> <https://schema.org/url> <https://www.loc.gov/exhibitions/rosa-parks-in-her-own-words/about-this-exhibition/the-bus-boycott/browder-v-gayle-class-action-lawsuit-bus-situation/> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <http://purl.org/dc/terms/publisher> "National Archives, Pieces of History blog" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <http://purl.org/dc/terms/title> "The Montgomery Bus Boycott" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s6> <https://schema.org/url> <https://prologue.blogs.archives.gov/?p=16375> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <http://purl.org/dc/terms/publisher> "National Portrait Gallery, Smithsonian Institution" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <http://purl.org/dc/terms/title> "Rosa Parks: Tired of Giving In" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s7> <https://schema.org/url> <https://npg.si.edu/es/node/5946> .
 <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
 <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s1> <http://purl.org/dc/terms/title> "Morrill Act (1862)" .

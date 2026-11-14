@@ -4,16 +4,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `us:reconstruction-era` | 7.27 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws`, `us:panic-of-1873` |
-| `us:united-states` | 7.23 | Place | `us:american-civil-war`, `us:gilded-age`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:pennsylvania`, `us:september-11-attacks` |
-| `us:emancipation-proclamation` | 5.72 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| `us:reconstruction-era` | 7.26 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws`, `us:panic-of-1873` |
+| `us:united-states` | 7.22 | Place | `us:american-civil-war`, `us:gilded-age`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:pennsylvania`, `us:september-11-attacks` |
+| `us:civil-rights-movement` | 6.70 | - | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:liberty-bell`, `us:montgomery-bus-boycott`, `us:voting-rights-act-of-1965` |
+| `us:emancipation-proclamation` | 5.71 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | `us:presidency-of-the-united-states` | 5.69 | Office | `us:abraham-lincoln`, `us:george-washington`, `us:thomas-jefferson`, `us:united-states-congress`, `us:united-states-constitution` |
-| `us:abolitionism` | 5.68 | - | `us:frederick-douglass`, `us:liberty-bell`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| `us:civil-rights-movement` | 5.67 | - | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:liberty-bell`, `us:voting-rights-act-of-1965` |
+| `us:abolitionism` | 5.67 | - | `us:frederick-douglass`, `us:liberty-bell`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | `us:american-revolutionary-war` | 4.63 | - | `us:declaration-of-independence`, `us:george-washington`, `us:thomas-jefferson` |
-| `us:labor-movement` | 4.63 | - | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:panic-of-1873` |
+| `us:labor-movement` | 4.62 | - | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:panic-of-1873` |
 | `us:womens-suffrage-movement` | 4.62 | - | `us:fifteenth-amendment`, `us:frederick-douglass`, `us:liberty-bell` |
-| `us:three-fifths-clause` | 4.18 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
+| `us:three-fifths-clause` | 4.17 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:second-continental-congress` | 4.14 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:george-washington`, `us:thomas-jefferson` |
 | `us:native-americans` | 4.12 | - | `us:indian-removal-act`, `us:louisiana-purchase`, `us:mississippi-river`, `us:morrill-land-grant-college-act` |
 | `us:supreme-court-of-the-united-states` | 3.62 | - | `us:indian-removal-act`, `us:united-states-congress`, `us:united-states-constitution` |
@@ -24,16 +24,17 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:louisiana` | 3.60 | Place | `us:louisiana-purchase`, `us:mississippi-river`, `us:new-orleans` |
 | `us:black-codes` | 3.14 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
 | `us:reconstruction-amendments` | 3.13 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:african-american-history` | 3.13 | - | `us:frederick-douglass`, `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
-| `us:founding-documents-of-the-united-states` | 3.13 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:united-states-constitution` |
+| `us:african-american-history` | 3.12 | - | `us:frederick-douglass`, `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
+| `us:founding-documents-of-the-united-states` | 3.12 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:united-states-constitution` |
 | `us:ratification-of-the-constitution` | 3.12 | - | `us:constitutional-convention`, `us:united-states-constitution` |
-| `us:united-states-colored-troops` | 3.11 | - | `us:american-civil-war`, `us:frederick-douglass`, `us:siege-of-vicksburg` |
+| `us:racial-segregation-in-the-united-states` | 3.11 | - | `us:jim-crow-laws`, `us:montgomery-bus-boycott`, `us:plessy-v-ferguson` |
+| `us:united-states-colored-troops` | 3.10 | - | `us:american-civil-war`, `us:frederick-douglass`, `us:siege-of-vicksburg` |
 | `us:presidents-of-the-united-states` | 3.10 | - | `us:abraham-lincoln`, `us:george-washington`, `us:thomas-jefferson` |
-| `us:railroads-in-the-united-states` | 3.10 | - | `us:great-railroad-strike-of-1877`, `us:panic-of-1873` |
+| `us:railroads-in-the-united-states` | 3.09 | - | `us:great-railroad-strike-of-1877`, `us:panic-of-1873` |
 | `us:homestead-strike` | 3.09 | - | `us:gilded-age`, `us:lattimer-massacre`, `us:pennsylvania` |
 | `us:bill-of-rights` | 2.59 | - | `us:united-states-congress`, `us:united-states-constitution` |
 | `us:separation-of-powers` | 2.59 | - | `us:united-states-congress`, `us:united-states-constitution` |
-| `us:federalism` | 2.59 | - | `us:articles-of-confederation`, `us:united-states-constitution` |
+| `us:federalism` | 2.58 | - | `us:articles-of-confederation`, `us:united-states-constitution` |
 | `us:fugitive-slave-act-of-1850` | 2.58 | - | `us:frederick-douglass`, `us:slavery-in-the-united-states` |
 | `us:house-of-representatives` | 2.58 | - | `us:abraham-lincoln`, `us:united-states-congress` |
 | `us:gettysburg-address` | 2.58 | - | `us:abraham-lincoln`, `us:american-civil-war` |
@@ -41,7 +42,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:independence-day` | 2.57 | - | `us:declaration-of-independence`, `us:siege-of-vicksburg` |
 | `us:thirteen-colonies` | 2.57 | - | `us:declaration-of-independence`, `us:pennsylvania` |
 | `us:voting-rights-in-the-united-states` | 2.57 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
-| `us:lewis-and-clark-expedition` | 2.57 | - | `us:louisiana-purchase`, `us:thomas-jefferson` |
+| `us:lewis-and-clark-expedition` | 2.56 | - | `us:louisiana-purchase`, `us:thomas-jefferson` |
 | `us:nineteenth-amendment` | 2.56 | - | `us:fifteenth-amendment`, `us:liberty-bell` |
 | `us:tribal-sovereignty` | 2.56 | - | `us:indian-removal-act`, `us:louisiana-purchase` |
 | `us:independence-hall` | 2.56 | Place | `us:constitutional-convention`, `us:liberty-bell` |
@@ -50,26 +51,25 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:philadelphia` | 2.56 | Place | `us:liberty-bell`, `us:pennsylvania` |
 | `us:iraq-war` | 2.56 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:land-grant-universities` | 2.55 | - | `us:morrill-land-grant-college-act` |
-| `us:civil-rights-cases` | 2.09 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
-| `us:racial-segregation-in-the-united-states` | 2.09 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
-| `us:separate-car-act` | 2.09 | Document | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| `us:civil-rights-cases` | 2.08 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| `us:separate-car-act` | 2.08 | Document | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| `us:guinn-v-united-states` | 2.08 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
 | `us:domestic-slave-trade` | 2.08 | - | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | `us:act-prohibiting-importation-of-slaves` | 2.08 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
-| `us:guinn-v-united-states` | 2.08 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
+| `us:massive-resistance` | 2.08 | - | `us:brown-v-board-of-education` |
 | `us:hiram-revels` | 2.08 | - | `us:fifteenth-amendment`, `us:united-states-congress` |
 | `us:great-compromise` | 2.08 | - | `us:constitutional-convention`, `us:united-states-congress` |
-| `us:massive-resistance` | 2.08 | - | `us:brown-v-board-of-education` |
-| `us:tenth-amendment` | 2.08 | - | `us:articles-of-confederation` |
+| `us:tenth-amendment` | 2.07 | - | `us:articles-of-confederation` |
 | `us:comite-des-citoyens` | 2.07 | - | `us:new-orleans`, `us:plessy-v-ferguson` |
 | `us:confederation-period` | 2.07 | - | `us:articles-of-confederation`, `us:constitutional-convention` |
 | `us:lost-cause` | 2.07 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
 | `us:declaration-of-sentiments` | 2.07 | - | `us:declaration-of-independence`, `us:frederick-douglass` |
 | `us:american-equal-rights-association` | 2.07 | - | `us:fifteenth-amendment`, `us:frederick-douglass` |
 | `us:right-to-vote` | 2.07 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
-| `us:populist-movement` | 2.07 | - | `us:gilded-age` |
-| `us:pittsburgh` | 2.07 | Place | `us:great-railroad-strike-of-1877`, `us:pennsylvania` |
-| `us:missouri-river` | 2.07 | - | `us:mississippi-river` |
-| `us:northwest-ordinance` | 2.07 | - | `us:articles-of-confederation`, `us:morrill-land-grant-college-act` |
+| `us:populist-movement` | 2.06 | - | `us:gilded-age` |
+| `us:pittsburgh` | 2.06 | Place | `us:great-railroad-strike-of-1877`, `us:pennsylvania` |
+| `us:missouri-river` | 2.06 | - | `us:mississippi-river` |
+| `us:northwest-ordinance` | 2.06 | - | `us:articles-of-confederation`, `us:morrill-land-grant-college-act` |
 | `us:choctaw-nation` | 2.06 | - | `us:indian-removal-act`, `us:new-orleans` |
 | `us:ulysses-s-grant` | 2.06 | Person | `us:panic-of-1873`, `us:siege-of-vicksburg` |
 | `us:whiskey-rebellion` | 2.06 | - | `us:george-washington`, `us:pennsylvania` |
@@ -113,6 +113,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:blues` | 1.53 | - | `us:jazz` |
 | `us:cold-war` | 1.53 | - | `us:jazz` |
 | `us:nato` | 1.53 | - | `us:war-in-afghanistan` |
+| `us:martin-luther-king-jr` | 1.53 | Person | `us:montgomery-bus-boycott` |
+| `us:rosa-parks` | 1.53 | - | `us:montgomery-bus-boycott` |
 | `us:civil-rights-act-of-1866` | 1.05 | - | `us:fourteenth-amendment` |
 | `us:elk-v-wilkins` | 1.05 | - | `us:fourteenth-amendment` |
 | `us:incorporation-of-the-bill-of-rights` | 1.05 | - | `us:fourteenth-amendment` |
@@ -145,11 +147,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:henry-billings-brown` | 1.04 | Person | `us:plessy-v-ferguson` |
 | `us:homer-plessy` | 1.04 | - | `us:plessy-v-ferguson` |
 | `us:john-marshall-harlan` | 1.04 | - | `us:plessy-v-ferguson` |
-| `us:common-sense` | 1.04 | - | `us:declaration-of-independence` |
-| `us:dunmores-proclamation` | 1.04 | - | `us:declaration-of-independence` |
-| `us:john-hancock` | 1.04 | Person | `us:declaration-of-independence` |
-| `us:lee-resolution` | 1.04 | - | `us:declaration-of-independence` |
-| `us:treaty-of-alliance-1778` | 1.04 | - | `us:declaration-of-independence` |
 | `us:bolling-v-sharpe` | 1.04 | - | `us:brown-v-board-of-education` |
 | `us:earl-warren` | 1.04 | Person | `us:brown-v-board-of-education` |
 | `us:griffin-v-county-school-board-of-prince-edward-county` | 1.04 | - | `us:brown-v-board-of-education` |
@@ -157,6 +154,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:school-desegregation-in-the-united-states` | 1.04 | - | `us:brown-v-board-of-education` |
 | `us:southern-manifesto` | 1.04 | - | `us:brown-v-board-of-education` |
 | `us:thurgood-marshall` | 1.04 | - | `us:brown-v-board-of-education` |
+| `us:common-sense` | 1.04 | - | `us:declaration-of-independence` |
+| `us:dunmores-proclamation` | 1.04 | - | `us:declaration-of-independence` |
+| `us:john-hancock` | 1.04 | Person | `us:declaration-of-independence` |
+| `us:lee-resolution` | 1.04 | - | `us:declaration-of-independence` |
+| `us:treaty-of-alliance-1778` | 1.04 | - | `us:declaration-of-independence` |
 | `us:annapolis-convention` | 1.04 | - | `us:articles-of-confederation` |
 | `us:haudenosaunee` | 1.04 | - | `us:articles-of-confederation` |
 | `us:john-dickinson` | 1.04 | Person | `us:articles-of-confederation` |
@@ -277,20 +279,28 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:taliban` | 1.03 | - | `us:war-in-afghanistan` |
 | `us:anthracite-coal-strike-of-1902` | 1.03 | - | `us:lattimer-massacre` |
 | `us:anti-slavery-record` | 1.03 | - | `us:liberty-bell` |
+| `us:baton-rouge-bus-boycott` | 1.03 | - | `us:montgomery-bus-boycott` |
+| `us:browder-v-gayle` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:charter-of-privileges` | 1.03 | - | `us:liberty-bell` |
+| `us:claudette-colvin` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:coal-and-iron-police` | 1.03 | - | `us:lattimer-massacre` |
 | `us:cornell-university` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:dakota-oyate` | 1.03 | - | `us:morrill-land-grant-college-act` |
+| `us:e-d-nixon` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:equity-in-educational-land-grant-status-act` | 1.03 | - | `us:morrill-land-grant-college-act` |
+| `us:fred-gray` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:hatch-act-of-1887` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:higher-education-in-the-united-states` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:historically-black-colleges-and-universities` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:independence-national-historical-park` | 1.03 | Place | `us:liberty-bell` |
 | `us:james-buchanan` | 1.03 | - | `us:morrill-land-grant-college-act` |
+| `us:jo-ann-robinson` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:john-mitchell` | 1.03 | - | `us:lattimer-massacre` |
 | `us:jonathan-baldwin-turner` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:justice-bell` | 1.03 | - | `us:liberty-bell` |
 | `us:justin-smith-morrill` | 1.03 | Person | `us:morrill-land-grant-college-act` |
+| `us:montgomery` | 1.03 | Place | `us:montgomery-bus-boycott` |
+| `us:montgomery-improvement-association` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:morrill-act-of-1890` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:national-freedom-day` | 1.03 | - | `us:liberty-bell` |
 | `us:national-symbols-of-the-united-states` | 1.03 | - | `us:liberty-bell` |
@@ -298,3 +308,4 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:smith-lever-act` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:tribal-colleges-and-universities` | 1.03 | - | `us:morrill-land-grant-college-act` |
 | `us:united-mine-workers-of-america` | 1.03 | - | `us:lattimer-massacre` |
+| `us:womens-political-council` | 1.03 | - | `us:montgomery-bus-boycott` |
