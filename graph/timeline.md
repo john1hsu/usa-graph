@@ -7,6 +7,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
 | 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
+| 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -39,6 +40,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-06-11 | After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-06-28 | The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -264,6 +266,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-09-02 | William T. Sherman's army captures Atlanta before marching to the sea. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -295,6 +298,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-05-12 | At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -411,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -418,6 +423,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1928 | The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
 | 1929-08 | The expansion of the 1920s ends and the economy begins to contract. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1929-10-24 | Black Thursday: the New York Stock Exchange loses 11 percent of its value. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -466,6 +472,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-07-31 | Tule Lake is designated a segregation center for people the government labeled disloyal. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -512,6 +519,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -600,6 +608,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2013 | The Supreme Court strikes down a key federal oversight provision of the Voting Rights Act. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
@@ -610,6 +619,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2021-08-16 | The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-30 | The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |

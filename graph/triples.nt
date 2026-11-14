@@ -762,6 +762,107 @@
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://schema.org/endDate> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://schema.org/startDate> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Negotiators relied on only about 20 years of gauge records; a 1976 tree-ring reconstruction put the 1564–1961 average at about 13.5 million acre-feet a year and found 1905–1930 the wettest such period in 400 years, while the Compact and the 1944 treaty together assigned up to 17.5 million." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The 1922 Colorado River Compact divided a river whose long-term average flow was well known." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The Compact's fixed numbers look like measurements, but they rest on an unusually wet stretch of record, which is a root of today's shortages." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the 1922 Compact divide the river at Lee Ferry rather than state by state, and what did it promise each side?" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Herbert Hoover proposed splitting the basin into an Upper and a Lower half; the Compact gave each 7.5 million acre-feet a year (the Lower Basin could add 1 million more) and required the Upper Division not to deplete the flow at Lee Ferry below 75 million acre-feet over any ten years. The Lower Basin's share was divided among Arizona, California and Nevada later, by the 1928 Boulder Canyon Project Act." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How do tree-ring studies help explain the Colorado River's modern water shortages?" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "They show the Compact was based on an unusually wet period (1905–1930), so the long-term flow (about 13.5 million acre-feet a year in one reconstruction) is far below the 16.5 million acre-feet promised to the two basins plus 1.5 million to Mexico." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How were Native nations' water rights treated in the Compact and later recognized?" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "No tribe took part in the 1922 negotiations, and the Compact only said it did not affect U.S. obligations to tribes; in Arizona v. California (1963) the Supreme Court applied the 1908 Winters doctrine and held that five lower-river reservations had reserved enough water to irrigate their practicably irrigable land." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1540"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1865"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1869-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1922-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1928"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1944"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2014-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#NaturalFeature> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2000/01/rdf-schema#label> "Colorado River" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#altLabel> "Colorado River of the West" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#altLabel> "Rio Colorado" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#definition> "The great river of the American Southwest, flowing about 1,450 miles from the Rocky Mountains of Colorado and Wyoming through the Grand Canyon toward the Gulf of California in Mexico; homeland of many Native nations, it is now divided among seven states, tribes and Mexico by the \"Law of the River\" and supplies water to nearly 40 million people." .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colorado River" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/arizona-v-california> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/grand-canyon> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-wesley-powell> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexico> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/arizona-v-california> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/colorado-river-indian-tribes> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#domain> "geography-and-environment" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/geography-and-environment/colorado-river.md" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it." .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The delegates were sent to Philadelphia to write a new constitution." .
@@ -4596,6 +4697,90 @@
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <https://schema.org/url> <https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <http://purl.org/dc/terms/publisher> "TreeFlow (Western Water Assessment, University of Colorado, and partners)" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <http://purl.org/dc/terms/title> "The first reconstruction of streamflow for Lees Ferry (1976)" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10> <https://schema.org/url> <https://www.treeflow.info/node/28> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <http://purl.org/dc/terms/publisher> "TreeFlow (Western Water Assessment, University of Colorado, and partners)" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <http://purl.org/dc/terms/title> "The Compact and Lees Ferry" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11> <https://schema.org/url> <https://www.treeflow.info/node/23> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey Publications Warehouse, by Steven M. Nelson et al." .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <http://purl.org/dc/terms/title> "A history of the 2014 Minute 319 environmental pulse flow as documented by field measurements and satellite imagery (Ecological Engineering, 2017)" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> <https://schema.org/url> <https://pubs.usgs.gov/publication/70177847> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <http://purl.org/dc/terms/publisher> "High Country News, by Pauly Denetclaw" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <http://purl.org/dc/terms/title> "Colorado River, stolen by law" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> <https://schema.org/url> <https://www.hcn.org/issues/54-3/indigenous-affairs-colorado-river-stolen-by-law/> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <http://purl.org/dc/terms/title> "Hoover Dam: Fatalities at Hoover Dam" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> <https://schema.org/url> <https://www.usbr.gov/lc/hooverdam/History/essays/fatal.html> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Water Resources Mission Area" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <http://purl.org/dc/terms/title> "Colorado River Basin Focus Area Study" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1> <https://schema.org/url> <https://www.usgs.gov/mission-areas/water-resources/science/colorado-river-basin-focus-area-study> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <http://purl.org/dc/terms/title> "Colorado River Compact, 1922 (text)" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2> <https://schema.org/url> <https://www.usbr.gov/lc/region/pao/pdfiles/crcompct.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <http://purl.org/dc/terms/title> "The Law of the River" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3> <https://schema.org/url> <https://www.usbr.gov/lc/region/g1000/lawofrvr.html> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <http://purl.org/dc/terms/publisher> "Utah Division of Archives and Records Service (Utah State Archives), by Jim Kichas" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <http://purl.org/dc/terms/title> "The Law of the River: Compact and Development" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4> <https://schema.org/url> <https://archives.utah.gov/2015/03/27/the-law-of-the-river-compact-and-development/> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Grand Canyon National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <http://purl.org/dc/terms/title> "Explorers of Grand Canyon" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5> <https://schema.org/url> <https://www.nps.gov/grca/learn/historyculture/explorers.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <http://purl.org/dc/terms/publisher> "Utah History Encyclopedia (Utah Historical Society, History To Go), by Robert McPherson" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <http://purl.org/dc/terms/title> "Colorado River" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6> <https://schema.org/url> <https://historytogo.utah.gov/colorado-river> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <http://purl.org/dc/terms/publisher> "University of Arizona, Native American Advancement, Initiatives, and Research" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <http://purl.org/dc/terms/title> "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7> <https://schema.org/url> <https://naair.arizona.edu/colorado-river-indian-tribes> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Environment and Natural Resources Division" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <http://purl.org/dc/terms/title> "Arizona v. California" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8> <https://schema.org/url> <https://www.justice.gov/enrd/arizona-v-california> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <http://purl.org/dc/terms/title> "Reclamation announces 2022 operating conditions for Lake Powell and Lake Mead" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <https://schema.org/url> <https://www.usbr.gov/newsroom/news-release/3950> .
 <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
 <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> <http://purl.org/dc/terms/title> "To the Congress and the People of the States" .

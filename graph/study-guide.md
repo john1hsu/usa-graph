@@ -455,6 +455,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## geography-and-environment
 
+### [Colorado River](../articles/geography-and-environment/colorado-river.md) — NaturalFeature
+
+| Myth | Fact |
+|---|---|
+| The 1922 Colorado River Compact divided a river whose long-term average flow was well known. | Negotiators relied on only about 20 years of gauge records; a 1976 tree-ring reconstruction put the 1564–1961 average at about 13.5 million acre-feet a year and found 1905–1930 the wettest such period in 400 years, while the Compact and the 1944 treaty together assigned up to 17.5 million. |
+
+**Why it matters:** The Compact's fixed numbers look like measurements, but they rest on an unusually wet stretch of record, which is a root of today's shortages.
+
+- **Q:** Why did the 1922 Compact divide the river at Lee Ferry rather than state by state, and what did it promise each side?
+  **A:** Herbert Hoover proposed splitting the basin into an Upper and a Lower half; the Compact gave each 7.5 million acre-feet a year (the Lower Basin could add 1 million more) and required the Upper Division not to deplete the flow at Lee Ferry below 75 million acre-feet over any ten years. The Lower Basin's share was divided among Arizona, California and Nevada later, by the 1928 Boulder Canyon Project Act.
+- **Q:** How do tree-ring studies help explain the Colorado River's modern water shortages?
+  **A:** They show the Compact was based on an unusually wet period (1905–1930), so the long-term flow (about 13.5 million acre-feet a year in one reconstruction) is far below the 16.5 million acre-feet promised to the two basins plus 1.5 million to Mexico.
+- **Q:** How were Native nations' water rights treated in the Compact and later recognized?
+  **A:** No tribe took part in the 1922 negotiations, and the Compact only said it did not affect U.S. obligations to tribes; in Arizona v. California (1963) the Supreme Court applied the 1908 Winters doctrine and held that five lower-river reservations had reserved enough water to irrigate their practicably irrigable land.
+
 ### [Mississippi River](../articles/geography-and-environment/mississippi-river.md) — NaturalFeature
 
 | Myth | Fact |

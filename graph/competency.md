@@ -30,6 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:united-states-constitution` | 5 | Slavery in the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
+| `us:colorado-river` | 4 | arizona-v-california, california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, adams-onis-treaty, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:equal-protection` | 1 | African Americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:fourteenth-amendment` | 1 | Equal protection |
-| `us:great-railroad-strike-of-1877` | 1 | labor-movement |
 
-…and 11 more.
+…and 12 more.
 
 ## Happenings by era
 
@@ -109,6 +109,7 @@ _Which written places have no event, person, tradition or landmark in the graph 
 
 | node | type |
 |---|---|
+| `us:colorado-river` | uso:NaturalFeature |
 | `us:panama-canal` | uso:Landmark |
 
 ## Orphan articles (gap)

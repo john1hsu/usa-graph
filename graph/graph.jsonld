@@ -1062,6 +1062,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Negotiators relied on only about 20 years of gauge records; a 1976 tree-ring reconstruction put the 1564–1961 average at about 13.5 million acre-feet a year and found 1905–1930 the wettest such period in 400 years, while the Compact and the 1944 treaty together assigned up to 17.5 million.",
+   "uso:myth": "The 1922 Colorado River Compact divided a river whose long-term average flow was well known.",
+   "uso:why": "The Compact's fixed numbers look like measurements, but they rest on an unusually wet stretch of record, which is a root of today's shortages."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the 1922 Compact divide the river at Lee Ferry rather than state by state, and what did it promise each side?",
+   "uso:answer": "Herbert Hoover proposed splitting the basin into an Upper and a Lower half; the Compact gave each 7.5 million acre-feet a year (the Lower Basin could add 1 million more) and required the Upper Division not to deplete the flow at Lee Ferry below 75 million acre-feet over any ten years. The Lower Basin's share was divided among Arizona, California and Nevada later, by the 1928 Boulder Canyon Project Act.",
+   "uso:questionFor": {
+    "@id": "us:colorado-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do tree-ring studies help explain the Colorado River's modern water shortages?",
+   "uso:answer": "They show the Compact was based on an unusually wet period (1905–1930), so the long-term flow (about 13.5 million acre-feet a year in one reconstruction) is far below the 16.5 million acre-feet promised to the two basins plus 1.5 million to Mexico.",
+   "uso:questionFor": {
+    "@id": "us:colorado-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How were Native nations' water rights treated in the Compact and later recognized?",
+   "uso:answer": "No tribe took part in the 1922 negotiations, and the Compact only said it did not affect U.S. obligations to tribes; in Arizona v. California (1963) the Supreme Court applied the 1908 Winters doctrine and held that five lower-river reservations had reserved enough water to irrigate their practicably irrigable land.",
+   "uso:questionFor": {
+    "@id": "us:colorado-river"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1540"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-08-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1865"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1869-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1922-11-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1928"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1963"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2014-03-23"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it.",
@@ -6687,6 +6811,202 @@
    "dcterms:title": "The Fair Housing Act of 1968",
    "schema:url": {
     "@id": "https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Water Resources Mission Area",
+   "dcterms:title": "Colorado River Basin Focus Area Study",
+   "schema:url": {
+    "@id": "https://www.usgs.gov/mission-areas/water-resources/science/colorado-river-basin-focus-area-study"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "TreeFlow (Western Water Assessment, University of Colorado, and partners)",
+   "dcterms:title": "The first reconstruction of streamflow for Lees Ferry (1976)",
+   "schema:url": {
+    "@id": "https://www.treeflow.info/node/28"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "TreeFlow (Western Water Assessment, University of Colorado, and partners)",
+   "dcterms:title": "The Compact and Lees Ferry",
+   "schema:url": {
+    "@id": "https://www.treeflow.info/node/23"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Geological Survey Publications Warehouse, by Steven M. Nelson et al.",
+   "dcterms:title": "A history of the 2014 Minute 319 environmental pulse flow as documented by field measurements and satellite imagery (Ecological Engineering, 2017)",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/publication/70177847"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "High Country News, by Pauly Denetclaw",
+   "dcterms:title": "Colorado River, stolen by law",
+   "schema:url": {
+    "@id": "https://www.hcn.org/issues/54-3/indigenous-affairs-colorado-river-stolen-by-law/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "Hoover Dam: Fatalities at Hoover Dam",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/hooverdam/History/essays/fatal.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "Colorado River Compact, 1922 (text)",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/region/pao/pdfiles/crcompct.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "The Law of the River",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/region/g1000/lawofrvr.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Utah Division of Archives and Records Service (Utah State Archives), by Jim Kichas",
+   "dcterms:title": "The Law of the River: Compact and Development",
+   "schema:url": {
+    "@id": "https://archives.utah.gov/2015/03/27/the-law-of-the-river-compact-and-development/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Grand Canyon National Park",
+   "dcterms:title": "Explorers of Grand Canyon",
+   "schema:url": {
+    "@id": "https://www.nps.gov/grca/learn/historyculture/explorers.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Utah History Encyclopedia (Utah Historical Society, History To Go), by Robert McPherson",
+   "dcterms:title": "Colorado River",
+   "schema:url": {
+    "@id": "https://historytogo.utah.gov/colorado-river"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "University of Arizona, Native American Advancement, Initiatives, and Research",
+   "dcterms:title": "Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California",
+   "schema:url": {
+    "@id": "https://naair.arizona.edu/colorado-river-indian-tribes"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Environment and Natural Resources Division",
+   "dcterms:title": "Arizona v. California",
+   "schema:url": {
+    "@id": "https://www.justice.gov/enrd/arizona-v-california"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation",
+   "dcterms:title": "Reclamation announces 2022 operating conditions for Lake Powell and Lake Mead",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/newsroom/news-release/3950"
    },
    "uso:sourceType": "government"
   },
@@ -13828,6 +14148,165 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:colorado-river",
+   "@type": "uso:NaturalFeature",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9"
+    }
+   ],
+   "rdfs:label": "Colorado River",
+   "skos:altLabel": [
+    "Colorado River of the West",
+    "Rio Colorado"
+   ],
+   "skos:broader": {
+    "@id": "us:physical-geography-of-the-united-states"
+   },
+   "skos:definition": "The great river of the American Southwest, flowing about 1,450 miles from the Rocky Mountains of Colorado and Wyoming through the Grand Canyon toward the Gulf of California in Mexico; homeland of many Native nations, it is now divided among seven states, tribes and Mexico by the \"Law of the River\" and supplies water to nearly 40 million people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Colorado River",
+   "skos:related": [
+    {
+     "@id": "us:arizona-v-california"
+    },
+    {
+     "@id": "us:colorado-river-compact"
+    },
+    {
+     "@id": "us:glen-canyon-dam"
+    },
+    {
+     "@id": "us:grand-canyon"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:john-wesley-powell"
+    },
+    {
+     "@id": "us:mexico"
+    },
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:arizona-v-california"
+    },
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:colorado-river-compact"
+    },
+    {
+     "@id": "us:colorado-river-indian-tribes"
+    }
+   ],
+   "uso:domain": "geography-and-environment",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/geography-and-environment/colorado-river.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/timeline/9"
     }
    ]
   },
