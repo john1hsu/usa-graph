@@ -287,6 +287,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## depression-and-world-war
 
+### [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The "Okies" who poured into California in the 1930s were mostly farm families blown out of the Dust Bowl. | Dust Bowl refugees were only part of a migration of roughly half a million people from several Southern Plains states; many came from Arkansas, Missouri, eastern Oklahoma and East Texas, where tenant farmers were pushed off the land by falling prices, foreclosures and landlords using federal crop payments to mechanize and evict them. |
+
+**Why it matters:** John Steinbeck's The Grapes of Wrath and Depression-era photographs fused the dust storms and the westward migration into one story, and Californians labelled all the newcomers "Okies".
+
+- **Q:** Why did drought in the 1930s produce such severe dust storms on the Southern Plains?
+  **A:** Between about 1909 and 1929 farmers had broken some 32 million acres of native sod, much of it for wheat; when drought killed the crops from 1931, bare plowed fields lost the grass roots that had held the soil, and high winds lifted it away.
+- **Q:** How did the Dust Bowl change federal policy?
+  **A:** Dust clouds reaching Washington in 1934 and 1935 helped Hugh Hammond Bennett persuade Congress to pass the Soil Conservation Act of 1935, which created the permanent Soil Conservation Service; it promoted terracing, strip cropping and grass seeding and led to locally run soil conservation districts.
+- **Q:** Why do historians disagree about the causes of the Dust Bowl?
+  **A:** Donald Worster argued that a market-driven plow-up of marginal grassland made it a human-made ecological disaster, while later researchers using county data and climate models stress that dust storms are natural in long Plains droughts, that the heaviest wheat areas were not always the worst hit, and that ocean temperatures drove the drought.
+- **Q:** Were most migrants who went to California from the Dust Bowl itself?
+  **A:** No. Of roughly half a million Southern Plains migrants, many were tenant farmers from Arkansas, Missouri, eastern Oklahoma and East Texas displaced by economic forces rather than drought.
+
 ### [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) — Event
 
 | Myth | Fact |

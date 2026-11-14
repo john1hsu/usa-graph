@@ -35,6 +35,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
+| `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:homeland-security-act-of-2002` | 1 | Department of Homeland Security |
 | `us:jim-crow-laws` | 1 | African Americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
-| `us:mississippi-river` | 1 | Siege of Vicksburg |
 
-…and 5 more.
+…and 6 more.
 
 ## Happenings by era
 
@@ -69,6 +69,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
+| `us:great-depression` | `us:dust-bowl` | 1931 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -82,6 +83,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:blues` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:dust-bowl` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
 | `us:george-washington` | interpretive |  |
@@ -108,7 +110,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:dust-bowl` |
 
 ## People with no recorded role (gap)
 

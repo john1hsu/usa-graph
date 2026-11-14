@@ -191,6 +191,18 @@
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/dust-bowl.md" .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> .
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/japanese-american-incarceration.md" .
@@ -3195,6 +3207,169 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://schema.org/startDate> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> {
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Dust Bowl refugees were only part of a migration of roughly half a million people from several Southern Plains states; many came from Arkansas, Missouri, eastern Oklahoma and East Texas, where tenant farmers were pushed off the land by falling prices, foreclosures and landlords using federal crop payments to mechanize and evict them." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The \"Okies\" who poured into California in the 1930s were mostly farm families blown out of the Dust Bowl." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "John Steinbeck's The Grapes of Wrath and Depression-era photographs fused the dust storms and the westward migration into one story, and Californians labelled all the newcomers \"Okies\"." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did drought in the 1930s produce such severe dust storms on the Southern Plains?" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Between about 1909 and 1929 farmers had broken some 32 million acres of native sod, much of it for wheat; when drought killed the crops from 1931, bare plowed fields lost the grass roots that had held the soil, and high winds lifted it away." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Dust Bowl change federal policy?" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Dust clouds reaching Washington in 1934 and 1935 helped Hugh Hammond Bennett persuade Congress to pass the Soil Conservation Act of 1935, which created the permanent Soil Conservation Service; it promoted terracing, strip cropping and grass seeding and led to locally run soil conservation districts." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about the causes of the Dust Bowl?" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Donald Worster argued that a market-driven plow-up of marginal grassland made it a human-made ecological disaster, while later researchers using county data and climate models stress that dust storms are natural in long Plains droughts, that the heaviest wheat areas were not always the worst hit, and that ocean temperatures drove the drought." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Were most migrants who went to California from the Dust Bowl itself?" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "No. Of roughly half a million Southern Plains migrants, many were tenant farmers from Arkansas, Missouri, eastern Oklahoma and East Texas displaced by economic forces rather than drought." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The first soil conservation district is organized, in North Carolina's Brown Creek watershed." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "With near-normal rain returning from 1938, the drought ends." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1931"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "By late January winds are lifting loose soil into dust storms." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1934-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A second March dust cloud darkens Washington as Congress holds hearings on soil conservation." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1936-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2000/01/rdf-schema#label> "Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#altLabel> "Dirty Thirties" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#altLabel> "Dust Bowl drought" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#altLabel> "Great Plains drought of the 1930s" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#altLabel> "The Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#definition> "The drought and severe wind erosion that struck the Southern Great Plains in the 1930s, when dust storms stripped topsoil from plowed land in parts of Kansas, Colorado, New Mexico and the Oklahoma and Texas panhandles, deepening the Great Depression and prompting federal soil-conservation programs." .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/black-sunday-dust-storm> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-grapes-of-wrath> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/dust-bowl.md" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/national-grasslands> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/soil-conservation-act-of-1935> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/soil-conservation-service> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/great-plains> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/kansas> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/oklahoma> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://schema.org/endDate> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <https://schema.org/startDate> "1931"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/publisher> "Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture (Donald A. Wilhite)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/title> "Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <https://schema.org/url> <https://www.okhistory.org/publications/enc/entry?entryname=DUST+BOWL> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia of the Great Plains, University of Nebraska–Lincoln (R. Douglas Hurt)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <http://purl.org/dc/terms/title> "Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s2> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.pe.022.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <http://purl.org/dc/terms/publisher> "USDA Natural Resources Conservation Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <http://purl.org/dc/terms/title> "A Brief History of NRCS" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s3> <https://schema.org/url> <https://www.nrcs.usda.gov/about/history/brief-history-nrcs> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <http://purl.org/dc/terms/publisher> "National Weather Service, Dodge City, Kansas" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <http://purl.org/dc/terms/title> "Black Sunday – April 14, 1935" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s4> <https://schema.org/url> <https://www.weather.gov/ddc/BlackSunday1935> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia of the Great Plains, University of Nebraska–Lincoln (Brad A. Bays)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <http://purl.org/dc/terms/title> "Okies" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s5> <https://schema.org/url> <https://plainshumanities.unl.edu/encyclopedia/doc/egp.ii.044.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <http://purl.org/dc/terms/title> "Fireside Chat, September 6, 1936" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s6> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/fireside-chat-18> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <http://purl.org/dc/terms/publisher> "Great Plains Quarterly 1, no. 1 (1981), Center for Great Plains Studies, University of Nebraska–Lincoln (Thomas Saarinen)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <http://purl.org/dc/terms/title> "Review of The Dust Bowl by Paul Bonnifield and Dust Bowl: The Southern Plains in the 1930s by Donald Worster" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s7> <https://schema.org/url> <https://digitalcommons.unl.edu/greatplainsquarterly/1915> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <http://purl.org/dc/terms/publisher> "National Research Council, Population, Land Use, and Environment (2005) (Gutmann, Parton, Cunfer and Burke)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <http://purl.org/dc/terms/title> "Population and Environment in the U.S. Great Plains" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s8> <https://schema.org/url> <https://www.nationalacademies.org/read/11439/chapter/7> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <http://purl.org/dc/terms/publisher> "NASA Goddard Space Flight Center, NASA Technical Reports Server (Schubert, Suarez, Pegion, Koster and Bacmeister)" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <http://purl.org/dc/terms/title> "On the Cause of the 1930s Dust Bowl" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s9> <https://schema.org/url> <https://ntrs.nasa.gov/api/citations/20040027705/downloads/20040027705.pdf> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> {
@@ -7024,6 +7199,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/african-methodist-episcopal-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
@@ -7142,6 +7318,7 @@
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/black-immigrants-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/black-power-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/black-sunday-dust-storm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/blues/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/blues/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/blues/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7368,6 +7545,25 @@
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/duke-ellington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/dunmores-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/e-d-nixon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -7499,6 +7695,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/fred-gray> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7583,10 +7780,20 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+  <https://github.com/john1hsu/usa-graph/id/great-plains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/great-plains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/great-plains> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7636,6 +7843,7 @@
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -7792,6 +8000,9 @@
   <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/kansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/kansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/kansas> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/korematsu-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
@@ -7997,6 +8208,7 @@
   <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-freedom-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-grasslands> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/national-guard-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -8007,6 +8219,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/neutrality-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans-massacre-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8039,6 +8252,10 @@
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/okies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/oklahoma> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -8320,6 +8537,8 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/smith-lever-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/soil-conservation-act-of-1935> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/soil-conservation-service> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -8345,6 +8564,7 @@
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/the-gilded-age-a-tale-of-today> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/the-grapes-of-wrath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .

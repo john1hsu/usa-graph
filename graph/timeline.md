@@ -350,6 +350,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -374,10 +375,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
+| 1931 | Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-03-21 | A second March dust cloud darkens Washington as Congress holds hearings on soil conservation. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1936-09-06 | In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
