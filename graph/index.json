@@ -720,6 +720,230 @@
   ]
  },
  {
+  "id": "us:civil-rights-movement",
+  "title": "Civil rights movement",
+  "aliases": [
+   "American civil rights movement",
+   "African American civil rights movement"
+  ],
+  "type": "Movement",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/cold-war-and-civil-rights/civil-rights-movement.md",
+  "created": "2026-11-14",
+  "summary": "The mass struggle, led and sustained above all by Black Americans, to end legal segregation and racial discrimination and secure equal citizenship and voting rights; its best-known phase ran from the mid-1950s to 1968 and produced the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Fair Housing Act of 1968.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montgomery-bus-boycott"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:racial-segregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martin-luther-king-jr"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rosa-parks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ella-baker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:naacp"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:southern-christian-leadership-conference"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:student-nonviolent-coordinating-committee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:congress-of-racial-equality"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:march-on-washington-for-jobs-and-freedom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:selma-to-montgomery-marches"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:freedom-rides"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fair-housing-act-of-1968"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:african-americans",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:civil-rights-act-of-1964",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:voting-rights-act-of-1965",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:racial-segregation-in-the-united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:black-power-movement",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1954",
+  "end": "1968",
+  "review": [
+   {
+    "question": "Why did violence against peaceful protesters in Birmingham and Selma help win federal civil rights laws?",
+    "answer": "Televised attacks on marchers in Birmingham in May 1963 shocked the nation and were followed by Kennedy's civil rights bill, and the 1965 attack in Selma drew national attention that helped persuade Johnson and Congress to pass the Voting Rights Act."
+   },
+   {
+    "question": "How did the 1966 Chicago campaign challenge the idea that segregation was only a Southern problem?",
+    "answer": "Chicago activists invited King and SCLC north to fight de facto segregation in housing, schools and employment; marchers met violent hostility in white neighborhoods, and city agencies later failed to carry out the open-housing agreement they had signed."
+   },
+   {
+    "question": "How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?",
+    "answer": "Hall argues for a \"long\" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1941-06-25",
+    "event": "After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts."
+   },
+   {
+    "date": "1948-07-26",
+    "event": "Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race."
+   },
+   {
+    "date": "1954",
+    "event": "The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education."
+   },
+   {
+    "date": "1955-12-01",
+    "event": "Rosa Parks is arrested in Montgomery, Alabama, setting off the Montgomery bus boycott."
+   },
+   {
+    "date": "1957-01",
+    "event": "More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference."
+   },
+   {
+    "date": "1960-02-01",
+    "event": "Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South."
+   },
+   {
+    "date": "1960-04",
+    "event": "Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker."
+   },
+   {
+    "date": "1961-05-04",
+    "event": "Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel."
+   },
+   {
+    "date": "1963-08-28",
+    "event": "More than 200,000 people join the March on Washington for Jobs and Freedom."
+   },
+   {
+    "date": "1964-06-21",
+    "event": "Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County."
+   },
+   {
+    "date": "1964-07-02",
+    "event": "President Lyndon B. Johnson signs the Civil Rights Act of 1964."
+   },
+   {
+    "date": "1965-03-07",
+    "event": "State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday)."
+   },
+   {
+    "date": "1965-08-06",
+    "event": "Johnson signs the Voting Rights Act of 1965."
+   },
+   {
+    "date": "1966-06-16",
+    "event": "Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi."
+   },
+   {
+    "date": "1966-08-26",
+    "event": "The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders."
+   },
+   {
+    "date": "1968-04-04",
+    "event": "Martin Luther King Jr. is assassinated in Memphis, Tennessee."
+   },
+   {
+    "date": "1968-04-11",
+    "event": "Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act."
+   }
+  ],
+  "misconception": {
+   "myth": "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South.",
+   "fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
+   "why": "A story centered on one leader and one region makes the movement look finished and distant, hiding the grassroots organizing that powered it and the national scope of the discrimination it fought."
+  },
+  "source_urls": [
+   "https://www.loc.gov/exhibits/civil-rights-act/civil-rights-era.html",
+   "https://www.loc.gov/exhibits/civil-rights-act/civil-rights-act-of-1964.html",
+   "https://www.loc.gov/exhibits/civil-rights-act/world-war-ii-and-post-war.html",
+   "https://kinginstitute.stanford.edu/march-washington-jobs-and-freedom",
+   "https://www.nps.gov/articles/selmatomongtomerymarch.htm",
+   "https://archives.gov/milestone-documents/voting-rights-act",
+   "https://kinginstitute.stanford.edu/chicago-campaign",
+   "https://kinginstitute.stanford.edu/black-power",
+   "https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True",
+   "https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-jacquelyn-dowd-hall",
+   "https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-cha-jua-and-lang",
+   "https://daily.jstor.org/the-long-civil-rights-movement/"
+  ]
+ },
+ {
   "id": "us:constitutional-convention",
   "title": "Constitutional Convention",
   "aliases": [

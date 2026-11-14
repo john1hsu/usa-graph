@@ -27,6 +27,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
+| `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
 | `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:montgomery-bus-boycott` | 1 | browder-v-gayle |
 | `us:plessy-v-ferguson` | 1 | Jim Crow laws |
 | `us:separate-car-act` | 1 | Jim Crow laws |
-| `us:siege-of-vicksburg` | 1 | siege-of-port-hudson |
 
-…and 1 more.
+…and 2 more.
 
 ## Happenings by era
 
@@ -79,6 +79,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |
+| `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |

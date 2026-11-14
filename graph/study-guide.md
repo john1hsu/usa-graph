@@ -68,6 +68,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Court's approach to remedies allow segregation to continue for years after 1954?
   **A:** The 1954 ruling did not say how or when schools must desegregate; Brown II in 1955 left it to federal district courts to proceed "with all deliberate speed," and opponents used that vague standard to delay, admit only token numbers of Black students, pass new segregation laws, or, as in Prince Edward County, close public schools from 1959 to 1964.
 
+### [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South. | The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed. |
+
+**Why it matters:** A story centered on one leader and one region makes the movement look finished and distant, hiding the grassroots organizing that powered it and the national scope of the discrimination it fought.
+
+- **Q:** Why did violence against peaceful protesters in Birmingham and Selma help win federal civil rights laws?
+  **A:** Televised attacks on marchers in Birmingham in May 1963 shocked the nation and were followed by Kennedy's civil rights bill, and the 1965 attack in Selma drew national attention that helped persuade Johnson and Congress to pass the Voting Rights Act.
+- **Q:** How did the 1966 Chicago campaign challenge the idea that segregation was only a Southern problem?
+  **A:** Chicago activists invited King and SCLC north to fight de facto segregation in housing, schools and employment; marchers met violent hostility in white neighborhoods, and city agencies later failed to carry out the open-housing agreement they had signed.
+- **Q:** How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?
+  **A:** Hall argues for a "long" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power.
+
 ### [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) — Event
 
 | Myth | Fact |

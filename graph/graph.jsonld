@@ -591,6 +591,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
+   "uso:myth": "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South.",
+   "uso:why": "A story centered on one leader and one region makes the movement look finished and distant, hiding the grassroots organizing that powered it and the national scope of the discrimination it fought."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did violence against peaceful protesters in Birmingham and Selma help win federal civil rights laws?",
+   "uso:answer": "Televised attacks on marchers in Birmingham in May 1963 shocked the nation and were followed by Kennedy's civil rights bill, and the 1965 attack in Selma drew national attention that helped persuade Johnson and Congress to pass the Voting Rights Act.",
+   "uso:questionFor": {
+    "@id": "us:civil-rights-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1966 Chicago campaign challenge the idea that segregation was only a Southern problem?",
+   "uso:answer": "Chicago activists invited King and SCLC north to fight de facto segregation in housing, schools and employment; marchers met violent hostility in white neighborhoods, and city agencies later failed to carry out the open-housing agreement they had signed.",
+   "uso:questionFor": {
+    "@id": "us:civil-rights-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?",
+   "uso:answer": "Hall argues for a \"long\" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power.",
+   "uso:questionFor": {
+    "@id": "us:civil-rights-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-06-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Lyndon B. Johnson signs the Civil Rights Act of 1964.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-07-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-03-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Johnson signs the Voting Rights Act of 1965.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1966-06-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1966-08-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Martin Luther King Jr. is assassinated in Memphis, Tennessee.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-04-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1948-07-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1954"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rosa Parks is arrested in Montgomery, Alabama, setting off the Montgomery bus boycott.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1957-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1960-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1960-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-05-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "More than 200,000 people join the March on Washington for Jobs and Freedom.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1963-08-28"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Congress called the meeting only to revise the Articles of Confederation and report proposed alterations to Congress and the states; the delegates decided on their own, by mid-June 1787, to draft an entirely new frame of government, and their Constitution took effect once nine state conventions had ratified it.",
@@ -4909,6 +5096,174 @@
    "dcterms:title": "The Southern Manifesto of 1956",
    "schema:url": {
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "Civil Rights Era (1950–1963) — The Civil Rights Act of 1964: A Long Struggle for Freedom",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/civil-rights-act/civil-rights-era.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)",
+   "dcterms:title": "Historian: Jacquelyn Dowd Hall (excerpt from 'The Long Civil Rights Movement and the Political Uses of the Past')",
+   "schema:url": {
+    "@id": "https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-jacquelyn-dowd-hall"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)",
+   "dcterms:title": "Historians: Sundiata Cha-Jua and Clarence Lang (excerpt from 'The \"Long Movement\" as Vampire')",
+   "schema:url": {
+    "@id": "https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-cha-jua-and-lang"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "JSTOR Daily",
+   "dcterms:title": "The Long Civil Rights Movement",
+   "schema:url": {
+    "@id": "https://daily.jstor.org/the-long-civil-rights-movement/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "The Civil Rights Act of 1964 — The Civil Rights Act of 1964: A Long Struggle for Freedom",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/civil-rights-act/civil-rights-act-of-1964.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "World War II and Post War (1940–1949) — The Civil Rights Act of 1964: A Long Struggle for Freedom",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/civil-rights-act/world-war-ii-and-post-war.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "March on Washington for Jobs and Freedom",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/march-washington-jobs-and-freedom"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Selma to Montgomery March",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/selmatomongtomerymarch.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Voting Rights Act (1965)",
+   "schema:url": {
+    "@id": "https://archives.gov/milestone-documents/voting-rights-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Chicago Campaign",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/chicago-campaign"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Black Power",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/black-power"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. House of Representatives",
+   "dcterms:title": "The Fair Housing Act of 1968",
+   "schema:url": {
+    "@id": "https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True"
    },
    "uso:sourceType": "government"
   },
@@ -10291,6 +10646,203 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:civil-rights-movement",
+   "@type": "uso:Movement",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9"
+    }
+   ],
+   "rdfs:label": "Civil rights movement",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1968"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1954"
+   },
+   "skos:altLabel": [
+    "African American civil rights movement",
+    "American civil rights movement"
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "The mass struggle, led and sustained above all by Black Americans, to end legal segregation and racial discrimination and secure equal citizenship and voting rights; its best-known phase ran from the mid-1950s to 1968 and produced the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Fair Housing Act of 1968.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Civil rights movement",
+   "skos:related": [
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:congress-of-racial-equality"
+    },
+    {
+     "@id": "us:ella-baker"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:fair-housing-act-of-1968"
+    },
+    {
+     "@id": "us:freedom-rides"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:march-on-washington-for-jobs-and-freedom"
+    },
+    {
+     "@id": "us:martin-luther-king-jr"
+    },
+    {
+     "@id": "us:montgomery-bus-boycott"
+    },
+    {
+     "@id": "us:naacp"
+    },
+    {
+     "@id": "us:racial-segregation-in-the-united-states"
+    },
+    {
+     "@id": "us:rosa-parks"
+    },
+    {
+     "@id": "us:selma-to-montgomery-marches"
+    },
+    {
+     "@id": "us:southern-christian-leadership-conference"
+    },
+    {
+     "@id": "us:student-nonviolent-coordinating-committee"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:racial-segregation-in-the-united-states"
+   },
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/cold-war-and-civil-rights/civil-rights-movement.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:black-power-movement"
+    },
+    {
+     "@id": "us:civil-rights-act-of-1964"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:african-americans"
+   },
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9"
     }
    ]
   },

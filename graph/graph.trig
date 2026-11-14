@@ -41,6 +41,21 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s5> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s6> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/cold-war-and-civil-rights/civil-rights-movement.md" .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> .
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/cold-war-and-civil-rights/montgomery-bus-boycott.md" .
@@ -1003,6 +1018,215 @@
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/civil-rights-movement#graph> {
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "A story centered on one leader and one region makes the movement look finished and distant, hiding the grassroots organizing that powered it and the national scope of the discrimination it fought." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did violence against peaceful protesters in Birmingham and Selma help win federal civil rights laws?" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Televised attacks on marchers in Birmingham in May 1963 shocked the nation and were followed by Kennedy's civil rights bill, and the 1965 attack in Selma drew national attention that helped persuade Johnson and Congress to pass the Voting Rights Act." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1966 Chicago campaign challenge the idea that segregation was only a Southern problem?" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Chicago activists invited King and SCLC north to fight de facto segregation in housing, schools and employment; marchers met violent hostility in white neighborhoods, and city agencies later failed to carry out the open-housing agreement they had signed." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hall argues for a \"long\" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President Lyndon B. Johnson signs the Civil Rights Act of 1964." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday)." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Johnson signs the Voting Rights Act of 1965." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1966-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1966-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Luther King Jr. is assassinated in Memphis, Tennessee." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1968-04-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1948-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Rosa Parks is arrested in Montgomery, Alabama, setting off the Montgomery bus boycott." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1957-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "More than 200,000 people join the March on Washington for Jobs and Freedom." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Movement> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2000/01/rdf-schema#label> "Civil rights movement" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "African American civil rights movement" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "American civil rights movement" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#definition> "The mass struggle, led and sustained above all by Black Americans, to end legal segregation and racial discrimination and secure equal citizenship and voting rights; its best-known phase ran from the mid-1950s to 1968 and produced the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Fair Housing Act of 1968." .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil rights movement" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/congress-of-racial-equality> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ella-baker> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fair-housing-act-of-1968> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedom-rides> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/march-on-washington-for-jobs-and-freedom> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/naacp> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rosa-parks> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/southern-christian-leadership-conference> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/student-nonviolent-coordinating-committee> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#domain> "cold-war-and-civil-rights" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/cold-war-and-civil-rights/civil-rights-movement.md" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/black-power-movement> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://schema.org/endDate> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://schema.org/startDate> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/title> "Historian: Jacquelyn Dowd Hall (excerpt from 'The Long Civil Rights Movement and the Political Uses of the Past')" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <https://schema.org/url> <https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-jacquelyn-dowd-hall> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <http://purl.org/dc/terms/publisher> "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <http://purl.org/dc/terms/title> "Historians: Sundiata Cha-Jua and Clarence Lang (excerpt from 'The \"Long Movement\" as Vampire')" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s11> <https://schema.org/url> <https://learninglink.oup.com/access/content/smith1e-student-resources/smith1e-historian-cha-jua-and-lang> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <http://purl.org/dc/terms/publisher> "JSTOR Daily" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <http://purl.org/dc/terms/title> "The Long Civil Rights Movement" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s12> <https://schema.org/url> <https://daily.jstor.org/the-long-civil-rights-movement/> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <http://purl.org/dc/terms/title> "Civil Rights Era (1950–1963) — The Civil Rights Act of 1964: A Long Struggle for Freedom" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1> <https://schema.org/url> <https://www.loc.gov/exhibits/civil-rights-act/civil-rights-era.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <http://purl.org/dc/terms/title> "The Civil Rights Act of 1964 — The Civil Rights Act of 1964: A Long Struggle for Freedom" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s2> <https://schema.org/url> <https://www.loc.gov/exhibits/civil-rights-act/civil-rights-act-of-1964.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <http://purl.org/dc/terms/title> "World War II and Post War (1940–1949) — The Civil Rights Act of 1964: A Long Struggle for Freedom" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s3> <https://schema.org/url> <https://www.loc.gov/exhibits/civil-rights-act/world-war-ii-and-post-war.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <http://purl.org/dc/terms/title> "March on Washington for Jobs and Freedom" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s4> <https://schema.org/url> <https://kinginstitute.stanford.edu/march-washington-jobs-and-freedom> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <http://purl.org/dc/terms/title> "Selma to Montgomery March" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s5> <https://schema.org/url> <https://www.nps.gov/articles/selmatomongtomerymarch.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <http://purl.org/dc/terms/title> "Voting Rights Act (1965)" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s6> <https://schema.org/url> <https://archives.gov/milestone-documents/voting-rights-act> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <http://purl.org/dc/terms/title> "Chicago Campaign" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s7> <https://schema.org/url> <https://kinginstitute.stanford.edu/chicago-campaign> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <http://purl.org/dc/terms/title> "Black Power" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s8> <https://schema.org/url> <https://kinginstitute.stanford.edu/black-power> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. House of Representatives" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <http://purl.org/dc/terms/title> "The Fair Housing Act of 1968" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s9> <https://schema.org/url> <https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott#graph> {
@@ -6243,14 +6467,18 @@
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -6288,6 +6516,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -6366,6 +6595,7 @@
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/black-power-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/bolling-v-sharpe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -6411,15 +6641,43 @@
   <https://github.com/john1hsu/usa-graph/id/civil-liberties-act-of-1988> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
-  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
-  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/claudette-colvin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/coal-and-iron-police> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/coinage-act-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -6435,6 +6693,7 @@
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/congo-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/congo-square> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/congress-of-racial-equality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -6530,6 +6789,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -6552,6 +6812,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
+  <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -6562,6 +6823,7 @@
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/fair-housing-act-of-1968> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -6633,6 +6895,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -6669,6 +6932,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/freedom-rides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -6891,6 +7155,7 @@
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -7021,12 +7286,14 @@
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/march-on-washington-for-jobs-and-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/martha-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7077,7 +7344,9 @@
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
@@ -7110,6 +7379,7 @@
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-freedom-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -7270,7 +7540,9 @@
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+  <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/ragtime> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -7289,6 +7561,7 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -7302,6 +7575,7 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/robert-r-livingston> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -7313,6 +7587,7 @@
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/second-seminole-war> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7408,6 +7683,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -7424,11 +7700,13 @@
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/southern-christian-leadership-conference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/southern-united-states> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/student-nonviolent-coordinating-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -7477,6 +7755,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -7665,6 +7944,7 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .

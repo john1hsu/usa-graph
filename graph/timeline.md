@@ -362,6 +362,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -377,12 +378,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1954 – 1968 | **[Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md)** (Movement) |
 | 1954 | Brown v. Board of Education declares school segregation unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1954 | Brown v. Board of Education holds that segregated public schools violate equal protection. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1954 | The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
 | 1954-05-17 | Brown v. Board of Education rejects separate but equal in public education. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -391,6 +395,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1955-12-01 | Rosa Parks is arrested for refusing to give up her seat to a white passenger. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1955-12-01 | Rosa Parks is arrested in Montgomery, Alabama, setting off the Montgomery bus boycott. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1955-12-05 – 1956-12-20 | **[Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md)** (Event) |
 | 1955-12-05 | About 90 percent of Black riders stay off the buses; the Montgomery Improvement Association forms and elects Martin Luther King Jr. president. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-12-08 | The MIA presents its demands: courtesy, first-come seating and Black drivers on mainly Black routes. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -404,11 +409,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-17 | The Supreme Court rejects city and state requests to reconsider. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1965-03-07 | State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday). — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1965-03-15 | President Johnson outlines his voting rights proposals in a televised address to a joint session of Congress. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-15 | President Lyndon B. Johnson asks Congress for a law to make the amendment impossible to evade. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1965-03-25 | Some 25,000 marchers led by Martin Luther King Jr. reach Montgomery under federal protection. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -416,11 +429,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-07-09 | The House passes H.R. 6400, 333 to 85. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-08-06 | **[Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md)** (Law) |
 | 1965-08-06 | Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1965-08-06 | Johnson signs the Voting Rights Act of 1965. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1965-08-06 | President Johnson signs the Voting Rights Act. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1967-06-12 | Loving v. Virginia unanimously strikes down a state ban on interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |

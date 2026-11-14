@@ -14,6 +14,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.10 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
 | 1.97 | `us:frederick-douglass` | `us:liberty-bell` | `us:abolitionism`, `us:declaration-of-independence`, `us:womens-suffrage-movement` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 1.90 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.88 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
 | 1.84 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.84 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
@@ -25,7 +26,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.62 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad` |
 | 1.61 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.61 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 1.61 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
-| 1.61 | `us:montgomery-bus-boycott` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.60 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
+| 1.56 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
 | 1.47 | `us:american-civil-war` | `us:pennsylvania` | `us:battle-of-gettysburg`, `us:united-states` |
