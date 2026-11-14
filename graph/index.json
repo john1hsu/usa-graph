@@ -3229,6 +3229,196 @@
   ]
  },
  {
+  "id": "us:liberty-bell",
+  "title": "Liberty Bell",
+  "aliases": [
+   "State House Bell",
+   "Old State House Bell"
+  ],
+  "type": "Symbol",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/symbols-and-national-identity/liberty-bell.md",
+  "created": "2026-11-14",
+  "summary": "The cracked bronze bell, recast in Philadelphia in 1753 for the Pennsylvania State House (now Independence Hall), whose biblical inscription about proclaiming liberty led abolitionists to name it the \"Liberty Bell\" in 1835 and later movements to adopt it as a national symbol of freedom.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:independence-hall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abolitionism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nineteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:justice-bell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-penn"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charter-of-privileges"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidents-house-philadelphia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-freedom-day"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:philadelphia",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:independence-national-historical-park",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:abolitionism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedIn",
+    "object": "us:anti-slavery-record",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:womens-suffrage-movement",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1753",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did abolitionists, rather than the Revolutionary generation, give the Liberty Bell its name?",
+    "answer": "The inscription from Leviticus 25:10, about proclaiming liberty to all inhabitants, went largely unnoticed during the Revolution. In the 1830s antislavery activists saw the gap between those words and the enslavement of millions, and the Anti-Slavery Record of February 1835 called the State House bell \"The Liberty Bell\" and said its peals were a mockery while slavery lasted."
+   },
+   {
+    "question": "How did a Philadelphia bell become a national symbol between 1885 and 1918?",
+    "answer": "It traveled by rail to seven fairs and expositions between 1885 and 1915, drawing huge crowds along the way, and during World War I the government used it in Liberty Loan drives that raised more than $17 billion. These tours and campaigns turned a local relic into a symbol recognized across the country."
+   },
+   {
+    "question": "Why is it uncertain whether the bell rang for the Declaration of Independence?",
+    "answer": "No record shows the bell ringing on July 4 or July 8, 1776, and the steeple was in poor condition. The National Park Service says there is no evidence, while historian Gary Nash writes that it is believed to have rung at the July 8 public reading; the July 4 version is Lippard's fiction."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1751-11-01",
+    "event": "Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription."
+   },
+   {
+    "date": "1752-08",
+    "event": "The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia."
+   },
+   {
+    "date": "1753",
+    "event": "Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII."
+   },
+   {
+    "date": "1765",
+    "event": "The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches."
+   },
+   {
+    "date": "1777",
+    "event": "Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778."
+   },
+   {
+    "date": "1835-02",
+    "event": "The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name."
+   },
+   {
+    "date": "1846-02",
+    "event": "Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good."
+   },
+   {
+    "date": "1847",
+    "event": "George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776."
+   },
+   {
+    "date": "1885",
+    "event": "The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips."
+   },
+   {
+    "date": "1915-07-05",
+    "event": "The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco."
+   },
+   {
+    "date": "1920-09-25",
+    "event": "Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment."
+   },
+   {
+    "date": "1948",
+    "event": "The National Park Service takes custody of the bell and Independence Hall."
+   },
+   {
+    "date": "1976",
+    "event": "For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away."
+   },
+   {
+    "date": "2003",
+    "event": "The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s."
+   }
+  ],
+  "misconception": {
+   "myth": "The Liberty Bell rang out on July 4, 1776, to announce the Declaration of Independence, and cracked doing so.",
+   "fact": "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s.",
+   "why": "Lippard's tale was retold as fact in books and schoolrooms, and it gave a beloved object a dramatic founding moment that the record does not supply."
+  },
+  "source_urls": [
+   "https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm",
+   "https://www.nps.gov/articles/000/inde-liberty-bell-anti-slavery-record-1835.htm",
+   "https://philadelphiaencyclopedia.org/essays/liberty-bell/",
+   "https://www.npshistory.com/handbooks/historical/17/hh17h.htm",
+   "https://www.smithsonianmag.com/history/how-liberty-bell-won-great-war-180962471/",
+   "https://www.historynewsnetwork.org/article/37376"
+  ]
+ },
+ {
   "id": "us:louisiana-purchase",
   "title": "Louisiana Purchase",
   "aliases": [

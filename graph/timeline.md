@@ -24,8 +24,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1737-09-19 | The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1751-11-01 | Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1752-08 | The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1753 | **[Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md)** (Symbol) |
+| 1753 | Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1754-07-03 | Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -44,6 +49,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1777 | Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
 | 1777-11-15 | After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -157,6 +163,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -168,6 +175,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -292,6 +301,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
@@ -338,9 +348,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -364,6 +376,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -398,6 +411,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -419,6 +433,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2001-10-07 | U.S. air strikes begin against Taliban military installations and al Qaeda training camps. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2001-12-07 | Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2002-05-30 | The recovery effort at Ground Zero formally ends with the removal of the Last Column. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2003 | The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 2003-03-01 | The Department of Homeland Security opens, combining parts or all of 22 federal agencies. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2003-08-11 | NATO assumes command of the UN-mandated International Security Assistance Force (ISAF). — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

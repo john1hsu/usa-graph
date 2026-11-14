@@ -574,3 +574,20 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Pennsylvania's resources make it the "Arsenal of America," and what labor conflicts came with that growth?
   **A:** Coal, oil (from 1859 near Titusville), more than 10,000 miles of railroad at its peak, and steel (60 percent of the nation's output in 1900) made it an industrial center that produced almost a third of U.S. steel in World War II. Growth brought violent conflicts such as the 1877 railroad strike in Pittsburgh, the 1892 Homestead Strike, and the 1897 Lattimer massacre of Slavic miners.
 
+## symbols-and-national-identity
+
+### [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) — Symbol
+
+| Myth | Fact |
+|---|---|
+| The Liberty Bell rang out on July 4, 1776, to announce the Declaration of Independence, and cracked doing so. | The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s. |
+
+**Why it matters:** Lippard's tale was retold as fact in books and schoolrooms, and it gave a beloved object a dramatic founding moment that the record does not supply.
+
+- **Q:** Why did abolitionists, rather than the Revolutionary generation, give the Liberty Bell its name?
+  **A:** The inscription from Leviticus 25:10, about proclaiming liberty to all inhabitants, went largely unnoticed during the Revolution. In the 1830s antislavery activists saw the gap between those words and the enslavement of millions, and the Anti-Slavery Record of February 1835 called the State House bell "The Liberty Bell" and said its peals were a mockery while slavery lasted.
+- **Q:** How did a Philadelphia bell become a national symbol between 1885 and 1918?
+  **A:** It traveled by rail to seven fairs and expositions between 1885 and 1915, drawing huge crowds along the way, and during World War I the government used it in Liberty Loan drives that raised more than $17 billion. These tours and campaigns turned a local relic into a symbol recognized across the country.
+- **Q:** Why is it uncertain whether the bell rang for the Declaration of Independence?
+  **A:** No record shows the bell ringing on July 4 or July 8, 1776, and the steeple was in poor condition. The National Park Service says there is no evidence, while historian Gary Nash writes that it is believed to have rung at the July 8 public reading; the July 4 version is Lippard's fiction.
+

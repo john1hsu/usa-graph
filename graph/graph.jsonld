@@ -2606,6 +2606,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s.",
+   "uso:myth": "The Liberty Bell rang out on July 4, 1776, to announce the Declaration of Independence, and cracked doing so.",
+   "uso:why": "Lippard's tale was retold as fact in books and schoolrooms, and it gave a beloved object a dramatic founding moment that the record does not supply."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did abolitionists, rather than the Revolutionary generation, give the Liberty Bell its name?",
+   "uso:answer": "The inscription from Leviticus 25:10, about proclaiming liberty to all inhabitants, went largely unnoticed during the Revolution. In the 1830s antislavery activists saw the gap between those words and the enslavement of millions, and the Anti-Slavery Record of February 1835 called the State House bell \"The Liberty Bell\" and said its peals were a mockery while slavery lasted.",
+   "uso:questionFor": {
+    "@id": "us:liberty-bell"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a Philadelphia bell become a national symbol between 1885 and 1918?",
+   "uso:answer": "It traveled by rail to seven fairs and expositions between 1885 and 1915, drawing huge crowds along the way, and during World War I the government used it in Liberty Loan drives that raised more than $17 billion. These tours and campaigns turned a local relic into a symbol recognized across the country.",
+   "uso:questionFor": {
+    "@id": "us:liberty-bell"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it uncertain whether the bell rang for the Declaration of Independence?",
+   "uso:answer": "No record shows the bell ringing on July 4 or July 8, 1776, and the steeple was in poor condition. The National Park Service says there is no evidence, while historian Gary Nash writes that it is believed to have rung at the July 8 public reading; the July 4 version is Lippard's fiction.",
+   "uso:questionFor": {
+    "@id": "us:liberty-bell"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1751-11-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1915-07-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1920-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Park Service takes custody of the bell and Independence Hall.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1948"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2003"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1752-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1753"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1765"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1777"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1835-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1846-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1847"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1885"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count.",
@@ -6299,6 +6459,90 @@
     "@id": "https://www.govinfo.gov/content/pkg/CREC-1997-09-10/html/CREC-1997-09-10-pt1-PgE1714.htm"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "The Liberty Bell",
+   "schema:url": {
+    "@id": "https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "“The Liberty Bell.” in The Anti-Slavery Record – February 1835",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/inde-liberty-bell-anti-slavery-record-1835.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Encyclopedia of Greater Philadelphia (Gary B. Nash)",
+   "dcterms:title": "Liberty Bell",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/liberty-bell/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service (via NPS History Electronic Library)",
+   "dcterms:title": "Independence: The Story of a Symbol (NPS Historical Handbook 17)",
+   "schema:url": {
+    "@id": "https://www.npshistory.com/handbooks/historical/17/hh17h.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Magazine (Stephen Fried, April 2017)",
+   "dcterms:title": "How the Liberty Bell Won the Great War",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/history/how-liberty-bell-won-great-war-180962471/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "History News Network (Charlene Mires, 2007)",
+   "dcterms:title": "The history of the Liberty Bell illustrates both freedom and its numerous limitations",
+   "schema:url": {
+    "@id": "https://www.historynewsnetwork.org/article/37376"
+   },
+   "uso:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1",
@@ -11954,6 +12198,160 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:liberty-bell",
+   "@type": "uso:Symbol",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6"
+    }
+   ],
+   "rdfs:label": "Liberty Bell",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1753"
+   },
+   "skos:altLabel": [
+    "Old State House Bell",
+    "State House Bell"
+   ],
+   "skos:broader": {
+    "@id": "us:national-symbols-of-the-united-states"
+   },
+   "skos:definition": "The cracked bronze bell, recast in Philadelphia in 1753 for the Pennsylvania State House (now Independence Hall), whose biblical inscription about proclaiming liberty led abolitionists to name it the \"Liberty Bell\" in 1835 and later movements to adopt it as a national symbol of freedom.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "Liberty Bell",
+   "skos:related": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:charter-of-privileges"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:independence-hall"
+    },
+    {
+     "@id": "us:justice-bell"
+    },
+    {
+     "@id": "us:national-freedom-day"
+    },
+    {
+     "@id": "us:nineteenth-amendment"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:presidents-house-philadelphia"
+    },
+    {
+     "@id": "us:william-penn"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    }
+   ],
+   "uso:domain": "symbols-and-national-identity",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/symbols-and-national-identity/liberty-bell.md",
+   "uso:influencedBy": {
+    "@id": "us:abolitionism"
+   },
+   "uso:introducedIn": {
+    "@id": "us:anti-slavery-record"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:independence-national-historical-park"
+    },
+    {
+     "@id": "us:philadelphia"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:symbolizes": {
+    "@id": "us:womens-suffrage-movement"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9"
     }
    ]
   },

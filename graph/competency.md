@@ -86,6 +86,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
+| `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |

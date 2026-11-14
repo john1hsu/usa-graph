@@ -1915,6 +1915,117 @@
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://schema.org/endDate> "1897-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> <https://schema.org/startDate> "1897-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Liberty Bell rang out on July 4, 1776, to announce the Declaration of Independence, and cracked doing so." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Lippard's tale was retold as fact in books and schoolrooms, and it gave a beloved object a dramatic founding moment that the record does not supply." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did abolitionists, rather than the Revolutionary generation, give the Liberty Bell its name?" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The inscription from Leviticus 25:10, about proclaiming liberty to all inhabitants, went largely unnoticed during the Revolution. In the 1830s antislavery activists saw the gap between those words and the enslavement of millions, and the Anti-Slavery Record of February 1835 called the State House bell \"The Liberty Bell\" and said its peals were a mockery while slavery lasted." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did a Philadelphia bell become a national symbol between 1885 and 1918?" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It traveled by rail to seven fairs and expositions between 1885 and 1915, drawing huge crowds along the way, and during World War I the government used it in Liberty Loan drives that raised more than $17 billion. These tours and campaigns turned a local relic into a symbol recognized across the country." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it uncertain whether the bell rang for the Declaration of Independence?" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "No record shows the bell ringing on July 4 or July 8, 1776, and the steeple was in poor condition. The National Park Service says there is no evidence, while historian Gary Nash writes that it is believed to have rung at the July 8 public reading; the July 4 version is Lippard's fiction." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1915-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The National Park Service takes custody of the bell and Independence Hall." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1948"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1751-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1752-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1753"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1765"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1777"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1835-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1847"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1885"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Symbol> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2000/01/rdf-schema#label> "Liberty Bell" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#altLabel> "Old State House Bell" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#altLabel> "State House Bell" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#definition> "The cracked bronze bell, recast in Philadelphia in 1753 for the Pennsylvania State House (now Independence Hall), whose biblical inscription about proclaiming liberty led abolitionists to name it the \"Liberty Bell\" in 1835 and later movements to adopt it as a national symbol of freedom." .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liberty Bell" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/charter-of-privileges> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/independence-hall> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/justice-bell> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-freedom-day> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nineteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidents-house-philadelphia> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-penn> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#domain> "symbols-and-national-identity" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/symbols-and-national-identity/liberty-bell.md" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#introducedIn> <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/independence-national-historical-park> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#symbolizes> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://schema.org/startDate> "1753"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "France sold what it had, a European claim to sovereignty that gave the United States the exclusive right to acquire land from the Native nations who held and lived on it; the United States then acquired that land over the following decades through hundreds of treaties, agreements and seizures, eventually paying Native nations about $2.6 billion in disbursements by one historian's count." .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "In 1803 the United States bought the land of the Louisiana Territory from France for a few cents an acre." .
@@ -3935,6 +4046,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s6> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/CREC-1997-09-10/html/CREC-1997-09-10-pt1-PgE1714.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <http://purl.org/dc/terms/title> "The Liberty Bell" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1> <https://schema.org/url> <https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <http://purl.org/dc/terms/title> "“The Liberty Bell.” in The Anti-Slavery Record – February 1835" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s2> <https://schema.org/url> <https://www.nps.gov/articles/000/inde-liberty-bell-anti-slavery-record-1835.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <http://purl.org/dc/terms/publisher> "The Encyclopedia of Greater Philadelphia (Gary B. Nash)" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <http://purl.org/dc/terms/title> "Liberty Bell" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s3> <https://schema.org/url> <https://philadelphiaencyclopedia.org/essays/liberty-bell/> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <http://purl.org/dc/terms/publisher> "National Park Service (via NPS History Electronic Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <http://purl.org/dc/terms/title> "Independence: The Story of a Symbol (NPS Historical Handbook 17)" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> <https://schema.org/url> <https://www.npshistory.com/handbooks/historical/17/hh17h.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <http://purl.org/dc/terms/publisher> "Smithsonian Magazine (Stephen Fried, April 2017)" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <http://purl.org/dc/terms/title> "How the Liberty Bell Won the Great War" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> <https://schema.org/url> <https://www.smithsonianmag.com/history/how-liberty-bell-won-great-war-180962471/> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <http://purl.org/dc/terms/publisher> "History News Network (Charlene Mires, 2007)" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <http://purl.org/dc/terms/title> "The history of the Liberty Bell illustrates both freedom and its numerous limitations" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <https://schema.org/url> <https://www.historynewsnetwork.org/article/37376> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Milestone Documents" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s1> <http://purl.org/dc/terms/title> "Louisiana Purchase Treaty (1803)" .
