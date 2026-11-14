@@ -48,12 +48,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
-| `us:equal-protection` | 1 | african-americans |
+| `us:equal-protection` | 1 | African Americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:fourteenth-amendment` | 1 | Equal protection |
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
 | `us:homeland-security-act-of-2002` | 1 | Department of Homeland Security |
-| `us:jim-crow-laws` | 1 | african-americans |
+| `us:jim-crow-laws` | 1 | African Americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 | `us:mississippi-river` | 1 | Siege of Vicksburg |
 

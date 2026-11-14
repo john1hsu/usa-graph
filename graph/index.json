@@ -161,6 +161,168 @@
   ]
  },
  {
+  "id": "us:african-americans",
+  "title": "African Americans",
+  "aliases": [
+   "Black Americans",
+   "Afro-Americans"
+  ],
+  "type": "Community",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/african-americans.md",
+  "created": "2026-11-14",
+  "summary": "Americans with origins among the peoples of sub-Saharan Africa, most of them descended from Africans enslaved in North America and others from more recent Caribbean and African immigration; the 2020 census counted 46.9 million people who identified as Black alone or in combination with another race.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:racial-and-ethnic-groups-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:historically-black-colleges-and-universities"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:juneteenth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-methodist-episcopal-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:blues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jazz"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:great-migration",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:black-immigrants-in-the-united-states",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "How did a relatively small number of African arrivals become one of the largest Black populations in the Americas?",
+    "answer": "Only about 388,000 captive Africans landed in British North America and the United States, but in places like the Chesapeake the enslaved population became self-sustaining through births from about 1730, so the population grew by natural increase rather than continual imports."
+   },
+   {
+    "question": "Why did free Black Americans build their own churches and societies in the late 1700s?",
+    "answer": "Facing segregation in white-led institutions (Richard Allen could lead only segregated services at St. George's in Philadelphia), they founded independent bodies such as the Free African Society (1787), Mother Bethel (1793) and the AME Church (1816), and mutual aid and fraternal groups that provided help, leadership and self-determination."
+   },
+   {
+    "question": "What pushed about six million Black Southerners to move north and west between 1910 and 1970?",
+    "answer": "They sought to escape racial violence and Jim Crow oppression and to find economic and educational opportunity, and wartime labor shortages in both world wars opened industrial jobs in cities from Chicago and Detroit to Los Angeles and Oakland."
+   },
+   {
+    "question": "Why does the census give two different counts of the Black population in 2020?",
+    "answer": "The \"Black alone\" count (41.1 million, 12.4 percent) includes only people who chose that single race, while \"Black alone or in combination\" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1619-08-25",
+    "event": "The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia."
+   },
+   {
+    "date": "1784",
+    "event": "Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry."
+   },
+   {
+    "date": "1787",
+    "event": "Richard Allen and Absalom Jones found the Free African Society in Philadelphia."
+   },
+   {
+    "date": "1816",
+    "event": "The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop."
+   },
+   {
+    "date": "1837",
+    "event": "The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU."
+   },
+   {
+    "date": "1863-05",
+    "event": "The War Department creates the Bureau of Colored Troops; about 179,000 Black men go on to serve in the Union Army."
+   },
+   {
+    "date": "1910",
+    "event": "The Great Migration out of the South begins; about six million people move north and west by 1970."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race."
+   }
+  ],
+  "misconception": {
+   "myth": "Most of the Africans carried across the Atlantic in the slave trade were taken to what became the United States.",
+   "fact": "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean.",
+   "why": "The U.S. Black population grew mainly through births rather than imports, so a comparatively small number of arrivals became a large population, which can make the United States seem the center of a trade that was mostly directed elsewhere."
+  },
+  "source_urls": [
+   "https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html",
+   "https://www.census.gov/library/stories/2023/10/2020-census-dhc-a-black-population.html",
+   "https://www.census.gov/data-tools/demo/race/MREAD_1790_2010.html",
+   "https://www.nps.gov/articles/000/arrival-of-the-first-africans-in-1619.htm",
+   "https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/",
+   "https://rediscovering-black-history.blogs.archives.gov/2021/06/09/richard-allen",
+   "https://www.searchablemuseum.com/forming-organizations/",
+   "https://www.searchablemuseum.com/historically-black-colleges-and-universities-hbcus/",
+   "https://www.archives.gov/education/lessons/blacks-civil-war",
+   "https://www.archives.gov/research/african-americans/migrations/great-migration"
+  ]
+ },
+ {
   "id": "us:american-civil-war",
   "title": "American Civil War",
   "aliases": [

@@ -147,6 +147,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean.",
+   "uso:myth": "Most of the Africans carried across the Atlantic in the slave trade were taken to what became the United States.",
+   "uso:why": "The U.S. Black population grew mainly through births rather than imports, so a comparatively small number of arrivals became a large population, which can make the United States seem the center of a trade that was mostly directed elsewhere."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a relatively small number of African arrivals become one of the largest Black populations in the Americas?",
+   "uso:answer": "Only about 388,000 captive Africans landed in British North America and the United States, but in places like the Chesapeake the enslaved population became self-sustaining through births from about 1730, so the population grew by natural increase rather than continual imports.",
+   "uso:questionFor": {
+    "@id": "us:african-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did free Black Americans build their own churches and societies in the late 1700s?",
+   "uso:answer": "Facing segregation in white-led institutions (Richard Allen could lead only segregated services at St. George's in Philadelphia), they founded independent bodies such as the Free African Society (1787), Mother Bethel (1793) and the AME Church (1816), and mutual aid and fraternal groups that provided help, leadership and self-determination.",
+   "uso:questionFor": {
+    "@id": "us:african-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What pushed about six million Black Southerners to move north and west between 1910 and 1970?",
+   "uso:answer": "They sought to escape racial violence and Jim Crow oppression and to find economic and educational opportunity, and wartime labor shortages in both world wars opened industrial jobs in cities from Chicago and Detroit to Los Angeles and Oakland.",
+   "uso:questionFor": {
+    "@id": "us:african-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the census give two different counts of the Black population in 2020?",
+   "uso:answer": "The \"Black alone\" count (41.1 million, 12.4 percent) includes only people who chose that single race, while \"Black alone or in combination\" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races.",
+   "uso:questionFor": {
+    "@id": "us:african-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1619-08-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1784"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Richard Allen and Absalom Jones found the Free African Society in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1787"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1816"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1837"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The War Department creates the Bureau of Colored Troops; about 179,000 Black men go on to serve in the Union Army.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1863-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Great Migration out of the South begins; about six million people move north and west by 1970.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The seceding states said otherwise at the time. Mississippi declared its position \"thoroughly identified with the institution of slavery,\" South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery.",
@@ -5127,6 +5242,146 @@
    "dcterms:title": "Today in History - April 14: Lincoln Shot at Ford's Theater",
    "schema:url": {
     "@id": "https://www.loc.gov/item/today-in-history/april-14/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau (Nicholas Jones, Rachel Marks, Roberto Ramirez and Merarys Ríos-Vargas)",
+   "dcterms:title": "2020 Census Illuminates Racial and Ethnic Composition of the Country",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, African American Heritage",
+   "dcterms:title": "The Great Migration (1910-1970)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/african-americans/migrations/great-migration"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau (Alli Coritz, Ricardo Henrique Lowe Jr. and Jessica E. Peña)",
+   "dcterms:title": "Over Half of Those Who Reported Their Race as Black or African American Identified as African American, Jamaican or Haitian",
+   "schema:url": {
+    "@id": "https://www.census.gov/library/stories/2023/10/2020-census-dhc-a-black-population.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Measuring Race and Ethnicity Across the Decades: 1790–2010",
+   "schema:url": {
+    "@id": "https://www.census.gov/data-tools/demo/race/MREAD_1790_2010.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Fort Monroe National Monument",
+   "dcterms:title": "The Arrival of the First Africans in 1619",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/arrival-of-the-first-africans-in-1619.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Joseph C. Miller, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Transatlantic Slave Trade, The",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Holly Rivet, Rediscovering Black History, National Archives",
+   "dcterms:title": "Richard Allen and the Origins of the AME Church",
+   "schema:url": {
+    "@id": "https://rediscovering-black-history.blogs.archives.gov/2021/06/09/richard-allen"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Museum of African American History and Culture, Searchable Museum",
+   "dcterms:title": "Forming Organizations",
+   "schema:url": {
+    "@id": "https://www.searchablemuseum.com/forming-organizations/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Museum of African American History and Culture, Searchable Museum",
+   "dcterms:title": "Historically Black Colleges and Universities (HBCUs)",
+   "schema:url": {
+    "@id": "https://www.searchablemuseum.com/historically-black-colleges-and-universities-hbcus/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Educator Resources",
+   "dcterms:title": "Black Soldiers in the U.S. Military During the Civil War",
+   "schema:url": {
+    "@id": "https://www.archives.gov/education/lessons/blacks-civil-war"
    },
    "uso:sourceType": "government"
   },
@@ -10743,6 +10998,144 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:african-americans",
+   "@type": "uso:Community",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s9"
+    }
+   ],
+   "rdfs:label": "African Americans",
+   "skos:altLabel": [
+    "Afro-Americans",
+    "Black Americans"
+   ],
+   "skos:broader": {
+    "@id": "us:racial-and-ethnic-groups-in-the-united-states"
+   },
+   "skos:definition": "Americans with origins among the peoples of sub-Saharan Africa, most of them descended from Africans enslaved in North America and others from more recent Caribbean and African immigration; the 2020 census counted 46.9 million people who identified as Black alone or in combination with another race.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "African Americans",
+   "skos:related": [
+    {
+     "@id": "us:african-american-history"
+    },
+    {
+     "@id": "us:african-methodist-episcopal-church"
+    },
+    {
+     "@id": "us:blues"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:historically-black-colleges-and-universities"
+    },
+    {
+     "@id": "us:jazz"
+    },
+    {
+     "@id": "us:juneteenth"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:united-states-colored-troops"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:black-immigrants-in-the-united-states"
+   },
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/african-americans.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:great-migration"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8"
     }
    ]
   },

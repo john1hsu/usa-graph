@@ -600,6 +600,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## society-and-people
 
+### [African Americans](../articles/society-and-people/african-americans.md) — Community
+
+| Myth | Fact |
+|---|---|
+| Most of the Africans carried across the Atlantic in the slave trade were taken to what became the United States. | Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean. |
+
+**Why it matters:** The U.S. Black population grew mainly through births rather than imports, so a comparatively small number of arrivals became a large population, which can make the United States seem the center of a trade that was mostly directed elsewhere.
+
+- **Q:** How did a relatively small number of African arrivals become one of the largest Black populations in the Americas?
+  **A:** Only about 388,000 captive Africans landed in British North America and the United States, but in places like the Chesapeake the enslaved population became self-sustaining through births from about 1730, so the population grew by natural increase rather than continual imports.
+- **Q:** Why did free Black Americans build their own churches and societies in the late 1700s?
+  **A:** Facing segregation in white-led institutions (Richard Allen could lead only segregated services at St. George's in Philadelphia), they founded independent bodies such as the Free African Society (1787), Mother Bethel (1793) and the AME Church (1816), and mutual aid and fraternal groups that provided help, leadership and self-determination.
+- **Q:** What pushed about six million Black Southerners to move north and west between 1910 and 1970?
+  **A:** They sought to escape racial violence and Jim Crow oppression and to find economic and educational opportunity, and wartime labor shortages in both world wars opened industrial jobs in cities from Chicago and Detroit to Los Angeles and Oakland.
+- **Q:** Why does the census give two different counts of the Black population in 2020?
+  **A:** The "Black alone" count (41.1 million, 12.4 percent) includes only people who chose that single race, while "Black alone or in combination" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races.
+
 ### [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) — Concept
 
 | Myth | Fact |

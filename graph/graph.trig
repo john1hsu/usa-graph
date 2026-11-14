@@ -414,6 +414,19 @@
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/african-americans.md" .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> .
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/slavery-in-the-united-states.md" .
@@ -6234,6 +6247,161 @@
   <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <https://schema.org/url> <https://ipo.lib.niu.edu/1998/iht519842.html> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/african-americans#graph> {
+  <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Most of the Africans carried across the Atlantic in the slave trade were taken to what became the United States." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The U.S. Black population grew mainly through births rather than imports, so a comparatively small number of arrivals became a large population, which can make the United States seem the center of a trade that was mostly directed elsewhere." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did a relatively small number of African arrivals become one of the largest Black populations in the Americas?" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Only about 388,000 captive Africans landed in British North America and the United States, but in places like the Chesapeake the enslaved population became self-sustaining through births from about 1730, so the population grew by natural increase rather than continual imports." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did free Black Americans build their own churches and societies in the late 1700s?" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Facing segregation in white-led institutions (Richard Allen could lead only segregated services at St. George's in Philadelphia), they founded independent bodies such as the Free African Society (1787), Mother Bethel (1793) and the AME Church (1816), and mutual aid and fraternal groups that provided help, leadership and self-determination." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What pushed about six million Black Southerners to move north and west between 1910 and 1970?" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "They sought to escape racial violence and Jim Crow oppression and to find economic and educational opportunity, and wartime labor shortages in both world wars opened industrial jobs in cities from Chicago and Detroit to Los Angeles and Oakland." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why does the census give two different counts of the Black population in 2020?" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The \"Black alone\" count (41.1 million, 12.4 percent) includes only people who chose that single race, while \"Black alone or in combination\" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1619-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1784"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Allen and Absalom Jones found the Free African Society in Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1787"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1816"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1837"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The War Department creates the Bureau of Colored Troops; about 179,000 Black men go on to serve in the Union Army." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Great Migration out of the South begins; about six million people move north and west by 1970." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Community> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2000/01/rdf-schema#label> "African Americans" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#altLabel> "Afro-Americans" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#altLabel> "Black Americans" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#definition> "Americans with origins among the peoples of sub-Saharan Africa, most of them descended from Africans enslaved in North America and others from more recent Caribbean and African immigration; the 2020 census counted 46.9 million people who identified as Black alone or in combination with another race." .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#prefLabel> "African Americans" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-methodist-episcopal-church> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/juneteenth> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/black-immigrants-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#domain> "society-and-people" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/society-and-people/african-americans.md" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/publisher> "National Archives, African American Heritage" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/title> "The Great Migration (1910-1970)" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <https://schema.org/url> <https://www.archives.gov/research/african-americans/migrations/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (Nicholas Jones, Rachel Marks, Roberto Ramirez and Merarys Ríos-Vargas)" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <http://purl.org/dc/terms/title> "2020 Census Illuminates Racial and Ethnic Composition of the Country" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s1> <https://schema.org/url> <https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (Alli Coritz, Ricardo Henrique Lowe Jr. and Jessica E. Peña)" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <http://purl.org/dc/terms/title> "Over Half of Those Who Reported Their Race as Black or African American Identified as African American, Jamaican or Haitian" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s2> <https://schema.org/url> <https://www.census.gov/library/stories/2023/10/2020-census-dhc-a-black-population.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <http://purl.org/dc/terms/title> "Measuring Race and Ethnicity Across the Decades: 1790–2010" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s3> <https://schema.org/url> <https://www.census.gov/data-tools/demo/race/MREAD_1790_2010.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Fort Monroe National Monument" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <http://purl.org/dc/terms/title> "The Arrival of the First Africans in 1619" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s4> <https://schema.org/url> <https://www.nps.gov/articles/000/arrival-of-the-first-africans-in-1619.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <http://purl.org/dc/terms/publisher> "Joseph C. Miller, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <http://purl.org/dc/terms/title> "Transatlantic Slave Trade, The" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s5> <https://schema.org/url> <https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <http://purl.org/dc/terms/publisher> "Holly Rivet, Rediscovering Black History, National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <http://purl.org/dc/terms/title> "Richard Allen and the Origins of the AME Church" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s6> <https://schema.org/url> <https://rediscovering-black-history.blogs.archives.gov/2021/06/09/richard-allen> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <http://purl.org/dc/terms/publisher> "National Museum of African American History and Culture, Searchable Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <http://purl.org/dc/terms/title> "Forming Organizations" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s7> <https://schema.org/url> <https://www.searchablemuseum.com/forming-organizations/> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <http://purl.org/dc/terms/publisher> "National Museum of African American History and Culture, Searchable Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <http://purl.org/dc/terms/title> "Historically Black Colleges and Universities (HBCUs)" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s8> <https://schema.org/url> <https://www.searchablemuseum.com/historically-black-colleges-and-universities-hbcus/> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <http://purl.org/dc/terms/publisher> "National Archives, Educator Resources" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <http://purl.org/dc/terms/title> "Black Soldiers in the U.S. Military During the Civil War" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <https://schema.org/url> <https://www.archives.gov/education/lessons/blacks-civil-war> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states#graph> {
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Slavery was legal in the North too; enslaved people were 30 percent of Kings County (Brooklyn) residents in 1790, New York's final emancipation came only in 1827, and about 16 people in New Jersey were still legally enslaved in December 1865." .
@@ -6832,12 +7000,29 @@
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/african-methodist-episcopal-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -6872,6 +7057,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
@@ -6954,6 +7140,7 @@
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/black-immigrants-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/black-power-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/blues/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/blues/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -6977,6 +7164,7 @@
   <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/bolling-v-sharpe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -7052,6 +7240,7 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -7293,6 +7482,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -7393,7 +7583,9 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/great-migration> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7431,6 +7623,7 @@
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -7536,6 +7729,7 @@
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-le-moyne-de-bienville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7592,6 +7786,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/justice-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/justin-smith-morrill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7955,6 +8150,8 @@
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -7977,6 +8174,7 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -8093,6 +8291,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -8105,6 +8304,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
@@ -8246,6 +8446,7 @@
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .

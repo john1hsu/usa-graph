@@ -7,6 +7,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -64,10 +65,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1787-02 | New York's refusal of the revised impost ends Congress's attempt to win a national tariff. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05 | The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -145,6 +148,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -166,6 +170,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -209,6 +214,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1863-04-30 | Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-05 | The War Department creates the Bureau of Colored Troops to organize Black regiments. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1863-05 | The War Department creates the Bureau of Colored Troops; about 179,000 Black men go on to serve in the Union Army. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1863-05-01 | Union victory at Port Gibson opens an inland campaign that wins at Raymond, Jackson, Champion Hill and the Big Black River by May 17. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-05-18 – 1863-07-04 | **[Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md)** (Conflict) |
 | 1863-05-18 | Grant's Army of the Tennessee reaches the Confederate defenses of Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
@@ -344,6 +350,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -513,6 +520,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 2020-04-01 | The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
