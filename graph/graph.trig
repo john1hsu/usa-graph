@@ -486,6 +486,18 @@
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/gatun-locks.md" .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> .
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/hoover-dam.md" .
@@ -7383,6 +7395,156 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/startDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> {
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Giant pumps lift ships up through the Panama Canal's locks." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The scale of the lift suggests heavy machinery, but the system's real limit is the supply of lake water, about 52 million gallons for each ship that transits." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do the Gatun Locks need no pumps to raise a ship?" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Gatun Lake sits about 85 feet above sea level, so opening valves lets lake water flow down by gravity through 18-foot culverts and up through 100 floor holes per chamber, filling a chamber in about eight minutes; emptying it reverses the process." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why does every transit through the Gatun Locks depend on Gatun Lake?" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The lake supplies the water that fills each chamber, roughly 26.7 million gallons per filling and about 52 million gallons of fresh water per ship, while the Gatun Dam that holds the lake also generated electricity for canal operations, including the gates." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States begin, and then stop, a third set of locks near Gatun?" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "By 1939 ships, especially warships, were growing too wide for the 110-foot chambers and officials feared one act of sabotage could close the canal, so Congress authorized larger locks; excavation ran from 1940 until Secretary of War Stimson ended it on May 23, 1942, as wartime money shifted elsewhere." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Who did much of the dangerous work of building the lock gates?" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Rivet gangs made up mostly of West Indian workers, who under the canal's segregated gold-and-silver-roll system did some of the riskiest jobs, drove more than six million rivets into the canal's hollow steel gates." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Workers pour the first concrete at the Gatun lock site." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1909-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Erection of the upper lock gates at Gatun gets under way." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1911-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Concreting of the canal's locks is completed." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The tug Gatun makes the first trial lockage, with valves worked by hand." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Ancon makes the canal's first official transit." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1914-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Excavation begins for a wider third set of locks near the existing ones." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary of War Henry Stimson terminates the Third Locks Project." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-05-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2016-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Landmark> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2000/01/rdf-schema#label> "Gatun Locks" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#altLabel> "Esclusas de Gatún" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#altLabel> "Gatún Locks" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#definition> "The three-step flight of paired lock chambers at the Atlantic end of the Panama Canal, built by the United States between 1909 and 1913, which uses gravity-fed water from Gatun Lake to raise and lower ships about 85 feet between the Caribbean Sea and the lake." .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gatun Locks" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/agua-clara-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/culebra-cut> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-dam> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-lake> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington-goethals> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/miraflores-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#domain> "regions-cities-and-landmarks" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/regions-cities-and-landmarks/gatun-locks.md" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://schema.org/startDate> "1913-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/publisher> "Panama Canal Authority (Autoridad del Canal de Panamá)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://purl.org/dc/terms/title> "Design of the Locks" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1> <https://schema.org/url> <https://pancanal.com/en/design-of-the-locks/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <http://purl.org/dc/terms/publisher> "Linda Hall Library of Science, Engineering & Technology" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <http://purl.org/dc/terms/title> "The Land Divided, The World United: Locks" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2> <https://schema.org/url> <https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <http://purl.org/dc/terms/publisher> "Linda Hall Library of Science, Engineering & Technology" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <http://purl.org/dc/terms/title> "The Land Divided, The World United: A Century of Progress" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3> <https://schema.org/url> <https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <http://purl.org/dc/terms/publisher> "U.S. National Archives, DocsTeach" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <http://purl.org/dc/terms/title> "Gatun Locks in the Panama Canal (photograph, November 26, 1951; Records of the Panama Canal, RG 185)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4> <https://schema.org/url> <https://docsteach.org/document/gatun-locks/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <http://purl.org/dc/terms/publisher> "U.S. National Archives, DocsTeach" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <http://purl.org/dc/terms/title> "Excavation at Gatun in the Panama Canal Zone (photograph, June 1942; Records of the Panama Canal, RG 185)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5> <https://schema.org/url> <https://www.docsteach.org/documents/document/excavation-gatun> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <http://purl.org/dc/terms/publisher> "Panama Canal Authority (Autoridad del Canal de Panamá)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <http://purl.org/dc/terms/title> "Inaugural Transit of the Expanded Panama Canal Begins" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6> <https://schema.org/url> <https://pancanal.com/en/inaugural-transit-of-the-expanded-panama-canal-begins/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <http://purl.org/dc/terms/publisher> "George A. Smathers Libraries, University of Florida" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <http://purl.org/dc/terms/title> "Expansion: Panama Canal Centennial Online Exhibit" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7> <https://schema.org/url> <https://exhibits.uflib.ufl.edu/canal100/expansion.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <http://purl.org/dc/terms/publisher> "George A. Smathers Libraries, University of Florida" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <http://purl.org/dc/terms/title> "Voices: Panama Canal Centennial Online Exhibit" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8> <https://schema.org/url> <https://exhibits.uflib.ufl.edu/canal100/voices.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <http://purl.org/dc/terms/publisher> "National Geographic" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <http://purl.org/dc/terms/title> "Panama Canal at 100: Culebra Cut, Lake Gatun and the Locks" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9> <https://schema.org/url> <https://www.nationalgeographic.com/history/article/140815-panama-canal-culebra-cut-lake-gatun-focus> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> {
   <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site." .
@@ -9549,6 +9711,7 @@
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/agua-clara-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
@@ -9894,6 +10057,7 @@
   <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/country-music> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/crossroads-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/culebra-cut> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/cybersecurity-and-infrastructure-security-agency> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/dakota-oyate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -10092,6 +10256,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -10178,9 +10343,32 @@
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-lake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+  <https://github.com/john1hsu/usa-graph/id/gatun-locks> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/panama> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington-goethals> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/george-washington-goethals> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/george-washington/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10704,6 +10892,7 @@
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/miraflores-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-delta> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10943,6 +11132,8 @@
   <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/otto-lilienthal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/otto-lilienthal> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10972,8 +11163,14 @@
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/panama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/panama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/panama> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/panama> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10996,6 +11193,7 @@
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/pendleton-civil-service-reform-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania-gradual-abolition-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -11089,6 +11287,7 @@
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/public-art-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
@@ -11331,6 +11530,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/third-locks-project> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .

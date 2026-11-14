@@ -679,6 +679,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## regions-cities-and-landmarks
 
+### [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Giant pumps lift ships up through the Panama Canal's locks. | No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts. |
+
+**Why it matters:** The scale of the lift suggests heavy machinery, but the system's real limit is the supply of lake water, about 52 million gallons for each ship that transits.
+
+- **Q:** Why do the Gatun Locks need no pumps to raise a ship?
+  **A:** Gatun Lake sits about 85 feet above sea level, so opening valves lets lake water flow down by gravity through 18-foot culverts and up through 100 floor holes per chamber, filling a chamber in about eight minutes; emptying it reverses the process.
+- **Q:** Why does every transit through the Gatun Locks depend on Gatun Lake?
+  **A:** The lake supplies the water that fills each chamber, roughly 26.7 million gallons per filling and about 52 million gallons of fresh water per ship, while the Gatun Dam that holds the lake also generated electricity for canal operations, including the gates.
+- **Q:** Why did the United States begin, and then stop, a third set of locks near Gatun?
+  **A:** By 1939 ships, especially warships, were growing too wide for the 110-foot chambers and officials feared one act of sabotage could close the canal, so Congress authorized larger locks; excavation ran from 1940 until Secretary of War Stimson ended it on May 23, 1942, as wartime money shifted elsewhere.
+- **Q:** Who did much of the dangerous work of building the lock gates?
+  **A:** Rivet gangs made up mostly of West Indian workers, who under the canal's segregated gold-and-silver-roll system did some of the riskiest jobs, drove more than six million rivets into the canal's hollow steel gates.
+
 ### [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) — Landmark
 
 | Myth | Fact |

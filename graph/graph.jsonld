@@ -2322,6 +2322,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts.",
+   "uso:myth": "Giant pumps lift ships up through the Panama Canal's locks.",
+   "uso:why": "The scale of the lift suggests heavy machinery, but the system's real limit is the supply of lake water, about 52 million gallons for each ship that transits."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do the Gatun Locks need no pumps to raise a ship?",
+   "uso:answer": "Gatun Lake sits about 85 feet above sea level, so opening valves lets lake water flow down by gravity through 18-foot culverts and up through 100 floor holes per chamber, filling a chamber in about eight minutes; emptying it reverses the process.",
+   "uso:questionFor": {
+    "@id": "us:gatun-locks"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does every transit through the Gatun Locks depend on Gatun Lake?",
+   "uso:answer": "The lake supplies the water that fills each chamber, roughly 26.7 million gallons per filling and about 52 million gallons of fresh water per ship, while the Gatun Dam that holds the lake also generated electricity for canal operations, including the gates.",
+   "uso:questionFor": {
+    "@id": "us:gatun-locks"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States begin, and then stop, a third set of locks near Gatun?",
+   "uso:answer": "By 1939 ships, especially warships, were growing too wide for the 110-foot chambers and officials feared one act of sabotage could close the canal, so Congress authorized larger locks; excavation ran from 1940 until Secretary of War Stimson ended it on May 23, 1942, as wartime money shifted elsewhere.",
+   "uso:questionFor": {
+    "@id": "us:gatun-locks"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Who did much of the dangerous work of building the lock gates?",
+   "uso:answer": "Rivet gangs made up mostly of West Indian workers, who under the canal's segregated gold-and-silver-roll system did some of the riskiest jobs, drove more than six million rivets into the canal's hollow steel gates.",
+   "uso:questionFor": {
+    "@id": "us:gatun-locks"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Workers pour the first concrete at the Gatun lock site.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1909-08-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Erection of the upper lock gates at Gatun gets under way.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1911-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Concreting of the canal's locks is completed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-09-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The tug Gatun makes the first trial lockage, with valves worked by hand.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-09-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-10-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Ancon makes the canal's first official transit.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1914-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Excavation begins for a wider third set of locks near the existing ones.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of War Henry Stimson terminates the Third Locks Project.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-05-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2016-06-26"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Mount Vernon finds no wood in any of his dentures; they were made of human teeth, ivory, metal and probably cow and horse teeth, and staining could make them look like wood.",
@@ -8598,6 +8722,132 @@
     "@id": "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Panama Canal Authority (Autoridad del Canal de Panamá)",
+   "dcterms:title": "Design of the Locks",
+   "schema:url": {
+    "@id": "https://pancanal.com/en/design-of-the-locks/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Linda Hall Library of Science, Engineering & Technology",
+   "dcterms:title": "The Land Divided, The World United: Locks",
+   "schema:url": {
+    "@id": "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Linda Hall Library of Science, Engineering & Technology",
+   "dcterms:title": "The Land Divided, The World United: A Century of Progress",
+   "schema:url": {
+    "@id": "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. National Archives, DocsTeach",
+   "dcterms:title": "Gatun Locks in the Panama Canal (photograph, November 26, 1951; Records of the Panama Canal, RG 185)",
+   "schema:url": {
+    "@id": "https://docsteach.org/document/gatun-locks/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. National Archives, DocsTeach",
+   "dcterms:title": "Excavation at Gatun in the Panama Canal Zone (photograph, June 1942; Records of the Panama Canal, RG 185)",
+   "schema:url": {
+    "@id": "https://www.docsteach.org/documents/document/excavation-gatun"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Panama Canal Authority (Autoridad del Canal de Panamá)",
+   "dcterms:title": "Inaugural Transit of the Expanded Panama Canal Begins",
+   "schema:url": {
+    "@id": "https://pancanal.com/en/inaugural-transit-of-the-expanded-panama-canal-begins/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George A. Smathers Libraries, University of Florida",
+   "dcterms:title": "Expansion: Panama Canal Centennial Online Exhibit",
+   "schema:url": {
+    "@id": "https://exhibits.uflib.ufl.edu/canal100/expansion.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George A. Smathers Libraries, University of Florida",
+   "dcterms:title": "Voices: Panama Canal Centennial Online Exhibit",
+   "schema:url": {
+    "@id": "https://exhibits.uflib.ufl.edu/canal100/voices.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Geographic",
+   "dcterms:title": "Panama Canal at 100: Culebra Cut, Lake Gatun and the Locks",
+   "schema:url": {
+    "@id": "https://www.nationalgeographic.com/history/article/140815-panama-canal-culebra-cut-lake-gatun-focus"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/george-washington/s1",
@@ -17259,6 +17509,137 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/frederick-douglass/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:gatun-locks",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s9"
+    }
+   ],
+   "rdfs:label": "Gatun Locks",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1913-09-26"
+   },
+   "skos:altLabel": [
+    "Esclusas de Gatún",
+    "Gatún Locks"
+   ],
+   "skos:broader": {
+    "@id": "us:panama-canal"
+   },
+   "skos:definition": "The three-step flight of paired lock chambers at the Atlantic end of the Panama Canal, built by the United States between 1909 and 1913, which uses gravity-fed water from Gatun Lake to raise and lower ships about 85 feet between the Caribbean Sea and the lake.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "Gatun Locks",
+   "skos:related": [
+    {
+     "@id": "us:agua-clara-locks"
+    },
+    {
+     "@id": "us:culebra-cut"
+    },
+    {
+     "@id": "us:gatun-dam"
+    },
+    {
+     "@id": "us:gatun-lake"
+    },
+    {
+     "@id": "us:george-washington-goethals"
+    },
+    {
+     "@id": "us:miraflores-locks"
+    },
+    {
+     "@id": "us:panama-canal-expansion"
+    },
+    {
+     "@id": "us:panama-canal-zone"
+    },
+    {
+     "@id": "us:pedro-miguel-locks"
+    }
+   ],
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/gatun-locks.md",
+   "uso:ledTo": {
+    "@id": "us:third-locks-project"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:panama-canal"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:panama-canal"
+   },
+   "uso:requires": {
+    "@id": "us:panama-canal"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/timeline/9"
     }
    ]
   },

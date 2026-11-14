@@ -428,16 +428,23 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1913-09-01 | Concreting of the canal's locks is completed. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
+| 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1913-10-10 | The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
+| 1914-08-15 | The Ancon makes the canal's first official transit. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -516,6 +523,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-12 | Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted. — [Okies](../articles/society-and-people/okies.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -527,6 +535,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-21 | Public Law 503 makes violating an exclusion order a federal crime. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-23 | The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-07-31 | Tule Lake is designated a segregation center for people the government labeled disloyal. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -684,6 +693,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

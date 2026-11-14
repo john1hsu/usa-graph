@@ -2878,6 +2878,159 @@
   ]
  },
  {
+  "id": "us:gatun-locks",
+  "title": "Gatun Locks",
+  "aliases": [
+   "Gatún Locks",
+   "Esclusas de Gatún"
+  ],
+  "type": "Landmark",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/gatun-locks.md",
+  "created": "2026-11-14",
+  "summary": "The three-step flight of paired lock chambers at the Atlantic end of the Panama Canal, built by the United States between 1909 and 1913, which uses gravity-fed water from Gatun Lake to raise and lower ships about 85 feet between the Caribbean Sea and the lake.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gatun-lake"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gatun-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:culebra-cut"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:miraflores-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pedro-miguel-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington-goethals"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal-zone"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:agua-clara-locks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal-expansion"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:panama-canal",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:third-locks-project",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:panama-canal",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1913-09-26",
+  "end": null,
+  "review": [
+   {
+    "question": "Why do the Gatun Locks need no pumps to raise a ship?",
+    "answer": "Gatun Lake sits about 85 feet above sea level, so opening valves lets lake water flow down by gravity through 18-foot culverts and up through 100 floor holes per chamber, filling a chamber in about eight minutes; emptying it reverses the process."
+   },
+   {
+    "question": "Why does every transit through the Gatun Locks depend on Gatun Lake?",
+    "answer": "The lake supplies the water that fills each chamber, roughly 26.7 million gallons per filling and about 52 million gallons of fresh water per ship, while the Gatun Dam that holds the lake also generated electricity for canal operations, including the gates."
+   },
+   {
+    "question": "Why did the United States begin, and then stop, a third set of locks near Gatun?",
+    "answer": "By 1939 ships, especially warships, were growing too wide for the 110-foot chambers and officials feared one act of sabotage could close the canal, so Congress authorized larger locks; excavation ran from 1940 until Secretary of War Stimson ended it on May 23, 1942, as wartime money shifted elsewhere."
+   },
+   {
+    "question": "Who did much of the dangerous work of building the lock gates?",
+    "answer": "Rivet gangs made up mostly of West Indian workers, who under the canal's segregated gold-and-silver-roll system did some of the riskiest jobs, drove more than six million rivets into the canal's hollow steel gates."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1909-08-24",
+    "event": "Workers pour the first concrete at the Gatun lock site."
+   },
+   {
+    "date": "1911-07",
+    "event": "Erection of the upper lock gates at Gatun gets under way."
+   },
+   {
+    "date": "1913-09-01",
+    "event": "Concreting of the canal's locks is completed."
+   },
+   {
+    "date": "1913-09-26",
+    "event": "The tug Gatun makes the first trial lockage, with valves worked by hand."
+   },
+   {
+    "date": "1913-10-10",
+    "event": "The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut."
+   },
+   {
+    "date": "1914-08-15",
+    "event": "The Ancon makes the canal's first official transit."
+   },
+   {
+    "date": "1940-07-01",
+    "event": "Excavation begins for a wider third set of locks near the existing ones."
+   },
+   {
+    "date": "1942-05-23",
+    "event": "Secretary of War Henry Stimson terminates the Third Locks Project."
+   },
+   {
+    "date": "2016-06-26",
+    "event": "The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side."
+   }
+  ],
+  "misconception": {
+   "myth": "Giant pumps lift ships up through the Panama Canal's locks.",
+   "fact": "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts.",
+   "why": "The scale of the lift suggests heavy machinery, but the system's real limit is the supply of lake water, about 52 million gallons for each ship that transits."
+  },
+  "source_urls": [
+   "https://pancanal.com/en/design-of-the-locks/",
+   "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks",
+   "https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/10-a-century-of-progress/",
+   "https://docsteach.org/document/gatun-locks/",
+   "https://www.docsteach.org/documents/document/excavation-gatun",
+   "https://pancanal.com/en/inaugural-transit-of-the-expanded-panama-canal-begins/",
+   "https://exhibits.uflib.ufl.edu/canal100/expansion.html",
+   "https://exhibits.uflib.ufl.edu/canal100/voices.html",
+   "https://www.nationalgeographic.com/history/article/140815-panama-canal-culebra-cut-lake-gatun-focus"
+  ]
+ },
+ {
   "id": "us:george-washington",
   "title": "George Washington",
   "aliases": [

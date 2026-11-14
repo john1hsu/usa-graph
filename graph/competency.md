@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
 
-…and 15 more.
+…and 16 more.
 
 ## Happenings by era
 
@@ -110,7 +110,7 @@ _Which written places have no event, person, tradition or landmark in the graph 
 
 | node | type |
 |---|---|
-| `us:panama-canal` | uso:Landmark |
+| `us:gatun-locks` | uso:Landmark |
 
 ## Orphan articles (gap)
 
@@ -118,7 +118,6 @@ _Which written articles does nothing else in the graph point to (after inference
 
 | node |
 |---|
-| `us:panama-canal` |
 | `us:wright-brothers-first-flight` |
 
 ## People with no recorded role (gap)
