@@ -415,7 +415,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1922-11-24 | Seven basin states sign the Colorado River Compact at Santa Fe. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -424,32 +426,46 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1928-12-21 | President Coolidge signs the Boulder Canyon Project Act authorizing the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
 | 1929-08 | The expansion of the 1920s ends and the economy begins to contract. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1929-10-24 | Black Thursday: the New York Stock Exchange loses 11 percent of its value. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1929-10-29 | Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1930-09-17 | At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
 | 1931 | Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1931-03-11 | The construction contract is awarded to Six Companies on a bid of about $48.9 million. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1931-04-20 | **[Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md)** (Landmark) |
+| 1931-04-20 | Six Companies receives notice to proceed, the formal start of construction. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1931-08-07 | Workers strike after a pay cut for tunnel crews; the strike collapses and the cut stands. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931-10 | After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1932-11-14 | The river is turned through the diversion tunnels around the dam site. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1933-05 | Interior Secretary Harold Ickes orders the structure renamed Boulder Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
+| 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1935-03-21 | A second March dust cloud darkens Washington as Congress holds hearings on soil conservation. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1936-02-29 | Reclamation formally accepts the completed dam from Six Companies. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936-09-06 | In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1936-10-26 | The first generating unit, N-2, goes into full operation. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -479,6 +495,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
+| 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -519,6 +536,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -561,6 +579,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |

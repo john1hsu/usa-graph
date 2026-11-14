@@ -3614,6 +3614,236 @@
   ]
  },
  {
+  "id": "us:hoover-dam",
+  "title": "Hoover Dam",
+  "aliases": [
+   "Boulder Dam"
+  ],
+  "type": "Landmark",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/hoover-dam.md",
+  "created": "2026-11-14",
+  "summary": "A 726-foot concrete arch-gravity dam in Black Canyon of the Colorado River on the Arizona–Nevada border, built by the Six Companies consortium for the Bureau of Reclamation between 1931 and 1936; it created Lake Mead, supplies water and hydroelectric power across the Southwest, and was known officially as Boulder Dam from 1933 until Congress restored Herbert Hoover's name in 1947.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river-compact"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:boulder-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:six-companies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bureau-of-reclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elwood-mead"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harold-ickes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:glen-canyon-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:los-angeles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:colorado-river",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:arizona",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:nevada",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:boulder-canyon-project-act",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:commemorates",
+    "object": "us:herbert-hoover",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:lake-mead",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:pueblo-grande-de-nevada",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "1931-04-20",
+  "end": null,
+  "review": [
+   {
+    "question": "Why was the dam called Boulder Dam for fourteen years, and how was the Hoover name restored?",
+    "answer": "Wilbur announced the Hoover name in 1930 to honor Hoover's role in the Colorado River Compact, but after Hoover's reputation fell during the Depression, Interior Secretary Harold Ickes ordered it renamed Boulder Dam in May 1933, arguing a structure should not be named for a sitting president and that it was already known by that name; a 1947 congressional resolution restored \"Hoover Dam.\""
+   },
+   {
+    "question": "Why do counts of construction deaths at Hoover Dam differ (96 versus 112)?",
+    "answer": "The official 96 counts only industrial fatalities at the site, such as drownings, blasts and falling rock; the larger figure adds deaths from before the dam was authorized, like the 1922 surveyors, and deaths from causes such as heat, pneumonia or heart trouble."
+   },
+   {
+    "question": "How did the dam's builders keep its enormous mass of concrete from cracking as it cured?",
+    "answer": "They poured it as interlocking vertical columns rather than one block and embedded about 582 miles of steel pipe through which river water and then refrigerated water circulated to carry off the heat of curing, before grouting the joints."
+   },
+   {
+    "question": "How did racial discrimination shape who built the dam?",
+    "answer": "After Las Vegas's Colored Citizens Labor and Protective Association protested in 1931 that none of the first thousand workers were Black, only 24 African Americans had been hired by 1933; they were barred from living in Boulder City, assigned to the hot Arizona gravel pits and bused in on segregated buses."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1922",
+    "event": "Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites."
+   },
+   {
+    "date": "1922-11-24",
+    "event": "Seven basin states sign the Colorado River Compact at Santa Fe."
+   },
+   {
+    "date": "1928-12-21",
+    "event": "President Coolidge signs the Boulder Canyon Project Act authorizing the dam."
+   },
+   {
+    "date": "1930-09-17",
+    "event": "At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam."
+   },
+   {
+    "date": "1931-03-11",
+    "event": "The construction contract is awarded to Six Companies on a bid of about $48.9 million."
+   },
+   {
+    "date": "1931-04-20",
+    "event": "Six Companies receives notice to proceed, the formal start of construction."
+   },
+   {
+    "date": "1931-08-07",
+    "event": "Workers strike after a pay cut for tunnel crews; the strike collapses and the cut stands."
+   },
+   {
+    "date": "1932-11-14",
+    "event": "The river is turned through the diversion tunnels around the dam site."
+   },
+   {
+    "date": "1933-05",
+    "event": "Interior Secretary Harold Ickes orders the structure renamed Boulder Dam."
+   },
+   {
+    "date": "1933-06-06",
+    "event": "The first concrete is placed."
+   },
+   {
+    "date": "1935-02-01",
+    "event": "The dam begins impounding water in Lake Mead."
+   },
+   {
+    "date": "1935-05-29",
+    "event": "The last concrete is placed."
+   },
+   {
+    "date": "1935-09-30",
+    "event": "President Franklin D. Roosevelt dedicates the dam."
+   },
+   {
+    "date": "1936-02-29",
+    "event": "Reclamation formally accepts the completed dam from Six Companies."
+   },
+   {
+    "date": "1936-10-26",
+    "event": "The first generating unit, N-2, goes into full operation."
+   },
+   {
+    "date": "1947-04-30",
+    "event": "A congressional resolution makes the name Hoover Dam official."
+   },
+   {
+    "date": "1961-12-01",
+    "event": "The final original generating unit, N-8, goes online."
+   },
+   {
+    "date": "1985",
+    "event": "The Interior Department designates the dam a National Historic Landmark."
+   }
+  ],
+  "misconception": {
+   "myth": "Workers who died building Hoover Dam are entombed in its concrete.",
+   "fact": "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site.",
+   "why": "The dam's sheer mass and its real death toll make the legend feel plausible, and confusion between the official 96 and a broader count of 112 deaths keeps the story of \"missing\" men alive."
+  },
+  "source_urls": [
+   "https://www.usbr.gov/history/hoover.html",
+   "https://www.usbr.gov/lc/hooverdam//history/articles/chrono.html",
+   "https://home.nps.gov/articles/nevada-and-arizona-hoover-dam.htm",
+   "https://www.usbr.gov/lc/hooverdam/History/essays/fatal.html",
+   "https://www.usbr.gov/lc/hooverdam/History/essays/hscaler.html",
+   "https://www.pbs.org/wgbh/americanexperience/features/hoover-african-americans",
+   "https://www.pbs.org/wgbh/americanexperience/features/hoover-workers-strike",
+   "https://web.mst.edu/rogersda/hoover_dam/Rogers-HooverDam-Pt2.pdf",
+   "https://home.nps.gov/lake/learn/the-lost-city.htm",
+   "https://www.britannica.com/topic/Hoover-Dam",
+   "https://www.intermountainhistories.org/items/show/476"
+  ]
+ },
+ {
   "id": "us:indian-removal-act",
   "title": "Indian Removal Act",
   "aliases": [

@@ -44,6 +44,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
+| `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
@@ -51,13 +52,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
+| `us:boulder-canyon-project-act` | 1 | Hoover Dam |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
 | `us:equal-protection` | 1 | African Americans |
-| `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
-| `us:fourteenth-amendment` | 1 | Equal protection |
 
-…and 12 more.
+…and 14 more.
 
 ## Happenings by era
 
@@ -109,7 +109,7 @@ _Which written places have no event, person, tradition or landmark in the graph 
 
 | node | type |
 |---|---|
-| `us:colorado-river` | uso:NaturalFeature |
+| `us:hoover-dam` | uso:Landmark |
 | `us:panama-canal` | uso:Landmark |
 
 ## Orphan articles (gap)
@@ -159,6 +159,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | document | established |
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
+| `us:boulder-canyon-project-act` | `us:hoover-dam` |
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |

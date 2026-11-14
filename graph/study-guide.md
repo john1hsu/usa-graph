@@ -615,6 +615,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## regions-cities-and-landmarks
 
+### [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Workers who died building Hoover Dam are entombed in its concrete. | The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site. |
+
+**Why it matters:** The dam's sheer mass and its real death toll make the legend feel plausible, and confusion between the official 96 and a broader count of 112 deaths keeps the story of "missing" men alive.
+
+- **Q:** Why was the dam called Boulder Dam for fourteen years, and how was the Hoover name restored?
+  **A:** Wilbur announced the Hoover name in 1930 to honor Hoover's role in the Colorado River Compact, but after Hoover's reputation fell during the Depression, Interior Secretary Harold Ickes ordered it renamed Boulder Dam in May 1933, arguing a structure should not be named for a sitting president and that it was already known by that name; a 1947 congressional resolution restored "Hoover Dam."
+- **Q:** Why do counts of construction deaths at Hoover Dam differ (96 versus 112)?
+  **A:** The official 96 counts only industrial fatalities at the site, such as drownings, blasts and falling rock; the larger figure adds deaths from before the dam was authorized, like the 1922 surveyors, and deaths from causes such as heat, pneumonia or heart trouble.
+- **Q:** How did the dam's builders keep its enormous mass of concrete from cracking as it cured?
+  **A:** They poured it as interlocking vertical columns rather than one block and embedded about 582 miles of steel pipe through which river water and then refrigerated water circulated to carry off the heat of curing, before grouting the joints.
+- **Q:** How did racial discrimination shape who built the dam?
+  **A:** After Las Vegas's Colored Citizens Labor and Protective Association protested in 1931 that none of the first thousand workers were Black, only 24 African Americans had been hired by 1933; they were barred from living in Boulder City, assigned to the hot Arizona gravel pits and bused in on segregated buses.
+
 ### [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) — City
 
 | Myth | Fact |

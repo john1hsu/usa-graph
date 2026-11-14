@@ -435,6 +435,20 @@
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s10> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s11> .
 <https://github.com/john1hsu/usa-graph/id/thomas-jefferson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/thomas-jefferson/s12> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/hoover-dam.md" .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> .
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> .
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/new-orleans.md" .
@@ -6630,6 +6644,213 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://schema.org/startDate> "1743-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/hoover-dam#graph> {
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Workers who died building Hoover Dam are entombed in its concrete." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The dam's sheer mass and its real death toll make the legend feel plausible, and confusion between the official 96 and a broader count of 112 deaths keeps the story of \"missing\" men alive." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the dam called Boulder Dam for fourteen years, and how was the Hoover name restored?" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Wilbur announced the Hoover name in 1930 to honor Hoover's role in the Colorado River Compact, but after Hoover's reputation fell during the Depression, Interior Secretary Harold Ickes ordered it renamed Boulder Dam in May 1933, arguing a structure should not be named for a sitting president and that it was already known by that name; a 1947 congressional resolution restored \"Hoover Dam.\"" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why do counts of construction deaths at Hoover Dam differ (96 versus 112)?" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The official 96 counts only industrial fatalities at the site, such as drownings, blasts and falling rock; the larger figure adds deaths from before the dam was authorized, like the 1922 surveyors, and deaths from causes such as heat, pneumonia or heart trouble." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the dam's builders keep its enormous mass of concrete from cracking as it cured?" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "They poured it as interlocking vertical columns rather than one block and embedded about 582 miles of steel pipe through which river water and then refrigerated water circulated to carry off the heat of curing, before grouting the joints." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did racial discrimination shape who built the dam?" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Las Vegas's Colored Citizens Labor and Protective Association protested in 1931 that none of the first thousand workers were Black, only 24 African Americans had been hired by 1933; they were barred from living in Boulder City, assigned to the hot Arizona gravel pits and bused in on segregated buses." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The first concrete is placed." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The dam begins impounding water in Lake Mead." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The last concrete is placed." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "President Franklin D. Roosevelt dedicates the dam." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Reclamation formally accepts the completed dam from Six Companies." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1936-02-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The first generating unit, N-2, goes into full operation." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1936-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "A congressional resolution makes the name Hoover Dam official." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1947-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "The final original generating unit, N-8, goes online." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The Interior Department designates the dam a National Historic Landmark." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Seven basin states sign the Colorado River Compact at Santa Fe." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1922-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President Coolidge signs the Boulder Canyon Project Act authorizing the dam." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1928-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1930-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The construction contract is awarded to Six Companies on a bid of about $48.9 million." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-03-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Six Companies receives notice to proceed, the formal start of construction." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Workers strike after a pay cut for tunnel crews; the strike collapses and the cut stands." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-08-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The river is turned through the diversion tunnels around the dam site." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Interior Secretary Harold Ickes orders the structure renamed Boulder Dam." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Landmark> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2000/01/rdf-schema#label> "Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#altLabel> "Boulder Dam" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#definition> "A 726-foot concrete arch-gravity dam in Black Canyon of the Colorado River on the Arizona–Nevada border, built by the Six Companies consortium for the Bureau of Reclamation between 1931 and 1936; it created Lake Mead, supplies water and hydroelectric power across the Southwest, and was known officially as Boulder Dam from 1933 until Congress restored Herbert Hoover's name in 1947." .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/boulder-city> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/elwood-mead> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harold-ickes> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/los-angeles> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/six-companies> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/pueblo-grande-de-nevada> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#commemorates> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#domain> "regions-cities-and-landmarks" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/regions-cities-and-landmarks/hoover-dam.md" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/lake-mead> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/arizona> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/nevada> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://schema.org/startDate> "1931-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/title> "Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <https://schema.org/url> <https://www.britannica.com/topic/Hoover-Dam> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <http://purl.org/dc/terms/publisher> "Intermountain Histories, Charles Redd Center for Western Studies, Brigham Young University" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <http://purl.org/dc/terms/title> "Building Hoover Dam (Nikki Smith)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11> <https://schema.org/url> <https://www.intermountainhistories.org/items/show/476> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <http://purl.org/dc/terms/title> "The Boulder Canyon Project: Hoover Dam (Wm. Joe Simonds)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1> <https://schema.org/url> <https://www.usbr.gov/history/hoover.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <http://purl.org/dc/terms/title> "Hoover Dam: Chronology" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2> <https://schema.org/url> <https://www.usbr.gov/lc/hooverdam//history/articles/chrono.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <http://purl.org/dc/terms/title> "Nevada and Arizona: Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3> <https://schema.org/url> <https://home.nps.gov/articles/nevada-and-arizona-hoover-dam.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <http://purl.org/dc/terms/title> "Fatalities at Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4> <https://schema.org/url> <https://www.usbr.gov/lc/hooverdam/History/essays/fatal.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <http://purl.org/dc/terms/title> "High Scalers" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5> <https://schema.org/url> <https://www.usbr.gov/lc/hooverdam/History/essays/hscaler.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <http://purl.org/dc/terms/publisher> "PBS American Experience (WGBH)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <http://purl.org/dc/terms/title> "African Americans and the Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6> <https://schema.org/url> <https://www.pbs.org/wgbh/americanexperience/features/hoover-african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <http://purl.org/dc/terms/publisher> "PBS American Experience (WGBH)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <http://purl.org/dc/terms/title> "Hoover Dam Workers Strike" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7> <https://schema.org/url> <https://www.pbs.org/wgbh/americanexperience/features/hoover-workers-strike> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <http://purl.org/dc/terms/publisher> "Missouri University of Science and Technology" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <http://purl.org/dc/terms/title> "Hoover Dam: Milestones in Excavation, Geology, Materials Handling and Aggregates (J. David Rogers)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8> <https://schema.org/url> <https://web.mst.edu/rogersda/hoover_dam/Rogers-HooverDam-Pt2.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Lake Mead National Recreation Area" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <http://purl.org/dc/terms/title> "The Lost City" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9> <https://schema.org/url> <https://home.nps.gov/lake/learn/the-lost-city.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/new-orleans#graph> {
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it." .
@@ -8425,6 +8646,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -8501,6 +8723,9 @@
   <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/arizona-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/arizona-v-california> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/arizona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/arizona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/arizona> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -8589,6 +8814,10 @@
   <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/bolling-v-sharpe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/bonus-army> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8614,6 +8843,7 @@
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/california> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8686,6 +8916,7 @@
   <https://github.com/john1hsu/usa-graph/id/coinage-act-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-indian-tribes> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8705,7 +8936,9 @@
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/commission-on-wartime-relocation-and-internment-of-civilians> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -8862,12 +9095,14 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/edwards-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/ella-baker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/elwood-mead> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -8992,6 +9227,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/fred-gray> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -9076,6 +9312,7 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/grand-canyon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -9100,8 +9337,10 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -9139,6 +9378,7 @@
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/harrisburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -9154,6 +9394,7 @@
   <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#commemoratedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/hiram-revels> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
@@ -9169,7 +9410,36 @@
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
-  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -9354,6 +9624,7 @@
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/lake-mead> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
@@ -9401,6 +9672,7 @@
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/los-angeles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/lost-cause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/lost-cause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/louis-armstrong> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
@@ -9603,8 +9875,12 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/neutrality-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans-massacre-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
@@ -9641,6 +9917,7 @@
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -9820,6 +10097,7 @@
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/pueblo-grande-de-nevada> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/puerto-rico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/african-americans> .
@@ -9945,6 +10223,7 @@
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/six-companies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -10040,6 +10319,8 @@
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/the-south> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/the-south> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -10261,6 +10542,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .

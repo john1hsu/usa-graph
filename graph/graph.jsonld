@@ -2890,6 +2890,211 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site.",
+   "uso:myth": "Workers who died building Hoover Dam are entombed in its concrete.",
+   "uso:why": "The dam's sheer mass and its real death toll make the legend feel plausible, and confusion between the official 96 and a broader count of 112 deaths keeps the story of \"missing\" men alive."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the dam called Boulder Dam for fourteen years, and how was the Hoover name restored?",
+   "uso:answer": "Wilbur announced the Hoover name in 1930 to honor Hoover's role in the Colorado River Compact, but after Hoover's reputation fell during the Depression, Interior Secretary Harold Ickes ordered it renamed Boulder Dam in May 1933, arguing a structure should not be named for a sitting president and that it was already known by that name; a 1947 congressional resolution restored \"Hoover Dam.\"",
+   "uso:questionFor": {
+    "@id": "us:hoover-dam"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do counts of construction deaths at Hoover Dam differ (96 versus 112)?",
+   "uso:answer": "The official 96 counts only industrial fatalities at the site, such as drownings, blasts and falling rock; the larger figure adds deaths from before the dam was authorized, like the 1922 surveyors, and deaths from causes such as heat, pneumonia or heart trouble.",
+   "uso:questionFor": {
+    "@id": "us:hoover-dam"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the dam's builders keep its enormous mass of concrete from cracking as it cured?",
+   "uso:answer": "They poured it as interlocking vertical columns rather than one block and embedded about 582 miles of steel pipe through which river water and then refrigerated water circulated to carry off the heat of curing, before grouting the joints.",
+   "uso:questionFor": {
+    "@id": "us:hoover-dam"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did racial discrimination shape who built the dam?",
+   "uso:answer": "After Las Vegas's Colored Citizens Labor and Protective Association protested in 1931 that none of the first thousand workers were Black, only 24 African Americans had been hired by 1933; they were barred from living in Boulder City, assigned to the hot Arizona gravel pits and bused in on segregated buses.",
+   "uso:questionFor": {
+    "@id": "us:hoover-dam"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1922"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first concrete is placed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The dam begins impounding water in Lake Mead.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last concrete is placed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt dedicates the dam.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-09-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reclamation formally accepts the completed dam from Six Companies.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1936-02-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first generating unit, N-2, goes into full operation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1936-10-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A congressional resolution makes the name Hoover Dam official.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1947-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The final original generating unit, N-8, goes online.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Interior Department designates the dam a National Historic Landmark.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1985"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Seven basin states sign the Colorado River Compact at Santa Fe.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1922-11-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Coolidge signs the Boulder Canyon Project Act authorizing the dam.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1928-12-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1930-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The construction contract is awarded to Six Companies on a bid of about $48.9 million.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1931-03-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Six Companies receives notice to proceed, the formal start of construction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1931-04-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Workers strike after a pay cut for tunnel crews; the strike collapses and the cut stands.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1931-08-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The river is turned through the diversion tunnels around the dam site.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-11-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Interior Secretary Harold Ickes orders the structure renamed Boulder Dam.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1933-05"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
@@ -8591,6 +8796,160 @@
     "@id": "https://www.heinzhistorycenter.org/?p=1110"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation",
+   "dcterms:title": "The Boulder Canyon Project: Hoover Dam (Wm. Joe Simonds)",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/history/hoover.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Hoover Dam",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Hoover-Dam"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Intermountain Histories, Charles Redd Center for Western Studies, Brigham Young University",
+   "dcterms:title": "Building Hoover Dam (Nikki Smith)",
+   "schema:url": {
+    "@id": "https://www.intermountainhistories.org/items/show/476"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "Hoover Dam: Chronology",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/hooverdam//history/articles/chrono.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Nevada and Arizona: Hoover Dam",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/nevada-and-arizona-hoover-dam.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "Fatalities at Hoover Dam",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/hooverdam/History/essays/fatal.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "High Scalers",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/hooverdam/History/essays/hscaler.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "PBS American Experience (WGBH)",
+   "dcterms:title": "African Americans and the Hoover Dam",
+   "schema:url": {
+    "@id": "https://www.pbs.org/wgbh/americanexperience/features/hoover-african-americans"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "PBS American Experience (WGBH)",
+   "dcterms:title": "Hoover Dam Workers Strike",
+   "schema:url": {
+    "@id": "https://www.pbs.org/wgbh/americanexperience/features/hoover-workers-strike"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Missouri University of Science and Technology",
+   "dcterms:title": "Hoover Dam: Milestones in Excavation, Geology, Materials Handling and Aggregates (J. David Rogers)",
+   "schema:url": {
+    "@id": "https://web.mst.edu/rogersda/hoover_dam/Rogers-HooverDam-Pt2.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Lake Mead National Recreation Area",
+   "dcterms:title": "The Lost City",
+   "schema:url": {
+    "@id": "https://home.nps.gov/lake/learn/the-lost-city.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s1",
@@ -16178,6 +16537,195 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:hoover-dam",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s9"
+    }
+   ],
+   "rdfs:label": "Hoover Dam",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1931-04-20"
+   },
+   "skos:altLabel": "Boulder Dam",
+   "skos:broader": [
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:the-west"
+    }
+   ],
+   "skos:definition": "A 726-foot concrete arch-gravity dam in Black Canyon of the Colorado River on the Arizona–Nevada border, built by the Six Companies consortium for the Bureau of Reclamation between 1931 and 1936; it created Lake Mead, supplies water and hydroelectric power across the Southwest, and was known officially as Boulder Dam from 1933 until Congress restored Herbert Hoover's name in 1947.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "Hoover Dam",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:boulder-city"
+    },
+    {
+     "@id": "us:bureau-of-reclamation"
+    },
+    {
+     "@id": "us:colorado-river"
+    },
+    {
+     "@id": "us:colorado-river-compact"
+    },
+    {
+     "@id": "us:elwood-mead"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:glen-canyon-dam"
+    },
+    {
+     "@id": "us:harold-ickes"
+    },
+    {
+     "@id": "us:los-angeles"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:six-companies"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:pueblo-grande-de-nevada"
+   },
+   "uso:commemorates": {
+    "@id": "us:herbert-hoover"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:establishedBy": {
+    "@id": "us:boulder-canyon-project-act"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/hoover-dam.md",
+   "uso:ledTo": {
+    "@id": "us:lake-mead"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:arizona"
+    },
+    {
+     "@id": "us:colorado-river"
+    },
+    {
+     "@id": "us:nevada"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:colorado-river"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9"
     }
    ]
   },
