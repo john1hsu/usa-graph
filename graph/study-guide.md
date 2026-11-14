@@ -583,6 +583,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why does the census report two different counts of the American Indian and Alaska Native population?
   **A:** The "alone" figure (3.7 million in 2020) counts only people who chose that single race, while the "alone or in combination" figure (9.7 million) also includes people who reported it together with another race.
 
+### [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) — Principle
+
+| Myth | Fact |
+|---|---|
+| Tribal sovereignty is a privilege the federal government granted to Native Americans as a racial group. | Federal law treats tribal self-government as inherent, held before the United States existed and acknowledged in treaties and the Constitution rather than created by them; tribal status is political, attaching to nations and their citizens, not to race. |
+
+**Why it matters:** Because Congress can limit tribal powers and federal agencies administer many tribal programs, sovereignty is easy to mistake for a federal gift, and because tribal citizens are Native people, a political status is easy to mistake for a racial one.
+
+- **Q:** Why did the Supreme Court in Worcester v. Georgia hold that Georgia's laws could not reach the Cherokee Nation?
+  **A:** Chief Justice John Marshall reasoned that Indian nations had always been distinct, independent political communities whose relations with the United States ran through treaties and federal law, so the Cherokee Nation was a distinct community occupying its own territory where state law had no force, and the Georgia statute used to convict Samuel Worcester was void.
+- **Q:** How is tribal sovereignty both inherent and limited under federal law?
+  **A:** The Court treats tribal powers as inherent, existing before and apart from the United States, yet it has also held that Congress has broad (plenary but not absolute) power over Indian affairs and can restrict tribal authority, as when courts held tribes lack criminal jurisdiction over non-Indians without congressional authorization.
+- **Q:** How did termination policy in the 1950s and 1960s run against the principle of tribal sovereignty?
+  **A:** Termination sought to end federal recognition and trust protection of tribes and shifted reservation jurisdiction to states; Congress began 60 termination proceedings and more than three million acres of tribal land were lost before the policy was repudiated in 1970 in favor of self-determination.
+
 ## people-who-shaped-america
 
 ### [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) — Person

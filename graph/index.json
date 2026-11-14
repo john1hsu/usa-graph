@@ -8190,6 +8190,199 @@
   ]
  },
  {
+  "id": "us:tribal-sovereignty",
+  "title": "Tribal sovereignty",
+  "aliases": [
+   "Tribal sovereignty in the United States",
+   "Native American sovereignty",
+   "Inherent tribal sovereignty",
+   "Tribal self-government"
+  ],
+  "type": "Principle",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/native-nations/tribal-sovereignty.md",
+  "created": "2026-11-14",
+  "summary": "The principle that Native nations are self-governing political communities whose authority over their members and territory predates the United States; federal law recognizes this inherent sovereignty and a government-to-government relationship with the 575 federally recognized tribes, while holding that Congress can limit it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-indian-law"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worcester-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:termination-policy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:public-law-280"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-self-determination-and-education-assistance-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bureau-of-indian-affairs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcgirt-v-oklahoma"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:cherokee-nation-v-georgia",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:worcester-v-georgia",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:termination-policy",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:united-states-constitution",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Supreme Court in Worcester v. Georgia hold that Georgia's laws could not reach the Cherokee Nation?",
+    "answer": "Chief Justice John Marshall reasoned that Indian nations had always been distinct, independent political communities whose relations with the United States ran through treaties and federal law, so the Cherokee Nation was a distinct community occupying its own territory where state law had no force, and the Georgia statute used to convict Samuel Worcester was void."
+   },
+   {
+    "question": "How is tribal sovereignty both inherent and limited under federal law?",
+    "answer": "The Court treats tribal powers as inherent, existing before and apart from the United States, yet it has also held that Congress has broad (plenary but not absolute) power over Indian affairs and can restrict tribal authority, as when courts held tribes lack criminal jurisdiction over non-Indians without congressional authorization."
+   },
+   {
+    "question": "How did termination policy in the 1950s and 1960s run against the principle of tribal sovereignty?",
+    "answer": "Termination sought to end federal recognition and trust protection of tribes and shifted reservation jurisdiction to states; Congress began 60 termination proceedings and more than three million acres of tribal land were lost before the policy was repudiated in 1970 in favor of self-determination."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1778",
+    "event": "The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns."
+   },
+   {
+    "date": "1831",
+    "event": "In Cherokee Nation v. Georgia the Supreme Court calls tribes \"domestic dependent nations\" and declines to hear the Cherokee suit."
+   },
+   {
+    "date": "1832",
+    "event": "In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation."
+   },
+   {
+    "date": "1871",
+    "event": "Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law."
+   },
+   {
+    "date": "1886",
+    "event": "United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples."
+   },
+   {
+    "date": "1953-08-01",
+    "event": "House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes."
+   },
+   {
+    "date": "1953-08-15",
+    "event": "Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities."
+   },
+   {
+    "date": "1970",
+    "event": "The Nixon administration repudiates termination and turns federal policy toward tribal self-determination."
+   },
+   {
+    "date": "1978",
+    "event": "United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians."
+   },
+   {
+    "date": "1987",
+    "event": "California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government."
+   },
+   {
+    "date": "2020",
+    "event": "McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation."
+   }
+  ],
+  "misconception": {
+   "myth": "Tribal sovereignty is a privilege the federal government granted to Native Americans as a racial group.",
+   "fact": "Federal law treats tribal self-government as inherent, held before the United States existed and acknowledged in treaties and the Constitution rather than created by them; tribal status is political, attaching to nations and their citizens, not to race.",
+   "why": "Because Congress can limit tribal powers and federal agencies administer many tribal programs, sovereignty is easy to mistake for a federal gift, and because tribal citizens are Native people, a political status is easy to mistake for a racial one."
+  },
+  "source_urls": [
+   "https://www.bia.gov/faqs/what-federally-recognized-tribe",
+   "https://www.bia.gov/faqs/what-relationship-between-tribes-and-united-states",
+   "https://www.govinfo.gov/content/pkg/USREPORTS-30/pdf/USREPORTS-30-1.pdf",
+   "https://www.law.cornell.edu/supremecourt/text/31/515",
+   "https://law.cornell.edu/constitution-conan/article-1/section-8/clause-3/commerce-with-indian-tribes",
+   "https://www.law.cornell.edu/constitution-conan/article-1/section-8/clause-3/restrictions-on-state-powers-indian-tribes-and-commerce-clause",
+   "https://www.nnigovernance.arizona.edu/sites/default/files/2025-06/NCAI-Tribal-Nations-US.pdf",
+   "https://www.archives.gov/research/native-americans/bia/termination",
+   "https://si.edu/newsdesk/factsheets/nation-nation-exhibition"
+  ]
+ },
+ {
   "id": "us:united-states",
   "title": "United States",
   "aliases": [

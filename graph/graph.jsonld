@@ -12142,6 +12142,132 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Bureau of Indian Affairs, U.S. Department of the Interior",
+   "dcterms:title": "What is a federally recognized tribe?",
+   "schema:url": {
+    "@id": "https://www.bia.gov/faqs/what-federally-recognized-tribe"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Bureau of Indian Affairs, U.S. Department of the Interior",
+   "dcterms:title": "What is the relationship between the tribes and the United States?",
+   "schema:url": {
+    "@id": "https://www.bia.gov/faqs/what-relationship-between-tribes-and-united-states"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, via U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "U.S. Reports: Cherokee Nation v. Georgia, 30 U.S. (5 Pet.) 1 (1831)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-30/pdf/USREPORTS-30-1.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Worcester v. Georgia, 31 U.S. (6 Pet.) 515 (1832): opinion of the Court",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/31/515"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Commerce With Indian Tribes (Article I, Section 8, Clause 3)",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/constitution-conan/article-1/section-8/clause-3/commerce-with-indian-tribes"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Restrictions on State Powers, Indian Tribes, and Commerce Clause",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/article-1/section-8/clause-3/restrictions-on-state-powers-indian-tribes-and-commerce-clause"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Congress of American Indians, via Native Nations Institute, University of Arizona",
+   "dcterms:title": "Tribal Nations and the United States: An Introduction",
+   "schema:url": {
+    "@id": "https://www.nnigovernance.arizona.edu/sites/default/files/2025-06/NCAI-Tribal-Nations-US.pdf"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives and Records Administration",
+   "dcterms:title": "Termination",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/native-americans/bia/termination"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Institution (National Museum of the American Indian)",
+   "dcterms:title": "\"Nation to Nation\" Exhibition",
+   "schema:url": {
+    "@id": "https://si.edu/newsdesk/factsheets/nation-nation-exhibition"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -13305,6 +13431,139 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Federal law treats tribal self-government as inherent, held before the United States existed and acknowledged in treaties and the Constitution rather than created by them; tribal status is political, attaching to nations and their citizens, not to race.",
+   "uso:myth": "Tribal sovereignty is a privilege the federal government granted to Native Americans as a racial group.",
+   "uso:why": "Because Congress can limit tribal powers and federal agencies administer many tribal programs, sovereignty is easy to mistake for a federal gift, and because tribal citizens are Native people, a political status is easy to mistake for a racial one."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court in Worcester v. Georgia hold that Georgia's laws could not reach the Cherokee Nation?",
+   "uso:answer": "Chief Justice John Marshall reasoned that Indian nations had always been distinct, independent political communities whose relations with the United States ran through treaties and federal law, so the Cherokee Nation was a distinct community occupying its own territory where state law had no force, and the Georgia statute used to convict Samuel Worcester was void.",
+   "uso:questionFor": {
+    "@id": "us:tribal-sovereignty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How is tribal sovereignty both inherent and limited under federal law?",
+   "uso:answer": "The Court treats tribal powers as inherent, existing before and apart from the United States, yet it has also held that Congress has broad (plenary but not absolute) power over Indian affairs and can restrict tribal authority, as when courts held tribes lack criminal jurisdiction over non-Indians without congressional authorization.",
+   "uso:questionFor": {
+    "@id": "us:tribal-sovereignty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did termination policy in the 1950s and 1960s run against the principle of tribal sovereignty?",
+   "uso:answer": "Termination sought to end federal recognition and trust protection of tribes and shifted reservation jurisdiction to states; Congress began 60 termination proceedings and more than three million acres of tribal land were lost before the policy was repudiated in 1970 in favor of self-determination.",
+   "uso:questionFor": {
+    "@id": "us:tribal-sovereignty"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1778"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1987"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2020"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Cherokee Nation v. Georgia the Supreme Court calls tribes \"domestic dependent nations\" and declines to hear the Cherokee suit.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1831"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1886"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-08-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Nixon administration repudiates termination and turns federal policy toward tribal self-determination.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1978"
    }
   },
   {
@@ -21287,6 +21546,169 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:tribal-sovereignty",
+   "@type": "uso:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s9"
+    }
+   ],
+   "rdfs:label": "Tribal sovereignty",
+   "skos:altLabel": [
+    "Inherent tribal sovereignty",
+    "Native American sovereignty",
+    "Tribal self-government",
+    "Tribal sovereignty in the United States"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:federal-indian-law"
+    },
+    {
+     "@id": "us:native-americans"
+    }
+   ],
+   "skos:definition": "The principle that Native nations are self-governing political communities whose authority over their members and territory predates the United States; federal law recognizes this inherent sovereignty and a government-to-government relationship with the 575 federally recognized tribes, while holding that Congress can limit it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Tribal sovereignty",
+   "skos:related": [
+    {
+     "@id": "us:bureau-of-indian-affairs"
+    },
+    {
+     "@id": "us:cherokee-nation-v-georgia"
+    },
+    {
+     "@id": "us:colorado-river"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:indian-self-determination-and-education-assistance-act"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:mcgirt-v-oklahoma"
+    },
+    {
+     "@id": "us:public-law-280"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:termination-policy"
+    },
+    {
+     "@id": "us:united-states"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:termination-policy"
+   },
+   "uso:domain": "native-nations",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/native-nations/tribal-sovereignty.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:cherokee-nation-v-georgia"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:native-americans"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/9"
     }
    ]
   },

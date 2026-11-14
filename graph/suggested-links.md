@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.25 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:united-states-constitution` |
+| 4.60 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
 | 2.97 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.77 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
-| 2.48 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment`, `us:three-fifths-clause` |
+| 2.47 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment`, `us:three-fifths-clause` |
+| 2.31 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty`, `us:united-states` |
 | 2.26 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
-| 2.15 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:united-states`, `us:united-states-congress` |
 | 2.09 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
-| 2.07 | `us:fourteenth-amendment` | `us:missouri-compromise` | `us:american-civil-war`, `us:dred-scott-v-sandford`, `us:united-states-congress` |
 | 2.07 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:harriet-tubman`, `us:underground-railroad`, `us:united-states` |
+| 2.07 | `us:fourteenth-amendment` | `us:missouri-compromise` | `us:american-civil-war`, `us:dred-scott-v-sandford`, `us:united-states-congress` |
 | 2.00 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
 | 1.90 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.90 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
 | 1.85 | `us:missouri-compromise` | `us:united-states` | `us:american-civil-war`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
+| 1.84 | `us:articles-of-confederation` | `us:tribal-sovereignty` | `us:federalism`, `us:united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | 1.83 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:great-depression` | `us:japanese-american-incarceration` | `us:franklin-d-roosevelt`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 1.81 | `us:george-washington` | `us:pennsylvania` | `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |
 | 1.76 | `us:african-americans` | `us:morrill-land-grant-college-act` | `us:american-civil-war`, `us:historically-black-colleges-and-universities` |
-| 1.76 | `us:articles-of-confederation` | `us:morrill-land-grant-college-act` | `us:northwest-ordinance`, `us:united-states-congress` |

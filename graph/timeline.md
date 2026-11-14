@@ -67,6 +67,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1778 | The United States begins making treaties with Native nations; the Senate ratifies 370 of them by 1871. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1778 | The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -191,8 +192,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -320,6 +323,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870-02-25 | Hiram Revels is sworn in as the first African American senator. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1873 | Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -359,6 +363,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
@@ -529,6 +534,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1953-08-01 | House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1953-08-15 | Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1954 – 1968 | **[Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md)** (Movement) |
 | 1954 | Brown v. Board of Education declares school segregation unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -597,6 +604,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
@@ -605,6 +613,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1978 | United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1978-03-16 | The Senate approves the Neutrality Treaty, 68 to 32. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -612,6 +621,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -663,6 +673,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-03 | Visitor access to the plaza closes during the COVID-19 pandemic. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2020-04-01 | The 2020 census counts 3.7 million people who identify as American Indian and Alaska Native alone and 9.7 million alone or in combination. — [Native Americans](../articles/native-nations/native-americans.md) |
