@@ -221,6 +221,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## culture-and-arts
 
+### [Blues](../articles/culture-and-arts/blues.md) — Tradition
+
+| Myth | Fact |
+|---|---|
+| W. C. Handy, the "Father of the Blues," invented the blues. | Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the "Father of the Blues" title, which he used for his 1941 autobiography, honored him as its popularizer. |
+
+**Why it matters:** Published sheet music, copyrights and an autobiography left a paper trail with Handy's name on it, while the unnamed rural musicians who created the music left almost no written record.
+
+- **Q:** Why is it misleading to say that W. C. Handy invented the blues?
+  **A:** Handy himself described hearing the blues from Black musicians in the Delta around 1903, before he played it; he wrote down and arranged fragments he heard from itinerant performers and published them, which made him the music's great popularizer rather than its creator.
+- **Q:** How did the blues change when Mississippi musicians moved to Chicago?
+  **A:** In the city they electrically amplified their instruments and added drums and horns, so the solo singer with a guitar became the blues band heard on labels such as Chess.
+- **Q:** Why did Mamie Smith's 1920 recording of "Crazy Blues" matter to the music business?
+  **A:** It was the first commercial vaudeville blues record by a Black singer, and in the following years "race records" — recordings by Black artists marketed mainly to Black buyers — grew into a business that sent scouts across the South and into northern cities to find blues talent.
+
 ### [Jazz](../articles/culture-and-arts/jazz.md) — Tradition
 
 | Myth | Fact |

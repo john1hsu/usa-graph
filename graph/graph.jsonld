@@ -467,6 +467,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the \"Father of the Blues\" title, which he used for his 1941 autobiography, honored him as its popularizer.",
+   "uso:myth": "W. C. Handy, the \"Father of the Blues,\" invented the blues.",
+   "uso:why": "Published sheet music, copyrights and an autobiography left a paper trail with Handy's name on it, while the unnamed rural musicians who created the music left almost no written record."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it misleading to say that W. C. Handy invented the blues?",
+   "uso:answer": "Handy himself described hearing the blues from Black musicians in the Delta around 1903, before he played it; he wrote down and arranged fragments he heard from itinerant performers and published them, which made him the music's great popularizer rather than its creator.",
+   "uso:questionFor": {
+    "@id": "us:blues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the blues change when Mississippi musicians moved to Chicago?",
+   "uso:answer": "In the city they electrically amplified their instruments and added drums and horns, so the solo singer with a guitar became the blues band heard on labels such as Chess.",
+   "uso:questionFor": {
+    "@id": "us:blues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Mamie Smith's 1920 recording of \"Crazy Blues\" matter to the music business?",
+   "uso:answer": "It was the first commercial vaudeville blues record by a Black singer, and in the following years \"race records\" — recordings by Black artists marketed mainly to Black buyers — grew into a business that sent scouts across the South and into northern cities to find blues talent.",
+   "uso:questionFor": {
+    "@id": "us:blues"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1839"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Robert Johnson makes the first of his 1936–1937 recordings.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1936"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alan Lomax records Muddy Waters for the Library of Congress.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1941"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1947"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Muddy Waters records Willie Dixon's \"I'm Your Hoochie Coochie Man.\"",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1954"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "B.B. King records the album Live at the Regal at Chicago's Regal Theater.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1964"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2003"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1903"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Handy publishes \"The Memphis Blues\" and sells its rights for $100.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Handy publishes \"St. Louis Blues,\" his best-known composition.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mamie Smith records \"Crazy Blues,\" the first commercial vaudeville blues record by a Black vocalist.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1920"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1923"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ma Rainey records \"See See Rider Blues\" with Louis Armstrong and Fletcher Henderson.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1924"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Son House records for Paramount.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1930"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1933"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Topeka NAACP deliberately organized a class action with 13 parents on behalf of 20 children; Oliver Brown was recruited to join and named because he was the only man in the group, and the Supreme Court decided Kansas's case together with cases from South Carolina, Virginia, Delaware and the District of Columbia involving nearly 200 people.",
@@ -5142,6 +5311,90 @@
     "@id": "https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html"
    },
    "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Christine Wilson, Mississippi History Now (Mississippi Department of Archives and History and Mississippi Historical Society, 2003)",
+   "dcterms:title": "Mississippi Blues",
+   "schema:url": {
+    "@id": "https://mshistory.mdah.ms.gov/issue/mississippi-blues"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Ian Hill, New Georgia Encyclopedia (Georgia Humanities and University of Georgia Press)",
+   "dcterms:title": "Blues Music",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/arts-culture/blues-music-overview/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopedia of Alabama (Alabama Humanities Alliance)",
+   "dcterms:title": "William \"W. C.\" Handy",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/?p=14967"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Mississippi Blues Trail, Mississippi Blues Commission",
+   "dcterms:title": "W.C. Handy Encounters the Blues - Tutwiler",
+   "schema:url": {
+    "@id": "https://msbluestrail.org/?p=487"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress, National Recording Preservation Board",
+   "dcterms:title": "African Americans on the National Recording Registry",
+   "schema:url": {
+    "@id": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/african-americans-on-the-recording-registry/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Folkways Recordings, Smithsonian Institution (2025)",
+   "dcterms:title": "Listen What I Gotta Say: Women in the Blues — Teacher's Guide, Before the Blues: From Africa to the United States",
+   "schema:url": {
+    "@id": "https://folkways-media.si.edu/docs/folkways/lessons/SFLN038_teacher_guide.pdf"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s1",
@@ -10816,6 +11069,152 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:blues",
+   "@type": "uso:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s6"
+    }
+   ],
+   "rdfs:label": "Blues",
+   "skos:altLabel": "the blues",
+   "skos:broader": {
+    "@id": "us:music-of-the-united-states"
+   },
+   "skos:definition": "A form of African American music that took shape in the rural South in the decades around 1900, built on work songs, field hollers and older Black musical traditions, which spread through sheet music, vaudeville and records, moved north with Black migrants to cities such as Chicago, and shaped later American popular music, including rock.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Blues",
+   "skos:related": [
+    {
+     "@id": "us:african-american-history"
+    },
+    {
+     "@id": "us:bessie-smith"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:crossroads-myth"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:jazz"
+    },
+    {
+     "@id": "us:ma-rainey"
+    },
+    {
+     "@id": "us:muddy-waters"
+    },
+    {
+     "@id": "us:robert-johnson"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:w-c-handy"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:rock-and-roll"
+   },
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/culture-and-arts/blues.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:field-hollers"
+    },
+    {
+     "@id": "us:work-songs"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/blues/misconception"
+   },
+   "uso:originatedIn": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:mississippi-delta"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/blues/timeline/9"
     }
    ]
   },

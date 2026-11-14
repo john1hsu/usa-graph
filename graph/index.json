@@ -553,6 +553,191 @@
   ]
  },
  {
+  "id": "us:blues",
+  "title": "Blues",
+  "aliases": [
+   "the blues"
+  ],
+  "type": "Tradition",
+  "domain": "culture-and-arts",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/culture-and-arts/blues.md",
+  "created": "2026-11-14",
+  "summary": "A form of African American music that took shape in the rural South in the decades around 1900, built on work songs, field hollers and older Black musical traditions, which spread through sheet music, vaudeville and records, moved north with Black migrants to cities such as Chicago, and shaped later American popular music, including rock.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:music-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jazz"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:w-c-handy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ma-rainey"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bessie-smith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:robert-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:muddy-waters"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:crossroads-myth"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:african-americans",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:mississippi-delta",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:field-hollers",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:work-songs",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:rock-and-roll",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why is it misleading to say that W. C. Handy invented the blues?",
+    "answer": "Handy himself described hearing the blues from Black musicians in the Delta around 1903, before he played it; he wrote down and arranged fragments he heard from itinerant performers and published them, which made him the music's great popularizer rather than its creator."
+   },
+   {
+    "question": "How did the blues change when Mississippi musicians moved to Chicago?",
+    "answer": "In the city they electrically amplified their instruments and added drums and horns, so the solo singer with a guitar became the blues band heard on labels such as Chess."
+   },
+   {
+    "question": "Why did Mamie Smith's 1920 recording of \"Crazy Blues\" matter to the music business?",
+    "answer": "It was the first commercial vaudeville blues record by a Black singer, and in the following years \"race records\" — recordings by Black artists marketed mainly to Black buyers — grew into a business that sent scouts across the South and into northern cities to find blues talent."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1839",
+    "event": "An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues."
+   },
+   {
+    "date": "1903",
+    "event": "Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station."
+   },
+   {
+    "date": "1912",
+    "event": "Handy publishes \"The Memphis Blues\" and sells its rights for $100."
+   },
+   {
+    "date": "1914",
+    "event": "Handy publishes \"St. Louis Blues,\" his best-known composition."
+   },
+   {
+    "date": "1920",
+    "event": "Mamie Smith records \"Crazy Blues,\" the first commercial vaudeville blues record by a Black vocalist."
+   },
+   {
+    "date": "1923",
+    "event": "Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs."
+   },
+   {
+    "date": "1924",
+    "event": "Ma Rainey records \"See See Rider Blues\" with Louis Armstrong and Fletcher Henderson."
+   },
+   {
+    "date": "1930",
+    "event": "Son House records for Paramount."
+   },
+   {
+    "date": "1933",
+    "event": "John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary."
+   },
+   {
+    "date": "1936",
+    "event": "Robert Johnson makes the first of his 1936–1937 recordings."
+   },
+   {
+    "date": "1941",
+    "event": "Alan Lomax records Muddy Waters for the Library of Congress."
+   },
+   {
+    "date": "1947",
+    "event": "Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess)."
+   },
+   {
+    "date": "1954",
+    "event": "Muddy Waters records Willie Dixon's \"I'm Your Hoochie Coochie Man.\""
+   },
+   {
+    "date": "1964",
+    "event": "B.B. King records the album Live at the Regal at Chicago's Regal Theater."
+   },
+   {
+    "date": "2003",
+    "event": "The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues."
+   }
+  ],
+  "misconception": {
+   "myth": "W. C. Handy, the \"Father of the Blues,\" invented the blues.",
+   "fact": "Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the \"Father of the Blues\" title, which he used for his 1941 autobiography, honored him as its popularizer.",
+   "why": "Published sheet music, copyrights and an autobiography left a paper trail with Handy's name on it, while the unnamed rural musicians who created the music left almost no written record."
+  },
+  "source_urls": [
+   "https://mshistory.mdah.ms.gov/issue/mississippi-blues",
+   "https://www.georgiaencyclopedia.org/articles/arts-culture/blues-music-overview/",
+   "https://encyclopediaofalabama.org/?p=14967",
+   "https://msbluestrail.org/?p=487",
+   "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/african-americans-on-the-recording-registry/",
+   "https://folkways-media.si.edu/docs/folkways/lessons/SFLN038_teacher_guide.pdf"
+  ]
+ },
+ {
   "id": "us:brown-v-board-of-education",
   "title": "Brown v. Board of Education",
   "aliases": [

@@ -44,6 +44,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
+| `us:blues` | 1 | rock-and-roll |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 | `us:mississippi-river` | 1 | Siege of Vicksburg |
-| `us:montgomery-bus-boycott` | 1 | browder-v-gayle |
 
-…and 4 more.
+…and 5 more.
 
 ## Happenings by era
 
@@ -79,6 +79,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |
+| `us:blues` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |

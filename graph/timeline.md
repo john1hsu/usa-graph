@@ -170,6 +170,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1839 | An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -341,9 +342,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -352,15 +356,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -377,6 +388,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -386,6 +398,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954 – 1968 | **[Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md)** (Movement) |
 | 1954 | Brown v. Board of Education declares school segregation unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1954 | Brown v. Board of Education holds that segregated public schools violate equal protection. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1954 | Muddy Waters records Willie Dixon's "I'm Your Hoochie Coochie Man." — [Blues](../articles/culture-and-arts/blues.md) |
 | 1954 | The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
@@ -415,6 +428,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -473,6 +487,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2002-07-26 | The House passes H.R. 5005, 295–132. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-11-19 | The Senate passes the amended bill, 90–9; the House agrees to it on November 22. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-11-25 | Bush signs the Homeland Security Act of 2002 (Public Law 107-296). — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2003 | The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues. — [Blues](../articles/culture-and-arts/blues.md) |
 | 2003 | The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 2003-01-24 | **[Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md)** (Institution) |
 | 2003-01-24 | The act takes effect and the department comes into existence. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |

@@ -4,101 +4,102 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `us:reconstruction-era` | 7.26 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws`, `us:panic-of-1873` |
-| `us:united-states` | 7.22 | Place | `us:american-civil-war`, `us:gilded-age`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:pennsylvania`, `us:september-11-attacks` |
+| `us:reconstruction-era` | 7.25 | - | `us:american-civil-war`, `us:fifteenth-amendment`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws`, `us:panic-of-1873` |
+| `us:united-states` | 7.21 | Place | `us:american-civil-war`, `us:gilded-age`, `us:japanese-american-incarceration`, `us:mississippi-river`, `us:pennsylvania`, `us:september-11-attacks` |
 | `us:emancipation-proclamation` | 5.70 | - | `us:abraham-lincoln`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| `us:presidency-of-the-united-states` | 5.68 | Office | `us:abraham-lincoln`, `us:george-washington`, `us:thomas-jefferson`, `us:united-states-congress`, `us:united-states-constitution` |
-| `us:abolitionism` | 5.67 | - | `us:frederick-douglass`, `us:liberty-bell`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| `us:racial-segregation-in-the-united-states` | 5.18 | - | `us:civil-rights-movement`, `us:jim-crow-laws`, `us:montgomery-bus-boycott`, `us:plessy-v-ferguson` |
-| `us:african-americans` | 4.64 | - | `us:civil-rights-movement`, `us:equal-protection`, `us:jazz`, `us:jim-crow-laws` |
-| `us:american-revolutionary-war` | 4.63 | - | `us:declaration-of-independence`, `us:george-washington`, `us:thomas-jefferson` |
-| `us:labor-movement` | 4.62 | - | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:panic-of-1873` |
+| `us:presidency-of-the-united-states` | 5.67 | Office | `us:abraham-lincoln`, `us:george-washington`, `us:thomas-jefferson`, `us:united-states-congress`, `us:united-states-constitution` |
+| `us:african-americans` | 5.66 | - | `us:blues`, `us:civil-rights-movement`, `us:equal-protection`, `us:jazz`, `us:jim-crow-laws` |
+| `us:abolitionism` | 5.66 | - | `us:frederick-douglass`, `us:liberty-bell`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
+| `us:african-american-history` | 5.18 | - | `us:blues`, `us:civil-rights-movement`, `us:frederick-douglass`, `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
+| `us:racial-segregation-in-the-united-states` | 5.17 | - | `us:civil-rights-movement`, `us:jim-crow-laws`, `us:montgomery-bus-boycott`, `us:plessy-v-ferguson` |
+| `us:american-revolutionary-war` | 4.62 | - | `us:declaration-of-independence`, `us:george-washington`, `us:thomas-jefferson` |
+| `us:labor-movement` | 4.61 | - | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:panic-of-1873` |
 | `us:womens-suffrage-movement` | 4.61 | - | `us:fifteenth-amendment`, `us:frederick-douglass`, `us:liberty-bell` |
-| `us:three-fifths-clause` | 4.17 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
-| `us:african-american-history` | 4.16 | - | `us:civil-rights-movement`, `us:frederick-douglass`, `us:jim-crow-laws`, `us:slavery-in-the-united-states` |
+| `us:three-fifths-clause` | 4.16 | - | `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:second-continental-congress` | 4.13 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:george-washington`, `us:thomas-jefferson` |
-| `us:native-americans` | 4.12 | - | `us:indian-removal-act`, `us:louisiana-purchase`, `us:mississippi-river`, `us:morrill-land-grant-college-act` |
+| `us:native-americans` | 4.11 | - | `us:indian-removal-act`, `us:louisiana-purchase`, `us:mississippi-river`, `us:morrill-land-grant-college-act` |
 | `us:supreme-court-of-the-united-states` | 3.61 | - | `us:indian-removal-act`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:due-process` | 3.61 | Right | `us:equal-protection`, `us:fourteenth-amendment`, `us:japanese-american-incarceration` |
 | `us:underground-railroad` | 3.60 | - | `us:frederick-douglass`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
-| `us:battle-of-gettysburg` | 3.60 | - | `us:american-civil-war`, `us:pennsylvania`, `us:siege-of-vicksburg` |
+| `us:battle-of-gettysburg` | 3.59 | - | `us:american-civil-war`, `us:pennsylvania`, `us:siege-of-vicksburg` |
 | `us:louisiana` | 3.59 | Place | `us:louisiana-purchase`, `us:mississippi-river`, `us:new-orleans` |
 | `us:black-codes` | 3.13 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
 | `us:reconstruction-amendments` | 3.12 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:founding-documents-of-the-united-states` | 3.12 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:united-states-constitution` |
+| `us:founding-documents-of-the-united-states` | 3.11 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:united-states-constitution` |
 | `us:ratification-of-the-constitution` | 3.11 | - | `us:constitutional-convention`, `us:united-states-constitution` |
-| `us:united-states-colored-troops` | 3.10 | - | `us:american-civil-war`, `us:frederick-douglass`, `us:siege-of-vicksburg` |
+| `us:united-states-colored-troops` | 3.09 | - | `us:american-civil-war`, `us:frederick-douglass`, `us:siege-of-vicksburg` |
 | `us:federal-government-of-the-united-states` | 3.09 | - | `us:department-of-homeland-security`, `us:united-states-congress` |
 | `us:presidents-of-the-united-states` | 3.09 | - | `us:abraham-lincoln`, `us:george-washington`, `us:thomas-jefferson` |
 | `us:railroads-in-the-united-states` | 3.09 | - | `us:great-railroad-strike-of-1877`, `us:panic-of-1873` |
-| `us:homestead-strike` | 3.09 | - | `us:gilded-age`, `us:lattimer-massacre`, `us:pennsylvania` |
+| `us:homestead-strike` | 3.08 | - | `us:gilded-age`, `us:lattimer-massacre`, `us:pennsylvania` |
 | `us:george-w-bush` | 3.08 | - | `us:department-of-homeland-security`, `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:war-on-terror` | 3.08 | - | `us:department-of-homeland-security`, `us:september-11-attacks`, `us:war-in-afghanistan` |
-| `us:bill-of-rights` | 2.59 | - | `us:united-states-congress`, `us:united-states-constitution` |
-| `us:separation-of-powers` | 2.59 | - | `us:united-states-congress`, `us:united-states-constitution` |
+| `us:bill-of-rights` | 2.58 | - | `us:united-states-congress`, `us:united-states-constitution` |
+| `us:separation-of-powers` | 2.58 | - | `us:united-states-congress`, `us:united-states-constitution` |
 | `us:federalism` | 2.58 | - | `us:articles-of-confederation`, `us:united-states-constitution` |
 | `us:civil-rights-act-of-1964` | 2.58 | - | `us:civil-rights-movement`, `us:jim-crow-laws` |
 | `us:fugitive-slave-act-of-1850` | 2.58 | - | `us:frederick-douglass`, `us:slavery-in-the-united-states` |
-| `us:house-of-representatives` | 2.58 | - | `us:abraham-lincoln`, `us:united-states-congress` |
+| `us:house-of-representatives` | 2.57 | - | `us:abraham-lincoln`, `us:united-states-congress` |
 | `us:gettysburg-address` | 2.57 | - | `us:abraham-lincoln`, `us:american-civil-war` |
 | `us:james-madison` | 2.57 | - | `us:articles-of-confederation`, `us:constitutional-convention` |
-| `us:independence-day` | 2.57 | - | `us:declaration-of-independence`, `us:siege-of-vicksburg` |
-| `us:thirteen-colonies` | 2.57 | - | `us:declaration-of-independence`, `us:pennsylvania` |
-| `us:voting-rights-in-the-united-states` | 2.57 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
+| `us:independence-day` | 2.56 | - | `us:declaration-of-independence`, `us:siege-of-vicksburg` |
+| `us:thirteen-colonies` | 2.56 | - | `us:declaration-of-independence`, `us:pennsylvania` |
+| `us:voting-rights-in-the-united-states` | 2.56 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
 | `us:lewis-and-clark-expedition` | 2.56 | - | `us:louisiana-purchase`, `us:thomas-jefferson` |
 | `us:martin-luther-king-jr` | 2.56 | Person | `us:civil-rights-movement`, `us:montgomery-bus-boycott` |
 | `us:rosa-parks` | 2.56 | - | `us:civil-rights-movement`, `us:montgomery-bus-boycott` |
 | `us:nineteenth-amendment` | 2.56 | - | `us:fifteenth-amendment`, `us:liberty-bell` |
 | `us:tribal-sovereignty` | 2.56 | - | `us:indian-removal-act`, `us:louisiana-purchase` |
+| `us:chicago` | 2.56 | Place | `us:blues`, `us:great-railroad-strike-of-1877` |
 | `us:independence-hall` | 2.56 | Place | `us:constitutional-convention`, `us:liberty-bell` |
 | `us:world-war-ii-and-the-united-states` | 2.56 | - | `us:japanese-american-incarceration` |
-| `us:andrew-jackson` | 2.56 | Person | `us:indian-removal-act` |
-| `us:iraq-war` | 2.56 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
+| `us:andrew-jackson` | 2.55 | Person | `us:indian-removal-act` |
+| `us:iraq-war` | 2.55 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:philadelphia` | 2.55 | Place | `us:liberty-bell`, `us:pennsylvania` |
 | `us:land-grant-universities` | 2.55 | - | `us:morrill-land-grant-college-act` |
 | `us:civil-rights-cases` | 2.08 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:separate-car-act` | 2.08 | Document | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:guinn-v-united-states` | 2.08 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
-| `us:massive-resistance` | 2.08 | - | `us:brown-v-board-of-education` |
 | `us:domestic-slave-trade` | 2.08 | - | `us:new-orleans`, `us:slavery-in-the-united-states` |
 | `us:act-prohibiting-importation-of-slaves` | 2.08 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
-| `us:hiram-revels` | 2.08 | - | `us:fifteenth-amendment`, `us:united-states-congress` |
-| `us:great-compromise` | 2.08 | - | `us:constitutional-convention`, `us:united-states-congress` |
+| `us:massive-resistance` | 2.08 | - | `us:brown-v-board-of-education` |
+| `us:hiram-revels` | 2.07 | - | `us:fifteenth-amendment`, `us:united-states-congress` |
+| `us:great-compromise` | 2.07 | - | `us:constitutional-convention`, `us:united-states-congress` |
 | `us:tenth-amendment` | 2.07 | - | `us:articles-of-confederation` |
 | `us:comite-des-citoyens` | 2.07 | - | `us:new-orleans`, `us:plessy-v-ferguson` |
 | `us:confederation-period` | 2.07 | - | `us:articles-of-confederation`, `us:constitutional-convention` |
 | `us:lost-cause` | 2.07 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
-| `us:declaration-of-sentiments` | 2.07 | - | `us:declaration-of-independence`, `us:frederick-douglass` |
-| `us:right-to-vote` | 2.07 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
+| `us:declaration-of-sentiments` | 2.06 | - | `us:declaration-of-independence`, `us:frederick-douglass` |
+| `us:right-to-vote` | 2.06 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
 | `us:selma-to-montgomery-marches` | 2.06 | - | `us:civil-rights-movement`, `us:voting-rights-act-of-1965` |
 | `us:american-equal-rights-association` | 2.06 | - | `us:fifteenth-amendment`, `us:frederick-douglass` |
 | `us:populist-movement` | 2.06 | - | `us:gilded-age` |
 | `us:pittsburgh` | 2.06 | Place | `us:great-railroad-strike-of-1877`, `us:pennsylvania` |
 | `us:missouri-river` | 2.06 | - | `us:mississippi-river` |
 | `us:northwest-ordinance` | 2.06 | - | `us:articles-of-confederation`, `us:morrill-land-grant-college-act` |
+| `us:congo-square` | 2.06 | - | `us:jazz`, `us:new-orleans` |
+| `us:storyville` | 2.06 | - | `us:jazz`, `us:new-orleans` |
 | `us:choctaw-nation` | 2.06 | - | `us:indian-removal-act`, `us:new-orleans` |
 | `us:ulysses-s-grant` | 2.06 | Person | `us:panic-of-1873`, `us:siege-of-vicksburg` |
 | `us:whiskey-rebellion` | 2.06 | - | `us:george-washington`, `us:pennsylvania` |
 | `us:labor-history-of-the-united-states` | 2.06 | - | `us:great-railroad-strike-of-1877`, `us:lattimer-massacre` |
-| `us:congo-square` | 2.06 | - | `us:jazz`, `us:new-orleans` |
-| `us:storyville` | 2.06 | - | `us:jazz`, `us:new-orleans` |
 | `us:hurricane-katrina` | 2.06 | - | `us:department-of-homeland-security`, `us:new-orleans` |
-| `us:al-qaeda` | 2.06 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
-| `us:osama-bin-laden` | 2.06 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
-| `us:terrorism-in-the-united-states` | 2.06 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
-| `us:transportation-security-administration` | 2.06 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
-| `us:usa-patriot-act` | 2.06 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
+| `us:al-qaeda` | 2.05 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
+| `us:osama-bin-laden` | 2.05 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
+| `us:terrorism-in-the-united-states` | 2.05 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
+| `us:transportation-security-administration` | 2.05 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
+| `us:usa-patriot-act` | 2.05 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
+| `us:music-of-the-united-states` | 2.05 | - | `us:blues`, `us:jazz` |
 | `us:william-penn` | 2.05 | Person | `us:liberty-bell`, `us:pennsylvania` |
 | `us:dred-scott-v-sandford` | 1.55 | Document | `us:fourteenth-amendment` |
 | `us:juneteenth` | 1.55 | - | `us:slavery-in-the-united-states` |
-| `us:federalist-papers` | 1.55 | - | `us:united-states-constitution` |
+| `us:federalist-papers` | 1.54 | - | `us:united-states-constitution` |
 | `us:census-and-apportionment` | 1.54 | - | `us:united-states-congress` |
 | `us:united-states-senate` | 1.54 | - | `us:united-states-congress` |
-| `us:shays-rebellion` | 1.54 | - | `us:articles-of-confederation` |
-| `us:treaty-of-paris-1783` | 1.54 | - | `us:articles-of-confederation` |
+| `us:shays-rebellion` | 1.53 | - | `us:articles-of-confederation` |
+| `us:treaty-of-paris-1783` | 1.53 | - | `us:articles-of-confederation` |
 | `us:mexican-american-war` | 1.53 | - | `us:abraham-lincoln` |
 | `us:benjamin-franklin` | 1.53 | - | `us:constitutional-convention` |
-| `us:chicago` | 1.53 | Place | `us:great-railroad-strike-of-1877` |
 | `us:missouri-compromise` | 1.53 | - | `us:louisiana-purchase` |
 | `us:chinese-exclusion-act` | 1.53 | - | `us:gilded-age` |
 | `us:dawes-act` | 1.53 | - | `us:gilded-age` |
@@ -114,10 +115,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:french-and-indian-war` | 1.53 | - | `us:george-washington` |
 | `us:washington-cherry-tree-myth` | 1.53 | - | `us:george-washington` |
 | `us:new-york-city` | 1.53 | Place | `us:panic-of-1873` |
+| `us:cold-war` | 1.53 | - | `us:jazz` |
 | `us:cherokee-nation` | 1.53 | - | `us:indian-removal-act` |
 | `us:trail-of-tears` | 1.53 | - | `us:indian-removal-act` |
-| `us:blues` | 1.53 | - | `us:jazz` |
-| `us:cold-war` | 1.53 | - | `us:jazz` |
+| `us:great-migration` | 1.53 | - | `us:blues` |
 | `us:nato` | 1.53 | - | `us:war-in-afghanistan` |
 | `us:civil-rights-act-of-1866` | 1.05 | - | `us:fourteenth-amendment` |
 | `us:elk-v-wilkins` | 1.05 | - | `us:fourteenth-amendment` |
@@ -162,13 +163,13 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:john-hancock` | 1.04 | Person | `us:declaration-of-independence` |
 | `us:lee-resolution` | 1.04 | - | `us:declaration-of-independence` |
 | `us:treaty-of-alliance-1778` | 1.04 | - | `us:declaration-of-independence` |
-| `us:enforcement-acts` | 1.04 | - | `us:fifteenth-amendment` |
-| `us:united-states-v-cruikshank` | 1.04 | - | `us:fifteenth-amendment` |
-| `us:united-states-v-reese` | 1.04 | - | `us:fifteenth-amendment` |
-| `us:annapolis-convention` | 1.04 | - | `us:articles-of-confederation` |
-| `us:haudenosaunee` | 1.04 | - | `us:articles-of-confederation` |
-| `us:john-dickinson` | 1.04 | Person | `us:articles-of-confederation` |
-| `us:treaty-of-fort-stanwix-1784` | 1.04 | - | `us:articles-of-confederation` |
+| `us:enforcement-acts` | 1.03 | - | `us:fifteenth-amendment` |
+| `us:united-states-v-cruikshank` | 1.03 | - | `us:fifteenth-amendment` |
+| `us:united-states-v-reese` | 1.03 | - | `us:fifteenth-amendment` |
+| `us:annapolis-convention` | 1.03 | - | `us:articles-of-confederation` |
+| `us:haudenosaunee` | 1.03 | - | `us:articles-of-confederation` |
+| `us:john-dickinson` | 1.03 | Person | `us:articles-of-confederation` |
+| `us:treaty-of-fort-stanwix-1784` | 1.03 | - | `us:articles-of-confederation` |
 | `us:assassination-of-abraham-lincoln` | 1.03 | - | `us:abraham-lincoln` |
 | `us:black-hawk-war` | 1.03 | - | `us:abraham-lincoln` |
 | `us:republican-party` | 1.03 | - | `us:abraham-lincoln` |
@@ -263,6 +264,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:somerset-county-pennsylvania` | 1.03 | Place | `us:september-11-attacks` |
 | `us:the-pentagon` | 1.03 | Place | `us:september-11-attacks` |
 | `us:world-trade-center` | 1.03 | Place | `us:september-11-attacks` |
+| `us:duke-ellington` | 1.03 | - | `us:jazz` |
+| `us:jazz-ambassadors` | 1.03 | - | `us:jazz` |
+| `us:louis-armstrong` | 1.03 | - | `us:jazz` |
+| `us:ragtime` | 1.03 | - | `us:jazz` |
 | `us:cherokee-nation-v-georgia` | 1.03 | - | `us:indian-removal-act` |
 | `us:chickasaw-nation` | 1.03 | - | `us:indian-removal-act` |
 | `us:indian-removal` | 1.03 | - | `us:indian-removal-act` |
@@ -273,11 +278,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:second-seminole-war` | 1.03 | - | `us:indian-removal-act` |
 | `us:treaty-of-new-echota` | 1.03 | - | `us:indian-removal-act` |
 | `us:worcester-v-georgia` | 1.03 | - | `us:indian-removal-act` |
-| `us:duke-ellington` | 1.03 | - | `us:jazz` |
-| `us:jazz-ambassadors` | 1.03 | - | `us:jazz` |
-| `us:louis-armstrong` | 1.03 | - | `us:jazz` |
-| `us:music-of-the-united-states` | 1.03 | - | `us:jazz` |
-| `us:ragtime` | 1.03 | - | `us:jazz` |
+| `us:bessie-smith` | 1.03 | - | `us:blues` |
+| `us:crossroads-myth` | 1.03 | - | `us:blues` |
+| `us:field-hollers` | 1.03 | - | `us:blues` |
+| `us:ma-rainey` | 1.03 | - | `us:blues` |
+| `us:mississippi-delta` | 1.03 | - | `us:blues` |
+| `us:muddy-waters` | 1.03 | - | `us:blues` |
+| `us:robert-johnson` | 1.03 | - | `us:blues` |
+| `us:rock-and-roll` | 1.03 | - | `us:blues` |
+| `us:w-c-handy` | 1.03 | - | `us:blues` |
+| `us:work-songs` | 1.03 | - | `us:blues` |
 | `us:baton-rouge-bus-boycott` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:browder-v-gayle` | 1.03 | - | `us:montgomery-bus-boycott` |
 | `us:claudette-colvin` | 1.03 | - | `us:montgomery-bus-boycott` |
@@ -297,26 +307,26 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:operation-allies-welcome` | 1.03 | - | `us:war-in-afghanistan` |
 | `us:taliban` | 1.03 | - | `us:war-in-afghanistan` |
 | `us:tom-ridge` | 1.03 | Person | `us:department-of-homeland-security` |
-| `us:anthracite-coal-strike-of-1902` | 1.03 | - | `us:lattimer-massacre` |
-| `us:anti-slavery-record` | 1.03 | - | `us:liberty-bell` |
-| `us:charter-of-privileges` | 1.03 | - | `us:liberty-bell` |
-| `us:coal-and-iron-police` | 1.03 | - | `us:lattimer-massacre` |
-| `us:cornell-university` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:dakota-oyate` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:equity-in-educational-land-grant-status-act` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:hatch-act-of-1887` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:higher-education-in-the-united-states` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:historically-black-colleges-and-universities` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:independence-national-historical-park` | 1.03 | Place | `us:liberty-bell` |
-| `us:james-buchanan` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:john-mitchell` | 1.03 | - | `us:lattimer-massacre` |
-| `us:jonathan-baldwin-turner` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:justice-bell` | 1.03 | - | `us:liberty-bell` |
-| `us:justin-smith-morrill` | 1.03 | Person | `us:morrill-land-grant-college-act` |
-| `us:morrill-act-of-1890` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:national-freedom-day` | 1.03 | - | `us:liberty-bell` |
-| `us:national-symbols-of-the-united-states` | 1.03 | - | `us:liberty-bell` |
-| `us:presidents-house-philadelphia` | 1.03 | - | `us:liberty-bell` |
-| `us:smith-lever-act` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:tribal-colleges-and-universities` | 1.03 | - | `us:morrill-land-grant-college-act` |
-| `us:united-mine-workers-of-america` | 1.03 | - | `us:lattimer-massacre` |
+| `us:anthracite-coal-strike-of-1902` | 1.02 | - | `us:lattimer-massacre` |
+| `us:anti-slavery-record` | 1.02 | - | `us:liberty-bell` |
+| `us:charter-of-privileges` | 1.02 | - | `us:liberty-bell` |
+| `us:coal-and-iron-police` | 1.02 | - | `us:lattimer-massacre` |
+| `us:cornell-university` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:dakota-oyate` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:equity-in-educational-land-grant-status-act` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:hatch-act-of-1887` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:higher-education-in-the-united-states` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:historically-black-colleges-and-universities` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:independence-national-historical-park` | 1.02 | Place | `us:liberty-bell` |
+| `us:james-buchanan` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:john-mitchell` | 1.02 | - | `us:lattimer-massacre` |
+| `us:jonathan-baldwin-turner` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:justice-bell` | 1.02 | - | `us:liberty-bell` |
+| `us:justin-smith-morrill` | 1.02 | Person | `us:morrill-land-grant-college-act` |
+| `us:morrill-act-of-1890` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:national-freedom-day` | 1.02 | - | `us:liberty-bell` |
+| `us:national-symbols-of-the-united-states` | 1.02 | - | `us:liberty-bell` |
+| `us:presidents-house-philadelphia` | 1.02 | - | `us:liberty-bell` |
+| `us:smith-lever-act` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:tribal-colleges-and-universities` | 1.02 | - | `us:morrill-land-grant-college-act` |
+| `us:united-mine-workers-of-america` | 1.02 | - | `us:lattimer-massacre` |

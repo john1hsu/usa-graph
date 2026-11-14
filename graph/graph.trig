@@ -150,6 +150,15 @@
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s7> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s8> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/blues> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/culture-and-arts/blues.md" .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s1> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s2> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s3> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s4> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s5> .
+<https://github.com/john1hsu/usa-graph/id/blues#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s6> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/jazz> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/culture-and-arts/jazz.md" .
@@ -2551,6 +2560,156 @@
   <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s9> <https://schema.org/url> <https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/blues#graph> {
+  <https://github.com/john1hsu/usa-graph/id/blues/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/blues/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the \"Father of the Blues\" title, which he used for his 1941 autobiography, honored him as its popularizer." .
+  <https://github.com/john1hsu/usa-graph/id/blues/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "W. C. Handy, the \"Father of the Blues,\" invented the blues." .
+  <https://github.com/john1hsu/usa-graph/id/blues/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Published sheet music, copyrights and an autobiography left a paper trail with Handy's name on it, while the unnamed rural musicians who created the music left almost no written record." .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it misleading to say that W. C. Handy invented the blues?" .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Handy himself described hearing the blues from Black musicians in the Delta around 1903, before he played it; he wrote down and arranged fragments he heard from itinerant performers and published them, which made him the music's great popularizer rather than its creator." .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the blues change when Mississippi musicians moved to Chicago?" .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "In the city they electrically amplified their instruments and added drums and horns, so the solo singer with a guitar became the blues band heard on labels such as Chess." .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Mamie Smith's 1920 recording of \"Crazy Blues\" matter to the music business?" .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It was the first commercial vaudeville blues record by a Black singer, and in the following years \"race records\" — recordings by Black artists marketed mainly to Black buyers — grew into a business that sent scouts across the South and into northern cities to find blues talent." .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Johnson makes the first of his 1936–1937 recordings." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1936"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Lomax records Muddy Waters for the Library of Congress." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess)." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1947"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Muddy Waters records Willie Dixon's \"I'm Your Hoochie Coochie Man.\"" .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "B.B. King records the album Live at the Regal at Chicago's Regal Theater." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1839"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1903"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Handy publishes \"The Memphis Blues\" and sells its rights for $100." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Handy publishes \"St. Louis Blues,\" his best-known composition." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Mamie Smith records \"Crazy Blues,\" the first commercial vaudeville blues record by a Black vocalist." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Ma Rainey records \"See See Rider Blues\" with Louis Armstrong and Fletcher Henderson." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Son House records for Paramount." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1930"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary." .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1933"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2000/01/rdf-schema#label> "Blues" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#altLabel> "the blues" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#definition> "A form of African American music that took shape in the rural South in the decades around 1900, built on work songs, field hollers and older Black musical traditions, which spread through sheet music, vaudeville and records, moved north with Black migrants to cities such as Chicago, and shaped later American popular music, including rock." .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blues" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bessie-smith> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/crossroads-myth> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ma-rainey> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muddy-waters> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/robert-johnson> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/w-c-handy> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s1> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s2> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s3> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s4> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s5> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/blues/s6> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/rock-and-roll> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#domain> "culture-and-arts" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/culture-and-arts/blues.md" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/field-hollers> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/work-songs> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/blues/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/mississippi-delta> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/blues/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <http://purl.org/dc/terms/publisher> "Christine Wilson, Mississippi History Now (Mississippi Department of Archives and History and Mississippi Historical Society, 2003)" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <http://purl.org/dc/terms/title> "Mississippi Blues" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s1> <https://schema.org/url> <https://mshistory.mdah.ms.gov/issue/mississippi-blues> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <http://purl.org/dc/terms/publisher> "Ian Hill, New Georgia Encyclopedia (Georgia Humanities and University of Georgia Press)" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <http://purl.org/dc/terms/title> "Blues Music" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s2> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/arts-culture/blues-music-overview/> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia of Alabama (Alabama Humanities Alliance)" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <http://purl.org/dc/terms/title> "William \"W. C.\" Handy" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s3> <https://schema.org/url> <https://encyclopediaofalabama.org/?p=14967> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <http://purl.org/dc/terms/publisher> "Mississippi Blues Trail, Mississippi Blues Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <http://purl.org/dc/terms/title> "W.C. Handy Encounters the Blues - Tutwiler" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s4> <https://schema.org/url> <https://msbluestrail.org/?p=487> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <http://purl.org/dc/terms/publisher> "Library of Congress, National Recording Preservation Board" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <http://purl.org/dc/terms/title> "African Americans on the National Recording Registry" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s5> <https://schema.org/url> <https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/african-americans-on-the-recording-registry/> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <http://purl.org/dc/terms/publisher> "Smithsonian Folkways Recordings, Smithsonian Institution (2025)" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <http://purl.org/dc/terms/title> "Listen What I Gotta Say: Women in the Blues — Teacher's Guide, Before the Blues: From Africa to the United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/blues/s6> <https://schema.org/url> <https://folkways-media.si.edu/docs/folkways/lessons/SFLN038_teacher_guide.pdf> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> {
@@ -6673,8 +6832,10 @@
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -6786,6 +6947,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/bessie-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -6793,6 +6955,28 @@
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-hawk-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/black-power-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/blues/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/blues> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/blues> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/bolling-v-sharpe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -6830,6 +7014,7 @@
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -6923,6 +7108,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/crossroads-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/cybersecurity-and-infrastructure-security-agency> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/dakota-oyate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -7049,6 +7235,7 @@
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/field-hollers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7206,6 +7393,7 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7348,6 +7536,7 @@
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/jazz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-le-moyne-de-bienville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jean-baptiste-le-moyne-de-bienville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -7508,6 +7697,7 @@
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/ma-rainey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -7528,6 +7718,7 @@
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/minor-v-happersett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/mississippi-delta> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7600,8 +7791,11 @@
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/mount-vernon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/muddy-waters> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
@@ -7799,7 +7993,9 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/robert-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/robert-r-livingston> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/rock-and-roll> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -7897,6 +8093,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -8184,6 +8381,7 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/w-c-handy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/walking-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8234,6 +8432,7 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/work-songs> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .

@@ -23,9 +23,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |
 | 1.76 | `us:articles-of-confederation` | `us:morrill-land-grant-college-act` | `us:northwest-ordinance`, `us:united-states-congress` |
 | 1.67 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
-| 1.65 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.64 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.62 | `us:blues` | `us:jim-crow-laws` | `us:african-american-history`, `us:african-americans`, `us:jazz` |
 | 1.62 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad` |
 | 1.61 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.61 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.60 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
-| 1.56 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
