@@ -3614,6 +3614,205 @@
   ]
  },
  {
+  "id": "us:harriet-tubman",
+  "title": "Harriet Tubman",
+  "aliases": [
+   "Araminta Ross",
+   "Minty Ross",
+   "Harriet Tubman Davis",
+   "Harriet Ross Tubman"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/people-who-shaped-america/harriet-tubman.md",
+  "created": "2026-11-14",
+  "summary": "A freedom seeker, Underground Railroad conductor, Union scout and nurse, and women's-suffrage advocate (c. 1822–1913) who escaped slavery in Maryland in 1849, returned about 13 times to lead roughly 70 family members and friends to freedom, and helped lead the 1863 Combahee River raid that freed more than 700 enslaved people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fugitive-slave-act-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-brown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman-underground-railroad-national-historical-park"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman-national-historical-park"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad-quilt-code-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:underground-railroad",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:abolitionism",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:combahee-river-raid",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:womens-suffrage-movement",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:national-association-of-colored-women",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1822",
+  "end": "1913-03-10",
+  "review": [
+   {
+    "question": "Why did Tubman return only to Maryland's Eastern Shore rather than travel all over the South?",
+    "answer": "Her missions were to bring away family members and friends she knew and trusted; she knew that landscape from her years of labor in its marshes and woods, and unfamiliar places were far more dangerous."
+   },
+   {
+    "question": "How did the Fugitive Slave Act of 1850 change where Tubman took the people she rescued?",
+    "answer": "The 1850 law put any freedom seeker in the United States, even in the North, at risk of recapture, so she guided people beyond Philadelphia to St. Catharines, Ontario, in Canada."
+   },
+   {
+    "question": "Why did Tubman have to petition Congress for a pension, and what did she get?",
+    "answer": "She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1822",
+    "event": "Born Araminta \"Minty\" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland."
+   },
+   {
+    "date": "1844",
+    "event": "Probably marries John Tubman, a free Black man, and takes the name Harriet."
+   },
+   {
+    "date": "1849",
+    "event": "After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia."
+   },
+   {
+    "date": "1850",
+    "event": "Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children."
+   },
+   {
+    "date": "1854-12-25",
+    "event": "Rescues her three remaining brothers from Dorchester County."
+   },
+   {
+    "date": "1857",
+    "event": "Brings her aging parents north after learning her father faces arrest."
+   },
+   {
+    "date": "1858",
+    "event": "Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid."
+   },
+   {
+    "date": "1859-05",
+    "event": "Buys a house and seven acres near Auburn, New York, from Senator William H. Seward."
+   },
+   {
+    "date": "1860-12",
+    "event": "Last rescue mission to Maryland brings away seven people."
+   },
+   {
+    "date": "1862",
+    "event": "Arrives at Port Royal, South Carolina, to serve the Union Army as a scout, spy, cook and nurse."
+   },
+   {
+    "date": "1863-06-02",
+    "event": "Helps lead the Combahee River raid with Colonel James Montgomery, freeing more than 700 enslaved people."
+   },
+   {
+    "date": "1869",
+    "event": "Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn."
+   },
+   {
+    "date": "1899-01-19",
+    "event": "Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse."
+   },
+   {
+    "date": "1908",
+    "event": "The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903."
+   },
+   {
+    "date": "1913-03-10",
+    "event": "Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery."
+   }
+  ],
+  "misconception": {
+   "myth": "Tubman made 19 trips into the South and rescued more than 300 people, with a $40,000 bounty on her head.",
+   "fact": "Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman.",
+   "why": "The larger numbers come from Sarah Bradford's 1868–69 biography and an 1867 letter supporting her pension claim; they stuck because they suited a legend, but they obscure how carefully she chose people she knew and trusted."
+  },
+  "source_urls": [
+   "https://www.nps.gov/hatu/learn/historyculture/htubman.htm",
+   "https://www.nps.gov/hatu/planyourvisit/upload/MD_TubmanFactSheet_MythsFacts_2.pdf",
+   "https://www.archives.gov/research/african-americans/individuals/harriet-tubman",
+   "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/013500/013562/html/13562bio.html",
+   "https://dnr.maryland.gov/publiclands/Pages/eastern/Tubman/Timeline.aspx",
+   "https://nmaahc.si.edu/explore/stories/combahee-ferry-raid",
+   "https://www.archives.gov/legislative/features/claim-of-harriet-tubman",
+   "https://www.govinfo.gov/content/pkg/DCPD-201300183/html/DCPD-201300183.htm",
+   "https://www.nps.gov/hatu/learn/management/index.htm",
+   "https://www.nps.gov/hart/",
+   "https://docsteach.org/documents/document/senate-report-1619"
+  ]
+ },
+ {
   "id": "us:hoover-dam",
   "title": "Hoover Dam",
   "aliases": [

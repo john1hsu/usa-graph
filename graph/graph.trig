@@ -404,6 +404,20 @@
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s7> .
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s8> .
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s9> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/people-who-shaped-america/harriet-tubman.md" .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> .
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/abraham-lincoln.md" .
@@ -6254,6 +6268,199 @@
   <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/harriet-tubman#graph> {
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Tubman made 19 trips into the South and rescued more than 300 people, with a $40,000 bounty on her head." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The larger numbers come from Sarah Bradford's 1868–69 biography and an 1867 letter supporting her pension claim; they stuck because they suited a legend, but they obscure how carefully she chose people she knew and trusted." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Tubman return only to Maryland's Eastern Shore rather than travel all over the South?" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Her missions were to bring away family members and friends she knew and trusted; she knew that landscape from her years of labor in its marshes and woods, and unfamiliar places were far more dangerous." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Fugitive Slave Act of 1850 change where Tubman took the people she rescued?" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1850 law put any freedom seeker in the United States, even in the North, at risk of recapture, so she guided people beyond Philadelphia to St. Catharines, Ontario, in Canada." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Tubman have to petition Congress for a pension, and what did she get?" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Arrives at Port Royal, South Carolina, to serve the Union Army as a scout, spy, cook and nurse." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1862"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Helps lead the Combahee River raid with Colonel James Montgomery, freeing more than 700 enslaved people." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1869"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1899-01-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1908"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born Araminta \"Minty\" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1822"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Probably marries John Tubman, a free Black man, and takes the name Harriet." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1844"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1849"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Rescues her three remaining brothers from Dorchester County." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1854-12-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Brings her aging parents north after learning her father faces arrest." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1857"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1858"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Buys a house and seven acres near Auburn, New York, from Senator William H. Seward." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1859-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Last rescue mission to Maryland brings away seven people." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1860-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2000/01/rdf-schema#label> "Harriet Tubman" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#altLabel> "Araminta Ross" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#altLabel> "Harriet Ross Tubman" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#altLabel> "Harriet Tubman Davis" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#altLabel> "Minty Ross" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#definition> "A freedom seeker, Underground Railroad conductor, Union scout and nurse, and women's-suffrage advocate (c. 1822–1913) who escaped slavery in Maryland in 1849, returned about 13 times to lead roughly 70 family members and friends to freedom, and helped lead the 1863 Combahee River raid that freed more than 700 enslaved people." .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harriet Tubman" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman-national-historical-park> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman-underground-railroad-national-historical-park> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-brown> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/maryland> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad-quilt-code-myth> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#domain> "people-who-shaped-america" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/people-who-shaped-america/harriet-tubman.md" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/national-association-of-colored-women> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/combahee-river-raid> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/birthDate> "1822"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/deathDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/endDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/startDate> "1822"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <http://purl.org/dc/terms/title> "Harriet Tubman National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10> <https://schema.org/url> <https://www.nps.gov/hart/> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <http://purl.org/dc/terms/publisher> "National Archives, DocsTeach" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <http://purl.org/dc/terms/title> "Senate Report No. 1619 on Harriet Tubman Davis (55th Congress, 3rd Session, 1899)" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11> <https://schema.org/url> <https://docsteach.org/documents/document/senate-report-1619> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Harriet Tubman Underground Railroad National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <http://purl.org/dc/terms/title> "Harriet Tubman" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1> <https://schema.org/url> <https://www.nps.gov/hatu/learn/historyculture/htubman.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Harriet Tubman Underground Railroad National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <http://purl.org/dc/terms/title> "Harriet Tubman: Myths and Facts (fact sheet)" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2> <https://schema.org/url> <https://www.nps.gov/hatu/planyourvisit/upload/MD_TubmanFactSheet_MythsFacts_2.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <http://purl.org/dc/terms/publisher> "U.S. National Archives and Records Administration" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <http://purl.org/dc/terms/title> "Harriet Tubman (c. March 1822 – March 10, 1913)" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3> <https://schema.org/url> <https://www.archives.gov/research/african-americans/individuals/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <http://purl.org/dc/terms/publisher> "Maryland State Archives, Archives of Maryland" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <http://purl.org/dc/terms/title> "Harriet Ross Tubman Davis (b. circa 1822 – d. 1913), MSA SC 3520-13562" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4> <https://schema.org/url> <https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/013500/013562/html/13562bio.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <http://purl.org/dc/terms/publisher> "Maryland Department of Natural Resources" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <http://purl.org/dc/terms/title> "Harriet Tubman Underground Railroad State Park: Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5> <https://schema.org/url> <https://dnr.maryland.gov/publiclands/Pages/eastern/Tubman/Timeline.aspx> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of African American History and Culture" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <http://purl.org/dc/terms/title> "The Combahee Ferry Raid" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6> <https://schema.org/url> <https://nmaahc.si.edu/explore/stories/combahee-ferry-raid> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <http://purl.org/dc/terms/publisher> "National Archives, Center for Legislative Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <http://purl.org/dc/terms/title> "The Claim of Harriet Tubman" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7> <https://schema.org/url> <https://www.archives.gov/legislative/features/claim-of-harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <http://purl.org/dc/terms/publisher> "Daily Compilation of Presidential Documents, GovInfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <http://purl.org/dc/terms/title> "Proclamation 8943 — Establishment of the Harriet Tubman Underground Railroad National Monument" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/DCPD-201300183/html/DCPD-201300183.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://purl.org/dc/terms/title> "Management — Harriet Tubman Underground Railroad National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://schema.org/url> <https://www.nps.gov/hatu/learn/management/index.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> {
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's." .
@@ -8778,6 +8985,7 @@
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -8808,10 +9016,12 @@
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -8882,6 +9092,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
@@ -9128,6 +9339,7 @@
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/combahee-river-raid> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/commission-on-wartime-relocation-and-internment-of-civilians> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -9442,6 +9654,7 @@
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+  <https://github.com/john1hsu/usa-graph/id/frederick-douglass> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/freedmans-savings-and-trust-company> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
@@ -9451,6 +9664,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedom-rides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -9570,6 +9784,29 @@
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman-underground-railroad-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/harrisburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -9785,6 +10022,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/john-brown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
@@ -9932,6 +10170,7 @@
   <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -10055,6 +10294,7 @@
   <https://github.com/john1hsu/usa-graph/id/naacp-legal-defense-and-educational-fund> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/naacp> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-association-of-colored-women> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/national-commission-on-terrorist-attacks-upon-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-freedom-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/national-grasslands> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -10246,6 +10486,7 @@
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
@@ -10466,6 +10707,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -10483,6 +10725,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -10639,13 +10882,16 @@
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/underground-railroad-quilt-code-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10863,6 +11109,7 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/woody-guthrie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .

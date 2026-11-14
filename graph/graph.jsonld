@@ -2890,6 +2890,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman.",
+   "uso:myth": "Tubman made 19 trips into the South and rescued more than 300 people, with a $40,000 bounty on her head.",
+   "uso:why": "The larger numbers come from Sarah Bradford's 1868–69 biography and an 1867 letter supporting her pension claim; they stuck because they suited a legend, but they obscure how carefully she chose people she knew and trusted."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Tubman return only to Maryland's Eastern Shore rather than travel all over the South?",
+   "uso:answer": "Her missions were to bring away family members and friends she knew and trusted; she knew that landscape from her years of labor in its marshes and woods, and unfamiliar places were far more dangerous.",
+   "uso:questionFor": {
+    "@id": "us:harriet-tubman"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Fugitive Slave Act of 1850 change where Tubman took the people she rescued?",
+   "uso:answer": "The 1850 law put any freedom seeker in the United States, even in the North, at risk of recapture, so she guided people beyond Philadelphia to St. Catharines, Ontario, in Canada.",
+   "uso:questionFor": {
+    "@id": "us:harriet-tubman"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Tubman have to petition Congress for a pension, and what did she get?",
+   "uso:answer": "She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse.",
+   "uso:questionFor": {
+    "@id": "us:harriet-tubman"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born Araminta \"Minty\" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1822"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Arrives at Port Royal, South Carolina, to serve the Union Army as a scout, spy, cook and nurse.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1862"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Helps lead the Combahee River raid with Colonel James Montgomery, freeing more than 700 enslaved people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-06-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1869"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1899-01-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1908"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-03-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Probably marries John Tubman, a free Black man, and takes the name Harriet.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1844"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1849"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rescues her three remaining brothers from Dorchester County.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1854-12-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Brings her aging parents north after learning her father faces arrest.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1858"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Buys a house and seven acres near Auburn, New York, from Senator William H. Seward.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1859-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Last rescue mission to Maryland brings away seven people.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1860-12"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site.",
@@ -8947,6 +9116,160 @@
     "@id": "https://www.heinzhistorycenter.org/?p=1110"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Harriet Tubman Underground Railroad National Historical Park",
+   "dcterms:title": "Harriet Tubman",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hatu/learn/historyculture/htubman.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Harriet Tubman National Historical Park",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hart/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, DocsTeach",
+   "dcterms:title": "Senate Report No. 1619 on Harriet Tubman Davis (55th Congress, 3rd Session, 1899)",
+   "schema:url": {
+    "@id": "https://docsteach.org/documents/document/senate-report-1619"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Harriet Tubman Underground Railroad National Historical Park",
+   "dcterms:title": "Harriet Tubman: Myths and Facts (fact sheet)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hatu/planyourvisit/upload/MD_TubmanFactSheet_MythsFacts_2.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. National Archives and Records Administration",
+   "dcterms:title": "Harriet Tubman (c. March 1822 – March 10, 1913)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/african-americans/individuals/harriet-tubman"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Maryland State Archives, Archives of Maryland",
+   "dcterms:title": "Harriet Ross Tubman Davis (b. circa 1822 – d. 1913), MSA SC 3520-13562",
+   "schema:url": {
+    "@id": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/013500/013562/html/13562bio.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Maryland Department of Natural Resources",
+   "dcterms:title": "Harriet Tubman Underground Railroad State Park: Timeline",
+   "schema:url": {
+    "@id": "https://dnr.maryland.gov/publiclands/Pages/eastern/Tubman/Timeline.aspx"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of African American History and Culture",
+   "dcterms:title": "The Combahee Ferry Raid",
+   "schema:url": {
+    "@id": "https://nmaahc.si.edu/explore/stories/combahee-ferry-raid"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Center for Legislative Archives",
+   "dcterms:title": "The Claim of Harriet Tubman",
+   "schema:url": {
+    "@id": "https://www.archives.gov/legislative/features/claim-of-harriet-tubman"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Daily Compilation of Presidential Documents, GovInfo",
+   "dcterms:title": "Proclamation 8943 — Establishment of the Harriet Tubman Underground Railroad National Monument",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/DCPD-201300183/html/DCPD-201300183.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Management — Harriet Tubman Underground Railroad National Historical Park",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hatu/learn/management/index.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1",
@@ -16828,6 +17151,189 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:harriet-tubman",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9"
+    }
+   ],
+   "rdfs:label": "Harriet Tubman",
+   "schema:birthDate": {
+    "@type": "xsd:gYear",
+    "@value": "1822"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1913-03-10"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1913-03-10"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1822"
+   },
+   "skos:altLabel": [
+    "Araminta Ross",
+    "Harriet Ross Tubman",
+    "Harriet Tubman Davis",
+    "Minty Ross"
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "A freedom seeker, Underground Railroad conductor, Union scout and nurse, and women's-suffrage advocate (c. 1822–1913) who escaped slavery in Maryland in 1849, returned about 13 times to lead roughly 70 family members and friends to freedom, and helped lead the 1863 Combahee River raid that freed more than 700 enslaved people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america"
+   },
+   "skos:prefLabel": "Harriet Tubman",
+   "skos:related": [
+    {
+     "@id": "us:frederick-douglass"
+    },
+    {
+     "@id": "us:fugitive-slave-act-of-1850"
+    },
+    {
+     "@id": "us:harriet-tubman-national-historical-park"
+    },
+    {
+     "@id": "us:harriet-tubman-underground-railroad-national-historical-park"
+    },
+    {
+     "@id": "us:john-brown"
+    },
+    {
+     "@id": "us:maryland"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:underground-railroad-quilt-code-myth"
+    },
+    {
+     "@id": "us:united-states-colored-troops"
+    }
+   ],
+   "uso:domain": "people-who-shaped-america",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/people-who-shaped-america/harriet-tubman.md",
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:national-association-of-colored-women"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:combahee-river-raid"
+    },
+    {
+     "@id": "us:underground-railroad"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9"
     }
    ]
   },

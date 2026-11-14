@@ -583,6 +583,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Douglass support the Fifteenth Amendment even though it did not enfranchise women?
   **A:** He backed women's suffrage, but argued in 1869 that for Black Americans in the former slave states the vote was a matter of life and death, so Black men's voting rights could not wait for a separate women's amendment.
 
+### [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Tubman made 19 trips into the South and rescued more than 300 people, with a $40,000 bounty on her head. | Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman. |
+
+**Why it matters:** The larger numbers come from Sarah Bradford's 1868–69 biography and an 1867 letter supporting her pension claim; they stuck because they suited a legend, but they obscure how carefully she chose people she knew and trusted.
+
+- **Q:** Why did Tubman return only to Maryland's Eastern Shore rather than travel all over the South?
+  **A:** Her missions were to bring away family members and friends she knew and trusted; she knew that landscape from her years of labor in its marshes and woods, and unfamiliar places were far more dangerous.
+- **Q:** How did the Fugitive Slave Act of 1850 change where Tubman took the people she rescued?
+  **A:** The 1850 law put any freedom seeker in the United States, even in the North, at risk of recapture, so she guided people beyond Philadelphia to St. Catharines, Ontario, in Canada.
+- **Q:** Why did Tubman have to petition Congress for a pension, and what did she get?
+  **A:** She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person
