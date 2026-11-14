@@ -32,7 +32,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | arizona-v-california, california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
-| `us:louisiana-purchase` | 4 | Missouri Compromise, adams-onis-treaty, native-americans, territory-of-orleans |
+| `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
@@ -47,7 +47,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
-| `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
+| `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
@@ -96,6 +96,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
+| `us:native-americans` | interpretive |  |
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |

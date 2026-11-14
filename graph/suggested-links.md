@@ -7,8 +7,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 4.25 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:united-states-constitution` |
 | 2.98 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.77 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.48 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment`, `us:three-fifths-clause` |
-| 2.46 | `us:great-depression` | `us:japanese-american-incarceration` | `us:franklin-d-roosevelt`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.37 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
 | 2.35 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
@@ -18,8 +18,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.08 | `us:fourteenth-amendment` | `us:missouri-compromise` | `us:american-civil-war`, `us:dred-scott-v-sandford`, `us:united-states-congress` |
 | 2.00 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.97 | `us:frederick-douglass` | `us:liberty-bell` | `us:abolitionism`, `us:declaration-of-independence`, `us:womens-suffrage-movement` |
-| 1.96 | `us:colorado-river` | `us:louisiana-purchase` | `us:mississippi-river`, `us:native-americans`, `us:tribal-sovereignty`, `us:united-states` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
+| 1.93 | `us:great-depression` | `us:japanese-american-incarceration` | `us:franklin-d-roosevelt`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 1.91 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad`, `us:united-states` |
 | 1.90 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.90 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |

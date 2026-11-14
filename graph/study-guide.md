@@ -549,6 +549,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do estimates of how many people were removed range from about 50,000 to about 88,000?
   **A:** The figures count different things — about 50,000 eastern Native people removed under Jackson's treaties, about 70,000 from the five southeastern nations over several decades, and about 88,000 including northern nations removed in the 1830s and 1840s.
 
+### [Native Americans](../articles/native-nations/native-americans.md) — Community
+
+| Myth | Fact |
+|---|---|
+| Native Americans are a vanishing people who belong to the American past. | The 2020 census counted 9.7 million people who identify as American Indian or Alaska Native alone or in combination, up from 5.2 million in 2010; the United States recognizes 575 tribal nations, and more than 70 percent of Native people live in urban or suburban areas. |
+
+**Why it matters:** Costumes, tipis and other stock images suggest that Native cultures exist only in the past, hiding the contemporary nations and communities that survived and continue to thrive.
+
+- **Q:** Why do scholars' estimates of the Native population before 1492 differ so widely?
+  **A:** Early counters like James Mooney and Alfred Kroeber used numbers recorded by Europeans after contact, which already reflected deaths from epidemics; later scholars such as Henry Dobyns scaled those numbers up on the assumption that disease had killed most people before counting began, so the result depends on how large one judges the epidemic losses to have been.
+- **Q:** How did federal policy toward Native nations change between the 1950s and the 1970s?
+  **A:** In the 1950s the government pursued termination of federal supervision over tribes and relocated Native people to cities; by 1970 President Nixon called forced termination unacceptable, and the 1975 Self-Determination Act let tribes run federal programs themselves, shifting policy toward tribal self-government.
+- **Q:** Why did gaining citizenship in 1924 not guarantee Native Americans the vote?
+  **A:** Voting remained governed by state law, and some states continued to bar Native Americans from voting until 1957.
+- **Q:** Why does the census report two different counts of the American Indian and Alaska Native population?
+  **A:** The "alone" figure (3.7 million in 2020) counts only people who chose that single race, while the "alone or in combination" figure (9.7 million) also includes people who reported it together with another race.
+
 ## people-who-shaped-america
 
 ### [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) — Person

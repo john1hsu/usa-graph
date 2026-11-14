@@ -5843,6 +5843,184 @@
   ]
  },
  {
+  "id": "us:native-americans",
+  "title": "Native Americans",
+  "aliases": [
+   "American Indians",
+   "American Indians and Alaska Natives",
+   "Indigenous peoples of the United States",
+   "Native peoples of the United States"
+  ],
+  "type": "Community",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/native-nations/native-americans.md",
+  "created": "2026-11-14",
+  "summary": "The Indigenous peoples of the land that became the United States, whose ancestors lived in the Americas for well over ten thousand years before European contact; today they belong to hundreds of distinct nations, 575 of them federally recognized, and the 2020 census counted 9.7 million people who identified as American Indian or Alaska Native alone or in combination with another race.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:racial-and-ethnic-groups-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cahokia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dawes-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-reorganization-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-citizenship-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bureau-of-indian-affairs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-indian-boarding-schools"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:termination-policy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-relocation-act-of-1956"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-indian-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-self-determination-and-education-assistance-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:vanishing-indian-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:world-war-ii-and-the-united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:world-war-i",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why do scholars' estimates of the Native population before 1492 differ so widely?",
+    "answer": "Early counters like James Mooney and Alfred Kroeber used numbers recorded by Europeans after contact, which already reflected deaths from epidemics; later scholars such as Henry Dobyns scaled those numbers up on the assumption that disease had killed most people before counting began, so the result depends on how large one judges the epidemic losses to have been."
+   },
+   {
+    "question": "How did federal policy toward Native nations change between the 1950s and the 1970s?",
+    "answer": "In the 1950s the government pursued termination of federal supervision over tribes and relocated Native people to cities; by 1970 President Nixon called forced termination unacceptable, and the 1975 Self-Determination Act let tribes run federal programs themselves, shifting policy toward tribal self-government."
+   },
+   {
+    "question": "Why did gaining citizenship in 1924 not guarantee Native Americans the vote?",
+    "answer": "Voting remained governed by state law, and some states continued to bar Native Americans from voting until 1957."
+   },
+   {
+    "question": "Why does the census report two different counts of the American Indian and Alaska Native population?",
+    "answer": "The \"alone\" figure (3.7 million in 2020) counts only people who chose that single race, while the \"alone or in combination\" figure (9.7 million) also includes people who reported it together with another race."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1050",
+    "event": "Cahokia, east of present-day St. Louis, undergoes a rapid political and social transformation; its population grows almost fivefold in a generation."
+   },
+   {
+    "date": "1778",
+    "event": "The United States begins making treaties with Native nations; the Senate ratifies 370 of them by 1871."
+   },
+   {
+    "date": "1871",
+    "event": "Congress ends treaty-making with Indian tribes."
+   },
+   {
+    "date": "1887",
+    "event": "The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers."
+   },
+   {
+    "date": "1924-06-02",
+    "event": "The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before."
+   },
+   {
+    "date": "1934",
+    "event": "The Indian Reorganization Act establishes modern tribal governments."
+   },
+   {
+    "date": "1951",
+    "event": "The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities."
+   },
+   {
+    "date": "1968",
+    "event": "Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis."
+   },
+   {
+    "date": "1970-07-08",
+    "event": "President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination."
+   },
+   {
+    "date": "1975",
+    "event": "The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The 2020 census counts 3.7 million people who identify as American Indian and Alaska Native alone and 9.7 million alone or in combination."
+   },
+   {
+    "date": "2024-07-30",
+    "event": "The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them."
+   }
+  ],
+  "misconception": {
+   "myth": "Native Americans are a vanishing people who belong to the American past.",
+   "fact": "The 2020 census counted 9.7 million people who identify as American Indian or Alaska Native alone or in combination, up from 5.2 million in 2010; the United States recognizes 575 tribal nations, and more than 70 percent of Native people live in urban or suburban areas.",
+   "why": "Costumes, tipis and other stock images suggest that Native cultures exist only in the past, hiding the contemporary nations and communities that survived and continue to thrive."
+  },
+  "source_urls": [
+   "https://census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html",
+   "https://www.bia.gov/frequently-asked-questions",
+   "https://b.asp.si.edu/nk360/faq/did-you-know",
+   "https://www.americanyawp.com/text/?p=4404",
+   "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter1/debating_the_past.html",
+   "https://www.loc.gov/item/today-in-history/june-02/",
+   "https://www.archives.gov/research/native-americans/bia/urban-relocation",
+   "https://www.presidency.ucsb.edu/documents/special-message-the-congress-indian-affairs",
+   "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0055/1668949.pdf",
+   "https://www.doi.gov/node/58981"
+  ]
+ },
+ {
   "id": "us:new-orleans",
   "title": "New Orleans",
   "aliases": [
