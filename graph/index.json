@@ -5221,6 +5221,175 @@
   ]
  },
  {
+  "id": "us:okies",
+  "title": "Okies",
+  "aliases": [
+   "Okie",
+   "Okie migrants",
+   "Dust Bowl migrants",
+   "Southwestern migrants to California"
+  ],
+  "type": "Community",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/okies.md",
+  "created": "2026-11-14",
+  "summary": "The hundreds of thousands of migrants from Oklahoma, Arkansas, Texas and Missouri who moved to California and Arizona during the Great Depression, and the community and culture they built there; \"Okie\" began as a nickname for Oklahomans and became a slur for any poor Southwestern newcomer.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dust-bowl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-grapes-of-wrath"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:edwards-v-california"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:farm-security-administration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dorothea-lange"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:woody-guthrie"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:route-66"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:oklahoma",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:arkansas",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:texas",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:missouri",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:california",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:country-music",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "How did \"Okie\" change from a simple nickname into an insult?",
+    "answer": "It began as a shortening of \"Oklahoman\", but in 1930s California reporters and residents applied it to every poor migrant from Oklahoma, Arkansas, Texas or Missouri, and it came to carry the sting of an ethnic slur, reinforced by the destitute image of the Joads in The Grapes of Wrath."
+   },
+   {
+    "question": "If the Dust Bowl was not the main cause, why did so many Oklahomans leave in the 1930s?",
+    "answer": "More migrants left southeastern Oklahoma than the Panhandle Dust Bowl. They were pushed out by drought combined with a long agricultural depression, farm foreclosures, widespread tenancy, and mechanization and federal crop-reduction policies that idled land, and pulled by family ties and earlier migration to California."
+   },
+   {
+    "question": "How did the Okie migration lead to a Supreme Court ruling on the right to travel between states?",
+    "answer": "California made it a crime to bring a poor nonresident into the state, and Fred Edwards was convicted for bringing his unemployed brother-in-law from Texas; in Edwards v. California (1941) the Court held that the law unconstitutionally burdened interstate commerce, and concurring justices said free movement was a right of national citizenship."
+   },
+   {
+    "question": "How did the migrants reshape California's culture?",
+    "answer": "They built \"Little Oklahomas\" in the Central Valley, brought evangelical Protestantism (especially Baptist and Pentecostal churches) and a love of country music that shaped the state's country music scene, from Bob Wills to Merle Haggard."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1910",
+    "event": "Southwesterners begin moving west to California in significant numbers."
+   },
+   {
+    "date": "1933",
+    "event": "California's Indigent Act makes it a crime to bring a poor nonresident into the state."
+   },
+   {
+    "date": "1935",
+    "event": "The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts."
+   },
+   {
+    "date": "1936",
+    "event": "Los Angeles police post a border patrol, the \"bum blockade\", to turn back poor arrivals; it is withdrawn under threat of lawsuits."
+   },
+   {
+    "date": "1937",
+    "event": "Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields."
+   },
+   {
+    "date": "1939",
+    "event": "John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act."
+   },
+   {
+    "date": "1939-12",
+    "event": "Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted."
+   },
+   {
+    "date": "1941-11-24",
+    "event": "In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states."
+   },
+   {
+    "date": "1968-05-06",
+    "event": "Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride."
+   }
+  ],
+  "misconception": {
+   "myth": "The Okies were mostly dirt farmers who all ended up picking crops in California's fields.",
+   "fact": "At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys.",
+   "why": "The best-known images of the migration — Steinbeck's Joad family and Dorothea Lange's photographs of farm labor camps — focused on rural families in the fields, so the much larger urban side of the story faded from popular memory."
+  },
+  "source_urls": [
+   "https://www.okhistory.org/publications/enc/entry.php?entry=OK008",
+   "https://www.okhistory.org/publications/enc/entry?entryname=OKIE",
+   "https://faculty.washington.edu/gregoryj/dust%20bowl%20migration.htm",
+   "https://faculty.washington.edu/gregoryj/exodus",
+   "https://www.govinfo.gov/content/pkg/USREPORTS-314/pdf/USREPORTS-314-160.pdf"
+  ]
+ },
+ {
   "id": "us:panic-of-1873",
   "title": "Panic of 1873",
   "aliases": [

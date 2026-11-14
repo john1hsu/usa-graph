@@ -4204,6 +4204,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys.",
+   "uso:myth": "The Okies were mostly dirt farmers who all ended up picking crops in California's fields.",
+   "uso:why": "The best-known images of the migration — Steinbeck's Joad family and Dorothea Lange's photographs of farm labor camps — focused on rural families in the fields, so the much larger urban side of the story faded from popular memory."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did \"Okie\" change from a simple nickname into an insult?",
+   "uso:answer": "It began as a shortening of \"Oklahoman\", but in 1930s California reporters and residents applied it to every poor migrant from Oklahoma, Arkansas, Texas or Missouri, and it came to carry the sting of an ethnic slur, reinforced by the destitute image of the Joads in The Grapes of Wrath.",
+   "uso:questionFor": {
+    "@id": "us:okies"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "If the Dust Bowl was not the main cause, why did so many Oklahomans leave in the 1930s?",
+   "uso:answer": "More migrants left southeastern Oklahoma than the Panhandle Dust Bowl. They were pushed out by drought combined with a long agricultural depression, farm foreclosures, widespread tenancy, and mechanization and federal crop-reduction policies that idled land, and pulled by family ties and earlier migration to California.",
+   "uso:questionFor": {
+    "@id": "us:okies"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Okie migration lead to a Supreme Court ruling on the right to travel between states?",
+   "uso:answer": "California made it a crime to bring a poor nonresident into the state, and Fred Edwards was convicted for bringing his unemployed brother-in-law from Texas; in Edwards v. California (1941) the Court held that the law unconstitutionally burdened interstate commerce, and concurring justices said free movement was a right of national citizenship.",
+   "uso:questionFor": {
+    "@id": "us:okies"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the migrants reshape California's culture?",
+   "uso:answer": "They built \"Little Oklahomas\" in the Central Valley, brought evangelical Protestantism (especially Baptist and Pentecostal churches) and a love of country music that shaped the state's country music scene, from Bob Wills to Merle Haggard.",
+   "uso:questionFor": {
+    "@id": "us:okies"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Southwesterners begin moving west to California in significant numbers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California's Indigent Act makes it a crime to bring a poor nonresident into the state.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1933"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Los Angeles police post a border patrol, the \"bum blockade\", to turn back poor arrivals; it is withdrawn under threat of lawsuits.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1936"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1939"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1939-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-11-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-05-06"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed.",
@@ -8690,6 +8814,76 @@
     "@id": "https://weather.gov/mob/katrina"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture (William H. Mullins)",
+   "dcterms:title": "Okie Migrations",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry.php?entry=OK008"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture (Carolyn G. Hanneman)",
+   "dcterms:title": "\"Okie\"",
+   "schema:url": {
+    "@id": "https://www.okhistory.org/publications/enc/entry?entryname=OKIE"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "James N. Gregory, University of Washington (revised from Poverty in the United States, ABC-Clio, 2004)",
+   "dcterms:title": "The Dust Bowl Migration: Poverty Stories, Race Stories",
+   "schema:url": {
+    "@id": "https://faculty.washington.edu/gregoryj/dust%20bowl%20migration.htm"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "James N. Gregory, University of Washington (book site for the Oxford University Press study, 1989)",
+   "dcterms:title": "American Exodus: The Dust Bowl Migration and Okie Culture in California",
+   "schema:url": {
+    "@id": "https://faculty.washington.edu/gregoryj/exodus"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Supreme Court, United States Reports (GovInfo)",
+   "dcterms:title": "Edwards v. California, 314 U.S. 160 (1941)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-314/pdf/USREPORTS-314-160.pdf"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1",
@@ -15572,6 +15766,134 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:okies",
+   "@type": "uso:Community",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/okies/s5"
+    }
+   ],
+   "rdfs:label": "Okies",
+   "skos:altLabel": [
+    "Dust Bowl migrants",
+    "Okie migrants",
+    "Okie",
+    "Southwestern migrants to California"
+   ],
+   "skos:broader": {
+    "@id": "us:great-depression"
+   },
+   "skos:definition": "The hundreds of thousands of migrants from Oklahoma, Arkansas, Texas and Missouri who moved to California and Arizona during the Great Depression, and the community and culture they built there; \"Okie\" began as a nickname for Oklahomans and became a slur for any poor Southwestern newcomer.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Okies",
+   "skos:related": [
+    {
+     "@id": "us:dorothea-lange"
+    },
+    {
+     "@id": "us:dust-bowl"
+    },
+    {
+     "@id": "us:edwards-v-california"
+    },
+    {
+     "@id": "us:farm-security-administration"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:route-66"
+    },
+    {
+     "@id": "us:the-grapes-of-wrath"
+    },
+    {
+     "@id": "us:woody-guthrie"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:country-music"
+   },
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/okies.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:california"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/okies/misconception"
+   },
+   "uso:originatedIn": [
+    {
+     "@id": "us:arkansas"
+    },
+    {
+     "@id": "us:missouri"
+    },
+    {
+     "@id": "us:oklahoma"
+    },
+    {
+     "@id": "us:texas"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:great-depression"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/9"
     }
    ]
   },

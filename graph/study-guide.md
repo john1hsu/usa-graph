@@ -634,6 +634,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why does the census give two different counts of the Black population in 2020?
   **A:** The "Black alone" count (41.1 million, 12.4 percent) includes only people who chose that single race, while "Black alone or in combination" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races.
 
+### [Okies](../articles/society-and-people/okies.md) — Community
+
+| Myth | Fact |
+|---|---|
+| The Okies were mostly dirt farmers who all ended up picking crops in California's fields. | At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys. |
+
+**Why it matters:** The best-known images of the migration — Steinbeck's Joad family and Dorothea Lange's photographs of farm labor camps — focused on rural families in the fields, so the much larger urban side of the story faded from popular memory.
+
+- **Q:** How did "Okie" change from a simple nickname into an insult?
+  **A:** It began as a shortening of "Oklahoman", but in 1930s California reporters and residents applied it to every poor migrant from Oklahoma, Arkansas, Texas or Missouri, and it came to carry the sting of an ethnic slur, reinforced by the destitute image of the Joads in The Grapes of Wrath.
+- **Q:** If the Dust Bowl was not the main cause, why did so many Oklahomans leave in the 1930s?
+  **A:** More migrants left southeastern Oklahoma than the Panhandle Dust Bowl. They were pushed out by drought combined with a long agricultural depression, farm foreclosures, widespread tenancy, and mechanization and federal crop-reduction policies that idled land, and pulled by family ties and earlier migration to California.
+- **Q:** How did the Okie migration lead to a Supreme Court ruling on the right to travel between states?
+  **A:** California made it a crime to bring a poor nonresident into the state, and Fred Edwards was convicted for bringing his unemployed brother-in-law from Texas; in Edwards v. California (1941) the Court held that the law unconstitutionally burdened interstate commerce, and concurring justices said free movement was a right of national citizenship.
+- **Q:** How did the migrants reshape California's culture?
+  **A:** They built "Little Oklahomas" in the Central Valley, brought evangelical Protestantism (especially Baptist and Pentecostal churches) and a love of country music that shaped the state's country music scene, from Bob Wills to Merle Haggard.
+
 ### [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) — Concept
 
 | Myth | Fact |

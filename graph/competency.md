@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:jim-crow-laws` | 1 | African Americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 
-…and 6 more.
+…and 7 more.
 
 ## Happenings by era
 
@@ -110,9 +110,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:dust-bowl` |
+_No results._
 
 ## People with no recorded role (gap)
 
