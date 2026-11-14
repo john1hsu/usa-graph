@@ -4689,6 +4689,203 @@
   ]
  },
  {
+  "id": "us:missouri-compromise",
+  "title": "Missouri Compromise",
+  "aliases": [
+   "Missouri Compromise of 1820",
+   "Compromise of 1820",
+   "Missouri Enabling Act of 1820",
+   "Thomas Proviso",
+   "Thomas Amendment",
+   "36°30′ line"
+  ],
+  "type": "Law",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/missouri-compromise.md",
+  "created": "2026-11-14",
+  "summary": "The 1820 act of Congress, signed by President James Monroe on March 6, 1820, that let Missouri enter the Union without a ban on slavery, paired its admission with that of Maine as a free state, and prohibited slavery in the rest of the Louisiana Purchase north of latitude 36°30′.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:sectionalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-clay"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-tallmadge-jr"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kansas-nebraska-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:compromise-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:james-monroe",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:jesse-b-thomas",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:missouri",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:dred-scott-v-sandford",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1820-03-06",
+  "end": "1854",
+  "review": [
+   {
+    "question": "Why did Congress link Maine's statehood to Missouri's?",
+    "answer": "Admitting Missouri as a slave state would have tipped the evenly divided Senate toward the slave states, so Senate leaders would advance Maine (a free state carved from Massachusetts) only if Missouri entered without the Tallmadge restriction; admitting both kept the balance at twelve and twelve."
+   },
+   {
+    "question": "How did the 36°30′ line work, and how was it undone?",
+    "answer": "It barred slavery in the remaining Louisiana Purchase territory north of Missouri's southern border while leaving Missouri itself open to slavery; the Kansas-Nebraska Act repealed it in 1854, and in 1857 the Supreme Court's Dred Scott decision declared the compromise unconstitutional."
+   },
+   {
+    "question": "Why did a second compromise become necessary in 1821?",
+    "answer": "Missouri's 1820 constitution directed the legislature to keep free Black people from entering the state, which some members of Congress said violated the rights of free Black people recognized as citizens in northern states; Clay's resolution admitted Missouri only after its legislature pledged in a public act that the disputed clauses would not be enforced."
+   },
+   {
+    "question": "Why did Jefferson call the settlement \"a reprieve only\"?",
+    "answer": "He believed that a geographic line coinciding with a moral and political principle would never be erased and would deepen with each new dispute, threatening the Union."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1819-02-15",
+    "event": "Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies."
+   },
+   {
+    "date": "1819-12",
+    "event": "The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's."
+   },
+   {
+    "date": "1820-03-02",
+    "event": "The House accepts the compromise, admitting Missouri without restriction and closing the territory north of 36°30′ to slavery."
+   },
+   {
+    "date": "1820-03-06",
+    "event": "President James Monroe signs the act."
+   },
+   {
+    "date": "1820-03-15",
+    "event": "Maine becomes the 23rd state."
+   },
+   {
+    "date": "1820-04-22",
+    "event": "Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night."
+   },
+   {
+    "date": "1820-07-19",
+    "event": "Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state."
+   },
+   {
+    "date": "1821-06",
+    "event": "Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced."
+   },
+   {
+    "date": "1821-08-10",
+    "event": "Monroe proclaims Missouri the 24th state."
+   },
+   {
+    "date": "1854",
+    "event": "The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years."
+   },
+   {
+    "date": "1857",
+    "event": "In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional."
+   }
+  ],
+  "misconception": {
+   "myth": "Henry Clay drew up the Missouri Compromise and proposed its famous 36°30′ line.",
+   "fact": "Senator Jesse B. Thomas of Illinois proposed the 36°30′ line; Speaker Henry Clay, working with President Monroe and Senate leaders, steered the package through the House and later brokered the 1821 second compromise over Missouri's constitution.",
+   "why": "The Missouri fight launched Clay's lasting reputation as \"the Great Compromiser,\" so later memory folded the work of Thomas, Monroe and others into his name."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/missouri-compromise",
+   "https://openstax.org/books/us-history/pages/11-2-the-missouri-crisis",
+   "https://www.americanyawp.com/text/09-democracy-in-america/",
+   "https://millercenter.org/president/james-monroe/key-events",
+   "https://www.senate.gov/artandhistory/history/minute/Missouri_Compromise.htm",
+   "https://mostateparks.Com/sites/mostateparks/files/SecondCrisis_FinalCompromise.pdf",
+   "https://www.mostateparks.com/sites/mostateparks/files/CrisisAndCompromise.pdf",
+   "https://essentialcivilwarcurriculum.vt.domains/assets/files/pdf/ECWCTOPICMissouriCompromiseEssay.pdf",
+   "https://academic.oup.com/ahr/article/113/4/1160/42163",
+   "https://www.monticello.org/site/research-and-collections/fire-bell-night-quotation",
+   "https://www.battlefields.org/learn/articles/missouri-compromise"
+  ]
+ },
+ {
   "id": "us:montgomery-bus-boycott",
   "title": "Montgomery bus boycott",
   "aliases": [

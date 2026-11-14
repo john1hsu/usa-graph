@@ -338,6 +338,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?
   **A:** It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.
 
+### [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Henry Clay drew up the Missouri Compromise and proposed its famous 36°30′ line. | Senator Jesse B. Thomas of Illinois proposed the 36°30′ line; Speaker Henry Clay, working with President Monroe and Senate leaders, steered the package through the House and later brokered the 1821 second compromise over Missouri's constitution. |
+
+**Why it matters:** The Missouri fight launched Clay's lasting reputation as "the Great Compromiser," so later memory folded the work of Thomas, Monroe and others into his name.
+
+- **Q:** Why did Congress link Maine's statehood to Missouri's?
+  **A:** Admitting Missouri as a slave state would have tipped the evenly divided Senate toward the slave states, so Senate leaders would advance Maine (a free state carved from Massachusetts) only if Missouri entered without the Tallmadge restriction; admitting both kept the balance at twelve and twelve.
+- **Q:** How did the 36°30′ line work, and how was it undone?
+  **A:** It barred slavery in the remaining Louisiana Purchase territory north of Missouri's southern border while leaving Missouri itself open to slavery; the Kansas-Nebraska Act repealed it in 1854, and in 1857 the Supreme Court's Dred Scott decision declared the compromise unconstitutional.
+- **Q:** Why did a second compromise become necessary in 1821?
+  **A:** Missouri's 1820 constitution directed the legislature to keep free Black people from entering the state, which some members of Congress said violated the rights of free Black people recognized as citizens in northern states; Clay's resolution admitted Missouri only after its legislature pledged in a public act that the disputed clauses would not be enforced.
+- **Q:** Why did Jefferson call the settlement "a reprieve only"?
+  **A:** He believed that a geographic line coinciding with a moral and political principle would never be erased and would deepen with each new dispute, threatening the Union.
+
 ## economy-and-work
 
 ### [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) — Event

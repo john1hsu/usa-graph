@@ -165,6 +165,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1819-12 | The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-03-02 | The House accepts the compromise, admitting Missouri without restriction and closing the territory north of 36°30′ to slavery. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-03-06 – 1854 | **[Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md)** (Law) |
+| 1820-03-06 | President James Monroe signs the act. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-03-15 | Maine becomes the 23rd state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-04-22 | Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-07-19 | Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1821-06 | Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1821-08-10 | Monroe proclaims Missouri the 24th state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -203,6 +213,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1857 | In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |

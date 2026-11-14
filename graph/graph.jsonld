@@ -3787,6 +3787,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Senator Jesse B. Thomas of Illinois proposed the 36°30′ line; Speaker Henry Clay, working with President Monroe and Senate leaders, steered the package through the House and later brokered the 1821 second compromise over Missouri's constitution.",
+   "uso:myth": "Henry Clay drew up the Missouri Compromise and proposed its famous 36°30′ line.",
+   "uso:why": "The Missouri fight launched Clay's lasting reputation as \"the Great Compromiser,\" so later memory folded the work of Thomas, Monroe and others into his name."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress link Maine's statehood to Missouri's?",
+   "uso:answer": "Admitting Missouri as a slave state would have tipped the evenly divided Senate toward the slave states, so Senate leaders would advance Maine (a free state carved from Massachusetts) only if Missouri entered without the Tallmadge restriction; admitting both kept the balance at twelve and twelve.",
+   "uso:questionFor": {
+    "@id": "us:missouri-compromise"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 36°30′ line work, and how was it undone?",
+   "uso:answer": "It barred slavery in the remaining Louisiana Purchase territory north of Missouri's southern border while leaving Missouri itself open to slavery; the Kansas-Nebraska Act repealed it in 1854, and in 1857 the Supreme Court's Dred Scott decision declared the compromise unconstitutional.",
+   "uso:questionFor": {
+    "@id": "us:missouri-compromise"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did a second compromise become necessary in 1821?",
+   "uso:answer": "Missouri's 1820 constitution directed the legislature to keep free Black people from entering the state, which some members of Congress said violated the rights of free Black people recognized as citizens in northern states; Clay's resolution admitted Missouri only after its legislature pledged in a public act that the disputed clauses would not be enforced.",
+   "uso:questionFor": {
+    "@id": "us:missouri-compromise"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jefferson call the settlement \"a reprieve only\"?",
+   "uso:answer": "He believed that a geographic line coinciding with a moral and political principle would never be erased and would deepen with each new dispute, threatening the Union.",
+   "uso:questionFor": {
+    "@id": "us:missouri-compromise"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1819-02-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1854"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1819-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House accepts the compromise, admitting Missouri without restriction and closing the territory north of 36°30′ to slavery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1820-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President James Monroe signs the act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1820-03-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Maine becomes the 23rd state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1820-03-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1820-04-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1820-07-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1821-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Monroe proclaims Missouri the 24th state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1821-08-10"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year.",
@@ -8464,6 +8606,160 @@
     "@id": "https://history.state.gov/milestones/1784-1800/pickney-treaty"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Missouri Compromise (1820)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/missouri-compromise"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello)",
+   "dcterms:title": "Fire Bell in the Night (Quotation)",
+   "schema:url": {
+    "@id": "https://www.monticello.org/site/research-and-collections/fire-bell-night-quotation"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "The Missouri Compromise",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/articles/missouri-compromise"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "11.2 The Missouri Crisis",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/11-2-the-missouri-crisis"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press)",
+   "dcterms:title": "9. Democracy in America",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/09-democracy-in-america/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "James Monroe - Key Events",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/james-monroe/key-events"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "Missouri Compromise Ushers in New Era for the Senate",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/minute/Missouri_Compromise.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Missouri State Parks, Missouri Department of Natural Resources",
+   "dcterms:title": "Second Crisis, Final Compromise",
+   "schema:url": {
+    "@id": "https://mostateparks.Com/sites/mostateparks/files/SecondCrisis_FinalCompromise.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Missouri State Parks, Missouri Department of Natural Resources",
+   "dcterms:title": "Crisis and Compromise",
+   "schema:url": {
+    "@id": "https://www.mostateparks.com/sites/mostateparks/files/CrisisAndCompromise.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Matthew Mason, Essential Civil War Curriculum, Virginia Center for Civil War Studies at Virginia Tech",
+   "dcterms:title": "The Missouri Compromise of 1820",
+   "schema:url": {
+    "@id": "https://essentialcivilwarcurriculum.vt.domains/assets/files/pdf/ECWCTOPICMissouriCompromiseEssay.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Lacy Ford, American Historical Review 113, no. 4 (October 2008), 1160–1161",
+   "dcterms:title": "Review of Robert Pierce Forbes, The Missouri Compromise and Its Aftermath: Slavery and the Meaning of America",
+   "schema:url": {
+    "@id": "https://academic.oup.com/ahr/article/113/4/1160/42163"
+   },
+   "uso:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1",
@@ -15797,6 +16093,181 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:missouri-compromise",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s9"
+    }
+   ],
+   "rdfs:label": "Missouri Compromise",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1854"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1820-03-06"
+   },
+   "skos:altLabel": [
+    "36°30′ line",
+    "Compromise of 1820",
+    "Missouri Compromise of 1820",
+    "Missouri Enabling Act of 1820",
+    "Thomas Amendment",
+    "Thomas Proviso"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:sectionalism"
+    },
+    {
+     "@id": "us:territorial-expansion-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The 1820 act of Congress, signed by President James Monroe on March 6, 1820, that let Missouri enter the Union without a ban on slavery, paired its admission with that of Maine as a free state, and prohibited slavery in the rest of the Louisiana Purchase north of latitude 36°30′.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "Missouri Compromise",
+   "skos:related": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:compromise-of-1850"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:henry-clay"
+    },
+    {
+     "@id": "us:james-tallmadge-jr"
+    },
+    {
+     "@id": "us:kansas-nebraska-act"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:maine"
+    },
+    {
+     "@id": "us:missouri"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:missouri"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "uso:challengedBy": {
+    "@id": "us:dred-scott-v-sandford"
+   },
+   "uso:domain": "early-republic-and-expansion",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/missouri-compromise.md",
+   "uso:introducedBy": {
+    "@id": "us:jesse-b-thomas"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/misconception"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "uso:signedBy": {
+    "@id": "us:james-monroe"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/9"
     }
    ]
   },
