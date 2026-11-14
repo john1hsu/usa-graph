@@ -1612,6 +1612,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Corruption and patronage were real, but voter participation in the 1880s and 1890s was the highest in American history, presidential elections were razor-close, and voters fought hard over tariffs, currency, Prohibition and schooling.",
+   "uso:myth": "Gilded Age politics was issueless and corrupt, and ordinary Americans tuned it out.",
+   "uso:why": "Taking the era's satirical label at face value hides how intensely Americans contested the direction of an industrializing country, and how those fights set up Populist and Progressive reform."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Twain and Warner's title become the name of a whole era?",
+   "uso:answer": "Their 1873 novel satirized postwar corruption, and \"gilded\" captured the contrast historians still see between dazzling new wealth and progress on the surface and deep inequality and corruption underneath.",
+   "uso:questionFor": {
+    "@id": "us:gilded-age"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did rapid industrialization lead to the labor conflicts of the period?",
+   "uso:answer": "Railroads and large corporations grew fast while wealth concentrated at the top, wages stayed low and work was often seasonal; fewer workers could expect to become independent, so many joined unions such as the Knights of Labor, and more than 20,000 strikes and lockouts followed, often broken by private guards, militia or federal troops.",
+   "uso:questionFor": {
+    "@id": "us:gilded-age"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some historians, such as Rebecca Edwards, argue that \"Gilded Age\" is a poor label?",
+   "uso:answer": "The name was meant as an indictment of the elite, so it focuses attention on robber barons and corrupt politicians and misses the grassroots ferment of the period, from farmers' alliances and unions to women's organizations and Black activism.",
+   "uso:questionFor": {
+    "@id": "us:gilded-age"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1873"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William McKinley, backed by business and the gold standard, defeats William Jennings Bryan for the presidency.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1896"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Great Railroad Strike spreads from Baltimore to St. Louis; about 100 people die before federal troops end it.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1877"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Henry George publishes Progress and Poverty, a bestselling critique of inequality.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1879"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-05-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1883"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1886-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress approves the Dawes Act, dividing reservation land held in common into individual allotments.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1887-02-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1894"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places.",
@@ -5382,6 +5515,160 @@
     "@id": "https://mountvernon.org/george-washington/facts/a-history-of-washingtons-dental-troubles"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Joseph L. Locke et al., The American Yawp, vol. 2, 2nd ed. (Stanford University Press)",
+   "dcterms:title": "15. Capital and Labor",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/textbook/15-capital-and-labor"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress, U.S. History Primary Source Timeline",
+   "dcterms:title": "Rise of Industrial America, 1876-1900: Overview",
+   "schema:url": {
+    "@id": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/overview/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Richard White, The Journal of the Gilded Age and Progressive Era 19, no. 2 (April 2020) 314–320, doi:10.1017/S1537781419000756",
+   "dcterms:title": "Gilded Ages",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/gilded-ages/ACCD431390E9FBFC2CFB14A824A13EB5"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Yawp, ed. Joseph Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "18. Life in Industrial America",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/feedback_2018-2021/18-life-in-industrial-america/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "20.1 Political Corruption in Postbellum America",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/20-1-political-corruption-in-postbellum-america"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Rebecca Edwards, The Journal of the Gilded Age and Progressive Era 8, no. 4 (October 2009) 461–473, doi:10.1017/S1537781400001432",
+   "dcterms:title": "Politics, Social Movements, and the Periodization of U.S. History",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/politics-social-movements-and-the-periodization-of-us-history/8BC4161B88075B3456D459CAF656DAD4"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "H. Wayne Morgan, American Heritage 35, no. 5 (August/September 1984)",
+   "dcterms:title": "The Gilded Age",
+   "schema:url": {
+    "@id": "https://americanheritage.com/gilded-age"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Chinese Exclusion Act (1882)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/chinese-exclusion-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Dawes Act (1887)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/dawes-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Decennial Census Historical Facts: 1870",
+   "schema:url": {
+    "@id": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1870.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Decennial Census Historical Facts: 1900",
+   "schema:url": {
+    "@id": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1900.html"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1",
@@ -10612,6 +10899,162 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:gilded-age",
+   "@type": "uso:Era",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gilded-age/s9"
+    }
+   ],
+   "rdfs:label": "Gilded Age",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   },
+   "skos:altLabel": [
+    "First Gilded Age",
+    "Gilded Age America",
+    "The Gilded Age"
+   ],
+   "skos:broader": {
+    "@id": "us:history-of-the-united-states"
+   },
+   "skos:definition": "The period of U.S. history from roughly 1870 to 1900, named after Mark Twain and Charles Dudley Warner's 1873 satire, when railroads, factories, cities and immigration grew at unprecedented speed while wealth concentrated, labor conflict sharpened, and Black, Native, Chinese and working-class Americans faced disfranchisement, dispossession and exclusion.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Gilded Age",
+   "skos:related": [
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:dawes-act"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:homestead-strike"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:panic-of-1873"
+    },
+    {
+     "@id": "us:pendleton-civil-service-reform-act"
+    },
+    {
+     "@id": "us:populist-movement"
+    },
+    {
+     "@id": "us:progressive-era"
+    }
+   ],
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/gilded-age-and-progressive-era/gilded-age.md",
+   "uso:introducedBy": {
+    "@id": "us:mark-twain"
+   },
+   "uso:introducedIn": {
+    "@id": "us:the-gilded-age-a-tale-of-today"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:populist-movement"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:requires": {
+    "@id": "us:reconstruction-era"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/9"
     }
    ]
   },

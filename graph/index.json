@@ -1987,6 +1987,178 @@
   ]
  },
  {
+  "id": "us:gilded-age",
+  "title": "Gilded Age",
+  "aliases": [
+   "The Gilded Age",
+   "First Gilded Age",
+   "Gilded Age America"
+  ],
+  "type": "Era",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/gilded-age.md",
+  "created": "2026-11-14",
+  "summary": "The period of U.S. history from roughly 1870 to 1900, named after Mark Twain and Charles Dudley Warner's 1873 satire, when railroads, factories, cities and immigration grew at unprecedented speed while wealth concentrated, labor conflict sharpened, and Black, Native, Chinese and working-class Americans faced disfranchisement, dispossession and exclusion.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-railroad-strike-of-1877"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:homestead-strike"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dawes-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:populist-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pendleton-civil-service-reform-act"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "uso:introducedIn",
+    "object": "us:the-gilded-age-a-tale-of-today",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:mark-twain",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:labor-movement",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:populist-movement",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1870",
+  "end": "1900",
+  "review": [
+   {
+    "question": "Why did Twain and Warner's title become the name of a whole era?",
+    "answer": "Their 1873 novel satirized postwar corruption, and \"gilded\" captured the contrast historians still see between dazzling new wealth and progress on the surface and deep inequality and corruption underneath."
+   },
+   {
+    "question": "How did rapid industrialization lead to the labor conflicts of the period?",
+    "answer": "Railroads and large corporations grew fast while wealth concentrated at the top, wages stayed low and work was often seasonal; fewer workers could expect to become independent, so many joined unions such as the Knights of Labor, and more than 20,000 strikes and lockouts followed, often broken by private guards, militia or federal troops."
+   },
+   {
+    "question": "Why do some historians, such as Rebecca Edwards, argue that \"Gilded Age\" is a poor label?",
+    "answer": "The name was meant as an indictment of the elite, so it focuses attention on robber barons and corrupt politicians and misses the grassroots ferment of the period, from farmers' alliances and unions to women's organizations and Black activism."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1873",
+    "event": "Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name."
+   },
+   {
+    "date": "1877",
+    "event": "The Great Railroad Strike spreads from Baltimore to St. Louis; about 100 people die before federal troops end it."
+   },
+   {
+    "date": "1879",
+    "event": "Henry George publishes Progress and Poverty, a bestselling critique of inequality."
+   },
+   {
+    "date": "1882-05-06",
+    "event": "President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years."
+   },
+   {
+    "date": "1883",
+    "event": "Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination."
+   },
+   {
+    "date": "1886-05",
+    "event": "A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged."
+   },
+   {
+    "date": "1887-02-08",
+    "event": "Congress approves the Dawes Act, dividing reservation land held in common into individual allotments."
+   },
+   {
+    "date": "1892",
+    "event": "The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors."
+   },
+   {
+    "date": "1894",
+    "event": "Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed."
+   },
+   {
+    "date": "1896",
+    "event": "William McKinley, backed by business and the gold standard, defeats William Jennings Bryan for the presidency."
+   },
+   {
+    "date": "1900",
+    "event": "The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people."
+   }
+  ],
+  "misconception": {
+   "myth": "Gilded Age politics was issueless and corrupt, and ordinary Americans tuned it out.",
+   "fact": "Corruption and patronage were real, but voter participation in the 1880s and 1890s was the highest in American history, presidential elections were razor-close, and voters fought hard over tariffs, currency, Prohibition and schooling.",
+   "why": "Taking the era's satirical label at face value hides how intensely Americans contested the direction of an industrializing country, and how those fights set up Populist and Progressive reform."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/textbook/15-capital-and-labor",
+   "https://www.americanyawp.com/feedback_2018-2021/18-life-in-industrial-america/",
+   "https://openstax.org/books/us-history/pages/20-1-political-corruption-in-postbellum-america",
+   "https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/politics-social-movements-and-the-periodization-of-us-history/8BC4161B88075B3456D459CAF656DAD4",
+   "https://americanheritage.com/gilded-age",
+   "https://www.archives.gov/milestone-documents/chinese-exclusion-act",
+   "https://www.archives.gov/milestone-documents/dawes-act",
+   "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1870.html",
+   "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1900.html",
+   "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/overview/",
+   "https://cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/gilded-ages/ACCD431390E9FBFC2CFB14A824A13EB5"
+  ]
+ },
+ {
   "id": "us:great-railroad-strike-of-1877",
   "title": "Great Railroad Strike of 1877",
   "aliases": [

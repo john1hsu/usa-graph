@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
+| `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
@@ -80,6 +81,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
 | `us:george-washington` | interpretive |  |
+| `us:gilded-age` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |

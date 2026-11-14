@@ -344,6 +344,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## gilded-age-and-progressive-era
 
+### [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) — Era
+
+| Myth | Fact |
+|---|---|
+| Gilded Age politics was issueless and corrupt, and ordinary Americans tuned it out. | Corruption and patronage were real, but voter participation in the 1880s and 1890s was the highest in American history, presidential elections were razor-close, and voters fought hard over tariffs, currency, Prohibition and schooling. |
+
+**Why it matters:** Taking the era's satirical label at face value hides how intensely Americans contested the direction of an industrializing country, and how those fights set up Populist and Progressive reform.
+
+- **Q:** Why did Twain and Warner's title become the name of a whole era?
+  **A:** Their 1873 novel satirized postwar corruption, and "gilded" captured the contrast historians still see between dazzling new wealth and progress on the surface and deep inequality and corruption underneath.
+- **Q:** How did rapid industrialization lead to the labor conflicts of the period?
+  **A:** Railroads and large corporations grew fast while wealth concentrated at the top, wages stayed low and work was often seasonal; fewer workers could expect to become independent, so many joined unions such as the Knights of Labor, and more than 20,000 strikes and lockouts followed, often broken by private guards, militia or federal troops.
+- **Q:** Why do some historians, such as Rebecca Edwards, argue that "Gilded Age" is a poor label?
+  **A:** The name was meant as an indictment of the elite, so it focuses attention on robber barons and corrupt politicians and misses the grassroots ferment of the period, from farmers' alliances and unions to women's organizations and Black activism.
+
 ### [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) — Policy
 
 | Myth | Fact |

@@ -7,7 +7,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.01 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.78 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.59 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
-| 2.18 | `us:lattimer-massacre` | `us:panic-of-1873` | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:labor-movement` |
+| 2.26 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.14 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:three-fifths-clause`, `us:united-states-constitution` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
@@ -17,15 +17,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.81 | `us:george-washington` | `us:pennsylvania` | `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |
 | 1.77 | `us:articles-of-confederation` | `us:morrill-land-grant-college-act` | `us:northwest-ordinance`, `us:united-states-congress` |
-| 1.68 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.67 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:frederick-douglass`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | 1.65 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.63 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:underground-railroad` |
-| 1.62 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | 1.62 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 1.61 | `us:equal-protection` | `us:jazz` | `us:african-americans`, `us:jim-crow-laws`, `us:plessy-v-ferguson` |
+| 1.61 | `us:american-civil-war` | `us:fifteenth-amendment` | `us:fourteenth-amendment`, `us:frederick-douglass`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | 1.60 | `us:frederick-douglass` | `us:siege-of-vicksburg` | `us:abraham-lincoln`, `us:american-civil-war`, `us:united-states-colored-troops` |
 | 1.55 | `us:brown-v-board-of-education` | `us:voting-rights-act-of-1965` | `us:civil-rights-movement`, `us:fourteenth-amendment`, `us:jim-crow-laws` |
-| 1.53 | `us:american-civil-war` | `us:pennsylvania` | `us:battle-of-gettysburg`, `us:united-states` |
+| 1.47 | `us:american-civil-war` | `us:pennsylvania` | `us:battle-of-gettysburg`, `us:united-states` |
 | 1.44 | `us:declaration-of-independence` | `us:siege-of-vicksburg` | `us:independence-day` |
+| 1.44 | `us:lattimer-massacre` | `us:panic-of-1873` | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:labor-movement` |
 | 1.44 | `us:panic-of-1873` | `us:siege-of-vicksburg` | `us:ulysses-s-grant` |
-| 1.40 | `us:articles-of-confederation` | `us:thomas-jefferson` | `us:declaration-of-independence`, `us:george-washington`, `us:second-continental-congress` |
