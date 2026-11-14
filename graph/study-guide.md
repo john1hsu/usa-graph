@@ -404,6 +404,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## foreign-relations-and-military
 
+### [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Ships crossing the Panama Canal from the Atlantic to the Pacific sail westward. | From its Atlantic end the canal runs south for about 10 miles and then east to the Pacific, so a ship heading for the Pacific finishes its transit to the east of where it started. |
+
+**Why it matters:** World maps fix the Atlantic on the east and the Pacific on the west, but the Isthmus of Panama bends in an S-shape, so the general picture of the Americas misleads about this crossing.
+
+- **Q:** Why did Panama, rather than Colombia, sign the 1903 canal treaty with the United States?
+  **A:** Colombia's congress rejected the Hay-Herrán Treaty over its financial terms; Panama then declared independence on November 3, 1903, with U.S. warships nearby, the United States recognized it within three days, and Panama's envoy Philippe Bunau-Varilla signed the Hay-Bunau-Varilla Treaty on November 18.
+- **Q:** How did the gold and silver rolls shape life for the canal's workers?
+  **A:** Skilled white workers, mostly from the United States, were paid in gold on the gold roll and got better housing, dining and clubs; the mostly Black West Indian laborers on the silver roll were paid in local silver at about half the wage, lived in crowded camps, did the most dangerous work such as dynamiting, and died at far higher rates.
+- **Q:** Why did the United States succeed in building a canal where the French effort had failed?
+  **A:** The French were defeated by disease and bankruptcy after about 20,000 deaths; the Americans first ran a large sanitation campaign under William Gorgas that ended yellow fever in Panama City by 1905 and cut malaria deaths sharply, and they switched to a lock design, which Stevens argued could be finished about a decade sooner than a sea-level cut.
+- **Q:** Why did the United States agree in 1977 to hand the canal to Panama?
+  **A:** Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral.
+
 ### [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) — Conflict
 
 | Myth | Fact |

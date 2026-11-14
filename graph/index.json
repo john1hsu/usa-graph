@@ -5587,6 +5587,207 @@
   ]
  },
  {
+  "id": "us:panama-canal",
+  "title": "Panama Canal",
+  "aliases": [
+   "Canal de Panamá",
+   "Isthmian Canal"
+  ],
+  "type": "Landmark",
+  "domain": "foreign-relations-and-military",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/foreign-relations-and-military/panama-canal.md",
+  "created": "2026-11-14",
+  "summary": "A lock canal across the Isthmus of Panama linking the Atlantic and Pacific Oceans, built by the United States from 1904 and opened on August 15, 1914, largely by West Indian laborers under a segregated pay system; the U.S. controlled it and the surrounding Canal Zone until transferring the canal to Panama on December 31, 1999.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:theodore-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal-zone"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:torrijos-carter-treaties"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hay-pauncefote-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:clayton-bulwer-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jimmy-carter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-c-gorgas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington-goethals"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-invasion-of-panama"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:panama",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:hay-bunau-varilla-treaty",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:torrijos-carter-treaties",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:smithsonian-tropical-research-institute",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1914-08-15",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Panama, rather than Colombia, sign the 1903 canal treaty with the United States?",
+    "answer": "Colombia's congress rejected the Hay-Herrán Treaty over its financial terms; Panama then declared independence on November 3, 1903, with U.S. warships nearby, the United States recognized it within three days, and Panama's envoy Philippe Bunau-Varilla signed the Hay-Bunau-Varilla Treaty on November 18."
+   },
+   {
+    "question": "How did the gold and silver rolls shape life for the canal's workers?",
+    "answer": "Skilled white workers, mostly from the United States, were paid in gold on the gold roll and got better housing, dining and clubs; the mostly Black West Indian laborers on the silver roll were paid in local silver at about half the wage, lived in crowded camps, did the most dangerous work such as dynamiting, and died at far higher rates."
+   },
+   {
+    "question": "Why did the United States succeed in building a canal where the French effort had failed?",
+    "answer": "The French were defeated by disease and bankruptcy after about 20,000 deaths; the Americans first ran a large sanitation campaign under William Gorgas that ended yellow fever in Panama City by 1905 and cut malaria deaths sharply, and they switched to a lock design, which Stevens argued could be finished about a decade sooner than a sea-level cut."
+   },
+   {
+    "question": "Why did the United States agree in 1977 to hand the canal to Panama?",
+    "answer": "Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1850",
+    "event": "The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal."
+   },
+   {
+    "date": "1880",
+    "event": "Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia."
+   },
+   {
+    "date": "1901",
+    "event": "The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal."
+   },
+   {
+    "date": "1902-06-19",
+    "event": "The U.S. Senate votes to build the canal through Panama rather than Nicaragua."
+   },
+   {
+    "date": "1903-11-03",
+    "event": "Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City."
+   },
+   {
+    "date": "1903-11-06",
+    "event": "The United States recognizes the Republic of Panama."
+   },
+   {
+    "date": "1903-11-18",
+    "event": "The Hay-Bunau-Varilla Treaty grants the United States a ten-mile-wide Canal Zone in perpetuity."
+   },
+   {
+    "date": "1904-05-04",
+    "event": "The United States formally takes over the French works and begins construction."
+   },
+   {
+    "date": "1905-11-11",
+    "event": "The last case of yellow fever in Panama City is reported."
+   },
+   {
+    "date": "1906-06-27",
+    "event": "The House follows the Senate in choosing a lock canal over a sea-level design."
+   },
+   {
+    "date": "1907-04-01",
+    "event": "Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him."
+   },
+   {
+    "date": "1913-03-26",
+    "event": "The workforce peaks at 44,733 men on the job."
+   },
+   {
+    "date": "1914-08-15",
+    "event": "The cement boat Ancon makes the first official transit, opening the canal."
+   },
+   {
+    "date": "1964",
+    "event": "A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations."
+   },
+   {
+    "date": "1977-09-07",
+    "event": "Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty."
+   },
+   {
+    "date": "1978-03-16",
+    "event": "The Senate approves the Neutrality Treaty, 68 to 32."
+   },
+   {
+    "date": "1978-04-18",
+    "event": "The Senate approves the Panama Canal Treaty by the same 68-to-32 margin."
+   },
+   {
+    "date": "1979-10-01",
+    "event": "The Panama Canal Zone ceases to exist."
+   },
+   {
+    "date": "1999-12-31",
+    "event": "The United States transfers the canal to Panama."
+   }
+  ],
+  "misconception": {
+   "myth": "Ships crossing the Panama Canal from the Atlantic to the Pacific sail westward.",
+   "fact": "From its Atlantic end the canal runs south for about 10 miles and then east to the Pacific, so a ship heading for the Pacific finishes its transit to the east of where it started.",
+   "why": "World maps fix the Atlantic on the east and the Pacific on the west, but the Isthmus of Panama bends in an S-shape, so the general picture of the Americas misleads about this crossing."
+  },
+  "source_urls": [
+   "https://www.history.state.gov/milestones/1899-1913/panama-canal",
+   "https://history.state.gov/milestones/1977-1980/panama-canal",
+   "https://avalon.law.yale.edu/20th_century/pan001.asp",
+   "https://www.senate.gov/about/powers-procedures/treaties/senate-leaders-and-the-panama-canal-treaties.htm",
+   "https://pancanal.com/en/american-canal-construction/",
+   "https://pancanal.com/en/end-of-the-construction/",
+   "https://www.sil.si.edu/Exhibitions/Make-the-Dirt-Fly/didyouknow.html",
+   "https://exhibits.uflib.ufl.edu/canal100/voices.html",
+   "https://www.trlibrary.com/tr/presidency/panama-canal",
+   "https://hekint.org/2021/09/17/death-disease-and-discrimination-during-the-construction-of-the-panama-canal-1904-1914/",
+   "https://www.pbs.org/wgbh/americanexperience/features/panama-canal-working-panama-canal/"
+  ]
+ },
+ {
   "id": "us:panic-of-1873",
   "title": "Panic of 1873",
   "aliases": [

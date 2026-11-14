@@ -3292,6 +3292,142 @@
 <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/okies/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/okies/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/okies> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/okies/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "From its Atlantic end the canal runs south for about 10 miles and then east to the Pacific, so a ship heading for the Pacific finishes its transit to the east of where it started." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Ships crossing the Panama Canal from the Atlantic to the Pacific sail westward." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "World maps fix the Atlantic on the east and the Pacific on the west, but the Isthmus of Panama bends in an S-shape, so the general picture of the Americas misleads about this crossing." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Panama, rather than Colombia, sign the 1903 canal treaty with the United States?" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Colombia's congress rejected the Hay-Herrán Treaty over its financial terms; Panama then declared independence on November 3, 1903, with U.S. warships nearby, the United States recognized it within three days, and Panama's envoy Philippe Bunau-Varilla signed the Hay-Bunau-Varilla Treaty on November 18." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the gold and silver rolls shape life for the canal's workers?" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Skilled white workers, mostly from the United States, were paid in gold on the gold roll and got better housing, dining and clubs; the mostly Black West Indian laborers on the silver roll were paid in local silver at about half the wage, lived in crowded camps, did the most dangerous work such as dynamiting, and died at far higher rates." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States succeed in building a canal where the French effort had failed?" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The French were defeated by disease and bankruptcy after about 20,000 deaths; the Americans first ran a large sanitation campaign under William Gorgas that ended yellow fever in Panama City by 1905 and cut malaria deaths sharply, and they switched to a lock design, which Stevens argued could be finished about a decade sooner than a sea-level cut." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States agree in 1977 to hand the canal to Panama?" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The House follows the Senate in choosing a lock canal over a sea-level design." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1906-06-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1907-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The workforce peaks at 44,733 men on the job." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The cement boat Ancon makes the first official transit, opening the canal." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1914-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1977-09-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate approves the Neutrality Treaty, 68 to 32." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1978-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate approves the Panama Canal Treaty by the same 68-to-32 margin." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1978-04-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The Panama Canal Zone ceases to exist." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1979-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "The United States transfers the canal to Panama." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1999-12-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1880"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Senate votes to build the canal through Panama rather than Nicaragua." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1902-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1903-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The United States recognizes the Republic of Panama." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1903-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Hay-Bunau-Varilla Treaty grants the United States a ten-mile-wide Canal Zone in perpetuity." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1903-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The United States formally takes over the French works and begins construction." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1904-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The last case of yellow fever in Panama City is reported." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1905-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Landmark> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2000/01/rdf-schema#label> "Panama Canal" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#altLabel> "Canal de Panamá" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#altLabel> "Isthmian Canal" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/progressive-era> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#definition> "A lock canal across the Isthmus of Panama linking the Atlantic and Pacific Oceans, built by the United States from 1904 and opened on August 15, 1914, largely by West Indian laborers under a segregated pay system; the U.S. controlled it and the surrounding Canal Zone until transferring the canal to Panama on December 31, 1999." .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Panama Canal" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/clayton-bulwer-treaty> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington-goethals> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hay-pauncefote-treaty> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jimmy-carter> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/torrijos-carter-treaties> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-invasion-of-panama> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/panama-canal.md" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/smithsonian-tropical-research-institute> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/torrijos-carter-treaties> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/panama> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/panama-canal> <https://schema.org/startDate> "1914-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed." .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Panic of 1873 was a purely American crash that began on Wall Street when Jay Cooke's bank failed." .
@@ -5572,6 +5708,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/okies/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/okies/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/usa-graph/id/source/okies/s5> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USREPORTS-314/pdf/USREPORTS-314-160.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <http://purl.org/dc/terms/publisher> "Hektoen International, by Enrique Chaves-Carballo" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <http://purl.org/dc/terms/title> "Death, Disease, and Discrimination during the Construction of the Panama Canal, 1904–1914" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10> <https://schema.org/url> <https://hekint.org/2021/09/17/death-disease-and-discrimination-during-the-construction-of-the-panama-canal-1904-1914/> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <http://purl.org/dc/terms/publisher> "PBS, American Experience" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <http://purl.org/dc/terms/title> "Working on the Panama Canal" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11> <https://schema.org/url> <https://www.pbs.org/wgbh/americanexperience/features/panama-canal-working-panama-canal/> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <http://purl.org/dc/terms/title> "Building the Panama Canal, 1903–1914" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1> <https://schema.org/url> <https://www.history.state.gov/milestones/1899-1913/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <http://purl.org/dc/terms/title> "The Panama Canal and the Torrijos-Carter Treaties" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2> <https://schema.org/url> <https://history.state.gov/milestones/1977-1980/panama-canal> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <http://purl.org/dc/terms/title> "Convention for the Construction of a Ship Canal (Hay-Bunau-Varilla Treaty), November 18, 1903" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3> <https://schema.org/url> <https://avalon.law.yale.edu/20th_century/pan001.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <http://purl.org/dc/terms/title> "Senate Leaders and the Panama Canal Treaties" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4> <https://schema.org/url> <https://www.senate.gov/about/powers-procedures/treaties/senate-leaders-and-the-panama-canal-treaties.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <http://purl.org/dc/terms/publisher> "Panama Canal Authority (Autoridad del Canal de Panamá)" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <http://purl.org/dc/terms/title> "American Canal Construction" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5> <https://schema.org/url> <https://pancanal.com/en/american-canal-construction/> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <http://purl.org/dc/terms/publisher> "Panama Canal Authority (Autoridad del Canal de Panamá)" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <http://purl.org/dc/terms/title> "End of the Construction" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6> <https://schema.org/url> <https://pancanal.com/en/end-of-the-construction/> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <http://purl.org/dc/terms/publisher> "Smithsonian Libraries" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <http://purl.org/dc/terms/title> "Make the Dirt Fly! Did You Know? / The Smithsonian in Panama" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7> <https://schema.org/url> <https://www.sil.si.edu/Exhibitions/Make-the-Dirt-Fly/didyouknow.html> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <http://purl.org/dc/terms/publisher> "George A. Smathers Libraries, University of Florida" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <http://purl.org/dc/terms/title> "Voices: Panama Canal Centennial Online Exhibit" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8> <https://schema.org/url> <https://exhibits.uflib.ufl.edu/canal100/voices.html> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <http://purl.org/dc/terms/publisher> "Theodore Roosevelt Presidential Library" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <http://purl.org/dc/terms/title> "The Panama Canal: Roosevelt's Bold Gambit for American Power" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9> <https://schema.org/url> <https://www.trlibrary.com/tr/presidency/panama-canal> .
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/publisher> "Gary Richardson and Tim Sablik, Federal Reserve History (Federal Reserve Bank of Richmond)" .
 <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1> <http://purl.org/dc/terms/title> "Banking Panics of the Gilded Age" .

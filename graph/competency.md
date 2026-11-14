@@ -45,6 +45,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 | `us:morrill-land-grant-college-act` | 2 | land-grant-universities, native-americans |
+| `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
@@ -54,10 +55,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:fourteenth-amendment` | 1 | Equal protection |
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
-| `us:homeland-security-act-of-2002` | 1 | Department of Homeland Security |
-| `us:jim-crow-laws` | 1 | African Americans |
+| `us:hay-bunau-varilla-treaty` | 1 | Panama Canal |
 
-…and 8 more.
+…and 10 more.
 
 ## Happenings by era
 
@@ -95,6 +95,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
+| `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
@@ -105,13 +106,17 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:panama-canal` | uso:Landmark |
 
 ## Orphan articles (gap)
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:panama-canal` |
 
 ## People with no recorded role (gap)
 
@@ -156,6 +161,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
+| `us:hay-bunau-varilla-treaty` | `us:panama-canal` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |

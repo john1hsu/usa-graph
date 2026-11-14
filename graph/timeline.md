@@ -211,6 +211,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -331,6 +332,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1880 | Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -376,17 +378,29 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900 | The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1903-11-03 | Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1903-11-06 | The United States recognizes the Republic of Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1903-11-18 | The Hay-Bunau-Varilla Treaty grants the United States a ten-mile-wide Canal Zone in perpetuity. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
+| 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -486,6 +500,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -518,7 +533,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1978-03-16 | The Senate approves the Neutrality Treaty, 68 to 32. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -527,6 +546,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2001-01 | The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

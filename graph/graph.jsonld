@@ -4470,6 +4470,220 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "From its Atlantic end the canal runs south for about 10 miles and then east to the Pacific, so a ship heading for the Pacific finishes its transit to the east of where it started.",
+   "uso:myth": "Ships crossing the Panama Canal from the Atlantic to the Pacific sail westward.",
+   "uso:why": "World maps fix the Atlantic on the east and the Pacific on the west, but the Isthmus of Panama bends in an S-shape, so the general picture of the Americas misleads about this crossing."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Panama, rather than Colombia, sign the 1903 canal treaty with the United States?",
+   "uso:answer": "Colombia's congress rejected the Hay-Herrán Treaty over its financial terms; Panama then declared independence on November 3, 1903, with U.S. warships nearby, the United States recognized it within three days, and Panama's envoy Philippe Bunau-Varilla signed the Hay-Bunau-Varilla Treaty on November 18.",
+   "uso:questionFor": {
+    "@id": "us:panama-canal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the gold and silver rolls shape life for the canal's workers?",
+   "uso:answer": "Skilled white workers, mostly from the United States, were paid in gold on the gold roll and got better housing, dining and clubs; the mostly Black West Indian laborers on the silver roll were paid in local silver at about half the wage, lived in crowded camps, did the most dangerous work such as dynamiting, and died at far higher rates.",
+   "uso:questionFor": {
+    "@id": "us:panama-canal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States succeed in building a canal where the French effort had failed?",
+   "uso:answer": "The French were defeated by disease and bankruptcy after about 20,000 deaths; the Americans first ran a large sanitation campaign under William Gorgas that ended yellow fever in Panama City by 1905 and cut malaria deaths sharply, and they switched to a lock design, which Stevens argued could be finished about a decade sooner than a sea-level cut.",
+   "uso:questionFor": {
+    "@id": "us:panama-canal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States agree in 1977 to hand the canal to Panama?",
+   "uso:answer": "Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral.",
+   "uso:questionFor": {
+    "@id": "us:panama-canal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House follows the Senate in choosing a lock canal over a sea-level design.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-06-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The workforce peaks at 44,733 men on the job.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-03-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The cement boat Ancon makes the first official transit, opening the canal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1914-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1964"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1977-09-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate approves the Neutrality Treaty, 68 to 32.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1978-03-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate approves the Panama Canal Treaty by the same 68-to-32 margin.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1978-04-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Panama Canal Zone ceases to exist.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1979-10-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States transfers the canal to Panama.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1999-12-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1880"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1901"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Senate votes to build the canal through Panama rather than Nicaragua.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1902-06-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-11-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States recognizes the Republic of Panama.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-11-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Hay-Bunau-Varilla Treaty grants the United States a ten-mile-wide Canal Zone in perpetuity.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-11-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States formally takes over the French works and begins construction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-05-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last case of yellow fever in Panama City is reported.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-11-11"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/panic-of-1873/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Cooke's failure turned the strain into a U.S. panic, but stock market crashes in Vienna in May and September 1873 had already led European investors to dump American railroad bonds, cutting off the credit that overbuilt U.S. railroads needed.",
@@ -9180,6 +9394,160 @@
     "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-314/pdf/USREPORTS-314-160.pdf"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Building the Panama Canal, 1903–1914",
+   "schema:url": {
+    "@id": "https://www.history.state.gov/milestones/1899-1913/panama-canal"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Hektoen International, by Enrique Chaves-Carballo",
+   "dcterms:title": "Death, Disease, and Discrimination during the Construction of the Panama Canal, 1904–1914",
+   "schema:url": {
+    "@id": "https://hekint.org/2021/09/17/death-disease-and-discrimination-during-the-construction-of-the-panama-canal-1904-1914/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "PBS, American Experience",
+   "dcterms:title": "Working on the Panama Canal",
+   "schema:url": {
+    "@id": "https://www.pbs.org/wgbh/americanexperience/features/panama-canal-working-panama-canal/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Panama Canal and the Torrijos-Carter Treaties",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1977-1980/panama-canal"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Convention for the Construction of a Ship Canal (Hay-Bunau-Varilla Treaty), November 18, 1903",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/20th_century/pan001.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "Senate Leaders and the Panama Canal Treaties",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/treaties/senate-leaders-and-the-panama-canal-treaties.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Panama Canal Authority (Autoridad del Canal de Panamá)",
+   "dcterms:title": "American Canal Construction",
+   "schema:url": {
+    "@id": "https://pancanal.com/en/american-canal-construction/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Panama Canal Authority (Autoridad del Canal de Panamá)",
+   "dcterms:title": "End of the Construction",
+   "schema:url": {
+    "@id": "https://pancanal.com/en/end-of-the-construction/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Libraries",
+   "dcterms:title": "Make the Dirt Fly! Did You Know? / The Smithsonian in Panama",
+   "schema:url": {
+    "@id": "https://www.sil.si.edu/Exhibitions/Make-the-Dirt-Fly/didyouknow.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "George A. Smathers Libraries, University of Florida",
+   "dcterms:title": "Voices: Panama Canal Centennial Online Exhibit",
+   "schema:url": {
+    "@id": "https://exhibits.uflib.ufl.edu/canal100/voices.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Theodore Roosevelt Presidential Library",
+   "dcterms:title": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
+   "schema:url": {
+    "@id": "https://www.trlibrary.com/tr/presidency/panama-canal"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s1",
@@ -16845,6 +17213,180 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/okies/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:panama-canal",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/panama-canal/s9"
+    }
+   ],
+   "rdfs:label": "Panama Canal",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1914-08-15"
+   },
+   "skos:altLabel": [
+    "Canal de Panamá",
+    "Isthmian Canal"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:foreign-relations-of-the-united-states"
+    },
+    {
+     "@id": "us:progressive-era"
+    }
+   ],
+   "skos:definition": "A lock canal across the Isthmus of Panama linking the Atlantic and Pacific Oceans, built by the United States from 1904 and opened on August 15, 1914, largely by West Indian laborers under a segregated pay system; the U.S. controlled it and the surrounding Canal Zone until transferring the canal to Panama on December 31, 1999.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "Panama Canal",
+   "skos:related": [
+    {
+     "@id": "us:clayton-bulwer-treaty"
+    },
+    {
+     "@id": "us:george-washington-goethals"
+    },
+    {
+     "@id": "us:hay-pauncefote-treaty"
+    },
+    {
+     "@id": "us:jimmy-carter"
+    },
+    {
+     "@id": "us:panama-canal-zone"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    },
+    {
+     "@id": "us:torrijos-carter-treaties"
+    },
+    {
+     "@id": "us:united-states-invasion-of-panama"
+    },
+    {
+     "@id": "us:william-c-gorgas"
+    }
+   ],
+   "uso:domain": "foreign-relations-and-military",
+   "uso:establishedBy": {
+    "@id": "us:hay-bunau-varilla-treaty"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/foreign-relations-and-military/panama-canal.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:smithsonian-tropical-research-institute"
+    },
+    {
+     "@id": "us:torrijos-carter-treaties"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:panama"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/panama-canal/timeline/9"
     }
    ]
   },
