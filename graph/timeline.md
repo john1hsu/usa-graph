@@ -403,17 +403,26 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1899-01-19 | Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1900 | The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1900 | The Wrights begin testing gliders on the Outer Banks near Kitty Hawk, whose weather station had answered their inquiry about steady winds and open sand. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1902-10 | Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1903 | Bandleader W. C. Handy settles in Clarksdale, Mississippi, and around this year hears a slide guitarist playing a blues at the Tutwiler railroad station. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1903-03-23 | The brothers file their patent application for a "Flying-Machine". — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1903-11-03 | Panama declares independence from Colombia while U.S. warships stand off Colón and Panama City. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1903-11-06 | The United States recognizes the Republic of Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1903-11-18 | The Hay-Bunau-Varilla Treaty grants the United States a ten-mile-wide Canal Zone in perpetuity. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1903-12-08 | Samuel Langley's Smithsonian-backed Great Aerodrome crashes on its second launch attempt. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1903-12-14 | Wilbur wins a coin toss for the first try, but the Flyer stalls and noses into the sand. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1903-12-17 | **[Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md)** (Event) |
+| 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -449,7 +458,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1927-03-02 | President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1928 | Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1928-12-21 | President Coolidge signs the Boulder Canyon Project Act authorizing the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -530,6 +541,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |

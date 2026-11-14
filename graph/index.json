@@ -9503,5 +9503,168 @@
    "https://bouldercityreview.com/news/group-looks-to-protect-hoover-dams-star-map-76988",
    "https://www.monticello.org/encyclopedia/eternal-vigilance-price-liberty-spurious-quotation"
   ]
+ },
+ {
+  "id": "us:wright-brothers-first-flight",
+  "title": "Wright brothers' first flight",
+  "aliases": [
+   "First powered flight",
+   "First flight of the Wright Flyer",
+   "Kitty Hawk flights of 1903"
+  ],
+  "type": "Event",
+  "domain": "science-and-innovation",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/wright-brothers-first-flight.md",
+  "created": "2026-11-14",
+  "summary": "The four powered, controlled flights that Wilbur and Orville Wright of Dayton, Ohio, made in their engine-driven Flyer from the dunes at Kill Devil Hills, North Carolina, on December 17, 1903 — the first sustained flights of a heavier-than-air machine under a pilot's control.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:aviation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wilbur-wright"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:orville-wright"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:north-carolina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dayton-ohio"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:huffman-prairie"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:octave-chanute"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:otto-lilienthal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:samuel-pierpont-langley"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smithsonian-institution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-air-and-space-museum"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:north-carolina",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:wright-brothers-national-memorial",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:otto-lilienthal",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:huffman-prairie",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1903-12-17",
+  "end": "1903-12-17",
+  "review": [
+   {
+    "question": "Why did two Ohio bicycle makers test their aircraft on the North Carolina Outer Banks?",
+    "answer": "They wanted steady winds, hills, soft sand and few trees; of the weather stations they wrote to, only Kitty Hawk replied, and its weatherman Bill Tate offered to host them."
+   },
+   {
+    "question": "How did the flight of December 17, 1903, differ from earlier hops and glides by other experimenters?",
+    "answer": "Others had glided or lifted off briefly, but the Wrights' Flyer took off under its own engine power and flew in sustained flight under the pilot's complete control — the first such demonstration of a heavier-than-air machine."
+   },
+   {
+    "question": "Why did the 1903 Flyer spend twenty years outside the Smithsonian?",
+    "answer": "After Langley's death the Smithsonian displayed his rebuilt Aerodrome as the first airplane capable of sustained flight, based on modified 1914 tests by Glenn Curtiss; Orville sent the Flyer to London in protest and it returned only after the Smithsonian published a correction in 1942, arriving in 1948."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1900",
+    "event": "The Wrights begin testing gliders on the Outer Banks near Kitty Hawk, whose weather station had answered their inquiry about steady winds and open sand."
+   },
+   {
+    "date": "1902-10",
+    "event": "Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders."
+   },
+   {
+    "date": "1903-03-23",
+    "event": "The brothers file their patent application for a \"Flying-Machine\"."
+   },
+   {
+    "date": "1903-12-08",
+    "event": "Samuel Langley's Smithsonian-backed Great Aerodrome crashes on its second launch attempt."
+   },
+   {
+    "date": "1903-12-14",
+    "event": "Wilbur wins a coin toss for the first try, but the Flyer stalls and noses into the sand."
+   },
+   {
+    "date": "1903-12-17",
+    "event": "Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds."
+   },
+   {
+    "date": "1904",
+    "event": "The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine."
+   },
+   {
+    "date": "1906-05-22",
+    "event": "U.S. Patent 821,393 for the Wrights' flying machine is granted."
+   },
+   {
+    "date": "1927-03-02",
+    "event": "President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial."
+   },
+   {
+    "date": "1928",
+    "event": "Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London."
+   },
+   {
+    "date": "1948-12-17",
+    "event": "The Flyer is installed at the Smithsonian, 45 years to the day after it flew."
+   }
+  ],
+  "misconception": {
+   "myth": "The Wright brothers first flew in the town of Kitty Hawk.",
+   "fact": "The flights took off from the sand dunes at Kill Devil Hills, about four miles south of the village of Kitty Hawk; the brothers walked to Kitty Hawk afterwards to send the telegram announcing their success.",
+   "why": "Kitty Hawk was the nearest village — its weather station first invited the brothers and their telegram was sent from there — so its name travelled with the news."
+  },
+  "source_urls": [
+   "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm",
+   "https://www.loc.gov/item/today-in-history/december-17",
+   "https://www.ncpedia.org/airplane-first-flight",
+   "https://airandspace.si.edu/stories/editorial/how-wright-flyer-got-smithsonian",
+   "https://siarchives.si.edu/collections/siris_sic_3048",
+   "https://www.nps.gov/articles/commemoration.htm",
+   "https://www.archives.gov/press/press-releases/2016/nr16-52.html",
+   "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/collection-highlights/huffman-prairie/"
+  ]
  }
 ]

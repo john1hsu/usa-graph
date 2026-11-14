@@ -762,6 +762,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the 1890 Morrill Act reshape the system the 1862 act began?
   **A:** It added annual federal funding and barred racial discrimination in admissions, but let states meet that rule with separate institutions "of like character," which produced the 19 historically Black 1890 Institutions in the segregated South.
 
+### [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Wright brothers first flew in the town of Kitty Hawk. | The flights took off from the sand dunes at Kill Devil Hills, about four miles south of the village of Kitty Hawk; the brothers walked to Kitty Hawk afterwards to send the telegram announcing their success. |
+
+**Why it matters:** Kitty Hawk was the nearest village — its weather station first invited the brothers and their telegram was sent from there — so its name travelled with the news.
+
+- **Q:** Why did two Ohio bicycle makers test their aircraft on the North Carolina Outer Banks?
+  **A:** They wanted steady winds, hills, soft sand and few trees; of the weather stations they wrote to, only Kitty Hawk replied, and its weatherman Bill Tate offered to host them.
+- **Q:** How did the flight of December 17, 1903, differ from earlier hops and glides by other experimenters?
+  **A:** Others had glided or lifted off briefly, but the Wrights' Flyer took off under its own engine power and flew in sustained flight under the pilot's complete control — the first such demonstration of a heavier-than-air machine.
+- **Q:** Why did the 1903 Flyer spend twenty years outside the Smithsonian?
+  **A:** After Langley's death the Smithsonian displayed his rebuilt Aerodrome as the first airplane capable of sustained flight, based on modified 1914 tests by Glenn Curtiss; Orville sent the Flyer to London in protest and it returned only after the Smithsonian published a correction in 1942, arriving in 1948.
+
 ## society-and-people
 
 ### [African Americans](../articles/society-and-people/african-americans.md) — Community

@@ -13150,6 +13150,118 @@
    "uso:sourceType": "museum"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service, Wright Brothers National Memorial",
+   "dcterms:title": "1903 — The First Flight",
+   "schema:url": {
+    "@id": "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History — December 17: First Flight",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/december-17"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "NCpedia, State Library of North Carolina",
+   "dcterms:title": "Airplane, First Flight of",
+   "schema:url": {
+    "@id": "https://www.ncpedia.org/airplane-first-flight"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian National Air and Space Museum (December 15, 2022)",
+   "dcterms:title": "How the Wright Flyer Got to the Smithsonian",
+   "schema:url": {
+    "@id": "https://airandspace.si.edu/stories/editorial/how-wright-flyer-got-smithsonian"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian Institution Archives (record of Tom D. Crouch, Invention and Technology, 1987)",
+   "dcterms:title": "Capable of Flight: The Feud Between the Wright Brothers and the Smithsonian",
+   "schema:url": {
+    "@id": "https://siarchives.si.edu/collections/siris_sic_3048"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Commemorating the Wright Brothers at Kitty Hawk",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/commemoration.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, press release nr16-52 (2016)",
+   "dcterms:title": "National Archives Recovers Wright Brothers' Lost Patent",
+   "schema:url": {
+    "@id": "https://www.archives.gov/press/press-releases/2016/nr16-52.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress, Manuscript Division",
+   "dcterms:title": "Huffman Prairie — Wilbur and Orville Wright Papers, Collection Highlights",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/collection-highlights/huffman-prairie/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
@@ -14524,6 +14636,139 @@
    "uso:date": {
     "@type": "xsd:gYearMonth",
     "@value": "2023-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The flights took off from the sand dunes at Kill Devil Hills, about four miles south of the village of Kitty Hawk; the brothers walked to Kitty Hawk afterwards to send the telegram announcing their success.",
+   "uso:myth": "The Wright brothers first flew in the town of Kitty Hawk.",
+   "uso:why": "Kitty Hawk was the nearest village — its weather station first invited the brothers and their telegram was sent from there — so its name travelled with the news."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did two Ohio bicycle makers test their aircraft on the North Carolina Outer Banks?",
+   "uso:answer": "They wanted steady winds, hills, soft sand and few trees; of the weather stations they wrote to, only Kitty Hawk replied, and its weatherman Bill Tate offered to host them.",
+   "uso:questionFor": {
+    "@id": "us:wright-brothers-first-flight"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the flight of December 17, 1903, differ from earlier hops and glides by other experimenters?",
+   "uso:answer": "Others had glided or lifted off briefly, but the Wrights' Flyer took off under its own engine power and flew in sustained flight under the pilot's complete control — the first such demonstration of a heavier-than-air machine.",
+   "uso:questionFor": {
+    "@id": "us:wright-brothers-first-flight"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the 1903 Flyer spend twenty years outside the Smithsonian?",
+   "uso:answer": "After Langley's death the Smithsonian displayed his rebuilt Aerodrome as the first airplane capable of sustained flight, based on modified 1914 tests by Glenn Curtiss; Orville sent the Flyer to London in protest and it returned only after the Smithsonian published a correction in 1942, arriving in 1948.",
+   "uso:questionFor": {
+    "@id": "us:wright-brothers-first-flight"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Wrights begin testing gliders on the Outer Banks near Kitty Hawk, whose weather station had answered their inquiry about steady winds and open sand.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1928"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Flyer is installed at the Smithsonian, 45 years to the day after it flew.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1948-12-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1902-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The brothers file their patent application for a \"Flying-Machine\".",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Samuel Langley's Smithsonian-backed Great Aerodrome crashes on its second launch attempt.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-12-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wilbur wins a coin toss for the first try, but the Flyer stalls and noses into the sand.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-12-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1903-12-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1904"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. Patent 821,393 for the Wrights' flying machine is granted.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-05-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1927-03-02"
    }
   },
   {
@@ -22677,6 +22922,150 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:wright-brothers-first-flight",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8"
+    }
+   ],
+   "rdfs:label": "Wright brothers' first flight",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1903-12-17"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1903-12-17"
+   },
+   "skos:altLabel": [
+    "First flight of the Wright Flyer",
+    "First powered flight",
+    "Kitty Hawk flights of 1903"
+   ],
+   "skos:broader": {
+    "@id": "us:aviation-in-the-united-states"
+   },
+   "skos:definition": "The four powered, controlled flights that Wilbur and Orville Wright of Dayton, Ohio, made in their engine-driven Flyer from the dunes at Kill Devil Hills, North Carolina, on December 17, 1903 — the first sustained flights of a heavier-than-air machine under a pilot's control.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Wright brothers' first flight",
+   "skos:related": [
+    {
+     "@id": "us:dayton-ohio"
+    },
+    {
+     "@id": "us:huffman-prairie"
+    },
+    {
+     "@id": "us:national-air-and-space-museum"
+    },
+    {
+     "@id": "us:north-carolina"
+    },
+    {
+     "@id": "us:octave-chanute"
+    },
+    {
+     "@id": "us:orville-wright"
+    },
+    {
+     "@id": "us:otto-lilienthal"
+    },
+    {
+     "@id": "us:samuel-pierpont-langley"
+    },
+    {
+     "@id": "us:smithsonian-institution"
+    },
+    {
+     "@id": "us:wilbur-wright"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/wright-brothers-first-flight.md",
+   "uso:influencedBy": {
+    "@id": "us:otto-lilienthal"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:huffman-prairie"
+    },
+    {
+     "@id": "us:wright-brothers-national-memorial"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:north-carolina"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/9"
     }
    ]
   }

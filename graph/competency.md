@@ -50,14 +50,14 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
+| `us:wright-brothers-first-flight` | 2 | huffman-prairie, wright-brothers-national-memorial |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
 | `us:boulder-canyon-project-act` | 1 | Hoover Dam |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
-| `us:equal-protection` | 1 | African Americans |
 
-…and 14 more.
+…and 15 more.
 
 ## Happenings by era
 
@@ -119,6 +119,7 @@ _Which written articles does nothing else in the graph point to (after inference
 | node |
 |---|
 | `us:panama-canal` |
+| `us:wright-brothers-first-flight` |
 
 ## People with no recorded role (gap)
 
