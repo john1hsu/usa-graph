@@ -418,15 +418,25 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
+| 1929-08 | The expansion of the 1920s ends and the economy begins to contract. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1929-10-24 | Black Thursday: the New York Stock Exchange loses 11 percent of its value. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1929-10-29 | Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
 | 1931 | Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1931-10 | After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
 | 1935-03-21 | A second March dust cloud darkens Washington as Congress holds hearings on soil conservation. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -434,14 +444,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1936-09-06 | In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-12 | Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted. — [Okies](../articles/society-and-people/okies.md) |
 | 1940 | With near-normal rain returning from 1938, the drought ends. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1941-11-24 | In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states. — [Okies](../articles/society-and-people/okies.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |

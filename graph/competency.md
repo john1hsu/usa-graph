@@ -27,6 +27,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
+| `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:united-states-constitution` | 5 | Slavery in the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:fourteenth-amendment` | 1 | Equal protection |
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
-| `us:hay-bunau-varilla-treaty` | 1 | Panama Canal |
 
-…and 10 more.
+…and 11 more.
 
 ## Happenings by era
 
@@ -88,6 +88,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:frederick-douglass` | interpretive |  |
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
+| `us:great-depression` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |

@@ -1837,6 +1837,118 @@
 <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://schema.org/endDate> "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://schema.org/startDate> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The downturn had already begun in August 1929, and production, prices and incomes were falling before the crash; the crash was one of a series of financial shocks, and the waves of bank failures and the shrinking money supply of 1930–33 did most to turn a recession into a depression." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The stock market crash of October 1929 caused the Great Depression." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Black Tuesday is a single, dramatic date, while bank panics, tight monetary policy and the gold standard worked over years and are harder to picture." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do most economists argue the 1929 crash alone does not explain the Great Depression?" .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The economy was already contracting from August 1929, and the deepest damage came later, when regional and national banking panics from 1930 to 1933 wiped out deposits, the money supply fell by nearly 30 percent, and the Federal Reserve failed to act as a lender of last resort." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the gold standard help spread and deepen the Depression?" .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because gold linked interest rates and prices across countries, U.S. tightening forced other gold-standard countries to deflate too; countries that left gold early, like Britain, began recovering sooner, while those that stayed on longest, like France, suffered longer." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Hoover's response differ from Roosevelt's?" .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hoover relied mainly on voluntary pledges from business and labor and private relief, adding the Reconstruction Finance Corporation's loans to banks and railroads in 1932; Roosevelt's New Deal used direct federal relief, jobs programs such as the WPA, banking reform and Social Security." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Depression and the New Deal affect Black, Mexican American and Native communities differently from others?" .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Black workers faced unemployment near 50 percent by 1932 and were often left out of New Deal programs, such as Social Security's exclusion of domestic and farm workers; people of Mexican ancestry, many of them U.S. citizens, were pushed or forced to leave for Mexico; and the 1934 Indian Reorganization Act reversed allotment and encouraged tribal self-government." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Wartime demand restores full employment, ending the Depression." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The expansion of the 1920s ends and the economy begins to contract." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Black Thursday: the New York Stock Exchange loses 11 percent of its value." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1930-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration." .
+<https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2000/01/rdf-schema#label> "Great Depression" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#altLabel> "Depression of the 1930s" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#altLabel> "Great Contraction" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#altLabel> "The Great Depression" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#definition> "The longest and deepest economic downturn in U.S. history, which began in August 1929, hit bottom in March 1933 and lasted until wartime demand restored full employment in 1941, throwing about a quarter of the labor force out of work, collapsing the banking system and reshaping the federal government's role through the New Deal." .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#prefLabel> "Great Depression" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-repatriation> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/great-depression.md" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/bonus-army> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/reconstruction-finance-corporation> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/great-depression/misconception> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://schema.org/endDate> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/great-depression> <https://schema.org/startDate> "1929-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places." .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The 1877 strike was a planned national uprising, organized and directed by labor unions or radical leaders." .
@@ -5072,6 +5184,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/gilded-age/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/gilded-age/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/gilded-age/s9> <https://schema.org/url> <https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1900.html> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <http://purl.org/dc/terms/publisher> "Federal Reserve History, Federal Reserve System (Gary Richardson)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <http://purl.org/dc/terms/title> "The Great Depression" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s1> <https://schema.org/url> <https://www.federalreservehistory.org/essays/great_depression> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <http://purl.org/dc/terms/title> "25.1 The Stock Market Crash of 1929" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <http://purl.org/dc/terms/title> "25.3 The Depths of the Great Depression" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s3> <https://schema.org/url> <https://openstax.org/books/us-history/pages/25-3-the-depths-of-the-great-depression> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia (David E. Hamilton)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <http://purl.org/dc/terms/title> "Herbert Hoover: Domestic Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s4> <https://schema.org/url> <https://millercenter.org/president/hoover/domestic-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <http://purl.org/dc/terms/publisher> "Board of Governors of the Federal Reserve System" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <http://purl.org/dc/terms/title> "On Milton Friedman's Ninetieth Birthday (remarks by Governor Ben S. Bernanke, November 8, 2002)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s5> <https://schema.org/url> <https://www.federalreserve.gov/boarddocs/speeches/2002/20021108/> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <http://purl.org/dc/terms/publisher> "Franklin D. Roosevelt Presidential Library and Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <http://purl.org/dc/terms/title> "Great Depression Facts" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s6> <https://schema.org/url> <https://www.fdrlibrary.org/great-depression-facts> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <http://purl.org/dc/terms/title> "26.3 The Second New Deal" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s7> <https://schema.org/url> <https://openstax.org/books/us-history/pages/26-3-the-second-new-deal> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <http://purl.org/dc/terms/publisher> "Federal Reserve Bank of Richmond, Econ Focus, Third Quarter 2024 (Julian Kikuchi)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <http://purl.org/dc/terms/title> "Milton Friedman: Economic History" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s8> <https://schema.org/url> <https://www.richmondfed.org/publications/research/econ_focus/2024/q3_economic_history> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <http://purl.org/dc/terms/publisher> "Justia US Law (text of the California Government Code)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <http://purl.org/dc/terms/title> "California Government Code § 8721 (Apology Act for the 1930s Mexican Repatriation Program, Stats. 2005, ch. 663)" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/great-depression/s9> <https://schema.org/url> <https://law.justia.com/codes/california/code-gov/title-2/division-1/chapter-8-5/section-8721/> .
 <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1> <http://purl.org/dc/terms/publisher> "Robert D. Johnston, Miller Center of Public Affairs, University of Virginia" .
 <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1> <http://purl.org/dc/terms/title> "Rutherford B. Hayes: Domestic Affairs" .

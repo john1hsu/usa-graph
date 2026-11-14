@@ -304,6 +304,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Were most migrants who went to California from the Dust Bowl itself?
   **A:** No. Of roughly half a million Southern Plains migrants, many were tenant farmers from Arkansas, Missouri, eastern Oklahoma and East Texas displaced by economic forces rather than drought.
 
+### [Great Depression](../articles/depression-and-world-war/great-depression.md) — Era
+
+| Myth | Fact |
+|---|---|
+| The stock market crash of October 1929 caused the Great Depression. | The downturn had already begun in August 1929, and production, prices and incomes were falling before the crash; the crash was one of a series of financial shocks, and the waves of bank failures and the shrinking money supply of 1930–33 did most to turn a recession into a depression. |
+
+**Why it matters:** Black Tuesday is a single, dramatic date, while bank panics, tight monetary policy and the gold standard worked over years and are harder to picture.
+
+- **Q:** Why do most economists argue the 1929 crash alone does not explain the Great Depression?
+  **A:** The economy was already contracting from August 1929, and the deepest damage came later, when regional and national banking panics from 1930 to 1933 wiped out deposits, the money supply fell by nearly 30 percent, and the Federal Reserve failed to act as a lender of last resort.
+- **Q:** How did the gold standard help spread and deepen the Depression?
+  **A:** Because gold linked interest rates and prices across countries, U.S. tightening forced other gold-standard countries to deflate too; countries that left gold early, like Britain, began recovering sooner, while those that stayed on longest, like France, suffered longer.
+- **Q:** How did Hoover's response differ from Roosevelt's?
+  **A:** Hoover relied mainly on voluntary pledges from business and labor and private relief, adding the Reconstruction Finance Corporation's loans to banks and railroads in 1932; Roosevelt's New Deal used direct federal relief, jobs programs such as the WPA, banking reform and Social Security.
+- **Q:** Why did the Depression and the New Deal affect Black, Mexican American and Native communities differently from others?
+  **A:** Black workers faced unemployment near 50 percent by 1932 and were often left out of New Deal programs, such as Social Security's exclusion of domestic and farm workers; people of Mexican ancestry, many of them U.S. citizens, were pushed or forced to leave for Mexico; and the 1934 Indian Reorganization Act reversed allotment and encouraged tribal self-government.
+
 ### [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) — Event
 
 | Myth | Fact |

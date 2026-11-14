@@ -2500,6 +2500,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The downturn had already begun in August 1929, and production, prices and incomes were falling before the crash; the crash was one of a series of financial shocks, and the waves of bank failures and the shrinking money supply of 1930–33 did most to turn a recession into a depression.",
+   "uso:myth": "The stock market crash of October 1929 caused the Great Depression.",
+   "uso:why": "Black Tuesday is a single, dramatic date, while bank panics, tight monetary policy and the gold standard worked over years and are harder to picture."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do most economists argue the 1929 crash alone does not explain the Great Depression?",
+   "uso:answer": "The economy was already contracting from August 1929, and the deepest damage came later, when regional and national banking panics from 1930 to 1933 wiped out deposits, the money supply fell by nearly 30 percent, and the Federal Reserve failed to act as a lender of last resort.",
+   "uso:questionFor": {
+    "@id": "us:great-depression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the gold standard help spread and deepen the Depression?",
+   "uso:answer": "Because gold linked interest rates and prices across countries, U.S. tightening forced other gold-standard countries to deflate too; countries that left gold early, like Britain, began recovering sooner, while those that stayed on longest, like France, suffered longer.",
+   "uso:questionFor": {
+    "@id": "us:great-depression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Hoover's response differ from Roosevelt's?",
+   "uso:answer": "Hoover relied mainly on voluntary pledges from business and labor and private relief, adding the Reconstruction Finance Corporation's loans to banks and railroads in 1932; Roosevelt's New Deal used direct federal relief, jobs programs such as the WPA, banking reform and Social Security.",
+   "uso:questionFor": {
+    "@id": "us:great-depression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Depression and the New Deal affect Black, Mexican American and Native communities differently from others?",
+   "uso:answer": "Black workers faced unemployment near 50 percent by 1932 and were often left out of New Deal programs, such as Social Security's exclusion of domestic and farm workers; people of Mexican ancestry, many of them U.S. citizens, were pushed or forced to leave for Mexico; and the 1934 Indian Reorganization Act reversed allotment and encouraged tribal self-government.",
+   "uso:questionFor": {
+    "@id": "us:great-depression"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The expansion of the 1920s ends and the economy begins to contract.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1938"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wartime demand restores full employment, ending the Depression.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1941"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Thursday: the New York Stock Exchange loses 11 percent of its value.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1930-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1931-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1932-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The walkout began on the Baltimore and Ohio Railroad and spread largely on its own along the rail lines; almost none of the strikers belonged to a union and no leaders or organization controlled the strike as a whole, although local groups such as a railroad firemen's organization in West Virginia and socialists in Chicago and St. Louis played real roles in particular places.",
@@ -7910,6 +8061,132 @@
     "@id": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1900.html"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Federal Reserve History, Federal Reserve System (Gary Richardson)",
+   "dcterms:title": "The Great Depression",
+   "schema:url": {
+    "@id": "https://www.federalreservehistory.org/essays/great_depression"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "25.1 The Stock Market Crash of 1929",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "25.3 The Depths of the Great Depression",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/25-3-the-depths-of-the-great-depression"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia (David E. Hamilton)",
+   "dcterms:title": "Herbert Hoover: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/hoover/domestic-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Board of Governors of the Federal Reserve System",
+   "dcterms:title": "On Milton Friedman's Ninetieth Birthday (remarks by Governor Ben S. Bernanke, November 8, 2002)",
+   "schema:url": {
+    "@id": "https://www.federalreserve.gov/boarddocs/speeches/2002/20021108/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Franklin D. Roosevelt Presidential Library and Museum",
+   "dcterms:title": "Great Depression Facts",
+   "schema:url": {
+    "@id": "https://www.fdrlibrary.org/great-depression-facts"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "26.3 The Second New Deal",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/26-3-the-second-new-deal"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Federal Reserve Bank of Richmond, Econ Focus, Third Quarter 2024 (Julian Kikuchi)",
+   "dcterms:title": "Milton Friedman: Economic History",
+   "schema:url": {
+    "@id": "https://www.richmondfed.org/publications/research/econ_focus/2024/q3_economic_history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Justia US Law (text of the California Government Code)",
+   "dcterms:title": "California Government Code § 8721 (Apology Act for the 1930s Mexican Repatriation Program, Stats. 2005, ch. 663)",
+   "schema:url": {
+    "@id": "https://law.justia.com/codes/california/code-gov/title-2/division-1/chapter-8-5/section-8721/"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s1",
@@ -15124,6 +15401,170 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:great-depression",
+   "@type": "uso:Era",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s9"
+    }
+   ],
+   "rdfs:label": "Great Depression",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1941"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-08"
+   },
+   "skos:altLabel": [
+    "Depression of the 1930s",
+    "Great Contraction",
+    "The Great Depression"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The longest and deepest economic downturn in U.S. history, which began in August 1929, hit bottom in March 1933 and lasted until wartime demand restored full employment in 1941, throwing about a quarter of the labor force out of work, collapsing the banking system and reshaping the federal government's role through the New Deal.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "Great Depression",
+   "skos:related": [
+    {
+     "@id": "us:dust-bowl"
+    },
+    {
+     "@id": "us:federal-reserve-system"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:indian-reorganization-act"
+    },
+    {
+     "@id": "us:mexican-repatriation"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:okies"
+    },
+    {
+     "@id": "us:panic-of-1873"
+    },
+    {
+     "@id": "us:social-security-act"
+    },
+    {
+     "@id": "us:stock-market-crash-of-1929"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:agriculture-in-the-united-states"
+    }
+   ],
+   "uso:domain": "depression-and-world-war",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/depression-and-world-war/great-depression.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:bonus-army"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:reconstruction-finance-corporation"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/timeline/9"
     }
    ]
   },

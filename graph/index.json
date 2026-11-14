@@ -3083,6 +3083,198 @@
   ]
  },
  {
+  "id": "us:great-depression",
+  "title": "Great Depression",
+  "aliases": [
+   "The Great Depression",
+   "Depression of the 1930s",
+   "Great Contraction"
+  ],
+  "type": "Era",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/depression-and-world-war/great-depression.md",
+  "created": "2026-11-14",
+  "summary": "The longest and deepest economic downturn in U.S. history, which began in August 1929, hit bottom in March 1933 and lasted until wartime demand restored full employment in 1941, throwing about a quarter of the labor force out of work, collapsing the banking system and reshaping the federal government's role through the New Deal.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stock-market-crash-of-1929"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dust-bowl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:okies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-repatriation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:social-security-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-reorganization-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-reserve-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:new-deal",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:reconstruction-finance-corporation",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:bonus-army",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:agriculture-in-the-united-states",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1929-08",
+  "end": "1941",
+  "review": [
+   {
+    "question": "Why do most economists argue the 1929 crash alone does not explain the Great Depression?",
+    "answer": "The economy was already contracting from August 1929, and the deepest damage came later, when regional and national banking panics from 1930 to 1933 wiped out deposits, the money supply fell by nearly 30 percent, and the Federal Reserve failed to act as a lender of last resort."
+   },
+   {
+    "question": "How did the gold standard help spread and deepen the Depression?",
+    "answer": "Because gold linked interest rates and prices across countries, U.S. tightening forced other gold-standard countries to deflate too; countries that left gold early, like Britain, began recovering sooner, while those that stayed on longest, like France, suffered longer."
+   },
+   {
+    "question": "How did Hoover's response differ from Roosevelt's?",
+    "answer": "Hoover relied mainly on voluntary pledges from business and labor and private relief, adding the Reconstruction Finance Corporation's loans to banks and railroads in 1932; Roosevelt's New Deal used direct federal relief, jobs programs such as the WPA, banking reform and Social Security."
+   },
+   {
+    "question": "Why did the Depression and the New Deal affect Black, Mexican American and Native communities differently from others?",
+    "answer": "Black workers faced unemployment near 50 percent by 1932 and were often left out of New Deal programs, such as Social Security's exclusion of domestic and farm workers; people of Mexican ancestry, many of them U.S. citizens, were pushed or forced to leave for Mexico; and the 1934 Indian Reorganization Act reversed allotment and encouraged tribal self-government."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1929-08",
+    "event": "The expansion of the 1920s ends and the economy begins to contract."
+   },
+   {
+    "date": "1929-10-24",
+    "event": "Black Thursday: the New York Stock Exchange loses 11 percent of its value."
+   },
+   {
+    "date": "1929-10-29",
+    "event": "Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day."
+   },
+   {
+    "date": "1930-06",
+    "event": "Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs."
+   },
+   {
+    "date": "1931-10",
+    "event": "After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month."
+   },
+   {
+    "date": "1932-07",
+    "event": "Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C."
+   },
+   {
+    "date": "1933-03-04",
+    "event": "Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday."
+   },
+   {
+    "date": "1934",
+    "event": "The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government."
+   },
+   {
+    "date": "1935",
+    "event": "Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration."
+   },
+   {
+    "date": "1937",
+    "event": "After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third."
+   },
+   {
+    "date": "1938",
+    "event": "The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law."
+   },
+   {
+    "date": "1941",
+    "event": "Wartime demand restores full employment, ending the Depression."
+   }
+  ],
+  "misconception": {
+   "myth": "The stock market crash of October 1929 caused the Great Depression.",
+   "fact": "The downturn had already begun in August 1929, and production, prices and incomes were falling before the crash; the crash was one of a series of financial shocks, and the waves of bank failures and the shrinking money supply of 1930–33 did most to turn a recession into a depression.",
+   "why": "Black Tuesday is a single, dramatic date, while bank panics, tight monetary policy and the gold standard worked over years and are harder to picture."
+  },
+  "source_urls": [
+   "https://www.federalreservehistory.org/essays/great_depression",
+   "https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929",
+   "https://openstax.org/books/us-history/pages/25-3-the-depths-of-the-great-depression",
+   "https://millercenter.org/president/hoover/domestic-affairs",
+   "https://www.federalreserve.gov/boarddocs/speeches/2002/20021108/",
+   "https://www.fdrlibrary.org/great-depression-facts",
+   "https://openstax.org/books/us-history/pages/26-3-the-second-new-deal",
+   "https://www.richmondfed.org/publications/research/econ_focus/2024/q3_economic_history",
+   "https://law.justia.com/codes/california/code-gov/title-2/division-1/chapter-8-5/section-8721/"
+  ]
+ },
+ {
   "id": "us:great-railroad-strike-of-1877",
   "title": "Great Railroad Strike of 1877",
   "aliases": [
