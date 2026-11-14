@@ -9159,5 +9159,156 @@
    "https://dhs.gov/sites/default/files/2022-06/DMO-OSEM%20-%20DHS%20Operation%20Allies%20Welcome%20Afghan%20Evacuee%20Report%20-%20Update%201.pdf",
    "https://www.airandspaceforces.com/afghanistan-airlift-continues-after-suicide-bombing/"
   ]
+ },
+ {
+  "id": "us:winged-figures-of-the-republic",
+  "title": "Winged Figures of the Republic",
+  "aliases": [
+   "Hoover Dam Monument Plaza",
+   "Hoover Dam Star Map"
+  ],
+  "type": "Work",
+  "domain": "culture-and-arts",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/culture-and-arts/winged-figures-of-the-republic.md",
+  "created": "2026-11-14",
+  "summary": "A pair of 30-foot bronze winged figures by the Norwegian-born sculptor Oskar J. W. Hansen, set on black diorite bases beside a 142-foot flagpole in a terrazzo plaza on the Nevada end of Hoover Dam, whose inlaid star map fixes the sky at the moment Franklin D. Roosevelt dedicated the dam on September 30, 1935.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:hoover-dam"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:public-art-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bureau-of-reclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harold-ickes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:boulder-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:hoover-dam"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:hoover-dam",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:nevada",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:oskar-j-w-hansen",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:commemorates",
+    "object": "us:hoover-dam",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "How does the star map let a future viewer work out when Hoover Dam was dedicated?",
+    "answer": "Hansen laid out the positions of celestial bodies as they stood at the dam's dedication on September 30, 1935, and set them within a Circle of Precession showing the slow wobble of Earth's axis known as the Platonic Year, so the sky's arrangement fixes the moment even without a written date."
+   },
+   {
+    "question": "Why do some catalogues date the figures to 1935 when the plaza was finished in 1938?",
+    "answer": "The Smithsonian's sculpture inventory ties the work to the dam's 1935 dedication, which the star map commemorates, but Reclamation photographs show Hansen still overseeing fabrication of the star map in April 1938, and the plaza was completed that year."
+   },
+   {
+    "question": "How did the builders set the heavy bronze figures on their polished bases without scratching them?",
+    "answer": "The diorite bases were placed on blocks of ice and guided into position as the ice melted, avoiding scars to the polished stone and floor."
+   },
+   {
+    "question": "Why did Hansen describe the figures in terms of vigilance, and what is wrong with crediting that idea to Jefferson?",
+    "answer": "Hansen said the figures stood for the eternal vigilance that is the price of liberty, casting them as sentries of the Republic; Monticello finds no evidence Jefferson ever said this, tracing it instead to John Philpot Curran."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1935-09-30",
+    "event": "President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment."
+   },
+   {
+    "date": "1938",
+    "event": "The monument plaza on the Nevada side is completed."
+   },
+   {
+    "date": "1938-04-15",
+    "event": "A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map."
+   },
+   {
+    "date": "1938-08-15",
+    "event": "Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament."
+   },
+   {
+    "date": "1948",
+    "event": "The terrazzo floor receives its first repairs."
+   },
+   {
+    "date": "1958",
+    "event": "Hansen supervises a rebuilding of the terrazzo floor."
+   },
+   {
+    "date": "2020-03",
+    "event": "Visitor access to the plaza closes during the COVID-19 pandemic."
+   },
+   {
+    "date": "2022",
+    "event": "Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage."
+   },
+   {
+    "date": "2023-07",
+    "event": "Preservationists launch a Save the Star Map campaign after the terrazzo work stalls."
+   }
+  ],
+  "misconception": {
+   "myth": "Thomas Jefferson coined the phrase \"eternal vigilance is the price of liberty,\" which Hansen invoked to explain his statues.",
+   "fact": "Monticello's research staff have found no evidence that Jefferson said or wrote it; the idea traces to John Philpot Curran, and the modern wording circulated in American newspapers without his name, first credited to Jefferson in print in 1834.",
+   "why": "Patriotic maxims tend to migrate to the most famous founder, and a phrase carved into civic memory, as at Hoover Dam, rarely carries its real source with it."
+  },
+  "source_urls": [
+   "https://www.usbr.gov/lc/hooverdam/history/articles/rhinehart1.html",
+   "https://www.si.edu/object/winged-figures-republic-sculpture:siris_ari_19458",
+   "https://sah-archipedia.org/node/16828",
+   "https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-star-map-under-construction",
+   "https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-winged-figures-of-the-republic-10",
+   "https://bouldercitymagazine.com/past_issues/2008/2008_may/history.html",
+   "https://www.reviewjournal.com/news/hoover-dam-plazas-work-of-art-faces-monumental-repairs",
+   "https://bouldercityreview.com/news/group-looks-to-protect-hoover-dams-star-map-76988",
+   "https://www.monticello.org/encyclopedia/eternal-vigilance-price-liberty-spurious-quotation"
+  ]
  }
 ]

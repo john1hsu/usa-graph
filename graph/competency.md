@@ -110,7 +110,6 @@ _Which written places have no event, person, tradition or landmark in the graph 
 
 | node | type |
 |---|---|
-| `us:hoover-dam` | uso:Landmark |
 | `us:panama-canal` | uso:Landmark |
 
 ## Orphan articles (gap)

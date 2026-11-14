@@ -12898,6 +12898,132 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Bureau of Reclamation, Lower Colorado Region",
+   "dcterms:title": "The Grand Dam (Julian Rhinehart), The Story of Hoover Dam",
+   "schema:url": {
+    "@id": "https://www.usbr.gov/lc/hooverdam/history/articles/rhinehart1.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian American Art Museum",
+   "dcterms:title": "Winged Figures of the Republic (sculpture), Art Inventories Catalog",
+   "schema:url": {
+    "@id": "https://www.si.edu/object/winged-figures-republic-sculpture:siris_ari_19458"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "SAH Archipedia, Society of Architectural Historians",
+   "dcterms:title": "Hoover Dam (Julie Nicoletta, Buildings of Nevada)",
+   "schema:url": {
+    "@id": "https://sah-archipedia.org/node/16828"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Boulder City/Hoover Dam Museum",
+   "dcterms:title": "Hoover Dam star map under construction, April 15, 1938",
+   "schema:url": {
+    "@id": "https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-star-map-under-construction"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Boulder City/Hoover Dam Museum",
+   "dcterms:title": "Hoover Dam Winged Figures of the Republic, August 15, 1938",
+   "schema:url": {
+    "@id": "https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-winged-figures-of-the-republic-10"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Boulder City Magazine (Boulder City Museum and Historical Association)",
+   "dcterms:title": "History: Winged Figures of the Republic",
+   "schema:url": {
+    "@id": "https://bouldercitymagazine.com/past_issues/2008/2008_may/history.html"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Las Vegas Review-Journal",
+   "dcterms:title": "Hoover Dam plaza's work of art faces monumental repairs (Henry Brean)",
+   "schema:url": {
+    "@id": "https://www.reviewjournal.com/news/hoover-dam-plazas-work-of-art-faces-monumental-repairs"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Boulder City Review",
+   "dcterms:title": "Group looks to protect Hoover Dam's Star Map (Ron Eland)",
+   "schema:url": {
+    "@id": "https://bouldercityreview.com/news/group-looks-to-protect-hoover-dams-star-map-76988"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello)",
+   "dcterms:title": "Eternal vigilance is the price of liberty (Spurious Quotation)",
+   "schema:url": {
+    "@id": "https://www.monticello.org/encyclopedia/eternal-vigilance-price-liberty-spurious-quotation"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The 1863 proclamation applied only to areas in rebellion and left slavery legal in loyal border states; slavery ended nationwide only with the Thirteenth Amendment, which freed people still enslaved in Delaware and Kentucky in December 1865.",
@@ -14015,6 +14141,130 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "2020-02-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Monticello's research staff have found no evidence that Jefferson said or wrote it; the idea traces to John Philpot Curran, and the modern wording circulated in American newspapers without his name, first credited to Jefferson in print in 1834.",
+   "uso:myth": "Thomas Jefferson coined the phrase \"eternal vigilance is the price of liberty,\" which Hansen invoked to explain his statues.",
+   "uso:why": "Patriotic maxims tend to migrate to the most famous founder, and a phrase carved into civic memory, as at Hoover Dam, rarely carries its real source with it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the star map let a future viewer work out when Hoover Dam was dedicated?",
+   "uso:answer": "Hansen laid out the positions of celestial bodies as they stood at the dam's dedication on September 30, 1935, and set them within a Circle of Precession showing the slow wobble of Earth's axis known as the Platonic Year, so the sky's arrangement fixes the moment even without a written date.",
+   "uso:questionFor": {
+    "@id": "us:winged-figures-of-the-republic"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some catalogues date the figures to 1935 when the plaza was finished in 1938?",
+   "uso:answer": "The Smithsonian's sculpture inventory ties the work to the dam's 1935 dedication, which the star map commemorates, but Reclamation photographs show Hansen still overseeing fabrication of the star map in April 1938, and the plaza was completed that year.",
+   "uso:questionFor": {
+    "@id": "us:winged-figures-of-the-republic"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the builders set the heavy bronze figures on their polished bases without scratching them?",
+   "uso:answer": "The diorite bases were placed on blocks of ice and guided into position as the ice melted, avoiding scars to the polished stone and floor.",
+   "uso:questionFor": {
+    "@id": "us:winged-figures-of-the-republic"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Hansen describe the figures in terms of vigilance, and what is wrong with crediting that idea to Jefferson?",
+   "uso:answer": "Hansen said the figures stood for the eternal vigilance that is the price of liberty, casting them as sentries of the Republic; Monticello finds no evidence Jefferson ever said this, tracing it instead to John Philpot Curran.",
+   "uso:questionFor": {
+    "@id": "us:winged-figures-of-the-republic"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-09-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The monument plaza on the Nevada side is completed.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1938"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-04-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The terrazzo floor receives its first repairs.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1948"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hansen supervises a rebuilding of the terrazzo floor.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1958"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Visitor access to the plaza closes during the COVID-19 pandemic.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2020-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2022"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Preservationists launch a Save the Star Map campaign after the terrazzo work stalls.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2023-07"
    }
   },
   {
@@ -21877,6 +22127,134 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:winged-figures-of-the-republic",
+   "@type": "uso:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9"
+    }
+   ],
+   "rdfs:label": "Winged Figures of the Republic",
+   "skos:altLabel": [
+    "Hoover Dam Monument Plaza",
+    "Hoover Dam Star Map"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:public-art-in-the-united-states"
+    }
+   ],
+   "skos:definition": "A pair of 30-foot bronze winged figures by the Norwegian-born sculptor Oskar J. W. Hansen, set on black diorite bases beside a 142-foot flagpole in a terrazzo plaza on the Nevada end of Hoover Dam, whose inlaid star map fixes the sky at the moment Franklin D. Roosevelt dedicated the dam on September 30, 1935.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Winged Figures of the Republic",
+   "skos:related": [
+    {
+     "@id": "us:boulder-city"
+    },
+    {
+     "@id": "us:bureau-of-reclamation"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:harold-ickes"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    }
+   ],
+   "uso:authoredBy": {
+    "@id": "us:oskar-j-w-hansen"
+   },
+   "uso:commemorates": {
+    "@id": "us:hoover-dam"
+   },
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/culture-and-arts/winged-figures-of-the-republic.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:nevada"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:hoover-dam"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9"
     }
    ]
   }

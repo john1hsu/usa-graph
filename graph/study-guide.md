@@ -251,6 +251,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did bebop change the role of jazz compared with the swing era?
   **A:** Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.
 
+### [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) — Work
+
+| Myth | Fact |
+|---|---|
+| Thomas Jefferson coined the phrase "eternal vigilance is the price of liberty," which Hansen invoked to explain his statues. | Monticello's research staff have found no evidence that Jefferson said or wrote it; the idea traces to John Philpot Curran, and the modern wording circulated in American newspapers without his name, first credited to Jefferson in print in 1834. |
+
+**Why it matters:** Patriotic maxims tend to migrate to the most famous founder, and a phrase carved into civic memory, as at Hoover Dam, rarely carries its real source with it.
+
+- **Q:** How does the star map let a future viewer work out when Hoover Dam was dedicated?
+  **A:** Hansen laid out the positions of celestial bodies as they stood at the dam's dedication on September 30, 1935, and set them within a Circle of Precession showing the slow wobble of Earth's axis known as the Platonic Year, so the sky's arrangement fixes the moment even without a written date.
+- **Q:** Why do some catalogues date the figures to 1935 when the plaza was finished in 1938?
+  **A:** The Smithsonian's sculpture inventory ties the work to the dam's 1935 dedication, which the star map commemorates, but Reclamation photographs show Hansen still overseeing fabrication of the star map in April 1938, and the plaza was completed that year.
+- **Q:** How did the builders set the heavy bronze figures on their polished bases without scratching them?
+  **A:** The diorite bases were placed on blocks of ice and guided into position as the ice melted, avoiding scars to the polished stone and floor.
+- **Q:** Why did Hansen describe the figures in terms of vigilance, and what is wrong with crediting that idea to Jefferson?
+  **A:** Hansen said the figures stood for the eternal vigilance that is the price of liberty, casting them as sentries of the Republic; Monticello finds no evidence Jefferson ever said this, tracing it instead to John Philpot Curran.
+
 ## democracy-and-elections
 
 ### [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) — Law

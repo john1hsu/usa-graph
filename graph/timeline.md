@@ -482,6 +482,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -492,6 +493,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-12 | Fred Edwards drives from California to Spur, Texas, to bring back his brother-in-law Frank Duncan, and is later convicted. — [Okies](../articles/society-and-people/okies.md) |
@@ -519,6 +523,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -553,6 +558,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
@@ -658,6 +664,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2020-03 | Visitor access to the plaza closes during the COVID-19 pandemic. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2020-04-01 | The 2020 census counts 3.7 million people who identify as American Indian and Alaska Native alone and 9.7 million alone or in combination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2020-04-01 | The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -668,6 +675,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2021-08-16 | The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-30 | The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2022 | Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2026-04-29 | In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |

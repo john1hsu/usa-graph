@@ -168,6 +168,18 @@
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s4> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s5> .
 <https://github.com/john1hsu/usa-graph/id/jazz#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/culture-and-arts/winged-figures-of-the-republic.md" .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> .
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/fifteenth-amendment.md" .
@@ -3000,6 +3012,154 @@
   <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/jazz/s6> <https://schema.org/url> <https://stories.state.gov/the-unifying-power-of-music> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Reclamation, Lower Colorado Region" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <http://purl.org/dc/terms/title> "The Grand Dam (Julian Rhinehart), The Story of Hoover Dam" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> <https://schema.org/url> <https://www.usbr.gov/lc/hooverdam/history/articles/rhinehart1.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <http://purl.org/dc/terms/publisher> "Smithsonian American Art Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <http://purl.org/dc/terms/title> "Winged Figures of the Republic (sculpture), Art Inventories Catalog" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> <https://schema.org/url> <https://www.si.edu/object/winged-figures-republic-sculpture:siris_ari_19458> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <http://purl.org/dc/terms/publisher> "SAH Archipedia, Society of Architectural Historians" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <http://purl.org/dc/terms/title> "Hoover Dam (Julie Nicoletta, Buildings of Nevada)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> <https://schema.org/url> <https://sah-archipedia.org/node/16828> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <http://purl.org/dc/terms/publisher> "Boulder City/Hoover Dam Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <http://purl.org/dc/terms/title> "Hoover Dam star map under construction, April 15, 1938" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> <https://schema.org/url> <https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-star-map-under-construction> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <http://purl.org/dc/terms/publisher> "Boulder City/Hoover Dam Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <http://purl.org/dc/terms/title> "Hoover Dam Winged Figures of the Republic, August 15, 1938" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> <https://schema.org/url> <https://hub.catalogit.app/boulder-city-hoover-dam-museum/folder/entry/hoover-dam-art-and-monuments-winged-figures-of-the-republic-10> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <http://purl.org/dc/terms/publisher> "Boulder City Magazine (Boulder City Museum and Historical Association)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <http://purl.org/dc/terms/title> "History: Winged Figures of the Republic" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> <https://schema.org/url> <https://bouldercitymagazine.com/past_issues/2008/2008_may/history.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <http://purl.org/dc/terms/publisher> "Las Vegas Review-Journal" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <http://purl.org/dc/terms/title> "Hoover Dam plaza's work of art faces monumental repairs (Henry Brean)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> <https://schema.org/url> <https://www.reviewjournal.com/news/hoover-dam-plazas-work-of-art-faces-monumental-repairs> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <http://purl.org/dc/terms/publisher> "Boulder City Review" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <http://purl.org/dc/terms/title> "Group looks to protect Hoover Dam's Star Map (Ron Eland)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> <https://schema.org/url> <https://bouldercityreview.com/news/group-looks-to-protect-hoover-dams-star-map-76988> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Foundation (Monticello)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <http://purl.org/dc/terms/title> "Eternal vigilance is the price of liberty (Spurious Quotation)" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> <https://schema.org/url> <https://www.monticello.org/encyclopedia/eternal-vigilance-price-liberty-spurious-quotation> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Monticello's research staff have found no evidence that Jefferson said or wrote it; the idea traces to John Philpot Curran, and the modern wording circulated in American newspapers without his name, first credited to Jefferson in print in 1834." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Thomas Jefferson coined the phrase \"eternal vigilance is the price of liberty,\" which Hansen invoked to explain his statues." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Patriotic maxims tend to migrate to the most famous founder, and a phrase carved into civic memory, as at Hoover Dam, rarely carries its real source with it." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does the star map let a future viewer work out when Hoover Dam was dedicated?" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hansen laid out the positions of celestial bodies as they stood at the dam's dedication on September 30, 1935, and set them within a Circle of Precession showing the slow wobble of Earth's axis known as the Platonic Year, so the sky's arrangement fixes the moment even without a written date." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why do some catalogues date the figures to 1935 when the plaza was finished in 1938?" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Smithsonian's sculpture inventory ties the work to the dam's 1935 dedication, which the star map commemorates, but Reclamation photographs show Hansen still overseeing fabrication of the star map in April 1938, and the plaza was completed that year." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the builders set the heavy bronze figures on their polished bases without scratching them?" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The diorite bases were placed on blocks of ice and guided into position as the ice melted, avoiding scars to the polished stone and floor." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Hansen describe the figures in terms of vigilance, and what is wrong with crediting that idea to Jefferson?" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hansen said the figures stood for the eternal vigilance that is the price of liberty, casting them as sentries of the Republic; Monticello finds no evidence Jefferson ever said this, tracing it instead to John Philpot Curran." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The monument plaza on the Nevada side is completed." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1938-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1938-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The terrazzo floor receives its first repairs." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1948"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Hansen supervises a rebuilding of the terrazzo floor." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Visitor access to the plaza closes during the COVID-19 pandemic." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Preservationists launch a Save the Star Map campaign after the terrazzo work stalls." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2023-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Work> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2000/01/rdf-schema#label> "Winged Figures of the Republic" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#altLabel> "Hoover Dam Monument Plaza" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#altLabel> "Hoover Dam Star Map" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/public-art-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#definition> "A pair of 30-foot bronze winged figures by the Norwegian-born sculptor Oskar J. W. Hansen, set on black diorite bases beside a 142-foot flagpole in a terrazzo plaza on the Nevada end of Hoover Dam, whose inlaid star map fixes the sky at the moment Franklin D. Roosevelt dedicated the dam on September 30, 1935." .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Winged Figures of the Republic" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/boulder-city> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harold-ickes> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s2> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s3> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s4> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s5> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s6> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s7> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s8> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s9> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#commemorates> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#domain> "culture-and-arts" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/culture-and-arts/winged-figures-of-the-republic.md" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/nevada> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> {
@@ -9124,6 +9284,7 @@
   <https://github.com/john1hsu/usa-graph/id/arizona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/arizona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/arizona> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/arizona> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/arkansas> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -9216,6 +9377,7 @@
   <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -9243,6 +9405,7 @@
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/bureau-of-indian-affairs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -9337,8 +9500,10 @@
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/colorado-river> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/combahee-river-raid> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/comite-des-citoyens> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -9500,6 +9665,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/edwards-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elk-v-wilkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -9632,6 +9798,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/fred-gray> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -9747,6 +9914,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -9784,6 +9952,7 @@
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/harriet-tubman-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/harriet-tubman-underground-railroad-national-historical-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -9866,8 +10035,13 @@
   <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#commemoratedBy> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/hoover-dam> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -10330,10 +10504,12 @@
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans-massacre-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10373,6 +10549,7 @@
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/north-america> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/northern-pacific-railway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -10402,6 +10579,9 @@
   <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal-zone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10550,6 +10730,8 @@
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/public-art-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/public-art-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/pueblo-grande-de-nevada> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/puerto-rico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -10779,6 +10961,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-south> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -10846,6 +11029,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -11007,6 +11191,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -11105,6 +11290,31 @@
   <https://github.com/john1hsu/usa-graph/id/william-penn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/william-penn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/william-penn> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/public-art-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/arizona> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/womens-political-council> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
