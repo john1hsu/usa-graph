@@ -30,7 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | adams-onis-treaty, missouri-compromise, native-americans, territory-of-orleans |
-| `us:september-11-attacks` | 4 | War in Afghanistan (2001–2021), department-of-homeland-security, national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
+| `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:united-states-constitution` | 4 | Slavery in the United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
@@ -46,18 +46,18 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:charter-of-pennsylvania` | 1 | Pennsylvania |
 | `us:declaration-of-independence` | 1 | treaty-of-alliance-1778 |
+| `us:department-of-homeland-security` | 1 | cybersecurity-and-infrastructure-security-agency |
 | `us:equal-protection` | 1 | african-americans |
 | `us:executive-order-9066` | 1 | Japanese American incarceration during World War II |
 | `us:fourteenth-amendment` | 1 | Equal protection |
 | `us:great-railroad-strike-of-1877` | 1 | labor-movement |
+| `us:homeland-security-act-of-2002` | 1 | Department of Homeland Security |
 | `us:jim-crow-laws` | 1 | african-americans |
 | `us:louisiana-constitution-of-1898` | 1 | Jim Crow laws |
 | `us:mississippi-river` | 1 | Siege of Vicksburg |
 | `us:montgomery-bus-boycott` | 1 | browder-v-gayle |
-| `us:plessy-v-ferguson` | 1 | Jim Crow laws |
-| `us:separate-car-act` | 1 | Jim Crow laws |
 
-…and 2 more.
+…and 4 more.
 
 ## Happenings by era
 
@@ -151,6 +151,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
+| `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
 | `us:united-states-constitution` | `us:united-states-congress` |

@@ -1292,6 +1292,180 @@
   ]
  },
  {
+  "id": "us:department-of-homeland-security",
+  "title": "Department of Homeland Security",
+  "aliases": [
+   "DHS",
+   "U.S. Department of Homeland Security",
+   "United States Department of Homeland Security",
+   "Homeland Security Department"
+  ],
+  "type": "Institution",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/contemporary-america/department-of-homeland-security.md",
+  "created": "2026-11-14",
+  "summary": "The Cabinet-level executive department created by the Homeland Security Act of 2002 after the September 11 attacks, which took effect on January 24, 2003, and combined 22 federal agencies, among them the Customs Service, the Coast Guard, the Secret Service, FEMA, the TSA and the functions of the abolished Immigration and Naturalization Service.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-government-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-w-bush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:transportation-security-administration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hurricane-katrina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:usa-patriot-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-on-terror"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:terrorism-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:homeland-security-act-of-2002",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:federal-government-of-the-united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:hart-rudman-commission",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:tom-ridge",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:cybersecurity-and-infrastructure-security-agency",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2003-01-24",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Bush administration move from a White House office to a full Cabinet department for homeland security?",
+    "answer": "The Office of Homeland Security created in October 2001 coordinated agencies but many observers doubted it had the authority to overcome bureaucratic obstacles; with Congress already drafting a department bill, Bush reversed course in June 2002 and proposed a permanent department that would combine the agencies directly."
+   },
+   {
+    "question": "How did the creation of DHS change the federal government's handling of immigration?",
+    "answer": "The act abolished the Justice Department's Immigration and Naturalization Service and split its work among three DHS agencies — Customs and Border Protection, Immigration and Customs Enforcement and U.S. Citizenship and Immigration Services — separating enforcement from the processing of visas and naturalization."
+   },
+   {
+    "question": "Why did Congress reorganize FEMA in 2006?",
+    "answer": "The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2001-01",
+    "event": "The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies."
+   },
+   {
+    "date": "2001-10-08",
+    "event": "Executive Order 13228 creates the White House Office of Homeland Security and the Homeland Security Council."
+   },
+   {
+    "date": "2001-10-11",
+    "event": "Senator Joseph Lieberman introduces S. 1534, an early bill for a homeland security department."
+   },
+   {
+    "date": "2002-06-06",
+    "event": "President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation."
+   },
+   {
+    "date": "2002-07-26",
+    "event": "The House passes H.R. 5005, 295–132."
+   },
+   {
+    "date": "2002-11-19",
+    "event": "The Senate passes the amended bill, 90–9; the House agrees to it on November 22."
+   },
+   {
+    "date": "2002-11-25",
+    "event": "Bush signs the Homeland Security Act of 2002 (Public Law 107-296)."
+   },
+   {
+    "date": "2003-01-24",
+    "event": "The act takes effect and the department comes into existence."
+   },
+   {
+    "date": "2003-03-01",
+    "event": "FEMA and 21 other organizations formally join the department."
+   },
+   {
+    "date": "2005",
+    "event": "Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization."
+   },
+   {
+    "date": "2006-10-04",
+    "event": "Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina."
+   },
+   {
+    "date": "2018-11-16",
+    "event": "The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department."
+   }
+  ],
+  "misconception": {
+   "myth": "The Department of Homeland Security took over the FBI and the CIA when it was created.",
+   "fact": "The FBI and CIA stayed outside the new department; the 2002 act transferred only the FBI's National Infrastructure Protection Center and allowed FBI and CIA analysts to be detailed to DHS, and President Bush considered folding in the FBI but decided against it.",
+   "why": "The department was sold as the answer to the intelligence-sharing failures before 9/11, so many people assume it absorbed the main intelligence agencies; the later Director of National Intelligence and counterterrorism center were separate reforms."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/PLAW-107publ296/html/PLAW-107publ296.htm",
+   "https://www.everycrsreport.com/reports/R47446.html",
+   "https://www.everycrsreport.com/files/20030411_RL31645_b48b3674f0cd2fe0b1d4200bfb92ec1eecba5cb3.html",
+   "https://www.presidency.ucsb.edu/documents/address-the-nation-the-proposed-department-homeland-security",
+   "https://www.presidency.ucsb.edu/documents/remarks-signing-the-homeland-security-act-2002",
+   "https://uscis.gov/about-us/our-history/explore-agency-history/organizational-timeline",
+   "https://training.fema.gov/70years/history/securityofthenation/",
+   "https://www.cisa.gov/news-events/alerts/2018/11/19/cybersecurity-and-infrastructure-security-agency",
+   "https://www.gao.gov/products/GAO-19-475T",
+   "https://cpsa-acsp.ca/papers-2005/Gillies.pdf",
+   "https://www.britannica.com/topic/United-States-Department-of-Homeland-Security",
+   "https://immigrationhistory.org/?p=392"
+  ]
+ },
+ {
   "id": "us:equal-protection",
   "title": "Equal protection",
   "aliases": [

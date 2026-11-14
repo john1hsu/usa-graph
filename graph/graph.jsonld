@@ -1053,6 +1053,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The FBI and CIA stayed outside the new department; the 2002 act transferred only the FBI's National Infrastructure Protection Center and allowed FBI and CIA analysts to be detailed to DHS, and President Bush considered folding in the FBI but decided against it.",
+   "uso:myth": "The Department of Homeland Security took over the FBI and the CIA when it was created.",
+   "uso:why": "The department was sold as the answer to the intelligence-sharing failures before 9/11, so many people assume it absorbed the main intelligence agencies; the later Director of National Intelligence and counterterrorism center were separate reforms."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Bush administration move from a White House office to a full Cabinet department for homeland security?",
+   "uso:answer": "The Office of Homeland Security created in October 2001 coordinated agencies but many observers doubted it had the authority to overcome bureaucratic obstacles; with Congress already drafting a department bill, Bush reversed course in June 2002 and proposed a permanent department that would combine the agencies directly.",
+   "uso:questionFor": {
+    "@id": "us:department-of-homeland-security"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the creation of DHS change the federal government's handling of immigration?",
+   "uso:answer": "The act abolished the Justice Department's Immigration and Naturalization Service and split its work among three DHS agencies — Customs and Border Protection, Immigration and Customs Enforcement and U.S. Citizenship and Immigration Services — separating enforcement from the processing of visas and naturalization.",
+   "uso:questionFor": {
+    "@id": "us:department-of-homeland-security"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress reorganize FEMA in 2006?",
+   "uso:answer": "The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department.",
+   "uso:questionFor": {
+    "@id": "us:department-of-homeland-security"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2001-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2005"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2006-10-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2018-11-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 13228 creates the White House Office of Homeland Security and the Homeland Security Council.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-10-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Joseph Lieberman introduces S. 1534, an early bill for a homeland security department.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-10-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes H.R. 5005, 295–132.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-07-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes the amended bill, 90–9; the House agrees to it on November 22.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-11-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Bush signs the Homeland Security Act of 2002 (Public Law 107-296).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-11-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The act takes effect and the department comes into existence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2003-01-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "FEMA and 21 other organizations formally join the department.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2003-03-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny.",
@@ -5532,6 +5674,174 @@
     "@id": "https://www.monticello.org/thomas-jefferson/jefferson-slavery/"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "Public Law 107-296, Homeland Security Act of 2002",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/PLAW-107publ296/html/PLAW-107publ296.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "James Gillies, University of British Columbia (Canadian Political Science Association conference paper, 2005)",
+   "dcterms:title": "The Creation of the Department of Homeland Security: Lessons Learned Two Years On",
+   "schema:url": {
+    "@id": "https://cpsa-acsp.ca/papers-2005/Gillies.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica (L. Sue Baugh)",
+   "dcterms:title": "United States Department of Homeland Security",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/United-States-Department-of-Homeland-Security"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Immigration History, a project of the Immigration and Ethnic History Society",
+   "dcterms:title": "Homeland Security Act",
+   "schema:url": {
+    "@id": "https://immigrationhistory.org/?p=392"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Congressional Research Service (William L. Painter), via EveryCRSReport",
+   "dcterms:title": "The Department of Homeland Security: A Primer (R47446)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R47446.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Congressional Research Service (Sharon S. Gressle), via EveryCRSReport",
+   "dcterms:title": "Homeland Security Act of 2002: Legislative History and Pagination Key (RL31645)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/20030411_RL31645_b48b3674f0cd2fe0b1d4200bfb92ec1eecba5cb3.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Presidency Project, UC Santa Barbara",
+   "dcterms:title": "Address to the Nation on the Proposed Department of Homeland Security (June 6, 2002)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/address-the-nation-the-proposed-department-homeland-security"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "The American Presidency Project, UC Santa Barbara",
+   "dcterms:title": "Remarks on Signing the Homeland Security Act of 2002 (November 25, 2002)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/remarks-signing-the-homeland-security-act-2002"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Citizenship and Immigration Services, History Office",
+   "dcterms:title": "Organizational Timeline",
+   "schema:url": {
+    "@id": "https://uscis.gov/about-us/our-history/explore-agency-history/organizational-timeline"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Federal Emergency Management Agency, Emergency Management Institute",
+   "dcterms:title": "FEMA History: Security of the Nation",
+   "schema:url": {
+    "@id": "https://training.fema.gov/70years/history/securityofthenation/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Cybersecurity and Infrastructure Security Agency",
+   "dcterms:title": "Cybersecurity and Infrastructure Security Agency",
+   "schema:url": {
+    "@id": "https://www.cisa.gov/news-events/alerts/2018/11/19/cybersecurity-and-infrastructure-security-agency"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "U.S. Government Accountability Office",
+   "dcterms:title": "Department of Homeland Security: Progress Made, but Additional Actions Needed to Strengthen Management Functions (GAO-19-475T)",
+   "schema:url": {
+    "@id": "https://www.gao.gov/products/GAO-19-475T"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1",
@@ -11141,6 +11451,160 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:department-of-homeland-security",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9"
+    }
+   ],
+   "rdfs:label": "Department of Homeland Security",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2003-01-24"
+   },
+   "skos:altLabel": [
+    "DHS",
+    "Homeland Security Department",
+    "U.S. Department of Homeland Security",
+    "United States Department of Homeland Security"
+   ],
+   "skos:broader": {
+    "@id": "us:federal-government-of-the-united-states"
+   },
+   "skos:definition": "The Cabinet-level executive department created by the Homeland Security Act of 2002 after the September 11 attacks, which took effect on January 24, 2003, and combined 22 federal agencies, among them the Customs Service, the Coast Guard, the Secret Service, FEMA, the TSA and the functions of the abolished Immigration and Naturalization Service.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Department of Homeland Security",
+   "skos:related": [
+    {
+     "@id": "us:george-w-bush"
+    },
+    {
+     "@id": "us:hurricane-katrina"
+    },
+    {
+     "@id": "us:september-11-attacks"
+    },
+    {
+     "@id": "us:terrorism-in-the-united-states"
+    },
+    {
+     "@id": "us:transportation-security-administration"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:usa-patriot-act"
+    },
+    {
+     "@id": "us:war-on-terror"
+    }
+   ],
+   "uso:domain": "contemporary-america",
+   "uso:establishedBy": {
+    "@id": "us:homeland-security-act-of-2002"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/contemporary-america/department-of-homeland-security.md",
+   "uso:influencedBy": {
+    "@id": "us:hart-rudman-commission"
+   },
+   "uso:ledBy": {
+    "@id": "us:tom-ridge"
+   },
+   "uso:ledTo": {
+    "@id": "us:cybersecurity-and-infrastructure-security-agency"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:federal-government-of-the-united-states"
+   },
+   "uso:requires": {
+    "@id": "us:september-11-attacks"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9"
     }
    ]
   },

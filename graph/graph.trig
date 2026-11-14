@@ -123,6 +123,21 @@
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s8> .
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s9> .
 <https://github.com/john1hsu/usa-graph/id/united-states-constitution#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states-constitution/s10> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/department-of-homeland-security.md" .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> .
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/september-11-attacks.md" .
@@ -2193,6 +2208,188 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/8> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://schema.org/startDate> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> {
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The FBI and CIA stayed outside the new department; the 2002 act transferred only the FBI's National Infrastructure Protection Center and allowed FBI and CIA analysts to be detailed to DHS, and President Bush considered folding in the FBI but decided against it." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Department of Homeland Security took over the FBI and the CIA when it was created." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The department was sold as the answer to the intelligence-sharing failures before 9/11, so many people assume it absorbed the main intelligence agencies; the later Director of National Intelligence and counterterrorism center were separate reforms." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Bush administration move from a White House office to a full Cabinet department for homeland security?" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Office of Homeland Security created in October 2001 coordinated agencies but many observers doubted it had the authority to overcome bureaucratic obstacles; with Congress already drafting a department bill, Bush reversed course in June 2002 and proposed a permanent department that would combine the agencies directly." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the creation of DHS change the federal government's handling of immigration?" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The act abolished the Justice Department's Immigration and Naturalization Service and split its work among three DHS agencies — Customs and Border Protection, Immigration and Customs Enforcement and U.S. Citizenship and Immigration Services — separating enforcement from the processing of visas and naturalization." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress reorganize FEMA in 2006?" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2006-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2018-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Order 13228 creates the White House Office of Homeland Security and the Homeland Security Council." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Joseph Lieberman introduces S. 1534, an early bill for a homeland security department." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes H.R. 5005, 295–132." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes the amended bill, 90–9; the House agrees to it on November 22." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Bush signs the Homeland Security Act of 2002 (Public Law 107-296)." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2002-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The act takes effect and the department comes into existence." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2003-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "FEMA and 21 other organizations formally join the department." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2003-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2000/01/rdf-schema#label> "Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#altLabel> "DHS" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#altLabel> "Homeland Security Department" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#altLabel> "United States Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#definition> "The Cabinet-level executive department created by the Homeland Security Act of 2002 after the September 11 attacks, which took effect on January 24, 2003, and combined 22 federal agencies, among them the Customs Service, the Coast Guard, the Secret Service, FEMA, the TSA and the functions of the abolished Immigration and Naturalization Service." .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-w-bush> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-on-terror> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/homeland-security-act-of-2002> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/department-of-homeland-security.md" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/tom-ridge> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/cybersecurity-and-infrastructure-security-agency> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://schema.org/startDate> "2003-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <http://purl.org/dc/terms/publisher> "James Gillies, University of British Columbia (Canadian Political Science Association conference paper, 2005)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <http://purl.org/dc/terms/title> "The Creation of the Department of Homeland Security: Lessons Learned Two Years On" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> <https://schema.org/url> <https://cpsa-acsp.ca/papers-2005/Gillies.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (L. Sue Baugh)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <http://purl.org/dc/terms/title> "United States Department of Homeland Security" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> <https://schema.org/url> <https://www.britannica.com/topic/United-States-Department-of-Homeland-Security> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <http://purl.org/dc/terms/publisher> "Immigration History, a project of the Immigration and Ethnic History Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <http://purl.org/dc/terms/title> "Homeland Security Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> <https://schema.org/url> <https://immigrationhistory.org/?p=392> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <http://purl.org/dc/terms/title> "Public Law 107-296, Homeland Security Act of 2002" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/PLAW-107publ296/html/PLAW-107publ296.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service (William L. Painter), via EveryCRSReport" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <http://purl.org/dc/terms/title> "The Department of Homeland Security: A Primer (R47446)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s2> <https://schema.org/url> <https://www.everycrsreport.com/reports/R47446.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Sharon S. Gressle), via EveryCRSReport" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <http://purl.org/dc/terms/title> "Homeland Security Act of 2002: Legislative History and Pagination Key (RL31645)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s3> <https://schema.org/url> <https://www.everycrsreport.com/files/20030411_RL31645_b48b3674f0cd2fe0b1d4200bfb92ec1eecba5cb3.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <http://purl.org/dc/terms/publisher> "The American Presidency Project, UC Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <http://purl.org/dc/terms/title> "Address to the Nation on the Proposed Department of Homeland Security (June 6, 2002)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s4> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/address-the-nation-the-proposed-department-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <http://purl.org/dc/terms/publisher> "The American Presidency Project, UC Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <http://purl.org/dc/terms/title> "Remarks on Signing the Homeland Security Act of 2002 (November 25, 2002)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s5> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/remarks-signing-the-homeland-security-act-2002> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <http://purl.org/dc/terms/publisher> "U.S. Citizenship and Immigration Services, History Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <http://purl.org/dc/terms/title> "Organizational Timeline" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s6> <https://schema.org/url> <https://uscis.gov/about-us/our-history/explore-agency-history/organizational-timeline> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <http://purl.org/dc/terms/publisher> "Federal Emergency Management Agency, Emergency Management Institute" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <http://purl.org/dc/terms/title> "FEMA History: Security of the Nation" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s7> <https://schema.org/url> <https://training.fema.gov/70years/history/securityofthenation/> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <http://purl.org/dc/terms/publisher> "Cybersecurity and Infrastructure Security Agency" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <http://purl.org/dc/terms/title> "Cybersecurity and Infrastructure Security Agency" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s8> <https://schema.org/url> <https://www.cisa.gov/news-events/alerts/2018/11/19/cybersecurity-and-infrastructure-security-agency> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://purl.org/dc/terms/title> "Department of Homeland Security: Progress Made, but Additional Actions Needed to Strengthen Management Functions (GAO-19-475T)" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://schema.org/url> <https://www.gao.gov/products/GAO-19-475T> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> {
@@ -6726,6 +6923,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/cybersecurity-and-infrastructure-security-agency> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/dakota-oyate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/day-of-remembrance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -6763,6 +6961,24 @@
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -6825,8 +7041,11 @@
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/fair-housing-act-of-1968> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -6936,6 +7155,7 @@
   <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/george-w-bush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/george-washington/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7013,6 +7233,7 @@
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/harrisburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -7025,12 +7246,16 @@
   <https://github.com/john1hsu/usa-graph/id/historically-black-colleges-and-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/homeland-security-act-of-2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/homeland-security-act-of-2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/homeland-security-act-of-2002> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/indentured-servitude> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -7614,6 +7839,8 @@
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/september-11-conspiracy-theories> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/seventeenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -7719,6 +7946,7 @@
   <https://github.com/john1hsu/usa-graph/id/territory-of-orleans> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/the-gilded-age-a-tale-of-today> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -7793,8 +8021,12 @@
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/tom-ridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/tom-ridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/tom-ridge> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -7843,6 +8075,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -7908,6 +8141,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/university-of-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
@@ -7975,6 +8209,7 @@
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .

@@ -189,6 +189,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## contemporary-america
 
+### [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Department of Homeland Security took over the FBI and the CIA when it was created. | The FBI and CIA stayed outside the new department; the 2002 act transferred only the FBI's National Infrastructure Protection Center and allowed FBI and CIA analysts to be detailed to DHS, and President Bush considered folding in the FBI but decided against it. |
+
+**Why it matters:** The department was sold as the answer to the intelligence-sharing failures before 9/11, so many people assume it absorbed the main intelligence agencies; the later Director of National Intelligence and counterterrorism center were separate reforms.
+
+- **Q:** Why did the Bush administration move from a White House office to a full Cabinet department for homeland security?
+  **A:** The Office of Homeland Security created in October 2001 coordinated agencies but many observers doubted it had the authority to overcome bureaucratic obstacles; with Congress already drafting a department bill, Bush reversed course in June 2002 and proposed a permanent department that would combine the agencies directly.
+- **Q:** How did the creation of DHS change the federal government's handling of immigration?
+  **A:** The act abolished the Justice Department's Immigration and Naturalization Service and split its work among three DHS agencies — Customs and Border Protection, Immigration and Customs Enforcement and U.S. Citizenship and Immigration Services — separating enforcement from the processing of visas and naturalization.
+- **Q:** Why did Congress reorganize FEMA in 2006?
+  **A:** The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department.
+
 ### [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) — Event
 
 | Myth | Fact |

@@ -455,6 +455,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 2001-01 | The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |
 | 2001-09-11 | Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
@@ -464,16 +465,27 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2001-10-07 – 2021-08-30 | **[War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md)** (Conflict) |
 | 2001-10-07 | U.S. air strikes against Taliban and al Qaeda targets in Afghanistan begin Operation Enduring Freedom. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-10-07 | U.S. air strikes begin against Taliban military installations and al Qaeda training camps. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2001-10-08 | Executive Order 13228 creates the White House Office of Homeland Security and the Homeland Security Council. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2001-10-11 | Senator Joseph Lieberman introduces S. 1534, an early bill for a homeland security department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2001-12-07 | Hamid Karzai's southern opposition forces and U.S. Marines take Kandahar after the Taliban abandon Kabul and the north. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2002-05-30 | The recovery effort at Ground Zero formally ends with the removal of the Last Column. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2002-06-06 | President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2002-07-26 | The House passes H.R. 5005, 295–132. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2002-11-19 | The Senate passes the amended bill, 90–9; the House agrees to it on November 22. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2002-11-25 | Bush signs the Homeland Security Act of 2002 (Public Law 107-296). — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2003 | The bell moves to a new building at Sixth and Market Streets, beside the site where Washington held enslaved people in the 1790s. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 2003-01-24 | **[Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md)** (Institution) |
+| 2003-01-24 | The act takes effect and the department comes into existence. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2003-03-01 | FEMA and 21 other organizations formally join the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2003-03-01 | The Department of Homeland Security opens, combining parts or all of 22 federal agencies. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2003-08-11 | NATO assumes command of the UN-mandated International Security Assistance Force (ISAF). — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2004-02-14 | The Mississippi African-American Monument is dedicated in Vicksburg National Military Park. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 2005 | Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -483,6 +495,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
