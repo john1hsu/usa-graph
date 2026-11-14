@@ -30,6 +30,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1751-11-01 | Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1752 | Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1752-08 | The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1753 | **[Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md)** (Symbol) |
 | 1753 | Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -39,6 +40,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1773 | She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1775-04-19 – 1783-09-03 | **[American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md)** (Conflict) |
 | 1775-04-19 | British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1775-04-20 | New England militia begin the siege of British-held Boston. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -46,6 +48,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1776-01-01 | The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-06-11 | After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-06-28 | The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -66,6 +69,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-12-25 | After losing New York, Washington crosses the Delaware and surprises the Hessian garrison at Trenton. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777 | Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1777-05-29 | The Pennsylvania State Navy Board pays Ross for making ship's colours, her earliest documented flag work. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1777-06-14 | The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1777-08-06 | Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777-10-17 | John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
@@ -79,6 +84,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-06-21 | Spain enters the war against Britain. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -219,6 +225,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1836 | Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -335,13 +342,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-12 | At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
+| 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1870-02-25 | Hiram Revels is sworn in as the first African American senator. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1873 | Harper's Weekly and other national journals repeat the story as fact. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1873 | Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -371,6 +381,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-22 | Fires in Pittsburgh destroy the Pennsylvania Railroad's Union Depot, more than thirty buildings and thousands of locomotives and cars. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-24 | Unrest in Chicago peaks over five days of walkouts, sympathy strikes and clashes with police, militia and U.S. Army troops. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -400,6 +411,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -445,6 +457,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
@@ -468,6 +481,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |

@@ -9,9 +9,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.47 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment`, `us:three-fifths-clause` |
 | 2.31 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty`, `us:united-states` |
-| 2.30 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
 | 2.26 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
+| 2.23 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
+| 2.18 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
@@ -27,5 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.83 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:great-depression` | `us:japanese-american-incarceration` | `us:franklin-d-roosevelt`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
-| 1.81 | `us:george-washington` | `us:pennsylvania` | `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 1.78 | `us:american-civil-war` | `us:american-revolutionary-war` | `us:african-americans`, `us:wars-of-the-united-states` |

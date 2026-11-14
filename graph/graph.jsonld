@@ -778,6 +778,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers.",
+   "uso:myth": "George Washington asked Betsy Ross to design and sew the first Stars and Stripes in 1776, and she did, adding five-pointed stars in a circle.",
+   "uso:why": "The story entered print in 1870 from family memory, then spread through a widely copied 1893 painting, school lessons and patriotic tourism because it offered a founding heroine for a newly revered symbol."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians doubt that Betsy Ross made the first flag at Washington's request in 1776?",
+   "uso:answer": "The story first appeared in 1870, almost a century later and 34 years after Ross died, and rests on family recollections from people who had not witnessed the events. No document records a congressional flag committee in 1776 or any dealing between Washington and Ross, and Congress did not adopt a flag until June 14, 1777. Even Canby's own research found no supporting documents.",
+   "uso:questionFor": {
+    "@id": "us:betsy-ross-flag-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a family story become a national legend between 1870 and 1909?",
+   "uso:answer": "Canby's 1870 paper was repeated by national journals by 1873, embellished in books such as Reigart's 1878 history, and dramatized in Charles Weisgerber's painting, which crowds saw at the 1893 Chicago fair and which was reproduced widely. The flag was becoming a revered symbol after the Civil War, and the 1909 book by Canby's relatives, school lessons and toys fixed the story in memory.",
+   "uso:questionFor": {
+    "@id": "us:betsy-ross-flag-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What does the documentary record actually show about Betsy Ross's work?",
+   "uso:answer": "She ran an upholstery business, was paid by the Pennsylvania State Navy Board in May 1777 for making ship's colours, and went on making flags for decades, including many under government contracts around the War of 1812. Historian Marla Miller calls her one of Philadelphia's most important flag makers of the Revolution, alongside others such as Rebecca Young, Margaret Manney and Sarah Barry.",
+   "uso:questionFor": {
+    "@id": "us:betsy-ross-flag-myth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1752"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1878"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1893"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1909"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Woodrow Wilson proclaims a national Flag Day on June 14.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1773"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Pennsylvania State Navy Board pays Ross for making ship's colours, her earliest documented flag work.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-06-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1780"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1836"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Harper's Weekly and other national journals repeat the story as fact.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1873"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/blues/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Handy was a trained bandleader who encountered the blues already being played by Black musicians in the Mississippi Delta around 1903 — a slide guitarist at the Tutwiler station and a string band in Cleveland, Mississippi — and only then worked it into his repertoire. He wrote down and combined fragments of melodies and lyrics he heard from itinerant performers, arranged them as published songs, and made the music a national craze; the \"Father of the Blues\" title, which he used for his 1941 autobiography, honored him as its popularizer.",
@@ -7490,6 +7641,132 @@
     "@id": "https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html"
    },
    "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History: June 14",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/june-14"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Museum of the American Revolution (Marla R. Miller)",
+   "dcterms:title": "Betsy Ross",
+   "schema:url": {
+    "@id": "https://www.amrevmuseum.org/read-the-revolution/betsy-ross"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Colonial Williamsburg Foundation",
+   "dcterms:title": "What Was the First American Flag?",
+   "schema:url": {
+    "@id": "https://www.colonialwilliamsburg.org/discover/moments-in-history/making-a-nation/what-was-the-first-american-flag/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Colonial Williamsburg Journal (Ed Crews, Summer 2008)",
+   "dcterms:title": "Betsy Ross",
+   "schema:url": {
+    "@id": "https://podcasts.history.org/Foundation/journal/Summer08/betsy.cfm"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Betsy Ross House, Historic Philadelphia, Inc.",
+   "dcterms:title": "Did She or Didn't She?",
+   "schema:url": {
+    "@id": "https://historicphiladelphia.org/stories/did-she-or-didnt-she/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of American History",
+   "dcterms:title": "The Star-Spangled Banner — Resources: FAQs",
+   "schema:url": {
+    "@id": "https://amhistory.si.edu/starspangledbanner/faqs.aspx"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "National Geographic",
+   "dcterms:title": "Betsy Ross likely didn't sew the first U.S. flag",
+   "schema:url": {
+    "@id": "https://www.nationalgeographic.com/history/article/betsy-ross-likely-didnt-sew-the-first-us-flag"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "Peter Ansoff, North American Vexillological Association",
+   "dcterms:title": "Hopkinson and Betsy Ross Flags",
+   "schema:url": {
+    "@id": "https://www.virginiasar.org/assets/COLOR_GUARD/Hopkinson%20and%20Betsy%20Ross%20Flags_Peter_Ansoff.pdf"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "dcterms:publisher": "J. Franklin Reigart, via Project Gutenberg",
+   "dcterms:title": "The History of the First United States Flag and the Patriotism of Betsy Ross (1878)",
+   "schema:url": {
+    "@id": "https://Gutenberg.org/ebooks/51088.html.images"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/blues/s1",
@@ -16206,6 +16483,162 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:betsy-ross-flag-myth",
+   "@type": "uso:Myth",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-14"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9"
+    }
+   ],
+   "rdfs:label": "Betsy Ross flag myth",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   },
+   "skos:altLabel": [
+    "Betsy Ross and the first flag",
+    "Betsy Ross legend"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:flag-of-the-united-states"
+    },
+    {
+     "@id": "us:national-symbols-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The popular story that Philadelphia upholsterer Betsy Ross designed and sewed the first Stars and Stripes at George Washington's request in 1776, a family tradition first made public by her grandson in 1870 that no contemporary document supports.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "Betsy Ross flag myth",
+   "skos:related": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:betsy-ross"
+    },
+    {
+     "@id": "us:birth-of-our-nations-flag"
+    },
+    {
+     "@id": "us:flag-day"
+    },
+    {
+     "@id": "us:francis-hopkinson"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:liberty-bell"
+    },
+    {
+     "@id": "us:mary-pickersgill"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    }
+   ],
+   "uso:challengedBy": [
+    {
+     "@id": "us:flag-resolution-of-1777"
+    },
+    {
+     "@id": "us:francis-hopkinson"
+    }
+   ],
+   "uso:domain": "symbols-and-national-identity",
+   "uso:evidenceStatus": "myth",
+   "uso:file": "articles/symbols-and-national-identity/betsy-ross-flag-myth.md",
+   "uso:introducedBy": {
+    "@id": "us:william-j-canby"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:philadelphia"
+   },
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9"
     }
    ]
   },

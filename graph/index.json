@@ -925,6 +925,185 @@
   ]
  },
  {
+  "id": "us:betsy-ross-flag-myth",
+  "title": "Betsy Ross flag myth",
+  "aliases": [
+   "Betsy Ross legend",
+   "Betsy Ross and the first flag"
+  ],
+  "type": "Myth",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "myth",
+  "file": "articles/symbols-and-national-identity/betsy-ross-flag-myth.md",
+  "created": "2026-11-14",
+  "summary": "The popular story that Philadelphia upholsterer Betsy Ross designed and sewed the first Stars and Stripes at George Washington's request in 1776, a family tradition first made public by her grandson in 1870 that no contemporary document supports.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:betsy-ross"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francis-hopkinson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-day"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:birth-of-our-nations-flag"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mary-pickersgill"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:flag-resolution-of-1777",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:francis-hopkinson",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:william-j-canby",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:philadelphia",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": "1870",
+  "end": null,
+  "review": [
+   {
+    "question": "Why do historians doubt that Betsy Ross made the first flag at Washington's request in 1776?",
+    "answer": "The story first appeared in 1870, almost a century later and 34 years after Ross died, and rests on family recollections from people who had not witnessed the events. No document records a congressional flag committee in 1776 or any dealing between Washington and Ross, and Congress did not adopt a flag until June 14, 1777. Even Canby's own research found no supporting documents."
+   },
+   {
+    "question": "How did a family story become a national legend between 1870 and 1909?",
+    "answer": "Canby's 1870 paper was repeated by national journals by 1873, embellished in books such as Reigart's 1878 history, and dramatized in Charles Weisgerber's painting, which crowds saw at the 1893 Chicago fair and which was reproduced widely. The flag was becoming a revered symbol after the Civil War, and the 1909 book by Canby's relatives, school lessons and toys fixed the story in memory."
+   },
+   {
+    "question": "What does the documentary record actually show about Betsy Ross's work?",
+    "answer": "She ran an upholstery business, was paid by the Pennsylvania State Navy Board in May 1777 for making ship's colours, and went on making flags for decades, including many under government contracts around the War of 1812. Historian Marla Miller calls her one of Philadelphia's most important flag makers of the Revolution, alongside others such as Rebecca Young, Margaret Manney and Sarah Barry."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1752",
+    "event": "Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker."
+   },
+   {
+    "date": "1773",
+    "event": "She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting."
+   },
+   {
+    "date": "1776-01-01",
+    "event": "The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts."
+   },
+   {
+    "date": "1777-05-29",
+    "event": "The Pennsylvania State Navy Board pays Ross for making ship's colours, her earliest documented flag work."
+   },
+   {
+    "date": "1777-06-14",
+    "event": "The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue."
+   },
+   {
+    "date": "1780",
+    "event": "Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused."
+   },
+   {
+    "date": "1836",
+    "event": "Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old."
+   },
+   {
+    "date": "1870",
+    "event": "William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag."
+   },
+   {
+    "date": "1873",
+    "event": "Harper's Weekly and other national journals repeat the story as fact."
+   },
+   {
+    "date": "1878",
+    "event": "J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag."
+   },
+   {
+    "date": "1893",
+    "event": "Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced."
+   },
+   {
+    "date": "1909",
+    "event": "Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory."
+   },
+   {
+    "date": "1916",
+    "event": "President Woodrow Wilson proclaims a national Flag Day on June 14."
+   }
+  ],
+  "misconception": {
+   "myth": "George Washington asked Betsy Ross to design and sew the first Stars and Stripes in 1776, and she did, adding five-pointed stars in a circle.",
+   "fact": "No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers.",
+   "why": "The story entered print in 1870 from family memory, then spread through a widely copied 1893 painting, school lessons and patriotic tourism because it offered a founding heroine for a newly revered symbol."
+  },
+  "source_urls": [
+   "https://www.loc.gov/item/today-in-history/june-14",
+   "https://www.amrevmuseum.org/read-the-revolution/betsy-ross",
+   "https://www.colonialwilliamsburg.org/discover/moments-in-history/making-a-nation/what-was-the-first-american-flag/",
+   "https://podcasts.history.org/Foundation/journal/Summer08/betsy.cfm",
+   "https://historicphiladelphia.org/stories/did-she-or-didnt-she/",
+   "https://amhistory.si.edu/starspangledbanner/faqs.aspx",
+   "https://www.nationalgeographic.com/history/article/betsy-ross-likely-didnt-sew-the-first-us-flag",
+   "https://www.virginiasar.org/assets/COLOR_GUARD/Hopkinson%20and%20Betsy%20Ross%20Flags_Peter_Ansoff.pdf",
+   "https://Gutenberg.org/ebooks/51088.html.images"
+  ]
+ },
+ {
   "id": "us:blues",
   "title": "Blues",
   "aliases": [

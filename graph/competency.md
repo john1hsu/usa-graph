@@ -103,6 +103,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:thomas-jefferson` | interpretive |  |
 | `us:united-states-constitution` | interpretive |  |
 | `us:war-in-afghanistan` | interpretive |  |
+| `us:betsy-ross-flag-myth` | myth | `us:flag-resolution-of-1777` |
+| `us:betsy-ross-flag-myth` | myth | `us:francis-hopkinson` |
 
 ## Places with nothing tied to them (gap)
 

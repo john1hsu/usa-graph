@@ -900,6 +900,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## symbols-and-national-identity
 
+### [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) — Myth
+
+| Myth | Fact |
+|---|---|
+| George Washington asked Betsy Ross to design and sew the first Stars and Stripes in 1776, and she did, adding five-pointed stars in a circle. | No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers. |
+
+**Why it matters:** The story entered print in 1870 from family memory, then spread through a widely copied 1893 painting, school lessons and patriotic tourism because it offered a founding heroine for a newly revered symbol.
+
+- **Q:** Why do historians doubt that Betsy Ross made the first flag at Washington's request in 1776?
+  **A:** The story first appeared in 1870, almost a century later and 34 years after Ross died, and rests on family recollections from people who had not witnessed the events. No document records a congressional flag committee in 1776 or any dealing between Washington and Ross, and Congress did not adopt a flag until June 14, 1777. Even Canby's own research found no supporting documents.
+- **Q:** How did a family story become a national legend between 1870 and 1909?
+  **A:** Canby's 1870 paper was repeated by national journals by 1873, embellished in books such as Reigart's 1878 history, and dramatized in Charles Weisgerber's painting, which crowds saw at the 1893 Chicago fair and which was reproduced widely. The flag was becoming a revered symbol after the Civil War, and the 1909 book by Canby's relatives, school lessons and toys fixed the story in memory.
+- **Q:** What does the documentary record actually show about Betsy Ross's work?
+  **A:** She ran an upholstery business, was paid by the Pennsylvania State Navy Board in May 1777 for making ship's colours, and went on making flags for decades, including many under government contracts around the War of 1812. Historian Marla Miller calls her one of Philadelphia's most important flag makers of the Revolution, alongside others such as Rebecca Young, Margaret Manney and Sarah Barry.
+
 ### [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) — Symbol
 
 | Myth | Fact |

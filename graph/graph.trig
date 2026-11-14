@@ -661,6 +661,18 @@
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states/s17> .
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states/s18> .
 <https://github.com/john1hsu/usa-graph/id/united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/united-states/s19> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/symbols-and-national-identity/betsy-ross-flag-myth.md" .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> .
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> .
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/symbols-and-national-identity/liberty-bell.md" .
@@ -9718,6 +9730,171 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://schema.org/startDate> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth#graph> {
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "George Washington asked Betsy Ross to design and sew the first Stars and Stripes in 1776, and she did, adding five-pointed stars in a circle." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The story entered print in 1870 from family memory, then spread through a widely copied 1893 painting, school lessons and patriotic tourism because it offered a founding heroine for a newly revered symbol." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians doubt that Betsy Ross made the first flag at Washington's request in 1776?" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The story first appeared in 1870, almost a century later and 34 years after Ross died, and rests on family recollections from people who had not witnessed the events. No document records a congressional flag committee in 1776 or any dealing between Washington and Ross, and Congress did not adopt a flag until June 14, 1777. Even Canby's own research found no supporting documents." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did a family story become a national legend between 1870 and 1909?" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Canby's 1870 paper was repeated by national journals by 1873, embellished in books such as Reigart's 1878 history, and dramatized in Charles Weisgerber's painting, which crowds saw at the 1893 Chicago fair and which was reproduced widely. The flag was becoming a revered symbol after the Civil War, and the 1909 book by Canby's relatives, school lessons and toys fixed the story in memory." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does the documentary record actually show about Betsy Ross's work?" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "She ran an upholstery business, was paid by the Pennsylvania State Navy Board in May 1777 for making ship's colours, and went on making flags for decades, including many under government contracts around the War of 1812. Historian Marla Miller calls her one of Philadelphia's most important flag makers of the Revolution, alongside others such as Rebecca Young, Margaret Manney and Sarah Barry." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1878"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "President Woodrow Wilson proclaims a national Flag Day on June 14." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1752"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1773"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Pennsylvania State Navy Board pays Ross for making ship's colours, her earliest documented flag work." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1780"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1836"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Harper's Weekly and other national journals repeat the story as fact." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1873"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://purl.org/dc/terms/created> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Myth> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2000/01/rdf-schema#label> "Betsy Ross flag myth" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#altLabel> "Betsy Ross and the first flag" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#altLabel> "Betsy Ross legend" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#definition> "The popular story that Philadelphia upholsterer Betsy Ross designed and sewed the first Stars and Stripes at George Washington's request in 1776, a family tradition first made public by her grandson in 1870 that no contemporary document supports." .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#prefLabel> "Betsy Ross flag myth" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/birth-of-our-nations-flag> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-day> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mary-pickersgill> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#challengedBy> <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#challengedBy> <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#domain> "symbols-and-national-identity" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "myth" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/symbols-and-national-identity/betsy-ross-flag-myth.md" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/william-j-canby> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://schema.org/startDate> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <http://purl.org/dc/terms/title> "Today in History: June 14" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/june-14> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <http://purl.org/dc/terms/publisher> "Museum of the American Revolution (Marla R. Miller)" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <http://purl.org/dc/terms/title> "Betsy Ross" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s2> <https://schema.org/url> <https://www.amrevmuseum.org/read-the-revolution/betsy-ross> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <http://purl.org/dc/terms/publisher> "Colonial Williamsburg Foundation" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <http://purl.org/dc/terms/title> "What Was the First American Flag?" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s3> <https://schema.org/url> <https://www.colonialwilliamsburg.org/discover/moments-in-history/making-a-nation/what-was-the-first-american-flag/> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <http://purl.org/dc/terms/publisher> "Colonial Williamsburg Journal (Ed Crews, Summer 2008)" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <http://purl.org/dc/terms/title> "Betsy Ross" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s4> <https://schema.org/url> <https://podcasts.history.org/Foundation/journal/Summer08/betsy.cfm> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <http://purl.org/dc/terms/publisher> "Betsy Ross House, Historic Philadelphia, Inc." .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <http://purl.org/dc/terms/title> "Did She or Didn't She?" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s5> <https://schema.org/url> <https://historicphiladelphia.org/stories/did-she-or-didnt-she/> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of American History" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <http://purl.org/dc/terms/title> "The Star-Spangled Banner — Resources: FAQs" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s6> <https://schema.org/url> <https://amhistory.si.edu/starspangledbanner/faqs.aspx> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <http://purl.org/dc/terms/publisher> "National Geographic" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <http://purl.org/dc/terms/title> "Betsy Ross likely didn't sew the first U.S. flag" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s7> <https://schema.org/url> <https://www.nationalgeographic.com/history/article/betsy-ross-likely-didnt-sew-the-first-us-flag> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <http://purl.org/dc/terms/publisher> "Peter Ansoff, North American Vexillological Association" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <http://purl.org/dc/terms/title> "Hopkinson and Betsy Ross Flags" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s8> <https://schema.org/url> <https://www.virginiasar.org/assets/COLOR_GUARD/Hopkinson%20and%20Betsy%20Ross%20Flags_Peter_Ansoff.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <http://purl.org/dc/terms/publisher> "J. Franklin Reigart, via Project Gutenberg" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <http://purl.org/dc/terms/title> "The History of the First United States Flag and the Patriotism of Betsy Ross (1878)" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s9> <https://schema.org/url> <https://Gutenberg.org/ebooks/51088.html.images> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> {
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s." .
@@ -10026,7 +10203,9 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -10100,8 +10279,32 @@
   <https://github.com/john1hsu/usa-graph/id/battles-of-lexington-and-concord> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/bessie-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/birth-of-our-nations-flag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/black-codes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -10517,6 +10720,10 @@
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -10567,6 +10774,8 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
@@ -10655,6 +10864,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -11081,6 +11291,7 @@
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/los-angeles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/lost-cause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -11146,6 +11357,7 @@
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/mary-pickersgill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
@@ -11281,7 +11493,9 @@
   <https://github.com/john1hsu/usa-graph/id/national-grasslands> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/national-guard-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/native-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/native-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -11493,6 +11707,7 @@
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -11502,6 +11717,7 @@
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/philadelphia> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
@@ -11623,6 +11839,7 @@
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -11808,6 +12025,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
@@ -12155,6 +12373,9 @@
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/william-j-canby> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/william-penn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/william-penn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/william-penn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
