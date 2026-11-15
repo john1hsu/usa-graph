@@ -2979,6 +2979,153 @@
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/deathDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/endDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/startDate> "1822"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Native Hawaiians accepted annexation, and Hawaiʻi joined the United States through a ratified treaty." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The petitions were long absent from Hawaiian history books and few people knew they existed until a scholar found them in the National Archives, while the 1959 statehood referendum is easily read back onto 1898." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Hawaiʻi annexed by a joint resolution of Congress rather than by treaty?" .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "A treaty needed a two-thirds Senate vote, and after more than 21,000 Native Hawaiians petitioned against annexation, only 46 senators would support the 1897 treaty. When the Spanish–American War revived interest in the islands, supporters used a joint resolution, which needed only simple majorities, and McKinley signed it on July 7, 1898." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the sugar plantation economy change who lived in Hawaiʻi?" .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Planters recruited contract laborers from Japan, China, the Philippines, Portugal and elsewhere, while disease after Western contact sharply reduced the Native Hawaiian population. Native Hawaiians fell from 97 percent of the population in 1853 to 16 percent in 1923, when people of Japanese ancestry were the largest group." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did statehood take until 1959, and how was it tied to Alaska?" .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Territorial requests for statehood began in 1903 and a 1937 congressional committee found Hawaiʻi qualified, but plantation interests, the Pearl Harbor attack and Senate inaction delayed it. Congress paired Hawaiʻi with Alaska; once Alaska was admitted in early 1959, Hawaiʻi's bill passed in March, voters accepted it in June, and it became the fiftieth state on August 21, 1959." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What does the 1993 Apology Resolution do, and what does it not do?" .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It acknowledges that U.S. agents and citizens took part in the 1893 overthrow and apologizes for depriving Native Hawaiians of self-determination, but it states that it does not settle any claims against the United States." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1897-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The United States formally annexes Hawaiʻi." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1898-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1946-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "President Eisenhower signs the statehood act passed by Congress." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1959-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1959-08-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "Voters approve a constitutional amendment making English and Hawaiian the state's official languages." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1978-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150)." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1993-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 1,455,271 residents, 7.0 percent more than in 2010." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "British captain James Cook reaches the islands." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1778"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1791"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Kamehameha I unites the islands into one kingdom after Kauaʻi comes under his rule." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1810"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1819"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1826-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1875-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1887"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani." .
+<https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1893-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#State> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#altLabel> "Hawaiʻi" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#altLabel> "State of Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#altLabel> "Territory of Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#definition> "The fiftieth U.S. state (admitted August 21, 1959), a volcanic island chain in the north Pacific settled by Polynesian voyagers centuries before European contact; an independent Native Hawaiian kingdom until a U.S.-backed overthrow in 1893, it was annexed by joint resolution in 1898 over petitions signed by more than half of Native Hawaiians and governed as a territory until statehood." .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/apology-resolution> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/duncan-v-kahanamoku> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/honolulu> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kamehameha-i> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kingdom-of-hawaii> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kue-petitions> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liliuokalani> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-hawaiians> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/newlands-resolution> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/overthrow-of-the-hawaiian-kingdom> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spanish-american-war> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#domain> "states-and-territories" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/hawaii-admission-act> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/states-and-territories/hawaii.md" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/pacific-ocean> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/hawaii/misconception> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/hawaii> <https://schema.org/startDate> "1959-08-21"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying." .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "William Henry Jackson's photographs, laid on the desk of every member of Congress, persuaded Congress to create Yellowstone National Park." .
@@ -7573,6 +7720,90 @@
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://schema.org/url> <https://www.nps.gov/hatu/learn/management/index.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/publisher> "Library of Congress, Classroom Materials" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/title> "Hawaii: Life in a Plantation Society" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <https://schema.org/url> <https://www.loc.gov/classroom-materials/immigration/japanese/hawaii-life-in-a-plantation-society> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <http://purl.org/dc/terms/publisher> "Densho Encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <http://purl.org/dc/terms/title> "Duncan v. Kahanamoku" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s11> <https://schema.org/url> <https://encyclopedia.densho.org/Duncan_v._Kahanamoku/> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <http://purl.org/dc/terms/publisher> "Smithsonian, National Portrait Gallery" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <http://purl.org/dc/terms/title> "The 1897 Petition Against the Annexation of Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s12> <https://schema.org/url> <https://npg.si.edu/1897-petition-against-annexation-hawaii> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <http://purl.org/dc/terms/publisher> "Pew Research Center" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <http://purl.org/dc/terms/title> "Native Hawaiian population makes a comeback" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s13> <https://schema.org/url> <https://www.pewresearch.org/short-reads/2015/04/06/native-hawaiian-population/markdown> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <http://purl.org/dc/terms/publisher> "Hawaii State Legislature" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <http://purl.org/dc/terms/title> "Constitution of the State of Hawaii, Article XV, Section 4: Official Languages" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s14> <https://schema.org/url> <https://data.capitol.hawaii.gov/hrsarchive/hrs1999/Vol01/Const/CONST_15-4.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <http://purl.org/dc/terms/title> "Joint Resolution for Annexing the Hawaiian Islands (1898)" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/joint-resolution-for-annexing-the-hawaiian-islands> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <http://purl.org/dc/terms/publisher> "U.S. Congress (Congress.gov)" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <http://purl.org/dc/terms/title> "Public Law 103-150 (Apology Resolution), 107 Stat. 1510" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s2> <https://schema.org/url> <https://www.congress.gov/103/statute/STATUTE-107/STATUTE-107-Pg1510.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <http://purl.org/dc/terms/title> "A Guide to the United States' History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776: Hawaii" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s3> <https://schema.org/url> <https://history.state.gov/countries/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <http://purl.org/dc/terms/publisher> "National Archives, The Text Message / Prologue blog" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <http://purl.org/dc/terms/title> "Hawaii's long road to statehood" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s4> <https://schema.org/url> <https://prologue.blogs.archives.gov/2017/08/21/hawaiis-long-road-to-statehood> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <http://purl.org/dc/terms/publisher> "National Archives, Prologue blog" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <http://purl.org/dc/terms/title> "Protesting Statehood: Hawaiian Women's Petition Against Annexation" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s5> <https://schema.org/url> <https://prologue.blogs.archives.gov/2022/07/07/protesting-statehood-hawaiian-womens-petition-against-annexation/> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <http://purl.org/dc/terms/publisher> "National Park Service, Hawaiʻi Volcanoes National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <http://purl.org/dc/terms/title> "The First Hawaiians" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s6> <https://schema.org/url> <https://www.nps.gov/havo/learn/historyculture/native-hawaiians.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <http://purl.org/dc/terms/title> "Puʻukoholā Heiau" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s7> <https://schema.org/url> <https://www.nps.gov/articles/puheiau.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Hawaiian Volcano Observatory" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <http://purl.org/dc/terms/title> "Volcano Watch: Island of Hawaii sits at the end of a long, old chain of 125 volcanoes" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s8> <https://schema.org/url> <https://www.usgs.gov/news/volcano-watch-island-hawaii-sits-end-a-long-old-chain-125-volcanoes> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <http://purl.org/dc/terms/publisher> "State of Hawaii, Department of Business, Economic Development & Tourism" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <http://purl.org/dc/terms/title> "Census 2020" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hawaii/s9> <https://schema.org/url> <https://census.hawaii.gov/?p=6936> .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/publisher> "National Archives" .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/title> "The First National Park: Yellowstone and the Hayden Survey" .

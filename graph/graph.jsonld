@@ -4064,6 +4064,229 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898.",
+   "uso:myth": "Native Hawaiians accepted annexation, and Hawaiʻi joined the United States through a ratified treaty.",
+   "uso:why": "The petitions were long absent from Hawaiian history books and few people knew they existed until a scholar found them in the National Archives, while the 1959 statehood referendum is easily read back onto 1898."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was Hawaiʻi annexed by a joint resolution of Congress rather than by treaty?",
+   "uso:answer": "A treaty needed a two-thirds Senate vote, and after more than 21,000 Native Hawaiians petitioned against annexation, only 46 senators would support the 1897 treaty. When the Spanish–American War revived interest in the islands, supporters used a joint resolution, which needed only simple majorities, and McKinley signed it on July 7, 1898.",
+   "uso:questionFor": {
+    "@id": "us:hawaii"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the sugar plantation economy change who lived in Hawaiʻi?",
+   "uso:answer": "Planters recruited contract laborers from Japan, China, the Philippines, Portugal and elsewhere, while disease after Western contact sharply reduced the Native Hawaiian population. Native Hawaiians fell from 97 percent of the population in 1853 to 16 percent in 1923, when people of Japanese ancestry were the largest group.",
+   "uso:questionFor": {
+    "@id": "us:hawaii"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did statehood take until 1959, and how was it tied to Alaska?",
+   "uso:answer": "Territorial requests for statehood began in 1903 and a 1937 congressional committee found Hawaiʻi qualified, but plantation interests, the Pearl Harbor attack and Senate inaction delayed it. Congress paired Hawaiʻi with Alaska; once Alaska was admitted in early 1959, Hawaiʻi's bill passed in March, voters accepted it in June, and it became the fiftieth state on August 21, 1959.",
+   "uso:questionFor": {
+    "@id": "us:hawaii"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What does the 1993 Apology Resolution do, and what does it not do?",
+   "uso:answer": "It acknowledges that U.S. agents and citizens took part in the 1893 overthrow and apologizes for depriving Native Hawaiians of self-determination, but it states that it does not settle any claims against the United States.",
+   "uso:questionFor": {
+    "@id": "us:hawaii"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1000"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1897-09-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-07-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States formally annexes Hawaiʻi.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-08-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1946-02-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Eisenhower signs the statehood act passed by Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-03-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-08-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Voters approve a constitutional amendment making English and Hawaiian the state's official languages.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1978-11-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1993-11-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British captain James Cook reaches the islands.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1778"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 1,455,271 residents, 7.0 percent more than in 2010.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1791"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kamehameha I unites the islands into one kingdom after Kauaʻi comes under his rule.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1810"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1819"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1826-12-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1875-01-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1887"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1893-01-17"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying.",
@@ -11942,6 +12165,202 @@
    "dcterms:title": "Management — Harriet Tubman Underground Railroad National Historical Park",
    "schema:url": {
     "@id": "https://www.nps.gov/hatu/learn/management/index.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Joint Resolution for Annexing the Hawaiian Islands (1898)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/joint-resolution-for-annexing-the-hawaiian-islands"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, Classroom Materials",
+   "dcterms:title": "Hawaii: Life in a Plantation Society",
+   "schema:url": {
+    "@id": "https://www.loc.gov/classroom-materials/immigration/japanese/hawaii-life-in-a-plantation-society"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Densho Encyclopedia",
+   "dcterms:title": "Duncan v. Kahanamoku",
+   "schema:url": {
+    "@id": "https://encyclopedia.densho.org/Duncan_v._Kahanamoku/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Smithsonian, National Portrait Gallery",
+   "dcterms:title": "The 1897 Petition Against the Annexation of Hawaii",
+   "schema:url": {
+    "@id": "https://npg.si.edu/1897-petition-against-annexation-hawaii"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Pew Research Center",
+   "dcterms:title": "Native Hawaiian population makes a comeback",
+   "schema:url": {
+    "@id": "https://www.pewresearch.org/short-reads/2015/04/06/native-hawaiian-population/markdown"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Hawaii State Legislature",
+   "dcterms:title": "Constitution of the State of Hawaii, Article XV, Section 4: Official Languages",
+   "schema:url": {
+    "@id": "https://data.capitol.hawaii.gov/hrsarchive/hrs1999/Vol01/Const/CONST_15-4.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Congress (Congress.gov)",
+   "dcterms:title": "Public Law 103-150 (Apology Resolution), 107 Stat. 1510",
+   "schema:url": {
+    "@id": "https://www.congress.gov/103/statute/STATUTE-107/STATUTE-107-Pg1510.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "A Guide to the United States' History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776: Hawaii",
+   "schema:url": {
+    "@id": "https://history.state.gov/countries/hawaii"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, The Text Message / Prologue blog",
+   "dcterms:title": "Hawaii's long road to statehood",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2017/08/21/hawaiis-long-road-to-statehood"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, Prologue blog",
+   "dcterms:title": "Protesting Statehood: Hawaiian Women's Petition Against Annexation",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2022/07/07/protesting-statehood-hawaiian-womens-petition-against-annexation/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Hawaiʻi Volcanoes National Park",
+   "dcterms:title": "The First Hawaiians",
+   "schema:url": {
+    "@id": "https://www.nps.gov/havo/learn/historyculture/native-hawaiians.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Puʻukoholā Heiau",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/puheiau.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Hawaiian Volcano Observatory",
+   "dcterms:title": "Volcano Watch: Island of Hawaii sits at the end of a long, old chain of 125 volcanoes",
+   "schema:url": {
+    "@id": "https://www.usgs.gov/news/volcano-watch-island-hawaii-sits-end-a-long-old-chain-125-volcanoes"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "State of Hawaii, Department of Business, Economic Development & Tourism",
+   "dcterms:title": "Census 2020",
+   "schema:url": {
+    "@id": "https://census.hawaii.gov/?p=6936"
    },
    "uso:sourceType": "government"
   },
@@ -24088,6 +24507,200 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:hawaii",
+   "@type": "uso:State",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s9"
+    }
+   ],
+   "rdfs:label": "Hawaii",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1959-08-21"
+   },
+   "skos:altLabel": [
+    "Hawaiʻi",
+    "State of Hawaii",
+    "Territory of Hawaii"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states"
+   },
+   "skos:definition": "The fiftieth U.S. state (admitted August 21, 1959), a volcanic island chain in the north Pacific settled by Polynesian voyagers centuries before European contact; an independent Native Hawaiian kingdom until a U.S.-backed overthrow in 1893, it was annexed by joint resolution in 1898 over petitions signed by more than half of Native Hawaiians and governed as a territory until statehood.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories"
+   },
+   "skos:prefLabel": "Hawaii",
+   "skos:related": [
+    {
+     "@id": "us:alaska"
+    },
+    {
+     "@id": "us:apology-resolution"
+    },
+    {
+     "@id": "us:attack-on-pearl-harbor"
+    },
+    {
+     "@id": "us:duncan-v-kahanamoku"
+    },
+    {
+     "@id": "us:honolulu"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:kamehameha-i"
+    },
+    {
+     "@id": "us:kingdom-of-hawaii"
+    },
+    {
+     "@id": "us:kue-petitions"
+    },
+    {
+     "@id": "us:liliuokalani"
+    },
+    {
+     "@id": "us:native-hawaiians"
+    },
+    {
+     "@id": "us:newlands-resolution"
+    },
+    {
+     "@id": "us:overthrow-of-the-hawaiian-kingdom"
+    },
+    {
+     "@id": "us:spanish-american-war"
+    }
+   ],
+   "uso:domain": "states-and-territories",
+   "uso:establishedBy": {
+    "@id": "us:hawaii-admission-act"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/states-and-territories/hawaii.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:pacific-ocean"
+    },
+    {
+     "@id": "us:united-states"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/timeline/9"
     }
    ]
   },

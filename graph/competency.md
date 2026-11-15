@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:roosevelt-corollary` | 2 | dominican-customs-receivership, united-states-occupation-of-haiti |
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 
-…and 30 more.
+…and 31 more.
 
 ## Happenings by era
 
@@ -115,7 +115,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:hawaii` | uso:State |
 
 ## Orphan articles (gap)
 
@@ -174,6 +176,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:fourteenth-amendment` | `us:census-and-apportionment` |
 | `us:fourteenth-amendment` | `us:due-process` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
+| `us:hawaii-admission-act` | `us:hawaii` |
 | `us:hay-bunau-varilla-treaty` | `us:panama-canal` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |

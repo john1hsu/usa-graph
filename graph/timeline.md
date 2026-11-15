@@ -4,6 +4,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 
 | Date | What |
 |---|---|
+| 1000 | By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1050 | Cahokia, east of present-day St. Louis, undergoes a rapid political and social transformation; its population grows almost fivefold in a generation. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
@@ -84,6 +85,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-11-15 | Congress adopts the Articles of Confederation, whose first article names the confederacy "The United States of America." — [United States](../articles/states-and-territories/united-states.md) |
 | 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1778 | British captain James Cook reaches the islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1778 | The United States begins making treaties with Native nations; the Senate ratifies 370 of them by 1871. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1778 | The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1778-02-06 | American commissioners sign the Treaty of Alliance and the Treaty of Amity and Commerce with France. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -162,6 +164,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-08-02 | U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1791 | Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1791-08-03 | The Court issues its first opinion, in West v. Barnes. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
@@ -210,6 +213,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1810 | Bought by John Dumont of West Park, New York, after being sold three times as a child. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1810 | Kamehameha I unites the islands into one kingdom after Kauaʻi comes under his rule. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | The state capital moves to Harrisburg, after a stay in Lancaster from 1799. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -221,6 +225,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1819 | Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1819-12 | The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -245,6 +250,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1826-12-23 | A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1827 | Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1827-07-04 | New York's emancipation law takes effect. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
@@ -461,6 +467,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1875-01-30 | The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
@@ -499,6 +506,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1886-08-20 | The U.S. Army takes charge of the park after Congress declines to fund its civilian administration. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1887 | White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -515,6 +523,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -530,13 +539,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1897-08-21 | Pennsylvania enacts the Campbell Act, a tax of three cents a day on coal operators for each non-citizen they employ. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1897-09-10 | **[Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md)** (Event) |
 | 1897-09-10 | Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1897-09-11 | Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-07-01 | Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1898-07-07 | President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1898-08-12 | The United States formally annexes Hawaiʻi. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898-12-19 | Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii. — [United States](../articles/states-and-territories/united-states.md) |
 | 1899-01-19 | Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1900 | Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1900 | The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1900 | The Wrights begin testing gliders on the Outer Banks near Kitty Hawk, whose weather station had answered their inquiry about steady winds and open sand. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
@@ -733,6 +746,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-11-15 | Congress adopts the method of equal proportions for all future apportionments. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1941-11-24 | In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states. — [Okies](../articles/society-and-people/okies.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1941-12-07 | On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -749,6 +763,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -794,7 +809,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
+| 1959-03-18 | President Eisenhower signs the statehood act passed by Congress. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1959-08-21 | **[Hawaii](../articles/states-and-territories/hawaii.md)** (State) |
+| 1959-08-21 | Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -847,6 +865,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1978 | Yellowstone becomes the first U.S. site on the UNESCO World Heritage List. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1978-03-16 | The Senate approves the Neutrality Treaty, 68 to 32. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1978-11-07 | Voters approve a constitutional amendment making English and Hawaiian the state's official languages. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -861,6 +880,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
@@ -928,6 +948,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The 2020 census counts 3.7 million people who identify as American Indian and Alaska Native alone and 9.7 million alone or in combination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2020-04-01 | The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 2020-04-01 | The census counts 1,455,271 residents, 7.0 percent more than in 2010. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

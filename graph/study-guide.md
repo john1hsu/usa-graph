@@ -1088,6 +1088,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## states-and-territories
 
+### [Hawaii](../articles/states-and-territories/hawaii.md) — State
+
+| Myth | Fact |
+|---|---|
+| Native Hawaiians accepted annexation, and Hawaiʻi joined the United States through a ratified treaty. | More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898. |
+
+**Why it matters:** The petitions were long absent from Hawaiian history books and few people knew they existed until a scholar found them in the National Archives, while the 1959 statehood referendum is easily read back onto 1898.
+
+- **Q:** Why was Hawaiʻi annexed by a joint resolution of Congress rather than by treaty?
+  **A:** A treaty needed a two-thirds Senate vote, and after more than 21,000 Native Hawaiians petitioned against annexation, only 46 senators would support the 1897 treaty. When the Spanish–American War revived interest in the islands, supporters used a joint resolution, which needed only simple majorities, and McKinley signed it on July 7, 1898.
+- **Q:** How did the sugar plantation economy change who lived in Hawaiʻi?
+  **A:** Planters recruited contract laborers from Japan, China, the Philippines, Portugal and elsewhere, while disease after Western contact sharply reduced the Native Hawaiian population. Native Hawaiians fell from 97 percent of the population in 1853 to 16 percent in 1923, when people of Japanese ancestry were the largest group.
+- **Q:** Why did statehood take until 1959, and how was it tied to Alaska?
+  **A:** Territorial requests for statehood began in 1903 and a 1937 congressional committee found Hawaiʻi qualified, but plantation interests, the Pearl Harbor attack and Senate inaction delayed it. Congress paired Hawaiʻi with Alaska; once Alaska was admitted in early 1959, Hawaiʻi's bill passed in March, voters accepted it in June, and it became the fiftieth state on August 21, 1959.
+- **Q:** What does the 1993 Apology Resolution do, and what does it not do?
+  **A:** It acknowledges that U.S. agents and citizens took part in the 1893 overthrow and apologizes for depriving Native Hawaiians of self-determination, but it states that it does not settle any claims against the United States.
+
 ### [Pennsylvania](../articles/states-and-territories/pennsylvania.md) — State
 
 | Myth | Fact |

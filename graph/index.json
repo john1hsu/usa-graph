@@ -4986,6 +4986,225 @@
   ]
  },
  {
+  "id": "us:hawaii",
+  "title": "Hawaii",
+  "aliases": [
+   "Hawaiʻi",
+   "State of Hawaii",
+   "Territory of Hawaii"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/hawaii.md",
+  "created": "2026-11-15",
+  "summary": "The fiftieth U.S. state (admitted August 21, 1959), a volcanic island chain in the north Pacific settled by Polynesian voyagers centuries before European contact; an independent Native Hawaiian kingdom until a U.S.-backed overthrow in 1893, it was annexed by joint resolution in 1898 over petitions signed by more than half of Native Hawaiians and governed as a territory until statehood.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kingdom-of-hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:overthrow-of-the-hawaiian-kingdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liliuokalani"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kamehameha-i"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kue-petitions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:newlands-resolution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:apology-resolution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-hawaiians"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:duncan-v-kahanamoku"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:attack-on-pearl-harbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spanish-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:honolulu"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:hawaii-admission-act",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:pacific-ocean",
+    "source": "s8",
+    "confidence": "high"
+   }
+  ],
+  "start": "1959-08-21",
+  "end": null,
+  "review": [
+   {
+    "question": "Why was Hawaiʻi annexed by a joint resolution of Congress rather than by treaty?",
+    "answer": "A treaty needed a two-thirds Senate vote, and after more than 21,000 Native Hawaiians petitioned against annexation, only 46 senators would support the 1897 treaty. When the Spanish–American War revived interest in the islands, supporters used a joint resolution, which needed only simple majorities, and McKinley signed it on July 7, 1898."
+   },
+   {
+    "question": "How did the sugar plantation economy change who lived in Hawaiʻi?",
+    "answer": "Planters recruited contract laborers from Japan, China, the Philippines, Portugal and elsewhere, while disease after Western contact sharply reduced the Native Hawaiian population. Native Hawaiians fell from 97 percent of the population in 1853 to 16 percent in 1923, when people of Japanese ancestry were the largest group."
+   },
+   {
+    "question": "Why did statehood take until 1959, and how was it tied to Alaska?",
+    "answer": "Territorial requests for statehood began in 1903 and a 1937 congressional committee found Hawaiʻi qualified, but plantation interests, the Pearl Harbor attack and Senate inaction delayed it. Congress paired Hawaiʻi with Alaska; once Alaska was admitted in early 1959, Hawaiʻi's bill passed in March, voters accepted it in June, and it became the fiftieth state on August 21, 1959."
+   },
+   {
+    "question": "What does the 1993 Apology Resolution do, and what does it not do?",
+    "answer": "It acknowledges that U.S. agents and citizens took part in the 1893 overthrow and apologizes for depriving Native Hawaiians of self-determination, but it states that it does not settle any claims against the United States."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1000",
+    "event": "By about 1000–1200 CE, according to recent carbon dating, Polynesian voyagers from the Marquesas have settled the islands; later voyagers come from the Society Islands."
+   },
+   {
+    "date": "1778",
+    "event": "British captain James Cook reaches the islands."
+   },
+   {
+    "date": "1791",
+    "event": "Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification."
+   },
+   {
+    "date": "1810",
+    "event": "Kamehameha I unites the islands into one kingdom after Kauaʻi comes under his rule."
+   },
+   {
+    "date": "1819",
+    "event": "Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system."
+   },
+   {
+    "date": "1826-12-23",
+    "event": "A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence."
+   },
+   {
+    "date": "1875-01-30",
+    "event": "The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity."
+   },
+   {
+    "date": "1887",
+    "event": "White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power."
+   },
+   {
+    "date": "1893-01-17",
+    "event": "A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani."
+   },
+   {
+    "date": "1897-09-11",
+    "event": "Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures."
+   },
+   {
+    "date": "1898-07-07",
+    "event": "President McKinley signs the Newlands Resolution annexing Hawaiʻi by joint resolution, after an annexation treaty failed in the Senate."
+   },
+   {
+    "date": "1898-08-12",
+    "event": "The United States formally annexes Hawaiʻi."
+   },
+   {
+    "date": "1900",
+    "event": "Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House."
+   },
+   {
+    "date": "1941-12-07",
+    "event": "On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law."
+   },
+   {
+    "date": "1946-02-25",
+    "event": "In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law."
+   },
+   {
+    "date": "1959-03-18",
+    "event": "President Eisenhower signs the statehood act passed by Congress."
+   },
+   {
+    "date": "1959-08-21",
+    "event": "Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum."
+   },
+   {
+    "date": "1978-11-07",
+    "event": "Voters approve a constitutional amendment making English and Hawaiian the state's official languages."
+   },
+   {
+    "date": "1993-11-23",
+    "event": "Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150)."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 1,455,271 residents, 7.0 percent more than in 2010."
+   }
+  ],
+  "misconception": {
+   "myth": "Native Hawaiians accepted annexation, and Hawaiʻi joined the United States through a ratified treaty.",
+   "fact": "More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898.",
+   "why": "The petitions were long absent from Hawaiian history books and few people knew they existed until a scholar found them in the National Archives, while the 1959 statehood referendum is easily read back onto 1898."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/joint-resolution-for-annexing-the-hawaiian-islands",
+   "https://www.congress.gov/103/statute/STATUTE-107/STATUTE-107-Pg1510.pdf",
+   "https://history.state.gov/countries/hawaii",
+   "https://prologue.blogs.archives.gov/2017/08/21/hawaiis-long-road-to-statehood",
+   "https://prologue.blogs.archives.gov/2022/07/07/protesting-statehood-hawaiian-womens-petition-against-annexation/",
+   "https://www.nps.gov/havo/learn/historyculture/native-hawaiians.htm",
+   "https://www.nps.gov/articles/puheiau.htm",
+   "https://www.usgs.gov/news/volcano-watch-island-hawaii-sits-end-a-long-old-chain-125-volcanoes",
+   "https://census.hawaii.gov/?p=6936",
+   "https://www.loc.gov/classroom-materials/immigration/japanese/hawaii-life-in-a-plantation-society",
+   "https://encyclopedia.densho.org/Duncan_v._Kahanamoku/",
+   "https://npg.si.edu/1897-petition-against-annexation-hawaii",
+   "https://www.pewresearch.org/short-reads/2015/04/06/native-hawaiian-population/markdown",
+   "https://data.capitol.hawaii.gov/hrsarchive/hrs1999/Vol01/Const/CONST_15-4.htm"
+  ]
+ },
+ {
   "id": "us:hayden-geological-survey-of-1871",
   "title": "Hayden Geological Survey of 1871",
   "aliases": [
