@@ -2874,6 +2874,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "E pluribus unum has been the motto of the Great Seal since 1782 and is a required coin inscription, but no statute designated it the national motto; the 1956 act declaring \"In God we trust\" is the law that names one, and E pluribus unum stayed on the seal and coins.",
+   "uso:myth": "E pluribus unum was the official national motto of the United States until 1956, when Congress replaced it with \"In God We Trust.\"",
+   "uso:why": "The phrase appeared on the seal, coins and the dollar bill for so long that it was widely treated as the country's motto, and even an editor's note on the online edition of a 1923 scholarly study says it was replaced in 1956."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the Great Seal's motto describe \"many\" becoming \"one\", and what did the \"many\" originally mean?",
+   "uso:answer": "In 1776 and 1782 the motto referred to the thirteen states joining in one union; Du Simitière's design ringed the shield with thirteen escutcheons for the states, and the official 1782 remarks say the motto alludes to the union of the states under Congress.",
+   "uso:questionFor": {
+    "@id": "us:e-pluribus-unum"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did a motto from a London magazine end up on the seal, and why is it uncertain who chose it?",
+   "uso:answer": "The phrase was printed on the title page of the widely read Gentleman's Magazine, which educated colonists knew. It first appears in the seal record in Du Simitière's August 1776 design for the Franklin-Adams-Jefferson committee, but no document says who suggested it, so the State Department credits Du Simitière, Deutsch argued for Franklin, and the Jefferson Papers editors leave it open.",
+   "uso:questionFor": {
+    "@id": "us:e-pluribus-unum"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it inaccurate to say \"In God We Trust\" replaced E pluribus unum as the national motto in 1956?",
+   "uso:answer": "E pluribus unum had never been designated the national motto by law. The 1956 act was the first to declare a national motto, and E pluribus unum remained on the Great Seal and is still required by law on the reverse of every U.S. coin.",
+   "uso:questionFor": {
+    "@id": "us:e-pluribus-unum"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1692-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The committee reports a design drawn up with artist Pierre Eugène Du Simitière bearing the motto E PLURIBUS UNUM; Congress tables it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-08-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second committee, advised by Francis Hopkinson, adds the 13 stripes, 13 stars and olive branch but produces no accepted seal.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1780-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-06-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Confederation Congress adopts the Great Seal with the motto.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-06-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An act of Congress declares 'In God we trust' the national motto; E pluribus unum stays on the seal and coins.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-07-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress reenacts the national-motto statute without changing its wording.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2002-11-13"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny.",
@@ -11379,6 +11494,90 @@
     "@id": "https://ntrs.nasa.gov/api/citations/20040027705/downloads/20040027705.pdf"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "III. DuSimitière's Proposal, 20 August 1776 (The Papers of Thomas Jefferson, vol. 1)",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Jefferson/01-01-02-0206-0003"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The Classical Journal 18, no. 7 (April 1923), pp. 387-407 (Monroe E. Deutsch), via LacusCurtius, University of Chicago",
+   "dcterms:title": "E Pluribus Unum",
+   "schema:url": {
+    "@id": "https://penelope.uchicago.edu/Thayer/E/Journals/CJ/18/7/E_Pluribus_Unum*.html"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State",
+   "dcterms:title": "The Great Seal of the United States",
+   "schema:url": {
+    "@id": "https://diplomacy.state.gov/wp-content/uploads/2022/10/Great-Seal-PDF.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "31 U.S.C. 5112 - Denominations, specifications, and design of coins (U.S. Code, 2023 edition)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleIV-chap51-subchapII-sec5112.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "36 U.S.C. 302 - National motto (U.S. Code, 2016 edition)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USCODE-2016-title36/pdf/USCODE-2016-title36-subtitleI-partA-chap3-sec302.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Zeithistorische Forschungen/Studies in Contemporary History 16 (2019), pp. 128-139 (Andreas Etges)",
+   "dcterms:title": "E Pluribus Unum? Nationale Geschichtsmuseen in den USA zwischen Vielheit und Einheit",
+   "schema:url": {
+    "@id": "https://doks.zeitgeschichte-digital.de/doks/files/1341/ZF_1_2019_128_139_Etges.pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1",
@@ -23756,6 +23955,138 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/dust-bowl/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:e-pluribus-unum",
+   "@type": "uso:Symbol",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s6"
+    }
+   ],
+   "rdfs:label": "E pluribus unum",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1776-08-20"
+   },
+   "skos:altLabel": [
+    "E Pluribus Unum",
+    "Motto of the Great Seal",
+    "Out of many, one"
+   ],
+   "skos:broader": {
+    "@id": "us:national-symbols-of-the-united-states"
+   },
+   "skos:definition": "The Latin motto \"E pluribus unum\" (\"Out of many, one\"), first proposed for a national seal in August 1776 and adopted on the Great Seal of the United States in 1782, where it refers to the union of the states; federal law still requires it on U.S. coins, though it was never designated the national motto.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "E pluribus unum",
+   "skos:related": [
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:charles-thomson"
+    },
+    {
+     "@id": "us:e-pluribus-unum-former-motto-myth"
+    },
+    {
+     "@id": "us:flag-of-the-united-states"
+    },
+    {
+     "@id": "us:francis-hopkinson"
+    },
+    {
+     "@id": "us:great-seal-of-the-united-states"
+    },
+    {
+     "@id": "us:in-god-we-trust"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    }
+   ],
+   "uso:confusedWith": {
+    "@id": "us:in-god-we-trust"
+   },
+   "uso:domain": "symbols-and-national-identity",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/symbols-and-national-identity/e-pluribus-unum.md",
+   "uso:influencedBy": {
+    "@id": "us:gentlemans-magazine"
+   },
+   "uso:introducedBy": {
+    "@id": "us:pierre-eugene-du-simitiere"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:great-seal-of-the-united-states"
+   },
+   "uso:requires": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:symbolizes": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/9"
     }
    ]
   },

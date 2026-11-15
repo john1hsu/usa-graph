@@ -22,6 +22,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1681-03-04 | Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1682-10 | Penn arrives on the Welcome; Philadelphia is laid out as the capital. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1682-12-07 | The provincial Assembly adopts the Great Law. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1692-01 | Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1701 | The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -66,10 +67,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-04 | **[United States](../articles/states-and-territories/united-states.md)** (Country) |
 | 1776-07-04 | Congress adopts the Declaration of Independence. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-07-04 | The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-08-20 | **[E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md)** (Symbol) |
+| 1776-08-20 | The committee reports a design drawn up with artist Pierre Eugène Du Simitière bearing the motto E PLURIBUS UNUM; Congress tables it. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1776-09-09 | Congress orders that "United States" replace "United Colonies" in official documents. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -95,6 +99,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1780-03 | A second committee, advised by Francis Hopkinson, adds the 13 stripes, 13 stars and olive branch but produces no accepted seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1780-03-01 | Pennsylvania enacts the first state law for the gradual abolition of slavery. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -104,6 +109,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1782-03-20 | Lord North resigns as prime minister; the new British government opens peace talks in Paris. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1782-06-13 | Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1782-06-20 | The Confederation Congress adopts the Great Seal with the motto. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1782-08-19 | British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1782-11-30 | American and British commissioners sign preliminary articles of peace. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -710,6 +717,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1935 | The Court moves into its own building in its 146th year. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
 | 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -821,6 +829,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-03-12 | The Southern Manifesto denouncing the decision is introduced in Congress. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1956-03-22 | King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-06-05 | A three-judge federal court rules 2–1 that bus segregation is unconstitutional. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-07-30 | An act of Congress declares 'In God we trust' the national motto; E pluribus unum stays on the seal and coins. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1956-11-13 | The U.S. Supreme Court affirms the district court's ruling. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-17 | The Supreme Court rejects city and state requests to reconsider. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -925,6 +934,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2002-05-30 | The recovery effort at Ground Zero formally ends with the removal of the Last Column. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2002-06-06 | President George W. Bush, reversing his earlier position, proposes a Cabinet-level department in an address to the nation. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-07-26 | The House passes H.R. 5005, 295–132. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2002-11-13 | Congress reenacts the national-motto statute without changing its wording. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 2002-11-19 | The Senate passes the amended bill, 90–9; the House agrees to it on November 22. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2002-11-25 | Bush signs the Homeland Security Act of 2002 (Public Law 107-296). — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2003 | The U.S. Senate marks the centennial of Handy's Tutwiler encounter by declaring 2003 the Year of the Blues. — [Blues](../articles/culture-and-arts/blues.md) |

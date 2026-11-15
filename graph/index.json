@@ -3555,6 +3555,169 @@
   ]
  },
  {
+  "id": "us:e-pluribus-unum",
+  "title": "E pluribus unum",
+  "aliases": [
+   "E Pluribus Unum",
+   "Out of many, one",
+   "Motto of the Great Seal"
+  ],
+  "type": "Symbol",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/symbols-and-national-identity/e-pluribus-unum.md",
+  "created": "2026-11-15",
+  "summary": "The Latin motto \"E pluribus unum\" (\"Out of many, one\"), first proposed for a national seal in August 1776 and adopted on the Great Seal of the United States in 1782, where it refers to the union of the states; federal law still requires it on U.S. coins, though it was never designated the national motto.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-seal-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:in-god-we-trust"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charles-thomson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francis-hopkinson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:e-pluribus-unum-former-motto-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:great-seal-of-the-united-states",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:pierre-eugene-du-simitiere",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:gentlemans-magazine",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:united-states",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:confusedWith",
+    "object": "us:in-god-we-trust",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1776-08-20",
+  "end": null,
+  "review": [
+   {
+    "question": "Why does the Great Seal's motto describe \"many\" becoming \"one\", and what did the \"many\" originally mean?",
+    "answer": "In 1776 and 1782 the motto referred to the thirteen states joining in one union; Du Simitière's design ringed the shield with thirteen escutcheons for the states, and the official 1782 remarks say the motto alludes to the union of the states under Congress."
+   },
+   {
+    "question": "How did a motto from a London magazine end up on the seal, and why is it uncertain who chose it?",
+    "answer": "The phrase was printed on the title page of the widely read Gentleman's Magazine, which educated colonists knew. It first appears in the seal record in Du Simitière's August 1776 design for the Franklin-Adams-Jefferson committee, but no document says who suggested it, so the State Department credits Du Simitière, Deutsch argued for Franklin, and the Jefferson Papers editors leave it open."
+   },
+   {
+    "question": "Why is it inaccurate to say \"In God We Trust\" replaced E pluribus unum as the national motto in 1956?",
+    "answer": "E pluribus unum had never been designated the national motto by law. The 1956 act was the first to declare a national motto, and E pluribus unum remained on the Great Seal and is still required by law on the reverse of every U.S. coin."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1692-01",
+    "event": "Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page."
+   },
+   {
+    "date": "1776-07-04",
+    "event": "The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal."
+   },
+   {
+    "date": "1776-08-20",
+    "event": "The committee reports a design drawn up with artist Pierre Eugène Du Simitière bearing the motto E PLURIBUS UNUM; Congress tables it."
+   },
+   {
+    "date": "1780-03",
+    "event": "A second committee, advised by Francis Hopkinson, adds the 13 stripes, 13 stars and olive branch but produces no accepted seal."
+   },
+   {
+    "date": "1782-06-13",
+    "event": "Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak."
+   },
+   {
+    "date": "1782-06-20",
+    "event": "The Confederation Congress adopts the Great Seal with the motto."
+   },
+   {
+    "date": "1935",
+    "event": "Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note."
+   },
+   {
+    "date": "1956-07-30",
+    "event": "An act of Congress declares 'In God we trust' the national motto; E pluribus unum stays on the seal and coins."
+   },
+   {
+    "date": "2002-11-13",
+    "event": "Congress reenacts the national-motto statute without changing its wording."
+   }
+  ],
+  "misconception": {
+   "myth": "E pluribus unum was the official national motto of the United States until 1956, when Congress replaced it with \"In God We Trust.\"",
+   "fact": "E pluribus unum has been the motto of the Great Seal since 1782 and is a required coin inscription, but no statute designated it the national motto; the 1956 act declaring \"In God we trust\" is the law that names one, and E pluribus unum stayed on the seal and coins.",
+   "why": "The phrase appeared on the seal, coins and the dollar bill for so long that it was widely treated as the country's motto, and even an editor's note on the online edition of a 1923 scholarly study says it was replaced in 1956."
+  },
+  "source_urls": [
+   "https://founders.archives.gov/documents/Jefferson/01-01-02-0206-0003",
+   "https://penelope.uchicago.edu/Thayer/E/Journals/CJ/18/7/E_Pluribus_Unum*.html",
+   "https://diplomacy.state.gov/wp-content/uploads/2022/10/Great-Seal-PDF.pdf",
+   "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleIV-chap51-subchapII-sec5112.htm",
+   "https://www.govinfo.gov/content/pkg/USCODE-2016-title36/pdf/USCODE-2016-title36-subtitleI-partA-chap3-sec302.pdf",
+   "https://doks.zeitgeschichte-digital.de/doks/files/1341/ZF_1_2019_128_139_Etges.pdf"
+  ]
+ },
+ {
   "id": "us:equal-protection",
   "title": "Equal protection",
   "aliases": [

@@ -1188,6 +1188,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What does the documentary record actually show about Betsy Ross's work?
   **A:** She ran an upholstery business, was paid by the Pennsylvania State Navy Board in May 1777 for making ship's colours, and went on making flags for decades, including many under government contracts around the War of 1812. Historian Marla Miller calls her one of Philadelphia's most important flag makers of the Revolution, alongside others such as Rebecca Young, Margaret Manney and Sarah Barry.
 
+### [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) — Symbol
+
+| Myth | Fact |
+|---|---|
+| E pluribus unum was the official national motto of the United States until 1956, when Congress replaced it with "In God We Trust." | E pluribus unum has been the motto of the Great Seal since 1782 and is a required coin inscription, but no statute designated it the national motto; the 1956 act declaring "In God we trust" is the law that names one, and E pluribus unum stayed on the seal and coins. |
+
+**Why it matters:** The phrase appeared on the seal, coins and the dollar bill for so long that it was widely treated as the country's motto, and even an editor's note on the online edition of a 1923 scholarly study says it was replaced in 1956.
+
+- **Q:** Why does the Great Seal's motto describe "many" becoming "one", and what did the "many" originally mean?
+  **A:** In 1776 and 1782 the motto referred to the thirteen states joining in one union; Du Simitière's design ringed the shield with thirteen escutcheons for the states, and the official 1782 remarks say the motto alludes to the union of the states under Congress.
+- **Q:** How did a motto from a London magazine end up on the seal, and why is it uncertain who chose it?
+  **A:** The phrase was printed on the title page of the widely read Gentleman's Magazine, which educated colonists knew. It first appears in the seal record in Du Simitière's August 1776 design for the Franklin-Adams-Jefferson committee, but no document says who suggested it, so the State Department credits Du Simitière, Deutsch argued for Franklin, and the Jefferson Papers editors leave it open.
+- **Q:** Why is it inaccurate to say "In God We Trust" replaced E pluribus unum as the national motto in 1956?
+  **A:** E pluribus unum had never been designated the national motto by law. The 1956 act was the first to declare a national motto, and E pluribus unum remained on the Great Seal and is still required by law on the reverse of every U.S. coin.
+
 ### [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) — Symbol
 
 | Myth | Fact |

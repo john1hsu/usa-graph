@@ -87,6 +87,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:dust-bowl` | interpretive |  |
+| `us:e-pluribus-unum` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
 | `us:george-washington` | interpretive |  |
@@ -107,9 +108,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:theodore-roosevelt` | interpretive |  |
-| `us:thomas-jefferson` | interpretive |  |
 
-…and 4 more.
+…and 5 more.
 
 ## Places with nothing tied to them (gap)
 
