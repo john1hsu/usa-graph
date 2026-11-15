@@ -28,6 +28,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
+| `us:california-gold-rush` | 5 | Native Americans, act-for-the-government-and-protection-of-indians, chinese-exclusion-act, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:abolitionism` | 4 | Thirteenth Amendment, liberty-party, republican-party, womens-suffrage-movement |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
-| `us:monroe-doctrine` | 2 | Roosevelt Corollary, mexico |
 
-…and 35 more.
+…and 36 more.
 
 ## Happenings by era
 
@@ -116,9 +116,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:the-west` | uso:Region |
+_No results._
 
 ## Orphan articles (gap)
 

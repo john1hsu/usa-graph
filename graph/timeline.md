@@ -325,18 +325,28 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
+| 1848-01-24 | James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1848-07 | California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1848-12-05 | President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1849 | About 25,000 emigrants travel overland to California, the first great year of the rush. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1849-11-13 | California voters ratify a state constitution, paving the way for statehood. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1850 | Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1850 | The Fugitive Slave Act penalizes Northerners who aid freedom seekers. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1850 | The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1850 | The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1850-04 | The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1852 | About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -354,6 +364,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1859-05 | Buys a house and seven acres near Auburn, New York, from Senator William H. Seward. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1860 | The first federal census of California counts about 308,000 residents. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1860-12 | Last rescue mission to Maryland brings away seven people. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1860-12-20 | A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -452,6 +463,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
+| 1870 | California's Native population has fallen below 30,000; the foreign miners' tax is voided. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1870 | Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1870 | The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -531,6 +543,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1884 | His mother and his first wife, Alice, die in the same house on the same day. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1008,6 +1021,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2019-06-18 | Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2020-03 | Visitor access to the plaza closes during the COVID-19 pandemic. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |

@@ -489,6 +489,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## early-republic-and-expansion
 
+### [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The forty-niners struck it rich; the Gold Rush made ordinary miners wealthy. | A few miners found fortunes, but most did not; many made modest profits at best, while others went bankrupt or died, and the surest fortunes went to merchants and speculators such as Samuel Brannan and Levi Strauss who sold goods to miners. Even the discoverer, James Marshall, was at one point stranded penniless. |
+
+**Why it matters:** Stories of lucky strikes travelled faster than accounts of hardship, and the "forty-niner" became a romantic symbol of quick wealth in the West.
+
+- **Q:** Why did the Gold Rush bring California into the Union so quickly, and why was its admission controversial?
+  **A:** The rush raised California's non-Native population from about 14,000 in 1848 to more than 200,000 by 1852, enough to write a constitution in 1849 and seek statehood; because California would be a free state and part of it lay south of the Missouri Compromise line, its admission as a free state reopened the fight over slavery's expansion and was settled only as part of the Compromise of 1850.
+- **Q:** How did the Gold Rush affect Native Californians?
+  **A:** Miners took their land, water and food sources, mining ruined salmon runs, epidemics spread, and the 1850 Act for the Government and Protection of Indians let Native people, including children, be held as indentured laborers; the Native population fell from about 150,000 in the 1840s to under 30,000 by 1870, and in 2019 the state formally apologized for this violence and dispossession.
+- **Q:** Who profited most from the Gold Rush, and why?
+  **A:** Merchants and suppliers such as Samuel Brannan and Levi Strauss, because thousands of miners in remote camps had to buy tools, food and clothing at inflated prices, while most miners found little gold and some went bankrupt.
+- **Q:** How did California's foreign miners' taxes work, and whom did they target?
+  **A:** A 1850 law charged non-citizen miners $20 a month, aimed mainly at Latin American miners and used by white miners to drive them from rich claims; after its repeal a $4 monthly tax followed, and an 1852 law aimed at Chinese miners, who paid more than $5 million, about a quarter of state revenue, until it was voided in 1870.
+
 ### [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) — Event
 
 | Myth | Fact |

@@ -1133,6 +1133,131 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://schema.org/startDate> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "A few miners found fortunes, but most did not; many made modest profits at best, while others went bankrupt or died, and the surest fortunes went to merchants and speculators such as Samuel Brannan and Levi Strauss who sold goods to miners. Even the discoverer, James Marshall, was at one point stranded penniless." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The forty-niners struck it rich; the Gold Rush made ordinary miners wealthy." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Stories of lucky strikes travelled faster than accounts of hardship, and the \"forty-niner\" became a romantic symbol of quick wealth in the West." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Gold Rush bring California into the Union so quickly, and why was its admission controversial?" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The rush raised California's non-Native population from about 14,000 in 1848 to more than 200,000 by 1852, enough to write a constitution in 1849 and seek statehood; because California would be a free state and part of it lay south of the Missouri Compromise line, its admission as a free state reopened the fight over slavery's expansion and was settled only as part of the Compromise of 1850." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Gold Rush affect Native Californians?" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Miners took their land, water and food sources, mining ruined salmon runs, epidemics spread, and the 1850 Act for the Government and Protection of Indians let Native people, including children, be held as indentured laborers; the Native population fell from about 150,000 in the 1840s to under 30,000 by 1870, and in 2019 the state formally apologized for this violence and dispossession." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Who profited most from the Gold Rush, and why?" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Merchants and suppliers such as Samuel Brannan and Levi Strauss, because thousands of miners in remote camps had to buy tools, food and clothing at inflated prices, while most miners found little gold and some went bankrupt." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did California's foreign miners' taxes work, and whom did they target?" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "A 1850 law charged non-citizen miners $20 a month, aimed mainly at Latin American miners and used by white miners to drive them from rich claims; after its repeal a $4 monthly tax followed, and an 1852 law aimed at Chinese miners, who paid more than $5 million, about a quarter of state revenue, until it was voided in 1870." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The first federal census of California counts about 308,000 residents." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1860"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "California's Native population has fallen below 30,000; the foreign miners' tax is voided." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "James Marshall dies at 75 after decades of setbacks, having once been stranded penniless." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1885-08-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2019-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "About 25,000 emigrants travel overland to California, the first great year of the rush." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1849"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "California voters ratify a state constitution, paving the way for statehood." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1849-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1850-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1850-09-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1852"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2000/01/rdf-schema#label> "California Gold Rush" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#altLabel> "Forty-Niners' gold rush" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#altLabel> "Gold Rush of 1848–1855" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#altLabel> "Gold Rush of 1849" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/history-of-california> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#definition> "The mass migration to California set off when James Marshall found gold at John Sutter's sawmill on the American River on January 24, 1848; it drew some 300,000 people from across the world by the mid-1850s, sped California to statehood as a free state in 1850, enriched merchants more than most miners, and brought dispossession, forced labor and mass death to Native Californians and discriminatory taxes on foreign miners." .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#prefLabel> "California Gold Rush" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-trail> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/californios> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gold-rush-riches-myth> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-k-polk> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-w-marshall> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-sutter> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nisenan> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-guadalupe-hidalgo> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/california-gold-rush.md" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/act-for-the-government-and-protection-of-indians> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/foreign-miners-tax-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://schema.org/endDate> "1855"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://schema.org/startDate> "1848-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau counts the population and applies a formula that Congress wrote into law (equal proportions, adopted in 1941); the states then redraw their own district lines using census redistricting data." .
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Census Bureau decides how many House seats each state gets and draws the new congressional districts." .
@@ -7136,6 +7261,84 @@
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <http://purl.org/dc/terms/publisher> "Tad Beckman, Harvey Mudd College" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <http://purl.org/dc/terms/title> "Chapter 16: California Statehood and Federal Administration" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10> <https://schema.org/url> <https://pages.hmc.edu/beckman/western/ch16.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <http://purl.org/dc/terms/publisher> "Autry Museum of the American West" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <http://purl.org/dc/terms/title> "Gold Rush Jobs (education lesson)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11> <https://schema.org/url> <https://www.theautry.org/sites/default/files/2025-07/ed_Gold%20Rush%20Jobs%20Lesson_0.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <http://purl.org/dc/terms/publisher> "State of California, Governor's Office of Tribal Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <http://purl.org/dc/terms/title> "Governor's Office of Tribal Affairs (2019 apology and Executive Order N-15-19)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12> <https://schema.org/url> <https://tribalaffairs.ca.gov/> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <http://purl.org/dc/terms/publisher> "The American Yawp, hosted by Lumen Learning (US History I, SUNY)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <http://purl.org/dc/terms/title> "Manifest Destiny and the Gold Rush (The American Yawp, ch. 12)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13> <https://schema.org/url> <https://courses.lumenlearning.com/suny-ushistory1ay/chapter/manifest-destiny-and-the-gold-rush/> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <http://purl.org/dc/terms/publisher> "National Park Service, California National Historic Trail" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <http://purl.org/dc/terms/title> "The California Gold Rush" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1> <https://schema.org/url> <https://www.nps.gov/cali/learn/historyculture/california-gold-rush.htm?lv=true> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <http://purl.org/dc/terms/publisher> "California Department of Parks and Recreation" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <http://purl.org/dc/terms/title> "Marshall Gold Discovery State Historic Park (park brochure)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2> <https://schema.org/url> <https://www.parks.ca.gov/pages/484/files/MarshallGoldWebBrochure2013.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <http://purl.org/dc/terms/publisher> "Library of Congress, California as I Saw It (First-Person Narratives of California's Early Years, 1849–1900)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <http://purl.org/dc/terms/title> "From Gold Rush to Golden State" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3> <https://schema.org/url> <https://www.loc.gov/collections/california-first-person-narratives/articles-and-essays/early-california-history/from-gold-rush-to-golden-state/> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <http://purl.org/dc/terms/publisher> "University of California, California Cultures (Calisphere), essay by Joshua Paddison" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <http://purl.org/dc/terms/title> "1848-1865: Gold Rush, Statehood, and the Western Movement" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4> <https://schema.org/url> <https://calisphere.org/exhibitions/essay/4/gold-rush/> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <http://purl.org/dc/terms/title> "December 5, 1848: Fourth Annual Message to Congress (James K. Polk)" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5> <https://schema.org/url> <https://millercenter.org/the-presidency/presidential-speeches/december-5-1848-fourth-annual-message-congress> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <http://purl.org/dc/terms/publisher> "United States Senate" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <http://purl.org/dc/terms/title> "California: Timeline" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6> <https://schema.org/url> <https://www.senate.gov/states/CA/timeline.shtml> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <http://purl.org/dc/terms/title> "California NHT: Chinese Immigration" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7> <https://schema.org/url> <https://www.nps.gov/articles/000/california-nht-chinese-immigration.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <http://purl.org/dc/terms/publisher> "Oakland Museum of California" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <http://purl.org/dc/terms/title> "Gold Rush! Native Californians" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8> <https://schema.org/url> <https://explore.museumca.org/goldrush/silver-native.html> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <http://purl.org/dc/terms/publisher> "Bill of Rights Institute" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <http://purl.org/dc/terms/title> "The 49ers" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9> <https://schema.org/url> <https://billofrightsinstitute.org/essays/the-49ers/> .
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/title> "Strength in Numbers: A Guide to the 2020 Census Redistricting Data From the U.S. Census Bureau" .

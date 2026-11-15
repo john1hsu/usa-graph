@@ -1578,6 +1578,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "A few miners found fortunes, but most did not; many made modest profits at best, while others went bankrupt or died, and the surest fortunes went to merchants and speculators such as Samuel Brannan and Levi Strauss who sold goods to miners. Even the discoverer, James Marshall, was at one point stranded penniless.",
+   "uso:myth": "The forty-niners struck it rich; the Gold Rush made ordinary miners wealthy.",
+   "uso:why": "Stories of lucky strikes travelled faster than accounts of hardship, and the \"forty-niner\" became a romantic symbol of quick wealth in the West."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Gold Rush bring California into the Union so quickly, and why was its admission controversial?",
+   "uso:answer": "The rush raised California's non-Native population from about 14,000 in 1848 to more than 200,000 by 1852, enough to write a constitution in 1849 and seek statehood; because California would be a free state and part of it lay south of the Missouri Compromise line, its admission as a free state reopened the fight over slavery's expansion and was settled only as part of the Compromise of 1850.",
+   "uso:questionFor": {
+    "@id": "us:california-gold-rush"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Gold Rush affect Native Californians?",
+   "uso:answer": "Miners took their land, water and food sources, mining ruined salmon runs, epidemics spread, and the 1850 Act for the Government and Protection of Indians let Native people, including children, be held as indentured laborers; the Native population fell from about 150,000 in the 1840s to under 30,000 by 1870, and in 2019 the state formally apologized for this violence and dispossession.",
+   "uso:questionFor": {
+    "@id": "us:california-gold-rush"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Who profited most from the Gold Rush, and why?",
+   "uso:answer": "Merchants and suppliers such as Samuel Brannan and Levi Strauss, because thousands of miners in remote camps had to buy tools, food and clothing at inflated prices, while most miners found little gold and some went bankrupt.",
+   "uso:questionFor": {
+    "@id": "us:california-gold-rush"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did California's foreign miners' taxes work, and whom did they target?",
+   "uso:answer": "A 1850 law charged non-citizen miners $20 a month, aimed mainly at Latin American miners and used by white miners to drive them from rich claims; after its repeal a $4 monthly tax followed, and an 1852 law aimed at Chinese miners, who paid more than $5 million, about a quarter of state revenue, until it was voided in 1870.",
+   "uso:questionFor": {
+    "@id": "us:california-gold-rush"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1848-01-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first federal census of California counts about 308,000 residents.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1860"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California's Native population has fallen below 30,000; the foreign miners' tax is voided.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "James Marshall dies at 75 after decades of setbacks, having once been stranded penniless.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1885-08-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2019-06-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1848-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1848-12-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 25,000 emigrants travel overland to California, the first great year of the rush.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1849"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California voters ratify a state constitution, paving the way for statehood.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1849-11-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1850-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1850-09-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1852"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Bureau counts the population and applies a formula that Congress wrote into law (equal proportions, adopted in 1941); the states then redraw their own district lines using census redistricting data.",
@@ -10371,6 +10531,188 @@
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, California National Historic Trail",
+   "dcterms:title": "The California Gold Rush",
+   "schema:url": {
+    "@id": "https://www.nps.gov/cali/learn/historyculture/california-gold-rush.htm?lv=true"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Tad Beckman, Harvey Mudd College",
+   "dcterms:title": "Chapter 16: California Statehood and Federal Administration",
+   "schema:url": {
+    "@id": "https://pages.hmc.edu/beckman/western/ch16.htm"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Autry Museum of the American West",
+   "dcterms:title": "Gold Rush Jobs (education lesson)",
+   "schema:url": {
+    "@id": "https://www.theautry.org/sites/default/files/2025-07/ed_Gold%20Rush%20Jobs%20Lesson_0.pdf"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "State of California, Governor's Office of Tribal Affairs",
+   "dcterms:title": "Governor's Office of Tribal Affairs (2019 apology and Executive Order N-15-19)",
+   "schema:url": {
+    "@id": "https://tribalaffairs.ca.gov/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The American Yawp, hosted by Lumen Learning (US History I, SUNY)",
+   "dcterms:title": "Manifest Destiny and the Gold Rush (The American Yawp, ch. 12)",
+   "schema:url": {
+    "@id": "https://courses.lumenlearning.com/suny-ushistory1ay/chapter/manifest-destiny-and-the-gold-rush/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "California Department of Parks and Recreation",
+   "dcterms:title": "Marshall Gold Discovery State Historic Park (park brochure)",
+   "schema:url": {
+    "@id": "https://www.parks.ca.gov/pages/484/files/MarshallGoldWebBrochure2013.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, California as I Saw It (First-Person Narratives of California's Early Years, 1849–1900)",
+   "dcterms:title": "From Gold Rush to Golden State",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/california-first-person-narratives/articles-and-essays/early-california-history/from-gold-rush-to-golden-state/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "University of California, California Cultures (Calisphere), essay by Joshua Paddison",
+   "dcterms:title": "1848-1865: Gold Rush, Statehood, and the Western Movement",
+   "schema:url": {
+    "@id": "https://calisphere.org/exhibitions/essay/4/gold-rush/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "December 5, 1848: Fourth Annual Message to Congress (James K. Polk)",
+   "schema:url": {
+    "@id": "https://millercenter.org/the-presidency/presidential-speeches/december-5-1848-fourth-annual-message-congress"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "United States Senate",
+   "dcterms:title": "California: Timeline",
+   "schema:url": {
+    "@id": "https://www.senate.gov/states/CA/timeline.shtml"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "California NHT: Chinese Immigration",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/california-nht-chinese-immigration.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Oakland Museum of California",
+   "dcterms:title": "Gold Rush! Native Californians",
+   "schema:url": {
+    "@id": "https://explore.museumca.org/goldrush/silver-native.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Bill of Rights Institute",
+   "dcterms:title": "The 49ers",
+   "schema:url": {
+    "@id": "https://billofrightsinstitute.org/essays/the-49ers/"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1",
@@ -23304,6 +23646,202 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:california-gold-rush",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/california-gold-rush/s9"
+    }
+   ],
+   "rdfs:label": "California Gold Rush",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1855"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1848-01-24"
+   },
+   "skos:altLabel": [
+    "Forty-Niners' gold rush",
+    "Gold Rush of 1848–1855",
+    "Gold Rush of 1849"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:history-of-california"
+    },
+    {
+     "@id": "us:territorial-expansion-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The mass migration to California set off when James Marshall found gold at John Sutter's sawmill on the American River on January 24, 1848; it drew some 300,000 people from across the world by the mid-1850s, sped California to statehood as a free state in 1850, enriched merchants more than most miners, and brought dispossession, forced labor and mass death to Native Californians and discriminatory taxes on foreign miners.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "California Gold Rush",
+   "skos:related": [
+    {
+     "@id": "us:california-trail"
+    },
+    {
+     "@id": "us:californios"
+    },
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:gold-rush-riches-myth"
+    },
+    {
+     "@id": "us:james-k-polk"
+    },
+    {
+     "@id": "us:james-w-marshall"
+    },
+    {
+     "@id": "us:john-sutter"
+    },
+    {
+     "@id": "us:manifest-destiny"
+    },
+    {
+     "@id": "us:mexican-american-war"
+    },
+    {
+     "@id": "us:missouri-compromise"
+    },
+    {
+     "@id": "us:nisenan"
+    },
+    {
+     "@id": "us:the-west"
+    },
+    {
+     "@id": "us:transcontinental-railroad"
+    },
+    {
+     "@id": "us:treaty-of-guadalupe-hidalgo"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/early-republic-and-expansion/california-gold-rush.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:act-for-the-government-and-protection-of-indians"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:compromise-of-1850"
+    },
+    {
+     "@id": "us:foreign-miners-tax-of-1850"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:the-west"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:mexican-american-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/timeline/9"
     }
    ]
   },

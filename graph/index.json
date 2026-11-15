@@ -1900,6 +1900,228 @@
   ]
  },
  {
+  "id": "us:california-gold-rush",
+  "title": "California Gold Rush",
+  "aliases": [
+   "Gold Rush of 1849",
+   "Forty-Niners' gold rush",
+   "Gold Rush of 1848–1855"
+  ],
+  "type": "Event",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/early-republic-and-expansion/california-gold-rush.md",
+  "created": "2026-11-15",
+  "summary": "The mass migration to California set off when James Marshall found gold at John Sutter's sawmill on the American River on January 24, 1848; it drew some 300,000 people from across the world by the mid-1850s, sped California to statehood as a free state in 1850, enriched merchants more than most miners, and brought dispossession, forced labor and mass death to Native Californians and discriminatory taxes on foreign miners.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-california"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:manifest-destiny"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-guadalupe-hidalgo"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-w-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-sutter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-k-polk"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:californios"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nisenan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-trail"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:transcontinental-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gold-rush-riches-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri-compromise"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:california",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:the-west",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:compromise-of-1850",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:foreign-miners-tax-of-1850",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:act-for-the-government-and-protection-of-indians",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:chinese-exclusion-act",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1848-01-24",
+  "end": "1855",
+  "review": [
+   {
+    "question": "Why did the Gold Rush bring California into the Union so quickly, and why was its admission controversial?",
+    "answer": "The rush raised California's non-Native population from about 14,000 in 1848 to more than 200,000 by 1852, enough to write a constitution in 1849 and seek statehood; because California would be a free state and part of it lay south of the Missouri Compromise line, its admission as a free state reopened the fight over slavery's expansion and was settled only as part of the Compromise of 1850."
+   },
+   {
+    "question": "How did the Gold Rush affect Native Californians?",
+    "answer": "Miners took their land, water and food sources, mining ruined salmon runs, epidemics spread, and the 1850 Act for the Government and Protection of Indians let Native people, including children, be held as indentured laborers; the Native population fell from about 150,000 in the 1840s to under 30,000 by 1870, and in 2019 the state formally apologized for this violence and dispossession."
+   },
+   {
+    "question": "Who profited most from the Gold Rush, and why?",
+    "answer": "Merchants and suppliers such as Samuel Brannan and Levi Strauss, because thousands of miners in remote camps had to buy tools, food and clothing at inflated prices, while most miners found little gold and some went bankrupt."
+   },
+   {
+    "question": "How did California's foreign miners' taxes work, and whom did they target?",
+    "answer": "A 1850 law charged non-citizen miners $20 a month, aimed mainly at Latin American miners and used by white miners to drive them from rich claims; after its repeal a $4 monthly tax followed, and an 1852 law aimed at Chinese miners, who paid more than $5 million, about a quarter of state revenue, until it was voided in 1870."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1848-01-24",
+    "event": "James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma."
+   },
+   {
+    "date": "1848-07",
+    "event": "California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people."
+   },
+   {
+    "date": "1848-12-05",
+    "event": "President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California."
+   },
+   {
+    "date": "1849",
+    "event": "About 25,000 emigrants travel overland to California, the first great year of the rush."
+   },
+   {
+    "date": "1849-11-13",
+    "event": "California voters ratify a state constitution, paving the way for statehood."
+   },
+   {
+    "date": "1850",
+    "event": "The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year."
+   },
+   {
+    "date": "1850-04",
+    "event": "The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers."
+   },
+   {
+    "date": "1850-09-09",
+    "event": "California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850."
+   },
+   {
+    "date": "1852",
+    "event": "About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners."
+   },
+   {
+    "date": "1860",
+    "event": "The first federal census of California counts about 308,000 residents."
+   },
+   {
+    "date": "1870",
+    "event": "California's Native population has fallen below 30,000; the foreign miners' tax is voided."
+   },
+   {
+    "date": "1885-08-10",
+    "event": "James Marshall dies at 75 after decades of setbacks, having once been stranded penniless."
+   },
+   {
+    "date": "2019-06-18",
+    "event": "Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples."
+   }
+  ],
+  "misconception": {
+   "myth": "The forty-niners struck it rich; the Gold Rush made ordinary miners wealthy.",
+   "fact": "A few miners found fortunes, but most did not; many made modest profits at best, while others went bankrupt or died, and the surest fortunes went to merchants and speculators such as Samuel Brannan and Levi Strauss who sold goods to miners. Even the discoverer, James Marshall, was at one point stranded penniless.",
+   "why": "Stories of lucky strikes travelled faster than accounts of hardship, and the \"forty-niner\" became a romantic symbol of quick wealth in the West."
+  },
+  "source_urls": [
+   "https://www.nps.gov/cali/learn/historyculture/california-gold-rush.htm?lv=true",
+   "https://www.parks.ca.gov/pages/484/files/MarshallGoldWebBrochure2013.pdf",
+   "https://www.loc.gov/collections/california-first-person-narratives/articles-and-essays/early-california-history/from-gold-rush-to-golden-state/",
+   "https://calisphere.org/exhibitions/essay/4/gold-rush/",
+   "https://millercenter.org/the-presidency/presidential-speeches/december-5-1848-fourth-annual-message-congress",
+   "https://www.senate.gov/states/CA/timeline.shtml",
+   "https://www.nps.gov/articles/000/california-nht-chinese-immigration.htm",
+   "https://explore.museumca.org/goldrush/silver-native.html",
+   "https://billofrightsinstitute.org/essays/the-49ers/",
+   "https://pages.hmc.edu/beckman/western/ch16.htm",
+   "https://www.theautry.org/sites/default/files/2025-07/ed_Gold%20Rush%20Jobs%20Lesson_0.pdf",
+   "https://tribalaffairs.ca.gov/",
+   "https://courses.lumenlearning.com/suny-ushistory1ay/chapter/manifest-destiny-and-the-gold-rush/"
+  ]
+ },
+ {
   "id": "us:census-and-apportionment",
   "title": "Census and apportionment",
   "aliases": [
