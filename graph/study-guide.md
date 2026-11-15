@@ -843,6 +843,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether Washington stood above party politics?
   **A:** He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800.
 
+### [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Theodore Roosevelt created the National Park Service. | The National Park Service was established in 1916, seven years after Roosevelt left office. What he did do was help create 23 of the 35 sites the new agency inherited, proclaim 18 national monuments under the Antiquities Act, and create the U.S. Forest Service in 1905. |
+
+**Why it matters:** Crediting him with the agency blurs the difference between the parks and monuments he set aside and the bureau that later managed them, and hides the separate national-forest system he built.
+
+- **Q:** How did Roosevelt end the 1902 anthracite coal strike, and how did that episode give his domestic program its name?
+  **A:** When the mine owners refused to negotiate, he threatened to have troops seize and run the mines as a federal operation; both sides then agreed to accept the recommendations of a commission. He called the settlement a "square deal," and the phrase became the name of his whole domestic program.
+- **Q:** Why is it inaccurate to say that Roosevelt founded the National Park Service, even though he shaped the park system?
+  **A:** The National Park Service was created in 1916, seven years after he left office. He shaped the system by helping create 23 of the 35 sites the agency inherited and by proclaiming 18 national monuments under the 1906 Antiquities Act.
+- **Q:** Why do historians describe Roosevelt's record on race as divided or mixed?
+  **A:** He invited Booker T. Washington to dine at the White House and appointed some Black Southerners to office, yet he discharged 167 Black soldiers after the Brownsville shooting without a trial, did little to stop Black disfranchisement, and, as Gary Gerstle argues, combined a civic nationalism open to European immigrants with a racial nationalism that excluded nonwhite Americans.
+
 ### [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) — Person
 
 | Myth | Fact |

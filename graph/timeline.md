@@ -318,6 +318,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858 | Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1858-06-16 | Gives the "House Divided" speech; later loses the Senate race to Stephen A. Douglas. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1858-10-27 – 1919-01-06 | **[Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md)** (Person) |
+| 1858-10-27 | Born at 28 East 20th Street in New York City. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1859-05 | Buys a house and seven acres near Auburn, New York, from Senator William H. Seward. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -480,11 +482,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1880 | Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1883-09 | First travels to the Dakota Badlands, where he later ranches. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1883-11-26 | Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1884 | His mother and his first wife, Alice, die in the same house on the same day. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
@@ -495,6 +501,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -512,6 +519,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1896 | Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -526,6 +534,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1898-07-01 | Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1898-12-19 | Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii. — [United States](../articles/states-and-territories/united-states.md) |
 | 1899-01-19 | Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -534,6 +543,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1902 | Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1902 | British, German and Italian warships blockade Venezuela's ports after it defaults on debts to foreign bondholders. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1902 | Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -548,6 +560,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1903-12-14 | Wilbur wins a coin toss for the first try, but the Flyer stalls and noses into the sand. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1903-12-17 | **[Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md)** (Event) |
 | 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1904 | The Supreme Court upholds the government's antitrust suit against the Northern Securities Company; Roosevelt wins a full term in a landslide. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -564,8 +577,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-07-14 | A crash that throws Orville through the upper wing prompts a redesign of the controls. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1906-06-08 | Signs the Antiquities Act, which he then uses to proclaim 18 national monuments. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1906-08-13 | A shooting in Brownsville, Texas, is blamed on Black soldiers of the 25th Infantry; Roosevelt later discharges 167 of them without honor or trial. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1907-02-08 | The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-02-25 | The U.S. Senate advises ratification of the Dominican convention. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
@@ -573,6 +589,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1909 | Leaves the presidency after keeping a pledge not to seek another term. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
@@ -589,6 +606,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1911-08-08 | Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -596,6 +615,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
 | 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-10-10 | The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
@@ -614,6 +634,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |

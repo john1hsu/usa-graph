@@ -15432,6 +15432,146 @@
    "uso:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Theodore Roosevelt Birthplace National Historic Site",
+   "dcterms:title": "The Life of Theodore Roosevelt",
+   "schema:url": {
+    "@id": "https://www.nps.gov/thri/theodorerooseveltbio.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Grand Canyon National Park",
+   "dcterms:title": "Theodore Roosevelt: A Complicated Legacy (Behind the Scenery podcast)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/theodore-roosevelt-a-complicated-legacy-bts-podcast.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (Sidney Milkis)",
+   "dcterms:title": "Theodore Roosevelt: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/258"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (Sidney Milkis)",
+   "dcterms:title": "Theodore Roosevelt: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/261"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Theodore Roosevelt National Park",
+   "dcterms:title": "Theodore Roosevelt and Conservation",
+   "schema:url": {
+    "@id": "https://home.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Buffalo Soldiers in the Spanish-American War",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/busospanamwar.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Theodore Roosevelt Center, Dickinson State University",
+   "dcterms:title": "Brownsville Incident",
+   "schema:url": {
+    "@id": "https://www.theodorerooseveltcenter.org/encyclopedia/race-ethnicity-and-gender/brownsville-incident/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "United States presidential election of 1912",
+   "schema:url": {
+    "@id": "https://www.britannica.com/event/United-States-presidential-election-of-1912"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Gary Gerstle, University of Maryland, via History Cooperative",
+   "dcterms:title": "Theodore Roosevelt and the Divided Character of American Nationalism",
+   "schema:url": {
+    "@id": "https://historycooperative.org/journal/theodore-roosevelt-and-the-divided-character-of-american-nationalism/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Nobel Prize Outreach",
+   "dcterms:title": "Theodore Roosevelt – Facts (Nobel Peace Prize 1906)",
+   "schema:url": {
+    "@id": "https://www.nobelprize.org/prizes/peace/1906/roosevelt/facts/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/third-locks-project/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -17482,6 +17622,220 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1863-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The National Park Service was established in 1916, seven years after Roosevelt left office. What he did do was help create 23 of the 35 sites the new agency inherited, proclaim 18 national monuments under the Antiquities Act, and create the U.S. Forest Service in 1905.",
+   "uso:myth": "Theodore Roosevelt created the National Park Service.",
+   "uso:why": "Crediting him with the agency blurs the difference between the parks and monuments he set aside and the bureau that later managed them, and hides the separate national-forest system he built."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Roosevelt end the 1902 anthracite coal strike, and how did that episode give his domestic program its name?",
+   "uso:answer": "When the mine owners refused to negotiate, he threatened to have troops seize and run the mines as a federal operation; both sides then agreed to accept the recommendations of a commission. He called the settlement a \"square deal,\" and the phrase became the name of his whole domestic program.",
+   "uso:questionFor": {
+    "@id": "us:theodore-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it inaccurate to say that Roosevelt founded the National Park Service, even though he shaped the park system?",
+   "uso:answer": "The National Park Service was created in 1916, seven years after he left office. He shaped the system by helping create 23 of the 35 sites the agency inherited and by proclaiming 18 national monuments under the 1906 Antiquities Act.",
+   "uso:questionFor": {
+    "@id": "us:theodore-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians describe Roosevelt's record on race as divided or mixed?",
+   "uso:answer": "He invited Booker T. Washington to dine at the White House and appointed some Black Southerners to office, yet he discharged 167 Black soldiers after the Brownsville shooting without a trial, did little to stop Black disfranchisement, and, as Gary Gerstle argues, combined a civic nationalism open to European immigrants with a racial nationalism that excluded nonwhite Americans.",
+   "uso:questionFor": {
+    "@id": "us:theodore-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born at 28 East 20th Street in New York City.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1858-10-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1901-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1902"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court upholds the government's antitrust suit against the Northern Securities Company; Roosevelt wins a full term in a landslide.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1904"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the Antiquities Act, which he then uses to proclaim 18 national monuments.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A shooting in Brownsville, Texas, is blamed on Black soldiers of the 25th Infantry; Roosevelt later discharges 167 of them without honor or trial.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1906-08-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leaves the presidency after keeping a pledge not to seek another term.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1909"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leads the new Progressive (\"Bull Moose\") Party after losing the Republican nomination to William Howard Taft.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1912-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1912-10-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Explores an uncharted river in Brazil.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graduates from Harvard College.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1880-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/20",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at Oyster Bay, New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1919-01-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wins a seat in the New York State Assembly.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1882"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "First travels to the Dakota Badlands, where he later ranches.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1883-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "His mother and his first wife, Alice, die in the same house on the same day.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1884"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Appointed to the U.S. Civil Service Commission by President Benjamin Harrison.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1889"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Resigns from the Civil Service Commission and becomes a New York City police commissioner.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1898-07-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sworn in as president at 42 after the assassination of William McKinley.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1901-09-14"
    }
   },
   {
@@ -28179,6 +28533,203 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:theodore-roosevelt",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s9"
+    }
+   ],
+   "rdfs:label": "Theodore Roosevelt",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1858-10-27"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1919-01-06"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1919-01-06"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1858-10-27"
+   },
+   "skos:altLabel": [
+    "26th President of the United States",
+    "TR",
+    "Teddy Roosevelt",
+    "Theodore Roosevelt Jr."
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "The 26th president of the United States (1901–1909), a New York Republican who took office at 42 after William McKinley's assassination, regulated big business under his \"Square Deal,\" protected about 230 million acres of public land, won the 1906 Nobel Peace Prize, and ran for president again in 1912 as a Progressive.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Theodore Roosevelt",
+   "skos:related": [
+    {
+     "@id": "us:antiquities-act"
+    },
+    {
+     "@id": "us:booker-t-washington"
+    },
+    {
+     "@id": "us:brownsville-affair"
+    },
+    {
+     "@id": "us:buffalo-soldiers"
+    },
+    {
+     "@id": "us:national-park-service"
+    },
+    {
+     "@id": "us:panama-canal"
+    },
+    {
+     "@id": "us:progressive-era"
+    },
+    {
+     "@id": "us:roosevelt-corollary"
+    },
+    {
+     "@id": "us:square-deal"
+    },
+    {
+     "@id": "us:yellowstone-national-park"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:national-park-system"
+   },
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/theodore-roosevelt.md",
+   "uso:heldOffice": {
+    "@id": "us:presidency-of-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": [
+    {
+     "@id": "us:progressive-party-1912"
+    },
+    {
+     "@id": "us:republican-party"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:anthracite-coal-strike-of-1902"
+    },
+    {
+     "@id": "us:spanish-american-war"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:gilded-age"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/theodore-roosevelt/timeline/9"
     }
    ]
   },

@@ -10235,6 +10235,224 @@
   ]
  },
  {
+  "id": "us:theodore-roosevelt",
+  "title": "Theodore Roosevelt",
+  "aliases": [
+   "Teddy Roosevelt",
+   "TR",
+   "Theodore Roosevelt Jr.",
+   "26th President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/theodore-roosevelt.md",
+  "created": "2026-11-15",
+  "summary": "The 26th president of the United States (1901–1909), a New York Republican who took office at 42 after William McKinley's assassination, regulated big business under his \"Square Deal,\" protected about 230 million acres of public land, won the 1906 Nobel Peace Prize, and ran for president again in 1912 as a Progressive.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:roosevelt-corollary"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:square-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:antiquities-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-park-service"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brownsville-affair"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:booker-t-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:buffalo-soldiers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:yellowstone-national-park"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:republican-party",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:progressive-party-1912",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:spanish-american-war",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:anthracite-coal-strike-of-1902",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:national-park-system",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "1858-10-27",
+  "end": "1919-01-06",
+  "review": [
+   {
+    "question": "How did Roosevelt end the 1902 anthracite coal strike, and how did that episode give his domestic program its name?",
+    "answer": "When the mine owners refused to negotiate, he threatened to have troops seize and run the mines as a federal operation; both sides then agreed to accept the recommendations of a commission. He called the settlement a \"square deal,\" and the phrase became the name of his whole domestic program."
+   },
+   {
+    "question": "Why is it inaccurate to say that Roosevelt founded the National Park Service, even though he shaped the park system?",
+    "answer": "The National Park Service was created in 1916, seven years after he left office. He shaped the system by helping create 23 of the 35 sites the agency inherited and by proclaiming 18 national monuments under the 1906 Antiquities Act."
+   },
+   {
+    "question": "Why do historians describe Roosevelt's record on race as divided or mixed?",
+    "answer": "He invited Booker T. Washington to dine at the White House and appointed some Black Southerners to office, yet he discharged 167 Black soldiers after the Brownsville shooting without a trial, did little to stop Black disfranchisement, and, as Gary Gerstle argues, combined a civic nationalism open to European immigrants with a racial nationalism that excluded nonwhite Americans."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1858-10-27",
+    "event": "Born at 28 East 20th Street in New York City."
+   },
+   {
+    "date": "1880-06",
+    "event": "Graduates from Harvard College."
+   },
+   {
+    "date": "1882",
+    "event": "Wins a seat in the New York State Assembly."
+   },
+   {
+    "date": "1883-09",
+    "event": "First travels to the Dakota Badlands, where he later ranches."
+   },
+   {
+    "date": "1884",
+    "event": "His mother and his first wife, Alice, die in the same house on the same day."
+   },
+   {
+    "date": "1889",
+    "event": "Appointed to the U.S. Civil Service Commission by President Benjamin Harrison."
+   },
+   {
+    "date": "1895",
+    "event": "Resigns from the Civil Service Commission and becomes a New York City police commissioner."
+   },
+   {
+    "date": "1898-07-01",
+    "event": "Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry."
+   },
+   {
+    "date": "1901-09-14",
+    "event": "Sworn in as president at 42 after the assassination of William McKinley."
+   },
+   {
+    "date": "1901-10",
+    "event": "Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners."
+   },
+   {
+    "date": "1902",
+    "event": "Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike."
+   },
+   {
+    "date": "1904",
+    "event": "The Supreme Court upholds the government's antitrust suit against the Northern Securities Company; Roosevelt wins a full term in a landslide."
+   },
+   {
+    "date": "1906",
+    "event": "Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War."
+   },
+   {
+    "date": "1906-06-08",
+    "event": "Signs the Antiquities Act, which he then uses to proclaim 18 national monuments."
+   },
+   {
+    "date": "1906-08-13",
+    "event": "A shooting in Brownsville, Texas, is blamed on Black soldiers of the 25th Infantry; Roosevelt later discharges 167 of them without honor or trial."
+   },
+   {
+    "date": "1909",
+    "event": "Leaves the presidency after keeping a pledge not to seek another term."
+   },
+   {
+    "date": "1912-08",
+    "event": "Leads the new Progressive (\"Bull Moose\") Party after losing the Republican nomination to William Howard Taft."
+   },
+   {
+    "date": "1912-10-14",
+    "event": "Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet."
+   },
+   {
+    "date": "1914",
+    "event": "Explores an uncharted river in Brazil."
+   },
+   {
+    "date": "1919-01-06",
+    "event": "Dies at Oyster Bay, New York."
+   }
+  ],
+  "misconception": {
+   "myth": "Theodore Roosevelt created the National Park Service.",
+   "fact": "The National Park Service was established in 1916, seven years after Roosevelt left office. What he did do was help create 23 of the 35 sites the new agency inherited, proclaim 18 national monuments under the Antiquities Act, and create the U.S. Forest Service in 1905.",
+   "why": "Crediting him with the agency blurs the difference between the parks and monuments he set aside and the bureau that later managed them, and hides the separate national-forest system he built."
+  },
+  "source_urls": [
+   "https://www.nps.gov/thri/theodorerooseveltbio.htm",
+   "https://millercenter.org/node/258",
+   "https://millercenter.org/node/261",
+   "https://home.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm",
+   "https://www.nps.gov/articles/000/busospanamwar.htm",
+   "https://www.theodorerooseveltcenter.org/encyclopedia/race-ethnicity-and-gender/brownsville-incident/",
+   "https://www.britannica.com/event/United-States-presidential-election-of-1912",
+   "https://historycooperative.org/journal/theodore-roosevelt-and-the-divided-character-of-american-nationalism/",
+   "https://www.nobelprize.org/prizes/peace/1906/roosevelt/facts/",
+   "https://www.nps.gov/articles/000/theodore-roosevelt-a-complicated-legacy-bts-podcast.htm"
+  ]
+ },
+ {
   "id": "us:third-locks-project",
   "title": "Third Locks Project",
   "aliases": [
