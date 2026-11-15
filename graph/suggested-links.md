@@ -11,21 +11,21 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
 | 2.25 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
 | 2.23 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
-| 2.21 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty`, `us:united-states` |
+| 2.20 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.18 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
-| 2.17 | `us:due-process` | `us:united-states-congress` | `us:bill-of-rights`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states`, `us:united-states-constitution` |
 | 2.16 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
+| 2.14 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty`, `us:united-states` |
+| 2.10 | `us:due-process` | `us:united-states-congress` | `us:bill-of-rights`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states`, `us:united-states-constitution` |
 | 2.09 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
 | 2.07 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:harriet-tubman`, `us:underground-railroad`, `us:united-states` |
 | 2.00 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.94 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
-| 1.90 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
-| 1.89 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
+| 1.87 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
+| 1.87 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
 | 1.85 | `us:missouri-compromise` | `us:united-states` | `us:american-civil-war`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 1.84 | `us:articles-of-confederation` | `us:tribal-sovereignty` | `us:federalism`, `us:united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | 1.83 | `us:abraham-lincoln` | `us:george-washington` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.83 | `us:abraham-lincoln` | `us:thomas-jefferson` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.78 | `us:american-civil-war` | `us:american-revolutionary-war` | `us:african-americans`, `us:wars-of-the-united-states` |
-| 1.78 | `us:indian-removal-act` | `us:new-orleans` | `us:choctaw-nation`, `us:louisiana-purchase` |

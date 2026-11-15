@@ -7118,6 +7118,183 @@
   ]
  },
  {
+  "id": "us:obergefell-v-hodges",
+  "title": "Obergefell v. Hodges",
+  "aliases": [
+   "Obergefell v. Hodges (2015)",
+   "576 U.S. 644",
+   "Obergefell decision"
+  ],
+  "type": "CourtCase",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/contemporary-america/obergefell-v-hodges.md",
+  "created": "2026-11-15",
+  "summary": "The 2015 U.S. Supreme Court decision, decided 5–4, holding that the Fourteenth Amendment's Due Process and Equal Protection Clauses require every state to license marriages between two people of the same sex and to recognize such marriages lawfully performed in other states.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:same-sex-marriage-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:loving-v-virginia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:defense-of-marriage-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:respect-for-marriage-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:goodridge-v-department-of-public-health"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lgbtq-americans"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:due-process"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:fourteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:right-to-marry",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:protects",
+    "object": "us:equal-protection",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:overturns",
+    "object": "us:baker-v-nelson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:anthony-kennedy",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:united-states-v-windsor",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:lgbtq-americans",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2015-06-26",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Court rely on both the Due Process Clause and the Equal Protection Clause rather than only one of them?",
+    "answer": "The majority treated the right to marry as a fundamental liberty protected by due process and held that excluding same-sex couples from it also denied them equal treatment, reasoning that the two clauses are connected and each can inform the meaning of the other."
+   },
+   {
+    "question": "How did the dissenting justices' main objection differ from an argument about marriage policy itself?",
+    "answer": "Chief Justice Roberts and the other dissenters argued chiefly about who should decide; they said the Constitution leaves the definition of marriage to voters and legislatures, so the Court had wrongly ended a democratic debate, whatever one thinks of same-sex marriage as policy."
+   },
+   {
+    "question": "Why did Congress pass the Respect for Marriage Act in 2022 even though Obergefell was still in force, and what does that law not do?",
+    "answer": "The act replaced the Defense of Marriage Act's federal definition with one recognizing marriages valid where performed and barred states from denying recognition to other states' marriages because of the couple's sex or race; it does not require any state to issue marriage licenses itself, and it protects nonprofit religious organizations from having to provide services for weddings."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1996",
+    "event": "Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages."
+   },
+   {
+    "date": "2003-11-18",
+    "event": "Massachusetts's Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional."
+   },
+   {
+    "date": "2004-05-17",
+    "event": "Goodridge takes effect and Massachusetts becomes the first state where same-sex couples can marry."
+   },
+   {
+    "date": "2013",
+    "event": "United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans."
+   },
+   {
+    "date": "2014-11",
+    "event": "A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts."
+   },
+   {
+    "date": "2015-01",
+    "event": "The Supreme Court agrees to hear the four consolidated cases."
+   },
+   {
+    "date": "2015-04-28",
+    "event": "The case is argued before the Supreme Court."
+   },
+   {
+    "date": "2015-06-26",
+    "event": "The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson."
+   },
+   {
+    "date": "2022-12-13",
+    "event": "The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages."
+   },
+   {
+    "date": "2025-11-10",
+    "event": "The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell."
+   }
+  ],
+  "misconception": {
+   "myth": "Same-sex marriage first became legal anywhere in the United States with the Obergefell decision in 2015.",
+   "fact": "Same-sex couples had been marrying in Massachusetts since May 17, 2004; by June 2015 legislators or voters in eleven states and the District of Columbia had legalized it, and federal and state courts had struck down bans in many more, so Obergefell extended marriage to the remaining states that still barred it.",
+   "why": "Remembering the decision as the starting point hides a decade of state court cases, legislative votes and ballot campaigns on both sides, and it overlooks that the Court's question was whether the states that still refused could keep doing so."
+  },
+  "source_urls": [
+   "https://law.cornell.edu/supremecourt/text/14-556",
+   "https://api.oyez.org/cases/2014/14-556",
+   "https://www.docsteach.org/documents/document/opinion-obergefell-v-hodges",
+   "https://www.americanyawp.com/reader/30-the-recent-past/obergefell-v-hodges-2015/",
+   "https://www.congress.gov/117/plaws/publ228/PLAW-117publ228.htm",
+   "https://constitutioncenter.org/blog/before-obergefell-there-was-goodridge-the-birth-of-same-sex-marriage-in-ame",
+   "https://www.scielo.br/j/rinc/a/VkpyDRFsZHDDD9rK6LmB4zS/?lang=en",
+   "https://www.pewresearch.org/social-trends/2025/06/12/rising-number-of-u-s-households-are-headed-by-married-same-sex-couples/",
+   "https://www.supremecourt.gov/docket/docketfiles/html/public/25-125.html",
+   "https://www.govinfo.gov/content/pkg/CREC-2022-12-08/html/CREC-2022-12-08-pt1-PgH8827-3.htm",
+   "https://britannica.com/event/Obergefell-v-Hodges",
+   "https://www.michiganpublic.org/2025-06-26/equal-dignity-u-s-map-shows-the-impact-of-obergefell-v-hodges-decision"
+  ]
+ },
+ {
   "id": "us:okies",
   "title": "Okies",
   "aliases": [

@@ -154,6 +154,21 @@
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s10> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s11> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s12> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/obergefell-v-hodges.md" .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> .
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/contemporary-america/september-11-attacks.md" .
@@ -2865,6 +2880,181 @@
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://schema.org/url> <https://www.gao.gov/products/GAO-19-475T> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges#graph> {
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Same-sex couples had been marrying in Massachusetts since May 17, 2004; by June 2015 legislators or voters in eleven states and the District of Columbia had legalized it, and federal and state courts had struck down bans in many more, so Obergefell extended marriage to the remaining states that still barred it." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Same-sex marriage first became legal anywhere in the United States with the Obergefell decision in 2015." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Remembering the decision as the starting point hides a decade of state court cases, legislative votes and ballot campaigns on both sides, and it overlooks that the Court's question was whether the states that still refused could keep doing so." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Court rely on both the Due Process Clause and the Equal Protection Clause rather than only one of them?" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The majority treated the right to marry as a fundamental liberty protected by due process and held that excluding same-sex couples from it also denied them equal treatment, reasoning that the two clauses are connected and each can inform the meaning of the other." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the dissenting justices' main objection differ from an argument about marriage policy itself?" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Chief Justice Roberts and the other dissenters argued chiefly about who should decide; they said the Constitution leaves the definition of marriage to voters and legislatures, so the Court had wrongly ended a democratic debate, whatever one thinks of same-sex marriage as policy." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress pass the Respect for Marriage Act in 2022 even though Obergefell was still in force, and what does that law not do?" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The act replaced the Defense of Marriage Act's federal definition with one recognizing marriages valid where performed and barred states from denying recognition to other states' marriages because of the couple's sex or race; it does not require any state to issue marriage licenses itself, and it protects nonprofit religious organizations from having to provide services for weddings." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2025-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts's Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2003-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Goodridge takes effect and Massachusetts becomes the first state where same-sex couples can marry." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2004-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2014-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court agrees to hear the four consolidated cases." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2015-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The case is argued before the Supreme Court." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2015-04-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2015-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2022-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2000/01/rdf-schema#label> "Obergefell v. Hodges" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#altLabel> "576 U.S. 644" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#altLabel> "Obergefell decision" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#altLabel> "Obergefell v. Hodges (2015)" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#definition> "The 2015 U.S. Supreme Court decision, decided 5–4, holding that the Fourteenth Amendment's Due Process and Equal Protection Clauses require every state to license marriages between two people of the same sex and to recognize such marriages lawfully performed in other states." .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obergefell v. Hodges" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/defense-of-marriage-act> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/goodridge-v-department-of-public-health> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/loving-v-virginia> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/respect-for-marriage-act> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/anthony-kennedy> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/obergefell-v-hodges.md" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/united-states-v-windsor> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#overturns> <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#protects> <https://github.com/john1hsu/usa-graph/id/right-to-marry> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://schema.org/startDate> "2015-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <http://purl.org/dc/terms/title> "Congressional Record, House, December 8, 2022: Respect for Marriage Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/CREC-2022-12-08/html/CREC-2022-12-08-pt1-PgH8827-3.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <http://purl.org/dc/terms/publisher> "Michigan Public (NPR)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <http://purl.org/dc/terms/title> "'Equal dignity': U.S. map shows the impact of Obergefell v. Hodges decision" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11> <https://schema.org/url> <https://www.michiganpublic.org/2025-06-26/equal-dignity-u-s-map-shows-the-impact-of-obergefell-v-hodges-decision> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <http://purl.org/dc/terms/title> "Obergefell v. Hodges" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12> <https://schema.org/url> <https://britannica.com/event/Obergefell-v-Hodges> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School (Supreme Court opinion text)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <http://purl.org/dc/terms/title> "Obergefell v. Hodges, 576 U.S. 644 (2015): opinion of the Court and dissents" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1> <https://schema.org/url> <https://law.cornell.edu/supremecourt/text/14-556> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <http://purl.org/dc/terms/publisher> "Oyez (Cornell LII, Chicago-Kent College of Law and Justia)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <http://purl.org/dc/terms/title> "Obergefell v. Hodges" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2> <https://schema.org/url> <https://api.oyez.org/cases/2014/14-556> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <http://purl.org/dc/terms/publisher> "National Archives, DocsTeach" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <http://purl.org/dc/terms/title> "Supreme Court Opinion in Obergefell v. Hodges (audio recording, NAID 183518316)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3> <https://schema.org/url> <https://www.docsteach.org/documents/document/opinion-obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <http://purl.org/dc/terms/publisher> "The American Yawp Reader (Stanford University Press)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <http://purl.org/dc/terms/title> "Obergefell v. Hodges (2015)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4> <https://schema.org/url> <https://www.americanyawp.com/reader/30-the-recent-past/obergefell-v-hodges-2015/> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <http://purl.org/dc/terms/publisher> "Congress.gov" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <http://purl.org/dc/terms/title> "Public Law 117-228: Respect for Marriage Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5> <https://schema.org/url> <https://www.congress.gov/117/plaws/publ228/PLAW-117publ228.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <http://purl.org/dc/terms/publisher> "National Constitution Center, Constitution Daily" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <http://purl.org/dc/terms/title> "Before Obergefell, there was Goodridge: The birth of same-sex marriage in America" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6> <https://schema.org/url> <https://constitutioncenter.org/blog/before-obergefell-there-was-goodridge-the-birth-of-same-sex-marriage-in-ame> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <http://purl.org/dc/terms/publisher> "Revista de Investigações Constitucionais (SciELO)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <http://purl.org/dc/terms/title> "Marriage equality in the United States: a look at Obergefell and beyond (Toni Jaeger-Fine, Revista de Investigações Constitucionais 3, no. 1, 2016; doi:10.5380/rinc.v3i1.45108)" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7> <https://schema.org/url> <https://www.scielo.br/j/rinc/a/VkpyDRFsZHDDD9rK6LmB4zS/?lang=en> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <http://purl.org/dc/terms/publisher> "Pew Research Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <http://purl.org/dc/terms/title> "Rising number of U.S. households are headed by married same-sex couples" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8> <https://schema.org/url> <https://www.pewresearch.org/social-trends/2025/06/12/rising-number-of-u-s-households-are-headed-by-married-same-sex-couples/> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <http://purl.org/dc/terms/title> "Docket No. 25-125, Kim Davis v. David Ermold, et al." .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9> <https://schema.org/url> <https://www.supremecourt.gov/docket/docketfiles/html/public/25-125.html> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks#graph> {
@@ -10508,6 +10698,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -10551,6 +10742,9 @@
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/annapolis-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/anthony-kennedy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/anthony-kennedy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/anthony-kennedy> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/anthracite-coal-strike-of-1902> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/arizona-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
@@ -10593,6 +10787,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -10601,6 +10796,9 @@
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/baltimore-and-ohio-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -10859,6 +11057,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -10906,10 +11105,12 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/defense-of-marriage-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -10965,6 +11166,7 @@
   <https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -11039,8 +11241,10 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -11144,6 +11348,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
@@ -11151,6 +11356,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -11278,6 +11484,7 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/goodridge-v-department-of-public-health> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/grand-canyon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -11656,6 +11863,8 @@
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -11725,6 +11934,7 @@
   <https://github.com/john1hsu/usa-graph/id/louisiana> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/louisiana> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/loving-v-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/loving-v-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/loyalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -11976,6 +12186,31 @@
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/octave-chanute> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/okies/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -12227,6 +12462,11 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-finance-corporation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/respect-for-marriage-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+  <https://github.com/john1hsu/usa-graph/id/right-to-marry> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
@@ -12240,6 +12480,8 @@
   <https://github.com/john1hsu/usa-graph/id/route-66> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/samuel-pierpont-langley> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -12370,6 +12612,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -12394,6 +12637,7 @@
   <https://github.com/john1hsu/usa-graph/id/student-nonviolent-coordinating-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -12463,6 +12707,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -12494,6 +12739,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -12657,6 +12903,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -12672,6 +12919,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-cruikshank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-reese> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-v-windsor> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .

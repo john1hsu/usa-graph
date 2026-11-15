@@ -221,6 +221,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Congress reorganize FEMA in 2006?
   **A:** The response to Hurricane Katrina in August 2005 exposed gaps in federal emergency management, so the Post-Katrina Emergency Management Reform Act gave FEMA substantial new authority and a stronger preparedness mission within the department.
 
+### [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| Same-sex marriage first became legal anywhere in the United States with the Obergefell decision in 2015. | Same-sex couples had been marrying in Massachusetts since May 17, 2004; by June 2015 legislators or voters in eleven states and the District of Columbia had legalized it, and federal and state courts had struck down bans in many more, so Obergefell extended marriage to the remaining states that still barred it. |
+
+**Why it matters:** Remembering the decision as the starting point hides a decade of state court cases, legislative votes and ballot campaigns on both sides, and it overlooks that the Court's question was whether the states that still refused could keep doing so.
+
+- **Q:** Why did the Court rely on both the Due Process Clause and the Equal Protection Clause rather than only one of them?
+  **A:** The majority treated the right to marry as a fundamental liberty protected by due process and held that excluding same-sex couples from it also denied them equal treatment, reasoning that the two clauses are connected and each can inform the meaning of the other.
+- **Q:** How did the dissenting justices' main objection differ from an argument about marriage policy itself?
+  **A:** Chief Justice Roberts and the other dissenters argued chiefly about who should decide; they said the Constitution leaves the definition of marriage to voters and legislatures, so the Court had wrongly ended a democratic debate, whatever one thinks of same-sex marriage as policy.
+- **Q:** Why did Congress pass the Respect for Marriage Act in 2022 even though Obergefell was still in force, and what does that law not do?
+  **A:** The act replaced the Defense of Marriage Act's federal definition with one recognizing marriages valid where performed and barred states from denying recognition to other states' marriages because of the couple's sex or race; it does not require any state to issue marriage licenses itself, and it protects nonprofit religious organizations from having to provide services for weddings.
+
 ### [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) — Event
 
 | Myth | Fact |

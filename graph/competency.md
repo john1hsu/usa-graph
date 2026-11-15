@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
 
-…and 20 more.
+…and 21 more.
 
 ## Happenings by era
 
@@ -148,7 +148,9 @@ _Which amendments, laws and court cases protect each right?_ — `queries/11-rig
 | `us:due-process` | `us:fourteenth-amendment` |
 | `us:equal-protection` | `us:brown-v-board-of-education` |
 | `us:equal-protection` | `us:fourteenth-amendment` |
+| `us:equal-protection` | `us:obergefell-v-hodges` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | `us:thirteenth-amendment` |
+| `us:right-to-marry` | `us:obergefell-v-hodges` |
 | `us:right-to-vote` | `us:fifteenth-amendment` |
 | `us:right-to-vote` | `us:voting-rights-act-of-1965` |
 

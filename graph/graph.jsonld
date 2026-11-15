@@ -5777,6 +5777,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Same-sex couples had been marrying in Massachusetts since May 17, 2004; by June 2015 legislators or voters in eleven states and the District of Columbia had legalized it, and federal and state courts had struck down bans in many more, so Obergefell extended marriage to the remaining states that still barred it.",
+   "uso:myth": "Same-sex marriage first became legal anywhere in the United States with the Obergefell decision in 2015.",
+   "uso:why": "Remembering the decision as the starting point hides a decade of state court cases, legislative votes and ballot campaigns on both sides, and it overlooks that the Court's question was whether the states that still refused could keep doing so."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Court rely on both the Due Process Clause and the Equal Protection Clause rather than only one of them?",
+   "uso:answer": "The majority treated the right to marry as a fundamental liberty protected by due process and held that excluding same-sex couples from it also denied them equal treatment, reasoning that the two clauses are connected and each can inform the meaning of the other.",
+   "uso:questionFor": {
+    "@id": "us:obergefell-v-hodges"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the dissenting justices' main objection differ from an argument about marriage policy itself?",
+   "uso:answer": "Chief Justice Roberts and the other dissenters argued chiefly about who should decide; they said the Constitution leaves the definition of marriage to voters and legislatures, so the Court had wrongly ended a democratic debate, whatever one thinks of same-sex marriage as policy.",
+   "uso:questionFor": {
+    "@id": "us:obergefell-v-hodges"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress pass the Respect for Marriage Act in 2022 even though Obergefell was still in force, and what does that law not do?",
+   "uso:answer": "The act replaced the Defense of Marriage Act's federal definition with one recognizing marriages valid where performed and barred states from denying recognition to other states' marriages because of the couple's sex or race; it does not require any state to issue marriage licenses itself, and it protects nonprofit religious organizations from having to provide services for weddings.",
+   "uso:questionFor": {
+    "@id": "us:obergefell-v-hodges"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1996"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2025-11-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Massachusetts's Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2003-11-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Goodridge takes effect and Massachusetts becomes the first state where same-sex couples can marry.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2004-05-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2013"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2014-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court agrees to hear the four consolidated cases.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2015-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The case is argued before the Supreme Court.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2015-04-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2015-06-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2022-12-13"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/okies/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys.",
@@ -12041,6 +12165,174 @@
    "dcterms:title": "Hurricane Katrina - August 2005",
    "schema:url": {
     "@id": "https://weather.gov/mob/katrina"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Legal Information Institute, Cornell Law School (Supreme Court opinion text)",
+   "dcterms:title": "Obergefell v. Hodges, 576 U.S. 644 (2015): opinion of the Court and dissents",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/supremecourt/text/14-556"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "Congressional Record, House, December 8, 2022: Respect for Marriage Act",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/CREC-2022-12-08/html/CREC-2022-12-08-pt1-PgH8827-3.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Michigan Public (NPR)",
+   "dcterms:title": "'Equal dignity': U.S. map shows the impact of Obergefell v. Hodges decision",
+   "schema:url": {
+    "@id": "https://www.michiganpublic.org/2025-06-26/equal-dignity-u-s-map-shows-the-impact-of-obergefell-v-hodges-decision"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Obergefell v. Hodges",
+   "schema:url": {
+    "@id": "https://britannica.com/event/Obergefell-v-Hodges"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Oyez (Cornell LII, Chicago-Kent College of Law and Justia)",
+   "dcterms:title": "Obergefell v. Hodges",
+   "schema:url": {
+    "@id": "https://api.oyez.org/cases/2014/14-556"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, DocsTeach",
+   "dcterms:title": "Supreme Court Opinion in Obergefell v. Hodges (audio recording, NAID 183518316)",
+   "schema:url": {
+    "@id": "https://www.docsteach.org/documents/document/opinion-obergefell-v-hodges"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The American Yawp Reader (Stanford University Press)",
+   "dcterms:title": "Obergefell v. Hodges (2015)",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/reader/30-the-recent-past/obergefell-v-hodges-2015/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Congress.gov",
+   "dcterms:title": "Public Law 117-228: Respect for Marriage Act",
+   "schema:url": {
+    "@id": "https://www.congress.gov/117/plaws/publ228/PLAW-117publ228.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Constitution Center, Constitution Daily",
+   "dcterms:title": "Before Obergefell, there was Goodridge: The birth of same-sex marriage in America",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/before-obergefell-there-was-goodridge-the-birth-of-same-sex-marriage-in-ame"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Revista de Investigações Constitucionais (SciELO)",
+   "dcterms:title": "Marriage equality in the United States: a look at Obergefell and beyond (Toni Jaeger-Fine, Revista de Investigações Constitucionais 3, no. 1, 2016; doi:10.5380/rinc.v3i1.45108)",
+   "schema:url": {
+    "@id": "https://www.scielo.br/j/rinc/a/VkpyDRFsZHDDD9rK6LmB4zS/?lang=en"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Pew Research Center",
+   "dcterms:title": "Rising number of U.S. households are headed by married same-sex couples",
+   "schema:url": {
+    "@id": "https://www.pewresearch.org/social-trends/2025/06/12/rising-number-of-u-s-households-are-headed-by-married-same-sex-couples/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Supreme Court of the United States",
+   "dcterms:title": "Docket No. 25-125, Kim Davis v. David Ermold, et al.",
+   "schema:url": {
+    "@id": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-125.html"
    },
    "uso:sourceType": "government"
   },
@@ -22302,6 +22594,163 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:obergefell-v-hodges",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/obergefell-v-hodges/s9"
+    }
+   ],
+   "rdfs:label": "Obergefell v. Hodges",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2015-06-26"
+   },
+   "skos:altLabel": [
+    "576 U.S. 644",
+    "Obergefell decision",
+    "Obergefell v. Hodges (2015)"
+   ],
+   "skos:broader": {
+    "@id": "us:same-sex-marriage-in-the-united-states"
+   },
+   "skos:definition": "The 2015 U.S. Supreme Court decision, decided 5–4, holding that the Fourteenth Amendment's Due Process and Equal Protection Clauses require every state to license marriages between two people of the same sex and to recognize such marriages lawfully performed in other states.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Obergefell v. Hodges",
+   "skos:related": [
+    {
+     "@id": "us:defense-of-marriage-act"
+    },
+    {
+     "@id": "us:goodridge-v-department-of-public-health"
+    },
+    {
+     "@id": "us:lgbtq-americans"
+    },
+    {
+     "@id": "us:loving-v-virginia"
+    },
+    {
+     "@id": "us:respect-for-marriage-act"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:lgbtq-americans"
+   },
+   "uso:authoredBy": {
+    "@id": "us:anthony-kennedy"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/contemporary-america/obergefell-v-hodges.md",
+   "uso:influencedBy": {
+    "@id": "us:united-states-v-windsor"
+   },
+   "uso:interprets": {
+    "@id": "us:fourteenth-amendment"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:baker-v-nelson"
+   },
+   "uso:protects": [
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:right-to-marry"
+    }
+   ],
+   "uso:requires": [
+    {
+     "@id": "us:due-process"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/timeline/9"
     }
    ]
   },
