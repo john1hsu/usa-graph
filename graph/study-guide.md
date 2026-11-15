@@ -183,6 +183,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did later reformers use the Declaration's language?
   **A:** The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed.
 
+### [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) — Document
+
+| Myth | Fact |
+|---|---|
+| In the Treaty of Paris, the Native nations east of the Mississippi gave up their lands to the United States. | The treaty was made between Britain and the United States alone, signed only by their commissioners, and contained no terms at all for Britain's Native allies; Britain signed away only its own claims, and each nation was left to make its own peace with the United States, which at Fort Stanwix in 1784 treated four of the Six Nations as defeated enemies. A Native confederacy north of the Ohio went on to defeat U.S. armies in 1790 and 1791. |
+
+**Why it matters:** The treaty's boundary lines put the whole region between the Appalachians and the Mississippi inside the United States on paper, which makes it easy to read a European diplomatic agreement as if it settled who actually held and governed the land.
+
+- **Q:** Why did the American commissioners sign preliminary terms with Britain in November 1782 that could not take effect at once?
+  **A:** The United States was allied with France, so the preliminary articles were written to take effect only after Britain and France agreed their own peace terms; France and Britain signed their preliminaries on January 20, 1783, and the definitive treaty followed on September 3.
+- **Q:** How did Article 7 of the treaty, which barred the British from carrying away enslaved people, end up being applied in New York?
+  **A:** Sir Guy Carleton read it as not covering Black people who had already joined the British, so they could not be returned as property; about 3,000 in New York received passes recorded in the Book of Negroes, and upwards of 9,000 people of African descent left with the British from New York and other ports.
+- **Q:** Why did the treaty leave the Haudenosaunee and other Native nations to negotiate separately with the United States?
+  **A:** The treaty was between Britain and the United States only and contained no negotiated terms for Britain's Native allies, so each nation had to make its own peace, as the Six Nations did under pressure at Fort Stanwix in 1784.
+- **Q:** How did disputes over the treaty's debt and western-post terms help make the case for a stronger national government?
+  **A:** Virginia closed its courts to British creditors because Britain had broken the treaty, and British garrisons stayed at Detroit, Niagara and other posts inside U.S. borders; Federalists argued that only a Congress able to tax and raise an army could force Britain to leave.
+
 ## constitution-and-government
 
 ### [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) — Event

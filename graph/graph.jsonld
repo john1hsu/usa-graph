@@ -17513,6 +17513,104 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Treaty of Paris (1783)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/treaty-of-paris"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian (Milestones in the History of U.S. Foreign Relations)",
+   "dcterms:title": "Treaty of Paris, 1783",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/treaty"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 40)",
+   "dcterms:title": "Definitive Treaty of Peace between the United States and Great Britain, 3 September 1783",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Franklin/01-40-02-0356"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Eliga Gould, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Virginia and the Treaty of Paris (1783)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/virginia-and-the-treaty-of-paris-1783/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Fort Stanwix National Monument",
+   "dcterms:title": "Treaty and Land Transaction of 1784",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/treaty-and-land-transaction-of-1784.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Museum of the American Revolution",
+   "dcterms:title": "Finding Freedom: Black Loyalists After the War",
+   "schema:url": {
+    "@id": "https://www.amrevmuseum.org/big-idea-8-after-the-war"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Colonial National Historical Park (Yorktown Battlefield)",
+   "dcterms:title": "After Yorktown: 1781-1783",
+   "schema:url": {
+    "@id": "https://home.nps.gov/york/learn/historyculture/after-yorktown.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -19966,6 +20064,103 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The treaty was made between Britain and the United States alone, signed only by their commissioners, and contained no terms at all for Britain's Native allies; Britain signed away only its own claims, and each nation was left to make its own peace with the United States, which at Fort Stanwix in 1784 treated four of the Six Nations as defeated enemies. A Native confederacy north of the Ohio went on to defeat U.S. armies in 1790 and 1791.",
+   "uso:myth": "In the Treaty of Paris, the Native nations east of the Mississippi gave up their lands to the United States.",
+   "uso:why": "The treaty's boundary lines put the whole region between the Appalachians and the Mississippi inside the United States on paper, which makes it easy to read a European diplomatic agreement as if it settled who actually held and governed the land."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the American commissioners sign preliminary terms with Britain in November 1782 that could not take effect at once?",
+   "uso:answer": "The United States was allied with France, so the preliminary articles were written to take effect only after Britain and France agreed their own peace terms; France and Britain signed their preliminaries on January 20, 1783, and the definitive treaty followed on September 3.",
+   "uso:questionFor": {
+    "@id": "us:treaty-of-paris-1783"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Article 7 of the treaty, which barred the British from carrying away enslaved people, end up being applied in New York?",
+   "uso:answer": "Sir Guy Carleton read it as not covering Black people who had already joined the British, so they could not be returned as property; about 3,000 in New York received passes recorded in the Book of Negroes, and upwards of 9,000 people of African descent left with the British from New York and other ports.",
+   "uso:questionFor": {
+    "@id": "us:treaty-of-paris-1783"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the treaty leave the Haudenosaunee and other Native nations to negotiate separately with the United States?",
+   "uso:answer": "The treaty was between Britain and the United States only and contained no negotiated terms for Britain's Native allies, so each nation had to make its own peace, as the Six Nations did under pressure at Fort Stanwix in 1784.",
+   "uso:questionFor": {
+    "@id": "us:treaty-of-paris-1783"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did disputes over the treaty's debt and western-post terms help make the case for a stronger national government?",
+   "uso:answer": "Virginia closed its courts to British creditors because Britain had broken the treaty, and British garrisons stayed at Detroit, Niagara and other posts inside U.S. borders; Federalists argued that only a Congress able to tax and raise an army could force Britain to leave.",
+   "uso:questionFor": {
+    "@id": "us:treaty-of-paris-1783"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Formal peace negotiations open in Paris between British envoys and the American commissioners Benjamin Franklin, John Adams and John Jay.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-09-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The British and American commissioners sign preliminary articles of peace, to take effect only once Britain and France agree terms.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-11-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Britain and France sign their own preliminary articles, and an armistice is declared.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-01-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "David Hartley and the three American commissioners sign the definitive treaty at the Hôtel de York in Paris; Britain's treaties with France and Spain are signed at Versailles the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1783-09-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Confederation Congress, meeting in Annapolis, ratifies the treaty.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1784-01-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With no terms for Britain's Native allies in the treaty, U.S. commissioners dictate a separate peace to the Six Nations at Fort Stanwix.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1784-10-22"
    }
   },
   {
@@ -31894,6 +32089,156 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:treaty-of-paris-1783",
+   "@type": "uso:Document",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/treaty-of-paris-1783/s7"
+    }
+   ],
+   "rdfs:label": "Treaty of Paris (1783)",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1783-09-03"
+   },
+   "skos:altLabel": [
+    "Definitive Treaty of Peace",
+    "Paris Peace Treaty of 1783",
+    "Peace of Paris (1783)"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:foreign-relations-of-the-united-states"
+    },
+    {
+     "@id": "us:founding-documents-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The peace treaty between Great Britain and the United States, signed in Paris on September 3, 1783, that ended the American Revolutionary War, recognized the independence of the thirteen states, and set boundaries reaching west to the Mississippi River without any terms for the Native nations whose lands lay inside them.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Treaty of Paris (1783)",
+   "skos:related": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:canada"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:loyalists"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:northwest-indian-war"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:siege-of-yorktown"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:treaty-of-alliance-1778"
+    },
+    {
+     "@id": "us:united-states"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:haudenosaunee"
+    },
+    {
+     "@id": "us:loyalists"
+    },
+    {
+     "@id": "us:mississippi-river"
+    }
+   ],
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/colonial-and-revolutionary/treaty-of-paris-1783.md",
+   "uso:ledTo": {
+    "@id": "us:treaty-of-fort-stanwix-1784"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:signedBy": [
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:john-jay"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/6"
     }
    ]
   },

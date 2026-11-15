@@ -112,15 +112,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1782-06-13 | Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1782-06-20 | The Confederation Congress adopts the Great Seal with the motto. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1782-08-19 | British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1782-09-27 | Formal peace negotiations open in Paris between British envoys and the American commissioners Benjamin Franklin, John Adams and John Jay. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1782-11-30 | American and British commissioners sign preliminary articles of peace. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1782-11-30 | The British and American commissioners sign preliminary articles of peace, to take effect only once Britain and France agree terms. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1782-12-14 | The British evacuate Charleston, South Carolina, taking loyalists and thousands of Black people with them. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1783-01-20 | Britain and France sign their own preliminary articles, and an armistice is declared. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
+| 1783-09-03 | **[Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md)** (Document) |
+| 1783-09-03 | David Hartley and the three American commissioners sign the definitive treaty at the Hôtel de York in Paris; Britain's treaties with France and Spain are signed at Versailles the same day. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1783-09-03 | The Treaty of Paris is signed, ending the war and recognizing American independence. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1783-09-03 | The Treaty of Paris recognizes U.S. independence, with a western boundary at the Mississippi River. — [United States](../articles/states-and-territories/united-states.md) |
 | 1783-11-25 | British forces leave New York City, their last stronghold in the United States. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1784-01-14 | The Confederation Congress, meeting in Annapolis, ratifies the treaty. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1784-10-22 | With no terms for Britain's Native allies in the treaty, U.S. commissioners dictate a separate peace to the Six Nations at Fort Stanwix. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |

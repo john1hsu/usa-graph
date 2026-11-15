@@ -35,8 +35,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
+| `us:treaty-of-paris-1783` | 4 | Mississippi River, haudenosaunee, loyalists, treaty-of-fort-stanwix-1784 |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
-| `us:american-revolutionary-war` | 3 | African Americans, haudenosaunee, treaty-of-paris-1783 |
+| `us:american-revolutionary-war` | 3 | African Americans, Treaty of Paris (1783), haudenosaunee |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 | `us:monroe-doctrine` | 2 | Roosevelt Corollary, mexico |
-| `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 
-…and 34 more.
+…and 35 more.
 
 ## Happenings by era
 

@@ -12138,6 +12138,190 @@
   ]
  },
  {
+  "id": "us:treaty-of-paris-1783",
+  "title": "Treaty of Paris (1783)",
+  "aliases": [
+   "Definitive Treaty of Peace",
+   "Paris Peace Treaty of 1783",
+   "Peace of Paris (1783)"
+  ],
+  "type": "Document",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/colonial-and-revolutionary/treaty-of-paris-1783.md",
+  "created": "2026-11-15",
+  "summary": "The peace treaty between Great Britain and the United States, signed in Paris on September 3, 1783, that ended the American Revolutionary War, recognized the independence of the thirteen states, and set boundaries reaching west to the Mississippi River without any terms for the Native nations whose lands lay inside them.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:founding-documents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-alliance-1778"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-yorktown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:loyalists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:northwest-indian-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:canada"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:john-adams",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:benjamin-franklin",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:john-jay",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:mississippi-river",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:loyalists",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:haudenosaunee",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-fort-stanwix-1784",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1783-09-03",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the American commissioners sign preliminary terms with Britain in November 1782 that could not take effect at once?",
+    "answer": "The United States was allied with France, so the preliminary articles were written to take effect only after Britain and France agreed their own peace terms; France and Britain signed their preliminaries on January 20, 1783, and the definitive treaty followed on September 3."
+   },
+   {
+    "question": "How did Article 7 of the treaty, which barred the British from carrying away enslaved people, end up being applied in New York?",
+    "answer": "Sir Guy Carleton read it as not covering Black people who had already joined the British, so they could not be returned as property; about 3,000 in New York received passes recorded in the Book of Negroes, and upwards of 9,000 people of African descent left with the British from New York and other ports."
+   },
+   {
+    "question": "Why did the treaty leave the Haudenosaunee and other Native nations to negotiate separately with the United States?",
+    "answer": "The treaty was between Britain and the United States only and contained no negotiated terms for Britain's Native allies, so each nation had to make its own peace, as the Six Nations did under pressure at Fort Stanwix in 1784."
+   },
+   {
+    "question": "How did disputes over the treaty's debt and western-post terms help make the case for a stronger national government?",
+    "answer": "Virginia closed its courts to British creditors because Britain had broken the treaty, and British garrisons stayed at Detroit, Niagara and other posts inside U.S. borders; Federalists argued that only a Congress able to tax and raise an army could force Britain to leave."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1782-09-27",
+    "event": "Formal peace negotiations open in Paris between British envoys and the American commissioners Benjamin Franklin, John Adams and John Jay."
+   },
+   {
+    "date": "1782-11-30",
+    "event": "The British and American commissioners sign preliminary articles of peace, to take effect only once Britain and France agree terms."
+   },
+   {
+    "date": "1783-01-20",
+    "event": "Britain and France sign their own preliminary articles, and an armistice is declared."
+   },
+   {
+    "date": "1783-09-03",
+    "event": "David Hartley and the three American commissioners sign the definitive treaty at the Hôtel de York in Paris; Britain's treaties with France and Spain are signed at Versailles the same day."
+   },
+   {
+    "date": "1784-01-14",
+    "event": "The Confederation Congress, meeting in Annapolis, ratifies the treaty."
+   },
+   {
+    "date": "1784-10-22",
+    "event": "With no terms for Britain's Native allies in the treaty, U.S. commissioners dictate a separate peace to the Six Nations at Fort Stanwix."
+   }
+  ],
+  "misconception": {
+   "myth": "In the Treaty of Paris, the Native nations east of the Mississippi gave up their lands to the United States.",
+   "fact": "The treaty was made between Britain and the United States alone, signed only by their commissioners, and contained no terms at all for Britain's Native allies; Britain signed away only its own claims, and each nation was left to make its own peace with the United States, which at Fort Stanwix in 1784 treated four of the Six Nations as defeated enemies. A Native confederacy north of the Ohio went on to defeat U.S. armies in 1790 and 1791.",
+   "why": "The treaty's boundary lines put the whole region between the Appalachians and the Mississippi inside the United States on paper, which makes it easy to read a European diplomatic agreement as if it settled who actually held and governed the land."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/treaty-of-paris",
+   "https://history.state.gov/milestones/1776-1783/treaty",
+   "https://founders.archives.gov/documents/Franklin/01-40-02-0356",
+   "https://encyclopediavirginia.org/entries/virginia-and-the-treaty-of-paris-1783/",
+   "https://www.nps.gov/articles/000/treaty-and-land-transaction-of-1784.htm",
+   "https://www.amrevmuseum.org/big-idea-8-after-the-war",
+   "https://home.nps.gov/york/learn/historyculture/after-yorktown.htm"
+  ]
+ },
+ {
   "id": "us:tribal-sovereignty",
   "title": "Tribal sovereignty",
   "aliases": [

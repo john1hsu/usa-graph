@@ -7,16 +7,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:franklin-d-roosevelt` | 9.65 | - | `us:attack-on-pearl-harbor`, `us:dust-bowl`, `us:great-depression`, `us:hoover-dam`, `us:japanese-american-incarceration`, `us:roosevelt-corollary`, `us:supreme-court-of-the-united-states`, `us:third-locks-project`, `us:winged-figures-of-the-republic` |
 | `us:african-american-history` | 9.19 | - | `us:abolitionism`, `us:african-americans`, `us:blues`, `us:civil-rights-movement`, `us:frederick-douglass`, `us:harriet-tubman`, `us:jim-crow-laws`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | `us:reconstruction-era` | 8.17 | - | `us:african-americans`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:jim-crow-laws`, `us:panic-of-1873` |
+| `us:second-continental-congress` | 8.15 | - | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:george-washington`, `us:thomas-jefferson`, `us:treaty-of-paris-1783` |
 | `us:presidency-of-the-united-states` | 7.66 | Office | `us:abraham-lincoln`, `us:george-washington`, `us:supreme-court-of-the-united-states`, `us:theodore-roosevelt`, `us:thomas-jefferson`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:world-war-ii-and-the-united-states` | 7.63 | - | `us:attack-on-pearl-harbor`, `us:great-depression`, `us:japanese-american-incarceration`, `us:native-americans` |
 | `us:womens-suffrage-movement` | 7.62 | - | `us:abolitionism`, `us:fifteenth-amendment`, `us:frederick-douglass`, `us:harriet-tubman`, `us:liberty-bell`, `us:sojourner-truth` |
 | `us:new-deal` | 7.61 | - | `us:dust-bowl`, `us:great-depression`, `us:hoover-dam`, `us:okies`, `us:supreme-court-of-the-united-states`, `us:winged-figures-of-the-republic` |
-| `us:second-continental-congress` | 7.13 | - | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:george-washington`, `us:thomas-jefferson` |
 | `us:emancipation-proclamation` | 6.66 | - | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:slavery-in-the-united-states`, `us:thirteenth-amendment` |
 | `us:united-states-colored-troops` | 6.11 | - | `us:african-americans`, `us:american-civil-war`, `us:frederick-douglass`, `us:harriet-tubman`, `us:siege-of-vicksburg`, `us:sojourner-truth` |
 | `us:underground-railroad` | 5.61 | - | `us:abolitionism`, `us:frederick-douglass`, `us:harriet-tubman`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
-| `us:dred-scott-v-sandford` | 5.60 | Document | `us:due-process`, `us:fourteenth-amendment`, `us:missouri-compromise`, `us:supreme-court-of-the-united-states` |
 | `us:thirteen-colonies` | 5.60 | Place | `us:american-revolutionary-war`, `us:declaration-of-independence`, `us:pennsylvania`, `us:united-states` |
+| `us:dred-scott-v-sandford` | 5.60 | Document | `us:due-process`, `us:fourteenth-amendment`, `us:missouri-compromise`, `us:supreme-court-of-the-united-states` |
 | `us:three-fifths-clause` | 5.13 | - | `us:census-and-apportionment`, `us:constitutional-convention`, `us:slavery-in-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:racial-segregation-in-the-united-states` | 5.11 | - | `us:civil-rights-movement`, `us:jim-crow-laws`, `us:montgomery-bus-boycott`, `us:plessy-v-ferguson` |
 | `us:worcester-v-georgia` | 5.09 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act`, `us:tribal-sovereignty` |
@@ -24,22 +24,23 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:fugitive-slave-act-of-1850` | 4.59 | - | `us:abolitionism`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states` |
 | `us:house-of-representatives` | 4.58 | - | `us:abraham-lincoln`, `us:census-and-apportionment`, `us:united-states-congress` |
 | `us:great-migration` | 4.58 | - | `us:african-americans`, `us:blues`, `us:okies` |
+| `us:benjamin-franklin` | 4.57 | Person | `us:abolitionism`, `us:constitutional-convention`, `us:e-pluribus-unum`, `us:treaty-of-paris-1783` |
 | `us:progressive-era` | 4.57 | - | `us:gilded-age`, `us:panama-canal`, `us:roosevelt-corollary`, `us:theodore-roosevelt` |
 | `us:labor-movement` | 4.57 | - | `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:panic-of-1873` |
+| `us:founding-documents-of-the-united-states` | 4.10 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:treaty-of-paris-1783`, `us:united-states-constitution` |
 | `us:federal-government-of-the-united-states` | 4.08 | - | `us:department-of-homeland-security`, `us:supreme-court-of-the-united-states`, `us:united-states-congress` |
 | `us:presidents-of-the-united-states` | 4.08 | - | `us:abraham-lincoln`, `us:george-washington`, `us:theodore-roosevelt`, `us:thomas-jefferson` |
 | `us:james-monroe` | 4.07 | Person | `us:louisiana-purchase`, `us:missouri-compromise`, `us:monroe-doctrine` |
+| `us:foreign-relations-of-the-united-states` | 4.06 | - | `us:monroe-doctrine`, `us:panama-canal`, `us:roosevelt-corollary`, `us:treaty-of-paris-1783` |
 | `us:panama-canal-zone` | 4.06 | Place | `us:gatun-locks`, `us:panama-canal`, `us:third-locks-project` |
 | `us:orville-wright` | 4.06 | Person | `us:huffman-prairie`, `us:wright-brothers-first-flight`, `us:wright-company-school-of-aviation` |
 | `us:separation-of-powers` | 3.58 | - | `us:supreme-court-of-the-united-states`, `us:united-states-congress`, `us:united-states-constitution` |
-| `us:federalism` | 3.57 | - | `us:articles-of-confederation`, `us:tribal-sovereignty`, `us:united-states-constitution` |
+| `us:federalism` | 3.58 | - | `us:articles-of-confederation`, `us:tribal-sovereignty`, `us:united-states-constitution` |
 | `us:cahokia` | 3.57 | - | `us:mississippi-river`, `us:native-americans`, `us:united-states` |
-| `us:treaty-of-paris-1783` | 3.57 | - | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:united-states` |
 | `us:battle-of-gettysburg` | 3.56 | - | `us:american-civil-war`, `us:pennsylvania`, `us:siege-of-vicksburg` |
 | `us:dawes-act` | 3.56 | - | `us:gilded-age`, `us:native-americans`, `us:the-west` |
 | `us:alaska` | 3.56 | - | `us:hawaii`, `us:the-west`, `us:united-states` |
 | `us:louisiana` | 3.56 | Place | `us:louisiana-purchase`, `us:mississippi-river`, `us:new-orleans` |
-| `us:benjamin-franklin` | 3.55 | - | `us:abolitionism`, `us:constitutional-convention`, `us:e-pluribus-unum` |
 | `us:andrew-jackson` | 3.55 | Person | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
 | `us:cherokee-nation` | 3.55 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
 | `us:national-park-system` | 3.55 | - | `us:hayden-geological-survey-of-1871`, `us:theodore-roosevelt`, `us:yellowstone-national-park` |
@@ -48,7 +49,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:philadelphia` | 3.55 | Place | `us:betsy-ross-flag-myth`, `us:liberty-bell`, `us:pennsylvania` |
 | `us:black-codes` | 3.08 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:thirteenth-amendment` |
 | `us:reconstruction-amendments` | 3.08 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:thirteenth-amendment` |
-| `us:founding-documents-of-the-united-states` | 3.08 | - | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:united-states-constitution` |
 | `us:washington-dc` | 3.08 | Place | `us:supreme-court-of-the-united-states`, `us:united-states`, `us:united-states-congress` |
 | `us:indian-citizenship-act-of-1924` | 3.07 | - | `us:census-and-apportionment`, `us:fourteenth-amendment`, `us:native-americans` |
 | `us:ratification-of-the-constitution` | 3.07 | - | `us:constitutional-convention`, `us:united-states-constitution` |
@@ -56,18 +56,20 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:declaration-of-sentiments` | 3.06 | - | `us:abolitionism`, `us:declaration-of-independence`, `us:frederick-douglass` |
 | `us:territorial-expansion-of-the-united-states` | 3.06 | - | `us:louisiana-purchase`, `us:missouri-compromise`, `us:united-states` |
 | `us:massive-resistance` | 3.06 | - | `us:brown-v-board-of-education`, `us:desegregation-of-little-rock-central-high-school` |
+| `us:treaty-of-alliance-1778` | 3.06 | - | `us:american-revolutionary-war`, `us:declaration-of-independence`, `us:treaty-of-paris-1783` |
 | `us:republican-party` | 3.06 | - | `us:abolitionism`, `us:abraham-lincoln`, `us:theodore-roosevelt` |
+| `us:haudenosaunee` | 3.06 | - | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:treaty-of-paris-1783` |
 | `us:mexico` | 3.06 | Place | `us:colorado-river`, `us:monroe-doctrine`, `us:united-states` |
+| `us:loyalists` | 3.05 | - | `us:american-revolutionary-war`, `us:treaty-of-paris-1783` |
 | `us:railroads-in-the-united-states` | 3.05 | - | `us:great-railroad-strike-of-1877`, `us:panic-of-1873` |
 | `us:homestead-strike` | 3.05 | - | `us:gilded-age`, `us:lattimer-massacre`, `us:pennsylvania` |
 | `us:ulysses-s-grant` | 3.05 | Person | `us:panic-of-1873`, `us:siege-of-vicksburg`, `us:yellowstone-national-park` |
-| `us:foreign-relations-of-the-united-states` | 3.05 | - | `us:monroe-doctrine`, `us:panama-canal`, `us:roosevelt-corollary` |
 | `us:herbert-hoover` | 3.05 | - | `us:colorado-river`, `us:great-depression`, `us:hoover-dam` |
 | `us:colorado-river-compact` | 3.05 | - | `us:colorado-river`, `us:hoover-dam` |
 | `us:good-neighbor-policy` | 3.05 | - | `us:monroe-doctrine`, `us:roosevelt-corollary` |
+| `us:missouri` | 3.05 | - | `us:missouri-compromise`, `us:okies` |
 | `us:aviation-in-the-united-states` | 3.05 | - | `us:huffman-prairie`, `us:wright-brothers-first-flight`, `us:wright-company-school-of-aviation` |
 | `us:wilbur-wright` | 3.05 | Person | `us:huffman-prairie`, `us:wright-brothers-first-flight`, `us:wright-company-school-of-aviation` |
-| `us:missouri` | 3.05 | - | `us:missouri-compromise`, `us:okies` |
 | `us:miraflores-locks` | 3.04 | Place | `us:gatun-locks`, `us:third-locks-project` |
 | `us:panama-canal-expansion` | 3.04 | - | `us:gatun-locks`, `us:third-locks-project` |
 | `us:george-w-bush` | 3.04 | - | `us:department-of-homeland-security`, `us:september-11-attacks`, `us:war-in-afghanistan` |
@@ -77,83 +79,86 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:juneteenth` | 2.56 | - | `us:african-americans`, `us:slavery-in-the-united-states` |
 | `us:gettysburg-address` | 2.55 | - | `us:abraham-lincoln`, `us:american-civil-war` |
 | `us:civil-rights-act-of-1964` | 2.55 | - | `us:civil-rights-movement`, `us:jim-crow-laws` |
-| `us:bureau-of-indian-affairs` | 2.54 | - | `us:native-americans`, `us:tribal-sovereignty` |
+| `us:bureau-of-indian-affairs` | 2.55 | - | `us:native-americans`, `us:tribal-sovereignty` |
 | `us:james-madison` | 2.54 | - | `us:articles-of-confederation`, `us:constitutional-convention` |
 | `us:lewis-and-clark-expedition` | 2.54 | - | `us:louisiana-purchase`, `us:thomas-jefferson` |
 | `us:indian-reorganization-act` | 2.54 | - | `us:great-depression`, `us:native-americans` |
 | `us:independence-day` | 2.54 | - | `us:declaration-of-independence`, `us:siege-of-vicksburg` |
+| `us:french-and-indian-war` | 2.54 | - | `us:american-revolutionary-war`, `us:george-washington` |
 | `us:voting-rights-in-the-united-states` | 2.54 | - | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
 | `us:mexican-american-war` | 2.54 | - | `us:abraham-lincoln`, `us:the-west` |
 | `us:martin-luther-king-jr` | 2.54 | Person | `us:civil-rights-movement`, `us:montgomery-bus-boycott` |
 | `us:rosa-parks` | 2.54 | - | `us:civil-rights-movement`, `us:montgomery-bus-boycott` |
-| `us:french-and-indian-war` | 2.54 | - | `us:american-revolutionary-war`, `us:george-washington` |
-| `us:chinese-exclusion-act` | 2.53 | - | `us:gilded-age`, `us:the-west` |
-| `us:trail-of-tears` | 2.53 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
-| `us:independence-hall` | 2.53 | Place | `us:constitutional-convention`, `us:liberty-bell` |
 | `us:physical-geography-of-the-united-states` | 2.53 | - | `us:colorado-river`, `us:mississippi-river` |
+| `us:independence-hall` | 2.53 | Place | `us:constitutional-convention`, `us:liberty-bell` |
+| `us:trail-of-tears` | 2.53 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
+| `us:chinese-exclusion-act` | 2.53 | - | `us:gilded-age`, `us:the-west` |
 | `us:nineteenth-amendment` | 2.53 | - | `us:fifteenth-amendment`, `us:liberty-bell` |
 | `us:spanish-american-war` | 2.53 | - | `us:hawaii`, `us:theodore-roosevelt` |
 | `us:chicago` | 2.53 | Place | `us:blues`, `us:great-railroad-strike-of-1877` |
 | `us:agriculture-in-the-united-states` | 2.53 | - | `us:dust-bowl`, `us:great-depression` |
 | `us:manifest-destiny` | 2.53 | - | `us:monroe-doctrine`, `us:the-west` |
 | `us:cold-war` | 2.53 | Era | `us:desegregation-of-little-rock-central-high-school`, `us:jazz` |
+| `us:john-adams` | 2.53 | Person | `us:e-pluribus-unum`, `us:treaty-of-paris-1783` |
 | `us:iraq-war` | 2.53 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:flag-of-the-united-states` | 2.53 | - | `us:betsy-ross-flag-myth`, `us:e-pluribus-unum` |
 | `us:great-seal-of-the-united-states` | 2.53 | - | `us:e-pluribus-unum` |
 | `us:in-god-we-trust` | 2.53 | - | `us:e-pluribus-unum` |
 | `us:land-grant-universities` | 2.53 | - | `us:morrill-land-grant-college-act` |
 | `us:nat-turners-rebellion` | 2.06 | - | `us:abolitionism`, `us:slavery-in-the-united-states` |
-| `us:act-prohibiting-importation-of-slaves` | 2.05 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
+| `us:act-prohibiting-importation-of-slaves` | 2.06 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
+| `us:north-america` | 2.05 | Place | `us:united-states` |
 | `us:incorporation-of-the-bill-of-rights` | 2.05 | - | `us:due-process`, `us:fourteenth-amendment` |
 | `us:slaughter-house-cases` | 2.05 | - | `us:due-process`, `us:fourteenth-amendment` |
 | `us:domestic-slave-trade` | 2.05 | - | `us:new-orleans`, `us:slavery-in-the-united-states` |
-| `us:north-america` | 2.05 | Place | `us:united-states` |
+| `us:great-compromise` | 2.05 | - | `us:constitutional-convention`, `us:united-states-congress` |
 | `us:civil-rights-cases` | 2.05 | - | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
 | `us:separate-car-act` | 2.05 | Document | `us:jim-crow-laws`, `us:plessy-v-ferguson` |
-| `us:great-compromise` | 2.05 | - | `us:constitutional-convention`, `us:united-states-congress` |
 | `us:hiram-revels` | 2.05 | - | `us:fifteenth-amendment`, `us:united-states-congress` |
 | `us:racial-and-ethnic-groups-in-the-united-states` | 2.05 | - | `us:african-americans`, `us:native-americans` |
+| `us:tenth-amendment` | 2.05 | - | `us:articles-of-confederation` |
+| `us:wars-of-the-united-states` | 2.05 | - | `us:american-civil-war`, `us:american-revolutionary-war` |
+| `us:indian-self-determination-and-education-assistance-act` | 2.05 | - | `us:native-americans`, `us:tribal-sovereignty` |
 | `us:thurgood-marshall` | 2.05 | - | `us:brown-v-board-of-education`, `us:supreme-court-of-the-united-states` |
-| `us:guinn-v-united-states` | 2.05 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
-| `us:wars-of-the-united-states` | 2.04 | - | `us:american-civil-war`, `us:american-revolutionary-war` |
-| `us:indian-self-determination-and-education-assistance-act` | 2.04 | - | `us:native-americans`, `us:tribal-sovereignty` |
-| `us:tenth-amendment` | 2.04 | - | `us:articles-of-confederation` |
+| `us:guinn-v-united-states` | 2.04 | - | `us:fifteenth-amendment`, `us:jim-crow-laws` |
 | `us:lost-cause` | 2.04 | - | `us:american-civil-war`, `us:siege-of-vicksburg` |
 | `us:confederation-period` | 2.04 | - | `us:articles-of-confederation`, `us:constitutional-convention` |
+| `us:canada` | 2.04 | Place | `us:treaty-of-paris-1783`, `us:united-states` |
 | `us:dunmores-proclamation` | 2.04 | - | `us:american-revolutionary-war`, `us:declaration-of-independence` |
-| `us:treaty-of-alliance-1778` | 2.04 | - | `us:american-revolutionary-war`, `us:declaration-of-independence` |
 | `us:west-coast-hotel-co-v-parrish` | 2.04 | - | `us:due-process`, `us:supreme-court-of-the-united-states` |
+| `us:world-war-i` | 2.04 | - | `us:huffman-prairie`, `us:native-americans` |
 | `us:comite-des-citoyens` | 2.04 | - | `us:new-orleans`, `us:plessy-v-ferguson` |
 | `us:loving-v-virginia` | 2.04 | - | `us:jim-crow-laws`, `us:obergefell-v-hodges` |
-| `us:world-war-i` | 2.04 | - | `us:huffman-prairie`, `us:native-americans` |
-| `us:haudenosaunee` | 2.04 | - | `us:american-revolutionary-war`, `us:articles-of-confederation` |
+| `us:treaty-of-fort-stanwix-1784` | 2.04 | - | `us:articles-of-confederation`, `us:treaty-of-paris-1783` |
 | `us:pennsylvania-gradual-abolition-act` | 2.04 | - | `us:abolitionism`, `us:pennsylvania` |
 | `us:quakers` | 2.04 | - | `us:abolitionism`, `us:pennsylvania` |
 | `us:american-equal-rights-association` | 2.04 | - | `us:fifteenth-amendment`, `us:frederick-douglass` |
+| `us:missouri-river` | 2.04 | - | `us:mississippi-river` |
 | `us:selma-to-montgomery-marches` | 2.04 | - | `us:civil-rights-movement`, `us:voting-rights-act-of-1965` |
 | `us:school-desegregation-in-the-united-states` | 2.04 | - | `us:brown-v-board-of-education`, `us:desegregation-of-little-rock-central-high-school` |
 | `us:southern-manifesto` | 2.04 | - | `us:brown-v-board-of-education`, `us:desegregation-of-little-rock-central-high-school` |
 | `us:populist-movement` | 2.04 | - | `us:gilded-age` |
-| `us:missouri-river` | 2.04 | - | `us:mississippi-river` |
 | `us:whiskey-rebellion` | 2.04 | - | `us:george-washington`, `us:pennsylvania` |
+| `us:northwest-ordinance` | 2.04 | - | `us:articles-of-confederation`, `us:morrill-land-grant-college-act` |
 | `us:right-to-vote` | 2.04 | Right | `us:fifteenth-amendment`, `us:voting-rights-act-of-1965` |
+| `us:choctaw-nation` | 2.04 | - | `us:indian-removal-act`, `us:new-orleans` |
 | `us:historically-black-colleges-and-universities` | 2.04 | - | `us:african-americans`, `us:morrill-land-grant-college-act` |
 | `us:federal-indian-law` | 2.04 | - | `us:cherokee-nation-v-georgia`, `us:tribal-sovereignty` |
-| `us:choctaw-nation` | 2.04 | - | `us:indian-removal-act`, `us:new-orleans` |
 | `us:torrijos-carter-treaties` | 2.04 | - | `us:panama-canal` |
 | `us:john-brown` | 2.04 | - | `us:abolitionism`, `us:harriet-tubman` |
 | `us:adams-onis-treaty` | 2.04 | - | `us:louisiana-purchase`, `us:monroe-doctrine` |
 | `us:early-republic` | 2.04 | Era | `us:louisiana-purchase`, `us:monroe-doctrine` |
+| `us:northwest-indian-war` | 2.04 | - | `us:george-washington`, `us:treaty-of-paris-1783` |
 | `us:pittsburgh` | 2.04 | Place | `us:great-railroad-strike-of-1877`, `us:pennsylvania` |
-| `us:northwest-ordinance` | 2.04 | - | `us:articles-of-confederation`, `us:morrill-land-grant-college-act` |
+| `us:arkansas` | 2.03 | Place | `us:mississippi-river`, `us:okies` |
+| `us:siege-of-yorktown` | 2.03 | - | `us:american-revolutionary-war`, `us:treaty-of-paris-1783` |
 | `us:john-ross` | 2.03 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
 | `us:treaty-of-new-echota` | 2.03 | - | `us:cherokee-nation-v-georgia`, `us:indian-removal-act` |
 | `us:william-lloyd-garrison` | 2.03 | - | `us:abolitionism`, `us:sojourner-truth` |
-| `us:arkansas` | 2.03 | Place | `us:mississippi-river`, `us:okies` |
+| `us:farewell-address` | 2.03 | - | `us:george-washington`, `us:monroe-doctrine` |
 | `us:national-park-service` | 2.03 | - | `us:theodore-roosevelt`, `us:yellowstone-national-park` |
 | `us:congo-square` | 2.03 | - | `us:jazz`, `us:new-orleans` |
 | `us:storyville` | 2.03 | - | `us:jazz`, `us:new-orleans` |
-| `us:farewell-address` | 2.03 | - | `us:george-washington`, `us:monroe-doctrine` |
 | `us:maryland` | 2.03 | Place | `us:harriet-tubman`, `us:pennsylvania` |
 | `us:george-washington-goethals` | 2.03 | - | `us:gatun-locks`, `us:panama-canal` |
 | `us:economic-history-of-the-united-states` | 2.03 | - | `us:great-depression`, `us:panic-of-1873` |
@@ -167,8 +172,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:otto-lilienthal` | 2.03 | - | `us:wright-brothers-first-flight` |
 | `us:anthracite-coal-strike-of-1902` | 2.03 | - | `us:lattimer-massacre`, `us:theodore-roosevelt` |
 | `us:honolulu` | 2.03 | - | `us:attack-on-pearl-harbor`, `us:hawaii` |
-| `us:labor-history-of-the-united-states` | 2.03 | - | `us:great-railroad-strike-of-1877`, `us:lattimer-massacre` |
 | `us:hurricane-katrina` | 2.03 | - | `us:department-of-homeland-security`, `us:new-orleans` |
+| `us:labor-history-of-the-united-states` | 2.03 | - | `us:great-railroad-strike-of-1877`, `us:lattimer-massacre` |
 | `us:oklahoma` | 2.03 | Place | `us:dust-bowl`, `us:okies` |
 | `us:the-grapes-of-wrath` | 2.03 | - | `us:dust-bowl`, `us:okies` |
 | `us:montana` | 2.03 | Place | `us:hayden-geological-survey-of-1871`, `us:yellowstone-national-park` |
@@ -195,9 +200,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:judicial-review` | 1.52 | - | `us:supreme-court-of-the-united-states` |
 | `us:marbury-v-madison` | 1.52 | - | `us:supreme-court-of-the-united-states` |
 | `us:second-great-awakening` | 1.52 | - | `us:abolitionism` |
-| `us:mark-twain` | 1.52 | Person | `us:gilded-age` |
 | `us:alexander-hamilton` | 1.52 | - | `us:george-washington` |
 | `us:washington-cherry-tree-myth` | 1.52 | - | `us:george-washington` |
+| `us:mark-twain` | 1.52 | Person | `us:gilded-age` |
 | `us:booker-t-washington` | 1.52 | - | `us:theodore-roosevelt` |
 | `us:the-south` | 1.52 | - | `us:new-orleans` |
 | `us:lyndon-b-johnson` | 1.52 | Person | `us:voting-rights-act-of-1965` |
@@ -210,8 +215,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:gerrymandering` | 1.52 | - | `us:census-and-apportionment` |
 | `us:transcontinental-railroad` | 1.52 | - | `us:the-west` |
 | `us:grand-canyon` | 1.52 | - | `us:colorado-river` |
-| `us:rocky-mountains` | 1.52 | - | `us:yellowstone-national-park` |
 | `us:native-hawaiians` | 1.52 | - | `us:hawaii` |
+| `us:rocky-mountains` | 1.52 | - | `us:yellowstone-national-park` |
 | `us:country-music` | 1.52 | - | `us:okies` |
 | `us:texas` | 1.52 | - | `us:okies` |
 | `us:ohio` | 1.52 | Place | `us:huffman-prairie` |
@@ -221,11 +226,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:kansas-nebraska-act` | 1.51 | - | `us:missouri-compromise` |
 | `us:nato` | 1.51 | - | `us:war-in-afghanistan` |
 | `us:dwight-d-eisenhower` | 1.51 | - | `us:desegregation-of-little-rock-central-high-school` |
-| `us:john-adams` | 1.51 | - | `us:e-pluribus-unum` |
 | `us:new-york` | 1.51 | - | `us:sojourner-truth` |
-| `us:indentured-servitude` | 1.03 | - | `us:slavery-in-the-united-states` |
-| `us:slavery-in-the-americas` | 1.03 | - | `us:slavery-in-the-united-states` |
-| `us:transatlantic-slave-trade` | 1.03 | - | `us:slavery-in-the-united-states` |
+| `us:indentured-servitude` | 1.04 | - | `us:slavery-in-the-united-states` |
+| `us:slavery-in-the-americas` | 1.04 | - | `us:slavery-in-the-united-states` |
+| `us:transatlantic-slave-trade` | 1.04 | - | `us:slavery-in-the-united-states` |
 | `us:civil-rights-act-of-1866` | 1.03 | - | `us:fourteenth-amendment` |
 | `us:elk-v-wilkins` | 1.03 | - | `us:fourteenth-amendment` |
 | `us:john-bingham` | 1.03 | Person | `us:fourteenth-amendment` |
@@ -239,10 +243,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:secession-crisis` | 1.03 | - | `us:american-civil-war` |
 | `us:stand-watie` | 1.03 | - | `us:american-civil-war` |
 | `us:surrender-at-appomattox` | 1.03 | - | `us:american-civil-war` |
+| `us:alaska-purchase` | 1.03 | - | `us:united-states` |
 | `us:convict-leasing` | 1.03 | - | `us:thirteenth-amendment` |
 | `us:freedom-from-slavery-and-involuntary-servitude` | 1.03 | Right | `us:thirteenth-amendment` |
-| `us:alaska-purchase` | 1.03 | - | `us:united-states` |
-| `us:canada` | 1.03 | Place | `us:united-states` |
 | `us:alabama-constitution-of-1901` | 1.03 | Document | `us:jim-crow-laws` |
 | `us:louisiana-constitution-of-1898` | 1.03 | Document | `us:jim-crow-laws` |
 | `us:southern-united-states` | 1.03 | - | `us:jim-crow-laws` |
@@ -260,11 +263,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:henry-billings-brown` | 1.02 | Person | `us:plessy-v-ferguson` |
 | `us:homer-plessy` | 1.02 | - | `us:plessy-v-ferguson` |
 | `us:john-marshall-harlan` | 1.02 | - | `us:plessy-v-ferguson` |
-| `us:african-methodist-episcopal-church` | 1.02 | - | `us:african-americans` |
-| `us:black-immigrants-in-the-united-states` | 1.02 | - | `us:african-americans` |
 | `us:annapolis-convention` | 1.02 | - | `us:articles-of-confederation` |
 | `us:john-dickinson` | 1.02 | Person | `us:articles-of-confederation` |
-| `us:treaty-of-fort-stanwix-1784` | 1.02 | - | `us:articles-of-confederation` |
+| `us:african-methodist-episcopal-church` | 1.02 | - | `us:african-americans` |
+| `us:black-immigrants-in-the-united-states` | 1.02 | - | `us:african-americans` |
 | `us:judicial-procedures-reform-bill-of-1937` | 1.02 | - | `us:supreme-court-of-the-united-states` |
 | `us:judiciary-act-of-1789` | 1.02 | Document | `us:supreme-court-of-the-united-states` |
 | `us:sandra-day-oconnor` | 1.02 | - | `us:supreme-court-of-the-united-states` |
@@ -290,10 +292,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:womens-loyal-national-league` | 1.02 | - | `us:abolitionism` |
 | `us:mcgirt-v-oklahoma` | 1.02 | - | `us:tribal-sovereignty` |
 | `us:public-law-280` | 1.02 | - | `us:tribal-sovereignty` |
+| `us:virginia-plan` | 1.02 | - | `us:constitutional-convention` |
 | `us:assassination-of-abraham-lincoln` | 1.02 | - | `us:abraham-lincoln` |
 | `us:black-hawk-war` | 1.02 | - | `us:abraham-lincoln` |
 | `us:us-dakota-war-of-1862` | 1.02 | - | `us:abraham-lincoln` |
-| `us:virginia-plan` | 1.02 | - | `us:constitutional-convention` |
 | `us:election-of-1800` | 1.02 | - | `us:thomas-jefferson` |
 | `us:embargo-act-of-1807` | 1.02 | - | `us:thomas-jefferson` |
 | `us:sally-hemings` | 1.02 | - | `us:thomas-jefferson` |
@@ -319,25 +321,27 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:lochner-v-new-york` | 1.02 | - | `us:due-process` |
 | `us:magna-carta` | 1.02 | - | `us:due-process` |
 | `us:mathews-v-eldridge` | 1.02 | - | `us:due-process` |
+| `us:jay-treaty` | 1.02 | - | `us:george-washington` |
+| `us:martha-washington` | 1.02 | - | `us:george-washington` |
+| `us:mount-vernon` | 1.02 | - | `us:george-washington` |
+| `us:neutrality-proclamation` | 1.02 | - | `us:george-washington` |
+| `us:treaty-of-greenville` | 1.02 | - | `us:george-washington` |
+| `us:washington-wooden-teeth-myth` | 1.02 | - | `us:george-washington` |
 | `us:chickasaw-nation` | 1.02 | - | `us:indian-removal-act` |
 | `us:indian-removal` | 1.02 | - | `us:indian-removal-act` |
 | `us:indian-territory` | 1.02 | - | `us:indian-removal-act` |
 | `us:martin-van-buren` | 1.02 | - | `us:indian-removal-act` |
 | `us:muscogee-creek-nation` | 1.02 | - | `us:indian-removal-act` |
 | `us:second-seminole-war` | 1.02 | - | `us:indian-removal-act` |
+| `us:great-mississippi-flood-of-1927` | 1.02 | - | `us:mississippi-river` |
+| `us:pinckneys-treaty` | 1.02 | - | `us:mississippi-river` |
 | `us:history-of-the-united-states` | 1.02 | - | `us:gilded-age` |
 | `us:pendleton-civil-service-reform-act` | 1.02 | - | `us:gilded-age` |
 | `us:the-gilded-age-a-tale-of-today` | 1.02 | - | `us:gilded-age` |
-| `us:jay-treaty` | 1.02 | - | `us:george-washington` |
-| `us:martha-washington` | 1.02 | - | `us:george-washington` |
-| `us:mount-vernon` | 1.02 | - | `us:george-washington` |
-| `us:neutrality-proclamation` | 1.02 | - | `us:george-washington` |
-| `us:northwest-indian-war` | 1.02 | - | `us:george-washington` |
-| `us:treaty-of-greenville` | 1.02 | - | `us:george-washington` |
-| `us:washington-wooden-teeth-myth` | 1.02 | - | `us:george-washington` |
-| `us:great-mississippi-flood-of-1927` | 1.02 | - | `us:mississippi-river` |
-| `us:pinckneys-treaty` | 1.02 | - | `us:mississippi-river` |
 | `us:united-states-minister-to-haiti` | 1.02 | Office | `us:frederick-douglass` |
+| `us:battle-of-saratoga` | 1.02 | - | `us:american-revolutionary-war` |
+| `us:battles-of-lexington-and-concord` | 1.02 | - | `us:american-revolutionary-war` |
+| `us:continental-army` | 1.02 | - | `us:american-revolutionary-war` |
 | `us:charter-of-pennsylvania` | 1.02 | Document | `us:pennsylvania` |
 | `us:delaware-river` | 1.02 | Place | `us:pennsylvania` |
 | `us:harrisburg` | 1.02 | - | `us:pennsylvania` |
@@ -363,11 +367,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:pennsylvania-railroad` | 1.02 | - | `us:great-railroad-strike-of-1877` |
 | `us:rutherford-b-hayes` | 1.02 | - | `us:great-railroad-strike-of-1877` |
 | `us:west-virginia` | 1.02 | Place | `us:great-railroad-strike-of-1877` |
-| `us:battle-of-saratoga` | 1.02 | - | `us:american-revolutionary-war` |
-| `us:battles-of-lexington-and-concord` | 1.02 | - | `us:american-revolutionary-war` |
-| `us:continental-army` | 1.02 | - | `us:american-revolutionary-war` |
-| `us:loyalists` | 1.02 | - | `us:american-revolutionary-war` |
-| `us:siege-of-yorktown` | 1.02 | - | `us:american-revolutionary-war` |
 | `us:battle-of-new-orleans` | 1.02 | - | `us:new-orleans` |
 | `us:jean-baptiste-le-moyne-de-bienville` | 1.02 | Person | `us:new-orleans` |
 | `us:lake-pontchartrain` | 1.02 | Place | `us:new-orleans` |
@@ -385,6 +384,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:freedmans-savings-and-trust-company` | 1.02 | - | `us:panic-of-1873` |
 | `us:jay-cooke-and-company` | 1.02 | - | `us:panic-of-1873` |
 | `us:northern-pacific-railway` | 1.02 | - | `us:panic-of-1873` |
+| `us:john-jay` | 1.02 | Person | `us:treaty-of-paris-1783` |
 | `us:arizona` | 1.02 | Place | `us:hoover-dam` |
 | `us:boulder-canyon-project-act` | 1.02 | Document | `us:hoover-dam` |
 | `us:elwood-mead` | 1.02 | - | `us:hoover-dam` |
@@ -408,11 +408,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:wounded-knee-massacre` | 1.02 | - | `us:the-west` |
 | `us:colorado-river-indian-tribes` | 1.02 | - | `us:colorado-river` |
 | `us:john-wesley-powell` | 1.02 | - | `us:colorado-river` |
-| `us:idaho` | 1.02 | Place | `us:yellowstone-national-park` |
-| `us:national-park-protection-act-of-1894` | 1.02 | - | `us:yellowstone-national-park` |
-| `us:nez-perce-war` | 1.02 | - | `us:yellowstone-national-park` |
-| `us:northern-pacific-railroad` | 1.02 | - | `us:yellowstone-national-park` |
-| `us:tukudika` | 1.02 | - | `us:yellowstone-national-park` |
 | `us:apology-resolution` | 1.02 | - | `us:hawaii` |
 | `us:duncan-v-kahanamoku` | 1.02 | - | `us:hawaii` |
 | `us:hawaii-admission-act` | 1.02 | Document | `us:hawaii` |
@@ -423,11 +418,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:newlands-resolution` | 1.02 | - | `us:hawaii` |
 | `us:overthrow-of-the-hawaiian-kingdom` | 1.02 | - | `us:hawaii` |
 | `us:pacific-ocean` | 1.02 | Place | `us:hawaii` |
-| `us:dorothea-lange` | 1.02 | - | `us:okies` |
-| `us:edwards-v-california` | 1.02 | - | `us:okies` |
-| `us:farm-security-administration` | 1.02 | - | `us:okies` |
-| `us:route-66` | 1.02 | - | `us:okies` |
-| `us:woody-guthrie` | 1.02 | - | `us:okies` |
+| `us:idaho` | 1.02 | Place | `us:yellowstone-national-park` |
+| `us:national-park-protection-act-of-1894` | 1.02 | - | `us:yellowstone-national-park` |
+| `us:nez-perce-war` | 1.02 | - | `us:yellowstone-national-park` |
+| `us:northern-pacific-railroad` | 1.02 | - | `us:yellowstone-national-park` |
+| `us:tukudika` | 1.02 | - | `us:yellowstone-national-park` |
 | `us:bessie-smith` | 1.02 | - | `us:blues` |
 | `us:crossroads-myth` | 1.02 | - | `us:blues` |
 | `us:field-hollers` | 1.02 | - | `us:blues` |
@@ -438,6 +433,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:rock-and-roll` | 1.02 | - | `us:blues` |
 | `us:w-c-handy` | 1.02 | - | `us:blues` |
 | `us:work-songs` | 1.02 | - | `us:blues` |
+| `us:dorothea-lange` | 1.02 | - | `us:okies` |
+| `us:edwards-v-california` | 1.02 | - | `us:okies` |
+| `us:farm-security-administration` | 1.02 | - | `us:okies` |
+| `us:route-66` | 1.02 | - | `us:okies` |
+| `us:woody-guthrie` | 1.02 | - | `us:okies` |
 | `us:dayton-aviation-heritage-national-historical-park` | 1.02 | - | `us:huffman-prairie` |
 | `us:national-air-and-space-museum` | 1.02 | - | `us:wright-brothers-first-flight` |
 | `us:samuel-pierpont-langley` | 1.02 | - | `us:wright-brothers-first-flight` |
