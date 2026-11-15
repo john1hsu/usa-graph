@@ -781,6 +781,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is Plessy considered so consequential even though it concerned railroad cars?
   **A:** By holding that state-mandated separation did not violate the Fourteenth Amendment if accommodations were nominally equal, it gave legal cover to segregation in schools, transportation and public life for more than half a century, until Brown v. Board of Education rejected the doctrine in public education in 1954.
 
+### [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| The Nineteenth Amendment gave all American women the right to vote in 1920. | The amendment barred denying the vote on account of sex, but most Native American women were not citizens until 1924, Chinese immigrant women were barred from citizenship by exclusion laws, and Black women in the Jim Crow South faced the same disfranchisement and violence that kept Black men from the polls. |
+
+**Why it matters:** Treating 1920 as the finish line erases decades of further struggle by women of color and hides how race, citizenship and state law continued to decide who could vote.
+
+- **Q:** Why did the women's suffrage movement split in 1869, and how did the two wings differ?
+  **A:** The proposed Fifteenth Amendment barred racial discrimination in voting but not sex discrimination; Lucy Stone backed it and formed the American Woman Suffrage Association to win the vote state by state, while Stanton and Anthony opposed it, used racist arguments against Black men voting, and formed the National Woman Suffrage Association to seek a federal amendment.
+- **Q:** How did NAWSA's and the National Woman's Party's different strategies combine to win the Nineteenth Amendment?
+  **A:** Catt's 1916 Winning Plan concentrated NAWSA's resources on promising state campaigns, lobbying Congress and preparing for ratification, while Alice Paul's National Woman's Party kept pressure on President Wilson through parades, White House picketing, arrests and hunger strikes; together they built the pressure that brought Wilson's support in 1918 and passage by Congress in 1919.
+- **Q:** Why did many women remain unable to vote after 1920?
+  **A:** The amendment only banned sex discrimination, so other barriers still applied; Native American women were mostly not citizens until 1924, Chinese immigrant women could not become citizens under exclusion laws, and Southern states used the same discriminatory laws, intimidation and violence against Black women that they used against Black men.
+
 ## native-nations
 
 ### [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) — CourtCase

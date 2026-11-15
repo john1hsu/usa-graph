@@ -13859,6 +13859,264 @@
   ]
  },
  {
+  "id": "us:womens-suffrage-movement",
+  "title": "Women's suffrage movement",
+  "aliases": [
+   "Woman suffrage movement",
+   "Women's suffrage movement in the United States",
+   "American woman suffrage movement",
+   "Votes for women"
+  ],
+  "type": "Movement",
+  "domain": "gilded-age-and-progressive-era",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/gilded-age-and-progressive-era/womens-suffrage-movement.md",
+  "created": "2026-11-15",
+  "summary": "The seven-decade campaign to win American women the right to vote, which began with the women's rights conventions of the late 1840s, split and reunited over the Reconstruction amendments, won the vote state by state in the West, and secured the Nineteenth Amendment in 1920, though many women of color stayed disfranchised for decades afterward.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:womens-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abolitionism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-sentiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-equal-rights-association"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-american-woman-suffrage-association"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-womans-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-association-of-colored-women"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:susan-b-anthony"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elizabeth-cady-stanton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ida-b-wells"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sojourner-truth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wyoming"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-citizenship-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:abolitionism"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:nineteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:progressive-era",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:carrie-chapman-catt",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:alice-paul",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:league-of-women-voters",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:national-association-opposed-to-woman-suffrage",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1848-07-19",
+  "end": "1920-08-26",
+  "review": [
+   {
+    "question": "Why did the women's suffrage movement split in 1869, and how did the two wings differ?",
+    "answer": "The proposed Fifteenth Amendment barred racial discrimination in voting but not sex discrimination; Lucy Stone backed it and formed the American Woman Suffrage Association to win the vote state by state, while Stanton and Anthony opposed it, used racist arguments against Black men voting, and formed the National Woman Suffrage Association to seek a federal amendment."
+   },
+   {
+    "question": "How did NAWSA's and the National Woman's Party's different strategies combine to win the Nineteenth Amendment?",
+    "answer": "Catt's 1916 Winning Plan concentrated NAWSA's resources on promising state campaigns, lobbying Congress and preparing for ratification, while Alice Paul's National Woman's Party kept pressure on President Wilson through parades, White House picketing, arrests and hunger strikes; together they built the pressure that brought Wilson's support in 1918 and passage by Congress in 1919."
+   },
+   {
+    "question": "Why did many women remain unable to vote after 1920?",
+    "answer": "The amendment only banned sex discrimination, so other barriers still applied; Native American women were mostly not citizens until 1924, Chinese immigrant women could not become citizens under exclusion laws, and Southern states used the same discriminatory laws, intimidation and violence against Black women that they used against Black men."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1848-07-19",
+    "event": "The two-day women's rights convention at Seneca Falls, New York, opens and drafts the Declaration of Sentiments, which demands the vote."
+   },
+   {
+    "date": "1866",
+    "event": "Elizabeth Cady Stanton and Susan B. Anthony help form the American Equal Rights Association to seek suffrage for Black Americans and women alike."
+   },
+   {
+    "date": "1869",
+    "event": "The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women."
+   },
+   {
+    "date": "1872",
+    "event": "Susan B. Anthony is arrested for voting in Rochester, New York, and Sojourner Truth is turned away from the polls in Battle Creek, Michigan."
+   },
+   {
+    "date": "1878-01-10",
+    "event": "Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate."
+   },
+   {
+    "date": "1887-01-25",
+    "event": "The Senate takes its first vote on the amendment and defeats it, 16 to 34."
+   },
+   {
+    "date": "1890",
+    "event": "The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage."
+   },
+   {
+    "date": "1893",
+    "event": "Colorado becomes the first state to adopt a state amendment enfranchising women."
+   },
+   {
+    "date": "1896",
+    "event": "Black clubwomen including Mary Church Terrell, Ida B. Wells-Barnett and Harriet Tubman form the National Association of Colored Women."
+   },
+   {
+    "date": "1913-03-03",
+    "event": "Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds."
+   },
+   {
+    "date": "1916-09",
+    "event": "Carrie Chapman Catt unveils NAWSA's Winning Plan at its Atlantic City convention."
+   },
+   {
+    "date": "1917-01",
+    "event": "The National Woman's Party's Silent Sentinels begin picketing the White House."
+   },
+   {
+    "date": "1917-11",
+    "event": "New York adopts woman suffrage."
+   },
+   {
+    "date": "1918-09-30",
+    "event": "President Wilson addresses the Senate to urge passage of the amendment, which fails the next day."
+   },
+   {
+    "date": "1919-05-21",
+    "event": "The House of Representatives passes the amendment."
+   },
+   {
+    "date": "1919-06-04",
+    "event": "The Senate passes the amendment 56 to 25, sending it to the states."
+   },
+   {
+    "date": "1919-06-10",
+    "event": "Wisconsin becomes the first state to ratify."
+   },
+   {
+    "date": "1920-08-18",
+    "event": "Tennessee becomes the thirty-sixth state to ratify, completing ratification."
+   },
+   {
+    "date": "1920-08-26",
+    "event": "Secretary of State Bainbridge Colby certifies the Nineteenth Amendment."
+   }
+  ],
+  "misconception": {
+   "myth": "The Nineteenth Amendment gave all American women the right to vote in 1920.",
+   "fact": "The amendment barred denying the vote on account of sex, but most Native American women were not citizens until 1924, Chinese immigrant women were barred from citizenship by exclusion laws, and Black women in the Jim Crow South faced the same disfranchisement and violence that kept Black men from the polls.",
+   "why": "Treating 1920 as the finish line erases decades of further struggle by women of color and hides how race, citizenship and state law continued to decide who could vote."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/19th-amendment",
+   "https://www.senate.gov/about/women-of-the-senate/nineteenth-amendment-vertical-timeline.htm",
+   "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_Woman_Suffrage_Amendment.htm",
+   "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm",
+   "https://www.nps.gov/subjects/womenshistory/womens-suffrage-timeline.htm",
+   "https://home.nps.gov/wori/learn/historyculture/womens-suffrage-history-timeline.htm",
+   "https://www.nps.gov/articles/african-american-women-and-the-nineteenth-amendment.htm",
+   "https://www.nps.gov/articles/000/alice-paul-woodrow-wilson-and-the-battles-for-liberty.htm",
+   "https://home.nps.gov/articles/who-was-excluded-women-s-suffrage.htm",
+   "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/confrontations-sacrifice-and-the-struggle-for-democracy-1916-1917/changing-strategies-of-nawsa-and-nwp/carrie-chapman-catt-winning-plan",
+   "https://openstax.org/books/us-history/pages/21-3-new-voices-for-women-and-african-americans",
+   "https://www.womenshistory.org/education-resources/biographies/mabel-ping-hua-lee",
+   "https://www.neh.gov/article/forgotten-suffragists",
+   "https://history.wisc.edu/publications/the-myth-of-seneca-falls-memory-and-the-womens-suffrage-movement-1848-1898/"
+  ]
+ },
+ {
   "id": "us:wright-brothers-first-flight",
   "title": "Wright brothers' first flight",
   "aliases": [

@@ -30,7 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:california-gold-rush` | 5 | Native Americans, act-for-the-government-and-protection-of-indians, chinese-exclusion-act, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
-| `us:abolitionism` | 4 | Thirteenth Amendment, liberty-party, republican-party, womens-suffrage-movement |
+| `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | arizona-v-california, california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
@@ -51,13 +51,13 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
-| `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
+| `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 
-…and 36 more.
+…and 37 more.
 
 ## Happenings by era
 
@@ -72,6 +72,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
 | `us:gilded-age` | `us:hayden-geological-survey-of-1871` | 1871-06 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
+| `us:progressive-era` | `us:womens-suffrage-movement` | 1848-07-19 |
 
 ## Myths, contested claims and debated interpretations
 
@@ -110,7 +111,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 | `us:slavery-in-the-united-states` | interpretive |  |
 
-…and 7 more.
+…and 8 more.
 
 ## Places with nothing tied to them (gap)
 

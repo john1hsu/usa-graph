@@ -330,6 +330,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1848-07 | California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1848-07-19 – 1920-08-26 | **[Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md)** (Movement) |
+| 1848-07-19 | The two-day women's rights convention at Seneca Falls, New York, opens and drafts the Declaration of Sentiments, which demands the vote. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1848-12-05 | President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | About 25,000 emigrants travel overland to California, the first great year of the rush. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -435,6 +437,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery throughout the United States. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1866 | Elizabeth Cady Stanton and Susan B. Anthony help form the American Equal Rights Association to seek suffrage for Black Americans and women alike. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -455,6 +458,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1869 | The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1869-01-11 | Representative George Boutwell proposes a suffrage amendment in the House. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-04-10 | Congress fixes the Court at nine justices, where it has remained. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -486,6 +490,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1871-10-02 | Hayden formally ends the expedition. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1871-12-18 | Park bills S. 392 and H.R. 764 are introduced in the Senate and House. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1871-12-18 | Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1872 | Susan B. Anthony is arrested for voting in Rochester, New York, and Sojourner Truth is turned away from the polls in Battle Creek, Michigan. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1872 | Yellowstone is established, beginning the reservation of western lands as parks. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1872-01-30 | The Senate passes S. 392. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-02-20 | Hayden dates his report on the season's work to Interior Secretary Delano. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
@@ -527,6 +532,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-08-23 | About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -551,6 +557,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887 | White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1887-01-25 | The Senate takes its first vote on the amendment and defeats it, 16 to 34. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1887-02-08 | The Dawes General Allotment Act divides reservation land into individual allotments and opens the 'surplus' to settlers. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -558,6 +565,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1890 | The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1890-12-29 | U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -569,6 +577,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1893 | Colorado becomes the first state to adopt a state amendment enfranchising women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1893 | Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1893-01-17 | A Committee of Safety, backed by U.S. Minister John L. Stevens and U.S. naval forces landed the day before, overthrows Queen Liliʻuokalani. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -578,6 +587,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1896 | Black clubwomen including Mary Church Terrell, Ida B. Wells-Barnett and Harriet Tubman form the National Association of Colored Women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1896 | Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1896 | William McKinley, backed by business and the gold standard, defeats William Jennings Bryan for the presidency. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
@@ -668,6 +678,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1913-03-03 | Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -689,14 +700,23 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1916 | The flying school at Huffman Field closes after training 119 students since May 1910. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1916-09 | Carrie Chapman Catt unveils NAWSA's Winning Plan at its Atlantic City convention. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1917-01 | The National Woman's Party's Silent Sentinels begin picketing the White House. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1917-11 | New York adopts woman suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1919-05-21 | The House of Representatives passes the amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1919-06-04 | The Senate passes the amendment 56 to 25, sending it to the states. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
