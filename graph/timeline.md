@@ -175,7 +175,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1797 – 1883-11-26 | **[Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md)** (Person) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1797 | Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -207,6 +209,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1810 | Bought by John Dumont of West Park, New York, after being sold three times as a child. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | The state capital moves to Harrisburg, after a stay in Lancaster from 1799. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -238,13 +241,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827 | Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1827-07-04 | New York's emancipation law takes effect. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1828 | Gold is found on Native lands in Georgia. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1828 | Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -281,6 +287,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1840 | The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1843-06-01 | Takes the name Sojourner Truth and begins travelling to preach and speak against slavery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -294,7 +301,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1850 | Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1850 | The Fugitive Slave Act penalizes Northerners who aid freedom seekers. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1850 | The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -302,6 +312,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1857 | Brings her aging parents north after learning her father faces arrest. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1857 | In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1857 | In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1857 | Moves to Harmonia, Michigan, near Battle Creek. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1857-03-06 | Chief Justice Roger B. Taney announces the Dred Scott decision. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858 | Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -331,6 +342,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas under Confederate control. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1863-03-03 | A tenth seat is authorized during the Civil War. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1863-04-23 | Frances Dana Gage publishes her dialect version of the Akron speech in The Independent. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1863-04-30 | Grant's army crosses the Mississippi from Louisiana into Mississippi south of Vicksburg on the night of April 30–May 1. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-05 | The War Department creates the Bureau of Colored Troops to organize Black regiments. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-05 | The War Department creates the Bureau of Colored Troops; about 179,000 Black men go on to serve in the Union Army. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -354,9 +366,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-02-09 | Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1864-02-16 | Her copyright claim for cartes de visite titled "I sell the Shadow to Support the Substance" is recorded. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-09-02 | William T. Sherman's army captures Atlanta before marching to the sea. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1864-10-29 | Meets President Abraham Lincoln at the White House while working for the National Freedman's Relief Association. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865 | The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -401,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
+| 1870 | Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1870 | The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
@@ -468,6 +483,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1883-11-26 | Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |

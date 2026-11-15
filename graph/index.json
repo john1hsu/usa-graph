@@ -9665,6 +9665,184 @@
   ]
  },
  {
+  "id": "us:sojourner-truth",
+  "title": "Sojourner Truth",
+  "aliases": [
+   "Isabella Baumfree",
+   "Isabella Van Wagenen",
+   "Isabella Van Wagener",
+   "Isabella Bomefree"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/people-who-shaped-america/sojourner-truth.md",
+  "created": "2026-11-15",
+  "summary": "An abolitionist, preacher and women's-rights advocate (c. 1797–1883) who was born enslaved in Ulster County, New York, freed herself in 1826, won a New York court case in 1828 to recover her son from slavery in Alabama, and from 1843 travelled as Sojourner Truth, speaking against slavery and for the rights of women and freed people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-lloyd-garrison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-colored-troops"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:aint-i-a-woman-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:abolitionism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:akron-womens-rights-convention",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:womens-suffrage-movement",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-civil-war",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1797",
+  "end": "1883-11-26",
+  "review": [
+   {
+    "question": "Why do historians treat Marius Robinson's 1851 account of the Akron speech as more reliable than Frances Gage's 1863 version?",
+    "answer": "Robinson published his within weeks of the convention and is believed to have reviewed it with Truth, while Gage wrote twelve years later without Truth's review and put a Northern-born, Dutch-speaking woman's words into Southern dialect."
+   },
+   {
+    "question": "How did New York law help Truth recover her son Peter in 1828?",
+    "answer": "New York's gradual-emancipation laws forbade selling an enslaved New Yorker out of state in a way that denied the person the benefits of those laws, so his sale to Alabama was illegal and she could sue for his return, which she won."
+   },
+   {
+    "question": "How did Truth fund her work during the Civil War years?",
+    "answer": "She sold copies of her Narrative and cartes de visite of herself at lectures and by mail, registering a copyright in the photographs in 1864 so that the income came to her."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1797",
+    "event": "Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York."
+   },
+   {
+    "date": "1810",
+    "event": "Bought by John Dumont of West Park, New York, after being sold three times as a child."
+   },
+   {
+    "date": "1826",
+    "event": "Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family."
+   },
+   {
+    "date": "1827-07-04",
+    "event": "New York's emancipation law takes effect."
+   },
+   {
+    "date": "1828",
+    "event": "Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama."
+   },
+   {
+    "date": "1843-06-01",
+    "event": "Takes the name Sojourner Truth and begins travelling to preach and speak against slavery."
+   },
+   {
+    "date": "1850",
+    "event": "The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published."
+   },
+   {
+    "date": "1851-05-29",
+    "event": "Speaks at the Woman's Rights Convention in Akron, Ohio."
+   },
+   {
+    "date": "1851-06-21",
+    "event": "Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle."
+   },
+   {
+    "date": "1857",
+    "event": "Moves to Harmonia, Michigan, near Battle Creek."
+   },
+   {
+    "date": "1863-04-23",
+    "event": "Frances Dana Gage publishes her dialect version of the Akron speech in The Independent."
+   },
+   {
+    "date": "1864-02-16",
+    "event": "Her copyright claim for cartes de visite titled \"I sell the Shadow to Support the Substance\" is recorded."
+   },
+   {
+    "date": "1864-10-29",
+    "event": "Meets President Abraham Lincoln at the White House while working for the National Freedman's Relief Association."
+   },
+   {
+    "date": "1870",
+    "event": "Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant."
+   },
+   {
+    "date": "1883-11-26",
+    "event": "Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery."
+   }
+  ],
+  "misconception": {
+   "myth": "At Akron in 1851 Sojourner Truth gave a speech in Southern dialect, repeating \"Ain't I a woman?\" and telling how she had borne thirteen children, most sold into slavery.",
+   "fact": "The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children.",
+   "why": "Gage's dramatic version was reprinted widely, entered later editions of Truth's own Narrative and became the text schoolbooks quote, so the more reliable 1851 record was long overlooked."
+  },
+  "source_urls": [
+   "https://home.nps.gov/people/sojourner-truth.htm",
+   "https://www.nps.gov/articles/sojourner-truth.htm",
+   "https://blogs.loc.gov/headlinesandheroes/2021/04/sojourner-truths-most-famous-speech/",
+   "https://blogs.loc.gov/copyright/2020/12/sojourner-truth-and-the-power-of-copyright-registration/",
+   "https://www.womenshistory.org/exhibits/sojourner-truth",
+   "https://history.nycourts.gov/sojourner-truth-first-african-american-woman-to-win-a-lawsuit/",
+   "https://www.nypl.org/blog/2022/09/29/court-records-sojourner-truth-legal-battle",
+   "https://docsouth.unc.edu/neh/truth75/summary.html",
+   "https://civilwar.si.edu/slavery_truth.html",
+   "https://aoc.gov/art/busts/sojourner-truth-bust"
+  ]
+ },
+ {
   "id": "us:supreme-court-of-the-united-states",
   "title": "Supreme Court of the United States",
   "aliases": [

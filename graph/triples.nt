@@ -5811,6 +5811,125 @@
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "At Akron in 1851 Sojourner Truth gave a speech in Southern dialect, repeating \"Ain't I a woman?\" and telling how she had borne thirteen children, most sold into slavery." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Gage's dramatic version was reprinted widely, entered later editions of Truth's own Narrative and became the text schoolbooks quote, so the more reliable 1851 record was long overlooked." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians treat Marius Robinson's 1851 account of the Akron speech as more reliable than Frances Gage's 1863 version?" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Robinson published his within weeks of the convention and is believed to have reviewed it with Truth, while Gage wrote twelve years later without Truth's review and put a Northern-born, Dutch-speaking woman's words into Southern dialect." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did New York law help Truth recover her son Peter in 1828?" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "New York's gradual-emancipation laws forbade selling an enslaved New Yorker out of state in a way that denied the person the benefits of those laws, so his sale to Alabama was illegal and she could sue for his return, which she won." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Truth fund her work during the Civil War years?" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "She sold copies of her Narrative and cartes de visite of herself at lectures and by mail, registering a copyright in the photographs in 1864 so that the income came to her." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Moves to Harmonia, Michigan, near Battle Creek." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1857"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Frances Dana Gage publishes her dialect version of the Akron speech in The Independent." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1863-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Her copyright claim for cartes de visite titled \"I sell the Shadow to Support the Substance\" is recorded." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Meets President Abraham Lincoln at the White House while working for the National Freedman's Relief Association." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1883-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1797"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Bought by John Dumont of West Park, New York, after being sold three times as a child." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1810"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1826"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "New York's emancipation law takes effect." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1827-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1828"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Takes the name Sojourner Truth and begins travelling to preach and speak against slavery." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1843-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Speaks at the Woman's Rights Convention in Akron, Ohio." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1851-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2000/01/rdf-schema#label> "Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#altLabel> "Isabella Baumfree" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#altLabel> "Isabella Bomefree" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#altLabel> "Isabella Van Wagenen" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#altLabel> "Isabella Van Wagener" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#definition> "An abolitionist, preacher and women's-rights advocate (c. 1797–1883) who was born enslaved in Ulster County, New York, freed herself in 1826, won a New York court case in 1828 to recover her son from slavery in Alabama, and from 1843 travelled as Sojourner Truth, speaking against slavery and for the rights of women and freed people." .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/aint-i-a-woman-myth> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-lloyd-garrison> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#domain> "people-who-shaped-america" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/people-who-shaped-america/sojourner-truth.md" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/akron-womens-rights-convention> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/birthDate> "1797"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/deathDate> "1883-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/endDate> "1883-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/sojourner-truth> <https://schema.org/startDate> "1797"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/publisher> "African American Intellectual History Society (Black Perspectives)" .
 <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/title> "Abolitionism and Slave Resistance: An Interview with Manisha Sinha and Sasha Turner" .
@@ -8673,6 +8792,66 @@
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/slavery-in-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/publisher> "Architect of the Capitol" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://purl.org/dc/terms/title> "Sojourner Truth Bust" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10> <https://schema.org/url> <https://aoc.gov/art/busts/sojourner-truth-bust> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <http://purl.org/dc/terms/title> "Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1> <https://schema.org/url> <https://home.nps.gov/people/sojourner-truth.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Women's Rights National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <http://purl.org/dc/terms/title> "Sojourner Truth: Ain't I A Woman?" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2> <https://schema.org/url> <https://www.nps.gov/articles/sojourner-truth.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <http://purl.org/dc/terms/publisher> "Library of Congress, Headlines & Heroes blog (Arlene Balkansky)" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <http://purl.org/dc/terms/title> "Sojourner Truth's Most Famous Speech" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3> <https://schema.org/url> <https://blogs.loc.gov/headlinesandheroes/2021/04/sojourner-truths-most-famous-speech/> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <http://purl.org/dc/terms/publisher> "Library of Congress, Copyright Creativity at Work blog" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <http://purl.org/dc/terms/title> "Sojourner Truth and the Power of Copyright Registration" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4> <https://schema.org/url> <https://blogs.loc.gov/copyright/2020/12/sojourner-truth-and-the-power-of-copyright-registration/> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <http://purl.org/dc/terms/publisher> "National Women's History Museum (Kerri Lee Alexander)" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <http://purl.org/dc/terms/title> "Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5> <https://schema.org/url> <https://www.womenshistory.org/exhibits/sojourner-truth> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <http://purl.org/dc/terms/publisher> "Historical Society of the New York Courts" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <http://purl.org/dc/terms/title> "Sojourner Truth: First African American Woman to Win a Lawsuit" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6> <https://schema.org/url> <https://history.nycourts.gov/sojourner-truth-first-african-american-woman-to-win-a-lawsuit/> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <http://purl.org/dc/terms/publisher> "New York Public Library, Schomburg Center for Research in Black Culture (Lisa Herndon)" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <http://purl.org/dc/terms/title> "Court Records of Sojourner Truth's Legal Battle" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7> <https://schema.org/url> <https://www.nypl.org/blog/2022/09/29/court-records-sojourner-truth-legal-battle> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <http://purl.org/dc/terms/publisher> "Documenting the American South, University of North Carolina at Chapel Hill" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <http://purl.org/dc/terms/title> "Summary of Narrative of Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8> <https://schema.org/url> <https://docsouth.unc.edu/neh/truth75/summary.html> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://purl.org/dc/terms/publisher> "Smithsonian Institution, The Civil War and American Art / National Portrait Gallery" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://purl.org/dc/terms/title> "Sojourner Truth" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://schema.org/url> <https://civilwar.si.edu/slavery_truth.html> .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/publisher> "Library of Congress" .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/title> "Today in History: October 2 (Thurgood Marshall)" .

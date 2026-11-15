@@ -8037,6 +8037,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children.",
+   "uso:myth": "At Akron in 1851 Sojourner Truth gave a speech in Southern dialect, repeating \"Ain't I a woman?\" and telling how she had borne thirteen children, most sold into slavery.",
+   "uso:why": "Gage's dramatic version was reprinted widely, entered later editions of Truth's own Narrative and became the text schoolbooks quote, so the more reliable 1851 record was long overlooked."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians treat Marius Robinson's 1851 account of the Akron speech as more reliable than Frances Gage's 1863 version?",
+   "uso:answer": "Robinson published his within weeks of the convention and is believed to have reviewed it with Truth, while Gage wrote twelve years later without Truth's review and put a Northern-born, Dutch-speaking woman's words into Southern dialect.",
+   "uso:questionFor": {
+    "@id": "us:sojourner-truth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did New York law help Truth recover her son Peter in 1828?",
+   "uso:answer": "New York's gradual-emancipation laws forbade selling an enslaved New Yorker out of state in a way that denied the person the benefits of those laws, so his sale to Alabama was illegal and she could sue for his return, which she won.",
+   "uso:questionFor": {
+    "@id": "us:sojourner-truth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Truth fund her work during the Civil War years?",
+   "uso:answer": "She sold copies of her Narrative and cartes de visite of herself at lectures and by mail, registering a copyright in the photographs in 1864 so that the income came to her.",
+   "uso:questionFor": {
+    "@id": "us:sojourner-truth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Moves to Harmonia, Michigan, near Battle Creek.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Frances Dana Gage publishes her dialect version of the Akron speech in The Independent.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-04-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Her copyright claim for cartes de visite titled \"I sell the Shadow to Support the Substance\" is recorded.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-02-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Meets President Abraham Lincoln at the White House while working for the National Freedman's Relief Association.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-10-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1883-11-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Bought by John Dumont of West Park, New York, after being sold three times as a child.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1810"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1826"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York's emancipation law takes effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1827-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1828"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes the name Sojourner Truth and begins travelling to preach and speak against slavery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1843-06-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Speaks at the Woman's Rights Convention in Akron, Ohio.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1851-05-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1851-06-21"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -14713,6 +14882,146 @@
     "@id": "https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Sojourner Truth",
+   "schema:url": {
+    "@id": "https://home.nps.gov/people/sojourner-truth.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Architect of the Capitol",
+   "dcterms:title": "Sojourner Truth Bust",
+   "schema:url": {
+    "@id": "https://aoc.gov/art/busts/sojourner-truth-bust"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Women's Rights National Historical Park",
+   "dcterms:title": "Sojourner Truth: Ain't I A Woman?",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/sojourner-truth.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, Headlines & Heroes blog (Arlene Balkansky)",
+   "dcterms:title": "Sojourner Truth's Most Famous Speech",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/headlinesandheroes/2021/04/sojourner-truths-most-famous-speech/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, Copyright Creativity at Work blog",
+   "dcterms:title": "Sojourner Truth and the Power of Copyright Registration",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/copyright/2020/12/sojourner-truth-and-the-power-of-copyright-registration/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Women's History Museum (Kerri Lee Alexander)",
+   "dcterms:title": "Sojourner Truth",
+   "schema:url": {
+    "@id": "https://www.womenshistory.org/exhibits/sojourner-truth"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Historical Society of the New York Courts",
+   "dcterms:title": "Sojourner Truth: First African American Woman to Win a Lawsuit",
+   "schema:url": {
+    "@id": "https://history.nycourts.gov/sojourner-truth-first-african-american-woman-to-win-a-lawsuit/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "New York Public Library, Schomburg Center for Research in Black Culture (Lisa Herndon)",
+   "dcterms:title": "Court Records of Sojourner Truth's Legal Battle",
+   "schema:url": {
+    "@id": "https://www.nypl.org/blog/2022/09/29/court-records-sojourner-truth-legal-battle"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Documenting the American South, University of North Carolina at Chapel Hill",
+   "dcterms:title": "Summary of Narrative of Sojourner Truth",
+   "schema:url": {
+    "@id": "https://docsouth.unc.edu/neh/truth75/summary.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Smithsonian Institution, The Civil War and American Art / National Portrait Gallery",
+   "dcterms:title": "Sojourner Truth",
+   "schema:url": {
+    "@id": "https://civilwar.si.edu/slavery_truth.html"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s1",
@@ -27127,6 +27436,174 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:sojourner-truth",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9"
+    }
+   ],
+   "rdfs:label": "Sojourner Truth",
+   "schema:birthDate": {
+    "@type": "xsd:gYear",
+    "@value": "1797"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1883-11-26"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1883-11-26"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1797"
+   },
+   "skos:altLabel": [
+    "Isabella Baumfree",
+    "Isabella Bomefree",
+    "Isabella Van Wagenen",
+    "Isabella Van Wagener"
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "An abolitionist, preacher and women's-rights advocate (c. 1797–1883) who was born enslaved in Ulster County, New York, freed herself in 1826, won a New York court case in 1828 to recover her son from slavery in Alabama, and from 1843 travelled as Sojourner Truth, speaking against slavery and for the rights of women and freed people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america"
+   },
+   "skos:prefLabel": "Sojourner Truth",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:aint-i-a-woman-myth"
+    },
+    {
+     "@id": "us:frederick-douglass"
+    },
+    {
+     "@id": "us:harriet-tubman"
+    },
+    {
+     "@id": "us:new-york"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:united-states-colored-troops"
+    },
+    {
+     "@id": "us:william-lloyd-garrison"
+    }
+   ],
+   "uso:domain": "people-who-shaped-america",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/people-who-shaped-america/sojourner-truth.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:akron-womens-rights-convention"
+    },
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9"
     }
    ]
   },

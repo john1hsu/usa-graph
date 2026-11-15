@@ -779,6 +779,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Tubman have to petition Congress for a pension, and what did she get?
   **A:** She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse.
 
+### [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) — Person
+
+| Myth | Fact |
+|---|---|
+| At Akron in 1851 Sojourner Truth gave a speech in Southern dialect, repeating "Ain't I a woman?" and telling how she had borne thirteen children, most sold into slavery. | The refrain, the dialect and the thirteen children come from Frances Dana Gage's version published in 1863, twelve years later. Marius Robinson's account, printed within weeks of the convention, has no such refrain; Truth, raised in New York speaking Dutch, never lived in the South, and she had five children. |
+
+**Why it matters:** Gage's dramatic version was reprinted widely, entered later editions of Truth's own Narrative and became the text schoolbooks quote, so the more reliable 1851 record was long overlooked.
+
+- **Q:** Why do historians treat Marius Robinson's 1851 account of the Akron speech as more reliable than Frances Gage's 1863 version?
+  **A:** Robinson published his within weeks of the convention and is believed to have reviewed it with Truth, while Gage wrote twelve years later without Truth's review and put a Northern-born, Dutch-speaking woman's words into Southern dialect.
+- **Q:** How did New York law help Truth recover her son Peter in 1828?
+  **A:** New York's gradual-emancipation laws forbade selling an enslaved New Yorker out of state in a way that denied the person the benefits of those laws, so his sale to Alabama was illegal and she could sue for his return, which she won.
+- **Q:** How did Truth fund her work during the Civil War years?
+  **A:** She sold copies of her Narrative and cartes de visite of herself at lectures and by mail, registering a copyright in the photographs in 1864 so that the income came to her.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person
