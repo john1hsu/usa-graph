@@ -1950,6 +1950,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires.",
+   "uso:myth": "Due process is only about criminal trials.",
+   "uso:why": "The most familiar procedural rights, such as indictment, jury trial and counsel, sit beside due process in the Fifth and Sixth Amendments, so people assume the clause belongs only to the courtroom."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the Constitution contain two Due Process Clauses?",
+   "uso:answer": "The Fifth Amendment's clause was held in Barron v. Baltimore (1833) to bind only the federal government, so after the Civil War the Fourteenth Amendment (ratified 1868) added a parallel clause forbidding the states to deprive any person of life, liberty, or property without due process of law.",
+   "uso:questionFor": {
+    "@id": "us:due-process"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does a court decide how much process is \"due\" when the government ends someone's benefits?",
+   "uso:answer": "Under Mathews v. Eldridge (1976) it balances three factors, the private interest affected, the risk of an erroneous deprivation under the procedures used, and the government's interest, against a baseline of notice and an opportunity to be heard.",
+   "uso:questionFor": {
+    "@id": "us:due-process"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is substantive due process more controversial than procedural due process or incorporation?",
+   "uso:answer": "Critics argue the clause's text guarantees lawful procedure, not limits on what laws may say, and note the doctrine's roots in Dred Scott and Lochner; defenders answer that more than a century of precedent and the Ninth Amendment support protecting unenumerated rights, and that the real question is how judges should identify them.",
+   "uso:questionFor": {
+    "@id": "us:due-process"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Magna Carta promises that free men will be judged by their peers or by the law of the land.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1215"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification of the Fourteenth Amendment extends a due process guarantee against the states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-07-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lochner v. New York strikes down a workplace regulation on \"freedom of contract\" grounds.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1950"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An English statute restating Magna Carta first uses the phrase \"due process of law.\"",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1354"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sir Edward Coke's Second Institutes equates \"law of the land\" with \"due process of law,\" shaping the founders' understanding.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1641"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Maryland's and Virginia's new constitutions adopt Magna Carta's \"law of the land\" protections.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress proposes twelve amendments, including the article containing the Due Process Clause.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York becomes the first state to write \"due process of law\" into its own constitution.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1821"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1833"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Dust Bowl refugees were only part of a migration of roughly half a million people from several Southern Plains states; many came from Arkansas, Missouri, eastern Oklahoma and East Texas, where tenant farmers were pushed off the land by falling prices, foreclosures and landlords using federal crop payments to mechanize and evict them.",
@@ -8747,6 +8907,90 @@
     "@id": "https://www.gao.gov/products/GAO-19-475T"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Constitution Annotated, Congressional Research Service (Cornell Legal Information Institute)",
+   "dcterms:title": "Right to Due Process: Historical Background (Amdt5.4.2)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-5/right-to-due-process-historical-background"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (America's Founding Documents)",
+   "dcterms:title": "The Bill of Rights: A Transcription",
+   "schema:url": {
+    "@id": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Constitution Annotated, Congressional Research Service (Cornell Legal Information Institute)",
+   "dcterms:title": "Overview of Due Process Procedural Requirements",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/constitution-conan/amendment-5/overview-of-due-process-procedural-requirements"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Constitution Center (Nathan S. Chapman and Kenji Yoshino)",
+   "dcterms:title": "The Fourteenth Amendment Due Process Clause (Interpretation and Debate)",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/the-constitution/articles/Amendment-xiv/clauses/701"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Annenberg Classroom, Annenberg Public Policy Center, University of Pennsylvania",
+   "dcterms:title": "Bill of Rights Applies Only To The Federal Government",
+   "schema:url": {
+    "@id": "https://www.annenbergclassroom.org/timeline_event/bill-of-rights-applies-only-to-the-federal-fovernment/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Ronald Reagan Presidential Library and Museum, National Archives",
+   "dcterms:title": "Constitutional Amendments: Amendment 14, Citizenship, Equal Protection, Apportionment, and War Debts",
+   "schema:url": {
+    "@id": "https://www.reaganlibrary.gov/constitutional-amendments-amendment-14-citizenship-equal-protection-apportionment-and-war-debts"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1",
@@ -18006,6 +18250,157 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:due-process",
+   "@type": "uso:Right",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s6"
+    }
+   ],
+   "rdfs:label": "Due process",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
+   },
+   "skos:altLabel": [
+    "Due Process Clause",
+    "Due Process Clauses",
+    "Due process of law"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:bill-of-rights"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    }
+   ],
+   "skos:definition": "The constitutional guarantee, in the Fifth Amendment (binding the federal government) and the Fourteenth Amendment (binding the states), that no person may be deprived of life, liberty, or property without due process of law: fair procedures such as notice and a hearing, and, as the courts have read it, some protection for fundamental rights as well.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Due process",
+   "skos:related": [
+    {
+     "@id": "us:barron-v-baltimore"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:equal-protection"
+    },
+    {
+     "@id": "us:incorporation-of-the-bill-of-rights"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:lochner-v-new-york"
+    },
+    {
+     "@id": "us:mathews-v-eldridge"
+    },
+    {
+     "@id": "us:slaughter-house-cases"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:west-coast-hotel-co-v-parrish"
+    }
+   ],
+   "uso:domain": "rights-and-law",
+   "uso:establishedBy": [
+    {
+     "@id": "us:fifth-amendment"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    }
+   ],
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/rights-and-law/due-process.md",
+   "uso:influencedBy": {
+    "@id": "us:magna-carta"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/due-process/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:bill-of-rights"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/due-process/timeline/9"
     }
    ]
   },

@@ -766,6 +766,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## rights-and-law
 
+### [Due process](../articles/rights-and-law/due-process.md) — Right
+
+| Myth | Fact |
+|---|---|
+| Due process is only about criminal trials. | The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires. |
+
+**Why it matters:** The most familiar procedural rights, such as indictment, jury trial and counsel, sit beside due process in the Fifth and Sixth Amendments, so people assume the clause belongs only to the courtroom.
+
+- **Q:** Why does the Constitution contain two Due Process Clauses?
+  **A:** The Fifth Amendment's clause was held in Barron v. Baltimore (1833) to bind only the federal government, so after the Civil War the Fourteenth Amendment (ratified 1868) added a parallel clause forbidding the states to deprive any person of life, liberty, or property without due process of law.
+- **Q:** How does a court decide how much process is "due" when the government ends someone's benefits?
+  **A:** Under Mathews v. Eldridge (1976) it balances three factors, the private interest affected, the risk of an erroneous deprivation under the procedures used, and the government's interest, against a baseline of notice and an opportunity to be heard.
+- **Q:** Why is substantive due process more controversial than procedural due process or incorporation?
+  **A:** Critics argue the clause's text guarantees lawful procedure, not limits on what laws may say, and note the doctrine's roots in Dred Scott and Lochner; defenders answer that more than a century of precedent and the Ninth Amendment support protecting unenumerated rights, and that the real question is how judges should identify them.
+
 ### [Equal protection](../articles/rights-and-law/equal-protection.md) — Right
 
 | Myth | Fact |

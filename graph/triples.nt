@@ -1421,6 +1421,116 @@
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> <https://schema.org/startDate> "2003-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/due-process/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/due-process/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires." .
+<https://github.com/john1hsu/usa-graph/id/due-process/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Due process is only about criminal trials." .
+<https://github.com/john1hsu/usa-graph/id/due-process/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The most familiar procedural rights, such as indictment, jury trial and counsel, sit beside due process in the Fifth and Sixth Amendments, so people assume the clause belongs only to the courtroom." .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why does the Constitution contain two Due Process Clauses?" .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Fifth Amendment's clause was held in Barron v. Baltimore (1833) to bind only the federal government, so after the Civil War the Fourteenth Amendment (ratified 1868) added a parallel clause forbidding the states to deprive any person of life, liberty, or property without due process of law." .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/due-process> .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How does a court decide how much process is \"due\" when the government ends someone's benefits?" .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Under Mathews v. Eldridge (1976) it balances three factors, the private interest affected, the risk of an erroneous deprivation under the procedures used, and the government's interest, against a baseline of notice and an opportunity to be heard." .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/due-process> .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is substantive due process more controversial than procedural due process or incorporation?" .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Critics argue the clause's text guarantees lawful procedure, not limits on what laws may say, and note the doctrine's roots in Dred Scott and Lochner; defenders answer that more than a century of precedent and the Ninth Amendment support protecting unenumerated rights, and that the real question is how judges should identify them." .
+<https://github.com/john1hsu/usa-graph/id/due-process/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/due-process> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Ratification of the Fourteenth Amendment extends a due process guarantee against the states." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Lochner v. New York strikes down a workplace regulation on \"freedom of contract\" grounds." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Magna Carta promises that free men will be judged by their peers or by the law of the land." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1215"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "An English statute restating Magna Carta first uses the phrase \"due process of law.\"" .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1354"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Edward Coke's Second Institutes equates \"law of the land\" with \"due process of law,\" shaping the founders' understanding." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1641"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland's and Virginia's new constitutions adopt Magna Carta's \"law of the land\" protections." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress proposes twelve amendments, including the article containing the Due Process Clause." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1791-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "New York becomes the first state to write \"due process of law\" into its own constitution." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1821"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1833"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process." .
+<https://github.com/john1hsu/usa-graph/id/due-process/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1857"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2000/01/rdf-schema#label> "Due process" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#altLabel> "Due Process Clause" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#altLabel> "Due Process Clauses" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#altLabel> "Due process of law" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#definition> "The constitutional guarantee, in the Fifth Amendment (binding the federal government) and the Fourteenth Amendment (binding the states), that no person may be deprived of life, liberty, or property without due process of law: fair procedures such as notice and a hearing, and, as the courts have read it, some protection for fundamental rights as well." .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#prefLabel> "Due process" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/barron-v-baltimore> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lochner-v-new-york> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mathews-v-eldridge> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s1> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s2> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s3> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s4> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s5> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/due-process/s6> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#domain> "rights-and-law" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/fifth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/rights-and-law/due-process.md" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/magna-carta> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/due-process/misconception> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/due-process/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/due-process> <https://schema.org/startDate> "1791-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Dust Bowl refugees were only part of a migration of roughly half a million people from several Southern Plains states; many came from Arkansas, Missouri, eastern Oklahoma and East Texas, where tenant farmers were pushed off the land by falling prices, foreclosures and landlords using federal crop payments to mechanize and evict them." .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The \"Okies\" who poured into California in the 1930s were mostly farm families blown out of the Dust Bowl." .
@@ -5807,6 +5917,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s9> <https://schema.org/url> <https://www.gao.gov/products/GAO-19-475T> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <http://purl.org/dc/terms/publisher> "Constitution Annotated, Congressional Research Service (Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <http://purl.org/dc/terms/title> "Right to Due Process: Historical Background (Amdt5.4.2)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s1> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-5/right-to-due-process-historical-background> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <http://purl.org/dc/terms/publisher> "National Archives (America's Founding Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <http://purl.org/dc/terms/title> "The Bill of Rights: A Transcription" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s2> <https://schema.org/url> <https://www.archives.gov/founding-docs/bill-of-rights-transcript> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <http://purl.org/dc/terms/publisher> "Constitution Annotated, Congressional Research Service (Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <http://purl.org/dc/terms/title> "Overview of Due Process Procedural Requirements" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s3> <https://schema.org/url> <https://law.cornell.edu/constitution-conan/amendment-5/overview-of-due-process-procedural-requirements> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <http://purl.org/dc/terms/publisher> "National Constitution Center (Nathan S. Chapman and Kenji Yoshino)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <http://purl.org/dc/terms/title> "The Fourteenth Amendment Due Process Clause (Interpretation and Debate)" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s4> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/articles/Amendment-xiv/clauses/701> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <http://purl.org/dc/terms/publisher> "Annenberg Classroom, Annenberg Public Policy Center, University of Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <http://purl.org/dc/terms/title> "Bill of Rights Applies Only To The Federal Government" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s5> <https://schema.org/url> <https://www.annenbergclassroom.org/timeline_event/bill-of-rights-applies-only-to-the-federal-fovernment/> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <http://purl.org/dc/terms/publisher> "Ronald Reagan Presidential Library and Museum, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <http://purl.org/dc/terms/title> "Constitutional Amendments: Amendment 14, Citizenship, Equal Protection, Apportionment, and War Debts" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/due-process/s6> <https://schema.org/url> <https://www.reaganlibrary.gov/constitutional-amendments-amendment-14-citizenship-equal-protection-apportionment-and-war-debts> .
 <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/publisher> "Oklahoma Historical Society, The Encyclopedia of Oklahoma History and Culture (Donald A. Wilhite)" .
 <https://github.com/john1hsu/usa-graph/id/source/dust-bowl/s1> <http://purl.org/dc/terms/title> "Dust Bowl" .

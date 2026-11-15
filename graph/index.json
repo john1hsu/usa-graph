@@ -2380,6 +2380,187 @@
   ]
  },
  {
+  "id": "us:due-process",
+  "title": "Due process",
+  "aliases": [
+   "Due process of law",
+   "Due Process Clause",
+   "Due Process Clauses"
+  ],
+  "type": "Right",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/rights-and-law/due-process.md",
+  "created": "2026-11-15",
+  "summary": "The constitutional guarantee, in the Fifth Amendment (binding the federal government) and the Fourteenth Amendment (binding the states), that no person may be deprived of life, liberty, or property without due process of law: fair procedures such as notice and a hearing, and, as the courts have read it, some protection for fundamental rights as well.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:bill-of-rights"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:equal-protection"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:incorporation-of-the-bill-of-rights"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barron-v-baltimore"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slaughter-house-cases"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lochner-v-new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:west-coast-hotel-co-v-parrish"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mathews-v-eldridge"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:fifth-amendment",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:fourteenth-amendment",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:magna-carta",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:bill-of-rights",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1791-12-15",
+  "end": null,
+  "review": [
+   {
+    "question": "Why does the Constitution contain two Due Process Clauses?",
+    "answer": "The Fifth Amendment's clause was held in Barron v. Baltimore (1833) to bind only the federal government, so after the Civil War the Fourteenth Amendment (ratified 1868) added a parallel clause forbidding the states to deprive any person of life, liberty, or property without due process of law."
+   },
+   {
+    "question": "How does a court decide how much process is \"due\" when the government ends someone's benefits?",
+    "answer": "Under Mathews v. Eldridge (1976) it balances three factors, the private interest affected, the risk of an erroneous deprivation under the procedures used, and the government's interest, against a baseline of notice and an opportunity to be heard."
+   },
+   {
+    "question": "Why is substantive due process more controversial than procedural due process or incorporation?",
+    "answer": "Critics argue the clause's text guarantees lawful procedure, not limits on what laws may say, and note the doctrine's roots in Dred Scott and Lochner; defenders answer that more than a century of precedent and the Ninth Amendment support protecting unenumerated rights, and that the real question is how judges should identify them."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1215",
+    "event": "Magna Carta promises that free men will be judged by their peers or by the law of the land."
+   },
+   {
+    "date": "1354",
+    "event": "An English statute restating Magna Carta first uses the phrase \"due process of law.\""
+   },
+   {
+    "date": "1641",
+    "event": "Sir Edward Coke's Second Institutes equates \"law of the land\" with \"due process of law,\" shaping the founders' understanding."
+   },
+   {
+    "date": "1776",
+    "event": "Maryland's and Virginia's new constitutions adopt Magna Carta's \"law of the land\" protections."
+   },
+   {
+    "date": "1789-09-25",
+    "event": "Congress proposes twelve amendments, including the article containing the Due Process Clause."
+   },
+   {
+    "date": "1791-12-15",
+    "event": "Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution."
+   },
+   {
+    "date": "1821",
+    "event": "New York becomes the first state to write \"due process of law\" into its own constitution."
+   },
+   {
+    "date": "1833",
+    "event": "Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government."
+   },
+   {
+    "date": "1857",
+    "event": "In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process."
+   },
+   {
+    "date": "1868-07-09",
+    "event": "Ratification of the Fourteenth Amendment extends a due process guarantee against the states."
+   },
+   {
+    "date": "1905",
+    "event": "Lochner v. New York strikes down a workplace regulation on \"freedom of contract\" grounds."
+   },
+   {
+    "date": "1937",
+    "event": "West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation."
+   },
+   {
+    "date": "1950",
+    "event": "Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal."
+   },
+   {
+    "date": "1976",
+    "event": "Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings."
+   }
+  ],
+  "misconception": {
+   "myth": "Due process is only about criminal trials.",
+   "fact": "The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires.",
+   "why": "The most familiar procedural rights, such as indictment, jury trial and counsel, sit beside due process in the Fifth and Sixth Amendments, so people assume the clause belongs only to the courtroom."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/constitution-conan/amendment-5/right-to-due-process-historical-background",
+   "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+   "https://law.cornell.edu/constitution-conan/amendment-5/overview-of-due-process-procedural-requirements",
+   "https://constitutioncenter.org/the-constitution/articles/Amendment-xiv/clauses/701",
+   "https://www.annenbergclassroom.org/timeline_event/bill-of-rights-applies-only-to-the-federal-fovernment/",
+   "https://www.reaganlibrary.gov/constitutional-amendments-amendment-14-citizenship-equal-protection-apportionment-and-war-debts"
+  ]
+ },
+ {
   "id": "us:dust-bowl",
   "title": "Dust Bowl",
   "aliases": [

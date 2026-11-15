@@ -7,12 +7,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1000 | The Mississippian culture flourishes in the river valley; its greatest center, Cahokia, rises near present-day St. Louis and lasts until about 1350. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1050 | Cahokia, east of present-day St. Louis, undergoes a rapid political and social transformation; its population grows almost fivefold in a generation. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1050 | Cahokia, near present-day St. Louis, enters a period of rapid growth; at its peak it is the largest settlement north of Mexico. — [United States](../articles/states-and-territories/united-states.md) |
+| 1215 | Magna Carta promises that free men will be judged by their peers or by the law of the land. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1354 | An English statute restating Magna Carta first uses the phrase "due process of law." — [Due process](../articles/rights-and-law/due-process.md) |
 | 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1681-03-04 | Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -47,6 +50,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-06-14 | The Continental Congress votes to raise a Continental Army and the next day unanimously chooses George Washington to command it. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1776-01-01 | The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -143,12 +147,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1789-09-25 | Congress proposes twelve amendments, including the article containing the Due Process Clause. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
+| 1791-12-15 | Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -202,6 +209,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1820-03-15 | Maine becomes the 23rd state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-04-22 | Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-07-19 | Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1821 | New York becomes the first state to write "due process of law" into its own constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1821-06 | Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1821-08-10 | Monroe proclaims Missouri the 24th state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1822 – 1913-03-10 | **[Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md)** (Person) |
@@ -221,6 +229,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -254,6 +263,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1857 | Brings her aging parents north after learning her father faces arrest. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1857 | In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1857 | In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1857-12-14 | Representative Justin Smith Morrill of Vermont introduces a national land-grant college bill. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1858 | Meets John Brown at St. Catharines, Ontario, and recruits support for his plans, though she does not join the 1859 Harpers Ferry raid. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -334,6 +344,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
 | 1868-07-09 | **[Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md)** (Law) |
 | 1868-07-09 | Louisiana and South Carolina ratify, completing the three-fourths needed. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1868-07-09 | Ratification of the Fourteenth Amendment extends a due process guarantee against the states. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1868-07-09 | Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
@@ -451,6 +462,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -546,6 +558,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936-10-26 | The first generating unit, N-2, goes into full operation. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
+| 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -592,6 +605,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -674,6 +688,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1976 | Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978 | United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1978-03-16 | The Senate approves the Neutrality Treaty, 68 to 32. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |

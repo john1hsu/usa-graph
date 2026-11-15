@@ -44,6 +44,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, womens-suffrage-movement |
+| `us:fourteenth-amendment` | 2 | Due process, Equal protection |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:wright-brothers-first-flight` | 2 | huffman-prairie, wright-brothers-national-memorial |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
-| `us:boulder-canyon-project-act` | 1 | Hoover Dam |
 
-…and 19 more.
+…and 20 more.
 
 ## Happenings by era
 
@@ -164,6 +164,8 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
+| `us:fifth-amendment` | `us:due-process` |
+| `us:fourteenth-amendment` | `us:due-process` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
 | `us:hay-bunau-varilla-treaty` | `us:panama-canal` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
