@@ -1022,25 +1022,36 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2009-12-24 | The Senate passes H.R. 3590, as amended, by 60 to 39. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 2010-03-21 | The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2010-03-23 | **[Affordable Care Act](../articles/contemporary-america/affordable-care-act.md)** (Law) |
+| 2010-03-23 | Obama signs the Patient Protection and Affordable Care Act. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2010-03-30 | Obama signs the Health Care and Education Reconciliation Act, which amends the new law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2012-06-28 | In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2013 | The Supreme Court strikes down a key federal oversight provision of the Voting Rights Act. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2014-11 | A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01 | The Supreme Court agrees to hear the four consolidated cases. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2015-04-28 | The case is argued before the Supreme Court. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2015-06-25 | In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2015-06-26 | **[Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md)** (CourtCase) |
 | 2015-06-26 | The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2016-01 | Obama vetoes the first repeal bill Congress sends him. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2019 | The penalty for going without coverage falls to $0 under the 2017 tax law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2019-06-18 | Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 2020-02-29 | The United States and the Taliban sign the Agreement for Bringing Peace to Afghanistan in Doha, Qatar, setting a 14-month withdrawal timeline. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -1054,6 +1065,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-04-26 | The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 2021-06-17 | In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2021-08-15 | The Taliban enter Kabul and President Ashraf Ghani flees the country. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-16 | The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

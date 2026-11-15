@@ -37,6 +37,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:treaty-of-paris-1783` | 4 | Mississippi River, haudenosaunee, loyalists, treaty-of-fort-stanwix-1784 |
+| `us:affordable-care-act` | 3 | california-v-texas, medicaid, nfib-v-sebelius |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:american-revolutionary-war` | 3 | African Americans, Treaty of Paris (1783), haudenosaunee |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
-| `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 
-…and 37 more.
+…and 38 more.
 
 ## Happenings by era
 

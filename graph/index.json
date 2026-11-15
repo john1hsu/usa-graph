@@ -410,6 +410,185 @@
   ]
  },
  {
+  "id": "us:affordable-care-act",
+  "title": "Affordable Care Act",
+  "aliases": [
+   "Patient Protection and Affordable Care Act",
+   "ACA",
+   "PPACA",
+   "Obamacare",
+   "Public Law 111-148",
+   "H.R. 3590 (2009–2010)"
+  ],
+  "type": "Law",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/contemporary-america/affordable-care-act.md",
+  "created": "2026-11-15",
+  "summary": "The federal health care law signed by President Barack Obama on March 23, 2010, and amended a week later by the Health Care and Education Reconciliation Act, which expanded coverage through subsidized private insurance exchanges, a broader Medicaid program, an individual coverage requirement and new rules for insurers, and which survived three major Supreme Court challenges.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:health-care-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barack-obama"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:medicaid"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:medicare"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nfib-v-sebelius"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:king-v-burwell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-v-texas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:burwell-v-hobby-lobby"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:health-care-and-education-reconciliation-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tax-cuts-and-jobs-act-of-2017"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:enactedBy",
+    "object": "us:united-states-congress",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:signedBy",
+    "object": "us:barack-obama",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:medicaid",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:nfib-v-sebelius",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:california-v-texas",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": "2010-03-23",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Supreme Court uphold the individual mandate in NFIB v. Sebelius even though it rejected the Commerce Clause argument for it?",
+    "answer": "The Court held that the penalty for going without insurance could be sustained as an exercise of Congress's power to levy taxes, so the mandate was constitutional on that basis even though it was not valid under the Commerce Clause or the Necessary and Proper Clause."
+   },
+   {
+    "question": "How did NFIB v. Sebelius change the Medicaid expansion?",
+    "answer": "The Court found that threatening states with the loss of their existing Medicaid funds was coercive, and limited the remedy so that states could decline the expansion to adults with incomes up to 133 percent of the poverty level without losing their other Medicaid money, making the expansion optional."
+   },
+   {
+    "question": "Why did California v. Texas end without a ruling on whether the law was constitutional?",
+    "answer": "Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2009-09-09",
+    "event": "President Obama addresses a joint session of Congress to press for health care reform."
+   },
+   {
+    "date": "2009-12-24",
+    "event": "The Senate passes H.R. 3590, as amended, by 60 to 39."
+   },
+   {
+    "date": "2010-03-21",
+    "event": "The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor."
+   },
+   {
+    "date": "2010-03-23",
+    "event": "Obama signs the Patient Protection and Affordable Care Act."
+   },
+   {
+    "date": "2010-03-30",
+    "event": "Obama signs the Health Care and Education Reconciliation Act, which amends the new law."
+   },
+   {
+    "date": "2012-06-28",
+    "event": "In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states."
+   },
+   {
+    "date": "2014",
+    "event": "The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect."
+   },
+   {
+    "date": "2015-06-25",
+    "event": "In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange."
+   },
+   {
+    "date": "2016-01",
+    "event": "Obama vetoes the first repeal bill Congress sends him."
+   },
+   {
+    "date": "2019",
+    "event": "The penalty for going without coverage falls to $0 under the 2017 tax law."
+   },
+   {
+    "date": "2021-06-17",
+    "event": "In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing."
+   }
+  ],
+  "misconception": {
+   "myth": "Congress repealed the Affordable Care Act's individual mandate in 2017, and the Supreme Court later struck the law down.",
+   "fact": "The 2017 tax law reduced the penalty for going without coverage to $0 from 2019 but left the coverage requirement in the statute, and in California v. Texas (2021) the Supreme Court dismissed the challenge for lack of standing, leaving the rest of the law in force.",
+   "why": "Zeroing out the penalty was widely described as killing the mandate, and a lower court had ruled the whole law invalid before the Supreme Court reversed, so headlines from different stages of the fight blur together."
+  },
+  "source_urls": [
+   "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_111_1.htm",
+   "https://clerk.house.gov/evs/2010/roll165",
+   "https://www.everycrsreport.com/reports/R41664.html",
+   "https://millercenter.org/president/obama/domestic-affairs",
+   "https://www.supremecourt.gov/opinions/20pdf/593us2r49_c0nd.pdf",
+   "https://www.census.gov/content/dam/Census/library/publications/2017/demo/p60-260.pdf",
+   "https://www.britannica.com/topic/King-v-Burwell"
+  ]
+ },
+ {
   "id": "us:african-americans",
   "title": "African Americans",
   "aliases": [

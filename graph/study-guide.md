@@ -272,6 +272,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## contemporary-america
 
+### [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| Congress repealed the Affordable Care Act's individual mandate in 2017, and the Supreme Court later struck the law down. | The 2017 tax law reduced the penalty for going without coverage to $0 from 2019 but left the coverage requirement in the statute, and in California v. Texas (2021) the Supreme Court dismissed the challenge for lack of standing, leaving the rest of the law in force. |
+
+**Why it matters:** Zeroing out the penalty was widely described as killing the mandate, and a lower court had ruled the whole law invalid before the Supreme Court reversed, so headlines from different stages of the fight blur together.
+
+- **Q:** Why did the Supreme Court uphold the individual mandate in NFIB v. Sebelius even though it rejected the Commerce Clause argument for it?
+  **A:** The Court held that the penalty for going without insurance could be sustained as an exercise of Congress's power to levy taxes, so the mandate was constitutional on that basis even though it was not valid under the Commerce Clause or the Necessary and Proper Clause.
+- **Q:** How did NFIB v. Sebelius change the Medicaid expansion?
+  **A:** The Court found that threatening states with the loss of their existing Medicaid funds was coercive, and limited the remedy so that states could decline the expansion to adults with incomes up to 133 percent of the poverty level without losing their other Medicaid money, making the expansion optional.
+- **Q:** Why did California v. Texas end without a ruling on whether the law was constitutional?
+  **A:** Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed.
+
 ### [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) — Institution
 
 | Myth | Fact |

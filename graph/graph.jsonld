@@ -361,6 +361,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 2017 tax law reduced the penalty for going without coverage to $0 from 2019 but left the coverage requirement in the statute, and in California v. Texas (2021) the Supreme Court dismissed the challenge for lack of standing, leaving the rest of the law in force.",
+   "uso:myth": "Congress repealed the Affordable Care Act's individual mandate in 2017, and the Supreme Court later struck the law down.",
+   "uso:why": "Zeroing out the penalty was widely described as killing the mandate, and a lower court had ruled the whole law invalid before the Supreme Court reversed, so headlines from different stages of the fight blur together."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court uphold the individual mandate in NFIB v. Sebelius even though it rejected the Commerce Clause argument for it?",
+   "uso:answer": "The Court held that the penalty for going without insurance could be sustained as an exercise of Congress's power to levy taxes, so the mandate was constitutional on that basis even though it was not valid under the Commerce Clause or the Necessary and Proper Clause.",
+   "uso:questionFor": {
+    "@id": "us:affordable-care-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did NFIB v. Sebelius change the Medicaid expansion?",
+   "uso:answer": "The Court found that threatening states with the loss of their existing Medicaid funds was coercive, and limited the remedy so that states could decline the expansion to adults with incomes up to 133 percent of the poverty level without losing their other Medicaid money, making the expansion optional.",
+   "uso:questionFor": {
+    "@id": "us:affordable-care-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did California v. Texas end without a ruling on whether the law was constitutional?",
+   "uso:answer": "Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed.",
+   "uso:questionFor": {
+    "@id": "us:affordable-care-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Obama addresses a joint session of Congress to press for health care reform.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-09-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The penalty for going without coverage falls to $0 under the 2017 tax law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2019"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-06-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes H.R. 3590, as amended, by 60 to 39.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-12-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-03-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Obama signs the Patient Protection and Affordable Care Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Obama signs the Health Care and Education Reconciliation Act, which amends the new law.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-03-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2012-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2014"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2015-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Obama vetoes the first repeal bill Congress sends him.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2016-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean.",
@@ -9565,6 +9698,104 @@
     "@id": "https://www.loc.gov/item/today-in-history/april-14/"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "United States Senate",
+   "dcterms:title": "Roll Call Votes, 111th Congress – 1st Session (Vote 396, December 24, 2009)",
+   "schema:url": {
+    "@id": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_111_1.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Office of the Clerk, U.S. House of Representatives",
+   "dcterms:title": "Final Vote Results for Roll Call 165 (H.R. 3590, On Motion to Concur in Senate Amendments, March 21, 2010)",
+   "schema:url": {
+    "@id": "https://clerk.house.gov/evs/2010/roll165"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Congressional Research Service, via EveryCRSReport",
+   "dcterms:title": "ACA: A Brief Overview of the Law, Implementation, and Legal Challenges (R41664)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R41664.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "Barack Obama: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/obama/domestic-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Supreme Court of the United States",
+   "dcterms:title": "California v. Texas, 593 U.S. 659 (2021), slip opinion",
+   "schema:url": {
+    "@id": "https://www.supremecourt.gov/opinions/20pdf/593us2r49_c0nd.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Census Bureau (Jessica C. Barnett and Edward R. Berchick)",
+   "dcterms:title": "Health Insurance Coverage in the United States: 2016 (P60-260)",
+   "schema:url": {
+    "@id": "https://www.census.gov/content/dam/Census/library/publications/2017/demo/p60-260.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "King v. Burwell",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/King-v-Burwell"
+   },
+   "uso:sourceType": "encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/african-americans/s1",
@@ -22786,6 +23017,155 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:affordable-care-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7"
+    }
+   ],
+   "rdfs:label": "Affordable Care Act",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2010-03-23"
+   },
+   "skos:altLabel": [
+    "ACA",
+    "H.R. 3590 (2009–2010)",
+    "Obamacare",
+    "PPACA",
+    "Patient Protection and Affordable Care Act",
+    "Public Law 111-148"
+   ],
+   "skos:broader": {
+    "@id": "us:health-care-in-the-united-states"
+   },
+   "skos:definition": "The federal health care law signed by President Barack Obama on March 23, 2010, and amended a week later by the Health Care and Education Reconciliation Act, which expanded coverage through subsidized private insurance exchanges, a broader Medicaid program, an individual coverage requirement and new rules for insurers, and which survived three major Supreme Court challenges.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Affordable Care Act",
+   "skos:related": [
+    {
+     "@id": "us:barack-obama"
+    },
+    {
+     "@id": "us:burwell-v-hobby-lobby"
+    },
+    {
+     "@id": "us:california-v-texas"
+    },
+    {
+     "@id": "us:health-care-and-education-reconciliation-act"
+    },
+    {
+     "@id": "us:king-v-burwell"
+    },
+    {
+     "@id": "us:medicaid"
+    },
+    {
+     "@id": "us:medicare"
+    },
+    {
+     "@id": "us:nfib-v-sebelius"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:tax-cuts-and-jobs-act-of-2017"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:medicaid"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/contemporary-america/affordable-care-act.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:california-v-texas"
+    },
+    {
+     "@id": "us:nfib-v-sebelius"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:signedBy": {
+    "@id": "us:barack-obama"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9"
     }
    ]
   },

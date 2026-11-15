@@ -251,6 +251,109 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/endDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://schema.org/startDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The 2017 tax law reduced the penalty for going without coverage to $0 from 2019 but left the coverage requirement in the statute, and in California v. Texas (2021) the Supreme Court dismissed the challenge for lack of standing, leaving the rest of the law in force." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Congress repealed the Affordable Care Act's individual mandate in 2017, and the Supreme Court later struck the law down." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Zeroing out the penalty was widely described as killing the mandate, and a lower court had ruled the whole law invalid before the Supreme Court reversed, so headlines from different stages of the fight blur together." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court uphold the individual mandate in NFIB v. Sebelius even though it rejected the Commerce Clause argument for it?" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Court held that the penalty for going without insurance could be sustained as an exercise of Congress's power to levy taxes, so the mandate was constitutional on that basis even though it was not valid under the Commerce Clause or the Necessary and Proper Clause." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did NFIB v. Sebelius change the Medicaid expansion?" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Court found that threatening states with the loss of their existing Medicaid funds was coercive, and limited the remedy so that states could decline the expansion to adults with incomes up to 133 percent of the poverty level without losing their other Medicaid money, making the expansion optional." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did California v. Texas end without a ruling on whether the law was constitutional?" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The penalty for going without coverage falls to $0 under the 2017 tax law." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "President Obama addresses a joint session of Congress to press for health care reform." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-09-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes H.R. 3590, as amended, by 60 to 39." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2010-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Obama signs the Patient Protection and Affordable Care Act." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2010-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Obama signs the Health Care and Education Reconciliation Act, which amends the new law." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2010-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2012-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2015-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Obama vetoes the first repeal bill Congress sends him." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2016-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Law> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2000/01/rdf-schema#label> "Affordable Care Act" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "ACA" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "H.R. 3590 (2009–2010)" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Obamacare" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "PPACA" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Patient Protection and Affordable Care Act" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Public Law 111-148" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/health-care-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#definition> "The federal health care law signed by President Barack Obama on March 23, 2010, and amended a week later by the Health Care and Education Reconciliation Act, which expanded coverage through subsidized private insurance exchanges, a broader Medicaid program, an individual coverage requirement and new rules for insurers, and which survived three major Supreme Court challenges." .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affordable Care Act" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/barack-obama> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/burwell-v-hobby-lobby> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-v-texas> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/health-care-and-education-reconciliation-act> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/king-v-burwell> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/medicaid> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/medicare> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nfib-v-sebelius> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tax-cuts-and-jobs-act-of-2017> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/medicaid> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#domain> "contemporary-america" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#enactedBy> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/contemporary-america/affordable-care-act.md" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/california-v-texas> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/nfib-v-sebelius> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/misconception> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#signedBy> <https://github.com/john1hsu/usa-graph/id/barack-obama> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/affordable-care-act/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/affordable-care-act> <https://schema.org/startDate> "2010-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean." .
 <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Most of the Africans carried across the Atlantic in the slave trade were taken to what became the United States." .
@@ -6847,6 +6950,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <http://purl.org/dc/terms/publisher> "United States Senate" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <http://purl.org/dc/terms/title> "Roll Call Votes, 111th Congress – 1st Session (Vote 396, December 24, 2009)" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s1> <https://schema.org/url> <https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_111_1.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <http://purl.org/dc/terms/publisher> "Office of the Clerk, U.S. House of Representatives" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <http://purl.org/dc/terms/title> "Final Vote Results for Roll Call 165 (H.R. 3590, On Motion to Concur in Senate Amendments, March 21, 2010)" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s2> <https://schema.org/url> <https://clerk.house.gov/evs/2010/roll165> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via EveryCRSReport" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <http://purl.org/dc/terms/title> "ACA: A Brief Overview of the Law, Implementation, and Legal Challenges (R41664)" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s3> <https://schema.org/url> <https://www.everycrsreport.com/reports/R41664.html> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <http://purl.org/dc/terms/title> "Barack Obama: Domestic Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s4> <https://schema.org/url> <https://millercenter.org/president/obama/domestic-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <http://purl.org/dc/terms/title> "California v. Texas, 593 U.S. 659 (2021), slip opinion" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s5> <https://schema.org/url> <https://www.supremecourt.gov/opinions/20pdf/593us2r49_c0nd.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (Jessica C. Barnett and Edward R. Berchick)" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <http://purl.org/dc/terms/title> "Health Insurance Coverage in the United States: 2016 (P60-260)" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s6> <https://schema.org/url> <https://www.census.gov/content/dam/Census/library/publications/2017/demo/p60-260.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <http://purl.org/dc/terms/title> "King v. Burwell" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/affordable-care-act/s7> <https://schema.org/url> <https://www.britannica.com/topic/King-v-Burwell> .
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/publisher> "National Archives, African American Heritage" .
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s10> <http://purl.org/dc/terms/title> "The Great Migration (1910-1970)" .
