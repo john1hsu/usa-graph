@@ -53,7 +53,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
-| `us:wright-brothers-first-flight` | 2 | huffman-prairie, wright-brothers-national-memorial |
+| `us:wright-brothers-first-flight` | 2 | Huffman Prairie Flying Field, wright-brothers-national-memorial |
 | `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 | `us:blues` | 1 | rock-and-roll |
 
@@ -110,15 +110,15 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:huffman-prairie` | uso:Landmark |
 
 ## Orphan articles (gap)
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:wright-brothers-first-flight` |
+_No results._
 
 ## People with no recorded role (gap)
 

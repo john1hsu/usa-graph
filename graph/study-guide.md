@@ -828,6 +828,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## science-and-innovation
 
+### [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| The Wright brothers had a finished, practical airplane once they flew at Kitty Hawk in 1903. | The 1903 flights were brief, straight-line hops; the brothers learned to turn, circle, bank and stay up for half an hour only at Huffman Prairie in 1904–1905, with the redesigned Flyer III. |
+
+**Why it matters:** The single dramatic date of December 17, 1903, is easy to remember, while two seasons of unpublicized trial and error in an Ohio pasture drew little press attention.
+
+- **Q:** Why did the Wrights need a catapult at Huffman Prairie when they had not needed one at Kitty Hawk?
+  **A:** The Ohio pasture lacked the Outer Banks' steady strong winds and sand hills, so the brothers built a falling-weight derrick to get the heavier Flyer up to flying speed.
+- **Q:** How did the experiments at Huffman Prairie change the Wrights' machine from a novelty into a practical airplane?
+  **A:** Through repeated flights and crashes they enlarged and moved the elevator, enlarged the rudder and gave the pilot separate control of it, so that the 1905 Flyer III could bank, circle, fly figure-eights and stay aloft for more than half an hour.
+- **Q:** Why did the Wrights stop flying after October 1905, just as they had succeeded?
+  **A:** They feared that public demonstrations would let others copy their design before their patent was secure and before they had a buyer, so they took the Flyer apart and did not fly again for nearly three years.
+
 ### [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) — Law
 
 | Myth | Fact |

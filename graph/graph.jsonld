@@ -3895,6 +3895,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1903 flights were brief, straight-line hops; the brothers learned to turn, circle, bank and stay up for half an hour only at Huffman Prairie in 1904–1905, with the redesigned Flyer III.",
+   "uso:myth": "The Wright brothers had a finished, practical airplane once they flew at Kitty Hawk in 1903.",
+   "uso:why": "The single dramatic date of December 17, 1903, is easy to remember, while two seasons of unpublicized trial and error in an Ohio pasture drew little press attention."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Wrights need a catapult at Huffman Prairie when they had not needed one at Kitty Hawk?",
+   "uso:answer": "The Ohio pasture lacked the Outer Banks' steady strong winds and sand hills, so the brothers built a falling-weight derrick to get the heavier Flyer up to flying speed.",
+   "uso:questionFor": {
+    "@id": "us:huffman-prairie"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the experiments at Huffman Prairie change the Wrights' machine from a novelty into a practical airplane?",
+   "uso:answer": "Through repeated flights and crashes they enlarged and moved the elevator, enlarged the rudder and gave the pilot separate control of it, so that the 1905 Flyer III could bank, circle, fly figure-eights and stay aloft for more than half an hour.",
+   "uso:questionFor": {
+    "@id": "us:huffman-prairie"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Wrights stop flying after October 1905, just as they had succeeded?",
+   "uso:answer": "They feared that public demonstrations would let others copy their design before their patent was secure and before they had a buyer, so they took the Flyer apart and did not fly again for nearly three years.",
+   "uso:questionFor": {
+    "@id": "us:huffman-prairie"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Before a dozen invited reporters, the Wrights' new Flyer II fails to leave the ground because of engine trouble.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-05-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Army leases the land around the field for Wilbur Wright Field, a World War I training post.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1917"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Huffman Prairie Flying Field is designated a National Historic Landmark.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1990"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1992-10-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The brothers first use a weight-and-derrick catapult to launch the Flyer in the prairie's light winds.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-09-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first complete circle by an airplane is flown over the pasture.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-09-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The season ends after 105 starts adding up to under an hour in the air.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-12-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Orville makes the first flight of the rebuilt Wright Flyer III.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-06-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A crash that throws Orville through the upper wing prompts a redesign of the controls.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-07-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wilbur flies about 24 miles in some 39 minutes, a world record.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-10-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Wright School of Aviation moves its training to Huffman Field.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1910-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Wright Company stops using the field after training 119 students there.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The act authorized the president to offer western lands in exchange for eastern homelands to nations that chose to make the exchange, and appropriated $500,000; the force came afterwards, through treaties obtained under heavy pressure — the Cherokee treaty was signed by a faction without the authority of the nation's government — and through troops sent to enforce them.",
@@ -10695,6 +10837,104 @@
    "dcterms:title": "The Lost City",
    "schema:url": {
     "@id": "https://home.nps.gov/lake/learn/the-lost-city.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Dayton Aviation Heritage National Historical Park",
+   "dcterms:title": "Huffman Prairie Flying Field",
+   "schema:url": {
+    "@id": "https://home.nps.gov/daav/learn/historyculture/huffman-prairie-flying-field.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service (updated December 17, 2019)",
+   "dcterms:title": "Huffman Prairie Flying Field (Cultural Landscape)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/huffman-prairie-flying-field-501182.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, National Register of Historic Places (NPGallery)",
+   "dcterms:title": "Huffman Prairie Flying Field — National Historic Landmark nomination",
+   "schema:url": {
+    "@id": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office, United States Statutes at Large",
+   "dcterms:title": "Dayton Aviation Heritage Preservation Act of 1992 (Public Law 102-419, 106 Stat. 2141)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2141.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Centennial of Flight Commission",
+   "dcterms:title": "The Wright Brothers — 1904: Huffman Prairie",
+   "schema:url": {
+    "@id": "https://centennialofflight.net/essay/Wright_Bros/1904/WR7.htm"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Centennial of Flight Commission (Judy Rumerman)",
+   "dcterms:title": "The Wright Brothers — The 1905 Flyer",
+   "schema:url": {
+    "@id": "https://centennialofflight.net/essay/Wright_Bros/1905_Flyer/WR8.htm"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Dayton Aviation Heritage National Historical Park (archived at NPS History)",
+   "dcterms:title": "Huffman Prairie (park brochure)",
+   "schema:url": {
+    "@id": "https://www.npshistory.com/publications/daav/brochures/huffman-prairie.pdf"
    },
    "uso:sourceType": "government"
   },
@@ -20615,6 +20855,136 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:huffman-prairie",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/huffman-prairie/s7"
+    }
+   ],
+   "rdfs:label": "Huffman Prairie Flying Field",
+   "skos:altLabel": [
+    "Huffman Field",
+    "Huffman Prairie",
+    "Simms Station flying field"
+   ],
+   "skos:broader": {
+    "@id": "us:aviation-in-the-united-states"
+   },
+   "skos:definition": "A former cow pasture east of Dayton, Ohio, now on Wright-Patterson Air Force Base, where Wilbur and Orville Wright turned their 1903 Kitty Hawk machine into the first practical airplane in 1904–1905 and later ran the Wright Company's flying school (1910–1916).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Huffman Prairie Flying Field",
+   "skos:related": [
+    {
+     "@id": "us:dayton-ohio"
+    },
+    {
+     "@id": "us:octave-chanute"
+    },
+    {
+     "@id": "us:orville-wright"
+    },
+    {
+     "@id": "us:shawnee"
+    },
+    {
+     "@id": "us:wilbur-wright"
+    },
+    {
+     "@id": "us:world-war-i"
+    },
+    {
+     "@id": "us:wright-brothers-first-flight"
+    },
+    {
+     "@id": "us:wright-company"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/huffman-prairie.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:ohio"
+    },
+    {
+     "@id": "us:wright-patterson-air-force-base"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:dayton-aviation-heritage-national-historical-park"
+   },
+   "uso:requires": {
+    "@id": "us:wright-brothers-first-flight"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/timeline/9"
     }
    ]
   },

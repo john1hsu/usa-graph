@@ -462,7 +462,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1904-05-23 | Before a dozen invited reporters, the Wrights' new Flyer II fails to leave the ground because of engine trouble. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1904-09-07 | The brothers first use a weight-and-derrick catapult to launch the Flyer in the prairie's light winds. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1904-09-20 | The first complete circle by an airplane is flown over the pasture. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1905-06-23 | Orville makes the first flight of the rebuilt Wright Flyer III. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1905-07-14 | A crash that throws Orville through the upper wing prompts a redesign of the controls. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -474,6 +481,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1910-05 | The Wright School of Aviation moves its training to Huffman Field. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
@@ -494,6 +502,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -700,7 +710,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |

@@ -4766,6 +4766,162 @@
   ]
  },
  {
+  "id": "us:huffman-prairie",
+  "title": "Huffman Prairie Flying Field",
+  "aliases": [
+   "Huffman Prairie",
+   "Huffman Field",
+   "Simms Station flying field"
+  ],
+  "type": "Landmark",
+  "domain": "science-and-innovation",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/huffman-prairie.md",
+  "created": "2026-11-15",
+  "summary": "A former cow pasture east of Dayton, Ohio, now on Wright-Patterson Air Force Base, where Wilbur and Orville Wright turned their 1903 Kitty Hawk machine into the first practical airplane in 1904–1905 and later ran the Wright Company's flying school (1910–1916).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:aviation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wright-brothers-first-flight"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wilbur-wright"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:orville-wright"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dayton-ohio"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:octave-chanute"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wright-company"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-i"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:shawnee"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:wright-brothers-first-flight"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:wright-patterson-air-force-base",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:ohio",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:dayton-aviation-heritage-national-historical-park",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Wrights need a catapult at Huffman Prairie when they had not needed one at Kitty Hawk?",
+    "answer": "The Ohio pasture lacked the Outer Banks' steady strong winds and sand hills, so the brothers built a falling-weight derrick to get the heavier Flyer up to flying speed."
+   },
+   {
+    "question": "How did the experiments at Huffman Prairie change the Wrights' machine from a novelty into a practical airplane?",
+    "answer": "Through repeated flights and crashes they enlarged and moved the elevator, enlarged the rudder and gave the pilot separate control of it, so that the 1905 Flyer III could bank, circle, fly figure-eights and stay aloft for more than half an hour."
+   },
+   {
+    "question": "Why did the Wrights stop flying after October 1905, just as they had succeeded?",
+    "answer": "They feared that public demonstrations would let others copy their design before their patent was secure and before they had a buyer, so they took the Flyer apart and did not fly again for nearly three years."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1904-05-23",
+    "event": "Before a dozen invited reporters, the Wrights' new Flyer II fails to leave the ground because of engine trouble."
+   },
+   {
+    "date": "1904-09-07",
+    "event": "The brothers first use a weight-and-derrick catapult to launch the Flyer in the prairie's light winds."
+   },
+   {
+    "date": "1904-09-20",
+    "event": "The first complete circle by an airplane is flown over the pasture."
+   },
+   {
+    "date": "1904-12-09",
+    "event": "The season ends after 105 starts adding up to under an hour in the air."
+   },
+   {
+    "date": "1905-06-23",
+    "event": "Orville makes the first flight of the rebuilt Wright Flyer III."
+   },
+   {
+    "date": "1905-07-14",
+    "event": "A crash that throws Orville through the upper wing prompts a redesign of the controls."
+   },
+   {
+    "date": "1905-10-05",
+    "event": "Wilbur flies about 24 miles in some 39 minutes, a world record."
+   },
+   {
+    "date": "1910-05",
+    "event": "The Wright School of Aviation moves its training to Huffman Field."
+   },
+   {
+    "date": "1916",
+    "event": "The Wright Company stops using the field after training 119 students there."
+   },
+   {
+    "date": "1917",
+    "event": "The Army leases the land around the field for Wilbur Wright Field, a World War I training post."
+   },
+   {
+    "date": "1990",
+    "event": "Huffman Prairie Flying Field is designated a National Historic Landmark."
+   },
+   {
+    "date": "1992-10-16",
+    "event": "The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park."
+   }
+  ],
+  "misconception": {
+   "myth": "The Wright brothers had a finished, practical airplane once they flew at Kitty Hawk in 1903.",
+   "fact": "The 1903 flights were brief, straight-line hops; the brothers learned to turn, circle, bank and stay up for half an hour only at Huffman Prairie in 1904–1905, with the redesigned Flyer III.",
+   "why": "The single dramatic date of December 17, 1903, is easy to remember, while two seasons of unpublicized trial and error in an Ohio pasture drew little press attention."
+  },
+  "source_urls": [
+   "https://home.nps.gov/daav/learn/historyculture/huffman-prairie-flying-field.htm",
+   "https://www.nps.gov/articles/huffman-prairie-flying-field-501182.htm",
+   "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text",
+   "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg2141.pdf",
+   "https://centennialofflight.net/essay/Wright_Bros/1904/WR7.htm",
+   "https://centennialofflight.net/essay/Wright_Bros/1905_Flyer/WR8.htm",
+   "https://www.npshistory.com/publications/daav/brochures/huffman-prairie.pdf"
+  ]
+ },
+ {
   "id": "us:indian-removal-act",
   "title": "Indian Removal Act",
   "aliases": [
