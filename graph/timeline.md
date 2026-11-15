@@ -214,10 +214,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1820-04-22 | Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-07-19 | Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1821 | New York becomes the first state to write "due process of law" into its own constitution. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1821 | Russia claims the Pacific coast of North America north of the 51st parallel, extending its Alaska colony southward. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1821-06 | Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1821-08-10 | Monroe proclaims Missouri the 24th state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1822 – 1913-03-10 | **[Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md)** (Person) |
 | 1822 | Born Araminta "Minty" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1822-03 | Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823 | British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
+| 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -323,6 +329,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-09-02 | William T. Sherman's army captures Atlanta before marching to the sea. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1865 | The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -467,6 +474,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1903-12-17 | **[Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md)** (Event) |
 | 1903-12-17 | Four powered flights from Kill Devil Hills; Orville flies 120 feet in 12 seconds, Wilbur 852 feet in 59 seconds. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1904 | The Wrights move their experiments to Huffman Prairie near Dayton with a sturdier new machine. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1904 | Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1904-05-04 | The United States formally takes over the French works and begins construction. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1904-05-23 | Before a dozen invited reporters, the Wrights' new Flyer II fails to leave the ground because of engine trouble. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1904-09-07 | The brothers first use a weight-and-derrick catapult to launch the Flyer in the prairie's light winds. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -558,6 +566,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-05 | Interior Secretary Harold Ickes orders the structure renamed Boulder Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1933-12 | At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -670,6 +679,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |

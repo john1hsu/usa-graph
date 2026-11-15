@@ -50,14 +50,14 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
+| `us:monroe-doctrine` | 2 | mexico, roosevelt-corollary |
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 | `us:wright-brothers-first-flight` | 2 | Huffman Prairie Flying Field, wright-brothers-national-memorial |
-| `us:alabama-constitution-of-1901` | 1 | Jim Crow laws |
 
-…and 22 more.
+…and 23 more.
 
 ## Happenings by era
 
@@ -96,6 +96,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
+| `us:monroe-doctrine` | interpretive |  |
 | `us:native-americans` | interpretive |  |
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
@@ -118,7 +119,9 @@ _Which written places have no event, person, tradition or landmark in the graph 
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:monroe-doctrine` |
 
 ## People with no recorded role (gap)
 

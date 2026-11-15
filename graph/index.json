@@ -6765,6 +6765,149 @@
   ]
  },
  {
+  "id": "us:monroe-doctrine",
+  "title": "Monroe Doctrine",
+  "aliases": [
+   "Monroe Doctrine of 1823"
+  ],
+  "type": "Policy",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/monroe-doctrine.md",
+  "created": "2026-11-15",
+  "summary": "The foreign-policy principles President James Monroe set out in his annual message to Congress on December 2, 1823: that the Americas were closed to new European colonization, that European intervention in the independent states of the hemisphere would be seen as a threat to the United States, and that the United States would stay out of European affairs and existing European colonies.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-monroe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-quincy-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:early-republic"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:adams-onis-treaty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:theodore-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:good-neighbor-policy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cuban-missile-crisis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:manifest-destiny"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:james-monroe",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:farewell-address",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:roosevelt-corollary",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:mexico",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1823-12-02",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did John Quincy Adams oppose issuing the declaration jointly with Britain?",
+    "answer": "He argued a joint statement would make the United States look like it was following British policy and could limit future U.S. expansion, and he doubted Britain's commitment to the new Latin American republics, so the proposal became a unilateral U.S. declaration."
+   },
+   {
+    "question": "How could a weak United States make such a sweeping claim in 1823?",
+    "answer": "Britain favored the policy, so the United States could in effect rely on the Royal Navy, and London secured a French promise not to help Spain recover its colonies."
+   },
+   {
+    "question": "How did the Roosevelt Corollary change the doctrine's meaning?",
+    "answer": "The 1823 message warned Europeans against intervening in the Americas; Roosevelt's 1904 corollary claimed a right for the United States itself to intervene, leading to Marine deployments in Santo Domingo, Nicaragua and Haiti."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1821",
+    "event": "Russia claims the Pacific coast of North America north of the 51st parallel, extending its Alaska colony southward."
+   },
+   {
+    "date": "1822-03",
+    "event": "Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain."
+   },
+   {
+    "date": "1823",
+    "event": "British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas."
+   },
+   {
+    "date": "1823-11",
+    "event": "Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead."
+   },
+   {
+    "date": "1823-12-02",
+    "event": "Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress."
+   },
+   {
+    "date": "1865",
+    "event": "The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian."
+   },
+   {
+    "date": "1904",
+    "event": "Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere."
+   },
+   {
+    "date": "1933-12",
+    "event": "At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs."
+   },
+   {
+    "date": "1962",
+    "event": "John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support."
+   }
+  ],
+  "misconception": {
+   "myth": "The Monroe Doctrine was a law or treaty that the United States enforced with its own military power from 1823 onward.",
+   "fact": "It was a few paragraphs in a presidential message to Congress, not a statute or treaty. European powers paid it little attention, most governments doubted the United States could enforce it, and in practice Britain's Royal Navy kept other powers out; only in the late nineteenth century did U.S. power make enforcement realistic.",
+   "why": "Later presidents from Polk to Theodore Roosevelt and Kennedy invoked the doctrine so forcefully that its twentieth-century weight is easily projected back onto 1823."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1801-1829/monroe",
+   "https://www.archives.gov/milestone-documents/monroe-doctrine",
+   "https://millercenter.org/president/monroe/foreign-affairs",
+   "https://millercenter.org/node/63741",
+   "https://americanforeignrelations.com/A-D/Doctrines-The-monroe-doctrine.html",
+   "https://history.state.gov/milestones/1921-1936/good-neighbor"
+  ]
+ },
+ {
   "id": "us:montgomery-bus-boycott",
   "title": "Montgomery bus boycott",
   "aliases": [

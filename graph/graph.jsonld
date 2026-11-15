@@ -5511,6 +5511,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "It was a few paragraphs in a presidential message to Congress, not a statute or treaty. European powers paid it little attention, most governments doubted the United States could enforce it, and in practice Britain's Royal Navy kept other powers out; only in the late nineteenth century did U.S. power make enforcement realistic.",
+   "uso:myth": "The Monroe Doctrine was a law or treaty that the United States enforced with its own military power from 1823 onward.",
+   "uso:why": "Later presidents from Polk to Theodore Roosevelt and Kennedy invoked the doctrine so forcefully that its twentieth-century weight is easily projected back onto 1823."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did John Quincy Adams oppose issuing the declaration jointly with Britain?",
+   "uso:answer": "He argued a joint statement would make the United States look like it was following British policy and could limit future U.S. expansion, and he doubted Britain's commitment to the new Latin American republics, so the proposal became a unilateral U.S. declaration.",
+   "uso:questionFor": {
+    "@id": "us:monroe-doctrine"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How could a weak United States make such a sweeping claim in 1823?",
+   "uso:answer": "Britain favored the policy, so the United States could in effect rely on the Royal Navy, and London secured a French promise not to help Spain recover its colonies.",
+   "uso:questionFor": {
+    "@id": "us:monroe-doctrine"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Roosevelt Corollary change the doctrine's meaning?",
+   "uso:answer": "The 1823 message warned Europeans against intervening in the Americas; Roosevelt's 1904 corollary claimed a right for the United States itself to intervene, leading to Marine deployments in Santo Domingo, Nicaragua and Haiti.",
+   "uso:questionFor": {
+    "@id": "us:monroe-doctrine"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Russia claims the Pacific coast of North America north of the 51st parallel, extending its Alaska colony southward.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1821"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1822-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1823"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1823-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1823-12-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1865"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1904"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1933-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1962"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year.",
@@ -12231,6 +12346,90 @@
     "@id": "https://academic.oup.com/ahr/article/113/4/1160/42163"
    },
    "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Monroe Doctrine, 1823",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1801-1829/monroe"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Monroe Doctrine (1823)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/monroe-doctrine"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "James Monroe: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/monroe/foreign-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "Monroe Doctrine Announced",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/63741"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopedia of the New American Nation (Gale)",
+   "dcterms:title": "Doctrines - The Monroe Doctrine",
+   "schema:url": {
+    "@id": "https://americanforeignrelations.com/A-D/Doctrines-The-monroe-doctrine.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Good Neighbor Policy, 1933",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1921-1936/good-neighbor"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1",
@@ -22846,6 +23045,122 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:monroe-doctrine",
+   "@type": "uso:Policy",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6"
+    }
+   ],
+   "rdfs:label": "Monroe Doctrine",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1823-12-02"
+   },
+   "skos:altLabel": "Monroe Doctrine of 1823",
+   "skos:broader": {
+    "@id": "us:foreign-relations-of-the-united-states"
+   },
+   "skos:definition": "The foreign-policy principles President James Monroe set out in his annual message to Congress on December 2, 1823: that the Americas were closed to new European colonization, that European intervention in the independent states of the hemisphere would be seen as a threat to the United States, and that the United States would stay out of European affairs and existing European colonies.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "Monroe Doctrine",
+   "skos:related": [
+    {
+     "@id": "us:adams-onis-treaty"
+    },
+    {
+     "@id": "us:cuban-missile-crisis"
+    },
+    {
+     "@id": "us:early-republic"
+    },
+    {
+     "@id": "us:good-neighbor-policy"
+    },
+    {
+     "@id": "us:james-monroe"
+    },
+    {
+     "@id": "us:john-quincy-adams"
+    },
+    {
+     "@id": "us:manifest-destiny"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:mexico"
+   },
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/monroe-doctrine.md",
+   "uso:influencedBy": {
+    "@id": "us:farewell-address"
+   },
+   "uso:introducedBy": {
+    "@id": "us:james-monroe"
+   },
+   "uso:ledTo": {
+    "@id": "us:roosevelt-corollary"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9"
     }
    ]
   },

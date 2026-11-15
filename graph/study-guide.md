@@ -438,6 +438,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Jefferson call the settlement "a reprieve only"?
   **A:** He believed that a geographic line coinciding with a moral and political principle would never be erased and would deepen with each new dispute, threatening the Union.
 
+### [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| The Monroe Doctrine was a law or treaty that the United States enforced with its own military power from 1823 onward. | It was a few paragraphs in a presidential message to Congress, not a statute or treaty. European powers paid it little attention, most governments doubted the United States could enforce it, and in practice Britain's Royal Navy kept other powers out; only in the late nineteenth century did U.S. power make enforcement realistic. |
+
+**Why it matters:** Later presidents from Polk to Theodore Roosevelt and Kennedy invoked the doctrine so forcefully that its twentieth-century weight is easily projected back onto 1823.
+
+- **Q:** Why did John Quincy Adams oppose issuing the declaration jointly with Britain?
+  **A:** He argued a joint statement would make the United States look like it was following British policy and could limit future U.S. expansion, and he doubted Britain's commitment to the new Latin American republics, so the proposal became a unilateral U.S. declaration.
+- **Q:** How could a weak United States make such a sweeping claim in 1823?
+  **A:** Britain favored the policy, so the United States could in effect rely on the Royal Navy, and London secured a French promise not to help Spain recover its colonies.
+- **Q:** How did the Roosevelt Corollary change the doctrine's meaning?
+  **A:** The 1823 message warned Europeans against intervening in the Americas; Roosevelt's 1904 corollary claimed a right for the United States itself to intervene, leading to Marine deployments in Santo Domingo, Nicaragua and Haiti.
+
 ## economy-and-work
 
 ### [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) — Event

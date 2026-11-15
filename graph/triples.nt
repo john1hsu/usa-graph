@@ -4025,6 +4025,90 @@
 <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/missouri-compromise/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://schema.org/endDate> "1854"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://schema.org/startDate> "1820-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "It was a few paragraphs in a presidential message to Congress, not a statute or treaty. European powers paid it little attention, most governments doubted the United States could enforce it, and in practice Britain's Royal Navy kept other powers out; only in the late nineteenth century did U.S. power make enforcement realistic." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Monroe Doctrine was a law or treaty that the United States enforced with its own military power from 1823 onward." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Later presidents from Polk to Theodore Roosevelt and Kennedy invoked the doctrine so forcefully that its twentieth-century weight is easily projected back onto 1823." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did John Quincy Adams oppose issuing the declaration jointly with Britain?" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He argued a joint statement would make the United States look like it was following British policy and could limit future U.S. expansion, and he doubted Britain's commitment to the new Latin American republics, so the proposal became a unilateral U.S. declaration." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How could a weak United States make such a sweeping claim in 1823?" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Britain favored the policy, so the United States could in effect rely on the Royal Navy, and London secured a French promise not to help Spain recover its colonies." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Roosevelt Corollary change the doctrine's meaning?" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1823 message warned Europeans against intervening in the Americas; Roosevelt's 1904 corollary claimed a right for the United States itself to intervene, leading to Marine deployments in Santo Domingo, Nicaragua and Haiti." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Russia claims the Pacific coast of North America north of the 51st parallel, extending its Alaska colony southward." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1821"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1822-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1823"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1823-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1823-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1865"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Theodore Roosevelt's corollary claims an international police power for the United States in the hemisphere." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1904"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1962"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Policy> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2000/01/rdf-schema#label> "Monroe Doctrine" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#altLabel> "Monroe Doctrine of 1823" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#definition> "The foreign-policy principles President James Monroe set out in his annual message to Congress on December 2, 1823: that the Americas were closed to new European colonization, that European intervention in the independent states of the hemisphere would be seen as a threat to the United States, and that the United States would stay out of European affairs and existing European colonies." .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monroe Doctrine" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/adams-onis-treaty> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cuban-missile-crisis> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-monroe> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/mexico> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/monroe-doctrine.md" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/farewell-address> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/james-monroe> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/misconception> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://schema.org/startDate> "1823-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Parks was a longtime NAACP member and secretary of the local branch who had attended a 1955 activism workshop at the Highlander Folk School, and she later said the only tiredness she felt was being tired of giving in; Black women in Montgomery had pressed the city over bus treatment since 1954, Claudette Colvin and Mary Louise Smith had been arrested earlier in 1955, and the Women's Political Council had discussed a boycott for more than a year." .
 <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Rosa Parks was a quiet seamstress who kept her seat only because she was tired after work, and the boycott arose spontaneously from her single act." .
@@ -7475,6 +7559,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/usa-graph/id/source/missouri-compromise/s9> <https://schema.org/url> <https://academic.oup.com/ahr/article/113/4/1160/42163> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <http://purl.org/dc/terms/title> "Monroe Doctrine, 1823" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s1> <https://schema.org/url> <https://history.state.gov/milestones/1801-1829/monroe> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <http://purl.org/dc/terms/title> "Monroe Doctrine (1823)" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s2> <https://schema.org/url> <https://www.archives.gov/milestone-documents/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <http://purl.org/dc/terms/title> "James Monroe: Foreign Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s3> <https://schema.org/url> <https://millercenter.org/president/monroe/foreign-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <http://purl.org/dc/terms/title> "Monroe Doctrine Announced" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> <https://schema.org/url> <https://millercenter.org/node/63741> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia of the New American Nation (Gale)" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <http://purl.org/dc/terms/title> "Doctrines - The Monroe Doctrine" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> <https://schema.org/url> <https://americanforeignrelations.com/A-D/Doctrines-The-monroe-doctrine.html> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <http://purl.org/dc/terms/title> "Good Neighbor Policy, 1933" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <https://schema.org/url> <https://history.state.gov/milestones/1921-1936/good-neighbor> .
 <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
 <https://github.com/john1hsu/usa-graph/id/source/montgomery-bus-boycott/s1> <http://purl.org/dc/terms/title> "Montgomery Bus Boycott" .

@@ -4,7 +4,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
 | 3.48 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
+| 2.89 | `us:monroe-doctrine` | `us:panama-canal` | `us:foreign-relations-of-the-united-states`, `us:theodore-roosevelt` |
 | 2.69 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
 | 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
@@ -27,5 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.93 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:declaration-of-independence`, `us:louisiana-purchase`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.87 | `us:civil-rights-movement` | `us:plessy-v-ferguson` | `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 1.87 | `us:civil-rights-movement` | `us:fourteenth-amendment` | `us:african-americans`, `us:brown-v-board-of-education`, `us:equal-protection`, `us:jim-crow-laws`, `us:voting-rights-act-of-1965` |
-| 1.85 | `us:missouri-compromise` | `us:united-states` | `us:american-civil-war`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
-| 1.83 | `us:articles-of-confederation` | `us:tribal-sovereignty` | `us:federalism`, `us:united-states`, `us:united-states-congress`, `us:united-states-constitution` |
