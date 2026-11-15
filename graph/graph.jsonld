@@ -4064,6 +4064,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying.",
+   "uso:myth": "William Henry Jackson's photographs, laid on the desk of every member of Congress, persuaded Congress to create Yellowstone National Park.",
+   "uso:why": "Histories of photography from the late 1930s onward repeated the story, often without sources, because a single striking cause is easier to tell than a ten-week campaign by many advocates."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Hayden's survey carry a painter and a photographer as well as scientists?",
+   "uso:answer": "Hayden's instructions called for gathering as full material as possible to illustrate his report, so alongside botanists, a mineralogist, a topographer and others he brought photographer William Henry Jackson and artists Thomas Moran and Henry W. Elliott to give visual proof of features earlier explorers had only described.",
+   "uso:questionFor": {
+    "@id": "us:hayden-geological-survey-of-1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the survey contribute to the creation of Yellowstone National Park?",
+   "uso:answer": "It corroborated the 1869 and 1870 accounts with scientific measurements, maps and specimens; Hayden then went to Washington to report, displayed specimens and images for members of Congress and published articles urging a park law, joining Nathaniel Langford and others in the lobbying that preceded the March 1, 1872 act.",
+   "uso:questionFor": {
+    "@id": "us:hayden-geological-survey-of-1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some historians doubt that Jackson's photographs were decisive?",
+   "uso:answer": "Howard Bossen found that the congressional record mentions the photographs only once, the House never discussed them, and the famous story of prints on every desk comes from a 1947 book with no contemporary support, so the images look like one strand of evidence among many rather than the deciding factor.",
+   "uso:questionFor": {
+    "@id": "us:hayden-geological-survey-of-1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the survey's legacy now viewed more critically?",
+   "uso:answer": "Hayden made demeaning statements about Native peoples, urging that they be made into farmers or destroyed if they resisted federal demands, and the park his survey helped create removed Indigenous people from lands they had used for at least 11,000 years.",
+   "uso:questionFor": {
+    "@id": "us:hayden-geological-survey-of-1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A sundry civil act provides $40,000 to continue Hayden's survey of the territories.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-12-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hayden dates his report on the season's work to Interior Secretary Delano.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-02-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Yellowstone park bill becomes law, about ten weeks after its introduction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The party of more than 30 men sets out in early June; the USGS dates its departure from Ogden, Utah, to June 8.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1871-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The survey reaches Fort Ellis near present-day Bozeman, Montana.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-07-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "It enters the Yellowstone region, reaching Mammoth Hot Springs and then Tower Fall.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The party arrives at Yellowstone Lake, where members build the boat Annie to take depth soundings.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-07-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Exploration of the Lower, Midway and Upper Geyser Basins continues through this date.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Several earthquakes shake the camp at Steamboat Point on Yellowstone Lake.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-08-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The survey reaches Fort Bridger in southwestern Wyoming Territory.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-09-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hayden formally ends the expedition.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-10-02"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site.",
@@ -11482,6 +11633,132 @@
     "@id": "https://www.nps.gov/hatu/learn/management/index.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "The First National Park: Yellowstone and the Hayden Survey",
+   "schema:url": {
+    "@id": "https://visit.archives.gov/whats-on/explore-exhibits/first-national-park-yellowstone-and-hayden-survey"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Yellowstone Volcano Observatory",
+   "dcterms:title": "Ferdinand Hayden and the founding of Yellowstone National Park (Cole Messa and Ken Sims, Yellowstone Caldera Chronicles)",
+   "schema:url": {
+    "@id": "https://usgs.gov/observatories/yvo/news/ferdinand-hayden-and-founding-yellowstone-national-park"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "Expeditions Explore Yellowstone",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/expeditions.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "ERIC, Institute of Education Sciences",
+   "dcterms:title": "A Tall Tale Retold: The Influence of the Photographs of William Henry Jackson upon the Passage of the Yellowstone Park Act of 1872 (Howard Bossen, Michigan State University, 1981)",
+   "schema:url": {
+    "@id": "https://files.eric.ed.gov/fulltext/ED204767.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "WyoHistory.org, Wyoming State Historical Society",
+   "dcterms:title": "William Henry Jackson: Foremost Photographer of the American West (Rebecca Hein)",
+   "schema:url": {
+    "@id": "https://www.wyohistory.org/encyclopedia/william-henry-jackson-foremost-photographer-american-west"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Geological Survey",
+   "dcterms:title": "The Four Great Surveys of the West",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/circ/c1050/surveys.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, In Custodia Legis",
+   "dcterms:title": "From the Serial Set: Visualizing Yellowstone",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2021/03/from-the-serial-set-visualizing-yellowstone/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior",
+   "dcterms:title": "Secretary Bernhardt Announces September Homecoming of Artistic Masterpieces",
+   "schema:url": {
+    "@id": "https://www.doi.gov/pressreleases/secretary-bernhardt-announces-september-homecoming-artistic-masterpieces"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "NPS History eLibrary",
+   "dcterms:title": "Early History of Yellowstone National Park and Its Relation to National Park Policies: Hayden Expedition of 1871",
+   "schema:url": {
+    "@id": "https://www.npshistory.com/publications/yell/cramton/sec5.htm"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s1",
@@ -22535,6 +22812,152 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:hayden-geological-survey-of-1871",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9"
+    }
+   ],
+   "rdfs:label": "Hayden Geological Survey of 1871",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1871-10-02"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1871-06"
+   },
+   "skos:altLabel": [
+    "1871 Hayden Survey of Yellowstone",
+    "Hayden Expedition of 1871"
+   ],
+   "skos:broader": {
+    "@id": "us:great-surveys-of-the-west"
+   },
+   "skos:definition": "A federally funded scientific expedition led by geologist Ferdinand V. Hayden from June to October 1871 that mapped, measured, sketched and photographed the Yellowstone region; its reports, specimens, maps and images, including William Henry Jackson's photographs and Thomas Moran's art, fed the campaign that produced the Yellowstone National Park Act of March 1, 1872.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Hayden Geological Survey of 1871",
+   "skos:related": [
+    {
+     "@id": "us:national-park-system"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:the-west"
+    },
+    {
+     "@id": "us:thomas-moran"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:washburn-langford-doane-expedition"
+    },
+    {
+     "@id": "us:william-henry-jackson"
+    }
+   ],
+   "uso:domain": "geography-and-environment",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/geography-and-environment/hayden-geological-survey-of-1871.md",
+   "uso:ledBy": {
+    "@id": "us:ferdinand-v-hayden"
+   },
+   "uso:ledTo": {
+    "@id": "us:yellowstone-national-park-protection-act"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:gilded-age"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:montana"
+    },
+    {
+     "@id": "us:wyoming"
+    },
+    {
+     "@id": "us:yellowstone-national-park"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9"
     }
    ]
   },

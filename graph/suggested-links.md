@@ -19,6 +19,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.13 | `us:indian-removal-act` | `us:united-states-constitution` | `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty`, `us:united-states` |
+| 2.12 | `us:gilded-age` | `us:native-americans` | `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.09 | `us:due-process` | `us:united-states-congress` | `us:bill-of-rights`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states`, `us:united-states-constitution` |
 | 2.09 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
 | 2.06 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.95 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 1.93 | `us:constitutional-convention` | `us:united-states` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
 | 1.93 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
-| 1.93 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |

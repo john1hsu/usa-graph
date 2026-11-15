@@ -585,6 +585,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How were Native nations' water rights treated in the Compact and later recognized?
   **A:** No tribe took part in the 1922 negotiations, and the Compact only said it did not affect U.S. obligations to tribes; in Arizona v. California (1963) the Supreme Court applied the 1908 Winters doctrine and held that five lower-river reservations had reserved enough water to irrigate their practicably irrigable land.
 
+### [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) — Event
+
+| Myth | Fact |
+|---|---|
+| William Henry Jackson's photographs, laid on the desk of every member of Congress, persuaded Congress to create Yellowstone National Park. | The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying. |
+
+**Why it matters:** Histories of photography from the late 1930s onward repeated the story, often without sources, because a single striking cause is easier to tell than a ten-week campaign by many advocates.
+
+- **Q:** Why did Hayden's survey carry a painter and a photographer as well as scientists?
+  **A:** Hayden's instructions called for gathering as full material as possible to illustrate his report, so alongside botanists, a mineralogist, a topographer and others he brought photographer William Henry Jackson and artists Thomas Moran and Henry W. Elliott to give visual proof of features earlier explorers had only described.
+- **Q:** How did the survey contribute to the creation of Yellowstone National Park?
+  **A:** It corroborated the 1869 and 1870 accounts with scientific measurements, maps and specimens; Hayden then went to Washington to report, displayed specimens and images for members of Congress and published articles urging a park law, joining Nathaniel Langford and others in the lobbying that preceded the March 1, 1872 act.
+- **Q:** Why do some historians doubt that Jackson's photographs were decisive?
+  **A:** Howard Bossen found that the congressional record mentions the photographs only once, the House never discussed them, and the famous story of prints on every desk comes from a 1947 book with no contemporary support, so the images look like one strand of evidence among many rather than the deciding factor.
+- **Q:** Why is the survey's legacy now viewed more critically?
+  **A:** Hayden made demeaning statements about Native peoples, urging that they be made into farmers or destroyed if they resisted federal demands, and the park his survey helped create removed Indigenous people from lands they had used for at least 11,000 years.
+
 ### [Mississippi River](../articles/geography-and-environment/mississippi-river.md) — NaturalFeature
 
 | Myth | Fact |

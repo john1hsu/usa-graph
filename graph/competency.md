@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 
-…and 26 more.
+…and 27 more.
 
 ## Happenings by era
 
@@ -69,6 +69,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
+| `us:gilded-age` | `us:hayden-geological-survey-of-1871` | 1871-06 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
 
 ## Myths, contested claims and debated interpretations
@@ -91,6 +92,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:gilded-age` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
+| `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
@@ -106,15 +108,14 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:united-states-constitution` | interpretive |  |
 | `us:war-in-afghanistan` | interpretive |  |
 | `us:betsy-ross-flag-myth` | myth | `us:flag-resolution-of-1777` |
-| `us:betsy-ross-flag-myth` | myth | `us:francis-hopkinson` |
+
+…and 1 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:yellowstone-national-park` | uso:Landmark |
+_No results._
 
 ## Orphan articles (gap)
 

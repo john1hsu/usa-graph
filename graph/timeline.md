@@ -398,11 +398,24 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1871 | Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1871-03-03 | A sundry civil act provides $40,000 to continue Hayden's survey of the territories. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-06 – 1871-10-02 | **[Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md)** (Event) |
+| 1871-06 | The party of more than 30 men sets out in early June; the USGS dates its departure from Ogden, Utah, to June 8. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-07-10 | The survey reaches Fort Ellis near present-day Bozeman, Montana. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-07-21 | It enters the Yellowstone region, reaching Mammoth Hot Springs and then Tower Fall. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-07-28 | The party arrives at Yellowstone Lake, where members build the boat Annie to take depth soundings. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-08-06 | Exploration of the Lower, Midway and Upper Geyser Basins continues through this date. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-08-20 | Several earthquakes shake the camp at Steamboat Point on Yellowstone Lake. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-09-29 | The survey reaches Fort Bridger in southwestern Wyoming Territory. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1871-10-02 | Hayden formally ends the expedition. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1871-12-18 | Park bills S. 392 and H.R. 764 are introduced in the Senate and House. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1871-12-18 | Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1872-01-30 | The Senate passes S. 392. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1872-02-20 | Hayden dates his report on the season's work to Interior Secretary Delano. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1872-02-27 | The House passes S. 392 by a vote of 115 to 65. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-03-01 | **[Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md)** (Landmark) |
 | 1872-03-01 | President Ulysses S. Grant signs the Yellowstone National Park Protection Act. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1872-03-01 | The Yellowstone park bill becomes law, about ten weeks after its introduction. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1873 | Harper's Weekly and other national journals repeat the story as fact. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1873 | Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |

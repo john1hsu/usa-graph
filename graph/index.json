@@ -4986,6 +4986,177 @@
   ]
  },
  {
+  "id": "us:hayden-geological-survey-of-1871",
+  "title": "Hayden Geological Survey of 1871",
+  "aliases": [
+   "Hayden Expedition of 1871",
+   "1871 Hayden Survey of Yellowstone"
+  ],
+  "type": "Event",
+  "domain": "geography-and-environment",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/geography-and-environment/hayden-geological-survey-of-1871.md",
+  "created": "2026-11-15",
+  "summary": "A federally funded scientific expedition led by geologist Ferdinand V. Hayden from June to October 1871 that mapped, measured, sketched and photographed the Yellowstone region; its reports, specimens, maps and images, including William Henry Jackson's photographs and Thomas Moran's art, fed the campaign that produced the Yellowstone National Park Act of March 1, 1872.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:great-surveys-of-the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-moran"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-henry-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washburn-langford-doane-expedition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-park-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:yellowstone-national-park",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:wyoming",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:montana",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:ferdinand-v-hayden",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:gilded-age",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:yellowstone-national-park-protection-act",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1871-06",
+  "end": "1871-10-02",
+  "review": [
+   {
+    "question": "Why did Hayden's survey carry a painter and a photographer as well as scientists?",
+    "answer": "Hayden's instructions called for gathering as full material as possible to illustrate his report, so alongside botanists, a mineralogist, a topographer and others he brought photographer William Henry Jackson and artists Thomas Moran and Henry W. Elliott to give visual proof of features earlier explorers had only described."
+   },
+   {
+    "question": "How did the survey contribute to the creation of Yellowstone National Park?",
+    "answer": "It corroborated the 1869 and 1870 accounts with scientific measurements, maps and specimens; Hayden then went to Washington to report, displayed specimens and images for members of Congress and published articles urging a park law, joining Nathaniel Langford and others in the lobbying that preceded the March 1, 1872 act."
+   },
+   {
+    "question": "Why do some historians doubt that Jackson's photographs were decisive?",
+    "answer": "Howard Bossen found that the congressional record mentions the photographs only once, the House never discussed them, and the famous story of prints on every desk comes from a 1947 book with no contemporary support, so the images look like one strand of evidence among many rather than the deciding factor."
+   },
+   {
+    "question": "Why is the survey's legacy now viewed more critically?",
+    "answer": "Hayden made demeaning statements about Native peoples, urging that they be made into farmers or destroyed if they resisted federal demands, and the park his survey helped create removed Indigenous people from lands they had used for at least 11,000 years."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1871-03-03",
+    "event": "A sundry civil act provides $40,000 to continue Hayden's survey of the territories."
+   },
+   {
+    "date": "1871-06",
+    "event": "The party of more than 30 men sets out in early June; the USGS dates its departure from Ogden, Utah, to June 8."
+   },
+   {
+    "date": "1871-07-10",
+    "event": "The survey reaches Fort Ellis near present-day Bozeman, Montana."
+   },
+   {
+    "date": "1871-07-21",
+    "event": "It enters the Yellowstone region, reaching Mammoth Hot Springs and then Tower Fall."
+   },
+   {
+    "date": "1871-07-28",
+    "event": "The party arrives at Yellowstone Lake, where members build the boat Annie to take depth soundings."
+   },
+   {
+    "date": "1871-08-06",
+    "event": "Exploration of the Lower, Midway and Upper Geyser Basins continues through this date."
+   },
+   {
+    "date": "1871-08-20",
+    "event": "Several earthquakes shake the camp at Steamboat Point on Yellowstone Lake."
+   },
+   {
+    "date": "1871-09-29",
+    "event": "The survey reaches Fort Bridger in southwestern Wyoming Territory."
+   },
+   {
+    "date": "1871-10-02",
+    "event": "Hayden formally ends the expedition."
+   },
+   {
+    "date": "1871-12-18",
+    "event": "Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park."
+   },
+   {
+    "date": "1872-02-20",
+    "event": "Hayden dates his report on the season's work to Interior Secretary Delano."
+   },
+   {
+    "date": "1872-03-01",
+    "event": "The Yellowstone park bill becomes law, about ten weeks after its introduction."
+   }
+  ],
+  "misconception": {
+   "myth": "William Henry Jackson's photographs, laid on the desk of every member of Congress, persuaded Congress to create Yellowstone National Park.",
+   "fact": "The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying.",
+   "why": "Histories of photography from the late 1930s onward repeated the story, often without sources, because a single striking cause is easier to tell than a ten-week campaign by many advocates."
+  },
+  "source_urls": [
+   "https://visit.archives.gov/whats-on/explore-exhibits/first-national-park-yellowstone-and-hayden-survey",
+   "https://usgs.gov/observatories/yvo/news/ferdinand-hayden-and-founding-yellowstone-national-park",
+   "https://www.nps.gov/yell/learn/historyculture/expeditions.htm",
+   "https://files.eric.ed.gov/fulltext/ED204767.pdf",
+   "https://www.wyohistory.org/encyclopedia/william-henry-jackson-foremost-photographer-american-west",
+   "https://pubs.usgs.gov/circ/c1050/surveys.htm",
+   "https://blogs.loc.gov/law/2021/03/from-the-serial-set-visualizing-yellowstone/",
+   "https://www.doi.gov/pressreleases/secretary-bernhardt-announces-september-homecoming-artistic-masterpieces",
+   "https://www.npshistory.com/publications/yell/cramton/sec5.htm"
+  ]
+ },
+ {
   "id": "us:hoover-dam",
   "title": "Hoover Dam",
   "aliases": [

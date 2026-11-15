@@ -415,6 +415,18 @@
 <https://github.com/john1hsu/usa-graph/id/colorado-river#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s12> .
 <https://github.com/john1hsu/usa-graph/id/colorado-river#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s13> .
 <https://github.com/john1hsu/usa-graph/id/colorado-river#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s14> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/geography-and-environment/hayden-geological-survey-of-1871.md" .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> .
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/geography-and-environment/mississippi-river.md" .
@@ -6557,6 +6569,169 @@
   <https://github.com/john1hsu/usa-graph/id/source/colorado-river/s9> <https://schema.org/url> <https://www.usbr.gov/newsroom/news-release/3950> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871#graph> {
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Congressional Globe mentions the photographs only once, when Senator Pomeroy told colleagues on January 23, 1872, that they could see them; the House debate never mentions them, Hayden's report carried drawings rather than photographs, and the desk story first appears in a 1947 book by Jackson's son with no contemporary record to support it. The photographs were one part of a larger body of evidence alongside reports, specimens, art, lectures and personal lobbying." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "William Henry Jackson's photographs, laid on the desk of every member of Congress, persuaded Congress to create Yellowstone National Park." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Histories of photography from the late 1930s onward repeated the story, often without sources, because a single striking cause is easier to tell than a ten-week campaign by many advocates." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Hayden's survey carry a painter and a photographer as well as scientists?" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hayden's instructions called for gathering as full material as possible to illustrate his report, so alongside botanists, a mineralogist, a topographer and others he brought photographer William Henry Jackson and artists Thomas Moran and Henry W. Elliott to give visual proof of features earlier explorers had only described." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the survey contribute to the creation of Yellowstone National Park?" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It corroborated the 1869 and 1870 accounts with scientific measurements, maps and specimens; Hayden then went to Washington to report, displayed specimens and images for members of Congress and published articles urging a park law, joining Nathaniel Langford and others in the lobbying that preceded the March 1, 1872 act." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do some historians doubt that Jackson's photographs were decisive?" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Howard Bossen found that the congressional record mentions the photographs only once, the House never discussed them, and the famous story of prints on every desk comes from a 1947 book with no contemporary support, so the images look like one strand of evidence among many rather than the deciding factor." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the survey's legacy now viewed more critically?" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hayden made demeaning statements about Native peoples, urging that they be made into farmers or destroyed if they resisted federal demands, and the park his survey helped create removed Indigenous people from lands they had used for at least 11,000 years." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Hayden dates his report on the season's work to Interior Secretary Delano." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-02-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Yellowstone park bill becomes law, about ten weeks after its introduction." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A sundry civil act provides $40,000 to continue Hayden's survey of the territories." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The party of more than 30 men sets out in early June; the USGS dates its departure from Ogden, Utah, to June 8." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The survey reaches Fort Ellis near present-day Bozeman, Montana." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "It enters the Yellowstone region, reaching Mammoth Hot Springs and then Tower Fall." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The party arrives at Yellowstone Lake, where members build the boat Annie to take depth soundings." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-07-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Exploration of the Lower, Midway and Upper Geyser Basins continues through this date." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Several earthquakes shake the camp at Steamboat Point on Yellowstone Lake." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The survey reaches Fort Bridger in southwestern Wyoming Territory." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Hayden formally ends the expedition." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2000/01/rdf-schema#label> "Hayden Geological Survey of 1871" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#altLabel> "1871 Hayden Survey of Yellowstone" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#altLabel> "Hayden Expedition of 1871" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#definition> "A federally funded scientific expedition led by geologist Ferdinand V. Hayden from June to October 1871 that mapped, measured, sketched and photographed the Yellowstone region; its reports, specimens, maps and images, including William Henry Jackson's photographs and Thomas Moran's art, fed the campaign that produced the Yellowstone National Park Act of March 1, 1872." .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hayden Geological Survey of 1871" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-park-system> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-moran> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/washburn-langford-doane-expedition> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-henry-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#domain> "geography-and-environment" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/geography-and-environment/hayden-geological-survey-of-1871.md" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/montana> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/endDate> "1871-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/startDate> "1871-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/publisher> "National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://purl.org/dc/terms/title> "The First National Park: Yellowstone and the Hayden Survey" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s1> <https://schema.org/url> <https://visit.archives.gov/whats-on/explore-exhibits/first-national-park-yellowstone-and-hayden-survey> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Yellowstone Volcano Observatory" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <http://purl.org/dc/terms/title> "Ferdinand Hayden and the founding of Yellowstone National Park (Cole Messa and Ken Sims, Yellowstone Caldera Chronicles)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s2> <https://schema.org/url> <https://usgs.gov/observatories/yvo/news/ferdinand-hayden-and-founding-yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <http://purl.org/dc/terms/title> "Expeditions Explore Yellowstone" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s3> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/expeditions.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <http://purl.org/dc/terms/publisher> "ERIC, Institute of Education Sciences" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <http://purl.org/dc/terms/title> "A Tall Tale Retold: The Influence of the Photographs of William Henry Jackson upon the Passage of the Yellowstone Park Act of 1872 (Howard Bossen, Michigan State University, 1981)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s4> <https://schema.org/url> <https://files.eric.ed.gov/fulltext/ED204767.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <http://purl.org/dc/terms/publisher> "WyoHistory.org, Wyoming State Historical Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <http://purl.org/dc/terms/title> "William Henry Jackson: Foremost Photographer of the American West (Rebecca Hein)" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s5> <https://schema.org/url> <https://www.wyohistory.org/encyclopedia/william-henry-jackson-foremost-photographer-american-west> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <http://purl.org/dc/terms/title> "The Four Great Surveys of the West" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s6> <https://schema.org/url> <https://pubs.usgs.gov/circ/c1050/surveys.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <http://purl.org/dc/terms/publisher> "Library of Congress, In Custodia Legis" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <http://purl.org/dc/terms/title> "From the Serial Set: Visualizing Yellowstone" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s7> <https://schema.org/url> <https://blogs.loc.gov/law/2021/03/from-the-serial-set-visualizing-yellowstone/> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <http://purl.org/dc/terms/publisher> "U.S. Department of the Interior" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <http://purl.org/dc/terms/title> "Secretary Bernhardt Announces September Homecoming of Artistic Masterpieces" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s8> <https://schema.org/url> <https://www.doi.gov/pressreleases/secretary-bernhardt-announces-september-homecoming-artistic-masterpieces> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://purl.org/dc/terms/publisher> "NPS History eLibrary" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://purl.org/dc/terms/title> "Early History of Yellowstone National Park and Its Relation to National Park Policies: Hayden Expedition of 1871" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://schema.org/url> <https://www.npshistory.com/publications/yell/cramton/sec5.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/mississippi-river#graph> {
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer." .
@@ -12455,6 +12630,9 @@
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/field-hollers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -12675,6 +12853,7 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
@@ -12744,6 +12923,8 @@
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/griffin-v-county-school-board-of-prince-edward-county> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/guinn-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -12784,6 +12965,26 @@
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/hay-pauncefote-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
@@ -13282,6 +13483,7 @@
   <https://github.com/john1hsu/usa-graph/id/montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/montana> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/montana> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -13354,6 +13556,7 @@
   <https://github.com/john1hsu/usa-graph/id/national-park-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/national-park-system> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/national-park-system> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/national-park-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -13381,6 +13584,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -13955,6 +14159,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/the-west> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -14062,6 +14267,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-moran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -14157,6 +14363,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
@@ -14341,6 +14548,7 @@
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/washburn-langford-doane-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/washington-cherry-tree-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -14360,6 +14568,7 @@
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/william-henry-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
@@ -14464,9 +14673,11 @@
   <https://github.com/john1hsu/usa-graph/id/wyoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wyoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/wyoming> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/wyoming> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -14491,4 +14702,5 @@
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-park-system> .
   <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-west> .
+  <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
 }
