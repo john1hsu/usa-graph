@@ -1456,6 +1456,207 @@
   ]
  },
  {
+  "id": "us:census-and-apportionment",
+  "title": "Census and apportionment",
+  "aliases": [
+   "Congressional apportionment",
+   "Apportionment of the House of Representatives",
+   "Enumeration Clause",
+   "Reapportionment of the House"
+  ],
+  "type": "Principle",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/democracy-and-elections/census-and-apportionment.md",
+  "created": "2026-11-15",
+  "summary": "The constitutional rule that seats in the U.S. House of Representatives are divided among the states by population, using an \"actual Enumeration\" of the people taken every ten years; it has been carried out after every census since 1790 except that of 1920.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-of-representatives"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-citizenship-act-of-1924"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reapportionment-act-of-1929"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:2020-united-states-census"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gerrymandering"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-department-of-commerce-v-montana"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:fourteenth-amendment",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:house-of-representatives",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:redistricting-in-the-united-states",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the original apportionment formula give slaveholding states extra representation, and how did that change?",
+    "answer": "Article I counted enslaved people as three-fifths of a person for apportionment though they could not vote, adding seats for slaveholding states; after emancipation the Fourteenth Amendment (1868) counted the whole number of persons, which would have fully counted freed people and so increased Southern power, which is why it added a never-enforced penalty for denying men the vote."
+   },
+   {
+    "question": "Why did Washington veto the first apportionment bill in 1792?",
+    "answer": "He judged it unconstitutional because no single ratio produced its allotment and it gave eight states more than one representative per 30,000 people, the Constitution's limit."
+   },
+   {
+    "question": "How did the failure to reapportion after the 1920 census change the process?",
+    "answer": "Rural members, fearing a loss of power to fast-growing cities, blocked reapportionment for a decade; the 1929 act responded by making apportionment automatic after each census with the House kept at 435 seats."
+   },
+   {
+    "question": "What is the difference between apportionment and redistricting?",
+    "answer": "Apportionment divides the 435 House seats among the states by population; redistricting is each state's redrawing of district boundaries within its borders, using small-area counts the Census Bureau supplies."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-07-12",
+    "event": "The Constitutional Convention votes to tie representation and direct taxes to population, counting enslaved people at three-fifths."
+   },
+   {
+    "date": "1790-08-02",
+    "event": "U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people."
+   },
+   {
+    "date": "1792-04-05",
+    "event": "George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional."
+   },
+   {
+    "date": "1792-04-14",
+    "event": "Washington signs a replacement act giving the House 105 seats under Jefferson's method."
+   },
+   {
+    "date": "1850",
+    "event": "Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method."
+   },
+   {
+    "date": "1868",
+    "event": "The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons."
+   },
+   {
+    "date": "1911-08-08",
+    "event": "Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood."
+   },
+   {
+    "date": "1920",
+    "event": "The census shows a shift to cities; Congress fails to reapportion for the only time."
+   },
+   {
+    "date": "1929-06-18",
+    "event": "The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats."
+   },
+   {
+    "date": "1940",
+    "event": "The Attorney General concludes that no American Indians remain 'not taxed' for census purposes."
+   },
+   {
+    "date": "1941-11-15",
+    "event": "Congress adopts the method of equal proportions for all future apportionments."
+   },
+   {
+    "date": "1992",
+    "event": "In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method."
+   },
+   {
+    "date": "2021-04-26",
+    "event": "The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one."
+   }
+  ],
+  "misconception": {
+   "myth": "The Census Bureau decides how many House seats each state gets and draws the new congressional districts.",
+   "fact": "The Bureau counts the population and applies a formula that Congress wrote into law (equal proportions, adopted in 1941); the states then redraw their own district lines using census redistricting data.",
+   "why": "Because seat gains and losses are announced by the Census Bureau, the count, the formula and the separate state-run redistricting process are easily blurred together."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/constitution-conan/article-1/section-2/clause-3/enumeration-clause-and-apportioning-seats-in-the-house-of-representatives",
+   "https://census.gov/topics/public-sector/congressional-apportionment/about/historical-perspective.html",
+   "https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/decennial-census/legislation-1890-present.html",
+   "https://www.census.gov/programs-surveys/decennial-census/decade/1920/about-1920.html",
+   "https://prologue.blogs.archives.gov/2022/04/04/the-1790-census-and-the-first-veto",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/section-2/apportionment-clause",
+   "https://www.census.gov/about/history/census-records-family-history/census-records/censuses-of-american-indians.html",
+   "https://census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html",
+   "https://census.gov/library/stories/2021/04/2020-census-data-release.html",
+   "https://census.gov/library/publications/2021/decennial/2020-census-strength-in-numbers.html",
+   "https://teachingamericanhistory.org/document/the-three-fifths-clause/"
+  ]
+ },
+ {
   "id": "us:civil-rights-movement",
   "title": "Civil rights movement",
   "aliases": [

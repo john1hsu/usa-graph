@@ -302,6 +302,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## democracy-and-elections
 
+### [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) — Principle
+
+| Myth | Fact |
+|---|---|
+| The Census Bureau decides how many House seats each state gets and draws the new congressional districts. | The Bureau counts the population and applies a formula that Congress wrote into law (equal proportions, adopted in 1941); the states then redraw their own district lines using census redistricting data. |
+
+**Why it matters:** Because seat gains and losses are announced by the Census Bureau, the count, the formula and the separate state-run redistricting process are easily blurred together.
+
+- **Q:** Why did the original apportionment formula give slaveholding states extra representation, and how did that change?
+  **A:** Article I counted enslaved people as three-fifths of a person for apportionment though they could not vote, adding seats for slaveholding states; after emancipation the Fourteenth Amendment (1868) counted the whole number of persons, which would have fully counted freed people and so increased Southern power, which is why it added a never-enforced penalty for denying men the vote.
+- **Q:** Why did Washington veto the first apportionment bill in 1792?
+  **A:** He judged it unconstitutional because no single ratio produced its allotment and it gave eight states more than one representative per 30,000 people, the Constitution's limit.
+- **Q:** How did the failure to reapportion after the 1920 census change the process?
+  **A:** Rural members, fearing a loss of power to fast-growing cities, blocked reapportionment for a decade; the 1929 act responded by making apportionment automatic after each census with the House kept at 435 seats.
+- **Q:** What is the difference between apportionment and redistricting?
+  **A:** Apportionment divides the 435 House seats among the states by population; redistricting is each state's redrawing of district boundaries within its borders, using small-area counts the Census Bureau supplies.
+
 ### [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) — Law
 
 | Myth | Fact |

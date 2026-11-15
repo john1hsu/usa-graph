@@ -871,6 +871,124 @@
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://schema.org/startDate> "1954-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau counts the population and applies a formula that Congress wrote into law (equal proportions, adopted in 1941); the states then redraw their own district lines using census redistricting data." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Census Bureau decides how many House seats each state gets and draws the new congressional districts." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because seat gains and losses are announced by the Census Bureau, the count, the formula and the separate state-run redistricting process are easily blurred together." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the original apportionment formula give slaveholding states extra representation, and how did that change?" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Article I counted enslaved people as three-fifths of a person for apportionment though they could not vote, adding seats for slaveholding states; after emancipation the Fourteenth Amendment (1868) counted the whole number of persons, which would have fully counted freed people and so increased Southern power, which is why it added a never-enforced penalty for denying men the vote." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Washington veto the first apportionment bill in 1792?" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He judged it unconstitutional because no single ratio produced its allotment and it gave eight states more than one representative per 30,000 people, the Constitution's limit." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the failure to reapportion after the 1920 census change the process?" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Rural members, fearing a loss of power to fast-growing cities, blocked reapportionment for a decade; the 1929 act responded by making apportionment automatic after each census with the House kept at 435 seats." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What is the difference between apportionment and redistricting?" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Apportionment divides the 435 House seats among the states by population; redistricting is each state's redrawing of district boundaries within its borders, using small-area counts the Census Bureau supplies." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Attorney General concludes that no American Indians remain 'not taxed' for census purposes." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress adopts the method of equal proportions for all future apportionments." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Constitutional Convention votes to tie representation and direct taxes to population, counting enslaved people at three-fifths." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-07-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1792-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Washington signs a replacement act giving the House 105 seats under Jefferson's method." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1792-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1868"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1911-08-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The census shows a shift to cities; Congress fails to reapportion for the only time." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Principle> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2000/01/rdf-schema#label> "Census and apportionment" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#altLabel> "Apportionment of the House of Representatives" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#altLabel> "Congressional apportionment" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#altLabel> "Enumeration Clause" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#altLabel> "Reapportionment of the House" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#definition> "The constitutional rule that seats in the U.S. House of Representatives are divided among the states by population, using an \"actual Enumeration\" of the people taken every ten years; it has been carried out after every census since 1790 except that of 1920." .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Census and apportionment" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gerrymandering> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reapportionment-act-of-1929> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-department-of-commerce-v-montana> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/census-and-apportionment.md" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/misconception> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed." .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South." .
@@ -5773,6 +5891,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/brown-v-board-of-education/s7> <https://schema.org/url> <https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://purl.org/dc/terms/title> "Strength in Numbers: A Guide to the 2020 Census Redistricting Data From the U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s10> <https://schema.org/url> <https://census.gov/library/publications/2021/decennial/2020-census-strength-in-numbers.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <http://purl.org/dc/terms/publisher> "Teaching American History, Ashbrook Center (James Madison's notes, ed. Gordon Lloyd)" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <http://purl.org/dc/terms/title> "Debates in the Federal Convention of 1787: The Three-Fifths Clause" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s11> <https://schema.org/url> <https://teachingamericanhistory.org/document/the-three-fifths-clause/> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <http://purl.org/dc/terms/title> "ArtI.S2.C3.1 Enumeration Clause and Apportioning Seats in the House of Representatives" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s1> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/article-1/section-2/clause-3/enumeration-clause-and-apportioning-seats-in-the-house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <http://purl.org/dc/terms/title> "Congressional Apportionment: Historical Perspective" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s2> <https://schema.org/url> <https://census.gov/topics/public-sector/congressional-apportionment/about/historical-perspective.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau, History" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <http://purl.org/dc/terms/title> "Apportionment Legislation 1890 - Present" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s3> <https://schema.org/url> <https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/decennial-census/legislation-1890-present.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <http://purl.org/dc/terms/title> "About the 1920 Decennial Census" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s4> <https://schema.org/url> <https://www.census.gov/programs-surveys/decennial-census/decade/1920/about-1920.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <http://purl.org/dc/terms/publisher> "National Archives, Pieces of History blog (Jessie Kratz)" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <http://purl.org/dc/terms/title> "The 1790 Census and the First Veto" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s5> <https://schema.org/url> <https://prologue.blogs.archives.gov/2022/04/04/the-1790-census-and-the-first-veto> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <http://purl.org/dc/terms/title> "Amdt14.S2.1 Apportionment Clause" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s6> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/section-2/apportionment-clause> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau, History" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <http://purl.org/dc/terms/title> "Censuses of American Indians" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s7> <https://schema.org/url> <https://www.census.gov/about/history/census-records-family-history/census-records/censuses-of-american-indians.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau (press release, April 26, 2021)" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <http://purl.org/dc/terms/title> "2020 Census Apportionment Results Delivered to the President" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s8> <https://schema.org/url> <https://census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau, America Counts" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <http://purl.org/dc/terms/title> "U.S. Census Bureau Today Delivers State Population Totals for Congressional Apportionment" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <https://schema.org/url> <https://census.gov/library/stories/2021/04/2020-census-data-release.html> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)" .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/title> "Historian: Jacquelyn Dowd Hall (excerpt from 'The Long Civil Rights Movement and the Political Uses of the Past')" .
