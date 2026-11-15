@@ -252,27 +252,35 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1826-12-23 | A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1827 | Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1827 | The Cherokee Nation adopts a written constitution modeled on the U.S. Constitution. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1827-07-04 | New York's emancipation law takes effect. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1828 | Georgia declares the Cherokee government abolished and places Cherokee citizens under state law; gold is found on Cherokee land in the north Georgia mountains. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1828 | Gold is found on Native lands in Georgia. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1828 | Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1831-03-05 | The Cherokee Nation's motion for an injunction against Georgia is set for hearing before the Supreme Court; Georgia does not appear. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
+| 1831-03-18 | **[Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md)** (CourtCase) |
+| 1831-03-18 | The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -285,6 +293,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1838 | Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears. — [United States](../articles/states-and-territories/united-states.md) |
+| 1838-05 | President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1838-09-15 | Marries Anna Murray in New York; the couple settles in New Bedford, Massachusetts, as the Douglasses. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |

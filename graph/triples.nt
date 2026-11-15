@@ -1251,6 +1251,97 @@
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Court never reached the merits; it dismissed the suit because it lacked jurisdiction, while describing the Cherokee Nation as a distinct political society capable of governing itself. A year later Worcester v. Georgia held Georgia's laws void inside the Nation." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "In Cherokee Nation v. Georgia the Supreme Court upheld Georgia's laws and ruled that the Cherokee Nation had no sovereignty." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because the Cherokees lost the case and were later forcibly removed, the jurisdictional dismissal is easily remembered as a ruling on Georgia's power or a denial of Cherokee nationhood." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court refuse to hear the Cherokee Nation's suit against Georgia?" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Constitution lets the Court hear suits between a state and foreign states, and the majority held that the Cherokee Nation, though a distinct political society, was not a foreign state but a domestic dependent nation, partly because the commerce clause lists foreign nations, states and Indian tribes as separate categories; without jurisdiction it had to dismiss the case." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1831 dismissal help set up Worcester v. Georgia?" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Marshall suggested the land question might be decided in a proper case with proper parties, and when Georgia convicted missionaries such as Samuel Worcester under its license law, their appeal from a state court gave the Supreme Court jurisdiction to rule that Georgia's laws had no force in the Cherokee Nation." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is the case's guardian-and-ward language still important in federal Indian law?" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Cherokee Nation adopts a written constitution modeled on the U.S. Constitution." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1827"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Georgia declares the Cherokee government abolished and places Cherokee citizens under state law; gold is found on Cherokee land in the north Georgia mountains." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1828"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President Andrew Jackson signs the Indian Removal Act." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1830-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Cherokee Nation's motion for an injunction against Georgia is set for hearing before the Supreme Court; Georgia does not appear." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1831-03-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1831-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1835"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1838-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2000/01/rdf-schema#label> "Cherokee Nation v. Georgia" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#altLabel> "30 U.S. 1" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#altLabel> "5 Pet. 1" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#altLabel> "Cherokee Nation v Georgia" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#altLabel> "The Cherokee Nation v. the State of Georgia" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-indian-law> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/marshall-trilogy> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#definition> "The 1831 U.S. Supreme Court case in which the Cherokee Nation asked the Court to stop Georgia from enforcing its laws on Cherokee land; the Court dismissed the suit for lack of jurisdiction, holding that the Nation was not a foreign state under Article III but one of the \"domestic dependent nations\" whose relation to the United States resembled that of a ward to a guardian." .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/native-nations> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cherokee Nation v. Georgia" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-ross> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/trail-of-tears> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-new-echota> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-wirt> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/cherokee-nation> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#domain> "native-nations" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/native-nations/cherokee-nation-v-georgia.md" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/federal-trust-responsibility> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://schema.org/startDate> "1831-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed." .
 <https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The civil rights movement was a Southern story, led from the top by Martin Luther King Jr., against a problem confined to the South." .
@@ -6908,6 +6999,54 @@
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/census-and-apportionment/s9> <https://schema.org/url> <https://census.gov/library/stories/2021/04/2020-census-data-release.html> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <http://purl.org/dc/terms/title> "Cherokee Nation v. Georgia, 30 U.S. 1 (1831): opinions of the Court" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1> <https://schema.org/url> <https://www.law.cornell.edu/supremecourt/text/30/1> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <http://purl.org/dc/terms/title> "U.S. Reports: Cherokee Nation vs. the State of Georgia, The, 30 U.S. (5 Pet.) 1 (1831)" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2> <https://schema.org/url> <https://www.loc.gov/item/usrep030001> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <http://purl.org/dc/terms/publisher> "National Archives (DocsTeach)" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <http://purl.org/dc/terms/title> "Judgment in Cherokee Nation v. Georgia" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3> <https://schema.org/url> <https://docsteach.org/documents/document/judgement-cherokee-nation-v-georgia> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <http://purl.org/dc/terms/publisher> "New Georgia Encyclopedia (Tim Alan Garrison)" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <http://purl.org/dc/terms/title> "Worcester v. Georgia (1832)" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <http://purl.org/dc/terms/publisher> "Cherokee Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <http://purl.org/dc/terms/title> "The History of the Cherokee Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5> <https://schema.org/url> <https://www.cherokee.gov/about-the-nation/history> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <http://purl.org/dc/terms/title> "Preludes to the Trail of Tears" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6> <https://schema.org/url> <https://www.nps.gov/articles/000/preludes-trail-of-tears.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <http://purl.org/dc/terms/publisher> "Supreme Court Historical Society" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <http://purl.org/dc/terms/title> "The Cherokee Nation Cases (1831-1832)" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7> <https://schema.org/url> <https://civics.supremecourthistory.org/article/the-cherokee-nation-cases/> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <http://purl.org/dc/terms/publisher> "University of Alaska Fairbanks, Tribal Governance program" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <http://purl.org/dc/terms/title> "The Marshall Trilogy" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <https://schema.org/url> <https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press, Oxford Learning Link (Black Liberation from Reconstruction to Black Lives Matter)" .
 <https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s10> <http://purl.org/dc/terms/title> "Historian: Jacquelyn Dowd Hall (excerpt from 'The Long Civil Rights Movement and the Political Uses of the Past')" .

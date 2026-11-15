@@ -6,12 +6,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 4.21 | `us:abolitionism` | `us:pennsylvania` | `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers`, `us:underground-railroad` |
 | 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
-| 2.94 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
+| 2.93 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
 | 2.92 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.69 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
 | 2.46 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.35 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
+| 2.24 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
 | 2.21 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.20 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
@@ -27,5 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.93 | `us:constitutional-convention` | `us:united-states` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:declaration-of-independence`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
 | 1.92 | `us:jim-crow-laws` | `us:thirteenth-amendment` | `us:black-codes`, `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:plessy-v-ferguson` |
 | 1.91 | `us:frederick-douglass` | `us:thirteenth-amendment` | `us:abolitionism`, `us:abraham-lincoln`, `us:american-civil-war`, `us:fifteenth-amendment`, `us:slavery-in-the-united-states` |
-| 1.90 | `us:supreme-court-of-the-united-states` | `us:united-states` | `us:indian-removal-act`, `us:tribal-sovereignty`, `us:united-states-constitution`, `us:washington-dc` |
 | 1.90 | `us:abolitionism` | `us:declaration-of-independence` | `us:declaration-of-sentiments`, `us:frederick-douglass`, `us:liberty-bell`, `us:slavery-in-the-united-states` |

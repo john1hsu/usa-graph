@@ -734,6 +734,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## native-nations
 
+### [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| In Cherokee Nation v. Georgia the Supreme Court upheld Georgia's laws and ruled that the Cherokee Nation had no sovereignty. | The Court never reached the merits; it dismissed the suit because it lacked jurisdiction, while describing the Cherokee Nation as a distinct political society capable of governing itself. A year later Worcester v. Georgia held Georgia's laws void inside the Nation. |
+
+**Why it matters:** Because the Cherokees lost the case and were later forcibly removed, the jurisdictional dismissal is easily remembered as a ruling on Georgia's power or a denial of Cherokee nationhood.
+
+- **Q:** Why did the Supreme Court refuse to hear the Cherokee Nation's suit against Georgia?
+  **A:** The Constitution lets the Court hear suits between a state and foreign states, and the majority held that the Cherokee Nation, though a distinct political society, was not a foreign state but a domestic dependent nation, partly because the commerce clause lists foreign nations, states and Indian tribes as separate categories; without jurisdiction it had to dismiss the case.
+- **Q:** How did the 1831 dismissal help set up Worcester v. Georgia?
+  **A:** Marshall suggested the land question might be decided in a proper case with proper parties, and when Georgia convicted missionaries such as Samuel Worcester under its license law, their appeal from a state court gave the Supreme Court jurisdiction to rule that Georgia's laws had no force in the Cherokee Nation.
+- **Q:** Why is the case's guardian-and-ward language still important in federal Indian law?
+  **A:** Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services.
+
 ### [Indian Removal Act](../articles/native-nations/indian-removal-act.md) — Law
 
 | Myth | Fact |

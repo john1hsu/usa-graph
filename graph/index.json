@@ -2101,6 +2101,176 @@
   ]
  },
  {
+  "id": "us:cherokee-nation-v-georgia",
+  "title": "Cherokee Nation v. Georgia",
+  "aliases": [
+   "Cherokee Nation v Georgia",
+   "The Cherokee Nation v. the State of Georgia",
+   "30 U.S. 1",
+   "5 Pet. 1"
+  ],
+  "type": "CourtCase",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/native-nations/cherokee-nation-v-georgia.md",
+  "created": "2026-11-15",
+  "summary": "The 1831 U.S. Supreme Court case in which the Cherokee Nation asked the Court to stop Georgia from enforcing its laws on Cherokee land; the Court dismissed the suit for lack of jurisdiction, holding that the Nation was not a foreign state under Article III but one of the \"domestic dependent nations\" whose relation to the United States resembled that of a ward to a guardian.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-indian-law"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:marshall-trilogy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worcester-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-ross"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-wirt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:trail-of-tears"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-new-echota"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-marshall",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:cherokee-nation",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:worcester-v-georgia",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:federal-trust-responsibility",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1831-03-18",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Supreme Court refuse to hear the Cherokee Nation's suit against Georgia?",
+    "answer": "The Constitution lets the Court hear suits between a state and foreign states, and the majority held that the Cherokee Nation, though a distinct political society, was not a foreign state but a domestic dependent nation, partly because the commerce clause lists foreign nations, states and Indian tribes as separate categories; without jurisdiction it had to dismiss the case."
+   },
+   {
+    "question": "How did the 1831 dismissal help set up Worcester v. Georgia?",
+    "answer": "Marshall suggested the land question might be decided in a proper case with proper parties, and when Georgia convicted missionaries such as Samuel Worcester under its license law, their appeal from a state court gave the Supreme Court jurisdiction to rule that Georgia's laws had no force in the Cherokee Nation."
+   },
+   {
+    "question": "Why is the case's guardian-and-ward language still important in federal Indian law?",
+    "answer": "Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1827",
+    "event": "The Cherokee Nation adopts a written constitution modeled on the U.S. Constitution."
+   },
+   {
+    "date": "1828",
+    "event": "Georgia declares the Cherokee government abolished and places Cherokee citizens under state law; gold is found on Cherokee land in the north Georgia mountains."
+   },
+   {
+    "date": "1830-05-28",
+    "event": "President Andrew Jackson signs the Indian Removal Act."
+   },
+   {
+    "date": "1831-03-05",
+    "event": "The Cherokee Nation's motion for an injunction against Georgia is set for hearing before the Supreme Court; Georgia does not appear."
+   },
+   {
+    "date": "1831-03-18",
+    "event": "The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction."
+   },
+   {
+    "date": "1832",
+    "event": "In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation."
+   },
+   {
+    "date": "1835",
+    "event": "A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota."
+   },
+   {
+    "date": "1838-05",
+    "event": "President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears."
+   }
+  ],
+  "misconception": {
+   "myth": "In Cherokee Nation v. Georgia the Supreme Court upheld Georgia's laws and ruled that the Cherokee Nation had no sovereignty.",
+   "fact": "The Court never reached the merits; it dismissed the suit because it lacked jurisdiction, while describing the Cherokee Nation as a distinct political society capable of governing itself. A year later Worcester v. Georgia held Georgia's laws void inside the Nation.",
+   "why": "Because the Cherokees lost the case and were later forcibly removed, the jurisdictional dismissal is easily remembered as a ruling on Georgia's power or a denial of Cherokee nationhood."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/supremecourt/text/30/1",
+   "https://www.loc.gov/item/usrep030001",
+   "https://docsteach.org/documents/document/judgement-cherokee-nation-v-georgia",
+   "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/",
+   "https://www.cherokee.gov/about-the-nation/history",
+   "https://www.nps.gov/articles/000/preludes-trail-of-tears.htm",
+   "https://civics.supremecourthistory.org/article/the-cherokee-nation-cases/",
+   "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
+  ]
+ },
+ {
   "id": "us:civil-rights-movement",
   "title": "Civil rights movement",
   "aliases": [

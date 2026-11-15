@@ -40,6 +40,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
+| `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:monroe-doctrine` | 2 | Roosevelt Corollary, mexico |
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
-| `us:roosevelt-corollary` | 2 | dominican-customs-receivership, united-states-occupation-of-haiti |
 
-…and 32 more.
+…and 33 more.
 
 ## Happenings by era
 

@@ -1738,6 +1738,112 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Court never reached the merits; it dismissed the suit because it lacked jurisdiction, while describing the Cherokee Nation as a distinct political society capable of governing itself. A year later Worcester v. Georgia held Georgia's laws void inside the Nation.",
+   "uso:myth": "In Cherokee Nation v. Georgia the Supreme Court upheld Georgia's laws and ruled that the Cherokee Nation had no sovereignty.",
+   "uso:why": "Because the Cherokees lost the case and were later forcibly removed, the jurisdictional dismissal is easily remembered as a ruling on Georgia's power or a denial of Cherokee nationhood."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court refuse to hear the Cherokee Nation's suit against Georgia?",
+   "uso:answer": "The Constitution lets the Court hear suits between a state and foreign states, and the majority held that the Cherokee Nation, though a distinct political society, was not a foreign state but a domestic dependent nation, partly because the commerce clause lists foreign nations, states and Indian tribes as separate categories; without jurisdiction it had to dismiss the case.",
+   "uso:questionFor": {
+    "@id": "us:cherokee-nation-v-georgia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1831 dismissal help set up Worcester v. Georgia?",
+   "uso:answer": "Marshall suggested the land question might be decided in a proper case with proper parties, and when Georgia convicted missionaries such as Samuel Worcester under its license law, their appeal from a state court gave the Supreme Court jurisdiction to rule that Georgia's laws had no force in the Cherokee Nation.",
+   "uso:questionFor": {
+    "@id": "us:cherokee-nation-v-georgia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the case's guardian-and-ward language still important in federal Indian law?",
+   "uso:answer": "Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services.",
+   "uso:questionFor": {
+    "@id": "us:cherokee-nation-v-georgia"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cherokee Nation adopts a written constitution modeled on the U.S. Constitution.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1827"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Georgia declares the Cherokee government abolished and places Cherokee citizens under state law; gold is found on Cherokee land in the north Georgia mountains.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1828"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Andrew Jackson signs the Indian Removal Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1830-05-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cherokee Nation's motion for an injunction against Georgia is set for hearing before the Supreme Court; Georgia does not appear.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1831-03-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1831-03-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1835"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1838-05"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
@@ -10153,6 +10259,118 @@
     "@id": "https://census.gov/library/stories/2021/04/2020-census-data-release.html"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Cherokee Nation v. Georgia, 30 U.S. 1 (1831): opinions of the Court",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/30/1"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "U.S. Reports: Cherokee Nation vs. the State of Georgia, The, 30 U.S. (5 Pet.) 1 (1831)",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/usrep030001"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach)",
+   "dcterms:title": "Judgment in Cherokee Nation v. Georgia",
+   "schema:url": {
+    "@id": "https://docsteach.org/documents/document/judgement-cherokee-nation-v-georgia"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia (Tim Alan Garrison)",
+   "dcterms:title": "Worcester v. Georgia (1832)",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Cherokee Nation",
+   "dcterms:title": "The History of the Cherokee Nation",
+   "schema:url": {
+    "@id": "https://www.cherokee.gov/about-the-nation/history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Preludes to the Trail of Tears",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/preludes-trail-of-tears.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society",
+   "dcterms:title": "The Cherokee Nation Cases (1831-1832)",
+   "schema:url": {
+    "@id": "https://civics.supremecourthistory.org/article/the-cherokee-nation-cases/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "University of Alaska Fairbanks, Tribal Governance program",
+   "dcterms:title": "The Marshall Trilogy",
+   "schema:url": {
+    "@id": "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1",
@@ -22280,6 +22498,152 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/census-and-apportionment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:cherokee-nation-v-georgia",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8"
+    }
+   ],
+   "rdfs:label": "Cherokee Nation v. Georgia",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1831-03-18"
+   },
+   "skos:altLabel": [
+    "30 U.S. 1",
+    "5 Pet. 1",
+    "Cherokee Nation v Georgia",
+    "The Cherokee Nation v. the State of Georgia"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:federal-indian-law"
+    },
+    {
+     "@id": "us:marshall-trilogy"
+    }
+   ],
+   "skos:definition": "The 1831 U.S. Supreme Court case in which the Cherokee Nation asked the Court to stop Georgia from enforcing its laws on Cherokee land; the Court dismissed the suit for lack of jurisdiction, holding that the Nation was not a foreign state under Article III but one of the \"domestic dependent nations\" whose relation to the United States resembled that of a ward to a guardian.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Cherokee Nation v. Georgia",
+   "skos:related": [
+    {
+     "@id": "us:andrew-jackson"
+    },
+    {
+     "@id": "us:cherokee-nation"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:john-ross"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:trail-of-tears"
+    },
+    {
+     "@id": "us:treaty-of-new-echota"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:william-wirt"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:cherokee-nation"
+   },
+   "uso:authoredBy": {
+    "@id": "us:john-marshall"
+   },
+   "uso:domain": "native-nations",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/native-nations/cherokee-nation-v-georgia.md",
+   "uso:interprets": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:federal-trust-responsibility"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:indian-removal-act"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8"
     }
    ]
   },
