@@ -553,6 +553,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the United States agree in 1977 to hand the canal to Panama?
   **A:** Many Panamanians had long questioned the 1903 treaty, which Bunau-Varilla negotiated without formal approval from Panama's government; after the 1964 flag riot both countries saw the need for a new agreement, and U.S. officials feared isolation abroad if talks failed, so the Torrijos-Carter Treaties scheduled the transfer for December 31, 1999, while a separate treaty kept the canal permanently neutral.
 
+### [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| The Roosevelt Corollary was simply part of the Monroe Doctrine as announced in 1823. | It was a separate statement made more than eighty years later, in Theodore Roosevelt's December 1904 message to Congress. The 1823 doctrine asked European powers to stay out of the hemisphere; the corollary claimed a right for the United States itself to intervene. |
+
+**Why it matters:** Roosevelt presented his policy as an extension of Monroe's, and the two are usually taught together, so the later claim of a U.S. police power is easily read back into 1823.
+
+- **Q:** Why did a crisis over Venezuela's debts prompt Roosevelt to rethink the Monroe Doctrine?
+  **A:** The 1902 European blockade of Venezuela showed that European powers would use force to collect debts in the Americas; Roosevelt feared such actions could become invasions, so he claimed a U.S. right to step in first and make sure creditors were paid.
+- **Q:** How did the corollary turn the Monroe Doctrine's meaning around?
+  **A:** Monroe's 1823 doctrine was a largely passive warning to Europeans not to intervene in the hemisphere, while the corollary justified U.S. intervention, including later occupations of Haiti and the Dominican Republic.
+- **Q:** How did the Dominican customs receivership show the corollary in practice?
+  **A:** A U.S.-appointed receiver collected Dominican customs duties and applied them to receivership costs and a refinanced debt before passing the rest to the Dominican government, which could not raise its debt or change tariffs without U.S. agreement.
+- **Q:** Why did Roosevelt use executive agreements in the Dominican case?
+  **A:** Critics said his January 1905 agreement bypassed the Senate, and when Democratic opposition blocked a treaty, he put the receivership into effect by a modus vivendi until the Senate approved a convention in 1907.
+
 ### [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) — Event
 
 | Myth | Fact |

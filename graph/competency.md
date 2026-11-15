@@ -51,13 +51,13 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
-| `us:monroe-doctrine` | 2 | mexico, roosevelt-corollary |
+| `us:monroe-doctrine` | 2 | Roosevelt Corollary, mexico |
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
+| `us:roosevelt-corollary` | 2 | dominican-customs-receivership, united-states-occupation-of-haiti |
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
-| `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 
-…and 28 more.
+…and 29 more.
 
 ## Happenings by era
 
@@ -103,13 +103,13 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:native-americans` | interpretive |  |
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
+| `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
 | `us:united-states-constitution` | interpretive |  |
 | `us:war-in-afghanistan` | interpretive |  |
-| `us:betsy-ross-flag-myth` | myth | `us:flag-resolution-of-1777` |
 
-…and 1 more.
+…and 2 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -121,9 +121,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:monroe-doctrine` |
+_No results._
 
 ## People with no recorded role (gap)
 

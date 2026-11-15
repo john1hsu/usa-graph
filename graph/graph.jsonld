@@ -7483,6 +7483,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "It was a separate statement made more than eighty years later, in Theodore Roosevelt's December 1904 message to Congress. The 1823 doctrine asked European powers to stay out of the hemisphere; the corollary claimed a right for the United States itself to intervene.",
+   "uso:myth": "The Roosevelt Corollary was simply part of the Monroe Doctrine as announced in 1823.",
+   "uso:why": "Roosevelt presented his policy as an extension of Monroe's, and the two are usually taught together, so the later claim of a U.S. police power is easily read back into 1823."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did a crisis over Venezuela's debts prompt Roosevelt to rethink the Monroe Doctrine?",
+   "uso:answer": "The 1902 European blockade of Venezuela showed that European powers would use force to collect debts in the Americas; Roosevelt feared such actions could become invasions, so he claimed a U.S. right to step in first and make sure creditors were paid.",
+   "uso:questionFor": {
+    "@id": "us:roosevelt-corollary"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the corollary turn the Monroe Doctrine's meaning around?",
+   "uso:answer": "Monroe's 1823 doctrine was a largely passive warning to Europeans not to intervene in the hemisphere, while the corollary justified U.S. intervention, including later occupations of Haiti and the Dominican Republic.",
+   "uso:questionFor": {
+    "@id": "us:roosevelt-corollary"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Dominican customs receivership show the corollary in practice?",
+   "uso:answer": "A U.S.-appointed receiver collected Dominican customs duties and applied them to receivership costs and a refinanced debt before passing the rest to the Dominican government, which could not raise its debt or change tariffs without U.S. agreement.",
+   "uso:questionFor": {
+    "@id": "us:roosevelt-corollary"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Roosevelt use executive agreements in the Dominican case?",
+   "uso:answer": "Critics said his January 1905 agreement bypassed the Senate, and when Democratic opposition blocked a treaty, he put the receivership into effect by a modus vivendi until the Senate approved a convention in 1907.",
+   "uso:questionFor": {
+    "@id": "us:roosevelt-corollary"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "James Monroe's annual message warns European powers against new colonization or intervention in the Americas.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1823-12-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At the Montevideo conference the United States pledges non-intervention in the hemisphere.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1933"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt's Good Neighbor policy officially abandons the corollary.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British, German and Italian warships blockade Venezuela's ports after it defaults on debts to foreign bondholders.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1902"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Theodore Roosevelt announces the corollary in his annual message to Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1904-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-01-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With Senate action on a treaty blocked, Roosevelt puts a customs receivership into effect by a modus vivendi.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-02-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Senate advises ratification of the Dominican convention.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-02-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt proclaims the convention in force.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1907-07-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Undersecretary of State J. Reuben Clark's memorandum challenges the corollary on legal grounds.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1928-12-17"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Civil War and Reconstruction (1850–1877)"
@@ -14448,6 +14590,104 @@
     "@id": "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
    },
    "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Roosevelt Corollary to the Monroe Doctrine, 1904",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1899-1913/roosevelt-and-monroe-doctrine"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Theodore Roosevelt's Corollary to the Monroe Doctrine",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/roosevelt-corollary"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Theodore Roosevelt Center, Dickinson State University",
+   "dcterms:title": "Roosevelt Corollary",
+   "schema:url": {
+    "@id": "https://www.theodorerooseveltcenter.org/encyclopedia/foreign-affairs/roosevelt-corollary/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian (Foreign Relations of the United States, 1907, Part I, Document 263)",
+   "dcterms:title": "Convention between the United States and the Dominican Republic (proclamation of July 25, 1907)",
+   "schema:url": {
+    "@id": "https://history.state.gov/historicaldocuments/frus1907p1/d263"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopedia of the New American Nation (Gale)",
+   "dcterms:title": "Loans and Debt Resolution - The Dominican receivership",
+   "schema:url": {
+    "@id": "https://americanforeignrelations.com/E-N/Loans-and-Debt-Resolution-The-dominican-receivership.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Oxford University Press)",
+   "dcterms:title": "Roosevelt Corollary to the Monroe Doctrine (Frederick W. Marks III, The Oxford Companion to American Military History)",
+   "schema:url": {
+    "@id": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/roosevelt-corollary-monroe-doctrine"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "The Clark Memorandum Myth (Gene A. Sessions, The Americas 34, no. 1, 1977)",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/americas/article/clark-memorandum-myth/CA5CEA441323FB908C46329D5350CD3E"
+   },
+   "uso:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1",
@@ -26968,6 +27208,148 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:roosevelt-corollary",
+   "@type": "uso:Policy",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s7"
+    }
+   ],
+   "rdfs:label": "Roosevelt Corollary",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1904-12-06"
+   },
+   "skos:altLabel": [
+    "Corollary to the Monroe Doctrine",
+    "Roosevelt Corollary to the Monroe Doctrine"
+   ],
+   "skos:broader": {
+    "@id": "us:foreign-relations-of-the-united-states"
+   },
+   "skos:definition": "The extension of the Monroe Doctrine that President Theodore Roosevelt announced in his annual message to Congress on December 6, 1904, claiming for the United States a right to intervene in Latin American and Caribbean nations that failed to keep order or pay foreign creditors, so that European powers would have no pretext to intervene themselves; it was officially abandoned in 1934.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "Roosevelt Corollary",
+   "skos:related": [
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:good-neighbor-policy"
+    },
+    {
+     "@id": "us:monroe-doctrine"
+    },
+    {
+     "@id": "us:panama-canal"
+    },
+    {
+     "@id": "us:progressive-era"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    }
+   ],
+   "uso:challengedBy": {
+    "@id": "us:luis-maria-drago"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:good-neighbor-policy"
+   },
+   "uso:domain": "foreign-relations-and-military",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/foreign-relations-and-military/roosevelt-corollary.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:monroe-doctrine"
+    },
+    {
+     "@id": "us:venezuelan-crisis-of-1902-1903"
+    }
+   ],
+   "uso:introducedBy": {
+    "@id": "us:theodore-roosevelt"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:dominican-customs-receivership"
+    },
+    {
+     "@id": "us:united-states-occupation-of-haiti"
+    }
+   ],
+   "uso:level": "intermediate",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:monroe-doctrine"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/9"
     }
    ]
   },

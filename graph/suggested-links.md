@@ -10,7 +10,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.94 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
 | 2.69 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
 | 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
-| 2.35 | `us:monroe-doctrine` | `us:panama-canal` | `us:foreign-relations-of-the-united-states`, `us:theodore-roosevelt` |
 | 2.35 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
 | 2.21 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
@@ -21,6 +20,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.16 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.12 | `us:gilded-age` | `us:native-americans` | `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.09 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
+| 2.05 | `us:monroe-doctrine` | `us:panama-canal` | `us:foreign-relations-of-the-united-states`, `us:roosevelt-corollary`, `us:theodore-roosevelt` |
 | 2.00 | `us:fifteenth-amendment` | `us:liberty-bell` | `us:nineteenth-amendment`, `us:womens-suffrage-movement` |
 | 2.00 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.96 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:harriet-tubman`, `us:underground-railroad`, `us:united-states` |

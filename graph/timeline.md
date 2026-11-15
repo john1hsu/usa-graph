@@ -240,6 +240,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823 | British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
+| 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -533,6 +534,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1902 | British, German and Italian warships blockade Venezuela's ports after it defaults on debts to foreign bondholders. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1902 | Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-10 | Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
@@ -552,8 +554,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1904-05-23 | Before a dozen invited reporters, the Wrights' new Flyer II fails to leave the ground because of engine trouble. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1904-09-07 | The brothers first use a weight-and-derrick catapult to launch the Flyer in the prairie's light winds. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1904-09-20 | The first complete circle by an airplane is flown over the pasture. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1904-12-06 – 1934 | **[Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md)** (Policy) |
+| 1904-12-06 | Theodore Roosevelt announces the corollary in his annual message to Congress. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1905-01-20 | A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1905-04-01 | With Senate action on a treaty blocked, Roosevelt puts a customs receivership into effect by a modus vivendi. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-06-23 | Orville makes the first flight of the rebuilt Wright Flyer III. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-07-14 | A crash that throws Orville through the upper wing prompts a redesign of the controls. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -561,7 +567,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1907 | Pianist and composer Jelly Roll Morton begins touring outside New Orleans. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1907-02-08 | The United States and the Dominican Republic sign a convention at Santo Domingo making the receivership formal. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1907-02-25 | The U.S. Senate advises ratification of the Dominican convention. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1907-04-01 | Chief engineer John F. Stevens resigns and George Washington Goethals succeeds him. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1907-07-25 | Roosevelt proclaims the convention in force. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1908 | The AME Zion Church opens the Harriet Tubman Home for aged and poor African Americans on land she had transferred to it in 1903. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -623,6 +632,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1928 | Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1928-12-17 | Undersecretary of State J. Reuben Clark's memorandum challenges the corollary on legal grounds. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1928-12-21 | President Coolidge signs the Boulder Canyon Project Act authorizing the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1929-06-18 | The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
@@ -644,6 +654,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932-10-13 | Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1932-11-14 | The river is turned through the diversion tunnels around the dam site. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1933 | At the Montevideo conference the United States pledges non-intervention in the hemisphere. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -651,6 +662,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1933-12 | At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1934 | Franklin D. Roosevelt's Good Neighbor policy officially abandons the corollary. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
