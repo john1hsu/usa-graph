@@ -495,11 +495,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1910-02-16 | Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1910-03 – 1916 | **[Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md)** (Organization) |
+| 1910-03-26 | Orville makes Montgomery's first powered flight; training of the first students follows. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-05 | The Wright School of Aviation moves its training to Huffman Field. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1910-05 | The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1910-05-06 | Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1911-05-07 | Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1911-08-08 | Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -516,8 +523,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1915-10 | Orville Wright sells the Wright Company to New York financiers. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1916 | The flying school at Huffman Field closes after training 119 students since May 1910. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1917 | The Army leases the land around the field for Wilbur Wright Field, a World War I training post. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |

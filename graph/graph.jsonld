@@ -15596,6 +15596,118 @@
    "uso:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, National Register of Historic Places (NPGallery)",
+   "dcterms:title": "Huffman Prairie Flying Field — National Historic Landmark nomination",
+   "schema:url": {
+    "@id": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service (last updated April 7, 2023)",
+   "dcterms:title": "Dayton Landscapes in Aviation History",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/dayton-landscapes-in-aviation-history.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopedia of Alabama (Jerome A. Ennels, 2007; updated 2023)",
+   "dcterms:title": "Wright Brothers Flying School",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/wright-brothers-flying-school/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Smithsonian National Air and Space Museum (Elizabeth Borja, August 29, 2019)",
+   "dcterms:title": "Back to School",
+   "schema:url": {
+    "@id": "https://airandspace.si.edu/stories/editorial/back-school"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Centennial of Flight Commission",
+   "dcterms:title": "Aviation Chronology: 1911",
+   "schema:url": {
+    "@id": "https://www.centennialofflight.net/chrono/1911.htm"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Wright State University Libraries, Special Collections and Archives",
+   "dcterms:title": "Arthur L. Welsh seated in Wright Model B Flyer (1911), Wright Brothers Collection (MS-1)",
+   "schema:url": {
+    "@id": "https://corescholar.libraries.wright.edu/special_ms1_photographs/1345"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Dayton Aviation Heritage National Historical Park (archived at NPS History)",
+   "dcterms:title": "Dayton Aviation: What Dreams We Have — Chapter 11, Aviation in the Miami Valley",
+   "schema:url": {
+    "@id": "https://www.npshistory.com/publications/daav/honious/chap11.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Air Force Historical Foundation",
+   "dcterms:title": "11 Apr 1911 — This Day in Air and Space History",
+   "schema:url": {
+    "@id": "https://afhistory.org/11-apr-1911/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation.",
@@ -17236,6 +17348,112 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1927-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Its first classes met in Montgomery, Alabama, in March–May 1910, on land that later became Maxwell Air Force Base; only then did the school settle at Huffman Prairie near Dayton.",
+   "uso:myth": "The Wright brothers' flying school began in Dayton, Ohio.",
+   "uso:why": "The school is remembered through Dayton and its aviation park, while the short, troubled Alabama camp produced a single graduate and is mostly recalled locally."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Wrights start their school in Montgomery rather than in Dayton, and why did it move back so soon?",
+   "uso:answer": "Dayton's winter weather was poor for flying, and Montgomery offered less rain and suitable winds; but engine trouble, weather and the need to prepare for exhibition tours in June led Wilbur to close the camp in May 1910 and move training to Huffman Field.",
+   "uso:questionFor": {
+    "@id": "us:wright-company-school-of-aviation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the school help shape American military aviation?",
+   "uso:answer": "Army officers such as Henry H. Arnold and Thomas Milling learned to fly there in 1911 and then helped start the Army's first permanent flight school at College Park, Maryland; Arnold later commanded the Army Air Corps.",
+   "uso:questionFor": {
+    "@id": "us:wright-company-school-of-aviation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the school serve the Wright Company's business as well as teaching?",
+   "uso:answer": "It shared a hangar with the company's test flying and exhibition team, produced pilots for the exhibition circuit, and marketed the Wrights' airplanes to civilian and military buyers.",
+   "uso:questionFor": {
+    "@id": "us:wright-company-school-of-aviation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-02-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Orville makes Montgomery's first powered flight; training of the first students follows.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-03-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1910-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-05-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-05-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1912-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Orville Wright sells the Wright Company to New York financiers.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1915-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The flying school at Huffman Field closes after training 119 students since May 1910.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
    }
   },
   {
@@ -26886,6 +27104,141 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:wright-company-school-of-aviation",
+   "@type": "uso:Organization",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8"
+    }
+   ],
+   "rdfs:label": "Wright Company School of Aviation",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1916"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1910-03"
+   },
+   "skos:altLabel": [
+    "Wright Brothers Flying School",
+    "Wright Flying School",
+    "Wright School of Aviation"
+   ],
+   "skos:broader": {
+    "@id": "us:aviation-in-the-united-states"
+   },
+   "skos:definition": "The flight-training school run by Orville and Wilbur Wright's Wright Company from 1910 to 1916, which began in Montgomery, Alabama, settled at Huffman Prairie near Dayton, Ohio, and trained 119 pilots there, including some of the U.S. Army's first aviators.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Wright Company School of Aviation",
+   "skos:related": [
+    {
+     "@id": "us:college-park-airport"
+    },
+    {
+     "@id": "us:henry-h-arnold"
+    },
+    {
+     "@id": "us:huffman-prairie"
+    },
+    {
+     "@id": "us:maxwell-air-force-base"
+    },
+    {
+     "@id": "us:montgomery"
+    },
+    {
+     "@id": "us:wilbur-wright-field"
+    },
+    {
+     "@id": "us:wright-brothers-first-flight"
+    },
+    {
+     "@id": "us:wright-exhibition-team"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/wright-company-school-of-aviation.md",
+   "uso:foundedBy": [
+    {
+     "@id": "us:orville-wright"
+    },
+    {
+     "@id": "us:wilbur-wright"
+    }
+   ],
+   "uso:ledBy": {
+    "@id": "us:orville-wright"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:huffman-prairie"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:wright-company"
+   },
+   "uso:requires": {
+    "@id": "us:wright-brothers-first-flight"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8"
     }
    ]
   }

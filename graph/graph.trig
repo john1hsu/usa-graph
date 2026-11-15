@@ -657,6 +657,17 @@
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s6> .
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s7> .
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s8> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/science-and-innovation/wright-company-school-of-aviation.md" .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> .
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> .
 <https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/african-americans> .
 <https://github.com/john1hsu/usa-graph/id/african-americans#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/african-americans.md" .
@@ -9783,6 +9794,144 @@
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <https://schema.org/startDate> "1903-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <http://purl.org/dc/terms/publisher> "National Park Service, National Register of Historic Places (NPGallery)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <http://purl.org/dc/terms/title> "Huffman Prairie Flying Field — National Historic Landmark nomination" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> <https://schema.org/url> <https://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <http://purl.org/dc/terms/publisher> "National Park Service (last updated April 7, 2023)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <http://purl.org/dc/terms/title> "Dayton Landscapes in Aviation History" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> <https://schema.org/url> <https://www.nps.gov/articles/dayton-landscapes-in-aviation-history.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia of Alabama (Jerome A. Ennels, 2007; updated 2023)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <http://purl.org/dc/terms/title> "Wright Brothers Flying School" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> <https://schema.org/url> <https://encyclopediaofalabama.org/article/wright-brothers-flying-school/> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <http://purl.org/dc/terms/publisher> "Smithsonian National Air and Space Museum (Elizabeth Borja, August 29, 2019)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <http://purl.org/dc/terms/title> "Back to School" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> <https://schema.org/url> <https://airandspace.si.edu/stories/editorial/back-school> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <http://purl.org/dc/terms/publisher> "U.S. Centennial of Flight Commission" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <http://purl.org/dc/terms/title> "Aviation Chronology: 1911" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> <https://schema.org/url> <https://www.centennialofflight.net/chrono/1911.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <http://purl.org/dc/terms/publisher> "Wright State University Libraries, Special Collections and Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <http://purl.org/dc/terms/title> "Arthur L. Welsh seated in Wright Model B Flyer (1911), Wright Brothers Collection (MS-1)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> <https://schema.org/url> <https://corescholar.libraries.wright.edu/special_ms1_photographs/1345> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <http://purl.org/dc/terms/publisher> "National Park Service, Dayton Aviation Heritage National Historical Park (archived at NPS History)" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <http://purl.org/dc/terms/title> "Dayton Aviation: What Dreams We Have — Chapter 11, Aviation in the Miami Valley" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> <https://schema.org/url> <https://www.npshistory.com/publications/daav/honious/chap11.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <http://purl.org/dc/terms/publisher> "Air Force Historical Foundation" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <http://purl.org/dc/terms/title> "11 Apr 1911 — This Day in Air and Space History" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <https://schema.org/url> <https://afhistory.org/11-apr-1911/> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Its first classes met in Montgomery, Alabama, in March–May 1910, on land that later became Maxwell Air Force Base; only then did the school settle at Huffman Prairie near Dayton." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Wright brothers' flying school began in Dayton, Ohio." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The school is remembered through Dayton and its aviation park, while the short, troubled Alabama camp produced a single graduate and is mostly recalled locally." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Wrights start their school in Montgomery rather than in Dayton, and why did it move back so soon?" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Dayton's winter weather was poor for flying, and Montgomery offered less rain and suitable winds; but engine trouble, weather and the need to prepare for exhibition tours in June led Wilbur to close the camp in May 1910 and move training to Huffman Field." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the school help shape American military aviation?" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Army officers such as Henry H. Arnold and Thomas Milling learned to fly there in 1911 and then helped start the Army's first permanent flight school at College Park, Maryland; Arnold later commanded the Army Air Corps." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the school serve the Wright Company's business as well as teaching?" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It shared a hangar with the company's test flying and exhibition team, produced pilots for the exhibition circuit, and marketed the Wrights' airplanes to civilian and military buyers." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Orville makes Montgomery's first powered flight; training of the first students follows." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1911-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1912-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Orville Wright sells the Wright Company to New York financiers." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1915-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The flying school at Huffman Field closes after training 119 students since May 1910." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Organization> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2000/01/rdf-schema#label> "Wright Company School of Aviation" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#altLabel> "Wright Brothers Flying School" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#altLabel> "Wright Flying School" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#altLabel> "Wright School of Aviation" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#definition> "The flight-training school run by Orville and Wilbur Wright's Wright Company from 1910 to 1916, which began in Montgomery, Alabama, settled at Huffman Prairie near Dayton, Ohio, and trained 119 pilots there, including some of the U.S. Army's first aviators." .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wright Company School of Aviation" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/college-park-airport> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/henry-h-arnold> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/maxwell-air-force-base> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wilbur-wright-field> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-exhibition-team> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s1> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s2> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s3> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s4> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s5> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s6> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s7> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#domain> "science-and-innovation" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/science-and-innovation/wright-company-school-of-aviation.md" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#foundedBy> <https://github.com/john1hsu/usa-graph/id/orville-wright> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#foundedBy> <https://github.com/john1hsu/usa-graph/id/wilbur-wright> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/orville-wright> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/wright-company> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://schema.org/endDate> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://schema.org/startDate> "1910-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/african-americans#graph> {
   <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/african-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Of about 10.7 million Africans who survived the crossing, an estimated 388,000 (about 3.5 percent) landed in British North America and the United States; about 40 percent went to Brazil and about 35 percent to the non-Spanish Caribbean." .
@@ -11285,8 +11434,10 @@
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -11508,6 +11659,7 @@
   <https://github.com/john1hsu/usa-graph/id/coal-and-iron-police> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/coinage-act-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/college-park-airport> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/colorado-river-compact> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
@@ -12124,6 +12276,7 @@
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/henry-h-arnold> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/henry-l-stimson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -12201,6 +12354,8 @@
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
@@ -12522,6 +12677,7 @@
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/massive-resistance> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/mathews-v-eldridge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/maxwell-air-force-base> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/mcgirt-v-oklahoma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/mexican-repatriation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -12637,6 +12793,7 @@
   <https://github.com/john1hsu/usa-graph/id/montgomery-improvement-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/montgomery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/montgomery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/montgomery> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/morrill-act-of-1890> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -12793,6 +12950,7 @@
   <https://github.com/john1hsu/usa-graph/id/ohio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ohio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/ohio> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/ohio> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/okies/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/okies/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -12816,8 +12974,12 @@
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/oklahoma> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/orville-wright> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/orville-wright> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/osama-bin-laden> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/oskar-j-w-hansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -13649,8 +13811,12 @@
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/wilbur-wright-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -13723,10 +13889,31 @@
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-national-memorial> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/ohio> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/wright-patterson-air-force-base> .
   <https://github.com/john1hsu/usa-graph/id/wright-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/wright-company> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/wright-exhibition-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/wright-patterson-air-force-base> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wright-patterson-air-force-base> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/wright-patterson-air-force-base> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/wright-patterson-air-force-base> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
 }

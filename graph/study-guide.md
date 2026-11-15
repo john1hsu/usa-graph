@@ -905,6 +905,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the 1903 Flyer spend twenty years outside the Smithsonian?
   **A:** After Langley's death the Smithsonian displayed his rebuilt Aerodrome as the first airplane capable of sustained flight, based on modified 1914 tests by Glenn Curtiss; Orville sent the Flyer to London in protest and it returned only after the Smithsonian published a correction in 1942, arriving in 1948.
 
+### [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) — Organization
+
+| Myth | Fact |
+|---|---|
+| The Wright brothers' flying school began in Dayton, Ohio. | Its first classes met in Montgomery, Alabama, in March–May 1910, on land that later became Maxwell Air Force Base; only then did the school settle at Huffman Prairie near Dayton. |
+
+**Why it matters:** The school is remembered through Dayton and its aviation park, while the short, troubled Alabama camp produced a single graduate and is mostly recalled locally.
+
+- **Q:** Why did the Wrights start their school in Montgomery rather than in Dayton, and why did it move back so soon?
+  **A:** Dayton's winter weather was poor for flying, and Montgomery offered less rain and suitable winds; but engine trouble, weather and the need to prepare for exhibition tours in June led Wilbur to close the camp in May 1910 and move training to Huffman Field.
+- **Q:** How did the school help shape American military aviation?
+  **A:** Army officers such as Henry H. Arnold and Thomas Milling learned to fly there in 1911 and then helped start the Army's first permanent flight school at College Park, Maryland; Arnold later commanded the Army Air Corps.
+- **Q:** How did the school serve the Wright Company's business as well as teaching?
+  **A:** It shared a hangar with the company's test flying and exhibition team, produced pilots for the exhibition circuit, and marketed the Wrights' airplanes to civilian and military buyers.
+
 ## society-and-people
 
 ### [African Americans](../articles/society-and-people/african-americans.md) — Community

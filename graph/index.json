@@ -11246,5 +11246,158 @@
    "https://www.archives.gov/press/press-releases/2016/nr16-52.html",
    "https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/collection-highlights/huffman-prairie/"
   ]
+ },
+ {
+  "id": "us:wright-company-school-of-aviation",
+  "title": "Wright Company School of Aviation",
+  "aliases": [
+   "Wright School of Aviation",
+   "Wright Brothers Flying School",
+   "Wright Flying School"
+  ],
+  "type": "Organization",
+  "domain": "science-and-innovation",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/wright-company-school-of-aviation.md",
+  "created": "2026-11-15",
+  "summary": "The flight-training school run by Orville and Wilbur Wright's Wright Company from 1910 to 1916, which began in Montgomery, Alabama, settled at Huffman Prairie near Dayton, Ohio, and trained 119 pilots there, including some of the U.S. Army's first aviators.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:aviation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:huffman-prairie"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wright-brothers-first-flight"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wright-exhibition-team"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montgomery"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maxwell-air-force-base"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-h-arnold"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:college-park-airport"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wilbur-wright-field"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:wright-brothers-first-flight"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:huffman-prairie",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:wright-company",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:orville-wright",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:wilbur-wright",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:orville-wright",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1910-03",
+  "end": "1916",
+  "review": [
+   {
+    "question": "Why did the Wrights start their school in Montgomery rather than in Dayton, and why did it move back so soon?",
+    "answer": "Dayton's winter weather was poor for flying, and Montgomery offered less rain and suitable winds; but engine trouble, weather and the need to prepare for exhibition tours in June led Wilbur to close the camp in May 1910 and move training to Huffman Field."
+   },
+   {
+    "question": "How did the school help shape American military aviation?",
+    "answer": "Army officers such as Henry H. Arnold and Thomas Milling learned to fly there in 1911 and then helped start the Army's first permanent flight school at College Park, Maryland; Arnold later commanded the Army Air Corps."
+   },
+   {
+    "question": "How did the school serve the Wright Company's business as well as teaching?",
+    "answer": "It shared a hangar with the company's test flying and exhibition team, produced pilots for the exhibition circuit, and marketed the Wrights' airplanes to civilian and military buyers."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1910-02-16",
+    "event": "Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training."
+   },
+   {
+    "date": "1910-03-26",
+    "event": "Orville makes Montgomery's first powered flight; training of the first students follows."
+   },
+   {
+    "date": "1910-05",
+    "event": "The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton."
+   },
+   {
+    "date": "1910-05-06",
+    "event": "Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate."
+   },
+   {
+    "date": "1911-05-07",
+    "event": "Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons."
+   },
+   {
+    "date": "1912-06-11",
+    "event": "Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland."
+   },
+   {
+    "date": "1915-10",
+    "event": "Orville Wright sells the Wright Company to New York financiers."
+   },
+   {
+    "date": "1916",
+    "event": "The flying school at Huffman Field closes after training 119 students since May 1910."
+   }
+  ],
+  "misconception": {
+   "myth": "The Wright brothers' flying school began in Dayton, Ohio.",
+   "fact": "Its first classes met in Montgomery, Alabama, in March–May 1910, on land that later became Maxwell Air Force Base; only then did the school settle at Huffman Prairie near Dayton.",
+   "why": "The school is remembered through Dayton and its aviation park, while the short, troubled Alabama camp produced a single graduate and is mostly recalled locally."
+  },
+  "source_urls": [
+   "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text",
+   "https://www.nps.gov/articles/dayton-landscapes-in-aviation-history.htm",
+   "https://encyclopediaofalabama.org/article/wright-brothers-flying-school/",
+   "https://airandspace.si.edu/stories/editorial/back-school",
+   "https://www.centennialofflight.net/chrono/1911.htm",
+   "https://corescholar.libraries.wright.edu/special_ms1_photographs/1345",
+   "https://www.npshistory.com/publications/daav/honious/chap11.htm",
+   "https://afhistory.org/11-apr-1911/"
+  ]
  }
 ]

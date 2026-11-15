@@ -111,9 +111,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:huffman-prairie` | uso:Landmark |
+_No results._
 
 ## Orphan articles (gap)
 
