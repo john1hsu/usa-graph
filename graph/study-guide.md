@@ -100,6 +100,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?
   **A:** Hall argues for a "long" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power.
 
+### [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Once federal troops escorted the Little Rock Nine into Central High in September 1957, the school and the city's schools were desegregated and the crisis was over. | Troops stayed all year while the Nine faced daily harassment and one of them was expelled; in September 1958 Faubus closed all four Little Rock high schools under a new state law, voters backed closure three to one, and the schools did not reopen until August 1959. |
+
+**Why it matters:** The famous images of paratroopers escorting the students compress a multi-year struggle into one moment of victory and hide how long and how deliberately segregationists resisted after the troops arrived.
+
+- **Q:** Why did President Eisenhower send federal troops to Little Rock even though he was reluctant to act as a civil rights champion?
+  **A:** He framed the deployment as enforcing the orders of federal courts against mob obstruction, arguing that if the executive did not uphold court rulings the rule of law would collapse; he also worried that the crisis was damaging America's standing abroad during the Cold War.
+- **Q:** How did the Little Rock crisis lead to Cooper v. Aaron, and what did the Court decide?
+  **A:** After a year of turmoil the school board sought to suspend its desegregation plan; in September 1958 the Supreme Court unanimously refused, holding under the Supremacy Clause that state officials cannot nullify federal court orders based on Brown or war against the Constitution they swore to support.
+- **Q:** Why do historians disagree about Governor Orval Faubus's motives?
+  **A:** Before 1957 he was seen as a racial moderate who had hired Black state employees and supported Black colleges, so his biographer argues his stand was a political calculation to win re-election in 1958, while some observers insisted catering to segregationists was out of character for him; many voters rewarded him for appearing to stand up to the federal government.
+
 ### [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) — Event
 
 | Myth | Fact |

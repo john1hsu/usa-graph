@@ -42,6 +42,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
+| `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:missouri-compromise` | 2 | Slavery in the United States, missouri |
 | `us:monroe-doctrine` | 2 | Roosevelt Corollary, mexico |
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
-| `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 
-…and 33 more.
+…and 34 more.
 
 ## Happenings by era
 
@@ -65,6 +65,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 
 | era | node | start |
 |---|---|---|
+| `us:cold-war` | `us:desegregation-of-little-rock-central-high-school` | 1957-09-02 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
@@ -86,6 +87,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:blues` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
+| `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
@@ -107,9 +109,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:panic-of-1873` | interpretive |  |
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 | `us:slavery-in-the-united-states` | interpretive |  |
-| `us:theodore-roosevelt` | interpretive |  |
 
-…and 5 more.
+…and 6 more.
 
 ## Places with nothing tied to them (gap)
 

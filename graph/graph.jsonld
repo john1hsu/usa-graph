@@ -2572,6 +2572,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Troops stayed all year while the Nine faced daily harassment and one of them was expelled; in September 1958 Faubus closed all four Little Rock high schools under a new state law, voters backed closure three to one, and the schools did not reopen until August 1959.",
+   "uso:myth": "Once federal troops escorted the Little Rock Nine into Central High in September 1957, the school and the city's schools were desegregated and the crisis was over.",
+   "uso:why": "The famous images of paratroopers escorting the students compress a multi-year struggle into one moment of victory and hide how long and how deliberately segregationists resisted after the troops arrived."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did President Eisenhower send federal troops to Little Rock even though he was reluctant to act as a civil rights champion?",
+   "uso:answer": "He framed the deployment as enforcing the orders of federal courts against mob obstruction, arguing that if the executive did not uphold court rulings the rule of law would collapse; he also worried that the crisis was damaging America's standing abroad during the Cold War.",
+   "uso:questionFor": {
+    "@id": "us:desegregation-of-little-rock-central-high-school"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Little Rock crisis lead to Cooper v. Aaron, and what did the Court decide?",
+   "uso:answer": "After a year of turmoil the school board sought to suspend its desegregation plan; in September 1958 the Supreme Court unanimously refused, holding under the Supremacy Clause that state officials cannot nullify federal court orders based on Brown or war against the Constitution they swore to support.",
+   "uso:questionFor": {
+    "@id": "us:desegregation-of-little-rock-central-high-school"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about Governor Orval Faubus's motives?",
+   "uso:answer": "Before 1957 he was seen as a racial moderate who had hired Black state employees and supported Black colleges, so his biographer argues his stand was a political calculation to win re-election in 1958, while some observers insisted catering to segregationists was out of character for him; many voters rewarded him for appearing to stand up to the federal government.",
+   "uso:questionFor": {
+    "@id": "us:desegregation-of-little-rock-central-high-school"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court rules in Brown v. Board of Education that segregated public schools are unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-05-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Escorted by federal troops, the Little Rock Nine attend their first full day of classes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 101st Airborne returns to Fort Campbell, leaving federalized Guard units in charge for the rest of the year.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1957-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Minnijean Brown is expelled after retaliating against harassment.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1958-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ernest Green becomes the first Black student to graduate from Central High.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1958-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Little Rock School Board adopts Superintendent Virgil Blossom's gradual plan, beginning with token desegregation of Central High in 1957.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1955-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federal judge Ronald Davies voids a state court injunction against integration and orders the district to proceed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-08-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor Orval Faubus announces on television that he has called out the Arkansas National Guard.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Guardsmen turn the Black students away; fifteen-year-old Elizabeth Eckford walks alone past a jeering crowd.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Faubus and Eisenhower meet at Newport, Rhode Island, without reaching agreement.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Judge Davies orders Faubus and the Guard to stop interfering, and Faubus withdraws the troops.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The students enter Central, but a mob of more than 1,000 forms outside and they are taken out by lunchtime; Eisenhower issues Proclamation 3204.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eisenhower signs Executive Order 10730, federalizing the Arkansas Guard and sending in the 101st Airborne Division.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-09-24"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/due-process/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires.",
@@ -11284,6 +11435,146 @@
     "@id": "https://www.gao.gov/products/GAO-19-475T"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Little Rock Central High School National Historic Site",
+   "dcterms:title": "The 1957 Crisis at Central High",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/the-1957-crisis-at-central-high.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Jared Craig, Confronting the Crisis exhibit, Center for Arkansas History and Culture, UA Little Rock",
+   "dcterms:title": "Central High School: A Cold War Hot Spot",
+   "schema:url": {
+    "@id": "https://ualrexhibits.org/legacy/?p=1087"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Desegregation of Central High School",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/desegregation-of-central-high-school-718/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Executive Order 10730: Desegregation of Central High School (1957)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/executive-Order-10730"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Dwight Eisenhower and the Central High Crisis",
+   "schema:url": {
+    "@id": "https://home.nps.gov/people/dwight-eisenhower-and-the-central-high-crisis.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Reports, via GovInfo (U.S. Government Publishing Office)",
+   "dcterms:title": "Cooper v. Aaron, 358 U.S. 1 (1958)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-358/pdf/USREPORTS-358-1.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Sondra Gordy, CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Lost Year",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/lost-year-737/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Little Rock Nine",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/little-rock-nine-723"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Roy Reed, CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Orval Eugene Faubus (1910–1994)",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/orval-eugene-faubus-102/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Grif Stockley, CALS Encyclopedia of Arkansas",
+   "dcterms:title": "Daisy Lee Gatson Bates (1914?–1999)",
+   "schema:url": {
+    "@id": "https://encyclopediaofarkansas.net/entries/daisy-lee-gatson-bates-591/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s1",
@@ -23651,6 +23942,174 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:desegregation-of-little-rock-central-high-school",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/desegregation-of-little-rock-central-high-school/s9"
+    }
+   ],
+   "rdfs:label": "Desegregation of Little Rock Central High School",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1958-05"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1957-09-02"
+   },
+   "skos:altLabel": [
+    "Central High crisis of 1957",
+    "Little Rock Crisis",
+    "Little Rock Nine",
+    "Little Rock school integration crisis"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:school-desegregation-in-the-united-states"
+    }
+   ],
+   "skos:definition": "The 1957–58 confrontation in Little Rock, Arkansas, in which Governor Orval Faubus used the National Guard to keep nine Black students out of all-white Central High School until President Dwight D. Eisenhower sent federal troops to enforce a federal court's desegregation order.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Desegregation of Little Rock Central High School",
+   "skos:related": [
+    {
+     "@id": "us:daisy-bates"
+    },
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:elizabeth-eckford"
+    },
+    {
+     "@id": "us:ernest-green"
+    },
+    {
+     "@id": "us:little-rock-central-high-school-national-historic-site"
+    },
+    {
+     "@id": "us:massive-resistance"
+    },
+    {
+     "@id": "us:montgomery-bus-boycott"
+    },
+    {
+     "@id": "us:orval-faubus"
+    },
+    {
+     "@id": "us:southern-manifesto"
+    }
+   ],
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md",
+   "uso:influencedBy": {
+    "@id": "us:brown-v-board-of-education"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:cooper-v-aaron"
+    },
+    {
+     "@id": "us:executive-order-10730"
+    },
+    {
+     "@id": "us:lost-year"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:cold-war"
+   },
+   "uso:occurredIn": {
+    "@id": "us:little-rock"
+   },
+   "uso:requires": {
+    "@id": "us:brown-v-board-of-education"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/9"
     }
    ]
   },

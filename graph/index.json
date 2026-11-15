@@ -3195,6 +3195,196 @@
   ]
  },
  {
+  "id": "us:desegregation-of-little-rock-central-high-school",
+  "title": "Desegregation of Little Rock Central High School",
+  "aliases": [
+   "Little Rock Nine",
+   "Little Rock Crisis",
+   "Little Rock school integration crisis",
+   "Central High crisis of 1957"
+  ],
+  "type": "Event",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md",
+  "created": "2026-11-15",
+  "summary": "The 1957–58 confrontation in Little Rock, Arkansas, in which Governor Orval Faubus used the National Guard to keep nine Black students out of all-white Central High School until President Dwight D. Eisenhower sent federal troops to enforce a federal court's desegregation order.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:school-desegregation-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:massive-resistance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:southern-manifesto"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:orval-faubus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:daisy-bates"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elizabeth-eckford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ernest-green"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:little-rock-central-high-school-national-historic-site"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montgomery-bus-boycott"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:little-rock",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:cold-war",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:brown-v-board-of-education",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:executive-order-10730",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:cooper-v-aaron",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:lost-year",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1957-09-02",
+  "end": "1958-05",
+  "review": [
+   {
+    "question": "Why did President Eisenhower send federal troops to Little Rock even though he was reluctant to act as a civil rights champion?",
+    "answer": "He framed the deployment as enforcing the orders of federal courts against mob obstruction, arguing that if the executive did not uphold court rulings the rule of law would collapse; he also worried that the crisis was damaging America's standing abroad during the Cold War."
+   },
+   {
+    "question": "How did the Little Rock crisis lead to Cooper v. Aaron, and what did the Court decide?",
+    "answer": "After a year of turmoil the school board sought to suspend its desegregation plan; in September 1958 the Supreme Court unanimously refused, holding under the Supremacy Clause that state officials cannot nullify federal court orders based on Brown or war against the Constitution they swore to support."
+   },
+   {
+    "question": "Why do historians disagree about Governor Orval Faubus's motives?",
+    "answer": "Before 1957 he was seen as a racial moderate who had hired Black state employees and supported Black colleges, so his biographer argues his stand was a political calculation to win re-election in 1958, while some observers insisted catering to segregationists was out of character for him; many voters rewarded him for appearing to stand up to the federal government."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1954-05-17",
+    "event": "The Supreme Court rules in Brown v. Board of Education that segregated public schools are unconstitutional."
+   },
+   {
+    "date": "1955-05-24",
+    "event": "The Little Rock School Board adopts Superintendent Virgil Blossom's gradual plan, beginning with token desegregation of Central High in 1957."
+   },
+   {
+    "date": "1957-08-28",
+    "event": "Federal judge Ronald Davies voids a state court injunction against integration and orders the district to proceed."
+   },
+   {
+    "date": "1957-09-02",
+    "event": "Governor Orval Faubus announces on television that he has called out the Arkansas National Guard."
+   },
+   {
+    "date": "1957-09-04",
+    "event": "Guardsmen turn the Black students away; fifteen-year-old Elizabeth Eckford walks alone past a jeering crowd."
+   },
+   {
+    "date": "1957-09-14",
+    "event": "Faubus and Eisenhower meet at Newport, Rhode Island, without reaching agreement."
+   },
+   {
+    "date": "1957-09-20",
+    "event": "Judge Davies orders Faubus and the Guard to stop interfering, and Faubus withdraws the troops."
+   },
+   {
+    "date": "1957-09-23",
+    "event": "The students enter Central, but a mob of more than 1,000 forms outside and they are taken out by lunchtime; Eisenhower issues Proclamation 3204."
+   },
+   {
+    "date": "1957-09-24",
+    "event": "Eisenhower signs Executive Order 10730, federalizing the Arkansas Guard and sending in the 101st Airborne Division."
+   },
+   {
+    "date": "1957-09-25",
+    "event": "Escorted by federal troops, the Little Rock Nine attend their first full day of classes."
+   },
+   {
+    "date": "1957-11",
+    "event": "The 101st Airborne returns to Fort Campbell, leaving federalized Guard units in charge for the rest of the year."
+   },
+   {
+    "date": "1958-02",
+    "event": "Minnijean Brown is expelled after retaliating against harassment."
+   },
+   {
+    "date": "1958-05",
+    "event": "Ernest Green becomes the first Black student to graduate from Central High."
+   }
+  ],
+  "misconception": {
+   "myth": "Once federal troops escorted the Little Rock Nine into Central High in September 1957, the school and the city's schools were desegregated and the crisis was over.",
+   "fact": "Troops stayed all year while the Nine faced daily harassment and one of them was expelled; in September 1958 Faubus closed all four Little Rock high schools under a new state law, voters backed closure three to one, and the schools did not reopen until August 1959.",
+   "why": "The famous images of paratroopers escorting the students compress a multi-year struggle into one moment of victory and hide how long and how deliberately segregationists resisted after the troops arrived."
+  },
+  "source_urls": [
+   "https://www.nps.gov/articles/000/the-1957-crisis-at-central-high.htm",
+   "https://encyclopediaofarkansas.net/entries/desegregation-of-central-high-school-718/",
+   "https://www.archives.gov/milestone-documents/executive-Order-10730",
+   "https://home.nps.gov/people/dwight-eisenhower-and-the-central-high-crisis.htm",
+   "https://www.govinfo.gov/content/pkg/USREPORTS-358/pdf/USREPORTS-358-1.pdf",
+   "https://encyclopediaofarkansas.net/entries/lost-year-737/",
+   "https://encyclopediaofarkansas.net/entries/little-rock-nine-723",
+   "https://encyclopediaofarkansas.net/entries/orval-eugene-faubus-102/",
+   "https://encyclopediaofarkansas.net/entries/daisy-lee-gatson-bates-591/",
+   "https://ualrexhibits.org/legacy/?p=1087"
+  ]
+ },
+ {
   "id": "us:due-process",
   "title": "Due process",
   "aliases": [
