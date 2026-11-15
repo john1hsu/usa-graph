@@ -1,3 +1,153 @@
+<https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Abolitionism was a popular Northern cause, led by white reformers on behalf of enslaved people." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Picturing a broadly antislavery North led by white allies hides how unpopular the movement was and erases Black activists who shaped its demands, such as the rejection of colonization." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the abolitionists of the 1830s reject colonization, which many earlier antislavery whites had supported?" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Free Black Americans opposed it, declaring at an 1831 convention that the United States was their home, and the writings of David Walker and James Forten persuaded William Lloyd Garrison that colonization was inherently racist, so the new movement demanded immediate emancipation and Black citizenship instead." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did abolitionist women's work help launch the women's rights movement?" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Women such as the Grimké sisters lectured and petitioned against slavery and faced backlash for speaking in public; when the 1840 antislavery convention in London refused to seat women delegates, Lucretia Mott and Elizabeth Cady Stanton returned determined to fight for women's rights and organized the Seneca Falls Convention in 1848." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did abolitionists help bring about the Thirteenth Amendment?" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Women's Loyal National League, led by Stanton and Susan B. Anthony, gathered nearly half a million signatures on emancipation petitions that Charles Sumner presented to the Senate from February 1864, and Sumner credited the league as the principal force behind the amendment, which the Senate passed in April 1864." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the American Anti-Slavery Society split around 1840?" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Garrisonians held that the Constitution was proslavery and relied on moral suasion, while political abolitionists believed the Constitution could be used against slavery and formed the Liberty Party; the election of Abby Kelley to the society's business committee led Arthur Tappan and other conservatives to walk out." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1835-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The House adopts the gag rule, barring discussion of abolitionist petitions." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1836"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "A mob in Illinois kills the abolitionist editor Elijah Lovejoy." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1837"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1838"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1840"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Douglass publishes his Narrative." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1845"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The Fugitive Slave Act penalizes Northerners who aid freedom seekers." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1850"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1864-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "The Thirteenth Amendment is ratified, abolishing slavery throughout the United States." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1775"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania enacts the first state law for the gradual abolition of slavery." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1780-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1794-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The American Colonization Society is founded to resettle free Black Americans in Africa." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1816"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1827"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "David Walker publishes his Appeal to the Colored Citizens of the World." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1829"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1831"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1833"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Movement> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2000/01/rdf-schema#label> "Abolitionism" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#altLabel> "Abolition movement" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#altLabel> "Abolitionist movement" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#altLabel> "American abolitionism" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#altLabel> "Antislavery movement" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/antebellum-reform-movements> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#definition> "The interracial movement to end slavery in the United States, which grew from Quaker and revolutionary-era antislavery societies and gradual-emancipation laws into the radical demand for immediate emancipation in the 1830s, and which helped bring about the Thirteenth Amendment of 1865." .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abolitionism" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-anti-slavery-society> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-colonization-society> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/david-walker> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-sentiments> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/emancipation-proclamation> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedoms-journal> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-brown> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nat-turners-rebellion> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania-gradual-abolition-act> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/quakers> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-lloyd-garrison> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-loyal-national-league> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/abolitionism.md" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/second-great-awakening> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/liberty-party> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/republican-party> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://schema.org/endDate> "1865-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/abolitionism> <https://schema.org/startDate> "1775"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's." .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Lincoln dashed off the Gettysburg Address on the back of an envelope on the train to Gettysburg." .
@@ -5555,6 +5705,72 @@
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/publisher> "African American Intellectual History Society (Black Perspectives)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://purl.org/dc/terms/title> "Abolitionism and Slave Resistance: An Interview with Manisha Sinha and Sasha Turner" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10> <https://schema.org/url> <https://www.aaihs.org/abolitionism-and-slave-resistance-an-interview-with-manisha-sinha-and-sasha-turner/> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <http://purl.org/dc/terms/title> "Antislavery Impulses (Robert H. Abzug, Modern Intellectual History 13, no. 3, 2016)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11> <https://schema.org/url> <https://cambridge.org/core/journals/modern-intellectual-history/article/antislavery-impulses/C22C77A32EA1436B3E4B5ADF3A676BB1> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <http://purl.org/dc/terms/title> "13.4 Addressing Slavery — U.S. History" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1> <https://schema.org/url> <https://openstax.org/books/us-history/pages/13-4-addressing-slavery> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <http://purl.org/dc/terms/title> "10. Religion and Reform — The American Yawp" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2> <https://schema.org/url> <https://www.americanyawp.com/text/10-religion-and-reform/> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <http://purl.org/dc/terms/publisher> "Library of Congress (exhibition)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <http://purl.org/dc/terms/title> "Abolition — The African-American Mosaic" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3> <https://schema.org/url> <https://loc.gov/exhibits/african/afam005.html> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <http://purl.org/dc/terms/publisher> "Historical Society of Pennsylvania" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <http://purl.org/dc/terms/title> "Pennsylvania Abolition Society Papers (Collection 0490)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4> <https://schema.org/url> <https://www2.hsp.org/collections/manuscripts/p/PAS0490.html> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <http://purl.org/dc/terms/publisher> "National Park Service (Independence National Historical Park)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <http://purl.org/dc/terms/title> "Pennsylvania's Gradual Abolition Act, 1780" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5> <https://schema.org/url> <https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <http://purl.org/dc/terms/publisher> "National Archives (Prologue: Pieces of History)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <http://purl.org/dc/terms/title> "From Ben Franklin to the Civil War: Antislavery Petitions in Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6> <https://schema.org/url> <https://prologue.blogs.archives.gov/2015/02/09/from-ben-franklin-to-the-civil-war-antislavery-petitions-in-congress/> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <http://purl.org/dc/terms/publisher> "U.S. Senate Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <http://purl.org/dc/terms/title> "Women's National Loyal League" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <http://purl.org/dc/terms/title> "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8> <https://schema.org/url> <https://www.archives.gov/milestone-documents/13th-amendment> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <http://purl.org/dc/terms/title> "Freedom's Journal (New York, N.Y.) 1827-1829" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9> <https://schema.org/url> <https://www.loc.gov/item/sn83027094/> .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/publisher> "House Divided Project, Dickinson College (Lincoln's Writings)" .
 <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> <http://purl.org/dc/terms/title> "Great Emancipator" .

@@ -14,6 +14,220 @@
  },
  "@graph": [
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing.",
+   "uso:myth": "Abolitionism was a popular Northern cause, led by white reformers on behalf of enslaved people.",
+   "uso:why": "Picturing a broadly antislavery North led by white allies hides how unpopular the movement was and erases Black activists who shaped its demands, such as the rejection of colonization."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the abolitionists of the 1830s reject colonization, which many earlier antislavery whites had supported?",
+   "uso:answer": "Free Black Americans opposed it, declaring at an 1831 convention that the United States was their home, and the writings of David Walker and James Forten persuaded William Lloyd Garrison that colonization was inherently racist, so the new movement demanded immediate emancipation and Black citizenship instead.",
+   "uso:questionFor": {
+    "@id": "us:abolitionism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did abolitionist women's work help launch the women's rights movement?",
+   "uso:answer": "Women such as the Grimké sisters lectured and petitioned against slavery and faced backlash for speaking in public; when the 1840 antislavery convention in London refused to seat women delegates, Lucretia Mott and Elizabeth Cady Stanton returned determined to fight for women's rights and organized the Seneca Falls Convention in 1848.",
+   "uso:questionFor": {
+    "@id": "us:abolitionism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did abolitionists help bring about the Thirteenth Amendment?",
+   "uso:answer": "The Women's Loyal National League, led by Stanton and Susan B. Anthony, gathered nearly half a million signatures on emancipation petitions that Charles Sumner presented to the Senate from February 1864, and Sumner credited the league as the principal force behind the amendment, which the Senate passed in April 1864.",
+   "uso:questionFor": {
+    "@id": "us:abolitionism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the American Anti-Slavery Society split around 1840?",
+   "uso:answer": "Garrisonians held that the Constitution was proslavery and relied on moral suasion, while political abolitionists believed the Constitution could be used against slavery and formed the Liberty Party; the election of Abby Kelley to the society's business committee led Arthur Tappan and other conservatives to walk out.",
+   "uso:questionFor": {
+    "@id": "us:abolitionism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1775"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1835-10-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House adopts the gag rule, barring discussion of abolitionist petitions.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1836"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A mob in Illinois kills the abolitionist editor Elijah Lovejoy.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1837"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1838"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1840"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Frederick Douglass publishes his Narrative.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1845"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fugitive Slave Act penalizes Northerners who aid freedom seekers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1850"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-02-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-01-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Thirteenth Amendment is ratified, abolishing slavery throughout the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pennsylvania enacts the first state law for the gradual abolition of slavery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1780-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-02-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1794-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The American Colonization Society is founded to resettle free Black Americans in Africa.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1816"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1827"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "David Walker publishes his Appeal to the Colored Citizens of the World.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1829"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1831"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1833"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/abraham-lincoln/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Lincoln worked on the speech in the weeks before November 19, 1863; a Library of Congress copy begins in ink on Executive Mansion stationery written in Washington, and the drafts are in steady handwriting unlike a moving train's.",
@@ -7670,6 +7884,160 @@
     "@type": "xsd:gYear",
     "@value": "1860"
    }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "13.4 Addressing Slavery — U.S. History",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/13-4-addressing-slavery"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "African American Intellectual History Society (Black Perspectives)",
+   "dcterms:title": "Abolitionism and Slave Resistance: An Interview with Manisha Sinha and Sasha Turner",
+   "schema:url": {
+    "@id": "https://www.aaihs.org/abolitionism-and-slave-resistance-an-interview-with-manisha-sinha-and-sasha-turner/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "Antislavery Impulses (Robert H. Abzug, Modern Intellectual History 13, no. 3, 2016)",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/journals/modern-intellectual-history/article/antislavery-impulses/C22C77A32EA1436B3E4B5ADF3A676BB1"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press)",
+   "dcterms:title": "10. Religion and Reform — The American Yawp",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/10-religion-and-reform/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress (exhibition)",
+   "dcterms:title": "Abolition — The African-American Mosaic",
+   "schema:url": {
+    "@id": "https://loc.gov/exhibits/african/afam005.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Historical Society of Pennsylvania",
+   "dcterms:title": "Pennsylvania Abolition Society Papers (Collection 0490)",
+   "schema:url": {
+    "@id": "https://www2.hsp.org/collections/manuscripts/p/PAS0490.html"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service (Independence National Historical Park)",
+   "dcterms:title": "Pennsylvania's Gradual Abolition Act, 1780",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Prologue: Pieces of History)",
+   "dcterms:title": "From Ben Franklin to the Civil War: Antislavery Petitions in Congress",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2015/02/09/from-ben-franklin-to-the-civil-war-antislavery-petitions-in-congress/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Senate Historical Office",
+   "dcterms:title": "Women's National Loyal League",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/13th-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Freedom's Journal (New York, N.Y.) 1827-1829",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/sn83027094/"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s1",
@@ -17455,6 +17823,219 @@
     "@type": "xsd:gYear",
     "@value": "1916"
    }
+  },
+  {
+   "@id": "us:abolitionism",
+   "@type": "uso:Movement",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/abolitionism/s9"
+    }
+   ],
+   "rdfs:label": "Abolitionism",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1865-12-06"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1775"
+   },
+   "skos:altLabel": [
+    "Abolition movement",
+    "Abolitionist movement",
+    "American abolitionism",
+    "Antislavery movement"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:african-american-history"
+    },
+    {
+     "@id": "us:antebellum-reform-movements"
+    }
+   ],
+   "skos:definition": "The interracial movement to end slavery in the United States, which grew from Quaker and revolutionary-era antislavery societies and gradual-emancipation laws into the radical demand for immediate emancipation in the 1830s, and which helped bring about the Thirteenth Amendment of 1865.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Abolitionism",
+   "skos:related": [
+    {
+     "@id": "us:american-anti-slavery-society"
+    },
+    {
+     "@id": "us:american-colonization-society"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:david-walker"
+    },
+    {
+     "@id": "us:declaration-of-sentiments"
+    },
+    {
+     "@id": "us:emancipation-proclamation"
+    },
+    {
+     "@id": "us:frederick-douglass"
+    },
+    {
+     "@id": "us:freedoms-journal"
+    },
+    {
+     "@id": "us:fugitive-slave-act-of-1850"
+    },
+    {
+     "@id": "us:harriet-tubman"
+    },
+    {
+     "@id": "us:john-brown"
+    },
+    {
+     "@id": "us:nat-turners-rebellion"
+    },
+    {
+     "@id": "us:pennsylvania-gradual-abolition-act"
+    },
+    {
+     "@id": "us:quakers"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:underground-railroad"
+    },
+    {
+     "@id": "us:william-lloyd-garrison"
+    },
+    {
+     "@id": "us:womens-loyal-national-league"
+    }
+   ],
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/civil-war-and-reconstruction/abolitionism.md",
+   "uso:influencedBy": {
+    "@id": "us:second-great-awakening"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:liberty-party"
+    },
+    {
+     "@id": "us:republican-party"
+    },
+    {
+     "@id": "us:thirteenth-amendment"
+    },
+    {
+     "@id": "us:womens-suffrage-movement"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/abolitionism/timeline/9"
+    }
+   ]
   },
   {
    "@id": "us:abraham-lincoln",

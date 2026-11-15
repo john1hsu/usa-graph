@@ -29,6 +29,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:united-states-constitution` | 6 | Census and apportionment, Slavery in the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
+| `us:abolitionism` | 4 | Thirteenth Amendment, liberty-party, republican-party, womens-suffrage-movement |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | arizona-v-california, california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
-| `us:wright-brothers-first-flight` | 2 | Huffman Prairie Flying Field, wright-brothers-national-memorial |
 
-…and 23 more.
+…and 24 more.
 
 ## Happenings by era
 
@@ -77,6 +77,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 | node | status | challenger |
 |---|---|---|
+| `us:abolitionism` | interpretive |  |
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |

@@ -1,5 +1,254 @@
 [
  {
+  "id": "us:abolitionism",
+  "title": "Abolitionism",
+  "aliases": [
+   "Abolitionist movement",
+   "Abolition movement",
+   "American abolitionism",
+   "Antislavery movement"
+  ],
+  "type": "Movement",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/civil-war-and-reconstruction/abolitionism.md",
+  "created": "2026-11-15",
+  "summary": "The interracial movement to end slavery in the United States, which grew from Quaker and revolutionary-era antislavery societies and gradual-emancipation laws into the radical demand for immediate emancipation in the 1830s, and which helped bring about the Thirteenth Amendment of 1865.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:antebellum-reform-movements"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fugitive-slave-act-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania-gradual-abolition-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:quakers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-lloyd-garrison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-anti-slavery-society"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-colonization-society"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:david-walker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:freedoms-journal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nat-turners-rebellion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-brown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:emancipation-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-sentiments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-loyal-national-league"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:thirteenth-amendment",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:womens-suffrage-movement",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:liberty-party",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:second-great-awakening",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:republican-party",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1775",
+  "end": "1865-12-06",
+  "review": [
+   {
+    "question": "Why did the abolitionists of the 1830s reject colonization, which many earlier antislavery whites had supported?",
+    "answer": "Free Black Americans opposed it, declaring at an 1831 convention that the United States was their home, and the writings of David Walker and James Forten persuaded William Lloyd Garrison that colonization was inherently racist, so the new movement demanded immediate emancipation and Black citizenship instead."
+   },
+   {
+    "question": "How did abolitionist women's work help launch the women's rights movement?",
+    "answer": "Women such as the Grimké sisters lectured and petitioned against slavery and faced backlash for speaking in public; when the 1840 antislavery convention in London refused to seat women delegates, Lucretia Mott and Elizabeth Cady Stanton returned determined to fight for women's rights and organized the Seneca Falls Convention in 1848."
+   },
+   {
+    "question": "How did abolitionists help bring about the Thirteenth Amendment?",
+    "answer": "The Women's Loyal National League, led by Stanton and Susan B. Anthony, gathered nearly half a million signatures on emancipation petitions that Charles Sumner presented to the Senate from February 1864, and Sumner credited the league as the principal force behind the amendment, which the Senate passed in April 1864."
+   },
+   {
+    "question": "Why did the American Anti-Slavery Society split around 1840?",
+    "answer": "Garrisonians held that the Constitution was proslavery and relied on moral suasion, while political abolitionists believed the Constitution could be used against slavery and formed the Liberty Party; the election of Abby Kelley to the society's business committee led Arthur Tappan and other conservatives to walk out."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1775",
+    "event": "Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society."
+   },
+   {
+    "date": "1780-03-01",
+    "event": "Pennsylvania enacts the first state law for the gradual abolition of slavery."
+   },
+   {
+    "date": "1790-02-03",
+    "event": "Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it."
+   },
+   {
+    "date": "1794-01-01",
+    "event": "Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade."
+   },
+   {
+    "date": "1816",
+    "event": "The American Colonization Society is founded to resettle free Black Americans in Africa."
+   },
+   {
+    "date": "1827",
+    "event": "Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York."
+   },
+   {
+    "date": "1829",
+    "event": "David Walker publishes his Appeal to the Colored Citizens of the World."
+   },
+   {
+    "date": "1831",
+    "event": "William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization."
+   },
+   {
+    "date": "1833",
+    "event": "Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation."
+   },
+   {
+    "date": "1835-10-21",
+    "event": "A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life."
+   },
+   {
+    "date": "1836",
+    "event": "The House adopts the gag rule, barring discussion of abolitionist petitions."
+   },
+   {
+    "date": "1837",
+    "event": "A mob in Illinois kills the abolitionist editor Elijah Lovejoy."
+   },
+   {
+    "date": "1838",
+    "event": "A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women."
+   },
+   {
+    "date": "1840",
+    "event": "The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president."
+   },
+   {
+    "date": "1845",
+    "event": "Frederick Douglass publishes his Narrative."
+   },
+   {
+    "date": "1850",
+    "event": "The Fugitive Slave Act penalizes Northerners who aid freedom seekers."
+   },
+   {
+    "date": "1864-02-09",
+    "event": "Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition."
+   },
+   {
+    "date": "1865-01-31",
+    "event": "The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864."
+   },
+   {
+    "date": "1865-12-06",
+    "event": "The Thirteenth Amendment is ratified, abolishing slavery throughout the United States."
+   }
+  ],
+  "misconception": {
+   "myth": "Abolitionism was a popular Northern cause, led by white reformers on behalf of enslaved people.",
+   "fact": "Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing.",
+   "why": "Picturing a broadly antislavery North led by white allies hides how unpopular the movement was and erases Black activists who shaped its demands, such as the rejection of colonization."
+  },
+  "source_urls": [
+   "https://openstax.org/books/us-history/pages/13-4-addressing-slavery",
+   "https://www.americanyawp.com/text/10-religion-and-reform/",
+   "https://loc.gov/exhibits/african/afam005.html",
+   "https://www2.hsp.org/collections/manuscripts/p/PAS0490.html",
+   "https://home.nps.gov/articles/000/inde-pa-gradual-abolition-act-1780.htm",
+   "https://prologue.blogs.archives.gov/2015/02/09/from-ben-franklin-to-the-civil-war-antislavery-petitions-in-congress/",
+   "https://www.senate.gov/artandhistory/history/common/civil_war/WomensNationalLoyalLeague.htm",
+   "https://www.archives.gov/milestone-documents/13th-amendment",
+   "https://www.loc.gov/item/sn83027094/",
+   "https://www.aaihs.org/abolitionism-and-slave-resistance-an-interview-with-manisha-sinha-and-sasha-turner/",
+   "https://cambridge.org/core/journals/modern-intellectual-history/article/antislavery-impulses/C22C77A32EA1436B3E4B5ADF3A676BB1"
+  ]
+ },
+ {
   "id": "us:abraham-lincoln",
   "title": "Abraham Lincoln",
   "aliases": [

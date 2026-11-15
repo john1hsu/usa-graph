@@ -4,6 +4,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## civil-war-and-reconstruction
 
+### [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| Abolitionism was a popular Northern cause, led by white reformers on behalf of enslaved people. | Abolitionists were a small minority whom most white Northerners disliked, and mobs attacked them in Boston, Philadelphia and Illinois; Black Americans, free and formerly enslaved, were central from the start, from the 1831 free Black convention and David Walker's Appeal to Frederick Douglass's lectures and writing. |
+
+**Why it matters:** Picturing a broadly antislavery North led by white allies hides how unpopular the movement was and erases Black activists who shaped its demands, such as the rejection of colonization.
+
+- **Q:** Why did the abolitionists of the 1830s reject colonization, which many earlier antislavery whites had supported?
+  **A:** Free Black Americans opposed it, declaring at an 1831 convention that the United States was their home, and the writings of David Walker and James Forten persuaded William Lloyd Garrison that colonization was inherently racist, so the new movement demanded immediate emancipation and Black citizenship instead.
+- **Q:** How did abolitionist women's work help launch the women's rights movement?
+  **A:** Women such as the Grimké sisters lectured and petitioned against slavery and faced backlash for speaking in public; when the 1840 antislavery convention in London refused to seat women delegates, Lucretia Mott and Elizabeth Cady Stanton returned determined to fight for women's rights and organized the Seneca Falls Convention in 1848.
+- **Q:** How did abolitionists help bring about the Thirteenth Amendment?
+  **A:** The Women's Loyal National League, led by Stanton and Susan B. Anthony, gathered nearly half a million signatures on emancipation petitions that Charles Sumner presented to the Senate from February 1864, and Sumner credited the league as the principal force behind the amendment, which the Senate passed in April 1864.
+- **Q:** Why did the American Anti-Slavery Society split around 1840?
+  **A:** Garrisonians held that the Constitution was proslavery and relied on moral suasion, while political abolitionists believed the Constitution could be used against slavery and formed the Liberty Party; the election of Abby Kelley to the society's business committee led Arthur Tappan and other conservatives to walk out.
+
 ### [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) — Conflict
 
 | Myth | Fact |

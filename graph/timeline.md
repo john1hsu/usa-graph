@@ -44,6 +44,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1773 | She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1775 – 1865-12-06 | **[Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md)** (Movement) |
+| 1775 | Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1775-04-19 – 1783-09-03 | **[American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md)** (Conflict) |
 | 1775-04-19 | British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1775-04-20 | New England militia begin the siege of British-held Boston. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -91,6 +93,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1780-03-01 | Pennsylvania enacts the first state law for the gradual abolition of slavery. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -152,6 +155,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
+| 1790-02-03 | Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-08-02 | U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -163,6 +167,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1792-04-14 | Washington signs a replacement act giving the House 105 seats under Jefferson's method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -201,6 +206,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1816 | The American Colonization Society is founded to resettle free Black Americans in Africa. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -226,27 +232,35 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1827 | Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1827-07-04 | Slavery ends in New York under its 1817 law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1828 | Gold is found on Native lands in Georgia. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1831 | William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1836 | The House adopts the gag rule, barring discussion of abolitionist petitions. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1837 | A mob in Illinois kills the abolitionist editor Elijah Lovejoy. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1838 | Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears. — [United States](../articles/states-and-territories/united-states.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -255,9 +269,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1839 | An English traveler describes the music of enslaved people on a Georgia rice plantation, an early account of music that would later evolve into the blues. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1839-03 | The last Cherokee detachments reach Indian Territory, in present-day Oklahoma. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1840 | The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -268,6 +284,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1850 | Congress passes the Fugitive Slave Act; Tubman makes her first rescue, of her niece Kessiah and Kessiah's two children. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1850 | The Fugitive Slave Act penalizes Northerners who aid freedom seekers. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -324,6 +341,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-08-10 | Meets President Lincoln to protest unequal pay and treatment of Black soldiers. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1863-08-26 | Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1864-02-09 | Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -331,6 +349,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865 | The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -341,6 +360,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12-06 | Georgia becomes the 27th state to ratify, completing the three-fourths needed. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery except as punishment for crime. — [United States](../articles/states-and-territories/united-states.md) |
 | 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery nationwide. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery throughout the United States. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
