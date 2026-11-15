@@ -720,6 +720,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-03-29 | The Court upholds a Washington State minimum-wage law for women in West Coast Hotel v. Parrish. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1937-07-07 | Fighting at the Marco Polo Bridge near Beijing opens full-scale war between Japan and China, turning U.S. opinion toward China. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1937-07-22 | Roosevelt's plan to enlarge the Court is defeated in the Senate. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -738,22 +739,30 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1940-07-01 | Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1940-09-27 | Japan signs the Tripartite Pact with Germany and Italy. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1941-02-19 | Dry excavation begins in the Gatun sector. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1941-07 | After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-11-15 | Congress adopts the method of equal proportions for all future apportionments. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1941-11-24 | In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states. — [Okies](../articles/society-and-people/okies.md) |
+| 1941-12-07 | **[Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md)** (Conflict) |
+| 1941-12-07 | About 7:55 a.m. the first wave of 183 Japanese aircraft strikes Oʻahu; a second wave of 170 arrives about 8:50 a.m.; the attack lasts about 75 minutes. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1941-12-07 | On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1941-12-08 | Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1941-12-11 | Germany declares war on the United States. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1942-02-19 | Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-21 | Public Law 503 makes violating an exclusion order a federal crime. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-23 | The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-05-23 | Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-07 | The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
@@ -761,6 +770,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1945-11-15 | A Joint Congressional Committee opens the eighth and most thorough investigation of the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -819,6 +829,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1962 | The USS Arizona Memorial, built over the sunken battleship, is officially dedicated. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -881,6 +892,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |

@@ -9,7 +9,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.94 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
 | 2.92 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.69 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
-| 2.65 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
+| 2.46 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.35 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.30 | `us:american-revolutionary-war` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:thirteen-colonies`, `us:treaty-of-paris-1783` |
 | 2.21 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |

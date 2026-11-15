@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:american-revolutionary-war` | 3 | African Americans, haudenosaunee, treaty-of-paris-1783 |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
+| `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:morrill-land-grant-college-act` | 2 | Native Americans, land-grant-universities |
 | `us:panama-canal` | 2 | smithsonian-tropical-research-institute, torrijos-carter-treaties |
 | `us:roosevelt-corollary` | 2 | dominican-customs-receivership, united-states-occupation-of-haiti |
-| `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 
-…and 31 more.
+…and 32 more.
 
 ## Happenings by era
 
@@ -82,6 +82,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |
+| `us:attack-on-pearl-harbor` | interpretive |  |
 | `us:blues` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
@@ -107,17 +108,14 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:slavery-in-the-united-states` | interpretive |  |
 | `us:theodore-roosevelt` | interpretive |  |
 | `us:thomas-jefferson` | interpretive |  |
-| `us:united-states-constitution` | interpretive |  |
 
-…and 3 more.
+…and 4 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:hawaii` | uso:State |
+_No results._
 
 ## Orphan articles (gap)
 

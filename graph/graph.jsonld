@@ -992,6 +992,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "U.S. codebreakers were reading Japan's diplomatic messages (MAGIC), which tracked Tokyo's policy but did not reveal military plans; those travelled in Japanese Navy codes that largely resisted American cryptologists. Eight wartime and postwar investigations divided blame among the Hawaiʻi commanders and officials in Washington, but none established foreknowledge.",
+   "uso:myth": "President Roosevelt knew in advance that Japan would strike Pearl Harbor and let it happen to bring the United States into the war.",
+   "uso:why": "Responsibility was never settled to everyone's satisfaction, and for decades revisionist accounts defending the local commanders claimed that intelligence had been suppressed, keeping the story alive."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Japan decide to attack the U.S. fleet at Pearl Harbor?",
+   "uso:answer": "After Japan moved into French Indochina in 1941, the United States and Britain cut off its oil and Washington froze its assets. Japan's main aim was the oil of the Dutch East Indies, which meant fighting Britain and the United States; planners struck the Pacific Fleet to keep it from interfering while Japan seized Southeast Asia, hoping for a quick victory because they doubted they could win a long war.",
+   "uso:questionFor": {
+    "@id": "us:attack-on-pearl-harbor"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the attack bring the United States into the war in Europe as well as the Pacific?",
+   "uso:answer": "Congress declared war only on Japan on December 8, 1941, but Japan's ally Germany then declared war on the United States on December 11, putting the country at war in both Europe and Asia.",
+   "uso:questionFor": {
+    "@id": "us:attack-on-pearl-harbor"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the attack fall short of crippling the United States in the long run?",
+   "uso:answer": "All three Pacific Fleet aircraft carriers were at sea, fuel storage and repair facilities survived, and many sunk or damaged ships were raised, repaired and returned to service; six months later U.S. carriers sank four Japanese carriers at Midway.",
+   "uso:questionFor": {
+    "@id": "us:attack-on-pearl-harbor"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the attack affect Japanese Americans?",
+   "uso:answer": "The FBI immediately arrested people on prewar watch lists, and on February 19, 1942, Roosevelt signed Executive Order 9066, which led to the mass removal and incarceration of Japanese Americans on the West Coast, about two-thirds of them U.S. citizens by birth.",
+   "uso:questionFor": {
+    "@id": "us:attack-on-pearl-harbor"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fighting at the Marco Polo Bridge near Beijing opens full-scale war between Japan and China, turning U.S. opinion toward China.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1937-07-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The USS Arizona Memorial, built over the sunken battleship, is officially dedicated.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1962"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress designates December 7 as National Pearl Harbor Remembrance Day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1994-08-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Japan signs the Tripartite Pact with Germany and Italy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-09-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1941-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 7:55 a.m. the first wave of 183 Japanese aircraft strikes Oʻahu; a second wave of 170 arrives about 8:50 a.m.; the attack lasts about 75 minutes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Germany declares war on the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-05-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Joint Congressional Committee opens the eighth and most thorough investigation of the attack.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-11-15"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers.",
@@ -9395,6 +9537,160 @@
     "@id": "https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html"
    },
    "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian (Milestones)",
+   "dcterms:title": "Japan, China, the United States and the Road to Pearl Harbor, 1937–41",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1937-1945/pearl-harbor"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Naval History and Heritage Command",
+   "dcterms:title": "Cook Third Class Doris \"Dorie\" Miller",
+   "schema:url": {
+    "@id": "https://www.history.navy.mil/browse-by-topic/diversity/african-americans/miller.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Pearl Harbor National Memorial",
+   "dcterms:title": "National Pearl Harbor Remembrance Day",
+   "schema:url": {
+    "@id": "https://www.nps.gov/perl/learn/historyculture/national-pearl-harbor-remembrance-day.htm?ana=e_tno"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Joint Address to Congress Leading to a Declaration of War Against Japan (1941)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The National WWII Museum",
+   "dcterms:title": "Pearl Harbor Fact Sheet",
+   "schema:url": {
+    "@id": "https://www.nationalww2museum.org/sites/default/files/2026-10/Pearl%20Harbor%20Fact%20Sheet.pdf"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Pearl Harbor National Memorial",
+   "dcterms:title": "Civilian Casualties",
+   "schema:url": {
+    "@id": "https://www.nps.gov/perl/learn/historyculture/civilian-casualties.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Naval History and Heritage Command",
+   "dcterms:title": "USS Arizona (BB-39) Wreck Site - 1941",
+   "schema:url": {
+    "@id": "https://history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-arizona-bb-39.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Origins: Current Events in Historical Perspective (Ohio State University and Miami University history departments)",
+   "dcterms:title": "Pearl Harbor",
+   "schema:url": {
+    "@id": "https://origins.osu.edu/milestones/december-2016-pearl-harbor"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Security Agency / Central Security Service",
+   "dcterms:title": "Doing It Until We Got It Right: A Short History of the Pearl Harbor Investigations",
+   "schema:url": {
+    "@id": "https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3609901/doing-it-until-we-got-it-right-a-short-history-of-the-pearl-harbor-investigatio/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Pearl Harbor National Memorial",
+   "dcterms:title": "USS Arizona",
+   "schema:url": {
+    "@id": "https://www.nps.gov/perl/learn/historyculture/uss-arizona.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Minidoka National Historic Site",
+   "dcterms:title": "Pearl Harbor and Executive Order 9066",
+   "schema:url": {
+    "@id": "https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/betsy-ross-flag-myth/s1",
@@ -21204,6 +21500,175 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:attack-on-pearl-harbor",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9"
+    }
+   ],
+   "rdfs:label": "Attack on Pearl Harbor",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   },
+   "skos:altLabel": [
+    "Battle of Pearl Harbor",
+    "Bombing of Pearl Harbor",
+    "December 7 1941 attack",
+    "Pearl Harbor attack"
+   ],
+   "skos:broader": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "skos:definition": "The Japanese carrier-air and midget-submarine attack on the U.S. Pacific Fleet and military airfields on Oʻahu, Hawaiʻi, on the morning of Sunday, December 7, 1941, which killed 2,403 Americans and brought the United States into World War II.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "Attack on Pearl Harbor",
+   "skos:related": [
+    {
+     "@id": "us:battle-of-midway"
+    },
+    {
+     "@id": "us:doris-miller"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:hawaii"
+    },
+    {
+     "@id": "us:honolulu"
+    },
+    {
+     "@id": "us:husband-e-kimmel"
+    },
+    {
+     "@id": "us:isoroku-yamamoto"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:pearl-harbor-advance-knowledge-myth"
+    },
+    {
+     "@id": "us:pearl-harbor-national-memorial"
+    },
+    {
+     "@id": "us:tripartite-pact"
+    },
+    {
+     "@id": "us:uss-arizona-memorial"
+    }
+   ],
+   "uso:domain": "depression-and-world-war",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/depression-and-world-war/attack-on-pearl-harbor.md",
+   "uso:ledBy": {
+    "@id": "us:chuichi-nagumo"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:day-of-infamy-speech"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:pearl-harbor-investigations"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:hawaii"
+   },
+   "uso:partOf": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "uso:requires": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9"
     }
    ]
   },

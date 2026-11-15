@@ -387,6 +387,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## depression-and-world-war
 
+### [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| President Roosevelt knew in advance that Japan would strike Pearl Harbor and let it happen to bring the United States into the war. | U.S. codebreakers were reading Japan's diplomatic messages (MAGIC), which tracked Tokyo's policy but did not reveal military plans; those travelled in Japanese Navy codes that largely resisted American cryptologists. Eight wartime and postwar investigations divided blame among the Hawaiʻi commanders and officials in Washington, but none established foreknowledge. |
+
+**Why it matters:** Responsibility was never settled to everyone's satisfaction, and for decades revisionist accounts defending the local commanders claimed that intelligence had been suppressed, keeping the story alive.
+
+- **Q:** Why did Japan decide to attack the U.S. fleet at Pearl Harbor?
+  **A:** After Japan moved into French Indochina in 1941, the United States and Britain cut off its oil and Washington froze its assets. Japan's main aim was the oil of the Dutch East Indies, which meant fighting Britain and the United States; planners struck the Pacific Fleet to keep it from interfering while Japan seized Southeast Asia, hoping for a quick victory because they doubted they could win a long war.
+- **Q:** How did the attack bring the United States into the war in Europe as well as the Pacific?
+  **A:** Congress declared war only on Japan on December 8, 1941, but Japan's ally Germany then declared war on the United States on December 11, putting the country at war in both Europe and Asia.
+- **Q:** Why did the attack fall short of crippling the United States in the long run?
+  **A:** All three Pacific Fleet aircraft carriers were at sea, fuel storage and repair facilities survived, and many sunk or damaged ships were raised, repaired and returned to service; six months later U.S. carriers sank four Japanese carriers at Midway.
+- **Q:** How did the attack affect Japanese Americans?
+  **A:** The FBI immediately arrested people on prewar watch lists, and on February 19, 1942, Roosevelt signed Executive Order 9066, which led to the mass removal and incarceration of Japanese Americans on the West Coast, about two-thirds of them U.S. citizens by birth.
+
 ### [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) — Event
 
 | Myth | Fact |

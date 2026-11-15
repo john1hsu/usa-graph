@@ -1174,6 +1174,201 @@
   ]
  },
  {
+  "id": "us:attack-on-pearl-harbor",
+  "title": "Attack on Pearl Harbor",
+  "aliases": [
+   "Pearl Harbor attack",
+   "Bombing of Pearl Harbor",
+   "December 7 1941 attack",
+   "Battle of Pearl Harbor"
+  ],
+  "type": "Conflict",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/depression-and-world-war/attack-on-pearl-harbor.md",
+  "created": "2026-11-15",
+  "summary": "The Japanese carrier-air and midget-submarine attack on the U.S. Pacific Fleet and military airfields on Oʻahu, Hawaiʻi, on the morning of Sunday, December 7, 1941, which killed 2,403 Americans and brought the United States into World War II.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:uss-arizona-memorial"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pearl-harbor-national-memorial"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:doris-miller"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:husband-e-kimmel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:isoroku-yamamoto"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tripartite-pact"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-midway"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:honolulu"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pearl-harbor-advance-knowledge-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:hawaii",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:world-war-ii-and-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:chuichi-nagumo",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:day-of-infamy-speech",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:japanese-american-incarceration",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:pearl-harbor-investigations",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1941-12-07",
+  "end": "1941-12-07",
+  "review": [
+   {
+    "question": "Why did Japan decide to attack the U.S. fleet at Pearl Harbor?",
+    "answer": "After Japan moved into French Indochina in 1941, the United States and Britain cut off its oil and Washington froze its assets. Japan's main aim was the oil of the Dutch East Indies, which meant fighting Britain and the United States; planners struck the Pacific Fleet to keep it from interfering while Japan seized Southeast Asia, hoping for a quick victory because they doubted they could win a long war."
+   },
+   {
+    "question": "How did the attack bring the United States into the war in Europe as well as the Pacific?",
+    "answer": "Congress declared war only on Japan on December 8, 1941, but Japan's ally Germany then declared war on the United States on December 11, putting the country at war in both Europe and Asia."
+   },
+   {
+    "question": "Why did the attack fall short of crippling the United States in the long run?",
+    "answer": "All three Pacific Fleet aircraft carriers were at sea, fuel storage and repair facilities survived, and many sunk or damaged ships were raised, repaired and returned to service; six months later U.S. carriers sank four Japanese carriers at Midway."
+   },
+   {
+    "question": "How did the attack affect Japanese Americans?",
+    "answer": "The FBI immediately arrested people on prewar watch lists, and on February 19, 1942, Roosevelt signed Executive Order 9066, which led to the mass removal and incarceration of Japanese Americans on the West Coast, about two-thirds of them U.S. citizens by birth."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1937-07-07",
+    "event": "Fighting at the Marco Polo Bridge near Beijing opens full-scale war between Japan and China, turning U.S. opinion toward China."
+   },
+   {
+    "date": "1940-09-27",
+    "event": "Japan signs the Tripartite Pact with Germany and Italy."
+   },
+   {
+    "date": "1941-07",
+    "event": "After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets."
+   },
+   {
+    "date": "1941-12-07",
+    "event": "About 7:55 a.m. the first wave of 183 Japanese aircraft strikes Oʻahu; a second wave of 170 arrives about 8:50 a.m.; the attack lasts about 75 minutes."
+   },
+   {
+    "date": "1941-12-08",
+    "event": "Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m."
+   },
+   {
+    "date": "1941-12-11",
+    "event": "Germany declares war on the United States."
+   },
+   {
+    "date": "1942-02-19",
+    "event": "Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast."
+   },
+   {
+    "date": "1942-05-27",
+    "event": "Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack."
+   },
+   {
+    "date": "1945-11-15",
+    "event": "A Joint Congressional Committee opens the eighth and most thorough investigation of the attack."
+   },
+   {
+    "date": "1962",
+    "event": "The USS Arizona Memorial, built over the sunken battleship, is officially dedicated."
+   },
+   {
+    "date": "1994-08-23",
+    "event": "Congress designates December 7 as National Pearl Harbor Remembrance Day."
+   }
+  ],
+  "misconception": {
+   "myth": "President Roosevelt knew in advance that Japan would strike Pearl Harbor and let it happen to bring the United States into the war.",
+   "fact": "U.S. codebreakers were reading Japan's diplomatic messages (MAGIC), which tracked Tokyo's policy but did not reveal military plans; those travelled in Japanese Navy codes that largely resisted American cryptologists. Eight wartime and postwar investigations divided blame among the Hawaiʻi commanders and officials in Washington, but none established foreknowledge.",
+   "why": "Responsibility was never settled to everyone's satisfaction, and for decades revisionist accounts defending the local commanders claimed that intelligence had been suppressed, keeping the story alive."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1937-1945/pearl-harbor",
+   "https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan",
+   "https://www.nationalww2museum.org/sites/default/files/2026-10/Pearl%20Harbor%20Fact%20Sheet.pdf",
+   "https://www.nps.gov/perl/learn/historyculture/civilian-casualties.htm",
+   "https://history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-arizona-bb-39.html",
+   "https://origins.osu.edu/milestones/december-2016-pearl-harbor",
+   "https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3609901/doing-it-until-we-got-it-right-a-short-history-of-the-pearl-harbor-investigatio/",
+   "https://www.nps.gov/perl/learn/historyculture/uss-arizona.htm",
+   "https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm",
+   "https://www.history.navy.mil/browse-by-topic/diversity/african-americans/miller.html",
+   "https://www.nps.gov/perl/learn/historyculture/national-pearl-harbor-remembrance-day.htm?ana=e_tno"
+  ]
+ },
+ {
   "id": "us:betsy-ross-flag-myth",
   "title": "Betsy Ross flag myth",
   "aliases": [

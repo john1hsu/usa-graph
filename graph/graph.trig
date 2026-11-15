@@ -277,6 +277,20 @@
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s6> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s7> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/voting-rights-act-of-1965/s8> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/attack-on-pearl-harbor.md" .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> .
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/dust-bowl.md" .
@@ -4763,6 +4777,187 @@
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/8> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965/timeline/9> .
   <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> <https://schema.org/startDate> "1965-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor#graph> {
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "U.S. codebreakers were reading Japan's diplomatic messages (MAGIC), which tracked Tokyo's policy but did not reveal military plans; those travelled in Japanese Navy codes that largely resisted American cryptologists. Eight wartime and postwar investigations divided blame among the Hawaiʻi commanders and officials in Washington, but none established foreknowledge." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "President Roosevelt knew in advance that Japan would strike Pearl Harbor and let it happen to bring the United States into the war." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Responsibility was never settled to everyone's satisfaction, and for decades revisionist accounts defending the local commanders claimed that intelligence had been suppressed, keeping the story alive." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Japan decide to attack the U.S. fleet at Pearl Harbor?" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Japan moved into French Indochina in 1941, the United States and Britain cut off its oil and Washington froze its assets. Japan's main aim was the oil of the Dutch East Indies, which meant fighting Britain and the United States; planners struck the Pacific Fleet to keep it from interfering while Japan seized Southeast Asia, hoping for a quick victory because they doubted they could win a long war." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the attack bring the United States into the war in Europe as well as the Pacific?" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Congress declared war only on Japan on December 8, 1941, but Japan's ally Germany then declared war on the United States on December 11, putting the country at war in both Europe and Asia." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the attack fall short of crippling the United States in the long run?" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "All three Pacific Fleet aircraft carriers were at sea, fuel storage and repair facilities survived, and many sunk or damaged ships were raised, repaired and returned to service; six months later U.S. carriers sank four Japanese carriers at Midway." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the attack affect Japanese Americans?" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The FBI immediately arrested people on prewar watch lists, and on February 19, 1942, Roosevelt signed Executive Order 9066, which led to the mass removal and incarceration of Japanese Americans on the West Coast, about two-thirds of them U.S. citizens by birth." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The USS Arizona Memorial, built over the sunken battleship, is officially dedicated." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1962"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress designates December 7 as National Pearl Harbor Remembrance Day." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1994-08-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Fighting at the Marco Polo Bridge near Beijing opens full-scale war between Japan and China, turning U.S. opinion toward China." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Japan signs the Tripartite Pact with Germany and Italy." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "About 7:55 a.m. the first wave of 183 Japanese aircraft strikes Oʻahu; a second wave of 170 arrives about 8:50 a.m.; the attack lasts about 75 minutes." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Germany declares war on the United States." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-05-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A Joint Congressional Committee opens the eighth and most thorough investigation of the attack." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2000/01/rdf-schema#label> "Attack on Pearl Harbor" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#altLabel> "Battle of Pearl Harbor" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#altLabel> "Bombing of Pearl Harbor" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#altLabel> "December 7 1941 attack" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#altLabel> "Pearl Harbor attack" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#definition> "The Japanese carrier-air and midget-submarine attack on the U.S. Pacific Fleet and military airfields on Oʻahu, Hawaiʻi, on the morning of Sunday, December 7, 1941, which killed 2,403 Americans and brought the United States into World War II." .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attack on Pearl Harbor" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-midway> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/doris-miller> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/honolulu> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/husband-e-kimmel> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/isoroku-yamamoto> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pearl-harbor-advance-knowledge-myth> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pearl-harbor-national-memorial> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tripartite-pact> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/uss-arizona-memorial> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/attack-on-pearl-harbor.md" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/chuichi-nagumo> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/day-of-infamy-speech> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/pearl-harbor-investigations> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://schema.org/endDate> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <https://schema.org/startDate> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <http://purl.org/dc/terms/publisher> "Naval History and Heritage Command" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <http://purl.org/dc/terms/title> "Cook Third Class Doris \"Dorie\" Miller" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s10> <https://schema.org/url> <https://www.history.navy.mil/browse-by-topic/diversity/african-americans/miller.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <http://purl.org/dc/terms/publisher> "National Park Service, Pearl Harbor National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <http://purl.org/dc/terms/title> "National Pearl Harbor Remembrance Day" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s11> <https://schema.org/url> <https://www.nps.gov/perl/learn/historyculture/national-pearl-harbor-remembrance-day.htm?ana=e_tno> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian (Milestones)" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <http://purl.org/dc/terms/title> "Japan, China, the United States and the Road to Pearl Harbor, 1937–41" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s1> <https://schema.org/url> <https://history.state.gov/milestones/1937-1945/pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <http://purl.org/dc/terms/title> "Joint Address to Congress Leading to a Declaration of War Against Japan (1941)" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s2> <https://schema.org/url> <https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <http://purl.org/dc/terms/publisher> "The National WWII Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <http://purl.org/dc/terms/title> "Pearl Harbor Fact Sheet" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s3> <https://schema.org/url> <https://www.nationalww2museum.org/sites/default/files/2026-10/Pearl%20Harbor%20Fact%20Sheet.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Pearl Harbor National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <http://purl.org/dc/terms/title> "Civilian Casualties" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s4> <https://schema.org/url> <https://www.nps.gov/perl/learn/historyculture/civilian-casualties.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <http://purl.org/dc/terms/publisher> "Naval History and Heritage Command" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <http://purl.org/dc/terms/title> "USS Arizona (BB-39) Wreck Site - 1941" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s5> <https://schema.org/url> <https://history.navy.mil/research/underwater-archaeology/sites-and-projects/ship-wrecksites/uss-arizona-bb-39.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <http://purl.org/dc/terms/publisher> "Origins: Current Events in Historical Perspective (Ohio State University and Miami University history departments)" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <http://purl.org/dc/terms/title> "Pearl Harbor" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s6> <https://schema.org/url> <https://origins.osu.edu/milestones/december-2016-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <http://purl.org/dc/terms/publisher> "National Security Agency / Central Security Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <http://purl.org/dc/terms/title> "Doing It Until We Got It Right: A Short History of the Pearl Harbor Investigations" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s7> <https://schema.org/url> <https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3609901/doing-it-until-we-got-it-right-a-short-history-of-the-pearl-harbor-investigatio/> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <http://purl.org/dc/terms/publisher> "National Park Service, Pearl Harbor National Memorial" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <http://purl.org/dc/terms/title> "USS Arizona" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s8> <https://schema.org/url> <https://www.nps.gov/perl/learn/historyculture/uss-arizona.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Minidoka National Historic Site" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <http://purl.org/dc/terms/title> "Pearl Harbor and Executive Order 9066" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/attack-on-pearl-harbor/s9> <https://schema.org/url> <https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/dust-bowl#graph> {
@@ -13171,8 +13366,26 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
-  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
-  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
@@ -13195,6 +13408,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-midway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
@@ -13360,6 +13574,9 @@
   <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/choctaw-nation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/choctaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/chuichi-nagumo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chuichi-nagumo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/chuichi-nagumo> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/civil-liberties-act-of-1988> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1866> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -13495,6 +13712,7 @@
   <https://github.com/john1hsu/usa-graph/id/david-walker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/dawes-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/day-of-infamy-speech> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/day-of-remembrance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/dayton-aviation-heritage-national-historical-park> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/dayton-ohio> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
@@ -13563,6 +13781,7 @@
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dominican-customs-receivership> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/doris-miller> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/dorothea-lange> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -13808,6 +14027,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
@@ -14079,6 +14299,7 @@
   <https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/hawaii> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
@@ -14127,6 +14348,7 @@
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/honolulu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/honolulu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hoover-dam/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -14192,6 +14414,7 @@
   <https://github.com/john1hsu/usa-graph/id/hugh-hammond-bennett> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/husband-e-kimmel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -14247,6 +14470,7 @@
   <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/isoroku-yamamoto> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -14280,6 +14504,7 @@
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/jay-cooke-and-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/jay-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
@@ -14937,6 +15162,9 @@
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/pearl-harbor-advance-knowledge-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/pearl-harbor-investigations> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/pearl-harbor-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/pendleton-civil-service-reform-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -15576,6 +15804,7 @@
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+  <https://github.com/john1hsu/usa-graph/id/tripartite-pact> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/tukudika> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -15741,6 +15970,7 @@
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/uss-arizona-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/vanishing-indian-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/venezuelan-crisis-of-1902-1903> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -15893,10 +16123,14 @@
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
