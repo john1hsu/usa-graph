@@ -193,6 +193,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1807 | John Colter becomes the first known European American to visit the area of present-day Yellowstone. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1808-01-01 | The federal ban on importing enslaved people takes effect. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -388,6 +389,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
+| 1870 | The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -395,6 +397,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1871 | Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1871-12-18 | Park bills S. 392 and H.R. 764 are introduced in the Senate and House. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1872-01-30 | The Senate passes S. 392. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1872-02-27 | The House passes S. 392 by a vote of 115 to 65. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1872-03-01 | **[Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md)** (Landmark) |
+| 1872-03-01 | President Ulysses S. Grant signs the Yellowstone National Park Protection Act. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1873 | Harper's Weekly and other national journals repeat the story as fact. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1873 | Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -425,6 +433,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-22 | Fires in Pittsburgh destroy the Pennsylvania Railroad's Union Depot, more than thirty buildings and thousands of locomotives and cars. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-24 | Unrest in Chicago peaks over five days of walkouts, sympathy strikes and clashes with police, militia and U.S. Army troops. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1877-08-23 | About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -439,6 +448,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1886-08-20 | The U.S. Army takes charge of the park after Congress declines to fund its civilian administration. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -456,6 +466,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -481,6 +492,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1902 | Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-10 | Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1902-10-23 | Miners return to work after the five-month anthracite strike of 1902. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
@@ -551,6 +563,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -751,6 +764,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1976 | Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978 | United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1978 | Yellowstone becomes the first U.S. site on the UNESCO World Heritage List. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1978-03-16 | The Senate approves the Neutrality Treaty, 68 to 32. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -759,6 +773,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1988 | Wildfires burn about 36 percent of the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
@@ -766,6 +781,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

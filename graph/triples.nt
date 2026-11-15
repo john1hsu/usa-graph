@@ -9215,6 +9215,96 @@
 <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/usa-graph/id/source/wright-company-school-of-aviation/s8> <https://schema.org/url> <https://afhistory.org/11-apr-1911/> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/title> "History of Wolf Management" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/wolf-management.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <http://purl.org/dc/terms/title> "History of Bison Management" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/bison-management.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone Center for Resources" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <http://purl.org/dc/terms/title> "Yellowstone Science, Volume 6, Number 4 (Fall 1998): 'Legends of Yellowstone' and interview with Aubrey Haines" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> <https://schema.org/url> <https://www.nps.gov/yell/learn/upload/YS_6_4_sm.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <http://purl.org/dc/terms/title> "Act Establishing Yellowstone National Park (1872)" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> <https://schema.org/url> <https://www.archives.gov/milestone-documents/act-establishing-yellowstone-national-park> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <http://purl.org/dc/terms/publisher> "Library of Congress, In Custodia Legis" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <http://purl.org/dc/terms/title> "A Tour Through Yellowstone: Tracing the Park's Legislative History on Its 150th Anniversary (Anna Price)" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> <https://schema.org/url> <https://blogs.loc.gov/law/2022/03/a-tour-through-yellowstone-tracing-the-parks-legislative-history-on-its-150th-anniversary/> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <http://purl.org/dc/terms/publisher> "Project MUSE, Johns Hopkins University" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <http://purl.org/dc/terms/title> "Myth and History in the Creation of Yellowstone National Park (Paul Schullery and Lee Whittlesey, University of Nebraska Press, 2003)" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> <https://schema.org/url> <https://muse.jhu.edu/book/11663> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <http://purl.org/dc/terms/title> "President Grant and the Yellowstone National Park Protection Act" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> <https://schema.org/url> <https://www.nps.gov/articles/000/president-grant-and-the-yellowstone-national-park-protection-act.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <http://purl.org/dc/terms/title> "Historic Tribes" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> <https://schema.org/url> <https://home.nps.gov/yell/learn/historyculture/historic-tribes.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <http://purl.org/dc/terms/title> "Archeology: Debunking the Myth: Fear of Yellowstone (Thomas James, Yellowstone Science 26:1)" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> <https://schema.org/url> <https://home.nps.gov/articles/archeology-debunkingthemyth-fear-of-yellowstone.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <http://purl.org/dc/terms/title> "Birth of a National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <http://purl.org/dc/terms/title> "Timeline of Human History in Yellowstone" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/timeline.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey, Yellowstone Volcano Observatory" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <http://purl.org/dc/terms/title> "Indigenous people were never afraid of Yellowstone (Michael Poland, Yellowstone Caldera Chronicles)" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> <https://schema.org/url> <https://usgs.gov/observatories/yvo/news/indigenous-people-were-never-afraid-yellowstone> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <http://purl.org/dc/terms/title> "Yellowstone National Park World Heritage Site" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> <https://schema.org/url> <https://www.nps.gov/articles/000/yellowstone-national-park-world-heritage-site.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <http://purl.org/dc/terms/publisher> "Yellowstone Forever" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <http://purl.org/dc/terms/title> "Yellowstone National Park Facts" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> <https://schema.org/url> <https://www.yellowstone.org/experience/visitor-information/yellowstone-national-park-facts/> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://purl.org/dc/terms/title> "Flight of the Nez Perce" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm> .
 <https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation." .
 <https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The third set of Panama Canal locks that opened in 2016 was an idea first pursued in the 2000s." .
@@ -10512,3 +10602,129 @@
 <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://schema.org/endDate> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> <https://schema.org/startDate> "1910-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "More than 1,900 archeological sites have been found in the park even though only about 3 percent has been surveyed; people hunted, gathered, quarried obsidian and used thermal waters there for more than 11,000 years, and Kiowa, Crow and Shoshone traditions describe its thermal features as places of benevolent spirits and origin stories." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Native Americans were afraid of Yellowstone's geysers and hot springs and avoided the area." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Early park administrators promoted the story to market a tourist destination emptied of its original inhabitants and to justify keeping Native people out; a secondhand line in William Clark's journals and later scholarship repeated it." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress create Yellowstone as a park rather than let it be settled like other western public land?" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Expeditions in 1869–1871, especially Hayden's survey with Moran's paintings and Jackson's photographs, publicized its wonders, and promoters including Nathaniel Langford and the railroad financier Jay Cooke, who expected tourist traffic, lobbied for a law withdrawing it from settlement, occupancy or sale and placing it under the Secretary of the Interior." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the U.S. Army come to run the park, and what changed after the 1894 Ed Howell arrest?" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Congress refused to fund civilian administration, so the Army took charge in August 1886; when soldiers caught Howell poaching bison in 1894, the publicity led Congress within about two months to pass the National Park Protection Act, which banned hunting in the park and gave its rules teeth." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the park's creation affect the Native peoples who used the area?" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The military was already moving tribes onto reservations, and after 1872 early superintendents discouraged Native people from hunting or gathering in the park; the Tukudika (Sheep Eaters) were dispersed to the Wind River and Fort Hall reservations, and the myth that Indians feared the geysers helped justify their exclusion." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians now treat the 1870 Madison Junction campfire story as legend?" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The account of Cornelius Hedges proposing a national park around the campfire was published by Langford only in 1905, expedition diaries recorded nothing of the kind, and the park grew out of many social, scientific, economic and aesthetic forces rather than one evening's conversation." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1894"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1902"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The new National Park Service takes over management and the Army leaves." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1918"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Yellowstone becomes the first U.S. site on the UNESCO World Heritage List." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1978"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Wildfires burn about 36 percent of the park." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1995-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "John Colter becomes the first known European American to visit the area of present-day Yellowstone." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1807"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1870"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1871"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Park bills S. 392 and H.R. 764 are introduced in the Senate and House." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate passes S. 392." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The House passes S. 392 by a vote of 115 to 65." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "President Ulysses S. Grant signs the Yellowstone National Park Protection Act." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1872-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1877-08-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Army takes charge of the park after Congress declines to fund its civilian administration." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1886-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://purl.org/dc/terms/created> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Landmark> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2000/01/rdf-schema#label> "Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#altLabel> "Yellowstone Park" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#altLabel> "Yellowstone" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/national-park-system> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#definition> "The first national park in the United States, set aside by an act of Congress signed by President Ulysses S. Grant on March 1, 1872; it covers about 2.2 million acres, mostly in northwestern Wyoming with slivers in Montana and Idaho, protects more than 10,000 hydrothermal features atop an active volcanic caldera, and lies on lands that 27 Native nations have used for more than 11,000 years." .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yellowstone National Park" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-plains> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-park-service> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nez-perce-war> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/northern-pacific-railroad> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rocky-mountains> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/tukudika> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#domain> "geography-and-environment" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park-protection-act> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/geography-and-environment/yellowstone-national-park.md" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/national-park-protection-act-of-1894> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/idaho> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/montana> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> <https://schema.org/startDate> "1872-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .

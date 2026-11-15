@@ -16076,6 +16076,216 @@
    "uso:sourceType": "institutional"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "President Grant and the Yellowstone National Park Protection Act",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/president-grant-and-the-yellowstone-national-park-protection-act.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "History of Wolf Management",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/wolf-management.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "History of Bison Management",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/bison-management.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone Center for Resources",
+   "dcterms:title": "Yellowstone Science, Volume 6, Number 4 (Fall 1998): 'Legends of Yellowstone' and interview with Aubrey Haines",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/upload/YS_6_4_sm.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Act Establishing Yellowstone National Park (1872)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/act-establishing-yellowstone-national-park"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Library of Congress, In Custodia Legis",
+   "dcterms:title": "A Tour Through Yellowstone: Tracing the Park's Legislative History on Its 150th Anniversary (Anna Price)",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2022/03/a-tour-through-yellowstone-tracing-the-parks-legislative-history-on-its-150th-anniversary/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Project MUSE, Johns Hopkins University",
+   "dcterms:title": "Myth and History in the Creation of Yellowstone National Park (Paul Schullery and Lee Whittlesey, University of Nebraska Press, 2003)",
+   "schema:url": {
+    "@id": "https://muse.jhu.edu/book/11663"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "Historic Tribes",
+   "schema:url": {
+    "@id": "https://home.nps.gov/yell/learn/historyculture/historic-tribes.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Archeology: Debunking the Myth: Fear of Yellowstone (Thomas James, Yellowstone Science 26:1)",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/archeology-debunkingthemyth-fear-of-yellowstone.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "Birth of a National Park",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "Timeline of Human History in Yellowstone",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/timeline.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Geological Survey, Yellowstone Volcano Observatory",
+   "dcterms:title": "Indigenous people were never afraid of Yellowstone (Michael Poland, Yellowstone Caldera Chronicles)",
+   "schema:url": {
+    "@id": "https://usgs.gov/observatories/yvo/news/indigenous-people-were-never-afraid-yellowstone"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Yellowstone National Park World Heritage Site",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/yellowstone-national-park-world-heritage-site.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Yellowstone Forever",
+   "dcterms:title": "Yellowstone National Park Facts",
+   "schema:url": {
+    "@id": "https://www.yellowstone.org/experience/visitor-information/yellowstone-national-park-facts/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Park Service, Yellowstone National Park",
+   "dcterms:title": "Flight of the Nez Perce",
+   "schema:url": {
+    "@id": "https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/third-locks-project/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The United States authorized a third set of larger locks in 1939 and dug for nearly two years before halting the work in 1942; Panama's expansion later built its Atlantic-side locks on that original excavation.",
@@ -17822,6 +18032,184 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1916"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "More than 1,900 archeological sites have been found in the park even though only about 3 percent has been surveyed; people hunted, gathered, quarried obsidian and used thermal waters there for more than 11,000 years, and Kiowa, Crow and Shoshone traditions describe its thermal features as places of benevolent spirits and origin stories.",
+   "uso:myth": "Native Americans were afraid of Yellowstone's geysers and hot springs and avoided the area.",
+   "uso:why": "Early park administrators promoted the story to market a tourist destination emptied of its original inhabitants and to justify keeping Native people out; a secondhand line in William Clark's journals and later scholarship repeated it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress create Yellowstone as a park rather than let it be settled like other western public land?",
+   "uso:answer": "Expeditions in 1869–1871, especially Hayden's survey with Moran's paintings and Jackson's photographs, publicized its wonders, and promoters including Nathaniel Langford and the railroad financier Jay Cooke, who expected tourist traffic, lobbied for a law withdrawing it from settlement, occupancy or sale and placing it under the Secretary of the Interior.",
+   "uso:questionFor": {
+    "@id": "us:yellowstone-national-park"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the U.S. Army come to run the park, and what changed after the 1894 Ed Howell arrest?",
+   "uso:answer": "Congress refused to fund civilian administration, so the Army took charge in August 1886; when soldiers caught Howell poaching bison in 1894, the publicity led Congress within about two months to pass the National Park Protection Act, which banned hunting in the park and gave its rules teeth.",
+   "uso:questionFor": {
+    "@id": "us:yellowstone-national-park"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the park's creation affect the Native peoples who used the area?",
+   "uso:answer": "The military was already moving tribes onto reservations, and after 1872 early superintendents discouraged Native people from hunting or gathering in the park; the Tukudika (Sheep Eaters) were dispersed to the Wind River and Fort Hall reservations, and the myth that Indians feared the geysers helped justify their exclusion.",
+   "uso:questionFor": {
+    "@id": "us:yellowstone-national-park"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians now treat the 1870 Madison Junction campfire story as legend?",
+   "uso:answer": "The account of Cornelius Hedges proposing a national park around the campfire was published by Langford only in 1905, expedition diaries recorded nothing of the kind, and the park grew out of many social, scientific, economic and aesthetic forces rather than one evening's conversation.",
+   "uso:questionFor": {
+    "@id": "us:yellowstone-national-park"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Colter becomes the first known European American to visit the area of present-day Yellowstone.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1807"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1894"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1902"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The new National Park Service takes over management and the Army leaves.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1918"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Yellowstone becomes the first U.S. site on the UNESCO World Heritage List.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1978"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wildfires burn about 36 percent of the park.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1988"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-01-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1871"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Park bills S. 392 and H.R. 764 are introduced in the Senate and House.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-12-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate passes S. 392.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-01-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes S. 392 by a vote of 115 to 65.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-02-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Ulysses S. Grant signs the Yellowstone National Park Protection Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1872-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1877-08-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Army takes charge of the park after Congress declines to fund its civilian administration.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1886-08-20"
    }
   },
   {
@@ -27820,6 +28208,186 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:yellowstone-national-park",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9"
+    }
+   ],
+   "rdfs:label": "Yellowstone National Park",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1872-03-01"
+   },
+   "skos:altLabel": [
+    "Yellowstone Park",
+    "Yellowstone"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:national-park-system"
+    },
+    {
+     "@id": "us:the-west"
+    }
+   ],
+   "skos:definition": "The first national park in the United States, set aside by an act of Congress signed by President Ulysses S. Grant on March 1, 1872; it covers about 2.2 million acres, mostly in northwestern Wyoming with slivers in Montana and Idaho, protects more than 10,000 hydrothermal features atop an active volcanic caldera, and lies on lands that 27 Native nations have used for more than 11,000 years.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Yellowstone National Park",
+   "skos:related": [
+    {
+     "@id": "us:great-plains"
+    },
+    {
+     "@id": "us:national-park-service"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:nez-perce-war"
+    },
+    {
+     "@id": "us:northern-pacific-railroad"
+    },
+    {
+     "@id": "us:rocky-mountains"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:ulysses-s-grant"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:tukudika"
+   },
+   "uso:domain": "geography-and-environment",
+   "uso:establishedBy": {
+    "@id": "us:yellowstone-national-park-protection-act"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/geography-and-environment/yellowstone-national-park.md",
+   "uso:ledTo": {
+    "@id": "us:national-park-protection-act-of-1894"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:idaho"
+    },
+    {
+     "@id": "us:montana"
+    },
+    {
+     "@id": "us:wyoming"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/timeline/9"
     }
    ]
   }

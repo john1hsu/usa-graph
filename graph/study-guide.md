@@ -600,6 +600,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Great Flood of 1927 change federal flood-control policy, and who bore its heaviest costs?
   **A:** It showed that levees alone could not hold the river, so the 1928 Flood Control Act added spillways, floodways and diversion works; the heaviest costs fell on displaced residents, including many Black tenant farmers who were segregated in relief shelters and later left for northern cities.
 
+### [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Native Americans were afraid of Yellowstone's geysers and hot springs and avoided the area. | More than 1,900 archeological sites have been found in the park even though only about 3 percent has been surveyed; people hunted, gathered, quarried obsidian and used thermal waters there for more than 11,000 years, and Kiowa, Crow and Shoshone traditions describe its thermal features as places of benevolent spirits and origin stories. |
+
+**Why it matters:** Early park administrators promoted the story to market a tourist destination emptied of its original inhabitants and to justify keeping Native people out; a secondhand line in William Clark's journals and later scholarship repeated it.
+
+- **Q:** Why did Congress create Yellowstone as a park rather than let it be settled like other western public land?
+  **A:** Expeditions in 1869–1871, especially Hayden's survey with Moran's paintings and Jackson's photographs, publicized its wonders, and promoters including Nathaniel Langford and the railroad financier Jay Cooke, who expected tourist traffic, lobbied for a law withdrawing it from settlement, occupancy or sale and placing it under the Secretary of the Interior.
+- **Q:** How did the U.S. Army come to run the park, and what changed after the 1894 Ed Howell arrest?
+  **A:** Congress refused to fund civilian administration, so the Army took charge in August 1886; when soldiers caught Howell poaching bison in 1894, the publicity led Congress within about two months to pass the National Park Protection Act, which banned hunting in the park and gave its rules teeth.
+- **Q:** How did the park's creation affect the Native peoples who used the area?
+  **A:** The military was already moving tribes onto reservations, and after 1872 early superintendents discouraged Native people from hunting or gathering in the park; the Tukudika (Sheep Eaters) were dispersed to the Wind River and Fort Hall reservations, and the myth that Indians feared the geysers helped justify their exclusion.
+- **Q:** Why do historians now treat the 1870 Madison Junction campfire story as legend?
+  **A:** The account of Cornelius Hedges proposing a national park around the campfire was published by Langford only in 1905, expedition diaries recorded nothing of the kind, and the park grew out of many social, scientific, economic and aesthetic forces rather than one evening's conversation.
+
 ## gilded-age-and-progressive-era
 
 ### [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) — Era

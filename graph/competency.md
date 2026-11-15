@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:third-locks-project` | 2 | Panama Canal, panama-canal-expansion |
 | `us:war-in-afghanistan` | 2 | al-qaeda, operation-allies-welcome |
 
-…and 24 more.
+…and 26 more.
 
 ## Happenings by era
 
@@ -112,7 +112,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:yellowstone-national-park` | uso:Landmark |
 
 ## Orphan articles (gap)
 
@@ -179,4 +181,5 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:united-states` |
 | `us:united-states-constitution` | `us:united-states-congress` |
+| `us:yellowstone-national-park-protection-act` | `us:yellowstone-national-park` |
 
