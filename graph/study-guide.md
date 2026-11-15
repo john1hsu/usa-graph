@@ -973,6 +973,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did so much of the city flood in 2005 when its oldest districts stayed relatively high?
   **A:** Most of the city was built on drained swamp that has subsided since the early 1900s, creating a bowl below sea level; when levees separating the city from Lake Pontchartrain broke during Katrina, at least 80 percent of New Orleans flooded, while the original city on natural levees stood 5 to 10 feet above sea level.
 
+### [The West](../articles/regions-cities-and-landmarks/the-west.md) — Region
+
+| Myth | Fact |
+|---|---|
+| The West was an empty wilderness of free land waiting for American settlers. | Native nations controlled most of the continent west of the Mississippi deep into the nineteenth century, and the Mexican Cession brought Mexican citizens whose property the 1848 treaty promised to respect; the land became available to settlers through wars, treaties, removal and allotment. |
+
+**Why it matters:** Turner's emphasis on free land, dime novels and Wild West shows told the story from the settlers' side, leaving out the peoples whose homelands were taken.
+
+- **Q:** Why did Frederick Jackson Turner treat 1890 as a turning point, and how did Patricia Nelson Limerick challenge his view?
+  **A:** Turner took the 1890 census's finding that there was no longer a frontier line as the end of the westward advance that he believed had shaped American individualism and democracy; Limerick rejected the "closing frontier" model and described the West instead as a place of continuing conquest over land, resources and peoples, and wrote Native, Mexican, Chinese, Black and women's histories into the story.
+- **Q:** Why did John Wesley Powell argue that the 160-acre homestead did not suit much of the West?
+  **A:** Beyond about the 100th meridian, average rainfall is less than twenty inches a year, too little for most crops, so Powell recommended irrigation-based farming and ranching rather than small dry farms on the eastern model.
+- **Q:** How did the Treaty of Guadalupe Hidalgo shape the West, and what promise was weakened before ratification?
+  **A:** Mexico ceded 55 percent of its territory, including present-day California, Nevada, Utah, New Mexico, most of Arizona and Colorado, for $15 million; the Senate struck Article X, which guaranteed protection of Mexican land grants, though Article VIII still promised to respect Mexicans' property.
+- **Q:** Why does the federal government own so much more land in the West than in the East?
+  **A:** The Congressional Research Service points partly to early treaties, land settlement laws and settlement patterns, along with the reservation of western parks and other reserves from 1872 on, and since 1976 federal law has generally kept the remaining public domain in federal hands; by 2024 about 46 percent of the 11 contiguous western states and 61 percent of Alaska was federal.
+
 ## rights-and-law
 
 ### [Due process](../articles/rights-and-law/due-process.md) — Right

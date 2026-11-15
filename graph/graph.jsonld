@@ -16855,6 +16855,118 @@
    "uso:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Census Bureau, Population and Housing Unit Estimates",
+   "dcterms:title": "Geographic Terms and Definitions",
+   "schema:url": {
+    "@id": "https://www.census.gov/programs-surveys/popest/about/glossary/geo-terms.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Historical Population Change Data (1910-2020)",
+   "schema:url": {
+    "@id": "https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Treaty of Guadalupe Hidalgo (1848)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press), ed. Joseph L. Locke and Ben Wright",
+   "dcterms:title": "17. The West",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/17-conquering-the-west/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center, Ashland University)",
+   "dcterms:title": "The Significance of the Frontier in American History",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/the-significance-of-the-frontier-in-american-history/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "American Indian Culture and Research Journal 12, no. 4 (1988), by Dick G. Winchell (eScholarship, University of California)",
+   "dcterms:title": "Review of The Legacy of Conquest: The Unbroken Past of the American West, by Patricia Nelson Limerick",
+   "schema:url": {
+    "@id": "https://escholarship.org/content/qt89v595qj/qt89v595qj.pdf?t=rz81gx"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "Federal Land Ownership: Overview and Data (R42346, updated September 14, 2026)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/2026-09-14_R42346_336f754f9a0a5c5e48b254e0f7164c6e30465cf2.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "dcterms:publisher": "Encyclopedia of the Great Plains (University of Nebraska–Lincoln), by Donald Worster",
+   "dcterms:title": "Report on the Lands of the Arid Region",
+   "schema:url": {
+    "@id": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.wat.024.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -19045,6 +19157,184 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1863-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Native nations controlled most of the continent west of the Mississippi deep into the nineteenth century, and the Mexican Cession brought Mexican citizens whose property the 1848 treaty promised to respect; the land became available to settlers through wars, treaties, removal and allotment.",
+   "uso:myth": "The West was an empty wilderness of free land waiting for American settlers.",
+   "uso:why": "Turner's emphasis on free land, dime novels and Wild West shows told the story from the settlers' side, leaving out the peoples whose homelands were taken."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Frederick Jackson Turner treat 1890 as a turning point, and how did Patricia Nelson Limerick challenge his view?",
+   "uso:answer": "Turner took the 1890 census's finding that there was no longer a frontier line as the end of the westward advance that he believed had shaped American individualism and democracy; Limerick rejected the \"closing frontier\" model and described the West instead as a place of continuing conquest over land, resources and peoples, and wrote Native, Mexican, Chinese, Black and women's histories into the story.",
+   "uso:questionFor": {
+    "@id": "us:the-west"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did John Wesley Powell argue that the 160-acre homestead did not suit much of the West?",
+   "uso:answer": "Beyond about the 100th meridian, average rainfall is less than twenty inches a year, too little for most crops, so Powell recommended irrigation-based farming and ranching rather than small dry farms on the eastern model.",
+   "uso:questionFor": {
+    "@id": "us:the-west"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Treaty of Guadalupe Hidalgo shape the West, and what promise was weakened before ratification?",
+   "uso:answer": "Mexico ceded 55 percent of its territory, including present-day California, Nevada, Utah, New Mexico, most of Arizona and Colorado, for $15 million; the Senate struck Article X, which guaranteed protection of Mexican land grants, though Article VIII still promised to respect Mexicans' property.",
+   "uso:questionFor": {
+    "@id": "us:the-west"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the federal government own so much more land in the West than in the East?",
+   "uso:answer": "The Congressional Research Service points partly to early treaties, land settlement laws and settlement patterns, along with the reservation of western parks and other reserves from 1872 on, and since 1976 federal law has generally kept the remaining public domain in federal hands; by 2024 about 46 percent of the 11 contiguous western states and 61 percent of Alaska was federal.",
+   "uso:questionFor": {
+    "@id": "us:the-west"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1848-02-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1890-12-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1893"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Federal Land Policy and Management Act declares that remaining public-domain land will generally stay in federal ownership.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last remaining homestead entries are eliminated.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1986"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Patricia Nelson Limerick publishes The Legacy of Conquest.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1987"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 2020 census counts 78,588,572 people in the West region.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Homestead Act, offering 160-acre claims to settlers who live on and improve the land for five years.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1862"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Army begins forcing Navajo people on the Long Walk to Bosque Redondo, where they are held until 1866.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1863-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Colorado militia under John Chivington kill about 200 Cheyenne men, women and children at Sand Creek.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-11-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1869"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Yellowstone is established, beginning the reservation of western lands as parks.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1872"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Armstrong Custer and 268 of his men are killed at the Little Bighorn.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1876-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1883"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dawes General Allotment Act divides reservation land into individual allotments and opens the 'surplus' to settlers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1887-02-08"
    }
   },
   {
@@ -30765,6 +31055,181 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:the-west",
+   "@type": "uso:Region",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-15"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s8"
+    }
+   ],
+   "rdfs:label": "The West",
+   "skos:altLabel": [
+    "American West",
+    "West Region",
+    "Western United States"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states"
+   },
+   "skos:definition": "The western part of the United States, defined by the Census Bureau as a 13-state region of Mountain and Pacific divisions; a largely arid land of Native homelands and former Mexican territory that the United States conquered and settled in the nineteenth century, where the federal government still owns much of the land, and whose meaning historians have long debated.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "The West",
+   "skos:related": [
+    {
+     "@id": "us:alaska"
+    },
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:colorado-river"
+    },
+    {
+     "@id": "us:frontier-thesis"
+    },
+    {
+     "@id": "us:great-plains"
+    },
+    {
+     "@id": "us:hawaii"
+    },
+    {
+     "@id": "us:hayden-geological-survey-of-1871"
+    },
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:manifest-destiny"
+    },
+    {
+     "@id": "us:mexican-american-war"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:okies"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:wounded-knee-massacre"
+    },
+    {
+     "@id": "us:yellowstone-national-park"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:american-frontier"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/regions-cities-and-landmarks/the-west.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:dawes-act"
+    },
+    {
+     "@id": "us:homestead-act"
+    },
+    {
+     "@id": "us:transcontinental-railroad"
+    },
+    {
+     "@id": "us:treaty-of-guadalupe-hidalgo"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/the-west/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/the-west/timeline/9"
     }
    ]
   },

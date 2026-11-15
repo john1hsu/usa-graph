@@ -110,13 +110,15 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 | `us:slavery-in-the-united-states` | interpretive |  |
 
-…and 6 more.
+…and 7 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:the-west` | uso:Region |
 
 ## Orphan articles (gap)
 

@@ -11172,6 +11172,229 @@
   ]
  },
  {
+  "id": "us:the-west",
+  "title": "The West",
+  "aliases": [
+   "American West",
+   "Western United States",
+   "West Region"
+  ],
+  "type": "Region",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/regions-cities-and-landmarks/the-west.md",
+  "created": "2026-11-15",
+  "summary": "The western part of the United States, defined by the Census Bureau as a 13-state region of Mountain and Pacific divisions; a largely arid land of Native homelands and former Mexican territory that the United States conquered and settled in the nineteenth century, where the federal government still owns much of the land, and whose meaning historians have long debated.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:manifest-destiny"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:yellowstone-national-park"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hayden-geological-survey-of-1871"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hoover-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:okies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-plains"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frontier-thesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wounded-knee-massacre"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:treaty-of-guadalupe-hidalgo",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:homestead-act",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:dawes-act",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:transcontinental-railroad",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:american-frontier",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Frederick Jackson Turner treat 1890 as a turning point, and how did Patricia Nelson Limerick challenge his view?",
+    "answer": "Turner took the 1890 census's finding that there was no longer a frontier line as the end of the westward advance that he believed had shaped American individualism and democracy; Limerick rejected the \"closing frontier\" model and described the West instead as a place of continuing conquest over land, resources and peoples, and wrote Native, Mexican, Chinese, Black and women's histories into the story."
+   },
+   {
+    "question": "Why did John Wesley Powell argue that the 160-acre homestead did not suit much of the West?",
+    "answer": "Beyond about the 100th meridian, average rainfall is less than twenty inches a year, too little for most crops, so Powell recommended irrigation-based farming and ranching rather than small dry farms on the eastern model."
+   },
+   {
+    "question": "How did the Treaty of Guadalupe Hidalgo shape the West, and what promise was weakened before ratification?",
+    "answer": "Mexico ceded 55 percent of its territory, including present-day California, Nevada, Utah, New Mexico, most of Arizona and Colorado, for $15 million; the Senate struck Article X, which guaranteed protection of Mexican land grants, though Article VIII still promised to respect Mexicans' property."
+   },
+   {
+    "question": "Why does the federal government own so much more land in the West than in the East?",
+    "answer": "The Congressional Research Service points partly to early treaties, land settlement laws and settlement patterns, along with the reservation of western parks and other reserves from 1872 on, and since 1976 federal law has generally kept the remaining public domain in federal hands; by 2024 about 46 percent of the 11 contiguous western states and 61 percent of Alaska was federal."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1848-02-02",
+    "event": "The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah."
+   },
+   {
+    "date": "1862",
+    "event": "Congress passes the Homestead Act, offering 160-acre claims to settlers who live on and improve the land for five years."
+   },
+   {
+    "date": "1863-08",
+    "event": "The U.S. Army begins forcing Navajo people on the Long Walk to Bosque Redondo, where they are held until 1866."
+   },
+   {
+    "date": "1864-11-29",
+    "event": "Colorado militia under John Chivington kill about 200 Cheyenne men, women and children at Sand Creek."
+   },
+   {
+    "date": "1869",
+    "event": "The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line."
+   },
+   {
+    "date": "1872",
+    "event": "Yellowstone is established, beginning the reservation of western lands as parks."
+   },
+   {
+    "date": "1876-06",
+    "event": "George Armstrong Custer and 268 of his men are killed at the Little Bighorn."
+   },
+   {
+    "date": "1883",
+    "event": "Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West."
+   },
+   {
+    "date": "1887-02-08",
+    "event": "The Dawes General Allotment Act divides reservation land into individual allotments and opens the 'surplus' to settlers."
+   },
+   {
+    "date": "1890-12-29",
+    "event": "U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee."
+   },
+   {
+    "date": "1893",
+    "event": "Frederick Jackson Turner presents his frontier thesis to the American Historical Association in Chicago."
+   },
+   {
+    "date": "1976",
+    "event": "The Federal Land Policy and Management Act declares that remaining public-domain land will generally stay in federal ownership."
+   },
+   {
+    "date": "1986",
+    "event": "The last remaining homestead entries are eliminated."
+   },
+   {
+    "date": "1987",
+    "event": "Patricia Nelson Limerick publishes The Legacy of Conquest."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The 2020 census counts 78,588,572 people in the West region."
+   }
+  ],
+  "misconception": {
+   "myth": "The West was an empty wilderness of free land waiting for American settlers.",
+   "fact": "Native nations controlled most of the continent west of the Mississippi deep into the nineteenth century, and the Mexican Cession brought Mexican citizens whose property the 1848 treaty promised to respect; the land became available to settlers through wars, treaties, removal and allotment.",
+   "why": "Turner's emphasis on free land, dime novels and Wild West shows told the story from the settlers' side, leaving out the peoples whose homelands were taken."
+  },
+  "source_urls": [
+   "https://www.census.gov/programs-surveys/popest/about/glossary/geo-terms.html",
+   "https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html",
+   "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+   "https://www.americanyawp.com/text/17-conquering-the-west/",
+   "https://teachingamericanhistory.org/document/the-significance-of-the-frontier-in-american-history/",
+   "https://escholarship.org/content/qt89v595qj/qt89v595qj.pdf?t=rz81gx",
+   "https://www.everycrsreport.com/files/2026-09-14_R42346_336f754f9a0a5c5e48b254e0f7164c6e30465cf2.html",
+   "https://plainshumanities.unl.edu/encyclopedia/doc/egp.wat.024.html"
+  ]
+ },
+ {
   "id": "us:theodore-roosevelt",
   "title": "Theodore Roosevelt",
   "aliases": [
