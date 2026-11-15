@@ -187,6 +187,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+### [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Constitution requires the Supreme Court to have nine justices. | Article III creates "one supreme Court" but sets no size; the Judiciary Act of 1789 gave it six justices, Congress changed the authorized number several times, and the figure of nine dates only from an 1869 statute. |
+
+**Why it matters:** Because nine has stood for more than 150 years, an ordinary act of Congress is easily mistaken for a constitutional rule.
+
+- **Q:** Why can Congress change the number of Supreme Court justices without amending the Constitution?
+  **A:** Article III creates "one supreme Court" but says nothing about its size, so the number is set by statute; the Judiciary Act of 1789 set six, and later laws moved it between five (never in effect) and ten before an 1869 act fixed it at nine.
+- **Q:** How did Marbury v. Madison expand the Court's role in the system of checks and balances?
+  **A:** Chief Justice John Marshall held that part of the Judiciary Act of 1789 conflicted with the Constitution and that courts must follow the Constitution when a statute conflicts with it, the first time the Court declared an act of Congress unconstitutional and the basis of judicial review.
+- **Q:** Why did Franklin D. Roosevelt's 1937 plan to enlarge the Court fail?
+  **A:** Many saw it as a threat to judicial independence; a bipartisan Senate Judiciary Committee majority urged its emphatic rejection, the Court began upholding New Deal-era laws such as the minimum-wage law in West Coast Hotel v. Parrish, Justice Van Devanter retired, and the Senate defeated the plan on July 22, 1937.
+- **Q:** How does most of the Court's work reach it, and how selective is it?
+  **A:** Most cases arrive as petitions for a writ of certiorari asking the Court to review a lower-court decision; four justices must agree to take a case, and of up to about ten thousand requests a year the Court accepts fewer than 2 percent.
+
 ### [United States Congress](../articles/constitution-and-government/united-states-congress.md) — Institution
 
 | Myth | Fact |

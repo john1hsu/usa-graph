@@ -9665,6 +9665,227 @@
   ]
  },
  {
+  "id": "us:supreme-court-of-the-united-states",
+  "title": "Supreme Court of the United States",
+  "aliases": [
+   "U.S. Supreme Court",
+   "United States Supreme Court",
+   "SCOTUS"
+  ],
+  "type": "Institution",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/constitution-and-government/supreme-court-of-the-united-states.md",
+  "created": "2026-11-15",
+  "summary": "The highest court of the federal judiciary, created by Article III of the Constitution and organized by the Judiciary Act of 1789; it decides cases arising under the Constitution and federal law, mostly on appeal, and since Marbury v. Madison (1803) has claimed the power to strike down laws that conflict with the Constitution.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-government-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marbury-v-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:plessy-v-ferguson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:obergefell-v-hodges"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-procedures-reform-bill-of-1937"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:west-coast-hotel-co-v-parrish"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thurgood-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sandra-day-oconnor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:judiciary-act-of-1789",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:washington-dc",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "1789-09-24",
+  "end": null,
+  "review": [
+   {
+    "question": "Why can Congress change the number of Supreme Court justices without amending the Constitution?",
+    "answer": "Article III creates \"one supreme Court\" but says nothing about its size, so the number is set by statute; the Judiciary Act of 1789 set six, and later laws moved it between five (never in effect) and ten before an 1869 act fixed it at nine."
+   },
+   {
+    "question": "How did Marbury v. Madison expand the Court's role in the system of checks and balances?",
+    "answer": "Chief Justice John Marshall held that part of the Judiciary Act of 1789 conflicted with the Constitution and that courts must follow the Constitution when a statute conflicts with it, the first time the Court declared an act of Congress unconstitutional and the basis of judicial review."
+   },
+   {
+    "question": "Why did Franklin D. Roosevelt's 1937 plan to enlarge the Court fail?",
+    "answer": "Many saw it as a threat to judicial independence; a bipartisan Senate Judiciary Committee majority urged its emphatic rejection, the Court began upholding New Deal-era laws such as the minimum-wage law in West Coast Hotel v. Parrish, Justice Van Devanter retired, and the Senate defeated the plan on July 22, 1937."
+   },
+   {
+    "question": "How does most of the Court's work reach it, and how selective is it?",
+    "answer": "Most cases arrive as petitions for a writ of certiorari asking the Court to review a lower-court decision; four justices must agree to take a case, and of up to about ten thousand requests a year the Court accepts fewer than 2 percent."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1789-09-24",
+    "event": "The Judiciary Act of 1789 organizes the Court with a chief justice and five associate justices."
+   },
+   {
+    "date": "1790-02-02",
+    "event": "The Court first convenes in the Exchange Building in New York City, a day late because some justices could not arrive in time."
+   },
+   {
+    "date": "1791-08-03",
+    "event": "The Court issues its first opinion, in West v. Barnes."
+   },
+   {
+    "date": "1800",
+    "event": "The Court follows the capital from Philadelphia to Washington and is lent space in the Capitol."
+   },
+   {
+    "date": "1803",
+    "event": "In Marbury v. Madison the Court for the first time declares an act of Congress unconstitutional."
+   },
+   {
+    "date": "1807-02-24",
+    "event": "Congress adds a seventh seat."
+   },
+   {
+    "date": "1837-03-03",
+    "event": "Congress adds two more seats, bringing the Court to nine."
+   },
+   {
+    "date": "1857-03-06",
+    "event": "Chief Justice Roger B. Taney announces the Dred Scott decision."
+   },
+   {
+    "date": "1863-03-03",
+    "event": "A tenth seat is authorized during the Civil War."
+   },
+   {
+    "date": "1866-07-23",
+    "event": "Congress reduces the authorized seats to seven, to be reached as vacancies occur."
+   },
+   {
+    "date": "1869-04-10",
+    "event": "Congress fixes the Court at nine justices, where it has remained."
+   },
+   {
+    "date": "1932-10-13",
+    "event": "Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building."
+   },
+   {
+    "date": "1935",
+    "event": "The Court moves into its own building in its 146th year."
+   },
+   {
+    "date": "1937-02-05",
+    "event": "President Franklin D. Roosevelt asks Congress for up to six additional justices."
+   },
+   {
+    "date": "1937-03-29",
+    "event": "The Court upholds a Washington State minimum-wage law for women in West Coast Hotel v. Parrish."
+   },
+   {
+    "date": "1937-07-22",
+    "event": "Roosevelt's plan to enlarge the Court is defeated in the Senate."
+   },
+   {
+    "date": "1967-10-02",
+    "event": "Thurgood Marshall is sworn in as the first African American justice."
+   },
+   {
+    "date": "1981-09-25",
+    "event": "Sandra Day O'Connor is sworn in as the first woman justice."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution requires the Supreme Court to have nine justices.",
+   "fact": "Article III creates \"one supreme Court\" but sets no size; the Judiciary Act of 1789 gave it six justices, Congress changed the authorized number several times, and the figure of nine dates only from an 1869 statute.",
+   "why": "Because nine has stood for more than 150 years, an ordinary act of Congress is easily mistaken for a constitutional rule."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/HMAN-119/html/HMAN-119-pg83.htm",
+   "https://www.supremecourt.gov/About/institution.aspx",
+   "https://fjc.gov/history/courts/supreme-court-united-states-legislative-history",
+   "https://www.supremecourt.gov/about/buildinghistory.aspx",
+   "https://www.archives.gov/milestone-documents/marbury-v-madison",
+   "https://openstax.org/books/american-government-3e/pages/13-4-the-supreme-court",
+   "https://www.law.cornell.edu/constitution-conan/article-3/section-1/congressional-power-to-establish-the-supreme-court",
+   "https://supremecourthistory.org/films/fdr-courtpacking-controversy-full-script/",
+   "https://www.archives.gov/exhibits/american_originals/scott.html",
+   "https://www.loc.gov/item/today-in-history/october-02",
+   "https://prologue.blogs.archives.gov/2018/08/17/first-woman-on-the-court-sandra-day-oconnor/",
+   "https://www.supremecourt.gov/about/procedures.aspx"
+  ]
+ },
+ {
   "id": "us:third-locks-project",
   "title": "Third Locks Project",
   "aliases": [
