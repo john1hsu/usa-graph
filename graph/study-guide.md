@@ -145,6 +145,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why was Rosa Parks not a plaintiff in Browder v. Gayle?
   **A:** Her criminal case was still moving through the state courts, and Fred Gray wanted the federal court to face a single issue, the constitutionality of the bus segregation laws, so he filed on behalf of other women who had been mistreated on the buses.
 
+### [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The GI Bill sent the returning World War II generation to college, and every veteran shared equally in its benefits. | Of about 8 million World War II veterans who used its education benefits, about 2.3 million attended colleges and universities, while millions more took school-based or on-the-job training; many also used its loans or unemployment pay. Benefits were administered through state agencies, local banks and segregated colleges, so Black veterans in the Jim Crow South, Native veterans on reservation land, and veterans given "blue" discharges, many of them gay, often received far less or nothing. |
+
+**Why it matters:** Remembering the law only as universal free college overstates what it did for most veterans and hides how its design and administration widened some racial gaps in education and wealth even as it opened opportunity for millions.
+
+- **Q:** Why did Congress let state agencies, banks and colleges administer much of the GI Bill, and what did that mean for Black veterans in the South?
+  **A:** The law barred federal supervision of state educational agencies and schools and relied on private lenders for its guaranteed loans, a design Mississippi congressman John Rankin helped shape; in the Jim Crow South that let segregated colleges, local officials and banks limit Black veterans' benefits, as when Black veterans received two of 3,200 VA-backed loans in thirteen Mississippi cities.
+- **Q:** How do Ira Katznelson and Suzanne Mettler differ in judging the GI Bill?
+  **A:** Katznelson argues that its decentralized administration made it a form of "white affirmative action" that widened Black–white gaps, while Mettler, drawing on veterans' surveys and interviews, finds it a relatively inclusive program that expanded opportunity and made users more civically and politically active.
+- **Q:** Why did planners in 1943 and 1944 want a large program for returning veterans?
+  **A:** The Labor Department estimated that as many as 15 million service members could be unemployed after the war, and leaders wanted to avoid a repeat of the 1932 Bonus Army protests by World War I veterans.
+
 ## colonial-and-revolutionary
 
 ### [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) — Conflict

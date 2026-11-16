@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 
-…and 48 more.
+…and 49 more.
 
 ## Happenings by era
 
@@ -109,9 +109,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
-| `us:slavery-in-the-united-states` | interpretive |  |
+| `us:servicemens-readjustment-act-of-1944` | interpretive |  |
 
-…and 9 more.
+…and 10 more.
 
 ## Places with nothing tied to them (gap)
 

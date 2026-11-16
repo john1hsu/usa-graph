@@ -10331,6 +10331,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Of about 8 million World War II veterans who used its education benefits, about 2.3 million attended colleges and universities, while millions more took school-based or on-the-job training; many also used its loans or unemployment pay. Benefits were administered through state agencies, local banks and segregated colleges, so Black veterans in the Jim Crow South, Native veterans on reservation land, and veterans given \"blue\" discharges, many of them gay, often received far less or nothing.",
+   "uso:myth": "The GI Bill sent the returning World War II generation to college, and every veteran shared equally in its benefits.",
+   "uso:why": "Remembering the law only as universal free college overstates what it did for most veterans and hides how its design and administration widened some racial gaps in education and wealth even as it opened opportunity for millions."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress let state agencies, banks and colleges administer much of the GI Bill, and what did that mean for Black veterans in the South?",
+   "uso:answer": "The law barred federal supervision of state educational agencies and schools and relied on private lenders for its guaranteed loans, a design Mississippi congressman John Rankin helped shape; in the Jim Crow South that let segregated colleges, local officials and banks limit Black veterans' benefits, as when Black veterans received two of 3,200 VA-backed loans in thirteen Mississippi cities.",
+   "uso:questionFor": {
+    "@id": "us:servicemens-readjustment-act-of-1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do Ira Katznelson and Suzanne Mettler differ in judging the GI Bill?",
+   "uso:answer": "Katznelson argues that its decentralized administration made it a form of \"white affirmative action\" that widened Black–white gaps, while Mettler, drawing on veterans' surveys and interviews, finds it a relatively inclusive program that expanded opportunity and made users more civically and politically active.",
+   "uso:questionFor": {
+    "@id": "us:servicemens-readjustment-act-of-1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did planners in 1943 and 1944 want a large program for returning veterans?",
+   "uso:answer": "The Labor Department estimated that as many as 15 million service members could be unemployed after the war, and leaders wanted to avoid a repeat of the 1932 Bonus Army protests by World War I veterans.",
+   "uso:questionFor": {
+    "@id": "us:servicemens-readjustment-act-of-1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thousands of World War I veterans march on Washington as the Bonus Army to demand early payment of promised bonuses, a precedent planners later wanted to avoid.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1932"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Veterans Readjustment Benefits Act provides education benefits and home and farm loans for Vietnam-era veterans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1966"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The \"Montgomery GI Bill\" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1984"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "World War II merchant mariners are finally recognized as veterans, decades after Roosevelt asked Congress to extend them similar benefits.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1988"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Resources Planning Board recommends education and training programs for returning service members.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1943-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The American Legion drafts its own \"GI Bill of Rights\"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1943-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bill, S. 1767, passes both chambers of Congress unanimously in the spring.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1944"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt signs the Servicemen's Readjustment Act, sixteen days after D-Day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1944-06-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Veterans make up 49 percent of students at American colleges.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1947"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1952"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1955"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The education and training program for World War II veterans ends after paying out $14.5 billion.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1956"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops.",
@@ -19293,6 +19435,132 @@
     "@id": "https://www.justice.gov/crt/combating-post-911-discriminatory-backlash-0"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Servicemen's Readjustment Act (1944)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo), United States Statutes at Large",
+   "dcterms:title": "An Act to provide Federal Government aid for the readjustment in civilian life of returning World War II veterans (Public Law 346, 78th Congress), 58 Stat. 284",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/STATUTE-58/pdf/STATUTE-58-Pg284.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Franklin D. Roosevelt, Statement on Signing the G.I. Bill (June 22, 1944)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-signing-the-gi-bill"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Stephanie Hinnershitz, The National WWII Museum",
+   "dcterms:title": "The GI Bill and Planning for the Postwar",
+   "schema:url": {
+    "@id": "https://www.nationalww2museum.org/war/articles/gi-bill-and-planning-postwar"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Navy, MyNavy HR",
+   "dcterms:title": "GI Bill History",
+   "schema:url": {
+    "@id": "https://www.mynavyhr.navy.mil/Career-Management/Education/GI-Bill/GI-Bill-History/index.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Frank Batten School of Leadership and Public Policy, University of Virginia",
+   "dcterms:title": "Closing the Gap or Widening the Divide: The Effects of the G.I. Bill and World War II on the Educational Outcomes of Black Americans (Sarah Turner and John Bound, Journal of Economic History, 2003)",
+   "schema:url": {
+    "@id": "https://www.batten.virginia.edu/closing-gap-or-widening-divide-effects-gi-bill-and-world-war-ii-educational-outcomes-black"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "On Race and Policy History: A Dialogue about the G.I. Bill (Ira Katznelson and Suzanne Mettler), Perspectives on Politics 6, no. 3 (2008)",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1537592708081267"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The American Historical Review 113, no. 4 (2008)",
+   "dcterms:title": "Review of Suzanne Mettler, Soldiers to Citizens: The G.I. Bill and the Making of the Greatest Generation (Margot Canaday)",
+   "schema:url": {
+    "@id": "https://academic.oup.com/ahr/article/113/4/1188/42783"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Samuel McCracken, Columbia Magazine",
+   "dcterms:title": "Whites and Wrongs (review of Ira Katznelson, When Affirmative Action Was White)",
+   "schema:url": {
+    "@id": "https://magazine.columbia.edu/print/pdf/node/11901"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1",
@@ -36609,6 +36877,168 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/september-11-attacks/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:servicemens-readjustment-act-of-1944",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s9"
+    }
+   ],
+   "rdfs:label": "Servicemen's Readjustment Act of 1944",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1944-06-22"
+   },
+   "skos:altLabel": [
+    "G.I. Bill of Rights",
+    "G.I. Bill",
+    "GI Bill of Rights",
+    "GI Bill",
+    "Public Law 78-346",
+    "S. 1767 (1944)"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:veterans-benefits-in-the-united-states"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "skos:definition": "The federal law, signed by President Franklin D. Roosevelt on June 22, 1944, that gave World War II veterans tuition and living allowances for school and training, federal guarantees on home, farm and business loans, and up to a year of unemployment pay; it reshaped postwar higher education and homeownership, but discrimination in how it was carried out left many Black and other veterans with far less.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Servicemen's Readjustment Act of 1944",
+   "skos:related": [
+    {
+     "@id": "us:fair-housing-act-of-1968"
+    },
+    {
+     "@id": "us:harry-colmery"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:john-e-rankin"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:racial-segregation-in-the-united-states"
+    },
+    {
+     "@id": "us:redlining"
+    },
+    {
+     "@id": "us:suburbanization"
+    },
+    {
+     "@id": "us:veterans-administration"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:higher-education-in-the-united-states"
+    },
+    {
+     "@id": "us:historically-black-colleges-and-universities"
+    }
+   ],
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:american-legion"
+    },
+    {
+     "@id": "us:bonus-army"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "uso:signedBy": {
+    "@id": "us:franklin-d-roosevelt"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/9"
     }
    ]
   },

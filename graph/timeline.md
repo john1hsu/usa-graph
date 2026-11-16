@@ -867,6 +867,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1931-08-07 | Workers strike after a pay cut for tunnel crews; the strike collapses and the cut stands. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931-10 | After Britain leaves the gold standard, the New York Fed raises its discount rate; 522 commercial banks close that month. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932 | Detainee Tet Yee (Yee Tet Ming) copies 96 poems from the walls. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1932 | Thousands of World War I veterans march on Washington as the Bonus Army to demand early payment of promised bonuses, a precedent planners later wanted to avoid. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -963,9 +964,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1943-06 | The National Resources Planning Board recommends education and training programs for returning service members. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1943-07 | The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1943-07-31 | Tule Lake is designated a segregation center for people the government labeled disloyal. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1943-11 | The American Legion drafts its own "GI Bill of Rights"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1944 | The bill, S. 1767, passes both chambers of Congress unanimously in the spring. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1944-06-22 | **[Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md)** (Law) |
+| 1944-06-22 | President Franklin D. Roosevelt signs the Servicemen's Readjustment Act, sixteen days after D-Day. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-10-24 | The federal minimum reaches 40 cents an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -975,6 +981,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
+| 1947 | Veterans make up 49 percent of students at American colleges. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -985,6 +992,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953-08-01 | House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-08-15 | Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
@@ -1001,6 +1009,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-05-17 | The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1954-05-17 | The Supreme Court rules in Brown v. Board of Education that segregated public schools are unconstitutional. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1954-05-21 | Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-05-24 | The Little Rock School Board adopts Superintendent Virgil Blossom's gradual plan, beginning with token desegregation of Central High in 1957. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1009,6 +1018,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1955-12-05 – 1956-12-20 | **[Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md)** (Event) |
 | 1955-12-05 | About 90 percent of Black riders stay off the buses; the Montgomery Improvement Association forms and elects Martin Luther King Jr. president. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-12-08 | The MIA presents its demands: courtesy, first-come seating and Black drivers on mainly Black routes. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956 | The education and training program for World War II veterans ends after paying out $14.5 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1956-01-30 | Segregationists bomb King's house. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-02-01 | Fred Gray and Charles D. Langford file Browder v. Gayle in federal court. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-03 | The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -1084,6 +1094,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1966 | César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers. — [California](../articles/states-and-territories/california.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1966 | The Veterans Readjustment Benefits Act provides education benefits and home and farm loans for Vietnam-era veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1967-02-01 | Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1126,6 +1137,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1986-10-07 | Congress designates the rose as the national floral emblem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1133,6 +1145,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1987 | Patricia Nelson Limerick publishes The Legacy of Conquest. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1987-12-11 | John Philip Sousa's The Stars and Stripes Forever becomes the national march. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1988 | Wildfires burn about 36 percent of the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1988 | World War II merchant mariners are finally recognized as veterans, decades after Roosevelt asked Congress to extend them similar benefits. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
