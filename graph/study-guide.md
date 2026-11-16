@@ -364,6 +364,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Mamie Smith's 1920 recording of "Crazy Blues" matter to the music business?
   **A:** It was the first commercial vaudeville blues record by a Black singer, and in the following years "race records" — recordings by Black artists marketed mainly to Black buyers — grew into a business that sent scouts across the South and into northern cities to find blues talent.
 
+### [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) — Work
+
+| Myth | Fact |
+|---|---|
+| The poems lay forgotten until a park ranger stumbled on them by chance in 1970, and they are the only writing on the walls. | Officials knew of the poems and had them repeatedly puttied and painted over, and two detainees copied nearly 200 of them in 1931–32; the 1970 find was a rediscovery. The walls also hold inscriptions in Japanese, Korean, Russian and other languages. |
+
+**Why it matters:** The 1970 find launched the campaign that saved the barracks, so it became the story's starting point, and the Chinese poems' fame has overshadowed the other inscriptions.
+
+- **Q:** Why did detainees at Angel Island write poems on the barracks walls, and why are most of them unsigned?
+  **A:** Chinese men held for weeks, months or sometimes years while officials enforced the exclusion laws used the walls to voice homesickness, anger and despair; most did not sign or date their work, likely for fear of punishment by the authorities.
+- **Q:** How did the efforts of officials to erase the poems end up helping preserve them?
+  **A:** After brushed poems were painted over, detainees carved the characters into the wood; crews filled the carvings with putty and paint, which sealed the wood, and as the putty shrank and the paint cracked the poems reappeared.
+- **Q:** Why are no poems by women known, and how were some damaged poems recovered?
+  **A:** Women were held in the administration building, which burned in 1940, so any writing there was lost; poems copied by detainees Smiley Jann in 1931 and Tet Yee in 1932 were given to researchers in 1976 and helped them restore damaged or missing poems.
+- **Q:** How do scholars differ in reading the poems' form?
+  **A:** Him Mark Lai described them as largely in the classical Tang style, while R. John Williams argues their irregular rhythms and loose constructions sit closer to modern free verse than to the classics.
+
 ### [Jazz](../articles/culture-and-arts/jazz.md) — Tradition
 
 | Myth | Fact |

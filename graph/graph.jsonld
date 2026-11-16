@@ -2484,6 +2484,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Officials knew of the poems and had them repeatedly puttied and painted over, and two detainees copied nearly 200 of them in 1931–32; the 1970 find was a rediscovery. The walls also hold inscriptions in Japanese, Korean, Russian and other languages.",
+   "uso:myth": "The poems lay forgotten until a park ranger stumbled on them by chance in 1970, and they are the only writing on the walls.",
+   "uso:why": "The 1970 find launched the campaign that saved the barracks, so it became the story's starting point, and the Chinese poems' fame has overshadowed the other inscriptions."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did detainees at Angel Island write poems on the barracks walls, and why are most of them unsigned?",
+   "uso:answer": "Chinese men held for weeks, months or sometimes years while officials enforced the exclusion laws used the walls to voice homesickness, anger and despair; most did not sign or date their work, likely for fear of punishment by the authorities.",
+   "uso:questionFor": {
+    "@id": "us:chinese-detention-barracks-poetry"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the efforts of officials to erase the poems end up helping preserve them?",
+   "uso:answer": "After brushed poems were painted over, detainees carved the characters into the wood; crews filled the carvings with putty and paint, which sealed the wood, and as the putty shrank and the paint cracked the poems reappeared.",
+   "uso:questionFor": {
+    "@id": "us:chinese-detention-barracks-poetry"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why are no poems by women known, and how were some damaged poems recovered?",
+   "uso:answer": "Women were held in the administration building, which burned in 1940, so any writing there was lost; poems copied by detainees Smiley Jann in 1931 and Tet Yee in 1932 were given to researchers in 1976 and helped them restore damaged or missing poems.",
+   "uso:questionFor": {
+    "@id": "us:chinese-detention-barracks-poetry"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do scholars differ in reading the poems' form?",
+   "uso:answer": "Him Mark Lai described them as largely in the classical Tang style, while R. John Williams argues their irregular rhythms and loose constructions sit closer to modern free verse than to the classics.",
+   "uso:questionFor": {
+    "@id": "us:chinese-detention-barracks-poetry"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Immigration Station on Angel Island opens; poems begin to appear on the barracks walls within about ten months.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-01-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The restored barracks open to the public as a museum in Angel Island State Park.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1983"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The immigration station is designated a National Historic Landmark.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1997"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Save America's Treasures grant funds restoration of the station, including the poems.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2000"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second, expanded edition of Island is published by the University of Washington Press.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2014"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Date given in the earliest dated poem yet recorded (Island poem 100).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-10-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Detainee Smiley Jann (Jann Mon Fong) copies 99 poems from the walls.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1931"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Detainee Tet Yee (Yee Tet Ming) copies 96 poems from the walls.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1932"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fire destroys the administration building, which held the women's quarters.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-08-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The immigration station moves to the mainland.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-11-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1970-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Jann and Yee manuscripts are given to researchers, who use them to recover damaged or missing poems.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1976"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Him Mark Lai, Genny Lim and Judy Yung publish Island, with translations of 135 poems.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1980"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
@@ -12577,6 +12737,90 @@
     "@id": "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "U.S. Immigration Station, Angel Island",
+   "schema:url": {
+    "@id": "https://home.nps.gov/places/u-s-immigration-station-angel-island.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "San Francisco State University, Department of Modern Languages and Literatures (2020)",
+   "dcterms:title": "Professor Charles Egan Publishes Book on Angel Island",
+   "schema:url": {
+    "@id": "https://foreign.sfsu.edu/professor-charles-egan-publishes-book-angel-island"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Angel Island Immigration Station Foundation",
+   "dcterms:title": "Vault #17: Poetry Insider",
+   "schema:url": {
+    "@id": "https://www.aiisf.org/vault/poetryinsider"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Smithsonian magazine, Center for Folklife and Cultural Heritage blog (Ying Diao)",
+   "dcterms:title": "Echoes of History: Chinese Poetry and the Angel Island Immigration Station",
+   "schema:url": {
+    "@id": "https://www.smithsonianmag.com/blogs/smithsonian-center-folklife-cultural-heritage/2021/04/20/chinese-poetry-angel-island-immigration-station/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "University of Washington Press (2026)",
+   "dcterms:title": "Poetry and the Politics of Chinese Immigration on Angel Island: Q&A with Judy Yung",
+   "schema:url": {
+    "@id": "https://uwpressblog.com/2026/04/02/poetry-and-the-politics-of-chinese-immigration-on-angel-island-qa-with-judy-yung/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "JSTOR Daily (H.M.A. Leow, 2023)",
+   "dcterms:title": "Lost in Translation: Ezra Pound's Imagism and the Angel Island Poets",
+   "schema:url": {
+    "@id": "https://daily.jstor.org/lost-in-translation-ezra-pounds-imagism-and-the-angel-island-poets"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1",
@@ -27995,6 +28239,140 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:chinese-detention-barracks-poetry",
+   "@type": "uso:Work",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-detention-barracks-poetry/s6"
+    }
+   ],
+   "rdfs:label": "Chinese detention-barracks poetry",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1940"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   },
+   "skos:altLabel": [
+    "Angel Island poems",
+    "Angel Island poetry",
+    "Angel Island wall poems"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:american-poetry"
+    },
+    {
+     "@id": "us:asian-american-literature"
+    }
+   ],
+   "skos:definition": "The body of poems, mostly in classical Chinese forms, that immigrants held under the Chinese exclusion laws brushed and carved into the wooden walls of the men's detention barracks at the Angel Island Immigration Station between 1910 and 1940, rediscovered in 1970 and now regarded as the first literary body of work by Chinese in North America.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Chinese detention-barracks poetry",
+   "skos:related": [
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:immigration-to-the-united-states"
+    },
+    {
+     "@id": "us:japanese-americans"
+    },
+    {
+     "@id": "us:paper-sons"
+    }
+   ],
+   "uso:domain": "culture-and-arts",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/culture-and-arts/chinese-detention-barracks-poetry.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:tang-poetry"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:angel-island-immigration-station"
+   },
+   "uso:requires": {
+    "@id": "us:angel-island-immigration-station"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/9"
     }
    ]
   },

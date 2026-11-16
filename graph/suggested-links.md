@@ -17,13 +17,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.23 | `us:underground-railroad` | `us:united-states` | `us:canada`, `us:mexico`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
 | 2.20 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
-| 2.19 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.17 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.17 | `us:jim-crow-laws` | `us:reynolds-v-sims` | `us:alabama-constitution-of-1901`, `us:equal-protection`, `us:fourteenth-amendment` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.15 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
+| 2.13 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.13 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.12 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.11 | `us:california` | `us:hoover-dam` | `us:colorado-river`, `us:los-angeles`, `us:the-west` |
