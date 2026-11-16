@@ -30,20 +30,32 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1701 | The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1706-01-17 – 1790-04-17 | **[Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md)** (Person) |
+| 1706-01-17 | Born in Boston, Massachusetts (January 6 under the Old Style calendar then in use). — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1718 | **[New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md)** (City) |
 | 1718 | Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1722 | France makes New Orleans the capital of French Louisiana. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1723 | Strikes out on his own and finds work as a journeyman printer in Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1730 | Becomes sole proprietor of the printing business he had opened with a partner in 1728. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1731 | Helps organize the Library Company of Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1732-02-22 – 1799-12-14 | **[George Washington](../articles/presidents-and-founders/george-washington.md)** (Person) |
 | 1732-02-22 | Born at Popes Creek in Westmoreland County, Virginia (February 11 under the Julian calendar then in use). — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1737 | Becomes postmaster of Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1737-09-19 | The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1751 | Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1751-11-01 | Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1752 | Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1752-06 | Flies a kite in a Philadelphia thunderstorm to collect electrical charge from the clouds. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1752-08 | The bell, cast at the Whitechapel foundry, cracks on its first test strike soon after arriving in Philadelphia. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1752-10-19 | Publishes an account of the kite experiment in the Pennsylvania Gazette. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1753 | **[Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md)** (Symbol) |
 | 1753 | Philadelphia metalworkers John Pass and John Stow recast it; the bell face bears the date MDCCLIII. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1753 | Receives the Royal Society's Copley Medal and becomes deputy postmaster general for the northern colonies. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1754-05-09 | Prints the "Join, or Die" snake woodcut in the Pennsylvania Gazette, urging colonial union. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1754-07-03 | Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1757 | Sails to London as agent of the Pennsylvania Assembly, taking two enslaved men, Peter and King. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -54,6 +66,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775 – 1865-12-06 | **[Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md)** (Movement) |
 | 1775 | A Native uprising burns the San Diego mission church. — [California](../articles/states-and-territories/california.md) |
 | 1775 | Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1775 | Returns to Philadelphia and serves as a delegate to the Continental Congress. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1775-04-19 – 1783-09-03 | **[American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md)** (Conflict) |
 | 1775-04-19 | British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1775-04-20 | New England militia begin the siege of British-held Boston. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -61,6 +74,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1776 | Sent to France as one of the American commissioners. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1776-01-01 | The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -100,10 +114,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1778 | British captain James Cook reaches the islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1778 | France recognizes American independence and concludes an alliance with the United States. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1778 | The United States begins making treaties with Native nations; the Senate ratifies 370 of them by 1871. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1778 | The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1778-02-06 | American commissioners sign the Treaty of Alliance and the Treaty of Amity and Commerce with France. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1779 | Presents his credentials to the French court, becoming the first American minister received by a foreign government. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-06-21 | Spain enters the war against Britain. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -141,8 +157,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1784-10-22 | With no terms for Britain's Native allies in the treaty, U.S. commissioners dictate a separate peace to the Six Nations at Fort Stanwix. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1785 | Thomas Jefferson succeeds him in France; back home he is chosen president of Pennsylvania. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1787-02 | New York's refusal of the revised impost ends Congress's attempt to win a national tariff. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
@@ -188,6 +206,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
 | 1790-02-02 | The Court first convenes in the Exchange Building in New York City, a day late because some justices could not arrive in time. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1790-02-03 | Benjamin Franklin, as president of the Pennsylvania Abolition Society, signs an antislavery petition to the First Congress, which tables it. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1790-02-03 | Signs the society's petition asking the First Congress to act against slavery. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1790-04-17 | Dies in Philadelphia, no longer owning any enslaved people. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1790-05-29 | Rhode Island becomes the thirteenth and last original state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1790-08-02 | U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |

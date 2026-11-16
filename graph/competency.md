@@ -141,6 +141,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 | `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:presidency-of-the-united-states` | `us:theodore-roosevelt` | 1858-10-27 |
+| `us:united-states-minister-to-france` | `us:benjamin-franklin` | 1706-01-17 |
 | `us:united-states-minister-to-haiti` | `us:frederick-douglass` | 1818-02 |
 | `us:united-states-secretary-of-state` | `us:thomas-jefferson` | 1743-04-13 |
 | `us:vice-presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |

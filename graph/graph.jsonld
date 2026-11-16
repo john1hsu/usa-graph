@@ -1400,6 +1400,220 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Electrical forces had been recognized for more than a thousand years, and Franklin's kite was not hit by lightning; it gathered the storm's ambient charge, showing that lightning is electrical.",
+   "uso:myth": "Benjamin Franklin discovered electricity when lightning struck his kite.",
+   "uso:why": "The myth turns a careful (and dangerous) test of an idea into a lucky accident, and hides that Dalibard in France had demonstrated the same point about a month earlier."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Franklin's diplomacy in France help the United States win independence?",
+   "uso:answer": "As a commissioner from 1776 he worked to gain French support; in 1778 France recognized American independence and allied with the United States, and in 1779 he became the first American minister received by a foreign government.",
+   "uso:questionFor": {
+    "@id": "us:benjamin-franklin"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is Franklin's record on slavery described as a change over his lifetime rather than a single position?",
+   "uso:answer": "For about fifty years his household included enslaved people, including Peter, Jemima, King and Othello, but late in life he became president of the Pennsylvania abolition society and his last public act was its 1790 petition asking Congress to act against slavery.",
+   "uso:questionFor": {
+    "@id": "us:benjamin-franklin"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the 1752 kite experiment actually show, and why was it not a \"discovery of electricity\"?",
+   "uso:answer": "It showed that lightning is electrical by collecting a storm's ambient charge; electricity itself had been known for centuries, and the kite was not struck by lightning.",
+   "uso:questionFor": {
+    "@id": "us:benjamin-franklin"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Did Franklin formally propose the turkey as the national bird?",
+   "uso:answer": "No. In an unsent 1784 letter to his daughter mocking the eagle on the Society of the Cincinnati badge, he disparaged the eagle and praised the turkey, but he made no formal proposal.",
+   "uso:questionFor": {
+    "@id": "us:benjamin-franklin"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born in Boston, Massachusetts (January 6 under the Old Style calendar then in use).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1706-01-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Prints the \"Join, or Die\" snake woodcut in the Pennsylvania Gazette, urging colonial union.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1754-05-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sails to London as agent of the Pennsylvania Assembly, taking two enslaved men, Peter and King.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1757"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Returns to Philadelphia and serves as a delegate to the Continental Congress.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1775"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sent to France as one of the American commissioners.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "France recognizes American independence and concludes an alliance with the United States.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1778"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Presents his credentials to the French court, becoming the first American minister received by a foreign government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1779"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Jefferson succeeds him in France; back home he is chosen president of Pennsylvania.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1785"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1787"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the society's petition asking the First Congress to act against slavery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-02-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies in Philadelphia, no longer owning any enslaved people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1790-04-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Strikes out on his own and finds work as a journeyman printer in Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1723"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes sole proprietor of the printing business he had opened with a partner in 1728.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1730"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Helps organize the Library Company of Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1731"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes postmaster of Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1737"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1751"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Flies a kite in a Philadelphia thunderstorm to collect electrical charge from the clouds.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1752-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Publishes an account of the kite experiment in the Pennsylvania Gazette.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1752-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Receives the Royal Society's Copley Medal and becomes deputy postmaster general for the northern colonies.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1753"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No contemporary document records the visit or credits Ross with the design. Congress adopted the flag only in June 1777, Francis Hopkinson claimed the design in 1780, and Ross's documented work is as one of several Philadelphia flag makers.",
@@ -11769,6 +11983,160 @@
    "dcterms:title": "Pearl Harbor and Executive Order 9066",
    "schema:url": {
     "@id": "https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Benjamin Franklin: In His Own Words — Introduction",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/franklin/franklin-intro.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Benjamin Franklin: In His Own Words — A Cause for Revolution",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/franklin/franklin-cause.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Penn & Slavery Project, University of Pennsylvania Archives",
+   "dcterms:title": "Slave Ownership",
+   "schema:url": {
+    "@id": "https://pennandslaveryproject.archives.upenn.edu/category/history/slave-ownership"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Historical Society of Pennsylvania, Digital Library",
+   "dcterms:title": "Benjamin Franklin, 1706-1790",
+   "schema:url": {
+    "@id": "https://digitallibrary.hsp.org/Detail/entities/ENT.000000054"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "Benjamin Franklin: First American Diplomat, 1776–1785",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/b-franklin"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, Independence National Historical Park",
+   "dcterms:title": "Invisible Architects Walking Tour—Franklin Court",
+   "schema:url": {
+    "@id": "https://www.nps.gov/inde/learn/historyculture/invisible-architects-stop-8.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives, Prologue blog",
+   "dcterms:title": "From Ben Franklin to the Civil War: Antislavery Petitions in Congress",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2015/02/09/from-ben-franklin-to-the-civil-war-antislavery-petitions-in-congress/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 41)",
+   "dcterms:title": "Benjamin Franklin to Sarah Bache, 26 January 1784",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Franklin/01-41-02-0327"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Franklin Institute",
+   "dcterms:title": "Benjamin Franklin and the Kite Experiment",
+   "schema:url": {
+    "@id": "https://fi.edu/benjamin-franklin/kite-key-experiment"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Benjamin Franklin: In His Own Words — The New Republic",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/franklin/franklin-newrepublic.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Benjamin Franklin: In His Own Words — Scientist and Inventor",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/franklin/franklin-scientist.html"
    },
    "uso:sourceType": "government"
   },
@@ -27054,6 +27422,223 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:benjamin-franklin",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9"
+    }
+   ],
+   "rdfs:label": "Benjamin Franklin",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1706-01-17"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1790-04-17"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1790-04-17"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1706-01-17"
+   },
+   "skos:altLabel": [
+    "Ben Franklin",
+    "Dr. Franklin",
+    "Franklin"
+   ],
+   "skos:broader": {
+    "@id": "us:founders-of-the-united-states"
+   },
+   "skos:definition": "A Boston-born Philadelphia printer, writer, scientist and civic organizer (1706–1790) who became a colonial agent in London, a member of the Continental Congress, the first American minister received by a foreign government, a delegate to the Constitutional Convention and, after decades of owning enslaved people, president of Pennsylvania's antislavery society.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Benjamin Franklin",
+   "skos:related": [
+    {
+     "@id": "us:albany-plan"
+    },
+    {
+     "@id": "us:bald-eagle"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:e-pluribus-unum"
+    },
+    {
+     "@id": "us:franklin-turkey-national-bird-myth"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:library-company-of-philadelphia"
+    },
+    {
+     "@id": "us:lightning-rod"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:pennsylvania-gazette"
+    },
+    {
+     "@id": "us:philadelphia"
+    },
+    {
+     "@id": "us:poor-richards-almanack"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:society-of-the-cincinnati"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    },
+    {
+     "@id": "us:university-of-pennsylvania"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/presidents-and-founders/benjamin-franklin.md",
+   "uso:heldOffice": {
+    "@id": "us:united-states-minister-to-france"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": [
+    {
+     "@id": "us:pennsylvania-abolition-society"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9"
     }
    ]
   },

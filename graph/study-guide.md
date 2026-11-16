@@ -1035,6 +1035,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
   **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
 
+### [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Benjamin Franklin discovered electricity when lightning struck his kite. | Electrical forces had been recognized for more than a thousand years, and Franklin's kite was not hit by lightning; it gathered the storm's ambient charge, showing that lightning is electrical. |
+
+**Why it matters:** The myth turns a careful (and dangerous) test of an idea into a lucky accident, and hides that Dalibard in France had demonstrated the same point about a month earlier.
+
+- **Q:** How did Franklin's diplomacy in France help the United States win independence?
+  **A:** As a commissioner from 1776 he worked to gain French support; in 1778 France recognized American independence and allied with the United States, and in 1779 he became the first American minister received by a foreign government.
+- **Q:** Why is Franklin's record on slavery described as a change over his lifetime rather than a single position?
+  **A:** For about fifty years his household included enslaved people, including Peter, Jemima, King and Othello, but late in life he became president of the Pennsylvania abolition society and his last public act was its 1790 petition asking Congress to act against slavery.
+- **Q:** What did the 1752 kite experiment actually show, and why was it not a "discovery of electricity"?
+  **A:** It showed that lightning is electrical by collecting a storm's ambient charge; electricity itself had been known for centuries, and the kite was not struck by lightning.
+- **Q:** Did Franklin formally propose the turkey as the national bird?
+  **A:** No. In an unsent 1784 letter to his daughter mocking the eagle on the Society of the Cincinnati badge, he disparaged the eagle and praised the turkey, but he made no formal proposal.
+
 ### [George Washington](../articles/presidents-and-founders/george-washington.md) — Person
 
 | Myth | Fact |

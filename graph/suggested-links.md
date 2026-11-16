@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 3.93 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
-| 3.66 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
-| 3.40 | `us:abolitionism` | `us:pennsylvania` | `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers`, `us:underground-railroad` |
+| 3.70 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
 | 3.24 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
-| 2.83 | `us:e-pluribus-unum` | `us:treaty-of-paris-1783` | `us:benjamin-franklin`, `us:john-adams`, `us:second-continental-congress`, `us:united-states` |
-| 2.71 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
+| 2.70 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.67 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
-| 2.62 | `us:betsy-ross-flag-myth` | `us:e-pluribus-unum` | `us:flag-of-the-united-states`, `us:francis-hopkinson`, `us:national-symbols-of-the-united-states`, `us:second-continental-congress` |
+| 2.60 | `us:betsy-ross-flag-myth` | `us:e-pluribus-unum` | `us:flag-of-the-united-states`, `us:francis-hopkinson`, `us:national-symbols-of-the-united-states`, `us:second-continental-congress` |
+| 2.48 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
+| 2.45 | `us:benjamin-franklin` | `us:betsy-ross-flag-myth` | `us:american-revolutionary-war`, `us:george-washington`, `us:national-symbols-of-the-united-states`, `us:pennsylvania`, `us:philadelphia` |
 | 2.45 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
+| 2.40 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:constitutional-convention`, `us:second-continental-congress` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.23 | `us:underground-railroad` | `us:united-states` | `us:canada`, `us:mexico`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
+| 2.22 | `us:underground-railroad` | `us:united-states` | `us:canada`, `us:mexico`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
 | 2.20 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
-| 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.17 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.17 | `us:jim-crow-laws` | `us:reynolds-v-sims` | `us:alabama-constitution-of-1901`, `us:equal-protection`, `us:fourteenth-amendment` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.15 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.13 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
-| 2.13 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.12 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 2.11 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:second-continental-congress` |
 | 2.11 | `us:california` | `us:hoover-dam` | `us:colorado-river`, `us:los-angeles`, `us:the-west` |
 | 2.11 | `us:equal-protection` | `us:supreme-court-of-the-united-states` | `us:brown-v-board-of-education`, `us:due-process`, `us:fourteenth-amendment`, `us:obergefell-v-hodges`, `us:plessy-v-ferguson` |
-| 2.08 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |

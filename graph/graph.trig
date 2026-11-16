@@ -762,6 +762,20 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/benjamin-franklin.md" .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> .
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> .
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/george-washington> .
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/george-washington.md" .
@@ -11658,6 +11672,225 @@
   <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> {
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Electrical forces had been recognized for more than a thousand years, and Franklin's kite was not hit by lightning; it gathered the storm's ambient charge, showing that lightning is electrical." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Benjamin Franklin discovered electricity when lightning struck his kite." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The myth turns a careful (and dangerous) test of an idea into a lucky accident, and hides that Dalibard in France had demonstrated the same point about a month earlier." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did Franklin's diplomacy in France help the United States win independence?" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "As a commissioner from 1776 he worked to gain French support; in 1778 France recognized American independence and allied with the United States, and in 1779 he became the first American minister received by a foreign government." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why is Franklin's record on slavery described as a change over his lifetime rather than a single position?" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "For about fifty years his household included enslaved people, including Peter, Jemima, King and Othello, but late in life he became president of the Pennsylvania abolition society and his last public act was its 1790 petition asking Congress to act against slavery." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did the 1752 kite experiment actually show, and why was it not a \"discovery of electricity\"?" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It showed that lightning is electrical by collecting a storm's ambient charge; electricity itself had been known for centuries, and the kite was not struck by lightning." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Did Franklin formally propose the turkey as the national bird?" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "No. In an unsent 1784 letter to his daughter mocking the eagle on the Society of the Cincinnati badge, he disparaged the eagle and praised the turkey, but he made no formal proposal." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Prints the \"Join, or Die\" snake woodcut in the Pennsylvania Gazette, urging colonial union." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1754-05-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Sails to London as agent of the Pennsylvania Assembly, taking two enslaved men, Peter and King." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1757"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Returns to Philadelphia and serves as a delegate to the Continental Congress." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1775"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Sent to France as one of the American commissioners." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "France recognizes American independence and concludes an alliance with the United States." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1778"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Presents his credentials to the French court, becoming the first American minister received by a foreign government." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1779"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Jefferson succeeds him in France; back home he is chosen president of Pennsylvania." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1785"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1787"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the society's petition asking the First Congress to act against slavery." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Dies in Philadelphia, no longer owning any enslaved people." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1790-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born in Boston, Massachusetts (January 6 under the Old Style calendar then in use)." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1706-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Strikes out on his own and finds work as a journeyman printer in Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1723"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes sole proprietor of the printing business he had opened with a partner in 1728." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1730"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Helps organize the Library Company of Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1731"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes postmaster of Philadelphia." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1737"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1751"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Flies a kite in a Philadelphia thunderstorm to collect electrical charge from the clouds." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1752-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Publishes an account of the kite experiment in the Pennsylvania Gazette." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1752-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Receives the Royal Society's Copley Medal and becomes deputy postmaster general for the northern colonies." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1753"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Franklin" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#altLabel> "Ben Franklin" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Franklin" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#altLabel> "Franklin" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#definition> "A Boston-born Philadelphia printer, writer, scientist and civic organizer (1706–1790) who became a colonial agent in London, a member of the Continental Congress, the first American minister received by a foreign government, a delegate to the Constitutional Convention and, after decades of owning enslaved people, president of Pennsylvania's antislavery society." .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benjamin Franklin" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/albany-plan> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bald-eagle> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-adams> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/library-company-of-philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lightning-rod> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania-gazette> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/poor-richards-almanack> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/society-of-the-cincinnati> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/university-of-pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/benjamin-franklin.md" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-france> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/pennsylvania-abolition-society> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://schema.org/birthDate> "1706-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://schema.org/deathDate> "1790-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://schema.org/endDate> "1790-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://schema.org/startDate> "1706-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <http://purl.org/dc/terms/title> "Benjamin Franklin: In His Own Words — A Cause for Revolution" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s10> <https://schema.org/url> <https://www.loc.gov/exhibits/franklin/franklin-cause.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <http://purl.org/dc/terms/publisher> "Penn & Slavery Project, University of Pennsylvania Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <http://purl.org/dc/terms/title> "Slave Ownership" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s11> <https://schema.org/url> <https://pennandslaveryproject.archives.upenn.edu/category/history/slave-ownership> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <http://purl.org/dc/terms/title> "Benjamin Franklin: In His Own Words — Introduction" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1> <https://schema.org/url> <https://www.loc.gov/exhibits/franklin/franklin-intro.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <http://purl.org/dc/terms/publisher> "Historical Society of Pennsylvania, Digital Library" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <http://purl.org/dc/terms/title> "Benjamin Franklin, 1706-1790" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s2> <https://schema.org/url> <https://digitallibrary.hsp.org/Detail/entities/ENT.000000054> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. Department of State" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <http://purl.org/dc/terms/title> "Benjamin Franklin: First American Diplomat, 1776–1785" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s3> <https://schema.org/url> <https://history.state.gov/milestones/1776-1783/b-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <http://purl.org/dc/terms/publisher> "National Park Service, Independence National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <http://purl.org/dc/terms/title> "Invisible Architects Walking Tour—Franklin Court" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s4> <https://schema.org/url> <https://www.nps.gov/inde/learn/historyculture/invisible-architects-stop-8.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <http://purl.org/dc/terms/publisher> "National Archives, Prologue blog" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <http://purl.org/dc/terms/title> "From Ben Franklin to the Civil War: Antislavery Petitions in Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s5> <https://schema.org/url> <https://prologue.blogs.archives.gov/2015/02/09/from-ben-franklin-to-the-civil-war-antislavery-petitions-in-congress/> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 41)" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <http://purl.org/dc/terms/title> "Benjamin Franklin to Sarah Bache, 26 January 1784" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s6> <https://schema.org/url> <https://founders.archives.gov/documents/Franklin/01-41-02-0327> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <http://purl.org/dc/terms/publisher> "The Franklin Institute" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <http://purl.org/dc/terms/title> "Benjamin Franklin and the Kite Experiment" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s7> <https://schema.org/url> <https://fi.edu/benjamin-franklin/kite-key-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <http://purl.org/dc/terms/title> "Benjamin Franklin: In His Own Words — The New Republic" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s8> <https://schema.org/url> <https://www.loc.gov/exhibits/franklin/franklin-newrepublic.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <http://purl.org/dc/terms/title> "Benjamin Franklin: In His Own Words — Scientist and Inventor" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s9> <https://schema.org/url> <https://www.loc.gov/exhibits/franklin/franklin-scientist.html> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> {
   <https://github.com/john1hsu/usa-graph/id/george-washington/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/george-washington/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Mount Vernon finds no wood in any of his dentures; they were made of human teeth, ivory, metal and probably cow and horse teeth, and staining could make them look like wood." .
@@ -16453,6 +16686,7 @@
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
@@ -16580,6 +16814,7 @@
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/albany-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -16678,6 +16913,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -16808,6 +17044,7 @@
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/bald-eagle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/bald-eagle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/baltimore-and-ohio-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -16831,12 +17068,36 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/battles-of-lexington-and-concord> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/bear-flag-revolt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
-  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-r-curtis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/bessie-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -17261,6 +17522,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -17316,6 +17578,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -17667,6 +17930,8 @@
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
@@ -17746,6 +18011,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fred-gray> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -17844,6 +18110,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
@@ -18335,6 +18602,7 @@
   <https://github.com/john1hsu/usa-graph/id/jo-ann-robinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/john-adams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-adams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/john-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/john-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/john-adams> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18458,6 +18726,8 @@
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/liberty-party> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/library-company-of-philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/lightning-rod> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/liliuokalani> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/lincoln-douglas-debates> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/lincoln-douglas-debates> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
@@ -19088,6 +19358,8 @@
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/pendleton-civil-service-reform-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania-abolition-society> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania-gazette> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania-gradual-abolition-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania-gradual-abolition-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
@@ -19119,6 +19391,7 @@
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -19127,6 +19400,7 @@
   <https://github.com/john1hsu/usa-graph/id/pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/philadelphia> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
@@ -19173,6 +19447,7 @@
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/plymouth-colony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
+  <https://github.com/john1hsu/usa-graph/id/poor-richards-almanack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19350,6 +19625,7 @@
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/second-great-awakening> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
@@ -19455,6 +19731,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -19504,6 +19781,7 @@
   <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/smithsonian-tropical-research-institute> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/society-of-the-cincinnati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-act-of-1935> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-service> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/sojourner-truth/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19762,6 +20040,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
@@ -19842,6 +20121,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
@@ -19894,6 +20174,7 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-shackamaxon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -20068,6 +20349,9 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-department-of-commerce-v-montana> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-department-of-labor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/united-states-invasion-of-panama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-france> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -20137,6 +20421,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/university-of-pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/university-of-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
