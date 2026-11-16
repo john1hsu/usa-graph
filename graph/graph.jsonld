@@ -7113,6 +7113,103 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Constitution does not expressly grant the power, but the idea was older than Marbury; state courts had voided statutes under state constitutions, Hamilton defended it in Federalist No. 78, and federal judges had weighed the constitutionality of acts of Congress in the 1790s. Marbury was the first time the Supreme Court actually held an act of Congress void.",
+   "uso:myth": "Marbury v. Madison invented judicial review, or the Constitution expressly gives the Supreme Court the power to strike down laws.",
+   "uso:why": "Treating Marbury as the origin hides both the founding-era debate that made the power widely expected and the real gap in the text that keeps its scope argued over today."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Marbury v. Madison end with the Supreme Court refusing to order delivery of William Marbury's commission, even though it found he was entitled to it?",
+   "uso:answer": "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue writs of mandamus in an original case added to the original jurisdiction set by Article III, so that provision was unconstitutional and void, leaving the Court without power to issue the writ.",
+   "uso:questionFor": {
+    "@id": "us:judicial-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Alexander Hamilton argue in Federalist No. 78 that judicial review would not make judges superior to Congress?",
+   "uso:answer": "He said the judiciary, with neither force nor will but only judgment, was the least dangerous branch, and that preferring the Constitution to a conflicting statute simply put the will of the people above the will of their agents, so it implied the people's power was superior to both.",
+   "uso:questionFor": {
+    "@id": "us:judicial-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the views of Jefferson and Lincoln differ from the position the Court took in Cooper v. Aaron?",
+   "uso:answer": "Jefferson called the people the ultimate arbiter and Lincoln said rulings bind the parties but must not irrevocably fix government policy, while in Cooper v. Aaron the Court said the federal judiciary is supreme in expounding the Constitution and that its reading in Brown bound every state official sworn to support the Constitution.",
+   "uso:questionFor": {
+    "@id": "us:judicial-review"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1792"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1796"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-02-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1823-06-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Scott v. Sandford the Court strikes down the Missouri Compromise, the next federal statute it holds unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1958-09-29"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The marchers had agreed not to carry firearms or clubs, the state's historical marker and a National Park Service study describe them as unarmed, and over a dozen marchers were shot in the back while fleeing; exactly how the first shots came is still debated.",
@@ -17186,6 +17283,90 @@
     "@id": "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Constitution Annotated (Congressional Research Service), via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "ArtIII.S1.2 Historical Background on Judicial Review",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/article-3/section-1/historical-background-of-judicial-review"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Federal Judicial Center",
+   "dcterms:title": "Marbury v. Madison (1803)",
+   "schema:url": {
+    "@id": "https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Marbury v. Madison (1803)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/marbury-v-madison"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "The Federalist Papers: No. 78, The Judiciary Department",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/fed78.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "First Inaugural Address of Abraham Lincoln, Monday, March 4, 1861",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/19th_century/lincoln1.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Teaching American History (Ashbrook Center)",
+   "dcterms:title": "Cooper v. Aaron",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/cooper-v-aaron/"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1",
@@ -34397,6 +34578,146 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/jim-crow-laws/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:judicial-review",
+   "@type": "uso:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6"
+    }
+   ],
+   "rdfs:label": "Judicial review",
+   "skos:altLabel": [
+    "Judicial review in the United States",
+    "Power of judicial review"
+   ],
+   "skos:broader": {
+    "@id": "us:separation-of-powers"
+   },
+   "skos:definition": "The power of American courts, above all the Supreme Court, to decide whether a law or other government act conflicts with the Constitution and to refuse to enforce it if it does; the Constitution does not state the power expressly, but the Supreme Court first used it against an act of Congress in Marbury v. Madison (1803).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "Judicial review",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:alexander-hamilton"
+    },
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:cooper-v-aaron"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:hayburns-case"
+    },
+    {
+     "@id": "us:hylton-v-united-states"
+    },
+    {
+     "@id": "us:john-marshall"
+    },
+    {
+     "@id": "us:judiciary-act-of-1789"
+    },
+    {
+     "@id": "us:marbury-v-madison"
+    },
+    {
+     "@id": "us:missouri-compromise"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    }
+   ],
+   "uso:domain": "constitution-and-government",
+   "uso:establishedBy": {
+    "@id": "us:marbury-v-madison"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/constitution-and-government/judicial-review.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:federalist-papers"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:checks-and-balances"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7"
     }
    ]
   },

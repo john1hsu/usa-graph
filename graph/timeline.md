@@ -234,6 +234,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
 | 1791-12-15 | Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1792 | In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1792-04-05 | George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1792-04-14 | Washington signs a replacement act giving the House 105 seats under Jefferson's method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1793 – 1865 | **[Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md)** (Movement) |
@@ -243,6 +244,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1796 | In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1797 – 1883-11-26 | **[Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md)** (Person) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -260,6 +262,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803 | The United States buys the Louisiana territory, about 530 million acres, from France for $15 million. — [United States](../articles/states-and-territories/united-states.md) |
 | 1803-01 | Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-02-24 | In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1803-02-27 | In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803-04-11 | French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-04-30 – 1803-12-20 | **[Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md)** (Event) |
@@ -312,6 +315,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1822 | Born Araminta "Minty" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1822-03 | Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823 | British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823-06-12 | Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
 | 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
@@ -441,6 +445,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1857 | Brings her aging parents north after learning her father faces arrest. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1857 | In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1857 | In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1857 | In Scott v. Sandford the Court strikes down the Missouri Compromise, the next federal statute it holds unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1857 | Moves to Harmonia, Michigan, near Battle Creek. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1857-03-04 | In his inaugural address, President James Buchanan says he will submit to the Court's coming decision. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1857-03-06 | **[Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md)** (CourtCase) |
@@ -464,6 +469,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1861 | Morrill reintroduces the bill after Southern states secede. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1861-02-04 | Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1861-03-04 | Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1861-03-04 | Inaugurated after seven Southern states had seceded. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
 | 1861-04-12 | Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -1077,6 +1083,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1958-02 | Minnijean Brown is expelled after retaliating against harassment. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-05 | Ernest Green becomes the first Black student to graduate from Central High. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
+| 1958-09-29 | In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1959-03-18 | President Eisenhower signs the statehood act passed by Congress. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |

@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
 
-…and 51 more.
+…and 52 more.
 
 ## Happenings by era
 
@@ -100,6 +100,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
+| `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
@@ -109,9 +110,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
 | `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
-| `us:servicemens-readjustment-act-of-1944` | interpretive |  |
 
-…and 10 more.
+…and 11 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -184,6 +184,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
+| `us:marbury-v-madison` | `us:judicial-review` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
 | `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |

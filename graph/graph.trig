@@ -190,6 +190,15 @@
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/judicial-review.md" .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> .
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/supreme-court-of-the-united-states.md" .
@@ -3876,6 +3885,130 @@
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/constitutionalconvention-september17.htm> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/judicial-review#graph> {
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Constitution does not expressly grant the power, but the idea was older than Marbury; state courts had voided statutes under state constitutions, Hamilton defended it in Federalist No. 78, and federal judges had weighed the constitutionality of acts of Congress in the 1790s. Marbury was the first time the Supreme Court actually held an act of Congress void." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Marbury v. Madison invented judicial review, or the Constitution expressly gives the Supreme Court the power to strike down laws." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating Marbury as the origin hides both the founding-era debate that made the power widely expected and the real gap in the text that keeps its scope argued over today." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Marbury v. Madison end with the Supreme Court refusing to order delivery of William Marbury's commission, even though it found he was entitled to it?" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue writs of mandamus in an original case added to the original jurisdiction set by Article III, so that provision was unconstitutional and void, leaving the Court without power to issue the writ." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Alexander Hamilton argue in Federalist No. 78 that judicial review would not make judges superior to Congress?" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He said the judiciary, with neither force nor will but only judgment, was the least dangerous branch, and that preferring the Constitution to a conflicting statute simply put the will of the people above the will of their agents, so it implied the people's power was superior to both." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the views of Jefferson and Lincoln differ from the position the Court took in Cooper v. Aaron?" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Jefferson called the people the ultimate arbiter and Lincoln said rulings bind the parties but must not irrevocably fix government policy, while in Cooper v. Aaron the Court said the federal judiciary is supreme in expounding the Constitution and that its reading in Brown bound every state official sworn to support the Constitution." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1792"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1796"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1823-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Scott v. Sandford the Court strikes down the Missouri Compromise, the next federal statute it holds unconstitutional." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1857"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1958-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Principle> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2000/01/rdf-schema#label> "Judicial review" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#altLabel> "Judicial review in the United States" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#altLabel> "Power of judicial review" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#definition> "The power of American courts, above all the Supreme Court, to decide whether a law or other government act conflicts with the Constitution and to refuse to enforce it if it does; the Constitution does not state the power expressly, but the Supreme Court first used it against an act of Congress in Marbury v. Madison (1803)." .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#prefLabel> "Judicial review" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayburns-case> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hylton-v-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/judicial-review.md" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/checks-and-balances> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <http://purl.org/dc/terms/publisher> "Constitution Annotated (Congressional Research Service), via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <http://purl.org/dc/terms/title> "ArtIII.S1.2 Historical Background on Judicial Review" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/article-3/section-1/historical-background-of-judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <http://purl.org/dc/terms/publisher> "Federal Judicial Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <http://purl.org/dc/terms/title> "Marbury v. Madison (1803)" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s2> <https://schema.org/url> <https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <http://purl.org/dc/terms/title> "Marbury v. Madison (1803)" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s3> <https://schema.org/url> <https://www.archives.gov/milestone-documents/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <http://purl.org/dc/terms/title> "The Federalist Papers: No. 78, The Judiciary Department" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/fed78.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <http://purl.org/dc/terms/title> "First Inaugural Address of Abraham Lincoln, Monday, March 4, 1861" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> <https://schema.org/url> <https://avalon.law.yale.edu/19th_century/lincoln1.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://purl.org/dc/terms/publisher> "Teaching American History (Ashbrook Center)" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://purl.org/dc/terms/title> "Cooper v. Aaron" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://schema.org/url> <https://teachingamericanhistory.org/document/cooper-v-aaron/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> {
@@ -17330,6 +17463,7 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
@@ -17435,6 +17569,7 @@
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/albany-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
@@ -17618,6 +17753,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
@@ -17819,6 +17955,7 @@
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
@@ -17953,6 +18090,7 @@
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-privileges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/checks-and-balances> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18150,8 +18288,10 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -18160,6 +18300,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
@@ -18176,6 +18317,7 @@
   <https://github.com/john1hsu/usa-graph/id/continental-congress> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/continental-congress> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/country-music> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -18229,6 +18371,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
@@ -18326,6 +18469,7 @@
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/sectionalism> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-americas> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -18511,6 +18655,8 @@
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -18952,6 +19098,7 @@
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hay-bunau-varilla-treaty> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/hay-pauncefote-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/hayburns-case> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19076,6 +19223,7 @@
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/hurricane-katrina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/husband-e-kimmel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/hylton-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/ida-b-wells> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -19285,6 +19433,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/john-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/john-mitchell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
@@ -19295,9 +19444,27 @@
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/judicial-procedures-reform-bill-of-1937> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
-  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-review> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/juneteenth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -19467,8 +19634,12 @@
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/manzanar> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+  <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/march-on-washington-for-jobs-and-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -19584,6 +19755,7 @@
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/sectionalism> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/missouri-compromise> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -20331,9 +20503,11 @@
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -20572,6 +20746,7 @@
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -20765,6 +20940,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
@@ -20840,6 +21016,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
@@ -21055,6 +21232,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .

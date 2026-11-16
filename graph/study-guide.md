@@ -266,6 +266,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+### [Judicial review](../articles/constitution-and-government/judicial-review.md) — Principle
+
+| Myth | Fact |
+|---|---|
+| Marbury v. Madison invented judicial review, or the Constitution expressly gives the Supreme Court the power to strike down laws. | The Constitution does not expressly grant the power, but the idea was older than Marbury; state courts had voided statutes under state constitutions, Hamilton defended it in Federalist No. 78, and federal judges had weighed the constitutionality of acts of Congress in the 1790s. Marbury was the first time the Supreme Court actually held an act of Congress void. |
+
+**Why it matters:** Treating Marbury as the origin hides both the founding-era debate that made the power widely expected and the real gap in the text that keeps its scope argued over today.
+
+- **Q:** Why did Marbury v. Madison end with the Supreme Court refusing to order delivery of William Marbury's commission, even though it found he was entitled to it?
+  **A:** Marshall held that the part of the Judiciary Act of 1789 letting the Court issue writs of mandamus in an original case added to the original jurisdiction set by Article III, so that provision was unconstitutional and void, leaving the Court without power to issue the writ.
+- **Q:** How did Alexander Hamilton argue in Federalist No. 78 that judicial review would not make judges superior to Congress?
+  **A:** He said the judiciary, with neither force nor will but only judgment, was the least dangerous branch, and that preferring the Constitution to a conflicting statute simply put the will of the people above the will of their agents, so it implied the people's power was superior to both.
+- **Q:** How did the views of Jefferson and Lincoln differ from the position the Court took in Cooper v. Aaron?
+  **A:** Jefferson called the people the ultimate arbiter and Lincoln said rulings bind the parties but must not irrevocably fix government policy, while in Cooper v. Aaron the Court said the federal judiciary is supreme in expounding the Constitution and that its reading in Brown bound every state official sworn to support the Constitution.
+
 ### [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) — Institution
 
 | Myth | Fact |

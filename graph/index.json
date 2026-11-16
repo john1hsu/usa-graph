@@ -8694,6 +8694,178 @@
   ]
  },
  {
+  "id": "us:judicial-review",
+  "title": "Judicial review",
+  "aliases": [
+   "Judicial review in the United States",
+   "Power of judicial review"
+  ],
+  "type": "Principle",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/constitution-and-government/judicial-review.md",
+  "created": "2026-11-16",
+  "summary": "The power of American courts, above all the Supreme Court, to decide whether a law or other government act conflicts with the Constitution and to refuse to enforce it if it does; the Constitution does not state the power expressly, but the Supreme Court first used it against an act of Congress in Marbury v. Madison (1803).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marbury-v-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alexander-hamilton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judiciary-act-of-1789"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hayburns-case"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hylton-v-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:missouri-compromise"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cooper-v-aaron"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:marbury-v-madison",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:checks-and-balances",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:federalist-papers",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:constitutional-convention",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Marbury v. Madison end with the Supreme Court refusing to order delivery of William Marbury's commission, even though it found he was entitled to it?",
+    "answer": "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue writs of mandamus in an original case added to the original jurisdiction set by Article III, so that provision was unconstitutional and void, leaving the Court without power to issue the writ."
+   },
+   {
+    "question": "How did Alexander Hamilton argue in Federalist No. 78 that judicial review would not make judges superior to Congress?",
+    "answer": "He said the judiciary, with neither force nor will but only judgment, was the least dangerous branch, and that preferring the Constitution to a conflicting statute simply put the will of the people above the will of their agents, so it implied the people's power was superior to both."
+   },
+   {
+    "question": "How did the views of Jefferson and Lincoln differ from the position the Court took in Cooper v. Aaron?",
+    "answer": "Jefferson called the people the ultimate arbiter and Lincoln said rulings bind the parties but must not irrevocably fix government policy, while in Cooper v. Aaron the Court said the federal judiciary is supreme in expounding the Constitution and that its reading in Brown bound every state official sworn to support the Constitution."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1792",
+    "event": "In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional."
+   },
+   {
+    "date": "1796",
+    "event": "In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it."
+   },
+   {
+    "date": "1803-02-24",
+    "event": "In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional."
+   },
+   {
+    "date": "1823-06-12",
+    "event": "Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter."
+   },
+   {
+    "date": "1857",
+    "event": "In Scott v. Sandford the Court strikes down the Missouri Compromise, the next federal statute it holds unconstitutional."
+   },
+   {
+    "date": "1861-03-04",
+    "event": "Abraham Lincoln's first inaugural address argues that Court rulings bind the parties but should not irrevocably fix national policy."
+   },
+   {
+    "date": "1958-09-29",
+    "event": "In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation."
+   }
+  ],
+  "misconception": {
+   "myth": "Marbury v. Madison invented judicial review, or the Constitution expressly gives the Supreme Court the power to strike down laws.",
+   "fact": "The Constitution does not expressly grant the power, but the idea was older than Marbury; state courts had voided statutes under state constitutions, Hamilton defended it in Federalist No. 78, and federal judges had weighed the constitutionality of acts of Congress in the 1790s. Marbury was the first time the Supreme Court actually held an act of Congress void.",
+   "why": "Treating Marbury as the origin hides both the founding-era debate that made the power widely expected and the real gap in the text that keeps its scope argued over today."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/constitution-conan/article-3/section-1/historical-background-of-judicial-review",
+   "https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison",
+   "https://www.archives.gov/milestone-documents/marbury-v-madison",
+   "https://avalon.law.yale.edu/18th_century/fed78.asp",
+   "https://avalon.law.yale.edu/19th_century/lincoln1.asp",
+   "https://teachingamericanhistory.org/document/cooper-v-aaron/"
+  ]
+ },
+ {
   "id": "us:lattimer-massacre",
   "title": "Lattimer massacre",
   "aliases": [
