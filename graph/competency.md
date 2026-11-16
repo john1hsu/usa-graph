@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 
-…and 58 more.
+…and 59 more.
 
 ## Happenings by era
 
@@ -96,6 +96,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:frederick-douglass` | interpretive |  |
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
+| `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
@@ -109,9 +110,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
 | `us:monroe-doctrine` | interpretive |  |
 | `us:native-americans` | interpretive |  |
-| `us:panama-canal` | interpretive |  |
 
-…and 13 more.
+…and 14 more.
 
 ## Places with nothing tied to them (gap)
 

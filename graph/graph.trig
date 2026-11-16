@@ -582,6 +582,18 @@
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s4> .
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s5> .
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s6> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/foreign-relations-and-military/good-neighbor-policy.md" .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> .
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> .
 <https://github.com/john1hsu/usa-graph/id/panama-canal#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/panama-canal#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
 <https://github.com/john1hsu/usa-graph/id/panama-canal#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/foreign-relations-and-military/panama-canal.md" .
@@ -9437,6 +9449,162 @@
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/9> .
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <https://schema.org/endDate> "1911-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> <https://schema.org/startDate> "1911-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/good-neighbor-policy#graph> {
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The last Marines left Nicaragua on January 2, 1933, two months before Roosevelt's inauguration; the retreat from intervention began under Herbert Hoover, and Roosevelt continued it, ending the occupation of Haiti in 1934." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Franklin D. Roosevelt's Good Neighbor policy is what brought the Marines home from Nicaragua." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The policy is named for a phrase in Roosevelt's 1933 inaugural address, so changes that began under his predecessors are often credited to him." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did abrogating the 1903 treaty with Cuba matter to the Good Neighbor policy?" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "That treaty, based on the Platt Amendment, had given the United States a legal right to intervene in Cuba, so giving it up in 1934 turned the pledge against armed intervention into a concrete change." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the U.S. position on non-intervention change between Montevideo in 1933 and Buenos Aires in 1936?" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "At Montevideo Hull voted for the article forbidding intervention but attached a reservation keeping the U.S. free to follow its own policies and the law of nations; at Buenos Aires the United States accepted the non-intervention protocol without reservation, as Latin American states had wanted." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Roosevelt's response to Mexico's 1938 oil expropriation test the policy?" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Instead of intervening on behalf of the American companies, his administration accepted Mexico's right to expropriate with compensation and negotiated a settlement, partly to keep Mexico from aligning with the Axis." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do some historians see a contradiction in the Good Neighbor policy?" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "While renouncing military intervention, Washington backed dictators such as Somoza, Trujillo and Batista and kept influence through advisers, loans, trade treaties and military ties, and the Cold War brought renewed interventions." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Cooke-Zevada agreement commits Mexico to pay about $29 million to American oil firms." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-04-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Marines land in Haiti after the assassination of President Jean Vilbrun Guillaume Sam, beginning a nineteen-year occupation." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1915-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "At Montevideo, Secretary of State Cordell Hull votes for the convention's non-intervention article but enters a U.S. reservation." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Convention on Rights and Duties of States, whose Article 8 forbids intervention, is signed at Montevideo." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1936-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1938-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Policy> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2000/01/rdf-schema#label> "Good Neighbor Policy" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "Good Neighbor diplomacy" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "Good Neighbour Policy" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#definition> "The U.S. approach to Latin America and the Caribbean that President Franklin D. Roosevelt announced in his inaugural address of March 4, 1933, renouncing armed intervention in the hemisphere in favor of cooperation and trade; it built on steps taken under Herbert Hoover and was followed by the withdrawal of U.S. forces from Haiti and the end of the U.S. treaty right to intervene in Cuba." .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Good Neighbor Policy" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cordell-hull> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexico> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montevideo-convention> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/mexican-oil-expropriation> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/united-states-occupation-of-haiti> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/good-neighbor-policy.md" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#introducedIn> <https://github.com/john1hsu/usa-graph/id/first-inaugural-address-of-franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://schema.org/startDate> "1933-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <http://purl.org/dc/terms/title> "Good Neighbor Policy, 1933" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1> <https://schema.org/url> <https://history.state.gov/milestones/1921-1936/good-neighbor> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <http://purl.org/dc/terms/publisher> "Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <http://purl.org/dc/terms/title> "First Inaugural Address of Franklin D. Roosevelt, March 4, 1933" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2> <https://schema.org/url> <https://avalon.law.yale.edu/20th_century/froos1.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <http://purl.org/dc/terms/publisher> "Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <http://purl.org/dc/terms/title> "Convention on Rights and Duties of States (inter-American), December 26, 1933" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3> <https://schema.org/url> <https://avalon.law.yale.edu/20th_century/intam03.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <http://purl.org/dc/terms/title> "Franklin D. Roosevelt: Foreign Affairs (William E. Leuchtenburg)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4> <https://schema.org/url> <https://millercenter.org/node/315> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <http://purl.org/dc/terms/title> "Good Neighbor Policy (Mark T. Berger, Dictionary of American History)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5> <https://schema.org/url> <https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <http://purl.org/dc/terms/title> "U.S. Invasion and Occupation of Haiti, 1915–34" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6> <https://schema.org/url> <https://history.state.gov/milestones/1914-1920/haiti> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <http://purl.org/dc/terms/title> "Mexican Expropriation of Foreign Oil, 1938" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7> <https://schema.org/url> <https://history.state.gov/milestones/1937-1945/mexican-oil> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <http://purl.org/dc/terms/publisher> "Marine Corps University Press" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <http://purl.org/dc/terms/title> "The Marine Air-Ground Task Force in Nicaragua, 1927–33 (Micheal D. Russ, Marine Corps History 2, no. 1)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8> <https://schema.org/url> <https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCH/Marine-Corps-History-Summer-2016/The-Marine-AirGround-Task-Force-in-Nicaragua/> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <http://purl.org/dc/terms/title> "Buenos Aires Conference (1936) (Larman C. Wilson, Encyclopedia of Latin American History and Culture)" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9> <https://schema.org/url> <https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/buenos-aires-conference-1936> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/panama-canal#graph> {
@@ -19414,6 +19582,7 @@
   <https://github.com/john1hsu/usa-graph/id/convict-leasing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
+  <https://github.com/john1hsu/usa-graph/id/cordell-hull> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/cornell-university> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/country-music> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/crossroads-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -19824,6 +19993,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/first-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+  <https://github.com/john1hsu/usa-graph/id/first-inaugural-address-of-franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/first-thanksgiving-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
@@ -19834,11 +20004,13 @@
   <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/foreign-miners-tax-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
+  <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
@@ -19930,6 +20102,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
@@ -20073,9 +20246,26 @@
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/gold-rush-riches-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
-  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
-  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/goodridge-v-department-of-public-health> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/grand-canyon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/gray-v-sanders> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
@@ -20109,6 +20299,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -20269,8 +20460,10 @@
   <https://github.com/john1hsu/usa-graph/id/henry-h-arnold> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/henry-l-stimson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#commemoratedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
@@ -20861,10 +21054,12 @@
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/mexican-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/mexican-oil-expropriation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/mexican-repatriation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -20983,12 +21178,14 @@
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/montana-class-battleship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/montana> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/montana> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/montevideo-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -21366,6 +21563,7 @@
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+  <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -21659,6 +21857,7 @@
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/rosa-parks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
@@ -22539,6 +22738,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/united-states-minister-to-haiti> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-occupation-of-haiti> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/united-states-occupation-of-haiti> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
@@ -22852,6 +23052,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .

@@ -5770,6 +5770,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The last Marines left Nicaragua on January 2, 1933, two months before Roosevelt's inauguration; the retreat from intervention began under Herbert Hoover, and Roosevelt continued it, ending the occupation of Haiti in 1934.",
+   "uso:myth": "Franklin D. Roosevelt's Good Neighbor policy is what brought the Marines home from Nicaragua.",
+   "uso:why": "The policy is named for a phrase in Roosevelt's 1933 inaugural address, so changes that began under his predecessors are often credited to him."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did abrogating the 1903 treaty with Cuba matter to the Good Neighbor policy?",
+   "uso:answer": "That treaty, based on the Platt Amendment, had given the United States a legal right to intervene in Cuba, so giving it up in 1934 turned the pledge against armed intervention into a concrete change.",
+   "uso:questionFor": {
+    "@id": "us:good-neighbor-policy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the U.S. position on non-intervention change between Montevideo in 1933 and Buenos Aires in 1936?",
+   "uso:answer": "At Montevideo Hull voted for the article forbidding intervention but attached a reservation keeping the U.S. free to follow its own policies and the law of nations; at Buenos Aires the United States accepted the non-intervention protocol without reservation, as Latin American states had wanted.",
+   "uso:questionFor": {
+    "@id": "us:good-neighbor-policy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Roosevelt's response to Mexico's 1938 oil expropriation test the policy?",
+   "uso:answer": "Instead of intervening on behalf of the American companies, his administration accepted Mexico's right to expropriate with compensation and negotiated a settlement, partly to keep Mexico from aligning with the Axis.",
+   "uso:questionFor": {
+    "@id": "us:good-neighbor-policy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some historians see a contradiction in the Good Neighbor policy?",
+   "uso:answer": "While renouncing military intervention, Washington backed dictators such as Somoza, Trujillo and Batista and kept influence through advisers, loans, trade treaties and military ties, and the Cold War brought renewed interventions.",
+   "uso:questionFor": {
+    "@id": "us:good-neighbor-policy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. Marines land in Haiti after the assassination of President Jean Vilbrun Guillaume Sam, beginning a nineteen-year occupation.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1915-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Cooke-Zevada agreement commits Mexico to pay about $29 million to American oil firms.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-04-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1926"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-01-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Montevideo, Secretary of State Cordell Hull votes for the convention's non-intervention article but enters a U.S. reservation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-12-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Convention on Rights and Duties of States, whose Article 8 forbids intervention, is signed at Montevideo.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-12-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1936-12-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-03-18"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/great-depression/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The downturn had already begun in August 1929, and production, prices and incomes were falling before the crash; the crash was one of a series of financial shocks, and the waves of bank failures and the shrinking money supply of 1930–33 did most to turn a recession into a depression.",
@@ -16955,6 +17088,132 @@
     "@id": "https://www.census.gov/programs-surveys/decennial-census/decade/decennial-facts.1900.html"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Good Neighbor Policy, 1933",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1921-1936/good-neighbor"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Avalon Project, Yale Law School",
+   "dcterms:title": "First Inaugural Address of Franklin D. Roosevelt, March 4, 1933",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/20th_century/froos1.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Avalon Project, Yale Law School",
+   "dcterms:title": "Convention on Rights and Duties of States (inter-American), December 26, 1933",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/20th_century/intam03.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia",
+   "dcterms:title": "Franklin D. Roosevelt: Foreign Affairs (William E. Leuchtenburg)",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/315"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Gale)",
+   "dcterms:title": "Good Neighbor Policy (Mark T. Berger, Dictionary of American History)",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/good-neighbor-policy"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "U.S. Invasion and Occupation of Haiti, 1915–34",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1914-1920/haiti"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Mexican Expropriation of Foreign Oil, 1938",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1937-1945/mexican-oil"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Marine Corps University Press",
+   "dcterms:title": "The Marine Air-Ground Task Force in Nicaragua, 1927–33 (Micheal D. Russ, Marine Corps History 2, no. 1)",
+   "schema:url": {
+    "@id": "https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCH/Marine-Corps-History-Summer-2016/The-Marine-AirGround-Task-Force-in-Nicaragua/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopedia.com (Gale)",
+   "dcterms:title": "Buenos Aires Conference (1936) (Larman C. Wilson, Encyclopedia of Latin American History and Culture)",
+   "schema:url": {
+    "@id": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/buenos-aires-conference-1936"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/great-depression/s1",
@@ -34802,6 +35061,148 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/gilded-age/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:good-neighbor-policy",
+   "@type": "uso:Policy",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/good-neighbor-policy/s9"
+    }
+   ],
+   "rdfs:label": "Good Neighbor Policy",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1933-03-04"
+   },
+   "skos:altLabel": [
+    "Good Neighbor diplomacy",
+    "Good Neighbour Policy"
+   ],
+   "skos:broader": {
+    "@id": "us:foreign-relations-of-the-united-states"
+   },
+   "skos:definition": "The U.S. approach to Latin America and the Caribbean that President Franklin D. Roosevelt announced in his inaugural address of March 4, 1933, renouncing armed intervention in the hemisphere in favor of cooperation and trade; it built on steps taken under Herbert Hoover and was followed by the withdrawal of U.S. forces from Haiti and the end of the U.S. treaty right to intervene in Cuba.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "Good Neighbor Policy",
+   "skos:related": [
+    {
+     "@id": "us:cordell-hull"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:mexico"
+    },
+    {
+     "@id": "us:monroe-doctrine"
+    },
+    {
+     "@id": "us:montevideo-convention"
+    },
+    {
+     "@id": "us:panama-canal"
+    },
+    {
+     "@id": "us:roosevelt-corollary"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:mexican-oil-expropriation"
+    },
+    {
+     "@id": "us:united-states-occupation-of-haiti"
+    }
+   ],
+   "uso:domain": "foreign-relations-and-military",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/foreign-relations-and-military/good-neighbor-policy.md",
+   "uso:influencedBy": {
+    "@id": "us:herbert-hoover"
+   },
+   "uso:introducedBy": {
+    "@id": "us:franklin-d-roosevelt"
+   },
+   "uso:introducedIn": {
+    "@id": "us:first-inaugural-address-of-franklin-d-roosevelt"
+   },
+   "uso:level": "intermediate",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:roosevelt-corollary"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/timeline/9"
     }
    ]
   },

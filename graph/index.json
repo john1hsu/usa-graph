@@ -7102,6 +7102,175 @@
   ]
  },
  {
+  "id": "us:good-neighbor-policy",
+  "title": "Good Neighbor Policy",
+  "aliases": [
+   "Good Neighbour Policy",
+   "Good Neighbor diplomacy"
+  ],
+  "type": "Policy",
+  "domain": "foreign-relations-and-military",
+  "level": "intermediate",
+  "evidenceStatus": "interpretive",
+  "file": "articles/foreign-relations-and-military/good-neighbor-policy.md",
+  "created": "2026-11-16",
+  "summary": "The U.S. approach to Latin America and the Caribbean that President Franklin D. Roosevelt announced in his inaugural address of March 4, 1933, renouncing armed intervention in the hemisphere in favor of cooperation and trade; it built on steps taken under Herbert Hoover and was followed by the withdrawal of U.S. forces from Haiti and the end of the U.S. treaty right to intervene in Cuba.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:monroe-doctrine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:roosevelt-corollary"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cordell-hull"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:montevideo-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexico"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panama-canal"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:roosevelt-corollary"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:franklin-d-roosevelt",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedIn",
+    "object": "us:first-inaugural-address-of-franklin-d-roosevelt",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:herbert-hoover",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:united-states-occupation-of-haiti",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:mexican-oil-expropriation",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1933-03-04",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did abrogating the 1903 treaty with Cuba matter to the Good Neighbor policy?",
+    "answer": "That treaty, based on the Platt Amendment, had given the United States a legal right to intervene in Cuba, so giving it up in 1934 turned the pledge against armed intervention into a concrete change."
+   },
+   {
+    "question": "How did the U.S. position on non-intervention change between Montevideo in 1933 and Buenos Aires in 1936?",
+    "answer": "At Montevideo Hull voted for the article forbidding intervention but attached a reservation keeping the U.S. free to follow its own policies and the law of nations; at Buenos Aires the United States accepted the non-intervention protocol without reservation, as Latin American states had wanted."
+   },
+   {
+    "question": "How did Roosevelt's response to Mexico's 1938 oil expropriation test the policy?",
+    "answer": "Instead of intervening on behalf of the American companies, his administration accepted Mexico's right to expropriate with compensation and negotiated a settlement, partly to keep Mexico from aligning with the Axis."
+   },
+   {
+    "question": "Why do some historians see a contradiction in the Good Neighbor policy?",
+    "answer": "While renouncing military intervention, Washington backed dictators such as Somoza, Trujillo and Batista and kept influence through advisers, loans, trade treaties and military ties, and the Cold War brought renewed interventions."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1915-07",
+    "event": "U.S. Marines land in Haiti after the assassination of President Jean Vilbrun Guillaume Sam, beginning a nineteen-year occupation."
+   },
+   {
+    "date": "1926",
+    "event": "U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended."
+   },
+   {
+    "date": "1933-01-02",
+    "event": "The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office."
+   },
+   {
+    "date": "1933-03-04",
+    "event": "Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor."
+   },
+   {
+    "date": "1933-12-22",
+    "event": "At Montevideo, Secretary of State Cordell Hull votes for the convention's non-intervention article but enters a U.S. reservation."
+   },
+   {
+    "date": "1933-12-26",
+    "event": "The Convention on Rights and Duties of States, whose Article 8 forbids intervention, is signed at Montevideo."
+   },
+   {
+    "date": "1934",
+    "event": "The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act."
+   },
+   {
+    "date": "1936-12-03",
+    "event": "The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation."
+   },
+   {
+    "date": "1938-03-18",
+    "event": "Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico."
+   },
+   {
+    "date": "1942-04-18",
+    "event": "The Cooke-Zevada agreement commits Mexico to pay about $29 million to American oil firms."
+   }
+  ],
+  "misconception": {
+   "myth": "Franklin D. Roosevelt's Good Neighbor policy is what brought the Marines home from Nicaragua.",
+   "fact": "The last Marines left Nicaragua on January 2, 1933, two months before Roosevelt's inauguration; the retreat from intervention began under Herbert Hoover, and Roosevelt continued it, ending the occupation of Haiti in 1934.",
+   "why": "The policy is named for a phrase in Roosevelt's 1933 inaugural address, so changes that began under his predecessors are often credited to him."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1921-1936/good-neighbor",
+   "https://avalon.law.yale.edu/20th_century/froos1.asp",
+   "https://avalon.law.yale.edu/20th_century/intam03.asp",
+   "https://millercenter.org/node/315",
+   "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/good-neighbor-policy",
+   "https://history.state.gov/milestones/1914-1920/haiti",
+   "https://history.state.gov/milestones/1937-1945/mexican-oil",
+   "https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MCH/Marine-Corps-History-Summer-2016/The-Marine-AirGround-Task-Force-in-Nicaragua/",
+   "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/buenos-aires-conference-1936"
+  ]
+ },
+ {
   "id": "us:great-depression",
   "title": "Great Depression",
   "aliases": [

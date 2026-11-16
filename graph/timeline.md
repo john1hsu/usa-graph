@@ -868,6 +868,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915 | Guinn v. United States unanimously strikes down Oklahoma's grandfather clause. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1915 | Tom Brown's band leaves New Orleans for Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1915-06 | In Guinn v. United States the Supreme Court rules Oklahoma's grandfather clause violates the Fifteenth Amendment. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1915-07 | U.S. Marines land in Haiti after the assassination of President Jean Vilbrun Guillaume Sam, beginning a nineteen-year occupation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1915-10 | Orville Wright sells the Wright Company to New York financiers. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -903,6 +904,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-03-02 | President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1927-04-29 | During the Great Flood of 1927, engineers begin dynamiting the levee at Caernarvon, Louisiana, below New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -938,12 +940,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933 | At the Montevideo conference the United States pledges non-intervention in the hemisphere. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1933-01-02 | The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-03-04 | **[Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md)** (Policy) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1933-03-04 | Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1933-05 | Interior Secretary Harold Ickes orders the structure renamed Boulder Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1933-12 | At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1933-12-22 | At Montevideo, Secretary of State Cordell Hull votes for the convention's non-intervention article but enters a U.S. reservation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-12-26 | The Convention on Rights and Duties of States, whose Article 8 forbids intervention, is signed at Montevideo. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1934 | Franklin D. Roosevelt's Good Neighbor policy officially abandons the corollary. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1934 | The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -963,6 +971,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936-02-29 | Reclamation formally accepts the completed dam from Six Companies. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936-09-06 | In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1936-10-26 | The first generating unit, N-2, goes into full operation. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1936-12-03 | The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -975,6 +984,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-03-18 | Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-06-25 | Roosevelt signs the Fair Labor Standards Act. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -1028,6 +1038,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-21 | Public Law 503 makes violating an exclusion order a federal crime. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-23 | The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1942-04-18 | The Cooke-Zevada agreement commits Mexico to pay about $29 million to American oil firms. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1942-05-23 | Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |

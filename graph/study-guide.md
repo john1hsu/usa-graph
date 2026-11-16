@@ -826,6 +826,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## foreign-relations-and-military
 
+### [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| Franklin D. Roosevelt's Good Neighbor policy is what brought the Marines home from Nicaragua. | The last Marines left Nicaragua on January 2, 1933, two months before Roosevelt's inauguration; the retreat from intervention began under Herbert Hoover, and Roosevelt continued it, ending the occupation of Haiti in 1934. |
+
+**Why it matters:** The policy is named for a phrase in Roosevelt's 1933 inaugural address, so changes that began under his predecessors are often credited to him.
+
+- **Q:** Why did abrogating the 1903 treaty with Cuba matter to the Good Neighbor policy?
+  **A:** That treaty, based on the Platt Amendment, had given the United States a legal right to intervene in Cuba, so giving it up in 1934 turned the pledge against armed intervention into a concrete change.
+- **Q:** How did the U.S. position on non-intervention change between Montevideo in 1933 and Buenos Aires in 1936?
+  **A:** At Montevideo Hull voted for the article forbidding intervention but attached a reservation keeping the U.S. free to follow its own policies and the law of nations; at Buenos Aires the United States accepted the non-intervention protocol without reservation, as Latin American states had wanted.
+- **Q:** How did Roosevelt's response to Mexico's 1938 oil expropriation test the policy?
+  **A:** Instead of intervening on behalf of the American companies, his administration accepted Mexico's right to expropriate with compensation and negotiated a settlement, partly to keep Mexico from aligning with the Axis.
+- **Q:** Why do some historians see a contradiction in the Good Neighbor policy?
+  **A:** While renouncing military intervention, Washington backed dictators such as Somoza, Trujillo and Batista and kept influence through advisers, loans, trade treaties and military ties, and the Cold War brought renewed interventions.
+
 ### [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) — Landmark
 
 | Myth | Fact |
