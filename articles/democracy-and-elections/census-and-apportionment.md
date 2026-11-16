@@ -9,7 +9,7 @@ summary: >-
 level: introductory
 evidenceStatus: legal-text
 broader: [us:united-states-congress]
-related: [us:three-fifths-clause, us:house-of-representatives, us:fourteenth-amendment, us:thirteenth-amendment, us:constitutional-convention, us:george-washington, us:thomas-jefferson, us:indian-citizenship-act-of-1924, us:reapportionment-act-of-1929, us:2020-united-states-census, us:gerrymandering, us:united-states-department-of-commerce-v-montana, us:slavery-in-the-united-states]
+related: [us:three-fifths-clause, us:house-of-representatives, us:fourteenth-amendment, us:thirteenth-amendment, us:constitutional-convention, us:george-washington, us:thomas-jefferson, us:indian-citizenship-act-of-1924, us:reapportionment-act-of-1929, us:2020-united-states-census, us:gerrymandering, us:united-states-department-of-commerce-v-montana, us:slavery-in-the-united-states, us:reynolds-v-sims]
 requires: [us:united-states-constitution]
 relations:
   - {predicate: establishedBy, object: us:united-states-constitution, source: s1, confidence: high}

@@ -430,6 +430,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How is the Voting Rights Act of 1965 connected to the Fifteenth Amendment?
   **A:** The Act used the enforcement power in the amendment's Section 2; President Johnson asked Congress for a law that would make it impossible to thwart the amendment, and the Act abolished remaining barriers and authorized federal supervision of registration.
 
+### [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| Reynolds v. Sims coined the phrase "one person, one vote." | The phrase entered the Supreme Court's case law a year earlier, in Gray v. Sanders (1963), which struck down Georgia's county-unit system for statewide elections; Reynolds applied that equality standard to the seats of both houses of state legislatures. |
+
+**Why it matters:** Because Reynolds reshaped every state legislature, it became the case most associated with the slogan, which blurs the sequence by which the Court built the doctrine from Baker to Gray, Wesberry and Reynolds.
+
+- **Q:** How had rural Alabamians come to control the state legislature by the early 1960s?
+  **A:** Although the 1901 constitution required reapportionment after each census, the legislature had not reapportioned since the 1900 census while nearly all of the state's growth came in urban areas; by the 1960 census about a quarter of the population lived in districts that could elect a majority of each house.
+- **Q:** Why did the Court reject the argument that a state senate could be modeled on the U.S. Senate?
+  **A:** It held that the federal arrangement grew out of a unique historical compromise among sovereign states, whereas counties and other political subdivisions are subordinate instruments of the state, so the federal analogy did not apply to state legislatures.
+- **Q:** How did Reynolds build on Baker v. Carr?
+  **A:** Baker (1962) held that apportionment challenges could be heard by federal courts; Reynolds supplied the substantive standard, requiring both houses to be apportioned so that districts were as nearly equal in population as practicable.
+- **Q:** How did opponents of the ruling try to reverse it, and why did they fail?
+  **A:** They proposed a constitutional amendment allowing one house of a state legislature to be apportioned using geography and political subdivisions as well as population; it won a 57 to 39 majority in the Senate on August 4, 1965, but fell short of the two-thirds a constitutional amendment requires.
+
 ### [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) — Law
 
 | Myth | Fact |

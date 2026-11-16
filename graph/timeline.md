@@ -633,6 +633,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1900 | The Wrights begin testing gliders on the Outer Banks near Kitty Hawk, whose weather station had answered their inquiry about steady winds and open sand. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1900-10-29 | A UMW-led anthracite strike of about 125,000 workers ends. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1901 | Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -933,13 +934,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1962 | In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1962 | The USS Arizona Memorial, built over the sunken battleship, is officially dedicated. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1962-05 | Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1963 | In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1963-08-28 | More than 200,000 people join the March on Washington for Jobs and Freedom. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1963-11-13 | The Supreme Court hears oral argument in Reynolds v. Sims. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1964 | In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1964-06-15 | **[Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md)** (CourtCase) |
+| 1964-06-15 | The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -952,6 +961,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-03-25 | Some 25,000 marchers led by Martin Luther King Jr. reach Montgomery under federal protection. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-05-26 | The Senate passes S. 1564, 77 to 19, a day after invoking cloture 70 to 30 to end a filibuster. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-07-09 | The House passes H.R. 6400, 333 to 85. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1965-08-04 | A proposed constitutional amendment to let one legislative house be apportioned on factors besides population wins 57 to 39 in the Senate, short of two-thirds. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1965-08-06 | **[Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md)** (Law) |
 | 1965-08-06 | Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-08-06 | Johnson signs the Voting Rights Act of 1965. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -963,6 +973,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1967-06-12 | Loving v. Virginia unanimously strikes down a state ban on interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1967-10-02 | Thurgood Marshall is sworn in as the first African American justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1968 | Avery v. Midland County extends the equal-population rule to elected local governments. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1968 | Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -973,6 +984,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -1071,6 +1083,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-06-25 | In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2015-06-26 | **[Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md)** (CourtCase) |
 | 2015-06-26 | The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2016 | Evenwel v. Abbott holds that states may draw legislative districts using total population. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 2016-01 | Obama vetoes the first repeal bill Congress sends him. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |

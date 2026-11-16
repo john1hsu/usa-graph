@@ -308,6 +308,16 @@
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s7> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s8> .
 <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/reynolds-v-sims.md" .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> .
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/democracy-and-elections/voting-rights-act-of-1965.md" .
@@ -5032,6 +5042,7 @@
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-citizenship-act-of-1924> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reapportionment-act-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -5306,6 +5317,164 @@
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s9> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/drafting-table/item/amendment-xv> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/reynolds-v-sims#graph> {
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The phrase entered the Supreme Court's case law a year earlier, in Gray v. Sanders (1963), which struck down Georgia's county-unit system for statewide elections; Reynolds applied that equality standard to the seats of both houses of state legislatures." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Reynolds v. Sims coined the phrase \"one person, one vote.\"" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because Reynolds reshaped every state legislature, it became the case most associated with the slogan, which blurs the sequence by which the Court built the doctrine from Baker to Gray, Wesberry and Reynolds." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How had rural Alabamians come to control the state legislature by the early 1960s?" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Although the 1901 constitution required reapportionment after each census, the legislature had not reapportioned since the 1900 census while nearly all of the state's growth came in urban areas; by the 1960 census about a quarter of the population lived in districts that could elect a majority of each house." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Court reject the argument that a state senate could be modeled on the U.S. Senate?" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It held that the federal arrangement grew out of a unique historical compromise among sovereign states, whereas counties and other political subdivisions are subordinate instruments of the state, so the federal analogy did not apply to state legislatures." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Reynolds build on Baker v. Carr?" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Baker (1962) held that apportionment challenges could be heard by federal courts; Reynolds supplied the substantive standard, requiring both houses to be apportioned so that districts were as nearly equal in population as practicable." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did opponents of the ruling try to reverse it, and why did they fail?" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "They proposed a constitutional amendment allowing one house of a state legislature to be apportioned using geography and political subdivisions as well as population; it won a 57 to 39 majority in the Senate on August 4, 1965, but fell short of the two-thirds a constitutional amendment requires." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Avery v. Midland County extends the equal-population rule to elected local governments." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1973"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Evenwel v. Abbott holds that states may draw legislative districts using total population." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1962"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1962-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1963"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court hears oral argument in Reynolds v. Sims." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A proposed constitutional amendment to let one legislative house be apportioned on factors besides population wins 57 to 39 in the Senate, short of two-thirds." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2000/01/rdf-schema#label> "Reynolds v. Sims" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#altLabel> "377 U.S. 533" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#altLabel> "Alabama reapportionment case" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#altLabel> "Reynolds v Sims" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#altLabel> "Sims v. Reynolds" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#definition> "The 1964 U.S. Supreme Court decision, written by Chief Justice Earl Warren, holding that the Equal Protection Clause requires the seats in both houses of a state legislature to be apportioned by population, applying the principle of one person, one vote to state lawmaking bodies." .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reynolds v. Sims" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/avery-v-midland-county> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/baker-v-carr> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/evenwel-v-abbott> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frank-m-johnson-jr> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gerrymandering> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gray-v-sanders> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan-ii> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lucas-v-forty-fourth-general-assembly-of-colorado> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wesberry-v-sanders> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/alabama> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/earl-warren> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/reynolds-v-sims.md" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/baker-v-carr> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/gray-v-sanders> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/baker-v-carr> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://schema.org/startDate> "1964-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court, United States Reports (via GovInfo, U.S. Government Publishing Office)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/title> "Reynolds v. Sims, 377 U.S. 533 (1964)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USREPORTS-377/pdf/USREPORTS-377-533.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia of Alabama (Steven P. Brown, Auburn University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <http://purl.org/dc/terms/title> "Reynolds v. Sims" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2> <https://schema.org/url> <https://encyclopediaofalabama.org/article/reynolds-v-sims/> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <http://purl.org/dc/terms/publisher> "National Constitution Center, Supreme Court Case Library" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <http://purl.org/dc/terms/title> "Reynolds v. Sims (1964)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/supreme-court-case-library/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <http://purl.org/dc/terms/publisher> "Rose Institute of State and Local Government, Claremont McKenna College" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <http://purl.org/dc/terms/title> "Reynolds v. Sims (1964)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4> <https://schema.org/url> <https://roseinstitute.org/redistricting/reynolds/> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <http://purl.org/dc/terms/publisher> "Rose Institute of State and Local Government, Claremont McKenna College" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <http://purl.org/dc/terms/title> "Gray v. Sanders (1963)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5> <https://schema.org/url> <https://roseinstitute.org/redistricting/grayvsanders> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <http://purl.org/dc/terms/publisher> "Voteview, University of California, Los Angeles" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <http://purl.org/dc/terms/title> "89th Congress, Senate, Vote 177 (S.J.Res. 66)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6> <https://schema.org/url> <https://voteview.com/rollcall/RS0890177> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Legal Information Institute, Cornell Law School)" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <http://purl.org/dc/terms/title> "Amdt14.S1.5.2.4 Equality Standard and Vote Dilution" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equality-standard-and-vote-dilution> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965#graph> {
@@ -15004,7 +15173,9 @@
   <https://github.com/john1hsu/usa-graph/id/al-qaeda> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/alabama-constitution-of-1901> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/alabama> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/alaska-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
@@ -15058,6 +15229,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -15187,12 +15359,16 @@
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/avery-v-midland-county> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/baker-v-carr> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -15813,6 +15989,7 @@
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+  <https://github.com/john1hsu/usa-graph/id/earl-warren> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
@@ -15858,6 +16035,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -15867,6 +16045,7 @@
   <https://github.com/john1hsu/usa-graph/id/equal-protection> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/equity-in-educational-land-grant-status-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/ernest-green> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
+  <https://github.com/john1hsu/usa-graph/id/evenwel-v-abbott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/ex-parte-endo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-10730> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
@@ -15989,6 +16168,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -16008,11 +16188,13 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/frank-m-johnson-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -16126,6 +16308,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/german-coast-uprising> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/gerrymandering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/gerrymandering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/gettysburg-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/gettysburg-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -16159,6 +16342,8 @@
   <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/goodridge-v-department-of-public-health> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/grand-canyon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
+  <https://github.com/john1hsu/usa-graph/id/gray-v-sanders> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/gray-v-sanders> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/great-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/great-depression/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -16611,6 +16796,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-jay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-jay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-jay> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan-ii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -16766,6 +16952,7 @@
   <https://github.com/john1hsu/usa-graph/id/loyalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/loyalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/loyalists> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/lucas-v-forty-fourth-general-assembly-of-colorado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/luis-maria-drago> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -17419,12 +17606,38 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-finance-corporation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
+  <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/republican-party> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/respect-for-marriage-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/redistricting-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/right-to-marry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Right> .
@@ -17624,6 +17837,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -17703,6 +17917,7 @@
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -17902,6 +18117,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
+  <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -18276,6 +18492,7 @@
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/washington-wooden-teeth-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/wesberry-v-sanders> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .

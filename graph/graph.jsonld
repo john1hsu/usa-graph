@@ -8682,6 +8682,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The phrase entered the Supreme Court's case law a year earlier, in Gray v. Sanders (1963), which struck down Georgia's county-unit system for statewide elections; Reynolds applied that equality standard to the seats of both houses of state legislatures.",
+   "uso:myth": "Reynolds v. Sims coined the phrase \"one person, one vote.\"",
+   "uso:why": "Because Reynolds reshaped every state legislature, it became the case most associated with the slogan, which blurs the sequence by which the Court built the doctrine from Baker to Gray, Wesberry and Reynolds."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How had rural Alabamians come to control the state legislature by the early 1960s?",
+   "uso:answer": "Although the 1901 constitution required reapportionment after each census, the legislature had not reapportioned since the 1900 census while nearly all of the state's growth came in urban areas; by the 1960 census about a quarter of the population lived in districts that could elect a majority of each house.",
+   "uso:questionFor": {
+    "@id": "us:reynolds-v-sims"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Court reject the argument that a state senate could be modeled on the U.S. Senate?",
+   "uso:answer": "It held that the federal arrangement grew out of a unique historical compromise among sovereign states, whereas counties and other political subdivisions are subordinate instruments of the state, so the federal analogy did not apply to state legislatures.",
+   "uso:questionFor": {
+    "@id": "us:reynolds-v-sims"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Reynolds build on Baker v. Carr?",
+   "uso:answer": "Baker (1962) held that apportionment challenges could be heard by federal courts; Reynolds supplied the substantive standard, requiring both houses to be apportioned so that districts were as nearly equal in population as practicable.",
+   "uso:questionFor": {
+    "@id": "us:reynolds-v-sims"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did opponents of the ruling try to reverse it, and why did they fail?",
+   "uso:answer": "They proposed a constitutional amendment allowing one house of a state legislature to be apportioned using geography and political subdivisions as well as population; it won a 57 to 39 majority in the Senate on August 4, 1965, but fell short of the two-thirds a constitutional amendment requires.",
+   "uso:questionFor": {
+    "@id": "us:reynolds-v-sims"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1901"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Avery v. Midland County extends the equal-population rule to elected local governments.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1968"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1973"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Evenwel v. Abbott holds that states may draw legislative districts using total population.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2016"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1961-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1962"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1962-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1963"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court hears oral argument in Reynolds v. Sims.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1963-11-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1964"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A proposed constitutional amendment to let one legislative house be apportioned on factors besides population wins 57 to 39 in the Senate, short of two-thirds.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-08-04"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "It was a separate statement made more than eighty years later, in Theodore Roosevelt's December 1904 message to Congress. The 1823 doctrine asked European powers to stay out of the hemisphere; the corollary claimed a right for the United States itself to intervene.",
@@ -16853,6 +17004,104 @@
     "@id": "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
    },
    "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Supreme Court, United States Reports (via GovInfo, U.S. Government Publishing Office)",
+   "dcterms:title": "Reynolds v. Sims, 377 U.S. 533 (1964)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-377/pdf/USREPORTS-377-533.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopedia of Alabama (Steven P. Brown, Auburn University)",
+   "dcterms:title": "Reynolds v. Sims",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/reynolds-v-sims/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Constitution Center, Supreme Court Case Library",
+   "dcterms:title": "Reynolds v. Sims (1964)",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/the-constitution/supreme-court-case-library/reynolds-v-sims"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Rose Institute of State and Local Government, Claremont McKenna College",
+   "dcterms:title": "Reynolds v. Sims (1964)",
+   "schema:url": {
+    "@id": "https://roseinstitute.org/redistricting/reynolds/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Rose Institute of State and Local Government, Claremont McKenna College",
+   "dcterms:title": "Gray v. Sanders (1963)",
+   "schema:url": {
+    "@id": "https://roseinstitute.org/redistricting/grayvsanders"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Voteview, University of California, Los Angeles",
+   "dcterms:title": "89th Congress, Senate, Vote 177 (S.J.Res. 66)",
+   "schema:url": {
+    "@id": "https://voteview.com/rollcall/RS0890177"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Legal Information Institute, Cornell Law School)",
+   "dcterms:title": "Amdt14.S1.5.2.4 Equality Standard and Vote Dilution",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equality-standard-and-vote-dilution"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s1",
@@ -25175,6 +25424,9 @@
      "@id": "us:reapportionment-act-of-1929"
     },
     {
+     "@id": "us:reynolds-v-sims"
+    },
+    {
      "@id": "us:slavery-in-the-united-states"
     },
     {
@@ -32241,6 +32493,170 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:reynolds-v-sims",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s7"
+    }
+   ],
+   "rdfs:label": "Reynolds v. Sims",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1964-06-15"
+   },
+   "skos:altLabel": [
+    "377 U.S. 533",
+    "Alabama reapportionment case",
+    "Reynolds v Sims",
+    "Sims v. Reynolds"
+   ],
+   "skos:broader": {
+    "@id": "us:redistricting-in-the-united-states"
+   },
+   "skos:definition": "The 1964 U.S. Supreme Court decision, written by Chief Justice Earl Warren, holding that the Equal Protection Clause requires the seats in both houses of a state legislature to be apportioned by population, applying the principle of one person, one vote to state lawmaking bodies.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections"
+   },
+   "skos:prefLabel": "Reynolds v. Sims",
+   "skos:related": [
+    {
+     "@id": "us:alabama-constitution-of-1901"
+    },
+    {
+     "@id": "us:avery-v-midland-county"
+    },
+    {
+     "@id": "us:baker-v-carr"
+    },
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:evenwel-v-abbott"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:frank-m-johnson-jr"
+    },
+    {
+     "@id": "us:gerrymandering"
+    },
+    {
+     "@id": "us:gray-v-sanders"
+    },
+    {
+     "@id": "us:john-marshall-harlan-ii"
+    },
+    {
+     "@id": "us:lucas-v-forty-fourth-general-assembly-of-colorado"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:wesberry-v-sanders"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:alabama"
+   },
+   "uso:authoredBy": {
+    "@id": "us:earl-warren"
+   },
+   "uso:domain": "democracy-and-elections",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/democracy-and-elections/reynolds-v-sims.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:baker-v-carr"
+    },
+    {
+     "@id": "us:gray-v-sanders"
+    }
+   ],
+   "uso:interprets": {
+    "@id": "us:equal-protection"
+   },
+   "uso:ledTo": {
+    "@id": "us:redistricting-in-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:baker-v-carr"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/timeline/9"
     }
    ]
   },

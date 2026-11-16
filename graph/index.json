@@ -2374,6 +2374,10 @@
     "object": "us:slavery-in-the-united-states"
    },
    {
+    "predicate": "skos:related",
+    "object": "us:reynolds-v-sims"
+   },
+   {
     "predicate": "uso:requires",
     "object": "us:united-states-constitution"
    },
@@ -10677,6 +10681,209 @@
    "https://www.nps.gov/articles/000/the-road-to-separate-but-equal.htm",
    "https://www.searchablemuseum.com/creating-jim-crow/",
    "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
+  ]
+ },
+ {
+  "id": "us:reynolds-v-sims",
+  "title": "Reynolds v. Sims",
+  "aliases": [
+   "Reynolds v Sims",
+   "377 U.S. 533",
+   "Alabama reapportionment case",
+   "Sims v. Reynolds"
+  ],
+  "type": "CourtCase",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/democracy-and-elections/reynolds-v-sims.md",
+  "created": "2026-11-16",
+  "summary": "The 1964 U.S. Supreme Court decision, written by Chief Justice Earl Warren, holding that the Equal Protection Clause requires the seats in both houses of a state legislature to be apportioned by population, applying the principle of one person, one vote to state lawmaking bodies.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:redistricting-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:baker-v-carr"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gray-v-sanders"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wesberry-v-sanders"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lucas-v-forty-fourth-general-assembly-of-colorado"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:avery-v-midland-county"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:evenwel-v-abbott"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gerrymandering"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alabama-constitution-of-1901"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall-harlan-ii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frank-m-johnson-jr"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:baker-v-carr"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:earl-warren",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:equal-protection",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:baker-v-carr",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:gray-v-sanders",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:alabama",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:redistricting-in-the-united-states",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1964-06-15",
+  "end": null,
+  "review": [
+   {
+    "question": "How had rural Alabamians come to control the state legislature by the early 1960s?",
+    "answer": "Although the 1901 constitution required reapportionment after each census, the legislature had not reapportioned since the 1900 census while nearly all of the state's growth came in urban areas; by the 1960 census about a quarter of the population lived in districts that could elect a majority of each house."
+   },
+   {
+    "question": "Why did the Court reject the argument that a state senate could be modeled on the U.S. Senate?",
+    "answer": "It held that the federal arrangement grew out of a unique historical compromise among sovereign states, whereas counties and other political subdivisions are subordinate instruments of the state, so the federal analogy did not apply to state legislatures."
+   },
+   {
+    "question": "How did Reynolds build on Baker v. Carr?",
+    "answer": "Baker (1962) held that apportionment challenges could be heard by federal courts; Reynolds supplied the substantive standard, requiring both houses to be apportioned so that districts were as nearly equal in population as practicable."
+   },
+   {
+    "question": "How did opponents of the ruling try to reverse it, and why did they fail?",
+    "answer": "They proposed a constitutional amendment allowing one house of a state legislature to be apportioned using geography and political subdivisions as well as population; it won a 57 to 39 majority in the Senate on August 4, 1965, but fell short of the two-thirds a constitutional amendment requires."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1901",
+    "event": "Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census."
+   },
+   {
+    "date": "1961-08",
+    "event": "Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs."
+   },
+   {
+    "date": "1962",
+    "event": "In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts."
+   },
+   {
+    "date": "1962-05",
+    "event": "Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election."
+   },
+   {
+    "date": "1963",
+    "event": "In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote."
+   },
+   {
+    "date": "1963-11-13",
+    "event": "The Supreme Court hears oral argument in Reynolds v. Sims."
+   },
+   {
+    "date": "1964",
+    "event": "In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable."
+   },
+   {
+    "date": "1964-06-15",
+    "event": "The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado."
+   },
+   {
+    "date": "1965-08-04",
+    "event": "A proposed constitutional amendment to let one legislative house be apportioned on factors besides population wins 57 to 39 in the Senate, short of two-thirds."
+   },
+   {
+    "date": "1968",
+    "event": "Avery v. Midland County extends the equal-population rule to elected local governments."
+   },
+   {
+    "date": "1973",
+    "event": "Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts."
+   },
+   {
+    "date": "2016",
+    "event": "Evenwel v. Abbott holds that states may draw legislative districts using total population."
+   }
+  ],
+  "misconception": {
+   "myth": "Reynolds v. Sims coined the phrase \"one person, one vote.\"",
+   "fact": "The phrase entered the Supreme Court's case law a year earlier, in Gray v. Sanders (1963), which struck down Georgia's county-unit system for statewide elections; Reynolds applied that equality standard to the seats of both houses of state legislatures.",
+   "why": "Because Reynolds reshaped every state legislature, it became the case most associated with the slogan, which blurs the sequence by which the Court built the doctrine from Baker to Gray, Wesberry and Reynolds."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/USREPORTS-377/pdf/USREPORTS-377-533.pdf",
+   "https://encyclopediaofalabama.org/article/reynolds-v-sims/",
+   "https://constitutioncenter.org/the-constitution/supreme-court-case-library/reynolds-v-sims",
+   "https://roseinstitute.org/redistricting/reynolds/",
+   "https://roseinstitute.org/redistricting/grayvsanders",
+   "https://voteview.com/rollcall/RS0890177",
+   "https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/equality-standard-and-vote-dilution"
   ]
  },
  {

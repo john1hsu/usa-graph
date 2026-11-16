@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 
-…and 41 more.
+…and 42 more.
 
 ## Happenings by era
 
