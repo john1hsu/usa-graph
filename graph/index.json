@@ -9902,6 +9902,266 @@
   ]
  },
  {
+  "id": "us:mexican-american-war",
+  "title": "Mexican–American War",
+  "aliases": [
+   "U.S.–Mexican War",
+   "Mexican War",
+   "War with Mexico",
+   "Mexican-American War"
+  ],
+  "type": "Conflict",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/mexican-american-war.md",
+  "created": "2026-11-16",
+  "summary": "The war fought between the United States and Mexico from 1846 to 1848, which began in a disputed borderland between the Nueces River and the Rio Grande after the U.S. annexation of Texas and ended with the Treaty of Guadalupe Hidalgo, by which Mexico ceded California and most of the present-day American Southwest.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:territorial-expansion-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-k-polk"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spot-resolutions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:manifest-destiny"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-gold-rush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:californios"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-david-thoreau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gadsden-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:monroe-doctrine"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:texas-annexation"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:mexico",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:california",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-mexico",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:zachary-taylor",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:winfield-scott",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:antonio-lopez-de-santa-anna",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:texas-annexation",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:manifest-destiny",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-guadalupe-hidalgo",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:wilmot-proviso",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:compromise-of-1850",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1846-04-25",
+  "end": "1848-05-30",
+  "review": [
+   {
+    "question": "Why did the land between the Nueces River and the Rio Grande matter so much in starting the war?",
+    "answer": "The United States, inheriting Texas's claim, said the border was the Rio Grande, while Mexico and many Americans held that the strip had never been part of Texas. When Polk sent Taylor's army into it and Mexican troops attacked a U.S. patrol there, Polk could tell Congress that American blood had been shed on American soil, while Mexico saw an invasion."
+   },
+   {
+    "question": "How did victory over Mexico make the conflict over slavery worse rather than settling it?",
+    "answer": "The huge Mexican Cession reopened the question of whether slavery would spread into new territories. The Wilmot Proviso to ban slavery there passed the House but failed in the Senate, deepening sectional division that the Compromise of 1850 only temporarily eased and that fed into the Civil War."
+   },
+   {
+    "question": "What did Lincoln's 'Spot' Resolutions challenge, and did he refuse to support the army?",
+    "answer": "They demanded that Polk identify the exact spot where American blood was first shed and show it was U.S. soil; the House never acted on them. Lincoln also voted that the war had been unconstitutionally begun, but he said he always intended to vote supplies for the troops."
+   },
+   {
+    "question": "How, according to historian Brian DeLay, did Native raids shape the U.S. invasion of northern Mexico?",
+    "answer": "Some fifteen years of raiding and counter-raiding across ten northern Mexican states had killed thousands and depopulated the countryside, strengthening U.S. arguments for taking the territory and leaving northern Mexicans too divided and exhausted to resist the American invasion effectively."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1829",
+    "event": "Mexico abolishes slavery."
+   },
+   {
+    "date": "1845-12",
+    "event": "Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it."
+   },
+   {
+    "date": "1846-01-13",
+    "event": "President James K. Polk orders General Zachary Taylor to advance from Corpus Christi to the Rio Grande, into land Mexico considered its own."
+   },
+   {
+    "date": "1846-04-25",
+    "event": "Mexican troops who crossed the Rio Grande ambush a U.S. patrol near Rancho de Carricitos, killing eleven American soldiers."
+   },
+   {
+    "date": "1846-05-08",
+    "event": "Battle of Palo Alto, the first battle of the war; Taylor's army wins again at Resaca de la Palma the next day."
+   },
+   {
+    "date": "1846-05-11",
+    "event": "Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities."
+   },
+   {
+    "date": "1846-05-13",
+    "event": "War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it."
+   },
+   {
+    "date": "1846-07",
+    "event": "The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California."
+   },
+   {
+    "date": "1846-09",
+    "event": "Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants."
+   },
+   {
+    "date": "1847-01",
+    "event": "A joint army-navy force under Stephen W. Kearny and Robert F. Stockton secures southern California."
+   },
+   {
+    "date": "1847-02-23",
+    "event": "Taylor's outnumbered army defeats Santa Anna's at Buena Vista after two days of fighting."
+   },
+   {
+    "date": "1847-03-09",
+    "event": "Winfield Scott's army of about 10,000 lands near Veracruz in the first large-scale U.S. amphibious assault."
+   },
+   {
+    "date": "1847-09-14",
+    "event": "After battles at Cerro Gordo, Contreras, Churubusco, Molino del Rey and Chapultepec, Scott's army enters Mexico City."
+   },
+   {
+    "date": "1847-12-22",
+    "event": "Representative Abraham Lincoln introduces his 'Spot' Resolutions challenging Polk's account of where the war began."
+   },
+   {
+    "date": "1848-02-02",
+    "event": "Nicholas Trist, though recalled by Polk, signs the Treaty of Guadalupe Hidalgo with Mexican commissioners."
+   },
+   {
+    "date": "1848-03-10",
+    "event": "The Senate approves the treaty after striking Article X, which protected Mexican land grants."
+   },
+   {
+    "date": "1848-05-30",
+    "event": "Ratifications are exchanged at Querétaro and U.S. troops withdraw from Mexico City; Polk proclaims the treaty on July 4."
+   }
+  ],
+  "misconception": {
+   "myth": "Abraham Lincoln opposed the Mexican War so strongly that he refused to vote money and supplies for the soldiers fighting it.",
+   "fact": "Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army.",
+   "why": "Merging his attack on Polk's justification with a refusal to support the troops erases a distinction Lincoln drew deliberately in explaining his votes."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+   "https://www.nps.gov/places/the-mexican-american-war.htm",
+   "https://www.nps.gov/paal/learn/historyculture/paloalto.htm",
+   "https://www.tshaonline.org/handbook/entries/mexican-war",
+   "https://millercenter.org/president/polk/foreign-affairs",
+   "https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress",
+   "https://www.senate.gov/about/powers-procedures/declarations-of-war/mexico.htm",
+   "https://history.house.gov/HistoricalHighlight/Detail/35833",
+   "https://papersofabrahamlincoln.org/documents/D200434",
+   "https://papersofabrahamlincoln.org/documents/D200453",
+   "https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf?",
+   "https://www.gilderlehrman.org/sites/default/files/2024-01/MexAmWar_Nov%202023_FF.pdf",
+   "https://uh-ir.tdl.org/items/815099a9-bb4a-4e47-8519-d8349001299a",
+   "https://www.colorado.edu/asmagazine-archive/node/185"
+  ]
+ },
+ {
   "id": "us:minimum-wage",
   "title": "Minimum wage",
   "aliases": [

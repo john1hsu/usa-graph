@@ -694,6 +694,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** According to Robert Lee, what did the United States actually acquire from France, and why does that change the meaning of the $15 million price?
   **A:** It acquired France's claim of preemption — the exclusive right to obtain land from Native nations — rather than the land itself, so the real cost of the territory was paid later through many treaties and cessions backed by force, adding up to far more than $15 million.
 
+### [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| Abraham Lincoln opposed the Mexican War so strongly that he refused to vote money and supplies for the soldiers fighting it. | Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army. |
+
+**Why it matters:** Merging his attack on Polk's justification with a refusal to support the troops erases a distinction Lincoln drew deliberately in explaining his votes.
+
+- **Q:** Why did the land between the Nueces River and the Rio Grande matter so much in starting the war?
+  **A:** The United States, inheriting Texas's claim, said the border was the Rio Grande, while Mexico and many Americans held that the strip had never been part of Texas. When Polk sent Taylor's army into it and Mexican troops attacked a U.S. patrol there, Polk could tell Congress that American blood had been shed on American soil, while Mexico saw an invasion.
+- **Q:** How did victory over Mexico make the conflict over slavery worse rather than settling it?
+  **A:** The huge Mexican Cession reopened the question of whether slavery would spread into new territories. The Wilmot Proviso to ban slavery there passed the House but failed in the Senate, deepening sectional division that the Compromise of 1850 only temporarily eased and that fed into the Civil War.
+- **Q:** What did Lincoln's 'Spot' Resolutions challenge, and did he refuse to support the army?
+  **A:** They demanded that Polk identify the exact spot where American blood was first shed and show it was U.S. soil; the House never acted on them. Lincoln also voted that the war had been unconstitutionally begun, but he said he always intended to vote supplies for the troops.
+- **Q:** How, according to historian Brian DeLay, did Native raids shape the U.S. invasion of northern Mexico?
+  **A:** Some fifteen years of raiding and counter-raiding across ten northern Mexican states had killed thousands and depopulated the countryside, strengthening U.S. arguments for taking the territory and leaving northern Mexicans too divided and exhausted to resist the American invasion effectively.
+
 ### [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) — Law
 
 | Myth | Fact |

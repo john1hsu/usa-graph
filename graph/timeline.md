@@ -335,6 +335,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1828 | Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1829 | Mexico abolishes slavery. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
@@ -388,19 +389,36 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |
+| 1846-01-13 | President James K. Polk orders General Zachary Taylor to advance from Corpus Christi to the Rio Grande, into land Mexico considered its own. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1846-04-06 | Dred and Harriet Scott file separate freedom suits against Irene Emerson in the St. Louis Circuit Court. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1846-04-25 – 1848-05-30 | **[Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md)** (Conflict) |
+| 1846-04-25 | Mexican troops who crossed the Rio Grande ambush a U.S. patrol near Rancho de Carricitos, killing eleven American soldiers. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-05-08 | Battle of Palo Alto, the first battle of the war; Taylor's army wins again at Resaca de la Palma the next day. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-05-11 | Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-05-13 | War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-07 | The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846-09 | Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1847-01 | A joint army-navy force under Stephen W. Kearny and Robert F. Stockton secures southern California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1847-02-23 | Taylor's outnumbered army defeats Santa Anna's at Buena Vista after two days of fighting. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1847-03-09 | Winfield Scott's army of about 10,000 lands near Veracruz in the first large-scale U.S. amphibious assault. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-06-30 | The first trial ends against the Scotts on a technicality, and their lawyer wins a new trial. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1847-09-14 | After battles at Cerro Gordo, Contreras, Churubusco, Molino del Rey and Chapultepec, Scott's army enters Mexico City. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1847-12-22 | Representative Abraham Lincoln introduces his 'Spot' Resolutions challenging Polk's account of where the war began. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1848 | Teaching in Canajoharie, New York, she learns that male teachers earn $10 a month and women $2.50. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
 | 1848-01-24 | Gold is found on the American River, setting off the Gold Rush. — [California](../articles/states-and-territories/california.md) |
 | 1848-01-24 | James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1848-02-02 | Nicholas Trist, though recalled by Polk, signs the Treaty of Guadalupe Hidalgo with Mexican commissioners. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo transfers California and other lands from Mexico to the United States. — [California](../articles/states-and-territories/california.md) |
+| 1848-03-10 | The Senate approves the treaty after striking Article X, which protected Mexican land grants. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1848-05-30 | Ratifications are exchanged at Querétaro and U.S. troops withdraw from Mexico City; Polk proclaims the treaty on July 4. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1848-07 | California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1848-07-19 – 1920-08-26 | **[Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md)** (Movement) |

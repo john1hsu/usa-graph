@@ -5895,6 +5895,152 @@
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/endDate> "1803-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/startDate> "1803-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Abraham Lincoln opposed the Mexican War so strongly that he refused to vote money and supplies for the soldiers fighting it." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Merging his attack on Polk's justification with a refusal to support the troops erases a distinction Lincoln drew deliberately in explaining his votes." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the land between the Nueces River and the Rio Grande matter so much in starting the war?" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The United States, inheriting Texas's claim, said the border was the Rio Grande, while Mexico and many Americans held that the strip had never been part of Texas. When Polk sent Taylor's army into it and Mexican troops attacked a U.S. patrol there, Polk could tell Congress that American blood had been shed on American soil, while Mexico saw an invasion." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did victory over Mexico make the conflict over slavery worse rather than settling it?" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The huge Mexican Cession reopened the question of whether slavery would spread into new territories. The Wilmot Proviso to ban slavery there passed the House but failed in the Senate, deepening sectional division that the Compromise of 1850 only temporarily eased and that fed into the Civil War." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did Lincoln's 'Spot' Resolutions challenge, and did he refuse to support the army?" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "They demanded that Polk identify the exact spot where American blood was first shed and show it was U.S. soil; the House never acted on them. Lincoln also voted that the war had been unconstitutionally begun, but he said he always intended to vote supplies for the troops." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How, according to historian Brian DeLay, did Native raids shape the U.S. invasion of northern Mexico?" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some fifteen years of raiding and counter-raiding across ten northern Mexican states had killed thousands and depopulated the countryside, strengthening U.S. arguments for taking the territory and leaving northern Mexicans too divided and exhausted to resist the American invasion effectively." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A joint army-navy force under Stephen W. Kearny and Robert F. Stockton secures southern California." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Taylor's outnumbered army defeats Santa Anna's at Buena Vista after two days of fighting." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Winfield Scott's army of about 10,000 lands near Veracruz in the first large-scale U.S. amphibious assault." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "After battles at Cerro Gordo, Contreras, Churubusco, Molino del Rey and Chapultepec, Scott's army enters Mexico City." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Representative Abraham Lincoln introduces his 'Spot' Resolutions challenging Polk's account of where the war began." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Nicholas Trist, though recalled by Polk, signs the Treaty of Guadalupe Hidalgo with Mexican commissioners." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate approves the treaty after striking Article X, which protected Mexican land grants." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Ratifications are exchanged at Querétaro and U.S. troops withdraw from Mexico City; Polk proclaims the treaty on July 4." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1848-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Mexico abolishes slavery." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1829"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President James K. Polk orders General Zachary Taylor to advance from Corpus Christi to the Rio Grande, into land Mexico considered its own." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-01-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican troops who crossed the Rio Grande ambush a U.S. patrol near Rancho de Carricitos, killing eleven American soldiers." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-04-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Palo Alto, the first battle of the war; Taylor's army wins again at Resaca de la Palma the next day." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Polk asks Congress to recognize that a state of war exists, blaming Mexico for beginning hostilities." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "War is formally declared after the House (174 to 14) and the Senate (40 to 2) approve it." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Navy's Pacific squadron occupies Monterey and San Francisco in Mexican California." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Taylor captures Monterrey in northern Mexico; Polk repudiates the armistice Taylor grants." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1846-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican–American War" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#altLabel> "Mexican War" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#altLabel> "Mexican-American War" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S.–Mexican War" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#altLabel> "War with Mexico" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#definition> "The war fought between the United States and Mexico from 1846 to 1848, which began in a disputed borderland between the Nueces River and the Rio Grande after the U.S. annexation of Texas and ended with the Treaty of Guadalupe Hidalgo, by which Mexico ceded California and most of the present-day American Southwest." .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexican–American War" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/californios> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gadsden-purchase> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/henry-david-thoreau> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-k-polk> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-americans> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spot-resolutions> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/mexican-american-war.md" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/manifest-destiny> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/texas-annexation> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/antonio-lopez-de-santa-anna> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/winfield-scott> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/zachary-taylor> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-guadalupe-hidalgo> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/wilmot-proviso> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/mexico> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/new-mexico> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/texas-annexation> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mexican-american-war/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://schema.org/endDate> "1848-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mexican-american-war> <https://schema.org/startDate> "1846-04-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The states came first. Massachusetts passed the first minimum wage law in 1912, and by the end of 1938 twenty-five states, the District of Columbia and Puerto Rico had minimum wage legislation. The 1938 federal law built on that state experiment, and at first it covered industries employing only about a fifth of the labor force." .
 <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The minimum wage began with Franklin Roosevelt's New Deal and the Fair Labor Standards Act of 1938." .
@@ -11427,6 +11573,90 @@
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://schema.org/url> <https://daily.jstor.org/the-actual-louisiana-purchase-price> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/publisher> "The Papers of Abraham Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/title> "Abraham Lincoln to William H. Herndon, 1 February 1848" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <https://schema.org/url> <https://papersofabrahamlincoln.org/documents/D200453> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <http://purl.org/dc/terms/publisher> "U.S. Department of Veterans Affairs, Office of Public Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <http://purl.org/dc/terms/title> "America's Wars (fact sheet, November 2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s11> <https://schema.org/url> <https://www.va.gov/opa/publications/factsheets/fs_americas_wars.pdf?> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <http://purl.org/dc/terms/publisher> "Gilder Lehrman Institute of American History, by Tim Bailey" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <http://purl.org/dc/terms/title> "The Mexican-American War: Arguments for and against Going to War (with Pedro Santoni, 'A Narrative of the Mexican-American War')" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s12> <https://schema.org/url> <https://www.gilderlehrman.org/sites/default/files/2024-01/MexAmWar_Nov%202023_FF.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <http://purl.org/dc/terms/publisher> "Colorado Arts & Sciences Magazine, University of Colorado Boulder, by Brian DeLay" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <http://purl.org/dc/terms/title> "War of a Thousand Deserts: Indian Raids and the U.S.-Mexican War" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s13> <https://schema.org/url> <https://www.colorado.edu/asmagazine-archive/node/185> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <http://purl.org/dc/terms/publisher> "University of Houston Institutional Repository" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <http://purl.org/dc/terms/title> "United States historians and the causes of the Mexican War" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s14> <https://schema.org/url> <https://uh-ir.tdl.org/items/815099a9-bb4a-4e47-8519-d8349001299a> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <http://purl.org/dc/terms/title> "Treaty of Guadalupe Hidalgo (1848)" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <http://purl.org/dc/terms/title> "The Mexican-American War" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s2> <https://schema.org/url> <https://www.nps.gov/places/the-mexican-american-war.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Palo Alto Battlefield National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <http://purl.org/dc/terms/title> "Palo Alto Battlefield" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s3> <https://schema.org/url> <https://www.nps.gov/paal/learn/historyculture/paloalto.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <http://purl.org/dc/terms/publisher> "Handbook of Texas Online, Texas State Historical Association, by K. Jack Bauer" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <http://purl.org/dc/terms/title> "Mexican War" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s4> <https://schema.org/url> <https://www.tshaonline.org/handbook/entries/mexican-war> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia, by John C. Pinheiro" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <http://purl.org/dc/terms/title> "James K. Polk: Foreign Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s5> <https://schema.org/url> <https://millercenter.org/president/polk/foreign-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia, Presidential Speeches" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <http://purl.org/dc/terms/title> "May 11, 1846: War Message to Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s6> <https://schema.org/url> <https://millercenter.org/the-presidency/presidential-speeches/may-11-1846-war-message-congress> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <http://purl.org/dc/terms/publisher> "United States Senate, Historical Office" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <http://purl.org/dc/terms/title> "The Senate Votes for War against Mexico" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s7> <https://schema.org/url> <https://www.senate.gov/about/powers-procedures/declarations-of-war/mexico.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <http://purl.org/dc/terms/publisher> "U.S. House of Representatives, History, Art & Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <http://purl.org/dc/terms/title> "The Work of the 29th Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s8> <https://schema.org/url> <https://history.house.gov/HistoricalHighlight/Detail/35833> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <http://purl.org/dc/terms/publisher> "The Papers of Abraham Lincoln" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <http://purl.org/dc/terms/title> "'Spot' Resolutions in the United States House of Representatives, 22 December 1847" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s9> <https://schema.org/url> <https://papersofabrahamlincoln.org/documents/D200434> .
 <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/publisher> "Congressional Budget Office (July 8, 2019)" .
 <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/title> "The Effects on Employment and Family Income of Increasing the Federal Minimum Wage" .

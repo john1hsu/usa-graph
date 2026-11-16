@@ -52,12 +52,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
+| `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
-| `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 
-…and 56 more.
+…and 57 more.
 
 ## Happenings by era
 
@@ -105,13 +105,13 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:lattimer-massacre` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
+| `us:mexican-american-war` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
 | `us:monroe-doctrine` | interpretive |  |
 | `us:native-americans` | interpretive |  |
 | `us:panama-canal` | interpretive |  |
-| `us:panic-of-1873` | interpretive |  |
 
-…and 12 more.
+…and 13 more.
 
 ## Places with nothing tied to them (gap)
 
