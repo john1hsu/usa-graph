@@ -13411,6 +13411,167 @@
   ]
  },
  {
+  "id": "us:shelby-county-v-holder",
+  "title": "Shelby County v. Holder",
+  "aliases": [
+   "Shelby County, Alabama v. Holder",
+   "570 U.S. 529 (2013)",
+   "Shelby County decision"
+  ],
+  "type": "CourtCase",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/democracy-and-elections/shelby-county-v-holder.md",
+  "created": "2026-11-16",
+  "summary": "The 2013 Supreme Court decision, 5 to 4, holding that the Voting Rights Act's Section 4(b) coverage formula was unconstitutional, which left the Section 5 \"preclearance\" requirement for jurisdictions with a history of voting discrimination without any jurisdictions to apply to.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:voting-rights-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:south-carolina-v-katzenbach"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-v-callais"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:right-to-vote"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tenth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:voting-rights-act-of-1965",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:fifteenth-amendment",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-roberts",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:northwest-austin-municipal-utility-district-no-one-v-holder",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:alabama",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:john-lewis-voting-rights-advancement-act",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2013-06-25",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did preclearance stop operating even though the Court did not strike down Section 5?",
+    "answer": "Section 5 applies only to jurisdictions identified by the Section 4(b) coverage formula; once the Court held that formula unconstitutional, no jurisdiction was covered, so the preclearance requirement had nothing to attach to unless Congress enacts a new formula or a court orders coverage under Section 3."
+   },
+   {
+    "question": "How did the majority and the dissent differ in judging the 2006 reauthorization?",
+    "answer": "Chief Justice Roberts held that the formula rested on data from the 1960s and early 1970s and could not justify treating some states differently under the principle of equal sovereignty, pointing to near-equal Black and white registration by 2004; Justice Ginsburg argued that Congress's large record showed continuing discrimination and that preclearance itself explained the progress."
+   },
+   {
+    "question": "Why did the U.S. Commission on Civil Rights and its critics disagree about the decision's effects?",
+    "answer": "The Commission found that new voting restrictions followed in formerly covered places and that case-by-case Section 2 lawsuits were slow and costly, while witnesses such as Hans von Spakovsky argued that Black registration and turnout data and Section 3's court-ordered preclearance made a new Section 5 unnecessary."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1965",
+    "event": "The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county."
+   },
+   {
+    "date": "1975",
+    "event": "Congress extends preclearance and updates the formula for the last time, using 1972 election data."
+   },
+   {
+    "date": "2006",
+    "event": "Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula."
+   },
+   {
+    "date": "2009",
+    "event": "In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act."
+   },
+   {
+    "date": "2010",
+    "event": "Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional."
+   },
+   {
+    "date": "2013-02-27",
+    "event": "The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act."
+   },
+   {
+    "date": "2013-06-25",
+    "event": "The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional."
+   },
+   {
+    "date": "2018-09-12",
+    "event": "The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance."
+   },
+   {
+    "date": "2021-11",
+    "event": "The Senate fails to invoke cloture on the John Lewis Voting Rights Advancement Act, which the House had passed."
+   },
+   {
+    "date": "2026-04-29",
+    "event": "In Louisiana v. Callais the Court narrows Section 2, the Act's nationwide ban, in redistricting cases."
+   }
+  ],
+  "misconception": {
+   "myth": "In Shelby County v. Holder the Supreme Court struck down the Voting Rights Act.",
+   "fact": "The Court invalidated only the Section 4(b) coverage formula. It issued no holding on Section 5, which remains in the statute, and said the nationwide ban on racial discrimination in Section 2 was unaffected; preclearance stopped operating because no jurisdiction is covered unless Congress writes a new formula or a court orders coverage under Section 3.",
+   "why": "Because preclearance stopped working overnight, the ruling is often summarized as ending the Act, which hides both the remaining protections and the choice the Court left to Congress."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/USREPORTS-570/pdf/USREPORTS-570-529.pdf",
+   "https://api.oyez.org/cases/2012/12-96",
+   "https://www.congress.gov/crs_external_products/R/PDF/R43626/R43626.15.pdf",
+   "https://www.everycrsreport.com/files/2026-06-03_R47520_ce2725dd0e4427320285c3659a1ef69d2966abb2.html",
+   "https://www.usccr.gov/press/2018/09-12-18-PR.pdf",
+   "https://heritage.org/testimony/assessment-minority-voting-rights-obstacles-the-united-states"
+  ]
+ },
+ {
   "id": "us:siege-of-vicksburg",
   "title": "Siege of Vicksburg",
   "aliases": [

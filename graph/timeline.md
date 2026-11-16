@@ -1130,6 +1130,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1965 | The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday). — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1168,6 +1169,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1974 | Domestic workers are brought under the law. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1975 | Congress extends preclearance and updates the formula for the last time, using 1972 election data. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -1252,13 +1254,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2005 | Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2006 | Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 2009 | In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2009-12-24 | The Senate passes H.R. 3590, as amended, by 60 to 39. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2010 | Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2010 | University of Maryland archaeologists and local volunteers survey the massacre site with metal detectors. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 2010-03-21 | The House agrees to the Senate amendments, 219 to 212, with no Republican votes in favor. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2010-03-23 | **[Affordable Care Act](../articles/contemporary-america/affordable-care-act.md)** (Law) |
@@ -1284,7 +1289,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013 | The Supreme Court strikes down a key federal oversight provision of the Voting Rights Act. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2013-01-29 | BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2013-02-27 | The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 2013-06-25 | **[Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md)** (CourtCase) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 2013-06-25 | The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2014 | A second, expanded edition of Island is published by the University of Washington Press. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -1304,6 +1312,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2016-05-09 | The National Bison Legacy Act makes the North American bison the national mammal. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 2018-09-12 | The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2019 | The penalty for going without coverage falls to $0 under the 2017 tax law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2019-06-18 | Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -1325,6 +1334,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2021-08-16 | The Bureau of Reclamation declares the first shortage in Lake Mead's history, cutting 2022 deliveries to Arizona, Nevada and Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-30 | The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
+| 2021-11 | The Senate fails to invoke cloture on the John Lewis Voting Rights Advancement Act, which the House had passed. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2022 | Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2022 | The Angel Island Immigration Museum opens in the restored hospital building. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -1333,4 +1343,5 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2026-04-29 | In Louisiana v. Callais the Court narrows Section 2, the Act's nationwide ban, in redistricting cases. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2026-04-29 | In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |

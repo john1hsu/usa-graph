@@ -1,13 +1,13 @@
 # Graph statistics
 
-- Articles (nodes written): **97**
-- Frontier nodes (referenced, unwritten): **705**
-- Asserted edges: **1740** (typed + evidenced: **488**)
-- Asserted triples: **16292**; inferred by OWL-RL: **4336**
-- Citations: **897**
-- Review questions: **334**; timeline entries: **1248**; myths debunked: **97**
+- Articles (nodes written): **98**
+- Frontier nodes (referenced, unwritten): **707**
+- Asserted edges: **1755** (typed + evidenced: **494**)
+- Asserted triples: **16420**; inferred by OWL-RL: **4383**
+- Citations: **903**
+- Review questions: **337**; timeline entries: **1258**; myths debunked: **98**
 - Weakly connected components: **1**
-- Communities (Louvain): **15**; max k-core: **6**
+- Communities (Louvain): **14**; max k-core: **6**
 
 ## Most central nodes
 
@@ -15,34 +15,34 @@ PageRank = authority; betweenness = bridges between areas.
 
 | Node | PageRank | Betweenness | Written |
 |---|---|---|---|
-| `us:slavery-in-the-united-states` | 0.0032 | 0.0823 | yes |
-| `us:fourteenth-amendment` | 0.0030 | 0.0689 | yes |
-| `us:united-states-constitution` | 0.0029 | 0.0325 | yes |
-| `us:united-states-congress` | 0.0027 | 0.1005 | yes |
-| `us:american-civil-war` | 0.0023 | 0.0376 | yes |
-| `us:united-states` | 0.0023 | 0.1673 | yes |
-| `us:native-americans` | 0.0022 | 0.1094 | yes |
-| `us:thirteenth-amendment` | 0.0022 | 0.0171 | yes |
-| `us:declaration-of-independence` | 0.0021 | 0.0220 | yes |
-| `us:jim-crow-laws` | 0.0021 | 0.0487 | yes |
-| `us:supreme-court-of-the-united-states` | 0.0021 | 0.0761 | yes |
-| `us:franklin-d-roosevelt` | 0.0021 | 0.0591 | no |
-| `us:brown-v-board-of-education` | 0.0020 | 0.0358 | yes |
-| `us:african-american-history` | 0.0020 | 0.0100 | no |
-| `us:articles-of-confederation` | 0.0020 | 0.0178 | yes |
+| `us:slavery-in-the-united-states` | 0.0032 | 0.0817 | yes |
+| `us:fourteenth-amendment` | 0.0031 | 0.0708 | yes |
+| `us:united-states-constitution` | 0.0029 | 0.0322 | yes |
+| `us:united-states-congress` | 0.0027 | 0.0989 | yes |
+| `us:american-civil-war` | 0.0023 | 0.0375 | yes |
+| `us:united-states` | 0.0023 | 0.1660 | yes |
+| `us:native-americans` | 0.0022 | 0.1087 | yes |
+| `us:thirteenth-amendment` | 0.0022 | 0.0170 | yes |
+| `us:supreme-court-of-the-united-states` | 0.0022 | 0.0808 | yes |
+| `us:jim-crow-laws` | 0.0021 | 0.0482 | yes |
+| `us:declaration-of-independence` | 0.0021 | 0.0219 | yes |
+| `us:franklin-d-roosevelt` | 0.0021 | 0.0597 | no |
+| `us:brown-v-board-of-education` | 0.0020 | 0.0357 | yes |
+| `us:african-american-history` | 0.0020 | 0.0099 | no |
+| `us:articles-of-confederation` | 0.0020 | 0.0172 | yes |
 
 ## Communities
 
-1. `us:2020-united-states-census`, `us:abraham-lincoln`, `us:act-prohibiting-importation-of-slaves`, `us:alabama`, `us:alabama-constitution-of-1901`, `us:anthony-kennedy`, `us:antiquities-act`, `us:assassination-of-abraham-lincoln`, `us:avery-v-midland-county`, `us:baker-v-carr`, `us:baker-v-nelson`, `us:barron-v-baltimore` …
-2. `us:abolitionism`, `us:african-american-history`, `us:aint-i-a-woman-myth`, `us:akron-womens-rights-convention`, `us:alice-paul`, `us:american-anti-slavery-society`, `us:american-colonization-society`, `us:american-equal-rights-association`, `us:antebellum-reform-movements`, `us:anti-slavery-record`, `us:canada`, `us:carrie-chapman-catt` …
-3. `us:albany-plan`, `us:alexander-hamilton`, `us:american-bison`, `us:american-national-identity`, `us:american-revolutionary-war`, `us:annapolis-convention`, `us:articles-of-confederation`, `us:bald-eagle`, `us:battle-of-saratoga`, `us:battles-of-lexington-and-concord`, `us:benjamin-franklin`, `us:betsy-ross` …
-4. `us:african-americans`, `us:african-methodist-episcopal-church`, `us:american-legion`, `us:baton-rouge-bus-boycott`, `us:black-immigrants-in-the-united-states`, `us:black-power-movement`, `us:bolling-v-sharpe`, `us:browder-v-gayle`, `us:brown-v-board-of-education`, `us:civil-rights-act-of-1964`, `us:civil-rights-cases`, `us:civil-rights-movement` …
-5. `us:alaska-purchase`, `us:american-indian-movement`, `us:andrew-jackson`, `us:arizona-v-california`, `us:arkansas`, `us:bureau-of-indian-affairs`, `us:cahokia`, `us:cherokee-nation`, `us:cherokee-nation-v-georgia`, `us:chickasaw-nation`, `us:colorado-river`, `us:colorado-river-compact` …
-6. `us:1906-san-francisco-earthquake`, `us:act-for-the-government-and-protection-of-indians`, `us:american-frontier`, `us:american-poetry`, `us:angel-island-immigration-station`, `us:asian-american-literature`, `us:bear-flag-revolt`, `us:burlingame-treaty`, `us:california`, `us:california-free-state-myth`, `us:california-gold-rush`, `us:california-missions` …
-7. `us:adams-onis-treaty`, `us:agua-clara-locks`, `us:canal-zone-additional-facilities-act-of-1939`, `us:clayton-bulwer-treaty`, `us:cuban-missile-crisis`, `us:culebra-cut`, `us:dominican-customs-receivership`, `us:early-republic`, `us:farewell-address`, `us:federal-holidays-in-the-united-states`, `us:first-thanksgiving-myth`, `us:foreign-relations-of-the-united-states` …
-8. `us:442nd-regimental-combat-team`, `us:alaska`, `us:apology-resolution`, `us:atomic-bombings-of-hiroshima-and-nagasaki`, `us:attack-on-pearl-harbor`, `us:battle-of-midway`, `us:bracero-program`, `us:chuichi-nagumo`, `us:civil-liberties-act-of-1988`, `us:commission-on-wartime-relocation-and-internment-of-civilians`, `us:d-day`, `us:day-of-infamy-speech` …
-9. `us:agriculture-in-the-united-states`, `us:arizona`, `us:black-sunday-dust-storm`, `us:bonus-army`, `us:boulder-canyon-project-act`, `us:boulder-city`, `us:bureau-of-reclamation`, `us:country-music`, `us:dorothea-lange`, `us:dust-bowl`, `us:edwards-v-california`, `us:elwood-mead` …
-10. `us:adkins-v-childrens-hospital`, `us:anthracite-coal-strike-of-1902`, `us:baltimore`, `us:baltimore-and-ohio-railroad`, `us:chicago`, `us:coal-and-iron-police`, `us:coinage-act-of-1873`, `us:dawes-act`, `us:economic-history-of-the-united-states`, `us:fair-labor-standards-act`, `us:frances-perkins`, `us:freedmans-savings-and-trust-company` …
+1. `us:abolitionism`, `us:abraham-lincoln`, `us:african-american-history`, `us:african-americans`, `us:african-methodist-episcopal-church`, `us:aint-i-a-woman-myth`, `us:akron-womens-rights-convention`, `us:alice-paul`, `us:american-anti-slavery-society`, `us:american-civil-war`, `us:american-colonization-society`, `us:american-equal-rights-association` …
+2. `us:act-prohibiting-importation-of-slaves`, `us:albany-plan`, `us:alexander-hamilton`, `us:american-bison`, `us:american-national-identity`, `us:american-revolutionary-war`, `us:annapolis-convention`, `us:articles-of-confederation`, `us:bald-eagle`, `us:battle-of-saratoga`, `us:battles-of-lexington-and-concord`, `us:benjamin-franklin` …
+3. `us:2020-united-states-census`, `us:alabama`, `us:anthony-kennedy`, `us:avery-v-midland-county`, `us:baker-v-carr`, `us:baker-v-nelson`, `us:barron-v-baltimore`, `us:benjamin-r-curtis`, `us:bill-of-rights`, `us:census-and-apportionment`, `us:checks-and-balances`, `us:civil-rights-act-of-1866` …
+4. `us:adams-onis-treaty`, `us:agua-clara-locks`, `us:antiquities-act`, `us:booker-t-washington`, `us:brownsville-affair`, `us:buffalo-soldiers`, `us:canal-zone-additional-facilities-act-of-1939`, `us:clayton-bulwer-treaty`, `us:cuban-missile-crisis`, `us:culebra-cut`, `us:dominican-customs-receivership`, `us:early-republic` …
+5. `us:1906-san-francisco-earthquake`, `us:act-for-the-government-and-protection-of-indians`, `us:american-frontier`, `us:american-poetry`, `us:angel-island-immigration-station`, `us:asian-american-literature`, `us:bear-flag-revolt`, `us:burlingame-treaty`, `us:california`, `us:california-free-state-myth`, `us:california-gold-rush`, `us:california-missions` …
+6. `us:442nd-regimental-combat-team`, `us:alaska`, `us:apology-resolution`, `us:atomic-bombings-of-hiroshima-and-nagasaki`, `us:attack-on-pearl-harbor`, `us:battle-of-midway`, `us:bracero-program`, `us:chuichi-nagumo`, `us:civil-liberties-act-of-1988`, `us:commission-on-wartime-relocation-and-internment-of-civilians`, `us:d-day`, `us:day-of-infamy-speech` …
+7. `us:alabama-constitution-of-1901`, `us:baton-rouge-bus-boycott`, `us:black-power-movement`, `us:bolling-v-sharpe`, `us:browder-v-gayle`, `us:brown-v-board-of-education`, `us:civil-rights-act-of-1964`, `us:civil-rights-cases`, `us:civil-rights-movement`, `us:claudette-colvin`, `us:congress-of-racial-equality`, `us:cooper-v-aaron` …
+8. `us:alaska-purchase`, `us:american-indian-movement`, `us:andrew-jackson`, `us:arizona-v-california`, `us:bureau-of-indian-affairs`, `us:cahokia`, `us:cherokee-nation`, `us:cherokee-nation-v-georgia`, `us:chickasaw-nation`, `us:colorado-river`, `us:colorado-river-indian-tribes`, `us:federal-indian-boarding-schools` …
+9. `us:adkins-v-childrens-hospital`, `us:anthracite-coal-strike-of-1902`, `us:baltimore`, `us:baltimore-and-ohio-railroad`, `us:charter-of-pennsylvania`, `us:coal-and-iron-police`, `us:coinage-act-of-1873`, `us:dawes-act`, `us:delaware-river`, `us:economic-history-of-the-united-states`, `us:fair-labor-standards-act`, `us:frances-perkins` …
+10. `us:agriculture-in-the-united-states`, `us:arizona`, `us:arkansas`, `us:black-sunday-dust-storm`, `us:bonus-army`, `us:boulder-canyon-project-act`, `us:boulder-city`, `us:bureau-of-reclamation`, `us:colorado-river-compact`, `us:country-music`, `us:dorothea-lange`, `us:dust-bowl` …
 
 ## By type
 
@@ -51,7 +51,7 @@ PageRank = authority; betweenness = bridges between areas.
 - Concept: 2
 - Conflict: 6
 - Country: 1
-- CourtCase: 6
+- CourtCase: 7
 - Document: 4
 - Era: 2
 - Event: 15
@@ -80,7 +80,7 @@ PageRank = authority; betweenness = bridges between areas.
 - constitution-and-government: 5
 - contemporary-america: 5
 - culture-and-arts: 5
-- democracy-and-elections: 4
+- democracy-and-elections: 5
 - depression-and-world-war: 5
 - early-republic-and-expansion: 4
 - economy-and-work: 4
@@ -100,18 +100,17 @@ PageRank = authority; betweenness = bridges between areas.
 ## By level
 
 - intermediate: 1
-- introductory: 96
+- introductory: 97
 
 ## By evidence status
 
 - established: 35
 - interpretive: 40
-- legal-text: 21
+- legal-text: 22
 - myth: 1
 
 ## Domain coverage (breadth runs pick the lowest)
 
-- democracy-and-elections: 4
 - early-republic-and-expansion: 4
 - economy-and-work: 4
 - foreign-relations-and-military: 4
@@ -130,6 +129,7 @@ PageRank = authority; betweenness = bridges between areas.
 - constitution-and-government: 5
 - contemporary-america: 5
 - culture-and-arts: 5
+- democracy-and-elections: 5
 - depression-and-world-war: 5
 - gilded-age-and-progressive-era: 5
 - presidents-and-founders: 5

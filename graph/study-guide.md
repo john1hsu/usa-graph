@@ -541,6 +541,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did opponents of the ruling try to reverse it, and why did they fail?
   **A:** They proposed a constitutional amendment allowing one house of a state legislature to be apportioned using geography and political subdivisions as well as population; it won a 57 to 39 majority in the Senate on August 4, 1965, but fell short of the two-thirds a constitutional amendment requires.
 
+### [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| In Shelby County v. Holder the Supreme Court struck down the Voting Rights Act. | The Court invalidated only the Section 4(b) coverage formula. It issued no holding on Section 5, which remains in the statute, and said the nationwide ban on racial discrimination in Section 2 was unaffected; preclearance stopped operating because no jurisdiction is covered unless Congress writes a new formula or a court orders coverage under Section 3. |
+
+**Why it matters:** Because preclearance stopped working overnight, the ruling is often summarized as ending the Act, which hides both the remaining protections and the choice the Court left to Congress.
+
+- **Q:** Why did preclearance stop operating even though the Court did not strike down Section 5?
+  **A:** Section 5 applies only to jurisdictions identified by the Section 4(b) coverage formula; once the Court held that formula unconstitutional, no jurisdiction was covered, so the preclearance requirement had nothing to attach to unless Congress enacts a new formula or a court orders coverage under Section 3.
+- **Q:** How did the majority and the dissent differ in judging the 2006 reauthorization?
+  **A:** Chief Justice Roberts held that the formula rested on data from the 1960s and early 1970s and could not justify treating some states differently under the principle of equal sovereignty, pointing to near-equal Black and white registration by 2004; Justice Ginsburg argued that Congress's large record showed continuing discrimination and that preclearance itself explained the progress.
+- **Q:** Why did the U.S. Commission on Civil Rights and its critics disagree about the decision's effects?
+  **A:** The Commission found that new voting restrictions followed in formerly covered places and that case-by-case Section 2 lawsuits were slow and costly, while witnesses such as Hans von Spakovsky argued that Black registration and turnout data and Section 3's court-ordered preclearance made a new Section 5 unnecessary.
+
 ### [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) — Law
 
 | Myth | Fact |

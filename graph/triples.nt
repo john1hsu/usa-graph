@@ -8027,6 +8027,98 @@
 <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <https://schema.org/startDate> "1944-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Court invalidated only the Section 4(b) coverage formula. It issued no holding on Section 5, which remains in the statute, and said the nationwide ban on racial discrimination in Section 2 was unaffected; preclearance stopped operating because no jurisdiction is covered unless Congress writes a new formula or a court orders coverage under Section 3." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "In Shelby County v. Holder the Supreme Court struck down the Voting Rights Act." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because preclearance stopped working overnight, the ruling is often summarized as ending the Act, which hides both the remaining protections and the choice the Court left to Congress." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did preclearance stop operating even though the Court did not strike down Section 5?" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Section 5 applies only to jurisdictions identified by the Section 4(b) coverage formula; once the Court held that formula unconstitutional, no jurisdiction was covered, so the preclearance requirement had nothing to attach to unless Congress enacts a new formula or a court orders coverage under Section 3." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the majority and the dissent differ in judging the 2006 reauthorization?" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Chief Justice Roberts held that the formula rested on data from the 1960s and early 1970s and could not justify treating some states differently under the principle of equal sovereignty, pointing to near-equal Black and white registration by 2004; Justice Ginsburg argued that Congress's large record showed continuing discrimination and that preclearance itself explained the progress." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the U.S. Commission on Civil Rights and its critics disagree about the decision's effects?" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Commission found that new voting restrictions followed in formerly covered places and that case-by-case Section 2 lawsuits were slow and costly, while witnesses such as Hans von Spakovsky argued that Black registration and turnout data and Section 3's court-ordered preclearance made a new Section 5 unnecessary." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "In Louisiana v. Callais the Court narrows Section 2, the Act's nationwide ban, in redistricting cases." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2026-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Congress extends preclearance and updates the formula for the last time, using 1972 election data." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2018-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate fails to invoke cloture on the John Lewis Voting Rights Advancement Act, which the House had passed." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2000/01/rdf-schema#label> "Shelby County v. Holder" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#altLabel> "570 U.S. 529 (2013)" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#altLabel> "Shelby County decision" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#altLabel> "Shelby County, Alabama v. Holder" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/voting-rights-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#definition> "The 2013 Supreme Court decision, 5 to 4, holding that the Voting Rights Act's Section 4(b) coverage formula was unconstitutional, which left the Section 5 \"preclearance\" requirement for jurisdictions with a history of voting discrimination without any jurisdictions to apply to." .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shelby County v. Holder" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-v-callais> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/right-to-vote> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/alabama> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-roberts> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/shelby-county-v-holder.md" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/northwest-austin-municipal-utility-district-no-one-v-holder> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/john-lewis-voting-rights-advancement-act> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> <https://schema.org/startDate> "2013-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops." .
 <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Lincoln's line that the Father of Waters again flowed \"unvexed to the sea\" was his spontaneous reaction to the news from Vicksburg." .
@@ -12254,6 +12346,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/servicemens-readjustment-act-of-1944/s9> <https://schema.org/url> <https://magazine.columbia.edu/print/pdf/node/11901> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <http://purl.org/dc/terms/publisher> "United States Reports, via GovInfo (U.S. Government Publishing Office)" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <http://purl.org/dc/terms/title> "Shelby County v. Holder, 570 U.S. 529 (2013)" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USREPORTS-570/pdf/USREPORTS-570-529.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <http://purl.org/dc/terms/publisher> "Oyez, Cornell Legal Information Institute and Justia" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <http://purl.org/dc/terms/title> "Shelby County v. Holder" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2> <https://schema.org/url> <https://api.oyez.org/cases/2012/12-96> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Congress.gov" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <http://purl.org/dc/terms/title> "The Voting Rights Act of 1965: Background and Overview (R43626)" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3> <https://schema.org/url> <https://www.congress.gov/crs_external_products/R/PDF/R43626/R43626.15.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via EveryCRSReport" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <http://purl.org/dc/terms/title> "The Voting Rights Act: Historical Development and Policy Background (R47520, updated June 3, 2026)" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4> <https://schema.org/url> <https://www.everycrsreport.com/files/2026-06-03_R47520_ce2725dd0e4427320285c3659a1ef69d2966abb2.html> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <http://purl.org/dc/terms/publisher> "U.S. Commission on Civil Rights" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <http://purl.org/dc/terms/title> "U.S. Commission on Civil Rights Releases Report: An Assessment of Minority Voting Rights Access in the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5> <https://schema.org/url> <https://www.usccr.gov/press/2018/09-12-18-PR.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <http://purl.org/dc/terms/publisher> "Hans A. von Spakovsky, The Heritage Foundation" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <http://purl.org/dc/terms/title> "An Assessment of Minority Voting Rights Obstacles in the United States (testimony, February 2, 2018)" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6> <https://schema.org/url> <https://heritage.org/testimony/assessment-minority-voting-rights-obstacles-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Vicksburg National Military Park" .
 <https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1> <http://purl.org/dc/terms/title> "Surrender (July 4)" .

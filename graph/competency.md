@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 
-…and 54 more.
+…and 55 more.
 
 ## Happenings by era
 

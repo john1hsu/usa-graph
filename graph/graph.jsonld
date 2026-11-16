@@ -11068,6 +11068,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Court invalidated only the Section 4(b) coverage formula. It issued no holding on Section 5, which remains in the statute, and said the nationwide ban on racial discrimination in Section 2 was unaffected; preclearance stopped operating because no jurisdiction is covered unless Congress writes a new formula or a court orders coverage under Section 3.",
+   "uso:myth": "In Shelby County v. Holder the Supreme Court struck down the Voting Rights Act.",
+   "uso:why": "Because preclearance stopped working overnight, the ruling is often summarized as ending the Act, which hides both the remaining protections and the choice the Court left to Congress."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did preclearance stop operating even though the Court did not strike down Section 5?",
+   "uso:answer": "Section 5 applies only to jurisdictions identified by the Section 4(b) coverage formula; once the Court held that formula unconstitutional, no jurisdiction was covered, so the preclearance requirement had nothing to attach to unless Congress enacts a new formula or a court orders coverage under Section 3.",
+   "uso:questionFor": {
+    "@id": "us:shelby-county-v-holder"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the majority and the dissent differ in judging the 2006 reauthorization?",
+   "uso:answer": "Chief Justice Roberts held that the formula rested on data from the 1960s and early 1970s and could not justify treating some states differently under the principle of equal sovereignty, pointing to near-equal Black and white registration by 2004; Justice Ginsburg argued that Congress's large record showed continuing discrimination and that preclearance itself explained the progress.",
+   "uso:questionFor": {
+    "@id": "us:shelby-county-v-holder"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the U.S. Commission on Civil Rights and its critics disagree about the decision's effects?",
+   "uso:answer": "The Commission found that new voting restrictions followed in formerly covered places and that case-by-case Section 2 lawsuits were slow and costly, while witnesses such as Hans von Spakovsky argued that Black registration and turnout data and Section 3's court-ordered preclearance made a new Section 5 unnecessary.",
+   "uso:questionFor": {
+    "@id": "us:shelby-county-v-holder"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Louisiana v. Callais the Court narrows Section 2, the Act's nationwide ban, in redistricting cases.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2026-04-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress extends preclearance and updates the formula for the last time, using 1972 election data.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1975"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2006"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2009"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Shelby County, Alabama, sues the Attorney General in federal court in Washington, D.C., to have Sections 4(b) and 5 declared unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2010"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-02-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2018-09-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate fails to invoke cloture on the John Lewis Voting Rights Advancement Act, which the House had passed.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2021-11"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The sentence appears in a public letter he wrote to James C. Conkling on August 26, 1863, nearly two months after the surrender, in a passage that also credits soldiers from many regions and Black troops.",
@@ -20618,6 +20742,90 @@
     "@id": "https://magazine.columbia.edu/print/pdf/node/11901"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "United States Reports, via GovInfo (U.S. Government Publishing Office)",
+   "dcterms:title": "Shelby County v. Holder, 570 U.S. 529 (2013)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-570/pdf/USREPORTS-570-529.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Oyez, Cornell Legal Information Institute and Justia",
+   "dcterms:title": "Shelby County v. Holder",
+   "schema:url": {
+    "@id": "https://api.oyez.org/cases/2012/12-96"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Congressional Research Service, via Congress.gov",
+   "dcterms:title": "The Voting Rights Act of 1965: Background and Overview (R43626)",
+   "schema:url": {
+    "@id": "https://www.congress.gov/crs_external_products/R/PDF/R43626/R43626.15.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Congressional Research Service, via EveryCRSReport",
+   "dcterms:title": "The Voting Rights Act: Historical Development and Policy Background (R47520, updated June 3, 2026)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/files/2026-06-03_R47520_ce2725dd0e4427320285c3659a1ef69d2966abb2.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Commission on Civil Rights",
+   "dcterms:title": "U.S. Commission on Civil Rights Releases Report: An Assessment of Minority Voting Rights Access in the United States",
+   "schema:url": {
+    "@id": "https://www.usccr.gov/press/2018/09-12-18-PR.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Hans A. von Spakovsky, The Heritage Foundation",
+   "dcterms:title": "An Assessment of Minority Voting Rights Obstacles in the United States (testimony, February 2, 2018)",
+   "schema:url": {
+    "@id": "https://heritage.org/testimony/assessment-minority-voting-rights-obstacles-the-united-states"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/siege-of-vicksburg/s1",
@@ -39061,6 +39269,137 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:shelby-county-v-holder",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/shelby-county-v-holder/s6"
+    }
+   ],
+   "rdfs:label": "Shelby County v. Holder",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2013-06-25"
+   },
+   "skos:altLabel": [
+    "570 U.S. 529 (2013)",
+    "Shelby County decision",
+    "Shelby County, Alabama v. Holder"
+   ],
+   "skos:broader": {
+    "@id": "us:voting-rights-in-the-united-states"
+   },
+   "skos:definition": "The 2013 Supreme Court decision, 5 to 4, holding that the Voting Rights Act's Section 4(b) coverage formula was unconstitutional, which left the Section 5 \"preclearance\" requirement for jurisdictions with a history of voting discrimination without any jurisdictions to apply to.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections"
+   },
+   "skos:prefLabel": "Shelby County v. Holder",
+   "skos:related": [
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:louisiana-v-callais"
+    },
+    {
+     "@id": "us:right-to-vote"
+    },
+    {
+     "@id": "us:south-carolina-v-katzenbach"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:tenth-amendment"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:alabama"
+   },
+   "uso:authoredBy": {
+    "@id": "us:john-roberts"
+   },
+   "uso:domain": "democracy-and-elections",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/democracy-and-elections/shelby-county-v-holder.md",
+   "uso:influencedBy": {
+    "@id": "us:northwest-austin-municipal-utility-district-no-one-v-holder"
+   },
+   "uso:interprets": [
+    {
+     "@id": "us:fifteenth-amendment"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:john-lewis-voting-rights-advancement-act"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:voting-rights-act-of-1965"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/timeline/9"
     }
    ]
   },
