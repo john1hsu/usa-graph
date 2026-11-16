@@ -11,8 +11,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.23 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.96 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:mexican-american-war`, `us:missouri-compromise` |
 | 2.70 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.65 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.64 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
+| 2.62 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.54 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.47 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
@@ -20,6 +20,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.44 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.44 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:mexican-american-war`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.38 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
+| 2.35 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.24 | `us:pennsylvania` | `us:second-continental-congress` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:philadelphia`, `us:thirteen-colonies` |
 | 2.23 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:constitutional-convention`, `us:second-continental-congress` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.18 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
 | 2.17 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:dred-scott-v-sandford`, `us:frederick-douglass`, `us:judicial-review`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
-| 2.17 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |

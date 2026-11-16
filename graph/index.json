@@ -16254,6 +16254,176 @@
   ]
  },
  {
+  "id": "us:triangle-shirtwaist-factory-fire",
+  "title": "Triangle Shirtwaist Factory fire",
+  "aliases": [
+   "Triangle fire",
+   "Triangle Factory fire",
+   "Triangle Waist Company fire",
+   "Triangle Shirtwaist fire"
+  ],
+  "type": "Event",
+  "domain": "economy-and-work",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/economy-and-work/triangle-shirtwaist-factory-fire.md",
+  "created": "2026-11-16",
+  "summary": "A fire at the Triangle Waist Company on the top three floors of the Asch Building in New York City on March 25, 1911, that killed 146 garment workers, most of them young immigrant women from southern and eastern Europe, and spurred New York's Factory Investigating Commission and a wave of state workplace-safety and labor laws.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:labor-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:progressive-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:labor-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frances-perkins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rose-schneiderman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:uprising-of-the-20000"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:labor-law-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minimum-wage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-railroad-strike-of-1877"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lattimer-massacre"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-york-city",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:brown-building",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:new-york-factory-investigating-commission",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:international-ladies-garment-workers-union",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1911-03-25",
+  "end": "1911-03-25",
+  "review": [
+   {
+    "question": "Why did so many workers on the ninth floor die when most on the eighth and tenth floors escaped?",
+    "answer": "The ninth-floor workers were trapped by a locked stairwell door, blocked exits and a single overwhelmed elevator; the fire escape collapsed and firefighters' ladders could not reach that high, so many died inside or jumped."
+   },
+   {
+    "question": "How did the fire lead to new labor laws in New York?",
+    "answer": "Public outrage and lobbying led the legislature to create the Factory Investigating Commission in June 1911; its hearings and inspections of thousands of workplaces produced dozens of state laws on fire safety, sanitation, machine guarding and limits on working hours for women and children."
+   },
+   {
+    "question": "How did the fire's influence reach the national level two decades later?",
+    "answer": "Frances Perkins witnessed the fire and worked for the commission; as Franklin Roosevelt's Secretary of Labor she applied lessons from New York's reforms nationally, and New Deal laws of the 1930s adopted similar standards."
+   },
+   {
+    "question": "Why were the owners acquitted despite testimony that the doors would not open?",
+    "answer": "The jury had to decide whether Blanck and Harris knew the door was locked at the time of the fire, and defense lawyer Max Steuer raised enough doubt on that point to win a not-guilty verdict."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1901",
+    "event": "The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors."
+   },
+   {
+    "date": "1909",
+    "event": "Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months."
+   },
+   {
+    "date": "1911-03-25",
+    "event": "Fire breaks out on the eighth floor near closing time; the first alarm goes out at 4:45 p.m. and 146 workers die."
+   },
+   {
+    "date": "1911-04-05",
+    "event": "The ILGWU organizes a funeral procession; about 100,000 people march behind the hearses on Fifth Avenue."
+   },
+   {
+    "date": "1911-04-11",
+    "event": "A grand jury indicts owners Max Blanck and Isaac Harris for manslaughter."
+   },
+   {
+    "date": "1911-06-30",
+    "event": "The New York legislature creates the Factory Investigating Commission."
+   },
+   {
+    "date": "1911-12-27",
+    "event": "A jury acquits Blanck and Harris."
+   },
+   {
+    "date": "1913-08",
+    "event": "Blanck is fined $20 for locking a factory door during working hours at another shop."
+   },
+   {
+    "date": "1914-03-11",
+    "event": "Blanck and Harris settle 23 civil suits, paying $75 for each life lost."
+   },
+   {
+    "date": "1991-07-17",
+    "event": "The building, renamed the Brown Building, is designated a National Historic Landmark."
+   },
+   {
+    "date": "2011",
+    "event": "Researcher Michael Hirsch identifies the last six unidentified victims."
+   }
+  ],
+  "misconception": {
+   "myth": "The Triangle owners were convicted and punished for the deaths.",
+   "fact": "Max Blanck and Isaac Harris were indicted for manslaughter but acquitted on December 27, 1911, after the jury was asked whether they knew the ninth-floor door was locked. Civil suits were settled in 1914 for $75 per life lost, and in 1913 Blanck was fined just $20 for again locking a factory door during working hours.",
+   "why": "The fire is remembered for the sweeping reforms that followed, so it is easy to assume the law also held the owners accountable; in fact the reforms came largely because existing law had failed to."
+  },
+  "source_urls": [
+   "https://trianglefire.ilr.cornell.edu/story/investigationTrial.html",
+   "https://trianglefire.ilr.cornell.edu/legacy/legislativeReform.html",
+   "https://trianglefire.ilr.cornell.edu/primary/lectures/FrancesPerkinsLecture",
+   "https://www.nps.gov/places/triangle-shirtwaist-factory-brown-building.htm",
+   "https://www.dol.gov/general/aboutdol/history/mono-regsafepart07",
+   "https://www.britannica.com/event/Triangle-shirtwaist-factory-fire"
+  ]
+ },
+ {
   "id": "us:tribal-sovereignty",
   "title": "Tribal sovereignty",
   "aliases": [

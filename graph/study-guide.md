@@ -807,6 +807,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians link the depression that followed the panic to the end of Reconstruction?
   **A:** The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence.
 
+### [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The Triangle owners were convicted and punished for the deaths. | Max Blanck and Isaac Harris were indicted for manslaughter but acquitted on December 27, 1911, after the jury was asked whether they knew the ninth-floor door was locked. Civil suits were settled in 1914 for $75 per life lost, and in 1913 Blanck was fined just $20 for again locking a factory door during working hours. |
+
+**Why it matters:** The fire is remembered for the sweeping reforms that followed, so it is easy to assume the law also held the owners accountable; in fact the reforms came largely because existing law had failed to.
+
+- **Q:** Why did so many workers on the ninth floor die when most on the eighth and tenth floors escaped?
+  **A:** The ninth-floor workers were trapped by a locked stairwell door, blocked exits and a single overwhelmed elevator; the fire escape collapsed and firefighters' ladders could not reach that high, so many died inside or jumped.
+- **Q:** How did the fire lead to new labor laws in New York?
+  **A:** Public outrage and lobbying led the legislature to create the Factory Investigating Commission in June 1911; its hearings and inspections of thousands of workplaces produced dozens of state laws on fire safety, sanitation, machine guarding and limits on working hours for women and children.
+- **Q:** How did the fire's influence reach the national level two decades later?
+  **A:** Frances Perkins witnessed the fire and worked for the commission; as Franklin Roosevelt's Secretary of Labor she applied lessons from New York's reforms nationally, and New Deal laws of the 1930s adopted similar standards.
+- **Q:** Why were the owners acquitted despite testimony that the doors would not open?
+  **A:** The jury had to decide whether Blanck and Harris knew the door was locked at the time of the fire, and defense lawyer Max Steuer raised enough doubt on that point to win a not-guilty verdict.
+
 ## foreign-relations-and-military
 
 ### [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) — Landmark

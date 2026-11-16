@@ -762,6 +762,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1901 | Alabama's constitution disfranchises Black voters, segregates schools and bars interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1901 | Alabama's new constitution requires legislative seats to be reapportioned by population after each federal census; no statewide reapportionment follows the 1900 census. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1901 | The Hay-Pauncefote Treaty supersedes Clayton-Bulwer, letting the United States build and run its own canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1901 | The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1901-09-14 | Sworn in as president at 42 after the assassination of William McKinley. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1902 | Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -816,6 +817,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909 | Canby's brother and nephew publish The Evolution of the American Flag, fixing the story in public memory. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1909 | Leaves the presidency after keeping a pledge not to seek another term. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1909 | Over the next two decades farmers break about 32 million acres of Great Plains sod, much of it for wheat. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1909 | Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
@@ -830,10 +832,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910-05 | The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-05-06 | Walter Brookins flies solo for about 12 minutes, the Montgomery camp's only graduate. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911 | A federal law fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1911-03-25 | **[Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md)** (Event) |
+| 1911-03-25 | Fire breaks out on the eighth floor near closing time; the first alarm goes out at 4:45 p.m. and 146 workers die. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1911-04-05 | The ILGWU organizes a funeral procession; about 100,000 people march behind the hearses on Fifth Avenue. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1911-04-11 | A grand jury indicts owners Max Blanck and Isaac Harris for manslaughter. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1911-05-07 | Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
+| 1911-06-30 | The New York legislature creates the Factory Investigating Commission. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1911-08-08 | Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1911-10-05 | Date given in the earliest dated poem yet recorded (Island poem 100). — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1911-12-27 | A jury acquits Blanck and Harris. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -845,6 +853,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1913-08 | Blanck is fined $20 for locking a factory door during working hours at another shop. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1913-09-01 | Concreting of the canal's locks is completed. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
 | 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
@@ -852,6 +861,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1914-03-11 | Blanck and Harris settle 23 civil suits, paying $75 for each life lost. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1914-08-15 | **[Panama Canal](../articles/foreign-relations-and-military/panama-canal.md)** (Landmark) |
 | 1914-08-15 | The Ancon makes the canal's first official transit. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914-08-15 | The cement boat Ancon makes the first official transit, opening the canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1224,6 +1234,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
+| 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -1306,6 +1317,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2010-07-15 | BP closes the valves on a new containment cap and the oil stops flowing. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2010-09-19 | After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2010-10-01 | Revenue collection moves to a separate Office of Natural Resources Revenue. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 2011 | Researcher Michael Hirsch identifies the last six unidentified victims. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 2011-01-11 | The presidential commission releases its final report, Deep Water. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

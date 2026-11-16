@@ -23075,6 +23075,90 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Kheel Center for Labor-Management Documentation and Archives, Cornell University ILR School",
+   "dcterms:title": "Remembering the 1911 Triangle Factory Fire: Investigation & Trial",
+   "schema:url": {
+    "@id": "https://trianglefire.ilr.cornell.edu/story/investigationTrial.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Kheel Center for Labor-Management Documentation and Archives, Cornell University ILR School",
+   "dcterms:title": "Remembering the 1911 Triangle Factory Fire: Legislative Reform",
+   "schema:url": {
+    "@id": "https://trianglefire.ilr.cornell.edu/legacy/legislativeReform.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Kheel Center, Cornell University ILR School (transcript)",
+   "dcterms:title": "Frances Perkins, lecture at the Cornell School of Industrial and Labor Relations, September 30, 1964",
+   "schema:url": {
+    "@id": "https://trianglefire.ilr.cornell.edu/primary/lectures/FrancesPerkinsLecture"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Triangle Shirtwaist Factory (Brown Building)",
+   "schema:url": {
+    "@id": "https://www.nps.gov/places/triangle-shirtwaist-factory-brown-building.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor, Historical Office",
+   "dcterms:title": "Safety and Health Regulation: The New York Factory Investigating Commission",
+   "schema:url": {
+    "@id": "https://www.dol.gov/general/aboutdol/history/mono-regsafepart07"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Triangle shirtwaist factory fire",
+   "schema:url": {
+    "@id": "https://www.britannica.com/event/Triangle-shirtwaist-factory-fire"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/tribal-sovereignty/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -26397,6 +26481,148 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1784-10-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Max Blanck and Isaac Harris were indicted for manslaughter but acquitted on December 27, 1911, after the jury was asked whether they knew the ninth-floor door was locked. Civil suits were settled in 1914 for $75 per life lost, and in 1913 Blanck was fined just $20 for again locking a factory door during working hours.",
+   "uso:myth": "The Triangle owners were convicted and punished for the deaths.",
+   "uso:why": "The fire is remembered for the sweeping reforms that followed, so it is easy to assume the law also held the owners accountable; in fact the reforms came largely because existing law had failed to."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did so many workers on the ninth floor die when most on the eighth and tenth floors escaped?",
+   "uso:answer": "The ninth-floor workers were trapped by a locked stairwell door, blocked exits and a single overwhelmed elevator; the fire escape collapsed and firefighters' ladders could not reach that high, so many died inside or jumped.",
+   "uso:questionFor": {
+    "@id": "us:triangle-shirtwaist-factory-fire"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the fire lead to new labor laws in New York?",
+   "uso:answer": "Public outrage and lobbying led the legislature to create the Factory Investigating Commission in June 1911; its hearings and inspections of thousands of workplaces produced dozens of state laws on fire safety, sanitation, machine guarding and limits on working hours for women and children.",
+   "uso:questionFor": {
+    "@id": "us:triangle-shirtwaist-factory-fire"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the fire's influence reach the national level two decades later?",
+   "uso:answer": "Frances Perkins witnessed the fire and worked for the commission; as Franklin Roosevelt's Secretary of Labor she applied lessons from New York's reforms nationally, and New Deal laws of the 1930s adopted similar standards.",
+   "uso:questionFor": {
+    "@id": "us:triangle-shirtwaist-factory-fire"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why were the owners acquitted despite testimony that the doors would not open?",
+   "uso:answer": "The jury had to decide whether Blanck and Harris knew the door was locked at the time of the fire, and defense lawyer Max Steuer raised enough doubt on that point to win a not-guilty verdict.",
+   "uso:questionFor": {
+    "@id": "us:triangle-shirtwaist-factory-fire"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The ten-story Asch Building is completed at 23–29 Washington Place in Greenwich Village; the Triangle Waist Company later occupies its eighth, ninth and tenth floors.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1901"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The building, renamed the Brown Building, is designated a National Historic Landmark.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1991-07-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Researcher Michael Hirsch identifies the last six unidentified victims.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2011"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1909"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fire breaks out on the eighth floor near closing time; the first alarm goes out at 4:45 p.m. and 146 workers die.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-03-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The ILGWU organizes a funeral procession; about 100,000 people march behind the hearses on Fifth Avenue.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-04-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A grand jury indicts owners Max Blanck and Isaac Harris for manslaughter.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-04-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The New York legislature creates the Factory Investigating Commission.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-06-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A jury acquits Blanck and Harris.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1911-12-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Blanck is fined $20 for locking a factory door during working hours at another shop.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1913-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Blanck and Harris settle 23 civil suits, paying $75 for each life lost.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1914-03-11"
    }
   },
   {
@@ -42370,6 +42596,150 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783/timeline/6"
+    }
+   ]
+  },
+  {
+   "@id": "us:triangle-shirtwaist-factory-fire",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/triangle-shirtwaist-factory-fire/s6"
+    }
+   ],
+   "rdfs:label": "Triangle Shirtwaist Factory fire",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1911-03-25"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1911-03-25"
+   },
+   "skos:altLabel": [
+    "Triangle Factory fire",
+    "Triangle Shirtwaist fire",
+    "Triangle Waist Company fire",
+    "Triangle fire"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:labor-history-of-the-united-states"
+    },
+    {
+     "@id": "us:progressive-era"
+    }
+   ],
+   "skos:definition": "A fire at the Triangle Waist Company on the top three floors of the Asch Building in New York City on March 25, 1911, that killed 146 garment workers, most of them young immigrant women from southern and eastern Europe, and spurred New York's Factory Investigating Commission and a wave of state workplace-safety and labor laws.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Triangle Shirtwaist Factory fire",
+   "skos:related": [
+    {
+     "@id": "us:frances-perkins"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:immigration-to-the-united-states"
+    },
+    {
+     "@id": "us:labor-law-in-the-united-states"
+    },
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:lattimer-massacre"
+    },
+    {
+     "@id": "us:minimum-wage"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:rose-schneiderman"
+    },
+    {
+     "@id": "us:uprising-of-the-20000"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:international-ladies-garment-workers-union"
+   },
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/economy-and-work/triangle-shirtwaist-factory-fire.md",
+   "uso:ledTo": {
+    "@id": "us:new-york-factory-investigating-commission"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/misconception"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:brown-building"
+    },
+    {
+     "@id": "us:new-york-city"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire/timeline/9"
     }
    ]
   },
