@@ -569,6 +569,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1866-07-30 | White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1867-06-24 | Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
@@ -587,6 +588,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-01-11 | Representative George Boutwell proposes a suffrage amendment in the House. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-04-10 | Congress fixes the Court at nine justices, where it has remained. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1869-05-10 | At Promontory Summit, Utah Territory, eight Chinese workers move the final rail into place for the transcontinental railroad. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1869-05-12 | At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -678,6 +680,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1882 | Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
+| 1882 | The Chinese Exclusion Act suspends the immigration of Chinese laborers and bars Chinese immigrants from naturalization. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1882-04-04 | President Chester A. Arthur vetoes a bill that would have suspended Chinese labor immigration for twenty years. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1882-05-06 – 1943 | **[Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md)** (Law) |
@@ -692,6 +695,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1885-09-02 | White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -734,6 +738,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1895-08 | U.S.-born Wong Kim Ark is refused reentry at San Francisco, starting the case that would confirm his citizenship. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1896 | Black clubwomen including Mary Church Terrell, Ida B. Wells-Barnett and Harriet Tubman form the National Association of Colored Women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1896 | Plessy v. Ferguson upholds state-mandated segregation under the separate but equal doctrine. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1896 | William McKinley, backed by business and the gold standard, defeats William Jennings Bryan for the presidency. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -744,6 +749,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1897-09-10 | **[Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md)** (Event) |
 | 1897-09-10 | Sheriff James Martin's deputies fire on about 400 marching strikers near Lattimer, killing nineteen and wounding dozens. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1897-09-11 | Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1898 | In United States v. Wong Kim Ark the Supreme Court rules 6–2 that he is a citizen by birth under the Fourteenth Amendment. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1898 | Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
@@ -821,6 +827,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
+| 1910 | The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1910-01-21 – 1940-11-05 | **[Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md)** (Landmark) |
 | 1910-01-21 | The U.S. Immigration Station on Angel Island opens. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1047,6 +1054,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1943 | During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1943 | The Magnuson Act repeals the exclusion laws, sets a Chinese quota of 105 a year and opens naturalization. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-06 | The National Resources Planning Board recommends education and training programs for returning service members. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
@@ -1065,6 +1073,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-10-24 | The federal minimum reaches 40 cents an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1945-11-15 | A Joint Congressional Committee opens the eighth and most thorough investigation of the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1946 | The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -1170,6 +1179,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1965 | The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1965 | The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1365,6 +1375,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-09-12 | The U.S. Commission on Civil Rights unanimously recommends that Congress restore preclearance. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2018-12-20 | Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 2019 | The penalty for going without coverage falls to $0 under the 2017 tax law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2019-06-18 | Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
@@ -1374,6 +1385,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The 2020 census counts 383,997 residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2020-04-01 | The 2020 census counts 46.9 million people who identify as Black alone or in combination with another race. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 2020-04-01 | The 2020 census counts 78,588,572 people in the West region. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 2020-04-01 | The 2020 census counts about 5.2 million people who identify as Chinese (except Taiwanese) alone or in any combination. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 2020-04-01 | The census counts 1,455,271 residents, 7.0 percent more than in 2010. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |

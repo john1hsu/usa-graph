@@ -1106,6 +1106,17 @@
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s5> .
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s6> .
 <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/chinese-americans.md" .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> .
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/okies> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/okies.md" .
@@ -16643,6 +16654,168 @@
   <https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7> <https://schema.org/url> <https://prologue.blogs.archives.gov/2020/09/10/navigating-the-law-the-chinese-exclusion-act-of-1882-and-the-trials-of-a-journey-home> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> {
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's \"East and West Shaking Hands,\" does not show them." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Chinese railroad workers were left out of the 1869 Golden Spike ceremony entirely." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The real erasure was in how the event was remembered, not who was there — the iconic photograph and company records left out the Chinese workers' names and faces, which is why descendants and historians have worked to restore them to the story." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Chinese American population shrink between 1882 and 1900, and what kept families from forming for decades?" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Chinese Exclusion Act of 1882 (extended in 1892 and made permanent in 1902) cut off new laborers, and racial violence peaked in 1885–1887, so the population fell from about 133,000 to about 90,000; the 1875 Page Law had already restricted the immigration of Chinese women, leaving a heavily male community until war-bride admissions after 1946." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Wong Kim Ark case protect Chinese Americans born in the United States?" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Supreme Court ruled 6–2 in 1898 that the Fourteenth Amendment made almost everyone born on U.S. soil a citizen, so a U.S.-born child of Chinese parents could not be barred under the exclusion laws even though his parents could not naturalize." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did World War II change the legal position of Chinese Americans?" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "With China a wartime ally, Congress repealed exclusion in 1943 and opened naturalization; as many as 20,000 Chinese Americans served in the armed forces, about 40 percent of them not citizens, and the 1946 War Brides Act let their wives immigrate outside the small quota." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Chinese American community grow and diversify so much after 1965?" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1965 Immigration and Nationality Act made family reunification the main basis for admission, so immigrants from Mainland China, Hong Kong and Taiwan, plus students, professionals and refugees, could come and sponsor relatives." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2018-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The 2020 census counts about 5.2 million people who identify as Chinese (except Taiwanese) alone or in any combination." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-06-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "At Promontory Summit, Utah Territory, eight Chinese workers move the final rail into place for the transcontinental railroad." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1869-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Chinese Exclusion Act suspends the immigration of Chinese laborers and bars Chinese immigrants from naturalization." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1882"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1885-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "U.S.-born Wong Kim Ark is refused reentry at San Francisco, starting the case that would confirm his citizenship." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1895-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "In United States v. Wong Kim Ark the Supreme Court rules 6–2 that he is a citizen by birth under the Fourteenth Amendment." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1898"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Magnuson Act repeals the exclusion laws, sets a Chinese quota of 105 a year and opens naturalization." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Community> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese Americans" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#altLabel> "Chinese American community" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#altLabel> "Chinese American" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#altLabel> "Chinese-Americans" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/asian-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#definition> "Americans of Chinese descent, from the gold-rush and railroad workers of the 1850s and 1860s through the families who endured six decades of exclusion to the large, diverse post-1965 community; the 2020 census counted about 5.2 million people who identified as Chinese (except Taiwanese) alone or in any combination, the largest Asian group by that measure." .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese Americans" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/golden-spike-chinese-workers-myth> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/magnuson-act> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/page-act-of-1875> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/paper-sons> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#domain> "society-and-people" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/society-and-people/chinese-americans.md" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/china> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/chinese-railroad-workers-strike-of-1867> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Golden Spike National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/title> "Chinese Labor and the Iron Road" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <https://schema.org/url> <https://www.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <http://purl.org/dc/terms/title> "Telling All Americans' Stories: Introduction to Asian American and Pacific Islander Heritage" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2> <https://schema.org/url> <https://www.nps.gov/articles/taas-aapiheritage-intro.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <http://purl.org/dc/terms/publisher> "WyoHistory.org (Wyoming State Historical Society)" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <http://purl.org/dc/terms/title> "The Rock Springs Massacre" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3> <https://schema.org/url> <https://wyohistory.org/essays/rock-springs-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <http://purl.org/dc/terms/publisher> "Supreme Court Historical Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <http://purl.org/dc/terms/title> "United States v. Wong Kim Ark (1898)" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4> <https://schema.org/url> <https://civics.supremecourthistory.org/article/united-states-v-wong-kim-ark/> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <http://purl.org/dc/terms/publisher> "U.S. Statutes at Large, vol. 132, via GovInfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <http://purl.org/dc/terms/title> "Public Law 115-337: To award a Congressional Gold Medal, collectively, to the Chinese-American Veterans of World War II" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/STATUTE-132/html/STATUTE-132-Pg5029.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <http://purl.org/dc/terms/publisher> "National Park Service, Finding a Path Forward (AAPI National Historic Landmarks Theme Study)" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <http://purl.org/dc/terms/title> "Asian Immigrants and Refugees: Demographic Transformations in the United States from World War II to the Present" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> <https://schema.org/url> <https://www.nps.gov/articles/upload/15-Essay-15-Immigrants-and-Refugees.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <http://purl.org/dc/terms/title> "Chinese, Except Taiwanese, Was the Largest Asian Alone or in Any Combination Group; Nepalese Population Grew Fastest" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> <https://schema.org/url> <https://census.gov/library/stories/2023/09/2020-census-dhc-a-asian-population.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <http://purl.org/dc/terms/publisher> "Utah State University Libraries, Digital Exhibits" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <http://purl.org/dc/terms/title> "The Wedding of the Rails" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <https://schema.org/url> <https://exhibits.lib.usu.edu/exhibits/show/transcontinentalrailroad/building/weddingoftherails> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/okies#graph> {
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys." .
@@ -18598,6 +18771,7 @@
   <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18970,6 +19144,8 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/asian-american-literature> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/asian-american-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
+  <https://github.com/john1hsu/usa-graph/id/asian-americans> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/asian-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/atomic-bombings-of-hiroshima-and-nagasaki> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19227,6 +19403,7 @@
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/territorial-expansion-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/california-gold-rush> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
@@ -19360,11 +19537,28 @@
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
-  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
-  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/china> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/asian-americans> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
-  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
-  <https://github.com/john1hsu/usa-graph/id/chinese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/chinese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19421,6 +19615,7 @@
   <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/texas-annexation> .
   <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/chinese-railroad-workers-strike-of-1867> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/choctaw-nation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/choctaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/christiana-resistance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
@@ -20246,6 +20441,7 @@
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/glen-canyon-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/gold-rush-riches-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/golden-spike-chinese-workers-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -20562,6 +20758,7 @@
   <https://github.com/john1hsu/usa-graph/id/idaho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/idaho> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/immigration-act-of-1924> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/immigration-and-nationality-act-of-1965> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
@@ -20569,6 +20766,7 @@
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
@@ -20672,6 +20870,7 @@
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
@@ -20978,6 +21177,7 @@
   <https://github.com/john1hsu/usa-graph/id/ma-rainey> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/magna-carta> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/magnuson-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
+  <https://github.com/john1hsu/usa-graph/id/magnuson-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/magnuson-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/maine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/manhattan-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
@@ -21521,6 +21721,7 @@
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/pacific-ocean> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/page-act-of-1875> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/page-act-of-1875> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/panama-canal-expansion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
@@ -21596,6 +21797,7 @@
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
+  <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
@@ -21740,8 +21942,10 @@
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/racial-segregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
@@ -21833,6 +22037,7 @@
   <https://github.com/john1hsu/usa-graph/id/robert-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/robert-r-livingston> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/rock-and-roll> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/rocky-mountains> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -22500,6 +22705,7 @@
   <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/transcontinental-railroad> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -22749,6 +22955,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-v-darby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-reese> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-windsor> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-wong-kim-ark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -23054,6 +23261,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .

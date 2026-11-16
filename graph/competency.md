@@ -32,7 +32,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, continental-army, haudenosaunee, treaty-of-alliance-1778 |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
-| `us:chinese-exclusion-act` | 4 | chae-chan-ping-v-united-states, chinese-americans, geary-act, paper-sons |
+| `us:chinese-exclusion-act` | 4 | Chinese Americans, chae-chan-ping-v-united-states, geary-act, paper-sons |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
@@ -55,7 +55,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
-| `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
+| `us:angel-island-immigration-station` | 2 | Chinese Americans, japanese-americans |
 
 …and 59 more.
 

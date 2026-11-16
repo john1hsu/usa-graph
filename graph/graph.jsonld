@@ -2831,6 +2831,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's \"East and West Shaking Hands,\" does not show them.",
+   "uso:myth": "Chinese railroad workers were left out of the 1869 Golden Spike ceremony entirely.",
+   "uso:why": "The real erasure was in how the event was remembered, not who was there — the iconic photograph and company records left out the Chinese workers' names and faces, which is why descendants and historians have worked to restore them to the story."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Chinese American population shrink between 1882 and 1900, and what kept families from forming for decades?",
+   "uso:answer": "The Chinese Exclusion Act of 1882 (extended in 1892 and made permanent in 1902) cut off new laborers, and racial violence peaked in 1885–1887, so the population fell from about 133,000 to about 90,000; the 1875 Page Law had already restricted the immigration of Chinese women, leaving a heavily male community until war-bride admissions after 1946.",
+   "uso:questionFor": {
+    "@id": "us:chinese-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Wong Kim Ark case protect Chinese Americans born in the United States?",
+   "uso:answer": "The Supreme Court ruled 6–2 in 1898 that the Fourteenth Amendment made almost everyone born on U.S. soil a citizen, so a U.S.-born child of Chinese parents could not be barred under the exclusion laws even though his parents could not naturalize.",
+   "uso:questionFor": {
+    "@id": "us:chinese-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did World War II change the legal position of Chinese Americans?",
+   "uso:answer": "With China a wartime ally, Congress repealed exclusion in 1943 and opened naturalization; as many as 20,000 Chinese Americans served in the armed forces, about 40 percent of them not citizens, and the 1946 War Brides Act let their wives immigrate outside the small quota.",
+   "uso:questionFor": {
+    "@id": "us:chinese-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Chinese American community grow and diversify so much after 1965?",
+   "uso:answer": "The 1965 Immigration and Nationality Act made family reunification the main basis for admission, so immigrants from Mainland China, Hong Kong and Taiwan, plus students, professionals and refugees, could come and sponsor relatives.",
+   "uso:questionFor": {
+    "@id": "us:chinese-americans"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-06-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2018-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 2020 census counts about 5.2 million people who identify as Chinese (except Taiwanese) alone or in any combination.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Promontory Summit, Utah Territory, eight Chinese workers move the final rail into place for the transcontinental railroad.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1869-05-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Chinese Exclusion Act suspends the immigration of Chinese laborers and bars Chinese immigrants from naturalization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1882"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1885-09-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S.-born Wong Kim Ark is refused reentry at San Francisco, starting the case that would confirm his citizenship.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1895-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In United States v. Wong Kim Ark the Supreme Court rules 6–2 that he is a citizen by birth under the Fourteenth Amendment.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1898"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Magnuson Act repeals the exclusion laws, sets a Chinese quota of 105 a year and opens naturalization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1943"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1946"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Officials knew of the poems and had them repeatedly puttied and painted over, and two detainees copied nearly 200 of them in 1931–32; the 1970 find was a rediscovery. The walls also hold inscriptions in Japanese, Korean, Russian and other languages.",
@@ -14538,6 +14689,118 @@
    "dcterms:title": "The Marshall Trilogy",
    "schema:url": {
     "@id": "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, Golden Spike National Historical Park",
+   "dcterms:title": "Chinese Labor and the Iron Road",
+   "schema:url": {
+    "@id": "https://www.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Telling All Americans' Stories: Introduction to Asian American and Pacific Islander Heritage",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/taas-aapiheritage-intro.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "WyoHistory.org (Wyoming State Historical Society)",
+   "dcterms:title": "The Rock Springs Massacre",
+   "schema:url": {
+    "@id": "https://wyohistory.org/essays/rock-springs-massacre"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society",
+   "dcterms:title": "United States v. Wong Kim Ark (1898)",
+   "schema:url": {
+    "@id": "https://civics.supremecourthistory.org/article/united-states-v-wong-kim-ark/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Statutes at Large, vol. 132, via GovInfo",
+   "dcterms:title": "Public Law 115-337: To award a Congressional Gold Medal, collectively, to the Chinese-American Veterans of World War II",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/STATUTE-132/html/STATUTE-132-Pg5029.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, Finding a Path Forward (AAPI National Historic Landmarks Theme Study)",
+   "dcterms:title": "Asian Immigrants and Refugees: Demographic Transformations in the United States from World War II to the Present",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/upload/15-Essay-15-Immigrants-and-Refugees.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "Chinese, Except Taiwanese, Was the Largest Asian Alone or in Any Combination Group; Nepalese Population Grew Fastest",
+   "schema:url": {
+    "@id": "https://census.gov/library/stories/2023/09/2020-census-dhc-a-asian-population.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Utah State University Libraries, Digital Exhibits",
+   "dcterms:title": "The Wedding of the Rails",
+   "schema:url": {
+    "@id": "https://exhibits.lib.usu.edu/exhibits/show/transcontinentalrailroad/building/weddingoftherails"
    },
    "uso:sourceType": "academic"
   },
@@ -31933,6 +32196,165 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:chinese-americans",
+   "@type": "uso:Community",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8"
+    }
+   ],
+   "rdfs:label": "Chinese Americans",
+   "skos:altLabel": [
+    "Chinese American community",
+    "Chinese American",
+    "Chinese-Americans"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:asian-americans"
+    },
+    {
+     "@id": "us:racial-and-ethnic-groups-in-the-united-states"
+    }
+   ],
+   "skos:definition": "Americans of Chinese descent, from the gold-rush and railroad workers of the 1850s and 1860s through the families who endured six decades of exclusion to the large, diverse post-1965 community; the 2020 census counted about 5.2 million people who identified as Chinese (except Taiwanese) alone or in any combination, the largest Asian group by that measure.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Chinese Americans",
+   "skos:related": [
+    {
+     "@id": "us:2020-united-states-census"
+    },
+    {
+     "@id": "us:angel-island-immigration-station"
+    },
+    {
+     "@id": "us:california-gold-rush"
+    },
+    {
+     "@id": "us:chinese-detention-barracks-poetry"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:golden-spike-chinese-workers-myth"
+    },
+    {
+     "@id": "us:immigration-and-nationality-act-of-1965"
+    },
+    {
+     "@id": "us:japanese-americans"
+    },
+    {
+     "@id": "us:magnuson-act"
+    },
+    {
+     "@id": "us:page-act-of-1875"
+    },
+    {
+     "@id": "us:paper-sons"
+    },
+    {
+     "@id": "us:rock-springs-massacre"
+    },
+    {
+     "@id": "us:transcontinental-railroad"
+    },
+    {
+     "@id": "us:united-states-v-wong-kim-ark"
+    }
+   ],
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/chinese-americans.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:china"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:california-gold-rush"
+    },
+    {
+     "@id": "us:chinese-railroad-workers-strike-of-1867"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:immigration-to-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/timeline/9"
     }
    ]
   },

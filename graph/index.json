@@ -3490,6 +3490,201 @@
   ]
  },
  {
+  "id": "us:chinese-americans",
+  "title": "Chinese Americans",
+  "aliases": [
+   "Chinese American",
+   "Chinese-Americans",
+   "Chinese American community"
+  ],
+  "type": "Community",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/chinese-americans.md",
+  "created": "2026-11-16",
+  "summary": "Americans of Chinese descent, from the gold-rush and railroad workers of the 1850s and 1860s through the families who endured six decades of exclusion to the large, diverse post-1965 community; the 2020 census counted about 5.2 million people who identified as Chinese (except Taiwanese) alone or in any combination, the largest Asian group by that measure.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:asian-americans"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:racial-and-ethnic-groups-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:angel-island-immigration-station"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-detention-barracks-poetry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:paper-sons"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-gold-rush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:transcontinental-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rock-springs-massacre"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-wong-kim-ark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:page-act-of-1875"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:magnuson-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:immigration-and-nationality-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:2020-united-states-census"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:golden-spike-chinese-workers-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:china",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:chinese-railroad-workers-strike-of-1867",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:world-war-ii-and-the-united-states",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:california-gold-rush",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Chinese American population shrink between 1882 and 1900, and what kept families from forming for decades?",
+    "answer": "The Chinese Exclusion Act of 1882 (extended in 1892 and made permanent in 1902) cut off new laborers, and racial violence peaked in 1885–1887, so the population fell from about 133,000 to about 90,000; the 1875 Page Law had already restricted the immigration of Chinese women, leaving a heavily male community until war-bride admissions after 1946."
+   },
+   {
+    "question": "How did the Wong Kim Ark case protect Chinese Americans born in the United States?",
+    "answer": "The Supreme Court ruled 6–2 in 1898 that the Fourteenth Amendment made almost everyone born on U.S. soil a citizen, so a U.S.-born child of Chinese parents could not be barred under the exclusion laws even though his parents could not naturalize."
+   },
+   {
+    "question": "How did World War II change the legal position of Chinese Americans?",
+    "answer": "With China a wartime ally, Congress repealed exclusion in 1943 and opened naturalization; as many as 20,000 Chinese Americans served in the armed forces, about 40 percent of them not citizens, and the 1946 War Brides Act let their wives immigrate outside the small quota."
+   },
+   {
+    "question": "Why did the Chinese American community grow and diversify so much after 1965?",
+    "answer": "The 1965 Immigration and Nationality Act made family reunification the main basis for admission, so immigrants from Mainland China, Hong Kong and Taiwan, plus students, professionals and refugees, could come and sponsor relatives."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1867-06-24",
+    "event": "Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours."
+   },
+   {
+    "date": "1869-05-10",
+    "event": "At Promontory Summit, Utah Territory, eight Chinese workers move the final rail into place for the transcontinental railroad."
+   },
+   {
+    "date": "1882",
+    "event": "The Chinese Exclusion Act suspends the immigration of Chinese laborers and bars Chinese immigrants from naturalization."
+   },
+   {
+    "date": "1885-09-02",
+    "event": "White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory."
+   },
+   {
+    "date": "1895-08",
+    "event": "U.S.-born Wong Kim Ark is refused reentry at San Francisco, starting the case that would confirm his citizenship."
+   },
+   {
+    "date": "1898",
+    "event": "In United States v. Wong Kim Ark the Supreme Court rules 6–2 that he is a citizen by birth under the Fourteenth Amendment."
+   },
+   {
+    "date": "1910",
+    "event": "The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940."
+   },
+   {
+    "date": "1943",
+    "event": "The Magnuson Act repeals the exclusion laws, sets a Chinese quota of 105 a year and opens naturalization."
+   },
+   {
+    "date": "1946",
+    "event": "The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota."
+   },
+   {
+    "date": "1965",
+    "event": "The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan."
+   },
+   {
+    "date": "2018-12-20",
+    "event": "Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The 2020 census counts about 5.2 million people who identify as Chinese (except Taiwanese) alone or in any combination."
+   }
+  ],
+  "misconception": {
+   "myth": "Chinese railroad workers were left out of the 1869 Golden Spike ceremony entirely.",
+   "fact": "A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's \"East and West Shaking Hands,\" does not show them.",
+   "why": "The real erasure was in how the event was remembered, not who was there — the iconic photograph and company records left out the Chinese workers' names and faces, which is why descendants and historians have worked to restore them to the story."
+  },
+  "source_urls": [
+   "https://www.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm",
+   "https://www.nps.gov/articles/taas-aapiheritage-intro.htm",
+   "https://wyohistory.org/essays/rock-springs-massacre",
+   "https://civics.supremecourthistory.org/article/united-states-v-wong-kim-ark/",
+   "https://www.govinfo.gov/content/pkg/STATUTE-132/html/STATUTE-132-Pg5029.htm",
+   "https://www.nps.gov/articles/upload/15-Essay-15-Immigrants-and-Refugees.pdf",
+   "https://census.gov/library/stories/2023/09/2020-census-dhc-a-asian-population.html",
+   "https://exhibits.lib.usu.edu/exhibits/show/transcontinentalrailroad/building/weddingoftherails"
+  ]
+ },
+ {
   "id": "us:chinese-detention-barracks-poetry",
   "title": "Chinese detention-barracks poetry",
   "aliases": [

@@ -12,7 +12,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.96 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:mexican-american-war`, `us:missouri-compromise` |
 | 2.70 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.64 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
-| 2.61 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
+| 2.60 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.54 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.47 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |

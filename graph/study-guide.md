@@ -1504,6 +1504,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the common "one million immigrants" figure misleading?
   **A:** The Angel Island Immigration Station Foundation notes that it comes from annual reports counting both arrivals and departures at the port of San Francisco; arrivals were about 550,000, and about 300,000 people were detained on the island.
 
+### [Chinese Americans](../articles/society-and-people/chinese-americans.md) — Community
+
+| Myth | Fact |
+|---|---|
+| Chinese railroad workers were left out of the 1869 Golden Spike ceremony entirely. | A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's "East and West Shaking Hands," does not show them. |
+
+**Why it matters:** The real erasure was in how the event was remembered, not who was there — the iconic photograph and company records left out the Chinese workers' names and faces, which is why descendants and historians have worked to restore them to the story.
+
+- **Q:** Why did the Chinese American population shrink between 1882 and 1900, and what kept families from forming for decades?
+  **A:** The Chinese Exclusion Act of 1882 (extended in 1892 and made permanent in 1902) cut off new laborers, and racial violence peaked in 1885–1887, so the population fell from about 133,000 to about 90,000; the 1875 Page Law had already restricted the immigration of Chinese women, leaving a heavily male community until war-bride admissions after 1946.
+- **Q:** How did the Wong Kim Ark case protect Chinese Americans born in the United States?
+  **A:** The Supreme Court ruled 6–2 in 1898 that the Fourteenth Amendment made almost everyone born on U.S. soil a citizen, so a U.S.-born child of Chinese parents could not be barred under the exclusion laws even though his parents could not naturalize.
+- **Q:** How did World War II change the legal position of Chinese Americans?
+  **A:** With China a wartime ally, Congress repealed exclusion in 1943 and opened naturalization; as many as 20,000 Chinese Americans served in the armed forces, about 40 percent of them not citizens, and the 1946 War Brides Act let their wives immigrate outside the small quota.
+- **Q:** Why did the Chinese American community grow and diversify so much after 1965?
+  **A:** The 1965 Immigration and Nationality Act made family reunification the main basis for admission, so immigrants from Mainland China, Hong Kong and Taiwan, plus students, professionals and refugees, could come and sponsor relatives.
+
 ### [Okies](../articles/society-and-people/okies.md) — Community
 
 | Myth | Fact |
