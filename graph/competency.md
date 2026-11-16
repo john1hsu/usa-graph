@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 
-…and 42 more.
+…and 43 more.
 
 ## Happenings by era
 
@@ -172,6 +172,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
+| `us:fair-labor-standards-act` | `us:minimum-wage` |
 | `us:fifth-amendment` | `us:due-process` |
 | `us:fourteenth-amendment` | `us:census-and-apportionment` |
 | `us:fourteenth-amendment` | `us:due-process` |

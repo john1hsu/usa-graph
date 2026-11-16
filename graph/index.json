@@ -8402,6 +8402,178 @@
   ]
  },
  {
+  "id": "us:minimum-wage",
+  "title": "Minimum wage",
+  "aliases": [
+   "Federal minimum wage",
+   "Minimum wage in the United States",
+   "Minimum wage laws"
+  ],
+  "type": "Policy",
+  "domain": "economy-and-work",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/economy-and-work/minimum-wage.md",
+  "created": "2026-11-16",
+  "summary": "The legal floor on hourly pay in the United States, first adopted by the states for women workers beginning with Massachusetts in 1912 and set nationally by the Fair Labor Standards Act of 1938, which fixed a federal minimum of 25 cents an hour; the federal rate has been $7.25 since July 24, 2009, while most states set higher rates of their own.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:labor-law-in-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:labor-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frances-perkins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:adkins-v-childrens-hospital"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-darby"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-department-of-labor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:due-process"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:fair-labor-standards-act",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:west-coast-hotel-co-v-parrish",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:labor-movement",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1912",
+  "end": null,
+  "review": [
+   {
+    "question": "Why were the first American minimum wage laws limited to women and minors?",
+    "answer": "Organizing women into unions was seen as difficult, so legislated standards were thought justified for them, while the AFL under Samuel Gompers opposed legal wage floors for men and wanted men's pay won through collective bargaining."
+   },
+   {
+    "question": "How did the Supreme Court's 1937 decision in West Coast Hotel Co. v. Parrish clear the way for a federal minimum wage?",
+    "answer": "It upheld Washington's minimum wage law and overruled Adkins v. Children's Hospital, rejecting the idea that a constitutional freedom of contract barred wage laws; that turnaround improved the prospects of the federal bill Roosevelt sent to Congress two months later."
+   },
+   {
+    "question": "Why does the federal minimum wage not settle what most American workers must be paid?",
+    "answer": "Employers must pay the highest applicable federal, state or local rate, and as of July 2026 thirty states and the District of Columbia set minimums above $7.25, so the federal rate binds mainly in states with no law or one at or below it."
+   },
+   {
+    "question": "How did the 1938 law's exemptions shape who benefited from it?",
+    "answer": "It left out farmworkers, domestic workers, government employees, intrastate retail and much transportation; farmworkers were covered only after the 1966 amendments and domestic workers in 1974, and historian Phyllis Palmer links the exclusions to racial and gender inequalities."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1912",
+    "event": "Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913."
+   },
+   {
+    "date": "1918",
+    "event": "Congress passes a minimum wage law for women and minors in the District of Columbia."
+   },
+   {
+    "date": "1923",
+    "event": "In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women."
+   },
+   {
+    "date": "1937-03-29",
+    "event": "In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins."
+   },
+   {
+    "date": "1937-05-24",
+    "event": "Franklin D. Roosevelt sends a wages-and-hours bill to Congress."
+   },
+   {
+    "date": "1938-06-25",
+    "event": "Roosevelt signs the Fair Labor Standards Act."
+   },
+   {
+    "date": "1938-10-24",
+    "event": "The first federal minimum wage, 25 cents an hour, takes effect."
+   },
+   {
+    "date": "1941-02-03",
+    "event": "In United States v. Darby the Court upholds Congress's power to set wage and hour standards."
+   },
+   {
+    "date": "1945-10-24",
+    "event": "The federal minimum reaches 40 cents an hour."
+   },
+   {
+    "date": "1961-09-03",
+    "event": "Amendments extending coverage to large retail and service enterprises take effect."
+   },
+   {
+    "date": "1967-02-01",
+    "event": "Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour."
+   },
+   {
+    "date": "1974",
+    "event": "Domestic workers are brought under the law."
+   },
+   {
+    "date": "2009-07-24",
+    "event": "The federal minimum rises to $7.25 an hour, its rate since."
+   }
+  ],
+  "misconception": {
+   "myth": "The minimum wage began with Franklin Roosevelt's New Deal and the Fair Labor Standards Act of 1938.",
+   "fact": "The states came first. Massachusetts passed the first minimum wage law in 1912, and by the end of 1938 twenty-five states, the District of Columbia and Puerto Rico had minimum wage legislation. The 1938 federal law built on that state experiment, and at first it covered industries employing only about a fifth of the labor force.",
+   "why": "The federal act was the first national floor and its 25-cent rate is a famous milestone, so the decades of earlier state laws, most of them limited to women and minors, drop out of the popular story."
+  },
+  "source_urls": [
+   "https://www.dol.gov/general/aboutdol/history/flsa1938",
+   "https://www.dol.gov/agencies/whd/minimum-wage/history/chart",
+   "https://fraser.stlouisfed.org/files/docs/publications/women/b0167_dolwb_1939.pdf",
+   "https://www.bls.gov/opub/mlr/2000/12/art3full.pdf",
+   "https://supreme.justia.com/cases/federal/us/300/379/",
+   "https://tile.loc.gov/storage-services/service/ll/usrep/usrep312/usrep312100/usrep312100.pdf",
+   "https://www.dol.gov/agencies/whd/mw-consolidated",
+   "https://dol.gov/agencies/whd/state/minimum-wage/tipped",
+   "https://www.bls.gov/opub/reports/minimum-wage/2024",
+   "https://cbo.gov/publication/55410",
+   "https://cambridge.org/core/journals/journal-of-policy-history/article/outside-the-law-agricultural-and-domestic-workers-under-the-fair-labor-standards-act/564F84EE9A0A19D84D2A864566E8136A"
+  ]
+ },
+ {
   "id": "us:mississippi-river",
   "title": "Mississippi River",
   "aliases": [

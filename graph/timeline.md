@@ -696,7 +696,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1911-05-07 | Army lieutenants Henry H. Arnold and Thomas DeW. Milling and Lt. John Rodgers arrive in Dayton for lessons. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1911-07 | Erection of the upper lock gates at Gatun gets under way. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1911-08-08 | Congress fixes the House at 433 seats, plus one each for Arizona and New Mexico on statehood. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -729,6 +731,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New York adopts woman suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1918 | Congress passes a minimum wage law for women and minors in the District of Columbia. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1918 | The new National Park Service takes over management and the Army leaves. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1918-09-30 | President Wilson addresses the Senate to urge passage of the amendment, which fails the next day. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1919-01-06 | Dies at Oyster Bay, New York. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -745,6 +748,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1922-11-24 | Seven basin states sign the Colorado River Compact at Santa Fe. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1923 | Bessie Smith makes her first recordings, beginning a 14-year recording career of more than 150 songs. — [Blues](../articles/culture-and-arts/blues.md) |
+| 1923 | In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -809,14 +813,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1937-03-29 | In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1937-03-29 | The Court upholds a Washington State minimum-wage law for women in West Coast Hotel v. Parrish. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1937-05-24 | Franklin D. Roosevelt sends a wages-and-hours bill to Congress. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1937-07-07 | Fighting at the Marco Polo Bridge near Beijing opens full-scale war between Japan and China, turning U.S. opinion toward China. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1937-07-22 | Roosevelt's plan to enlarge the Court is defeated in the Senate. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-06-25 | Roosevelt signs the Fair Labor Standards Act. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-10-24 | The first federal minimum wage, 25 cents an hour, takes effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1939 | Franklin D. Roosevelt moves Thanksgiving to the second-to-last Thursday of November; states split over which date to observe. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -834,6 +842,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1941-02-03 | In United States v. Darby the Court upholds Congress's power to set wage and hour standards. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1941-02-19 | Dry excavation begins in the Gatun sector. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1941-07 | After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
@@ -862,6 +871,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1945-10-24 | The federal minimum reaches 40 cents an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1945-11-15 | A Joint Congressional Committee opens the eighth and most thorough investigation of the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
@@ -935,6 +945,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1962 | In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
@@ -970,6 +981,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1967-02-01 | Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1967-06-12 | Loving v. Virginia unanimously strikes down a state ban on interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1967-10-02 | Thurgood Marshall is sworn in as the first African American justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -985,6 +997,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1974 | Domestic workers are brought under the law. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -1058,6 +1071,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 2009-09-09 | President Obama addresses a joint session of Congress to press for health care reform. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2009-12-01 | In a speech at West Point, President Obama approves a surge of 33,000 more U.S. troops, with withdrawals to begin in July 2011. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2009-12-24 | The Senate passes H.R. 3590, as amended, by 60 to 39. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |

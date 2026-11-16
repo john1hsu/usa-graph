@@ -6827,6 +6827,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The states came first. Massachusetts passed the first minimum wage law in 1912, and by the end of 1938 twenty-five states, the District of Columbia and Puerto Rico had minimum wage legislation. The 1938 federal law built on that state experiment, and at first it covered industries employing only about a fifth of the labor force.",
+   "uso:myth": "The minimum wage began with Franklin Roosevelt's New Deal and the Fair Labor Standards Act of 1938.",
+   "uso:why": "The federal act was the first national floor and its 25-cent rate is a famous milestone, so the decades of earlier state laws, most of them limited to women and minors, drop out of the popular story."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why were the first American minimum wage laws limited to women and minors?",
+   "uso:answer": "Organizing women into unions was seen as difficult, so legislated standards were thought justified for them, while the AFL under Samuel Gompers opposed legal wage floors for men and wanted men's pay won through collective bargaining.",
+   "uso:questionFor": {
+    "@id": "us:minimum-wage"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Supreme Court's 1937 decision in West Coast Hotel Co. v. Parrish clear the way for a federal minimum wage?",
+   "uso:answer": "It upheld Washington's minimum wage law and overruled Adkins v. Children's Hospital, rejecting the idea that a constitutional freedom of contract barred wage laws; that turnaround improved the prospects of the federal bill Roosevelt sent to Congress two months later.",
+   "uso:questionFor": {
+    "@id": "us:minimum-wage"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the federal minimum wage not settle what most American workers must be paid?",
+   "uso:answer": "Employers must pay the highest applicable federal, state or local rate, and as of July 2026 thirty states and the District of Columbia set minimums above $7.25, so the federal rate binds mainly in states with no law or one at or below it.",
+   "uso:questionFor": {
+    "@id": "us:minimum-wage"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1938 law's exemptions shape who benefited from it?",
+   "uso:answer": "It left out farmworkers, domestic workers, government employees, intrastate retail and much transportation; farmworkers were covered only after the 1966 amendments and domestic workers in 1974, and historian Phyllis Palmer links the exclusions to racial and gender inequalities.",
+   "uso:questionFor": {
+    "@id": "us:minimum-wage"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amendments extending coverage to large retail and service enterprises take effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-09-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1967-02-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Domestic workers are brought under the law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1974"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal minimum rises to $7.25 an hour, its rate since.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2009-07-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes a minimum wage law for women and minors in the District of Columbia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1918"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1923"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1937-03-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt sends a wages-and-hours bill to Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1937-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs the Fair Labor Standards Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first federal minimum wage, 25 cents an hour, takes effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-10-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In United States v. Darby the Court upholds Congress's power to set wage and hour standards.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-02-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal minimum reaches 40 cents an hour.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-10-24"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer.",
@@ -15464,6 +15624,160 @@
     "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor (Jonathan Grossman, originally in Monthly Labor Review, June 1978)",
+   "dcterms:title": "Fair Labor Standards Act of 1938: Maximum Struggle for a Minimum Wage",
+   "schema:url": {
+    "@id": "https://www.dol.gov/general/aboutdol/history/flsa1938"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Congressional Budget Office (July 8, 2019)",
+   "dcterms:title": "The Effects on Employment and Family Income of Increasing the Federal Minimum Wage",
+   "schema:url": {
+    "@id": "https://cbo.gov/publication/55410"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Phyllis Palmer, Journal of Policy History 7, no. 4 (1995): 416–440",
+   "dcterms:title": "Outside the Law: Agricultural and Domestic Workers Under the Fair Labor Standards Act",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/journals/journal-of-policy-history/article/outside-the-law-agricultural-and-domestic-workers-under-the-fair-labor-standards-act/564F84EE9A0A19D84D2A864566E8136A"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor, Wage and Hour Division",
+   "dcterms:title": "History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938 - 2009",
+   "schema:url": {
+    "@id": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor, Women's Bureau, via FRASER (Federal Reserve Bank of St. Louis)",
+   "dcterms:title": "State Minimum-Wage Laws and Orders: An Analysis (Bulletin of the Women's Bureau No. 167, 1939)",
+   "schema:url": {
+    "@id": "https://fraser.stlouisfed.org/files/docs/publications/women/b0167_dolwb_1939.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics, Monthly Labor Review (Howard D. Samuel, December 2000)",
+   "dcterms:title": "Troubled passage: the labor movement and the Fair Labor Standards Act",
+   "schema:url": {
+    "@id": "https://www.bls.gov/opub/mlr/2000/12/art3full.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Supreme Court of the United States (opinion text via Justia)",
+   "dcterms:title": "West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937)",
+   "schema:url": {
+    "@id": "https://supreme.justia.com/cases/federal/us/300/379/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress, U.S. Reports",
+   "dcterms:title": "United States v. Darby, 312 U.S. 100 (1941)",
+   "schema:url": {
+    "@id": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep312/usrep312100/usrep312100.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor, Wage and Hour Division",
+   "dcterms:title": "Consolidated Minimum Wage Table",
+   "schema:url": {
+    "@id": "https://www.dol.gov/agencies/whd/mw-consolidated"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Labor, Wage and Hour Division",
+   "dcterms:title": "Minimum Wages for Tipped Employees",
+   "schema:url": {
+    "@id": "https://dol.gov/agencies/whd/state/minimum-wage/tipped"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+   "dcterms:title": "Characteristics of minimum wage workers, 2024",
+   "schema:url": {
+    "@id": "https://www.bls.gov/opub/reports/minimum-wage/2024"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1",
@@ -30569,6 +30883,160 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:minimum-wage",
+   "@type": "uso:Policy",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9"
+    }
+   ],
+   "rdfs:label": "Minimum wage",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   },
+   "skos:altLabel": [
+    "Federal minimum wage",
+    "Minimum wage in the United States",
+    "Minimum wage laws"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:labor-history-of-the-united-states"
+    },
+    {
+     "@id": "us:labor-law-in-the-united-states"
+    }
+   ],
+   "skos:definition": "The legal floor on hourly pay in the United States, first adopted by the states for women workers beginning with Massachusetts in 1912 and set nationally by the Fair Labor Standards Act of 1938, which fixed a federal minimum of 25 cents an hour; the federal rate has been $7.25 since July 24, 2009, while most states set higher rates of their own.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Minimum wage",
+   "skos:related": [
+    {
+     "@id": "us:adkins-v-childrens-hospital"
+    },
+    {
+     "@id": "us:frances-perkins"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-department-of-labor"
+    },
+    {
+     "@id": "us:united-states-v-darby"
+    }
+   ],
+   "uso:domain": "economy-and-work",
+   "uso:establishedBy": {
+    "@id": "us:fair-labor-standards-act"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/economy-and-work/minimum-wage.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:west-coast-hotel-co-v-parrish"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:due-process"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9"
     }
    ]
   },

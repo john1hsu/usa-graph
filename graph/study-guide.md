@@ -632,6 +632,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the Lattimer massacre fade from national memory, and how was it revived?
   **A:** Scholars point to the victims' ethnicity, nativist attitudes, the site's rural remoteness and coal operators' interest in forgetting. Interest revived in the civil rights era, leading to a 1972 memorial dedicated with Cesar Chavez, centennial markers in 1997 and an archaeological survey in 2010.
 
+### [Minimum wage](../articles/economy-and-work/minimum-wage.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| The minimum wage began with Franklin Roosevelt's New Deal and the Fair Labor Standards Act of 1938. | The states came first. Massachusetts passed the first minimum wage law in 1912, and by the end of 1938 twenty-five states, the District of Columbia and Puerto Rico had minimum wage legislation. The 1938 federal law built on that state experiment, and at first it covered industries employing only about a fifth of the labor force. |
+
+**Why it matters:** The federal act was the first national floor and its 25-cent rate is a famous milestone, so the decades of earlier state laws, most of them limited to women and minors, drop out of the popular story.
+
+- **Q:** Why were the first American minimum wage laws limited to women and minors?
+  **A:** Organizing women into unions was seen as difficult, so legislated standards were thought justified for them, while the AFL under Samuel Gompers opposed legal wage floors for men and wanted men's pay won through collective bargaining.
+- **Q:** How did the Supreme Court's 1937 decision in West Coast Hotel Co. v. Parrish clear the way for a federal minimum wage?
+  **A:** It upheld Washington's minimum wage law and overruled Adkins v. Children's Hospital, rejecting the idea that a constitutional freedom of contract barred wage laws; that turnaround improved the prospects of the federal bill Roosevelt sent to Congress two months later.
+- **Q:** Why does the federal minimum wage not settle what most American workers must be paid?
+  **A:** Employers must pay the highest applicable federal, state or local rate, and as of July 2026 thirty states and the District of Columbia set minimums above $7.25, so the federal rate binds mainly in states with no law or one at or below it.
+- **Q:** How did the 1938 law's exemptions shape who benefited from it?
+  **A:** It left out farmworkers, domestic workers, government employees, intrastate retail and much transportation; farmworkers were covered only after the 1966 amendments and domestic workers in 1974, and historian Phyllis Palmer links the exclusions to racial and gender inequalities.
+
 ### [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) — Event
 
 | Myth | Fact |

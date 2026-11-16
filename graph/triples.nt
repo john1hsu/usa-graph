@@ -4991,6 +4991,118 @@
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/endDate> "1803-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/startDate> "1803-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The states came first. Massachusetts passed the first minimum wage law in 1912, and by the end of 1938 twenty-five states, the District of Columbia and Puerto Rico had minimum wage legislation. The 1938 federal law built on that state experiment, and at first it covered industries employing only about a fifth of the labor force." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The minimum wage began with Franklin Roosevelt's New Deal and the Fair Labor Standards Act of 1938." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The federal act was the first national floor and its 25-cent rate is a famous milestone, so the decades of earlier state laws, most of them limited to women and minors, drop out of the popular story." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why were the first American minimum wage laws limited to women and minors?" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Organizing women into unions was seen as difficult, so legislated standards were thought justified for them, while the AFL under Samuel Gompers opposed legal wage floors for men and wanted men's pay won through collective bargaining." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Supreme Court's 1937 decision in West Coast Hotel Co. v. Parrish clear the way for a federal minimum wage?" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It upheld Washington's minimum wage law and overruled Adkins v. Children's Hospital, rejecting the idea that a constitutional freedom of contract barred wage laws; that turnaround improved the prospects of the federal bill Roosevelt sent to Congress two months later." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why does the federal minimum wage not settle what most American workers must be paid?" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Employers must pay the highest applicable federal, state or local rate, and as of July 2026 thirty states and the District of Columbia set minimums above $7.25, so the federal rate binds mainly in states with no law or one at or below it." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the 1938 law's exemptions shape who benefited from it?" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It left out farmworkers, domestic workers, government employees, intrastate retail and much transportation; farmworkers were covered only after the 1966 amendments and domestic workers in 1974, and historian Phyllis Palmer links the exclusions to racial and gender inequalities." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Amendments extending coverage to large retail and service enterprises take effect." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1967-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Domestic workers are brought under the law." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1974"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "The federal minimum rises to $7.25 an hour, its rate since." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2009-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes a minimum wage law for women and minors in the District of Columbia." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1918"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Adkins v. Children's Hospital the Supreme Court voids the District of Columbia law; sixteen states then have minimum wage laws for women." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin D. Roosevelt sends a wages-and-hours bill to Congress." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs the Fair Labor Standards Act." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1938-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The first federal minimum wage, 25 cents an hour, takes effect." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1938-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In United States v. Darby the Court upholds Congress's power to set wage and hour standards." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The federal minimum reaches 40 cents an hour." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Policy> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2000/01/rdf-schema#label> "Minimum wage" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#altLabel> "Federal minimum wage" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#altLabel> "Minimum wage in the United States" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#altLabel> "Minimum wage laws" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#definition> "The legal floor on hourly pay in the United States, first adopted by the states for women workers beginning with Massachusetts in 1912 and set nationally by the Fair Labor Standards Act of 1938, which fixed a federal minimum of 25 cents an hour; the federal rate has been $7.25 since July 24, 2009, while most states set higher rates of their own." .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minimum wage" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/adkins-v-childrens-hospital> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frances-perkins> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-department-of-labor> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-v-darby> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#domain> "economy-and-work" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/economy-and-work/minimum-wage.md" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/due-process> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/minimum-wage/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://schema.org/startDate> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The U.S. Geological Survey lists the Missouri River, the Mississippi's largest tributary, at 2,540 miles against the Mississippi's 2,340, and the National Park Service also describes the Missouri as about 100 miles longer." .
 <https://github.com/john1hsu/usa-graph/id/mississippi-river/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Mississippi is the longest river in the United States." .
@@ -9522,6 +9634,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://schema.org/url> <https://daily.jstor.org/the-actual-louisiana-purchase-price> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/publisher> "Congressional Budget Office (July 8, 2019)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://purl.org/dc/terms/title> "The Effects on Employment and Family Income of Increasing the Federal Minimum Wage" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s10> <https://schema.org/url> <https://cbo.gov/publication/55410> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <http://purl.org/dc/terms/publisher> "Phyllis Palmer, Journal of Policy History 7, no. 4 (1995): 416–440" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <http://purl.org/dc/terms/title> "Outside the Law: Agricultural and Domestic Workers Under the Fair Labor Standards Act" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s11> <https://schema.org/url> <https://cambridge.org/core/journals/journal-of-policy-history/article/outside-the-law-agricultural-and-domestic-workers-under-the-fair-labor-standards-act/564F84EE9A0A19D84D2A864566E8136A> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor (Jonathan Grossman, originally in Monthly Labor Review, June 1978)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <http://purl.org/dc/terms/title> "Fair Labor Standards Act of 1938: Maximum Struggle for a Minimum Wage" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s1> <https://schema.org/url> <https://www.dol.gov/general/aboutdol/history/flsa1938> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor, Wage and Hour Division" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <http://purl.org/dc/terms/title> "History of Federal Minimum Wage Rates Under the Fair Labor Standards Act, 1938 - 2009" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s2> <https://schema.org/url> <https://www.dol.gov/agencies/whd/minimum-wage/history/chart> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor, Women's Bureau, via FRASER (Federal Reserve Bank of St. Louis)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <http://purl.org/dc/terms/title> "State Minimum-Wage Laws and Orders: An Analysis (Bulletin of the Women's Bureau No. 167, 1939)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s3> <https://schema.org/url> <https://fraser.stlouisfed.org/files/docs/publications/women/b0167_dolwb_1939.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics, Monthly Labor Review (Howard D. Samuel, December 2000)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <http://purl.org/dc/terms/title> "Troubled passage: the labor movement and the Fair Labor Standards Act" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s4> <https://schema.org/url> <https://www.bls.gov/opub/mlr/2000/12/art3full.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States (opinion text via Justia)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <http://purl.org/dc/terms/title> "West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s5> <https://schema.org/url> <https://supreme.justia.com/cases/federal/us/300/379/> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <http://purl.org/dc/terms/publisher> "Library of Congress, U.S. Reports" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <http://purl.org/dc/terms/title> "United States v. Darby, 312 U.S. 100 (1941)" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s6> <https://schema.org/url> <https://tile.loc.gov/storage-services/service/ll/usrep/usrep312/usrep312100/usrep312100.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor, Wage and Hour Division" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <http://purl.org/dc/terms/title> "Consolidated Minimum Wage Table" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s7> <https://schema.org/url> <https://www.dol.gov/agencies/whd/mw-consolidated> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor, Wage and Hour Division" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <http://purl.org/dc/terms/title> "Minimum Wages for Tipped Employees" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s8> <https://schema.org/url> <https://dol.gov/agencies/whd/state/minimum-wage/tipped> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <http://purl.org/dc/terms/title> "Characteristics of minimum wage workers, 2024" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/minimum-wage/s9> <https://schema.org/url> <https://www.bls.gov/opub/reports/minimum-wage/2024> .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Mississippi National River and Recreation Area" .
 <https://github.com/john1hsu/usa-graph/id/source/mississippi-river/s1> <http://purl.org/dc/terms/title> "Mississippi River Facts" .
