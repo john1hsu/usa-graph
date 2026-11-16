@@ -12428,6 +12428,228 @@
   ]
  },
  {
+  "id": "us:susan-b-anthony",
+  "title": "Susan B. Anthony",
+  "aliases": [
+   "Susan Brownell Anthony"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/people-who-shaped-america/susan-b-anthony.md",
+  "created": "2026-11-16",
+  "summary": "A Quaker-raised reformer (1820–1906) from Massachusetts and Rochester, New York, who worked for temperance and abolition, co-led the National Woman Suffrage Association with Elizabeth Cady Stanton, was convicted in 1873 of voting illegally, and campaigned for a federal woman suffrage amendment that was ratified fourteen years after her death as the Nineteenth Amendment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elizabeth-cady-stanton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sojourner-truth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nineteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minor-v-happersett"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:enforcement-acts"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ulysses-s-grant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:carrie-chapman-catt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wyoming"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-anthony"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:fourteenth-amendment"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:womens-suffrage-movement",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:abolitionism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:american-equal-rights-association",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:womens-loyal-national-league",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:national-american-woman-suffrage-association",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1820-02-15",
+  "end": "1906-03-13",
+  "review": [
+   {
+    "question": "Why could Anthony not take her 1873 conviction to the Supreme Court?",
+    "answer": "The law gave her no right of appeal, and because Justice Hunt fined her but did not jail her, she could not seek a writ of habeas corpus either; she refused to pay the $100 fine, and it was never collected."
+   },
+   {
+    "question": "How did the Fifteenth Amendment divide Anthony from allies such as Frederick Douglass?",
+    "answer": "It barred racial but not sex discrimination in voting; Douglass supported it, while Anthony and Stanton opposed an amendment that left women out and formed the National Woman Suffrage Association to seek a federal woman suffrage amendment, at times using racist arguments that historians criticize."
+   },
+   {
+    "question": "Why is the Nineteenth Amendment often called the Susan B. Anthony Amendment?",
+    "answer": "It grew out of the woman suffrage amendment that Senator Aaron Sargent introduced in her name in 1878, after her National Woman Suffrage Association returned to petitioning Congress, and which she campaigned for until her death; it was ratified in 1920, fourteen years after she died."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1820-02-15",
+    "event": "Born in Adams, Massachusetts, to Daniel and Lucy Anthony."
+   },
+   {
+    "date": "1845",
+    "event": "The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays."
+   },
+   {
+    "date": "1848",
+    "event": "Teaching in Canajoharie, New York, she learns that male teachers earn $10 a month and women $2.50."
+   },
+   {
+    "date": "1851",
+    "event": "Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York."
+   },
+   {
+    "date": "1856",
+    "event": "Works as an agent of the American Anti-Slavery Society."
+   },
+   {
+    "date": "1863",
+    "event": "Helps found the Women's Loyal National League to petition for emancipation."
+   },
+   {
+    "date": "1868",
+    "event": "Becomes an editor, with Stanton, of the newspaper The Revolution."
+   },
+   {
+    "date": "1869",
+    "event": "With Stanton, forms the National Woman Suffrage Association after the movement splits over the Fifteenth Amendment."
+   },
+   {
+    "date": "1872-11-01",
+    "event": "Registers to vote in Rochester's Eighth Ward with her three sisters and other women, citing the Fourteenth Amendment."
+   },
+   {
+    "date": "1872-11-05",
+    "event": "Votes in the presidential and congressional election."
+   },
+   {
+    "date": "1872-11-18",
+    "event": "Arrested at her Rochester home for voting illegally under the Enforcement Act of 1870."
+   },
+   {
+    "date": "1873-01-21",
+    "event": "A federal judge in Albany refuses to discharge her on a writ of habeas corpus."
+   },
+   {
+    "date": "1873-01-24",
+    "event": "A federal grand jury indicts her."
+   },
+   {
+    "date": "1873-06-18",
+    "event": "Justice Ward Hunt directs a guilty verdict in Canandaigua and fines her $100, which she refuses to pay."
+   },
+   {
+    "date": "1876-07-04",
+    "event": "Reads a Declaration of Rights of Women outside Independence Hall during the Centennial."
+   },
+   {
+    "date": "1878-01-10",
+    "event": "Senator Aaron Sargent introduces the woman suffrage amendment that suffragists later call the Anthony Amendment."
+   },
+   {
+    "date": "1881",
+    "event": "The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published."
+   },
+   {
+    "date": "1890",
+    "event": "The rival suffrage associations merge as the National American Woman Suffrage Association."
+   },
+   {
+    "date": "1892",
+    "event": "Becomes president of NAWSA, serving until Carrie Chapman Catt succeeds her in 1900."
+   },
+   {
+    "date": "1906-02",
+    "event": "Attends her last NAWSA convention, in Baltimore, and gives her final public remarks."
+   },
+   {
+    "date": "1906-03-13",
+    "event": "Dies at her home in Rochester; she is buried in Mount Hope Cemetery."
+   }
+  ],
+  "misconception": {
+   "myth": "Susan B. Anthony was the first woman to vote in the United States, casting a lone ballot in Rochester in 1872.",
+   "fact": "Some New Jersey women voted from 1776 until an 1807 law limited the vote to free white men, and women in Wyoming Territory (1869) and Utah Territory (1870) were enfranchised before her vote. In Rochester she registered with her three sisters and roughly ten other women, and warrants were issued for all of them, though only she was tried.",
+   "why": "Her arrest, trial and refusal to pay the fine made her the public face of the 1872 protest, so the other Rochester voters and the earlier history of women voting dropped out of the popular story."
+  },
+  "source_urls": [
+   "https://home.nps.gov/people/susan-b-anthony.htm",
+   "https://www.fjc.gov/node/10126476",
+   "https://www.womenshistory.org/education-resources/biographies/susan-b-anthony",
+   "https://history.nycourts.gov/?p=2869",
+   "https://docsteach.org/documents/document/susan-b-anthony-jail-order",
+   "https://rbscp.lib.rochester.edu/exhibits/show/anthony-heroic-life/1871-1880",
+   "https://rbscp.lib.rochester.edu/exhibits/show/anthony-heroic-life/1901-1906",
+   "https://www.smithsonianmag.com/smart-news/susan-b-anthony-and-14-other-women-were-arrested-for-voting-illegally-in-the-presidential-election-on-this-day-in-1872-180985279/",
+   "https://www.senate.gov/about/women-of-the-senate/part1-bestow-the-ballot.htm",
+   "https://prologue.blogs.archives.gov/?p=30168",
+   "https://www.amrevmuseum.org/virtualexhibits/when-women-lost-the-vote-a-revolutionary-story/pages/how-was-the-vote-regained-redemption"
+  ]
+ },
+ {
   "id": "us:thanksgiving",
   "title": "Thanksgiving",
   "aliases": [

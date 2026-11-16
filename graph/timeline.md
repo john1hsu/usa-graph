@@ -250,6 +250,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1819-12 | The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1820-02-15 – 1906-03-13 | **[Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md)** (Person) |
+| 1820-02-15 | Born in Adams, Massachusetts, to Daniel and Lucy Anthony. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1820-03-02 | The House accepts the compromise, admitting Missouri without restriction and closing the territory north of 36°30′ to slavery. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-03-06 – 1854 | **[Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md)** (Law) |
 | 1820-03-06 | President James Monroe signs the act. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -333,6 +335,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1846-04-06 | Dred and Harriet Scott file separate freedom suits against Irene Emerson in the St. Louis Circuit Court. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -340,6 +343,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847 | Returns legally free after supporters pay Hugh Auld $711.66; launches the North Star in Rochester, New York. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1847-06-30 | The first trial ends against the Scotts on a technicality, and their lawyer wins a new trial. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1848 | Teaching in Canajoharie, New York, she learns that male teachers earn $10 a month and women $2.50. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
 | 1848-01-24 | Gold is found on the American River, setting off the Gold Rush. — [California](../articles/states-and-territories/california.md) |
 | 1848-01-24 | James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -367,6 +371,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850-09-09 | **[California](../articles/states-and-territories/california.md)** (State) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
+| 1851 | Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
@@ -379,6 +384,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
 | 1854-05 | In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1856 | Works as an agent of the American Anti-Slavery Society. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1856-02 | The U.S. Supreme Court hears the first oral argument; it orders re-argument, held in December 1856. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1857 | Brings her aging parents north after learning her father faces arrest. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1857 | In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -420,6 +426,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863 | California repeals its laws legalizing Indian indenture, and African Americans win the right to testify in court. — [California](../articles/states-and-territories/california.md) |
+| 1863 | Helps found the Women's Loyal National League to petition for emancipation. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas under Confederate control. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -485,6 +492,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
+| 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
@@ -496,6 +504,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1869 | The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1869 | With Stanton, forms the National Woman Suffrage Association after the movement splits over the Fifteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1869-01-11 | Representative George Boutwell proposes a suffrage amendment in the House. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-02-26 | After a conference committee narrows the text to racial discrimination, Congress gives final approval (House 144 to 44, Senate 39 to 13). — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1869-04-10 | Congress fixes the Court at nine justices, where it has remained. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -536,12 +545,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1872-03-01 | **[Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md)** (Landmark) |
 | 1872-03-01 | President Ulysses S. Grant signs the Yellowstone National Park Protection Act. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-03-01 | The Yellowstone park bill becomes law, about ten weeks after its introduction. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1872-11-01 | Registers to vote in Rochester's Eighth Ward with her three sisters and other women, citing the Fourteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1872-11-05 | Votes in the presidential and congressional election. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1872-11-18 | Arrested at her Rochester home for voting illegally under the Enforcement Act of 1870. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873 | Harper's Weekly and other national journals repeat the story as fact. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1873 | Mark Twain and Charles Dudley Warner publish The Gilded Age: A Tale of Today, a satire of postwar corruption that gives the era its name. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1873 | The railroads' financial bubble bursts, beginning years of depression, layoffs and repeated wage cuts. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1873-01-21 | A federal judge in Albany refuses to discharge her on a writ of habeas corpus. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1873-01-24 | A federal grand jury indicts her. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-05 | A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1873-06-18 | Justice Ward Hunt directs a guilty verdict in Canandaigua and fines her $100, which she refuses to pay. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-09-18 – 1879 | **[Panic of 1873](../articles/economy-and-work/panic-of-1873.md)** (Event) |
 | 1873-09-18 | Jay Cooke and Company, heavily invested in the Northern Pacific Railway, suspends payments and goes bankrupt. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1873-09-20 | The New York Stock Exchange closes for the first time in its history and stays shut for ten days. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -555,6 +570,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1876-06 | George Armstrong Custer and 268 of his men are killed at the Little Bighorn. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1876-07-04 | Reads a Declaration of Rights of Women outside Independence Hall during the Centennial. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
 | 1877 | Appointed U.S. marshal for the District of Columbia by President Hayes. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1877 | The Great Railroad Strike spreads from Baltimore to St. Louis; about 100 people die before federal troops end it. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -570,6 +586,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1877-07-31 | By the end of July the strikes have largely been put down along the trunk lines. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1877-08-23 | About 800 Nez Perce (Nimiipuu) people fleeing the U.S. Army enter the park and cross it in 13 days. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1878-01-10 | Senator Aaron Sargent introduces the woman suffrage amendment that suffragists later call the Anthony Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -577,6 +594,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1880 | Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -604,9 +622,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1890 | The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1890 | The rival suffrage associations merge as the National American Woman Suffrage Association. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1890-12-29 | U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1892 | Becomes president of NAWSA, serving until Carrie Chapman Catt succeeds her in 1900. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892 | The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -687,6 +707,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1906-03-13 | Dies at her home in Rochester; she is buried in Mount Hope Cemetery. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1906-04-18 | A major earthquake on the San Andreas Fault strikes San Francisco. — [California](../articles/states-and-territories/california.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-08 | Signs the Antiquities Act, which he then uses to proclaim 18 national monuments. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |

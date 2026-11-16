@@ -971,6 +971,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Truth fund her work during the Civil War years?
   **A:** She sold copies of her Narrative and cartes de visite of herself at lectures and by mail, registering a copyright in the photographs in 1864 so that the income came to her.
 
+### [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Susan B. Anthony was the first woman to vote in the United States, casting a lone ballot in Rochester in 1872. | Some New Jersey women voted from 1776 until an 1807 law limited the vote to free white men, and women in Wyoming Territory (1869) and Utah Territory (1870) were enfranchised before her vote. In Rochester she registered with her three sisters and roughly ten other women, and warrants were issued for all of them, though only she was tried. |
+
+**Why it matters:** Her arrest, trial and refusal to pay the fine made her the public face of the 1872 protest, so the other Rochester voters and the earlier history of women voting dropped out of the popular story.
+
+- **Q:** Why could Anthony not take her 1873 conviction to the Supreme Court?
+  **A:** The law gave her no right of appeal, and because Justice Hunt fined her but did not jail her, she could not seek a writ of habeas corpus either; she refused to pay the $100 fine, and it was never collected.
+- **Q:** How did the Fifteenth Amendment divide Anthony from allies such as Frederick Douglass?
+  **A:** It barred racial but not sex discrimination in voting; Douglass supported it, while Anthony and Stanton opposed an amendment that left women out and formed the National Woman Suffrage Association to seek a federal woman suffrage amendment, at times using racist arguments that historians criticize.
+- **Q:** Why is the Nineteenth Amendment often called the Susan B. Anthony Amendment?
+  **A:** It grew out of the woman suffrage amendment that Senator Aaron Sargent introduced in her name in 1878, after her National Woman Suffrage Association returned to petitioning Congress, and which she campaigned for until her death; it was ratified in 1920, fourteen years after she died.
+
 ## presidents-and-founders
 
 ### [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) — Person
