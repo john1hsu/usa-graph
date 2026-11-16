@@ -3016,6 +3016,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The first was Marbury v. Madison in 1803; Dred Scott was the first time since then that the Court invalidated a federal statute, the Missouri Compromise's restriction on slavery.",
+   "uso:myth": "Dred Scott v. Sandford was the first time the Supreme Court struck down an act of Congress.",
+   "uso:why": "Remembering it as the second use of judicial review against Congress, after a 54-year gap, shows how unusual and consequential the Court's choice to rule on territorial slavery was."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Dred Scott's case end up in federal court after he lost in the Missouri Supreme Court?",
+   "uso:answer": "Scott sued John F. A. Sanford, Irene Emerson's brother and the executor of John Emerson's estate, who was a citizen of New York; because the parties lived in different states, Scott could sue under the federal courts' diversity jurisdiction, which raised the question of whether he was a citizen at all.",
+   "uso:questionFor": {
+    "@id": "us:dred-scott-v-sandford"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Court's ruling on citizenship let it avoid deciding Scott's case on the merits, and why did it go further anyway?",
+   "uso:answer": "Holding that Scott was not a citizen meant the federal courts lacked jurisdiction and the case had to be dismissed; but after re-argument the majority also ruled that Congress could not ban slavery in the territories, partly because dissenting justices planned to argue that Congress had that power.",
+   "uso:questionFor": {
+    "@id": "us:dred-scott-v-sandford"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the decision deepen the sectional crisis before the Civil War?",
+   "uso:answer": "It made the Republican goal of keeping slavery out of the territories unconstitutional, which Republicans saw as proof of the Slave Power's reach, and it undercut Stephen Douglas's popular sovereignty, prompting his Freeport Doctrine, which alienated Southern Democrats and helped split the Democratic Party.",
+   "uso:questionFor": {
+    "@id": "us:dred-scott-v-sandford"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Which constitutional change reversed the decision's ruling on citizenship?",
+   "uso:answer": "The Fourteenth Amendment, ratified in 1868, whose first sentence made all persons born or naturalized in the United States citizens, following the Civil Rights Act of 1866.",
+   "uso:questionFor": {
+    "@id": "us:dred-scott-v-sandford"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dr. John Emerson, an army surgeon, takes the enslaved Dred Scott to Fort Armstrong in the free state of Illinois.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1833-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Court rules 7 to 2 against Scott, with Chief Justice Roger B. Taney delivering the opinion of the Court.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1857-03-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Taylor Blow emancipates Dred and Harriet Scott.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1857-05-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dred Scott dies of tuberculosis in St. Louis.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1858-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress bans slavery in all western territories, undoing the decision's holding on territorial slavery.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1862-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1868"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1836-05-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dred and Harriet Scott file separate freedom suits against Irene Emerson in the St. Louis Circuit Court.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1846-04-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first trial ends against the Scotts on a technicality, and their lawyer wins a new trial.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1847-06-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A St. Louis jury finds the Scotts free.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1850-01-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Missouri Supreme Court reverses, rejecting the principle of once free, always free.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1852-03-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1854-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Supreme Court hears the first oral argument; it orders re-argument, held in December 1856.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1856-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In his inaugural address, President James Buchanan says he will submit to the Court's coming decision.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1857-03-04"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/due-process/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The clauses protect against any government deprivation of life, liberty, or property, including civil and administrative actions such as cutting off government benefits (Goldberg v. Kelly, 1970; Mathews v. Eldridge, 1976), and courts weigh how much process each situation requires.",
@@ -12148,6 +12317,104 @@
     "@id": "https://encyclopediaofarkansas.net/entries/daisy-lee-gatson-bates-591/"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives at Kansas City",
+   "dcterms:title": "Dred Scott v. John F. A. Sandford",
+   "schema:url": {
+    "@id": "https://www.archives.gov/kansas-city/highlights/dred-scott"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)",
+   "dcterms:title": "Dred Scott v. Sandford, 60 U.S. 393 (1857)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supremecourt/text/60/393"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "State Historical Society of Missouri, Historic Missourians",
+   "dcterms:title": "Dred Scott",
+   "schema:url": {
+    "@id": "https://historicmissourians.shsmo.org/?p=4802"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, Gateway Arch National Park",
+   "dcterms:title": "Old Courthouse",
+   "schema:url": {
+    "@id": "https://www.nps.gov/places/old-courthouse.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society",
+   "dcterms:title": "The Taney Court, 1836–1864",
+   "schema:url": {
+    "@id": "https://supremecourthistory.org/history-of-the-courts/taney-court-1836-1864/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Peter Wallenstein, Essential Civil War Curriculum (Virginia Center for Civil War Studies)",
+   "dcterms:title": "The Dred Scott Case",
+   "schema:url": {
+    "@id": "https://www.essentialcivilwarcurriculum.com/the-dred-scott-case.html"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History",
+   "dcterms:title": "14.3 The Dred Scott Decision and Sectional Strife",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/14-3-the-dred-scott-decision-and-sectional-strife"
+   },
+   "uso:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/due-process/s1",
@@ -26113,6 +26380,183 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:dred-scott-v-sandford",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s7"
+    }
+   ],
+   "rdfs:label": "Dred Scott v. Sandford",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1857-03-06"
+   },
+   "skos:altLabel": [
+    "19 How. 393",
+    "60 U.S. 393",
+    "Dred Scott case",
+    "Dred Scott decision",
+    "Dred Scott v Sandford",
+    "Scott v. Sandford"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:sectionalism"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "skos:definition": "The 1857 U.S. Supreme Court decision that rejected Dred Scott's claim to freedom, declared in Chief Justice Roger B. Taney's opinion that Black Americans could not be citizens of the United States, and struck down the Missouri Compromise's ban on slavery in federal territories.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Dred Scott v. Sandford",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:benjamin-r-curtis"
+    },
+    {
+     "@id": "us:dred-scott"
+    },
+    {
+     "@id": "us:due-process"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:freedom-suits"
+    },
+    {
+     "@id": "us:harriet-robinson-scott"
+    },
+    {
+     "@id": "us:james-buchanan"
+    },
+    {
+     "@id": "us:kansas-nebraska-act"
+    },
+    {
+     "@id": "us:lincoln-douglas-debates"
+    },
+    {
+     "@id": "us:marbury-v-madison"
+    },
+    {
+     "@id": "us:missouri-compromise"
+    },
+    {
+     "@id": "us:roger-b-taney"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:lincoln-douglas-debates"
+    },
+    {
+     "@id": "us:republican-party"
+    }
+   ],
+   "uso:authoredBy": {
+    "@id": "us:roger-b-taney"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/rights-and-law/dred-scott-v-sandford.md",
+   "uso:interprets": [
+    {
+     "@id": "us:fifth-amendment"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/misconception"
+   },
+   "uso:overturns": {
+    "@id": "us:missouri-compromise"
+   },
+   "uso:requires": {
+    "@id": "us:missouri-compromise"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/timeline/9"
     }
    ]
   },

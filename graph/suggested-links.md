@@ -7,25 +7,25 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 4.28 | `us:betsy-ross-flag-myth` | `us:e-pluribus-unum` | `us:flag-of-the-united-states`, `us:francis-hopkinson`, `us:national-symbols-of-the-united-states`, `us:second-continental-congress` |
 | 4.21 | `us:abolitionism` | `us:pennsylvania` | `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers`, `us:underground-railroad` |
 | 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
-| 3.67 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
+| 3.66 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.93 | `us:e-pluribus-unum` | `us:treaty-of-paris-1783` | `us:benjamin-franklin`, `us:john-adams`, `us:second-continental-congress`, `us:united-states` |
 | 2.92 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:thirteenth-amendment`, `us:tribal-sovereignty` |
-| 2.91 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.68 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
+| 2.72 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
+| 2.67 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
 | 2.45 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.35 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.30 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
-| 2.22 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
+| 2.21 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
 | 2.19 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
-| 2.17 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
+| 2.17 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
 | 2.15 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
-| 2.15 | `us:abraham-lincoln` | `us:theodore-roosevelt` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:republican-party` |
 | 2.13 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.12 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.08 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
+| 2.00 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:american-civil-war`, `us:census-and-apportionment`, `us:dred-scott-v-sandford`, `us:thirteenth-amendment` |
 | 1.99 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.99 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:treaty-of-paris-1783`, `us:tribal-sovereignty` |
-| 1.97 | `us:constitutional-convention` | `us:treaty-of-paris-1783` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:george-washington`, `us:slavery-in-the-united-states`, `us:united-states-constitution` |
-| 1.94 | `us:pennsylvania` | `us:slavery-in-the-united-states` | `us:constitutional-convention`, `us:declaration-of-independence`, `us:harriet-tubman`, `us:underground-railroad`, `us:united-states` |
+| 1.96 | `us:constitutional-convention` | `us:treaty-of-paris-1783` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:george-washington`, `us:slavery-in-the-united-states`, `us:united-states-constitution` |
+| 1.96 | `us:abraham-lincoln` | `us:theodore-roosevelt` | `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:republican-party` |

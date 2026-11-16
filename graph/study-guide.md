@@ -1071,6 +1071,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## rights-and-law
 
+### [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| Dred Scott v. Sandford was the first time the Supreme Court struck down an act of Congress. | The first was Marbury v. Madison in 1803; Dred Scott was the first time since then that the Court invalidated a federal statute, the Missouri Compromise's restriction on slavery. |
+
+**Why it matters:** Remembering it as the second use of judicial review against Congress, after a 54-year gap, shows how unusual and consequential the Court's choice to rule on territorial slavery was.
+
+- **Q:** Why did Dred Scott's case end up in federal court after he lost in the Missouri Supreme Court?
+  **A:** Scott sued John F. A. Sanford, Irene Emerson's brother and the executor of John Emerson's estate, who was a citizen of New York; because the parties lived in different states, Scott could sue under the federal courts' diversity jurisdiction, which raised the question of whether he was a citizen at all.
+- **Q:** How did the Court's ruling on citizenship let it avoid deciding Scott's case on the merits, and why did it go further anyway?
+  **A:** Holding that Scott was not a citizen meant the federal courts lacked jurisdiction and the case had to be dismissed; but after re-argument the majority also ruled that Congress could not ban slavery in the territories, partly because dissenting justices planned to argue that Congress had that power.
+- **Q:** How did the decision deepen the sectional crisis before the Civil War?
+  **A:** It made the Republican goal of keeping slavery out of the territories unconstitutional, which Republicans saw as proof of the Slave Power's reach, and it undercut Stephen Douglas's popular sovereignty, prompting his Freeport Doctrine, which alienated Southern Democrats and helped split the Democratic Party.
+- **Q:** Which constitutional change reversed the decision's ruling on citizenship?
+  **A:** The Fourteenth Amendment, ratified in 1868, whose first sentence made all persons born or naturalized in the United States citizens, following the Civil Rights Act of 1866.
+
 ### [Due process](../articles/rights-and-law/due-process.md) — Right
 
 | Myth | Fact |

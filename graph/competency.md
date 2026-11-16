@@ -52,12 +52,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
+| `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
-| `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 
-…and 40 more.
+…and 41 more.
 
 ## Happenings by era
 
