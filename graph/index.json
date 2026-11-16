@@ -2079,6 +2079,265 @@
   ]
  },
  {
+  "id": "us:california",
+  "title": "California",
+  "aliases": [
+   "State of California",
+   "Golden State"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/california.md",
+  "created": "2026-11-16",
+  "summary": "The thirty-first U.S. state (admitted September 9, 1850) and the most populous since 1962, on the Pacific coast; homeland of many Native Californian peoples, then a Spanish and Mexican province, it was taken by the United States in the U.S.–Mexican War and admitted as a free state amid the Gold Rush, while its first legislature legalized the indenture of Native people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-gold-rush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:history-of-california"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexican-american-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-guadalupe-hidalgo"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:compromise-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:californios"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:act-for-the-government-and-protection-of-indians"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-missions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:junipero-serra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kumeyaay"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bear-flag-revolt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:central-valley"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:san-andreas-fault"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:death-valley-national-park"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:1906-san-francisco-earthquake"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:okies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-farm-workers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cesar-chavez"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dolores-huerta"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:los-angeles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-free-state-myth"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:compromise-of-1850",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "1850-09-09",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Gold Rush speed California's path to statehood?",
+    "answer": "The discovery of gold in January 1848 brought more than 300,000 people by 1850, creating a pressing need for civil government; Californians wrote a constitution in 1849 and sought statehood that year, and Congress admitted California on September 9, 1850, as part of the Compromise of 1850."
+   },
+   {
+    "question": "How and why did California's Native population fall between 1769 and 1860?",
+    "answer": "From about 310,000 people in 1769 it fell to about 150,000 by 1848 and about 30,000 by 1860, because of diseases introduced in the mission and Mexican eras, deaths tied to the missions, violence by miners during the Gold Rush, and state laws that allowed Native people to be held in indenture."
+   },
+   {
+    "question": "What did the Treaty of Guadalupe Hidalgo promise Californios, and how did those promises fare?",
+    "answer": "It made them U.S. citizens unless they chose to keep Mexican citizenship and promised to protect their property, but the Senate struck the article protecting Mexican land grants, and families such as the Peraltas lost most of their land to lawyers, taxes, squatters and speculators."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1533",
+    "event": "Spanish explorers reach the tip of present-day Baja California and give the name California."
+   },
+   {
+    "date": "1542",
+    "event": "Juan Rodríguez Cabrillo sails north along the coast as far as present-day Oregon."
+   },
+   {
+    "date": "1769-07-16",
+    "event": "Junípero Serra founds Mission San Diego de Alcalá, the first of 21 Franciscan missions, in Kumeyaay country."
+   },
+   {
+    "date": "1775",
+    "event": "A Native uprising burns the San Diego mission church."
+   },
+   {
+    "date": "1821",
+    "event": "Mexico wins independence from Spain, and California becomes a Mexican province."
+   },
+   {
+    "date": "1834",
+    "event": "Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians."
+   },
+   {
+    "date": "1846",
+    "event": "War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out."
+   },
+   {
+    "date": "1848-01-24",
+    "event": "Gold is found on the American River, setting off the Gold Rush."
+   },
+   {
+    "date": "1848-02-02",
+    "event": "The Treaty of Guadalupe Hidalgo transfers California and other lands from Mexico to the United States."
+   },
+   {
+    "date": "1849",
+    "event": "Forty-eight delegates in Monterey write a state constitution, published in English and Spanish, that limits voting to white men."
+   },
+   {
+    "date": "1850",
+    "event": "The legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured servants."
+   },
+   {
+    "date": "1850-09-09",
+    "event": "California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850."
+   },
+   {
+    "date": "1852",
+    "event": "A state fugitive slave law makes it illegal for enslaved people to flee within California."
+   },
+   {
+    "date": "1852-07-08",
+    "event": "The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres."
+   },
+   {
+    "date": "1854",
+    "event": "The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia."
+   },
+   {
+    "date": "1863",
+    "event": "California repeals its laws legalizing Indian indenture, and African Americans win the right to testify in court."
+   },
+   {
+    "date": "1906-04-18",
+    "event": "A major earthquake on the San Andreas Fault strikes San Francisco."
+   },
+   {
+    "date": "1962",
+    "event": "California passes New York as the most populous state."
+   },
+   {
+    "date": "1966",
+    "event": "César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 39,538,223 residents; California remains the most populous state but loses one House seat."
+   }
+  ],
+  "misconception": {
+   "myth": "Because California entered the Union as a free state in 1850, it had no slavery or legalized forced labor.",
+   "fact": "The 1850 Act for the Government and Protection of Indians let white settlers and Californios hold Native people as indentured servants, and laws legalizing Indian indenture stood until 1863; slavery of Black Californians also persisted in some regions under lax oversight, and an 1852 state law made it illegal for enslaved people to flee within California.",
+   "why": "The national story of the Compromise of 1850 centers on the free-state label and the balance between North and South in the Senate, which hides how the new state's own laws treated Native and Black Californians."
+  },
+  "source_urls": [
+   "https://www.parks.ca.gov/?page_id=23856",
+   "https://cdn.www.census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html",
+   "https://www.bea.gov/sites/default/files/2025-03/stgdppi4q24-a2024.pdf",
+   "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+   "https://calisphere.org/exhibitions/essay/4/gold-rush/",
+   "https://calisphere.org/exhibitions/essay/2/exploration-and-colonial",
+   "https://calisphere.org/exhibitions/essay/3/missions-ranchos/",
+   "https://calisphere.org/exhibitions/essay/7/modern-california/",
+   "https://nahc.ca.gov/native-americans/california-indian-history",
+   "https://www.nps.gov/nr/travel/American_latino_heritage/San_Diego_Mission_Church.html",
+   "https://nps.gov/places/badwater-basin.htm",
+   "https://exhibits.sos.ca.gov/s/exhibits/item/55142",
+   "https://nlm.nih.gov/nativevoices/timeline/328.html",
+   "https://ca.water.usgs.gov/projects/central-valley/about-central-valley.html",
+   "https://pubs.usgs.gov/gip/earthq3/safaultgip.html"
+  ]
+ },
+ {
   "id": "us:california-gold-rush",
   "title": "California Gold Rush",
   "aliases": [

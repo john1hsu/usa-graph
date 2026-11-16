@@ -32,7 +32,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
-| `us:colorado-river` | 4 | arizona-v-california, california, colorado-river-compact, colorado-river-indian-tribes |
+| `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 
-…and 43 more.
+…and 45 more.
 
 ## Happenings by era
 
@@ -170,6 +170,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:boulder-canyon-project-act` | `us:hoover-dam` |
 | `us:canal-zone-additional-facilities-act-of-1939` | `us:third-locks-project` |
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
+| `us:compromise-of-1850` | `us:california` |
 | `us:declaration-of-independence` | `us:united-states` |
 | `us:executive-order-9066` | `us:japanese-american-incarceration` |
 | `us:fair-labor-standards-act` | `us:minimum-wage` |

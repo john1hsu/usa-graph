@@ -25,7 +25,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.15 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |
 | 2.13 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:constitutional-convention`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
 | 2.12 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 2.11 | `us:california` | `us:hoover-dam` | `us:colorado-river`, `us:los-angeles`, `us:the-west` |
 | 2.11 | `us:equal-protection` | `us:supreme-court-of-the-united-states` | `us:brown-v-board-of-education`, `us:due-process`, `us:fourteenth-amendment`, `us:obergefell-v-hodges`, `us:plessy-v-ferguson` |
 | 2.08 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
-| 1.99 | `us:gilded-age` | `us:pennsylvania` | `us:great-railroad-strike-of-1877`, `us:homestead-strike`, `us:lattimer-massacre`, `us:united-states` |
 | 1.99 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:american-civil-war`, `us:census-and-apportionment`, `us:dred-scott-v-sandford`, `us:thirteenth-amendment` |

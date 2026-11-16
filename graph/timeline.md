@@ -11,8 +11,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1215 | Magna Carta promises that free men will be judged by their peers or by the law of the land. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1354 | An English statute restating Magna Carta first uses the phrase "due process of law." — [Due process](../articles/rights-and-law/due-process.md) |
 | 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
+| 1533 | Spanish explorers reach the tip of present-day Baja California and give the name California. — [California](../articles/states-and-territories/california.md) |
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1542 | Juan Rodríguez Cabrillo sails north along the coast as far as present-day Oregon. — [California](../articles/states-and-territories/california.md) |
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -47,8 +49,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1769-07-16 | Junípero Serra founds Mission San Diego de Alcalá, the first of 21 Franciscan missions, in Kumeyaay country. — [California](../articles/states-and-territories/california.md) |
 | 1773 | She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1775 – 1865-12-06 | **[Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md)** (Movement) |
+| 1775 | A Native uprising burns the San Diego mission church. — [California](../articles/states-and-territories/california.md) |
 | 1775 | Philadelphians, sixteen of the twenty-four of them Quakers, found the Society for the Relief of Free Negroes Unlawfully Held in Bondage, later the Pennsylvania Abolition Society. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1775-04-19 – 1783-09-03 | **[American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md)** (Conflict) |
 | 1775-04-19 | British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -252,6 +256,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1820-03-15 | Maine becomes the 23rd state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-04-22 | Thomas Jefferson writes to John Holmes that the Missouri question struck him like a fire bell in the night. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-07-19 | Missouri adopts a constitution that protects slavery and directs the legislature to keep free Black people out of the state. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1821 | Mexico wins independence from Spain, and California becomes a Mexican province. — [California](../articles/states-and-territories/california.md) |
 | 1821 | New York becomes the first state to write "due process of law" into its own constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1821 | Russia claims the Pacific coast of North America north of the 51st parallel, extending its Alaska colony southward. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1821-06 | Under a second compromise brokered by Henry Clay, Missouri's legislature pledges that the disputed clauses will not be enforced. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -299,6 +304,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1833-12-01 | Dr. John Emerson, an army surgeon, takes the enslaved Dred Scott to Fort Armstrong in the free state of Illinois. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1834 | Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians. — [California](../articles/states-and-territories/california.md) |
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -327,6 +333,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1846-04-06 | Dred and Harriet Scott file separate freedom suits against Irene Emerson in the St. Louis Circuit Court. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1847 | George Lippard's fictional story 'Ring, Grandfather, Ring' ties the bell to July 4, 1776. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -334,8 +341,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847-06-30 | The first trial ends against the Scotts on a technicality, and their lawyer wins a new trial. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
+| 1848-01-24 | Gold is found on the American River, setting off the Gold Rush. — [California](../articles/states-and-territories/california.md) |
 | 1848-01-24 | James Marshall finds a gold nugget at the sawmill he is building for John Sutter on the South Fork of the American River at Coloma. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-02-02 | The Treaty of Guadalupe Hidalgo is signed; Mexico cedes 55 percent of its territory, including present-day California, Nevada and Utah. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1848-02-02 | The Treaty of Guadalupe Hidalgo transfers California and other lands from Mexico to the United States. — [California](../articles/states-and-territories/california.md) |
 | 1848-07 | California's military commander visits the diggings and finds about 4,000 people collecting gold; Coloma alone has about 4,000 people. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1848-07 | Seconds Elizabeth Cady Stanton's suffrage resolution at the Seneca Falls women's rights convention. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1848-07-19 – 1920-08-26 | **[Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md)** (Movement) |
@@ -343,6 +352,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1848-12-05 | President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | About 25,000 emigrants travel overland to California, the first great year of the rush. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1849 | Forty-eight delegates in Monterey write a state constitution, published in English and Spanish, that limits voting to white men. — [California](../articles/states-and-territories/california.md) |
 | 1849-11-13 | California voters ratify a state constitution, paving the way for statehood. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -351,16 +361,22 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850 | The Narrative of Sojourner Truth, dictated to Olive Gilbert, is published. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1850 | The United States and Britain sign the Clayton-Bulwer Treaty to limit rivalry over a proposed isthmian canal. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1850 | The legislature imposes a $20-a-month license fee on foreign miners, aimed chiefly at Latin American miners; it is repealed the next year. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1850 | The legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured servants. — [California](../articles/states-and-territories/california.md) |
 | 1850-01-12 | A St. Louis jury finds the Scotts free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1850-04 | The first state legislature passes the Act for the Government and Protection of Indians, allowing Native people to be held as indentured laborers. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1850-09-09 | **[California](../articles/states-and-territories/california.md)** (State) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
+| 1852 | A state fugitive slave law makes it illegal for enslaved people to flee within California. — [California](../articles/states-and-territories/california.md) |
 | 1852 | About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1852-03-22 | The Missouri Supreme Court reverses, rejecting the principle of once free, always free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1852-07-08 | The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres. — [California](../articles/states-and-territories/california.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
 | 1854-05 | In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1854-12-25 | Rescues her three remaining brothers from Dorchester County. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1856-02 | The U.S. Supreme Court hears the first oral argument; it orders re-argument, held in December 1856. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -403,6 +419,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862-07-02 | Lincoln signs the Morrill Act; states in rebellion are excluded from its grants. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1863 | California repeals its laws legalizing Indian indenture, and African Americans win the right to testify in court. — [California](../articles/states-and-territories/california.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas under Confederate control. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -670,6 +687,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1906-04-18 | A major earthquake on the San Andreas Fault strikes San Francisco. — [California](../articles/states-and-territories/california.md) |
 | 1906-05-22 | U.S. Patent 821,393 for the Wrights' flying machine is granted. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1906-06-08 | Signs the Antiquities Act, which he then uses to proclaim 18 national monuments. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906-06-27 | The House follows the Senate in choosing a lock canal over a sea-level design. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -947,6 +965,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1962 | California passes New York as the most populous state. — [California](../articles/states-and-territories/california.md) |
 | 1962 | In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1962 | The USS Arizona Memorial, built over the sunken battleship, is officially dedicated. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
@@ -977,6 +996,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-08-06 | Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-08-06 | Johnson signs the Voting Rights Act of 1965. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1965-08-06 | President Johnson signs the Voting Rights Act. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1966 | César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers. — [California](../articles/states-and-territories/california.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1114,6 +1134,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 1,455,271 residents, 7.0 percent more than in 2010. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
+| 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-04-26 | The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 2021-06-17 | In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |

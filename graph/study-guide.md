@@ -1282,6 +1282,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## states-and-territories
 
+### [California](../articles/states-and-territories/california.md) — State
+
+| Myth | Fact |
+|---|---|
+| Because California entered the Union as a free state in 1850, it had no slavery or legalized forced labor. | The 1850 Act for the Government and Protection of Indians let white settlers and Californios hold Native people as indentured servants, and laws legalizing Indian indenture stood until 1863; slavery of Black Californians also persisted in some regions under lax oversight, and an 1852 state law made it illegal for enslaved people to flee within California. |
+
+**Why it matters:** The national story of the Compromise of 1850 centers on the free-state label and the balance between North and South in the Senate, which hides how the new state's own laws treated Native and Black Californians.
+
+- **Q:** Why did the Gold Rush speed California's path to statehood?
+  **A:** The discovery of gold in January 1848 brought more than 300,000 people by 1850, creating a pressing need for civil government; Californians wrote a constitution in 1849 and sought statehood that year, and Congress admitted California on September 9, 1850, as part of the Compromise of 1850.
+- **Q:** How and why did California's Native population fall between 1769 and 1860?
+  **A:** From about 310,000 people in 1769 it fell to about 150,000 by 1848 and about 30,000 by 1860, because of diseases introduced in the mission and Mexican eras, deaths tied to the missions, violence by miners during the Gold Rush, and state laws that allowed Native people to be held in indenture.
+- **Q:** What did the Treaty of Guadalupe Hidalgo promise Californios, and how did those promises fare?
+  **A:** It made them U.S. citizens unless they chose to keep Mexican citizenship and promised to protect their property, but the Senate struck the article protecting Mexican land grants, and families such as the Peraltas lost most of their land to lawyers, taxes, squatters and speculators.
+
 ### [Hawaii](../articles/states-and-territories/hawaii.md) — State
 
 | Myth | Fact |
