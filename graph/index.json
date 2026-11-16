@@ -1148,6 +1148,163 @@
   ]
  },
  {
+  "id": "us:angel-island-immigration-station",
+  "title": "Angel Island Immigration Station",
+  "aliases": [
+   "U.S. Immigration Station Angel Island",
+   "Angel Island Immigration Museum"
+  ],
+  "type": "Landmark",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/angel-island-immigration-station.md",
+  "created": "2026-11-16",
+  "summary": "The federal immigration station on Angel Island in San Francisco Bay that from 1910 to 1940 inspected, interrogated and often detained arrivals from across the Pacific — above all Chinese immigrants under the Chinese exclusion laws — and is now a National Historic Landmark known for the poems detainees carved into its barrack walls.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:immigration-to-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:1906-san-francisco-earthquake"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ellis-island"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:paper-sons"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:magnuson-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:california-gold-rush"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:chinese-exclusion-act"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:california",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:chinese-exclusion-act",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:chinese-americans",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:japanese-americans",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1910-01-21",
+  "end": "1940-11-05",
+  "review": [
+   {
+    "question": "Why did the U.S. government build its West Coast immigration station on an island, and why did Chinese arrivals face special scrutiny there?",
+    "answer": "Officials chose Angel Island for its isolation, which made it easier to hold and question arrivals; Chinese immigrants faced special interrogations because the Chinese exclusion laws from 1882 barred laborers, so each applicant had to prove membership in an exempt group or a family tie to a U.S. citizen."
+   },
+   {
+    "question": "How did the 1906 San Francisco earthquake help create \"paper sons\", and how did the government respond?",
+    "answer": "The earthquake and fire destroyed birth and immigration records, so Chinese residents could claim U.S. birth and overseas children; some sold these slots as false identities. Inspectors answered with long interrogations about family and village details, and mismatched answers could lead to deportation."
+   },
+   {
+    "question": "How do we know about detainees' feelings at Angel Island, and why are no women's poems known?",
+    "answer": "Detainees, mostly rural men from southern China, carved more than 200 documented poems into the barrack walls, rediscovered in 1970. Women were held in the administration building, which burned in 1940, so any writing there was lost."
+   },
+   {
+    "question": "Why is the common \"one million immigrants\" figure misleading?",
+    "answer": "The Angel Island Immigration Station Foundation notes that it comes from annual reports counting both arrivals and departures at the port of San Francisco; arrivals were about 550,000, and about 300,000 people were detained on the island."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1882",
+    "event": "Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship."
+   },
+   {
+    "date": "1905",
+    "event": "The War Department transfers 20 acres of Angel Island for an immigration station."
+   },
+   {
+    "date": "1906",
+    "event": "The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for \"paper son\" identities."
+   },
+   {
+    "date": "1910-01-21",
+    "event": "The U.S. Immigration Station on Angel Island opens."
+   },
+   {
+    "date": "1940-08-12",
+    "event": "Fire destroys the administration building, including the women's quarters and many records."
+   },
+   {
+    "date": "1940-11-05",
+    "event": "The station's operations move to the mainland in San Francisco and the site returns to the Army."
+   },
+   {
+    "date": "1970",
+    "event": "State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition."
+   },
+   {
+    "date": "1983",
+    "event": "The restored barracks open to the public as a museum in Angel Island State Park."
+   },
+   {
+    "date": "1997",
+    "event": "The site is designated a National Historic Landmark."
+   },
+   {
+    "date": "2022",
+    "event": "The Angel Island Immigration Museum opens in the restored hospital building."
+   }
+  ],
+  "misconception": {
+   "myth": "Angel Island was simply the \"Ellis Island of the West\", and every Chinese arrival was locked up there for months or years.",
+   "fact": "Unlike Ellis Island, Angel Island was built to enforce exclusion laws aimed at Asian immigrants; yet passenger records from 1913–1919 show many Chinese arrivals were not detained at all, Japanese arrivals were detained at an even higher rate, and Chinese detentions usually ran weeks to months, with only a few lasting years.",
+   "why": "The carved poems and the longest detentions became the most vivid memories of the station, and the Ellis Island nickname hides the racial exclusion that made Angel Island different."
+  },
+  "source_urls": [
+   "https://nps.gov/places/u-s-immigration-station-angel-island.htm",
+   "https://www.aiisf.org/history",
+   "https://aiisf.org/vault/bythenumbers",
+   "https://festival.si.edu/blog/echoes-of-history-chinese-poetry-and-the-angel-island-immigration-station",
+   "https://cambridge.org/core/journals/social-science-history/article/detention-at-angel-island/0C35C746EE668ADBBBBCE10425ADD02C",
+   "https://prologue.blogs.archives.gov/2017/05/24/chinese-exclusion-act-case-files-and-the-uscis-master-index/",
+   "https://prologue.blogs.archives.gov/2020/09/10/navigating-the-law-the-chinese-exclusion-act-of-1882-and-the-trials-of-a-journey-home"
+  ]
+ },
+ {
   "id": "us:articles-of-confederation",
   "title": "Articles of Confederation",
   "aliases": [

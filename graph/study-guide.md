@@ -1263,6 +1263,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why does the census give two different counts of the Black population in 2020?
   **A:** The "Black alone" count (41.1 million, 12.4 percent) includes only people who chose that single race, while "Black alone or in combination" (46.9 million, 14.2 percent) also includes people who reported Black together with one or more other races.
 
+### [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) — Landmark
+
+| Myth | Fact |
+|---|---|
+| Angel Island was simply the "Ellis Island of the West", and every Chinese arrival was locked up there for months or years. | Unlike Ellis Island, Angel Island was built to enforce exclusion laws aimed at Asian immigrants; yet passenger records from 1913–1919 show many Chinese arrivals were not detained at all, Japanese arrivals were detained at an even higher rate, and Chinese detentions usually ran weeks to months, with only a few lasting years. |
+
+**Why it matters:** The carved poems and the longest detentions became the most vivid memories of the station, and the Ellis Island nickname hides the racial exclusion that made Angel Island different.
+
+- **Q:** Why did the U.S. government build its West Coast immigration station on an island, and why did Chinese arrivals face special scrutiny there?
+  **A:** Officials chose Angel Island for its isolation, which made it easier to hold and question arrivals; Chinese immigrants faced special interrogations because the Chinese exclusion laws from 1882 barred laborers, so each applicant had to prove membership in an exempt group or a family tie to a U.S. citizen.
+- **Q:** How did the 1906 San Francisco earthquake help create "paper sons", and how did the government respond?
+  **A:** The earthquake and fire destroyed birth and immigration records, so Chinese residents could claim U.S. birth and overseas children; some sold these slots as false identities. Inspectors answered with long interrogations about family and village details, and mismatched answers could lead to deportation.
+- **Q:** How do we know about detainees' feelings at Angel Island, and why are no women's poems known?
+  **A:** Detainees, mostly rural men from southern China, carved more than 200 documented poems into the barrack walls, rediscovered in 1970. Women were held in the administration building, which burned in 1940, so any writing there was lost.
+- **Q:** Why is the common "one million immigrants" figure misleading?
+  **A:** The Angel Island Immigration Station Foundation notes that it comes from annual reports counting both arrivals and departures at the port of San Francisco; arrivals were about 550,000, and about 300,000 people were detained on the island.
+
 ### [Okies](../articles/society-and-people/okies.md) — Community
 
 | Myth | Fact |

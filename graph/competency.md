@@ -50,14 +50,14 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | United States Constitution, fugitive-slave-act-of-1850, underground-railroad |
+| `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
-| `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 
-…and 45 more.
+…and 46 more.
 
 ## Happenings by era
 
@@ -117,7 +117,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:angel-island-immigration-station` | uso:Landmark |
 
 ## Orphan articles (gap)
 

@@ -956,6 +956,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Unlike Ellis Island, Angel Island was built to enforce exclusion laws aimed at Asian immigrants; yet passenger records from 1913–1919 show many Chinese arrivals were not detained at all, Japanese arrivals were detained at an even higher rate, and Chinese detentions usually ran weeks to months, with only a few lasting years.",
+   "uso:myth": "Angel Island was simply the \"Ellis Island of the West\", and every Chinese arrival was locked up there for months or years.",
+   "uso:why": "The carved poems and the longest detentions became the most vivid memories of the station, and the Ellis Island nickname hides the racial exclusion that made Angel Island different."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the U.S. government build its West Coast immigration station on an island, and why did Chinese arrivals face special scrutiny there?",
+   "uso:answer": "Officials chose Angel Island for its isolation, which made it easier to hold and question arrivals; Chinese immigrants faced special interrogations because the Chinese exclusion laws from 1882 barred laborers, so each applicant had to prove membership in an exempt group or a family tie to a U.S. citizen.",
+   "uso:questionFor": {
+    "@id": "us:angel-island-immigration-station"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1906 San Francisco earthquake help create \"paper sons\", and how did the government respond?",
+   "uso:answer": "The earthquake and fire destroyed birth and immigration records, so Chinese residents could claim U.S. birth and overseas children; some sold these slots as false identities. Inspectors answered with long interrogations about family and village details, and mismatched answers could lead to deportation.",
+   "uso:questionFor": {
+    "@id": "us:angel-island-immigration-station"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do we know about detainees' feelings at Angel Island, and why are no women's poems known?",
+   "uso:answer": "Detainees, mostly rural men from southern China, carved more than 200 documented poems into the barrack walls, rediscovered in 1970. Women were held in the administration building, which burned in 1940, so any writing there was lost.",
+   "uso:questionFor": {
+    "@id": "us:angel-island-immigration-station"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the common \"one million immigrants\" figure misleading?",
+   "uso:answer": "The Angel Island Immigration Station Foundation notes that it comes from annual reports counting both arrivals and departures at the port of San Francisco; arrivals were about 550,000, and about 300,000 people were detained on the island.",
+   "uso:questionFor": {
+    "@id": "us:angel-island-immigration-station"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1882"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Angel Island Immigration Museum opens in the restored hospital building.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2022"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The War Department transfers 20 acres of Angel Island for an immigration station.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1905"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for \"paper son\" identities.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Immigration Station on Angel Island opens.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-01-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fire destroys the administration building, including the women's quarters and many records.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-08-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The station's operations move to the mainland in San Francisco and the site returns to the Army.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-11-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The restored barracks open to the public as a museum in Angel Island State Park.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1983"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The site is designated a National Historic Landmark.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1997"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/articles-of-confederation/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Despite having no power to tax, the Confederation Congress saw the Revolutionary War to its end with the 1783 Treaty of Paris, set up departments of Foreign Affairs, War, Marine and Treasury, and passed the Land Ordinances of 1784 and 1785 and the Northwest Ordinance of 1787, which created a process for admitting new states on equal terms with the original thirteen.",
@@ -10910,6 +11043,104 @@
     "@id": "https://www.mountvernon.org/george-washington/the-revolutionary-war/african-americans-in-the-revolutionary-war/"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "U.S. Immigration Station, Angel Island",
+   "schema:url": {
+    "@id": "https://nps.gov/places/u-s-immigration-station-angel-island.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Angel Island Immigration Station Foundation",
+   "dcterms:title": "History of the Angel Island Immigration Station",
+   "schema:url": {
+    "@id": "https://www.aiisf.org/history"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Angel Island Immigration Station Foundation",
+   "dcterms:title": "Vault #8: By the Numbers",
+   "schema:url": {
+    "@id": "https://aiisf.org/vault/bythenumbers"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Smithsonian Center for Folklife and Cultural Heritage (Ying Diao, 2017)",
+   "dcterms:title": "Echoes of History: Chinese Poetry and the Angel Island Immigration Station",
+   "schema:url": {
+    "@id": "https://festival.si.edu/blog/echoes-of-history-chinese-poetry-and-the-angel-island-immigration-station"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Robert Barde and Gustavo J. Bobonis, Social Science History 30, no. 1 (2006), Cambridge University Press",
+   "dcterms:title": "Detention at Angel Island: First Empirical Evidence",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/journals/social-science-history/article/detention-at-angel-island/0C35C746EE668ADBBBBCE10425ADD02C"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives, Pieces of History blog (Zack Wilske, USCIS, 2017)",
+   "dcterms:title": "Chinese Exclusion Act Case Files and the USCIS Master Index",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2017/05/24/chinese-exclusion-act-case-files-and-the-uscis-master-index/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives, Pieces of History blog (Andrew Salyer, 2020)",
+   "dcterms:title": "Navigating the Law: The Chinese Exclusion Act of 1882 and the Trials of a Journey Home",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2020/09/10/navigating-the-law-the-chinese-exclusion-act-of-1882-and-the-trials-of-a-journey-home"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s1",
@@ -25480,6 +25711,140 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:angel-island-immigration-station",
+   "@type": "uso:Landmark",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s7"
+    }
+   ],
+   "rdfs:label": "Angel Island Immigration Station",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1940-11-05"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1910-01-21"
+   },
+   "skos:altLabel": [
+    "Angel Island Immigration Museum",
+    "U.S. Immigration Station Angel Island"
+   ],
+   "skos:broader": {
+    "@id": "us:immigration-to-the-united-states"
+   },
+   "skos:definition": "The federal immigration station on Angel Island in San Francisco Bay that from 1910 to 1940 inspected, interrogated and often detained arrivals from across the Pacific — above all Chinese immigrants under the Chinese exclusion laws — and is now a National Historic Landmark known for the poems detainees carved into its barrack walls.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Angel Island Immigration Station",
+   "skos:related": [
+    {
+     "@id": "us:1906-san-francisco-earthquake"
+    },
+    {
+     "@id": "us:california-gold-rush"
+    },
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:chinese-exclusion-act"
+    },
+    {
+     "@id": "us:ellis-island"
+    },
+    {
+     "@id": "us:japanese-americans"
+    },
+    {
+     "@id": "us:magnuson-act"
+    },
+    {
+     "@id": "us:paper-sons"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:japanese-americans"
+    }
+   ],
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/angel-island-immigration-station.md",
+   "uso:influencedBy": {
+    "@id": "us:chinese-exclusion-act"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:california"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:chinese-exclusion-act"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/timeline/9"
     }
    ]
   },

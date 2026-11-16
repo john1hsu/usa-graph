@@ -595,6 +595,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1882 | Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -700,6 +701,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1904-12-06 | Theodore Roosevelt announces the corollary in his annual message to Congress. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1904-12-09 | The season ends after 105 starts adding up to under an hour in the air. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1905 | The War Department transfers 20 acres of Angel Island for an immigration station. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1905-01-20 | A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-04-01 | With Senate action on a treaty blocked, Roosevelt puts a customs receivership into effect by a modus vivendi. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-06-23 | Orville makes the first flight of the rebuilt Wright Flyer III. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -707,6 +709,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905-10-05 | Wilbur flies about 24 miles in some 39 minutes, a world record. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-11-11 | The last case of yellow fever in Panama City is reported. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1906-03-13 | Dies at her home in Rochester; she is buried in Mount Hope Cemetery. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1906-04-18 | A major earthquake on the San Andreas Fault strikes San Francisco. — [California](../articles/states-and-territories/california.md) |
@@ -726,6 +729,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1910-01-21 – 1940-11-05 | **[Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md)** (Landmark) |
+| 1910-01-21 | The U.S. Immigration Station on Angel Island opens. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1910-02-16 | Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-03 – 1916 | **[Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md)** (Organization) |
 | 1910-03-26 | Orville makes Montgomery's first powered flight; training of the first students follows. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
@@ -878,7 +883,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1940-01-13 | The State Department tells Panama that a funding bill will again lack equal hiring for Panamanians, with an amending bill promised. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1940-07-01 | Excavation begins for a wider third set of locks near the existing ones. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1940-07-01 | Excavation begins, with dredging at the Pacific end of the channel to the new Miraflores lock site. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
+| 1940-08-12 | Fire destroys the administration building, including the women's quarters and many records. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1940-09-27 | Japan signs the Tripartite Pact with Germany and Italy. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1940-11-05 | The station's operations move to the mainland in San Francisco and the site returns to the Army. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -1034,6 +1041,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1970 | Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1970 | State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -1056,6 +1064,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -1073,6 +1082,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1165,6 +1175,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2021-08-26 | A suicide bombing claimed by the Islamic State affiliate at a Kabul airport gate kills 13 U.S. service members and dozens of Afghans. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-08-30 | The last U.S. forces leave Kabul, ending the U.S. military and diplomatic withdrawal. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2022 | Reclamation contractors begin a full restoration; the figures are sandblasted and repatinated and the old star map is demolished to install drainage. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 2022 | The Angel Island Immigration Museum opens in the restored hospital building. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 2022-01-05 | Louisiana Governor John Bel Edwards grants Plessy a posthumous pardon. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 2022-12-13 | The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |

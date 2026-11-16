@@ -15,8 +15,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
 | 2.45 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.30 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.21 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
+| 2.20 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.17 | `us:jim-crow-laws` | `us:obergefell-v-hodges` | `us:equal-protection`, `us:fourteenth-amendment`, `us:loving-v-virginia` |
 | 2.17 | `us:jim-crow-laws` | `us:reynolds-v-sims` | `us:alabama-constitution-of-1901`, `us:equal-protection`, `us:fourteenth-amendment` |
