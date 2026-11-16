@@ -364,6 +364,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did bebop change the role of jazz compared with the swing era?
   **A:** Swing big bands played largely for dancing, while bebop, developed in Harlem after-hours sessions in the early 1940s, used small groups, fast tempos and improvised solos over chord changes, and was meant mainly for listening.
 
+### [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) — Tradition
+
+| Myth | Fact |
+|---|---|
+| Americans have celebrated Thanksgiving every year since the Pilgrims and their friendly Indian neighbors held the "first Thanksgiving" in 1621. | The 1621 event was a three-day harvest gathering that also reinforced a new diplomatic alliance between the Wampanoag and the English; neither surviving English account calls it a thanksgiving. The national holiday descends from later official proclamations, above all Lincoln's in 1863, and the familiar story of a friendly shared meal took hold only in the mid-1800s. |
+
+**Why it matters:** The storybook version leaves out the Wampanoag's own reasons for the alliance, the epidemics that had devastated their communities, and the colonization and violence that followed — which is why many Native people mark the day as one of mourning.
+
+- **Q:** Why did the Wampanoag ally with the Plymouth colonists in 1621, according to the Smithsonian's account?
+  **A:** Epidemics between 1616 and 1619 had killed up to 90 percent of New England's Native population, and the weakened Wampanoag also needed help against the rival Narragansett, so they agreed to a mutual-defense treaty; the alliance was driven by diplomacy more than friendship.
+- **Q:** How did Thanksgiving become a fixed annual national holiday rather than an occasional proclamation?
+  **A:** Sarah Josepha Hale campaigned for decades for a national day; Lincoln's 1863 proclamation set the last Thursday of November, and presidents kept proclaiming the day until Roosevelt's 1939 change caused confusion, after which Congress in 1941 fixed it by law on the fourth Thursday of November.
+- **Q:** Why did Congress choose the "fourth" rather than the "last" Thursday of November in 1941?
+  **A:** The Senate amended the House resolution so that the date would stay consistent in years when November has five Thursdays, the problem that had prompted the 1939 change.
+
 ### [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) — Work
 
 | Myth | Fact |

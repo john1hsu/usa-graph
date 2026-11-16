@@ -13,8 +13,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1507 | The mapmaker Martin Waldseemüller labels the Western Hemisphere's landmasses "America" after Amerigo Vespucci. — [United States](../articles/states-and-territories/united-states.md) |
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1621 | Wampanoag leader Ousamequin (Massasoit) and about 90 men join the Plymouth colonists for a three-day harvest gathering, probably in late September or early October. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -171,6 +173,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-09-24 | The Judiciary Act of 1789 organizes the Court with a chief justice and five associate justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1789-09-25 | Congress proposes twelve amendments, including the article containing the Due Process Clause. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1789-09-25 | The First Congress proposes twelve amendments to the states. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-10-03 | At Congress's request, George Washington proclaims Thursday, November 26, 1789, a day of public thanksgiving and prayer. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1790 | Becomes secretary of state under George Washington; resigns in 1793. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1790 | The Residence Act fixes the permanent seat of government on the Potomac River; Congress moves to Washington in 1800. — [United States](../articles/states-and-territories/united-states.md) |
 | 1790-02-02 | The Court first convenes in the Exchange Building in New York City, a day late because some justices could not arrive in time. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -266,6 +269,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1826-12-23 | A U.S.–Hawaiian treaty indirectly recognizes the kingdom's independence. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1827 | Samuel E. Cornish and John B. Russwurm found Freedom's Journal in New York. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1827 | Sarah Josepha Hale, editing the Ladies' Magazine in Boston, begins writing in favor of a national Thanksgiving. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1827 | The Cherokee Nation adopts a written constitution modeled on the U.S. Constitution. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1827 | The Cherokee Nation adopts a written constitution; Georgia begins extending state jurisdiction over Cherokee territory. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1827-07-04 | New York's emancipation law takes effect. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
@@ -411,6 +415,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-08 | The U.S. Army begins forcing Navajo people on the Long Walk to Bosque Redondo, where they are held until 1866. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1863-08-10 | Meets President Lincoln to protest unequal pay and treatment of Black soldiers. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1863-08-26 | Lincoln's public letter to James C. Conkling celebrates the reopened river and credits Black soldiers. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1863-10-03 | Abraham Lincoln proclaims the last Thursday of November a national day of thanksgiving, after a letter from Hale dated September 28. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1863-11-19 | Delivers the Gettysburg Address. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-02-09 | Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -469,6 +474,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
 | 1870 | California's Native population has fallen below 30,000; the foreign miners' tax is voided. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1870 | Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1870 | Congress makes Thanksgiving a holiday in the District of Columbia, leaving its date to the President. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1870 | The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
@@ -795,6 +801,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1939 | Franklin D. Roosevelt moves Thanksgiving to the second-to-last Thursday of November; states split over which date to observe. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1939-02-24 | The canal report later adopted as the plan for the work (House Document No. 210) is dated. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
@@ -822,6 +829,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-12-07 | On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1941-12-08 | Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-11 | Germany declares war on the United States. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1941-12-26 | Roosevelt signs H.J. Res. 41, fixing Thanksgiving on the fourth Thursday of November from 1942. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
@@ -945,6 +953,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1970 | Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |

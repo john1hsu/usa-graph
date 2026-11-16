@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:hoover-dam` | 2 | lake-mead, pueblo-grande-de-nevada |
 | `us:lattimer-massacre` | 2 | anthracite-coal-strike-of-1902, united-mine-workers-of-america |
 
-…and 38 more.
+…and 40 more.
 
 ## Happenings by era
 
@@ -182,6 +182,8 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
+| `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
+| `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 | `us:united-states-constitution` | `us:united-states` |

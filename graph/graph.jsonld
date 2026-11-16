@@ -17428,6 +17428,90 @@
    "uso:sourceType": "primary"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Jessie Kratz, Pieces of History, U.S. National Archives (2023)",
+   "dcterms:title": "Thanksgiving as a Federal Holiday",
+   "schema:url": {
+    "@id": "https://prologue.blogs.archives.gov/2023/11/20/thanksgiving-as-a-federal-holiday/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Washington Papers, University of Virginia",
+   "dcterms:title": "Thanksgiving Proclamation",
+   "schema:url": {
+    "@id": "https://washingtonpapers.org/documents/thanksgiving-proclamation/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, Lincoln Home National Historic Site",
+   "dcterms:title": "Lincoln and Thanksgiving",
+   "schema:url": {
+    "@id": "https://www.nps.gov/liho/learn/historyculture/lincoln-and-thanksgiving.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "David Kindy, Smithsonian Torch, Smithsonian Institution (2021)",
+   "dcterms:title": "How to Tell the Thanksgiving Story on Its 400th Anniversary",
+   "schema:url": {
+    "@id": "https://torch.si.edu/2021/11/how-to-tell-the-thanksgiving-story-on-its-400th-anniversary"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Smithsonian National Museum of the American Indian, Native Knowledge 360°",
+   "dcterms:title": "Rethinking Thanksgiving",
+   "schema:url": {
+    "@id": "https://b.asp.si.edu/nk360/informational/rethinking-thanksgiving"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Pilgrim Hall Museum, Plymouth, Massachusetts",
+   "dcterms:title": "National Day of Mourning",
+   "schema:url": {
+    "@id": "https://www.pilgrimhall.org/thanksgiving-national-day-of-mourning/national-day-of-mourning/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/the-west/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -20024,6 +20108,121 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1863-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1621 event was a three-day harvest gathering that also reinforced a new diplomatic alliance between the Wampanoag and the English; neither surviving English account calls it a thanksgiving. The national holiday descends from later official proclamations, above all Lincoln's in 1863, and the familiar story of a friendly shared meal took hold only in the mid-1800s.",
+   "uso:myth": "Americans have celebrated Thanksgiving every year since the Pilgrims and their friendly Indian neighbors held the \"first Thanksgiving\" in 1621.",
+   "uso:why": "The storybook version leaves out the Wampanoag's own reasons for the alliance, the epidemics that had devastated their communities, and the colonization and violence that followed — which is why many Native people mark the day as one of mourning."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Wampanoag ally with the Plymouth colonists in 1621, according to the Smithsonian's account?",
+   "uso:answer": "Epidemics between 1616 and 1619 had killed up to 90 percent of New England's Native population, and the weakened Wampanoag also needed help against the rival Narragansett, so they agreed to a mutual-defense treaty; the alliance was driven by diplomacy more than friendship.",
+   "uso:questionFor": {
+    "@id": "us:thanksgiving"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Thanksgiving become a fixed annual national holiday rather than an occasional proclamation?",
+   "uso:answer": "Sarah Josepha Hale campaigned for decades for a national day; Lincoln's 1863 proclamation set the last Thursday of November, and presidents kept proclaiming the day until Roosevelt's 1939 change caused confusion, after which Congress in 1941 fixed it by law on the fourth Thursday of November.",
+   "uso:questionFor": {
+    "@id": "us:thanksgiving"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress choose the \"fourth\" rather than the \"last\" Thursday of November in 1941?",
+   "uso:answer": "The Senate amended the House resolution so that the date would stay consistent in years when November has five Thursdays, the problem that had prompted the 1939 change.",
+   "uso:questionFor": {
+    "@id": "us:thanksgiving"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1616"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wampanoag leader Ousamequin (Massasoit) and about 90 men join the Plymouth colonists for a three-day harvest gathering, probably in late September or early October.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1621"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Congress's request, George Washington proclaims Thursday, November 26, 1789, a day of public thanksgiving and prayer.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-10-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sarah Josepha Hale, editing the Ladies' Magazine in Boston, begins writing in favor of a national Thanksgiving.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1827"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Abraham Lincoln proclaims the last Thursday of November a national day of thanksgiving, after a letter from Hale dated September 28.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1863-10-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress makes Thanksgiving a holiday in the District of Columbia, leaving its date to the President.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt moves Thanksgiving to the second-to-last Thursday of November; states split over which date to observe.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1939"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs H.J. Res. 41, fixing Thanksgiving on the fourth Thursday of November from 1942.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
    }
   },
   {
@@ -32569,6 +32768,122 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:thanksgiving",
+   "@type": "uso:Tradition",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s6"
+    }
+   ],
+   "rdfs:label": "Thanksgiving",
+   "skos:altLabel": "Thanksgiving Day",
+   "skos:broader": {
+    "@id": "us:federal-holidays-in-the-united-states"
+   },
+   "skos:definition": "A national holiday of the United States, observed on the fourth Thursday of November, that grew out of colonial and presidential days of thanksgiving, became an annual national observance with Abraham Lincoln's 1863 proclamation, and was fixed in federal law in 1941; its popular link to the 1621 Plymouth harvest gathering is remembered very differently by many Native people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts"
+   },
+   "skos:prefLabel": "Thanksgiving",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:first-thanksgiving-myth"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:national-day-of-mourning"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:plymouth-colony"
+    },
+    {
+     "@id": "us:wampanoag"
+    }
+   ],
+   "uso:domain": "culture-and-arts",
+   "uso:establishedBy": [
+    {
+     "@id": "us:thanksgiving-day-resolution-of-1941"
+    },
+    {
+     "@id": "us:thanksgiving-proclamation-of-1863"
+    }
+   ],
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/culture-and-arts/thanksgiving.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:sarah-josepha-hale"
+    },
+    {
+     "@id": "us:thanksgiving-proclamation-of-1789"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/thanksgiving/timeline/9"
     }
    ]
   },
