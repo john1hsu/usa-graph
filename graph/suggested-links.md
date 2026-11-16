@@ -4,9 +4,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.21 | `us:abolitionism` | `us:pennsylvania` | `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers`, `us:underground-railroad` |
 | 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
 | 3.66 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress`, `us:slavery-in-the-united-states` |
+| 3.40 | `us:abolitionism` | `us:pennsylvania` | `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers`, `us:underground-railroad` |
 | 3.24 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.83 | `us:e-pluribus-unum` | `us:treaty-of-paris-1783` | `us:benjamin-franklin`, `us:john-adams`, `us:second-continental-congress`, `us:united-states` |
 | 2.71 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
@@ -15,6 +15,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
 | 2.45 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
+| 2.23 | `us:underground-railroad` | `us:united-states` | `us:canada`, `us:mexico`, `us:pennsylvania`, `us:slavery-in-the-united-states` |
 | 2.20 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
 | 2.19 | `us:gilded-age` | `us:the-west` | `us:chinese-exclusion-act`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:united-states` |
 | 2.17 | `us:george-washington` | `us:pennsylvania` | `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.11 | `us:california` | `us:hoover-dam` | `us:colorado-river`, `us:los-angeles`, `us:the-west` |
 | 2.11 | `us:equal-protection` | `us:supreme-court-of-the-united-states` | `us:brown-v-board-of-education`, `us:due-process`, `us:fourteenth-amendment`, `us:obergefell-v-hodges`, `us:plessy-v-ferguson` |
 | 2.08 | `us:constitutional-convention` | `us:liberty-bell` | `us:declaration-of-independence`, `us:independence-hall`, `us:pennsylvania` |
-| 1.99 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:american-civil-war`, `us:census-and-apportionment`, `us:dred-scott-v-sandford`, `us:thirteenth-amendment` |

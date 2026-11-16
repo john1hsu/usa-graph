@@ -199,6 +199,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1792-04-05 | George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1792-04-14 | Washington signs a replacement act giving the House 105 seats under Jefferson's method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1793 – 1865 | **[Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md)** (Movement) |
+| 1793 | Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -299,6 +301,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1831 | Tice Davids crosses the Ohio River from Kentucky; folklore says his enslaver claimed he had vanished on an underground road, one of several legends about the name. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1831 | William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1831-03-05 | The Cherokee Nation's motion for an injunction against Georgia is set for hearing before the Supreme Court; Georgia does not appear. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1831-03-18 | **[Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md)** (CourtCase) |
@@ -322,6 +325,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836-05-04 | Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1837 | A mob in Illinois kills the abolitionist editor Elijah Lovejoy. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1837 | Robert Purvis brings a vigilance committee to Philadelphia to aid freedom seekers. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1837-03-03 | Congress adds two more seats, bringing the Court to nine. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -337,6 +341,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1840 | The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1843-06-01 | Takes the name Sojourner Truth and begins travelling to preach and speak against slavery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -363,6 +368,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1849 | About 25,000 emigrants travel overland to California, the first great year of the rush. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1849 | Forty-eight delegates in Monterey write a state constitution, published in English and Spanish, that limits voting to white men. — [California](../articles/states-and-territories/california.md) |
+| 1849-03-23 | Henry "Box" Brown is shipped in a crate by rail from Richmond to Philadelphia, a 27-hour journey. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1849-11-13 | California voters ratify a state constitution, paving the way for statehood. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1850 | Congress passes a Fugitive Slave Act that denies accused people a jury trial. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -377,15 +383,18 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850-09-09 | **[California](../articles/states-and-territories/california.md)** (State) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
+| 1850-09-18 | The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1851 | Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1851-09-11 | At Christiana, Pennsylvania, Black residents resist a Maryland slaveholder's attempt to recapture freedom seekers; the slaveholder is killed. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1851-11-18 | Illinois College professor Jonathan Baldwin Turner proposes state industrial universities at a farmers' convention in Putnam County, Illinois. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1852 | A state fugitive slave law makes it illegal for enslaved people to flee within California. — [California](../articles/states-and-territories/california.md) |
 | 1852 | About 67,000 people arrive in California, 20,000 of them from China, the peak year; a new foreign miners' tax falls mainly on Chinese miners. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1852-03-22 | The Missouri Supreme Court reverses, rejecting the principle of once free, always free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1852-07-08 | The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres. — [California](../articles/states-and-territories/california.md) |
+| 1854 | Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
 | 1854-05 | In the federal suit against John F. A. Sanford, Judge Robert W. Wells rules that Missouri law governs and finds for Sanford. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
@@ -471,6 +480,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-11-08 | Reelected president. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1864-11-29 | Colorado militia under John Chivington kill about 200 Cheyenne men, women and children at Sand Creek. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1865 | The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1865 | The end of the Civil War closes the era of escape from slavery in the United States. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -544,6 +554,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1871-12-18 | Park bills S. 392 and H.R. 764 are introduced in the Senate and House. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1871-12-18 | Senator Pomeroy introduces S. 392 to set the Yellowstone region apart as a park. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1872 | Susan B. Anthony is arrested for voting in Rochester, New York, and Sojourner Truth is turned away from the polls in Battle Creek, Michigan. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1872 | William Still publishes The Underground Railroad, based on his Philadelphia vigilance committee records. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1872 | Yellowstone is established, beginning the reservation of western lands as parks. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1872-01-30 | The Senate passes S. 392. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-02-20 | Hayden dates his report on the season's work to Interior Secretary Delano. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
@@ -664,6 +675,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1897-09-11 | Members of Hui Aloha ʻĀina sign petitions against annexation; the drive gathers 21,269 Native Hawaiian signatures. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898 | Louisiana's new constitution mandates segregated schools and restricts Black men's voting. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1898 | United States v. Wong Kim Ark applies birthright citizenship to a U.S.-born son of Chinese parents. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1898 | Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1898-02-01 | Martin and his deputies go on trial for murder at the Luzerne County Courthouse in Wilkes-Barre. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-03-02 | The jury acquits all the defendants. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1898-07-01 | Leads the Rough Riders in the fighting for the San Juan Heights in Cuba, alongside Black regulars of the 9th and 10th Cavalry. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -1005,6 +1017,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-07-04 | The 50-star flag becomes official after Hawaii's admission as a state. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1961 | Larry Gara's The Liberty Line challenges the legend and recentres freedom seekers themselves. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1961-09 | Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1103,6 +1116,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1998-07-21 | The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -1162,6 +1176,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2014-11 | A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2015 | Eric Foner's Gateway to Freedom documents New York's interracial vigilance committees. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01 | The Supreme Court agrees to hear the four consolidated cases. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2015-01-01 | ISAF's combat mission having ended in late 2014, NATO's smaller train-and-advise Resolute Support mission begins. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |

@@ -14527,6 +14527,207 @@
   ]
  },
  {
+  "id": "us:underground-railroad",
+  "title": "Underground Railroad",
+  "aliases": [
+   "Underground Rail Road",
+   "UGRR",
+   "Underground Road"
+  ],
+  "type": "Movement",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/civil-war-and-reconstruction/underground-railroad.md",
+  "created": "2026-11-16",
+  "summary": "The resistance to slavery through escape and flight, from the late eighteenth century through the end of the Civil War, in which enslaved African Americans freed themselves, often with help from free and enslaved Black people and interracial local networks, and reached free states, Canada, Mexico and other refuges.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:resistance-to-slavery"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abolitionism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fugitive-slave-act-of-1850"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harriet-tubman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frederick-douglass"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-still"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-box-brown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:prigg-v-pennsylvania"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:christiana-resistance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:canada"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mexico"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pennsylvania"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:quakers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-underground-railroad-network-to-freedom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad-quilt-code-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:instanceOf",
+    "object": "us:resistance-to-slavery",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:african-americans",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:fugitive-slave-act-of-1850",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:canada",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1793",
+  "end": "1865",
+  "review": [
+   {
+    "question": "How did the Fugitive Slave Act of 1850 change the Underground Railroad?",
+    "answer": "By commanding bystanders to help catch freedom seekers, denying alleged fugitives the right to testify and fining or jailing anyone who helped them, it made even the free states unsafe, so aid became more deliberate and organized and more freedom seekers pushed on to Canada."
+   },
+   {
+    "question": "Why did Larry Gara's 1961 book change how historians understood the Underground Railroad?",
+    "answer": "Gara argued that Siebert's account rested on embellished memories and that freedom seekers mostly crossed the South on their own, so he shifted the focus from white \"conductors\" to the courage of enslaved people and the free Black communities who helped them."
+   },
+   {
+    "question": "Why do some historians think most runaways never used the Underground Railroad?",
+    "answer": "John Hope Franklin and Loren Schweninger's study of runaway advertisements found that most runaways hid in nearby woods or towns and returned within days or weeks, so only a small portion reached organized networks in the North."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1793",
+    "event": "Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states."
+   },
+   {
+    "date": "1831",
+    "event": "Tice Davids crosses the Ohio River from Kentucky; folklore says his enslaver claimed he had vanished on an underground road, one of several legends about the name."
+   },
+   {
+    "date": "1837",
+    "event": "Robert Purvis brings a vigilance committee to Philadelphia to aid freedom seekers."
+   },
+   {
+    "date": "1842",
+    "event": "Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator."
+   },
+   {
+    "date": "1849-03-23",
+    "event": "Henry \"Box\" Brown is shipped in a crate by rail from Richmond to Philadelphia, a 27-hour journey."
+   },
+   {
+    "date": "1850-09-18",
+    "event": "The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them."
+   },
+   {
+    "date": "1851-09-11",
+    "event": "At Christiana, Pennsylvania, Black residents resist a Maryland slaveholder's attempt to recapture freedom seekers; the slaveholder is killed."
+   },
+   {
+    "date": "1854",
+    "event": "Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law."
+   },
+   {
+    "date": "1865",
+    "event": "The end of the Civil War closes the era of escape from slavery in the United States."
+   },
+   {
+    "date": "1872",
+    "event": "William Still publishes The Underground Railroad, based on his Philadelphia vigilance committee records."
+   },
+   {
+    "date": "1898",
+    "event": "Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account."
+   },
+   {
+    "date": "1961",
+    "event": "Larry Gara's The Liberty Line challenges the legend and recentres freedom seekers themselves."
+   },
+   {
+    "date": "1998-07-21",
+    "event": "The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program."
+   },
+   {
+    "date": "2015",
+    "event": "Eric Foner's Gateway to Freedom documents New York's interracial vigilance committees."
+   }
+  ],
+  "misconception": {
+   "myth": "The Underground Railroad was a single, centrally run system of \"stations\" and \"conductors\" operated mainly by white abolitionists who carried most escapees to freedom.",
+   "fact": "Historians describe it as an interlocking series of local networks; most flight was started by enslaved people themselves, many escaped with no help at all, free and enslaved Black people were central helpers, and studies of runaway advertisements suggest only a small share of runaways used organized aid.",
+   "why": "Abolitionists and enslavers both had reasons to exaggerate its organization, and late-nineteenth-century reminiscences and Wilbur Siebert's 1898 route maps fixed that image in popular memory."
+  },
+  "source_urls": [
+   "https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm",
+   "https://encyclopediavirginia.org/entries/underground-railroad-in-virginia/",
+   "https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/underground-railroad-historiography-crew/",
+   "https://philadelphiaencyclopedia.org/essays/underground-railroad/",
+   "https://avalon.law.yale.edu/19th_century/fugitive.asp",
+   "https://www.govinfo.gov/content/pkg/PLAW-105publ203/html/PLAW-105publ203.htm"
+  ]
+ },
+ {
   "id": "us:united-states",
   "title": "United States",
   "aliases": [

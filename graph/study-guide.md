@@ -68,6 +68,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the amendment's exception "as a punishment for crime" significant?
   **A:** Southern states used criminal convictions to lease mostly Black prisoners to private companies, as Georgia did from 1868 to 1908, and scholars still debate whether the framers meant the clause to permit that kind of forced labor.
 
+### [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| The Underground Railroad was a single, centrally run system of "stations" and "conductors" operated mainly by white abolitionists who carried most escapees to freedom. | Historians describe it as an interlocking series of local networks; most flight was started by enslaved people themselves, many escaped with no help at all, free and enslaved Black people were central helpers, and studies of runaway advertisements suggest only a small share of runaways used organized aid. |
+
+**Why it matters:** Abolitionists and enslavers both had reasons to exaggerate its organization, and late-nineteenth-century reminiscences and Wilbur Siebert's 1898 route maps fixed that image in popular memory.
+
+- **Q:** How did the Fugitive Slave Act of 1850 change the Underground Railroad?
+  **A:** By commanding bystanders to help catch freedom seekers, denying alleged fugitives the right to testify and fining or jailing anyone who helped them, it made even the free states unsafe, so aid became more deliberate and organized and more freedom seekers pushed on to Canada.
+- **Q:** Why did Larry Gara's 1961 book change how historians understood the Underground Railroad?
+  **A:** Gara argued that Siebert's account rested on embellished memories and that freedom seekers mostly crossed the South on their own, so he shifted the focus from white "conductors" to the courage of enslaved people and the free Black communities who helped them.
+- **Q:** Why do some historians think most runaways never used the Underground Railroad?
+  **A:** John Hope Franklin and Loren Schweninger's study of runaway advertisements found that most runaways hid in nearby woods or towns and returned within days or weeks, so only a small portion reached organized networks in the North.
+
 ## cold-war-and-civil-rights
 
 ### [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) — CourtCase

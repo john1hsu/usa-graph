@@ -20419,6 +20419,90 @@
    "uso:sourceType": "museum"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service, National Underground Railroad Network to Freedom",
+   "dcterms:title": "What is the Underground Railroad?",
+   "schema:url": {
+    "@id": "https://www.nps.gov/subjects/undergroundrailroad/what-is-the-underground-railroad.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia, Virginia Humanities",
+   "dcterms:title": "Underground Railroad in Virginia (by Cassandra Newby-Alexander)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/underground-railroad-in-virginia/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "House Divided Project, Dickinson College",
+   "dcterms:title": "Underground Railroad Historiography (by Spencer Crew)",
+   "schema:url": {
+    "@id": "https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/underground-railroad-historiography-crew/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Encyclopedia of Greater Philadelphia, Rutgers University–Camden",
+   "dcterms:title": "Underground Railroad (by Beverly C. Tomek)",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/underground-railroad/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "Fugitive Slave Act 1850",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/19th_century/fugitive.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "Public Law 105-203: National Underground Railroad Network to Freedom Act of 1998",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/PLAW-105publ203/html/PLAW-105publ203.htm"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/united-states-congress/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -23510,6 +23594,166 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1978"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Historians describe it as an interlocking series of local networks; most flight was started by enslaved people themselves, many escaped with no help at all, free and enslaved Black people were central helpers, and studies of runaway advertisements suggest only a small share of runaways used organized aid.",
+   "uso:myth": "The Underground Railroad was a single, centrally run system of \"stations\" and \"conductors\" operated mainly by white abolitionists who carried most escapees to freedom.",
+   "uso:why": "Abolitionists and enslavers both had reasons to exaggerate its organization, and late-nineteenth-century reminiscences and Wilbur Siebert's 1898 route maps fixed that image in popular memory."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Fugitive Slave Act of 1850 change the Underground Railroad?",
+   "uso:answer": "By commanding bystanders to help catch freedom seekers, denying alleged fugitives the right to testify and fining or jailing anyone who helped them, it made even the free states unsafe, so aid became more deliberate and organized and more freedom seekers pushed on to Canada.",
+   "uso:questionFor": {
+    "@id": "us:underground-railroad"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Larry Gara's 1961 book change how historians understood the Underground Railroad?",
+   "uso:answer": "Gara argued that Siebert's account rested on embellished memories and that freedom seekers mostly crossed the South on their own, so he shifted the focus from white \"conductors\" to the courage of enslaved people and the free Black communities who helped them.",
+   "uso:questionFor": {
+    "@id": "us:underground-railroad"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some historians think most runaways never used the Underground Railroad?",
+   "uso:answer": "John Hope Franklin and Loren Schweninger's study of runaway advertisements found that most runaways hid in nearby woods or towns and returned within days or weeks, so only a small portion reached organized networks in the North.",
+   "uso:questionFor": {
+    "@id": "us:underground-railroad"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1793"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Still publishes The Underground Railroad, based on his Philadelphia vigilance committee records.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1872"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Wilbur H. Siebert publishes The Underground Railroad from Slavery to Freedom, long the standard account.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1898"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Larry Gara's The Liberty Line challenges the legend and recentres freedom seekers themselves.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1961"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1998-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eric Foner's Gateway to Freedom documents New York's interracial vigilance committees.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2015"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tice Davids crosses the Ohio River from Kentucky; folklore says his enslaver claimed he had vanished on an underground road, one of several legends about the name.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1831"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Robert Purvis brings a vigilance committee to Philadelphia to aid freedom seekers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1837"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1842"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Henry \"Box\" Brown is shipped in a crate by rail from Richmond to Philadelphia, a 27-hour journey.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1849-03-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1850-09-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At Christiana, Pennsylvania, Black residents resist a Maryland slaveholder's attempt to recapture freedom seekers; the slaveholder is killed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1851-09-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1854"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The end of the Civil War closes the era of escape from slavery in the United States.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1865"
    }
   },
   {
@@ -37544,6 +37788,174 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/tribal-sovereignty/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:underground-railroad",
+   "@type": "uso:Movement",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/underground-railroad/s6"
+    }
+   ],
+   "rdfs:label": "Underground Railroad",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1865"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1793"
+   },
+   "skos:altLabel": [
+    "UGRR",
+    "Underground Rail Road",
+    "Underground Road"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:african-american-history"
+    },
+    {
+     "@id": "us:resistance-to-slavery"
+    }
+   ],
+   "skos:definition": "The resistance to slavery through escape and flight, from the late eighteenth century through the end of the Civil War, in which enslaved African Americans freed themselves, often with help from free and enslaved Black people and interracial local networks, and reached free states, Canada, Mexico and other refuges.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Underground Railroad",
+   "skos:related": [
+    {
+     "@id": "us:abolitionism"
+    },
+    {
+     "@id": "us:canada"
+    },
+    {
+     "@id": "us:christiana-resistance"
+    },
+    {
+     "@id": "us:frederick-douglass"
+    },
+    {
+     "@id": "us:fugitive-slave-act-of-1850"
+    },
+    {
+     "@id": "us:harriet-tubman"
+    },
+    {
+     "@id": "us:henry-box-brown"
+    },
+    {
+     "@id": "us:mexico"
+    },
+    {
+     "@id": "us:national-underground-railroad-network-to-freedom"
+    },
+    {
+     "@id": "us:pennsylvania"
+    },
+    {
+     "@id": "us:prigg-v-pennsylvania"
+    },
+    {
+     "@id": "us:quakers"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:underground-railroad-quilt-code-myth"
+    },
+    {
+     "@id": "us:william-still"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:canada"
+   },
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/civil-war-and-reconstruction/underground-railroad.md",
+   "uso:influencedBy": {
+    "@id": "us:fugitive-slave-act-of-1850"
+   },
+   "uso:instanceOf": {
+    "@id": "us:resistance-to-slavery"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:african-americans"
+   },
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/underground-railroad/timeline/9"
     }
    ]
   },
