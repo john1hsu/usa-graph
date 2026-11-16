@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 | `us:gilded-age` | 2 | labor-movement, populist-movement |
 
-…and 46 more.
+…and 47 more.
 
 ## Happenings by era
 
@@ -188,6 +188,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:separate-car-act` | `us:jim-crow-laws` |
 | `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |
+| `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 | `us:united-states-constitution` | `us:united-states` |

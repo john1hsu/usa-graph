@@ -70,16 +70,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-02 | The Second Continental Congress votes for independence by adopting the Lee Resolution. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-02 | Twelve colonies vote for independence, with New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | **[Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md)** (Document) |
+| 1776-07-04 | **[National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md)** (Concept) |
 | 1776-07-04 | **[United States](../articles/states-and-territories/united-states.md)** (Country) |
 | 1776-07-04 | Congress adopts the Declaration of Independence. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1776-07-04 | The Second Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson to design a seal for the United States. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-12 | The committee, with John Dickinson as principal writer, presents its draft to Congress. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-07-19 | Congress orders the text engrossed on parchment under a new title for members to sign. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-20 | **[E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md)** (Symbol) |
 | 1776-08-20 | The committee reports a design drawn up with artist Pierre Eugène Du Simitière bearing the motto E PLURIBUS UNUM; Congress tables it. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1776-08-20 | The first seal committee reports its design; Congress tables it, and two more committees follow in 1780 and 1782. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1776-09-09 | Congress orders that "United States" replace "United Colonies" in official documents. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -87,6 +90,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777 | Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1777-05-29 | The Pennsylvania State Navy Board pays Ross for making ship's colours, her earliest documented flag work. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1777-06-14 | The Continental Congress adopts a flag of 13 red and white stripes and 13 white stars on a blue field. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1777-06-14 | The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1777-08-06 | Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777-10-17 | John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -117,6 +121,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1782-03-20 | Lord North resigns as prime minister; the new British government opens peace talks in Paris. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1782-06-13 | Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1782-06-20 | The Confederation Congress adopts the Great Seal with the motto. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1782-06-20 | The Confederation Congress approves the Great Seal, with a bald eagle holding arrows and an olive branch. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1782-08-19 | British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1782-09-27 | Formal peace negotiations open in Paris between British envoys and the American commissioners Benjamin Franklin, John Adams and John Jay. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -132,6 +137,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1784-01-14 | The Confederation Congress, meeting in Annapolis, ratifies the treaty. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
+| 1784-01-26 | Franklin writes an unsent letter to his daughter mocking the eagle on the Society of the Cincinnati badge and praising the turkey. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1784-10-22 | With no terms for Britain's Native allies in the treaty, U.S. commissioners dictate a separate peace to the Six Nations at Fort Stanwix. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -744,6 +750,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1912 | President William Howard Taft standardizes the 48-star flag in six rows of eight. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
@@ -767,6 +774,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1915-07-05 | The bell leaves on its last journey, a tour of more than 10,000 miles to the Panama-Pacific Exposition in San Francisco. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1915-10 | Orville Wright sells the Wright Company to New York financiers. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1916 | President Woodrow Wilson proclaims a national Flag Day on June 14. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1916 | The Wright Company stops using the field after training 119 students there. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1916 | The flying school at Huffman Field closes after training 119 students since May 1910. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1916-09 | Carrie Chapman Catt unveils NAWSA's Winning Plan at its Atlantic City convention. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -816,6 +824,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1930-09-17 | At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931 – 1940 | **[Dust Bowl](../articles/depression-and-world-war/dust-bowl.md)** (Event) |
 | 1931 | Drought ruins the Southern Plains wheat crop in the autumn, leaving fields bare. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1931-03-03 | Congress makes The Star-Spangled Banner the national anthem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1931-03-11 | The construction contract is awarded to Six Companies on a bid of about $48.9 million. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1931-04-20 | **[Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md)** (Landmark) |
 | 1931-04-20 | Six Companies receives notice to proceed, the formal start of construction. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -902,6 +911,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-12-08 | Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-11 | Germany declares war on the United States. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-26 | Roosevelt signs H.J. Res. 41, fixing Thanksgiving on the fourth Thursday of November from 1942. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1942 | A joint resolution of Congress puts the Pledge of Allegiance into federal law. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
@@ -911,6 +921,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-05-23 | Secretary of War Henry Stimson halts the project after nearly 13 million cubic yards have been removed. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1942-05-23 | Secretary of War Henry Stimson terminates the Third Locks Project. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-07 | The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
@@ -930,6 +941,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1949 | President Harry Truman signs legislation designating June 14 as national Flag Day. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -941,6 +953,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954 – 1968 | **[Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md)** (Movement) |
 | 1954 | Brown v. Board of Education declares school segregation unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1954 | Brown v. Board of Education holds that segregated public schools violate equal protection. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1954 | Congress adds the words 'under God' to the Pledge of Allegiance. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1954 | Muddy Waters records Willie Dixon's "I'm Your Hoochie Coochie Man." — [Blues](../articles/culture-and-arts/blues.md) |
 | 1954 | The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -964,6 +977,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-03-22 | King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-06-05 | A three-judge federal court rules 2–1 that bus segregation is unconstitutional. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-07-30 | An act of Congress declares 'In God we trust' the national motto; E pluribus unum stays on the seal and coins. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1956-07-30 | Congress declares 'In God we trust' the national motto. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1956-11-13 | The U.S. Supreme Court affirms the district court's ruling. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-17 | The Supreme Court rejects city and state requests to reconsider. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-12-20 | The Court's order reaches Montgomery and the MIA votes to end the boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -990,8 +1004,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1960-07-04 | The 50-star flag becomes official after Hawaii's admission as a state. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961-05-04 | Thirteen Black and white Freedom Riders leave Washington, D.C., to test the desegregation of interstate bus travel. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1961-08 | Young Jefferson County lawyers file suit in the U.S. District Court for the Middle District of Alabama, with M. O. Sims among the plaintiffs. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1961-09 | Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1962 | California passes New York as the most populous state. — [California](../articles/states-and-territories/california.md) |
@@ -1068,10 +1084,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1986-10-07 | Congress designates the rose as the national floral emblem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1987 | Patricia Nelson Limerick publishes The Legacy of Conquest. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1987-12-11 | John Philip Sousa's The Stars and Stripes Forever becomes the national march. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1988 | Wildfires burn about 36 percent of the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
@@ -1117,6 +1136,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2004 | The bipartisan 9/11 Commission issues its final report and closes on August 21, 2004. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2004-02-14 | The Mississippi African-American Monument is dedicated in Vicksburg National Military Park. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 2004-05-17 | Goodridge takes effect and Massachusetts becomes the first state where same-sex couples can marry. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2004-12-08 | Congress designates the oak as the national tree. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2005 | Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
@@ -1151,6 +1171,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-06-26 | The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2016 | Evenwel v. Abbott holds that states may draw legislative districts using total population. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 2016-01 | Obama vetoes the first repeal bill Congress sends him. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2016-05-09 | The National Bison Legacy Act makes the North American bison the national mammal. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 2018-11-16 | The Cybersecurity and Infrastructure Security Agency Act creates CISA within the department. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
@@ -1180,5 +1201,6 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2022-12-13 | The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2026-04-29 | In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |

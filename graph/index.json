@@ -9832,6 +9832,240 @@
   ]
  },
  {
+  "id": "us:national-symbols-of-the-united-states",
+  "title": "National symbols of the United States",
+  "aliases": [
+   "U.S. national symbols",
+   "American national symbols",
+   "Symbols of the United States"
+  ],
+  "type": "Concept",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/symbols-and-national-identity/national-symbols-of-the-united-states.md",
+  "created": "2026-11-16",
+  "summary": "The emblems, mottoes, songs, plants, animals and figures that represent the United States: some, like the flag, the Great Seal, the national anthem and the national motto, were designated by Congress, while others, like Uncle Sam, became symbols through popular use.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:american-national-identity"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-seal-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:star-spangled-banner"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pledge-of-allegiance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:in-god-we-trust"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:e-pluribus-unum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bald-eagle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-bison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:uncle-sam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:betsy-ross-flag-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-turkey-national-bird-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-day"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:west-virginia-state-board-of-education-v-barnette"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:texas-v-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francis-hopkinson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charles-thomson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:united-states",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-code",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1776-07-04",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the bald eagle need an act of Congress in 2024 to become the national bird if it had been on the Great Seal since 1782?",
+    "answer": "The 1782 decision adopted the eagle as part of the seal's coat of arms, not as a national bird. No statute named a national bird until Public Law 118-206, approved December 23, 2024, added a section on the national bird to title 36 of the U.S. Code."
+   },
+   {
+    "question": "How have Supreme Court decisions limited what government can require of people with respect to national symbols?",
+    "answer": "In Barnette (1943) the Court held that schools could not compel students to salute the flag and recite the pledge, and in Texas v. Johnson (1989) it held that burning a flag in protest is expressive conduct a state cannot punish in order to preserve the flag as a symbol of national unity. The Flag Code's display rules are likewise customs without penalties."
+   },
+   {
+    "question": "Why do the laws designating the bison and the bald eagle refer to Native nations?",
+    "answer": "Their findings record that bison were tied to the economic and spiritual lives of many tribes, more than 60 of which take part in the Intertribal Buffalo Council's restoration work, and that bald eagles are integral to the spiritual lives of most Indigenous peoples and Tribal communities."
+   },
+   {
+    "question": "How is the origin of Uncle Sam different from that of the flag or the national anthem?",
+    "answer": "The flag and anthem were adopted by acts of Congress, while Uncle Sam grew out of popular usage during the War of 1812 and was shaped by cartoonists and poster artists; Congress only honored Samuel Wilson as the figure's progenitor in 1961, and the National Park Service still calls the name's origin disputed."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1776-07-04",
+    "event": "The Second Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson to design a seal for the United States."
+   },
+   {
+    "date": "1776-08-20",
+    "event": "The first seal committee reports its design; Congress tables it, and two more committees follow in 1780 and 1782."
+   },
+   {
+    "date": "1777-06-14",
+    "event": "The Continental Congress adopts a flag of 13 red and white stripes and 13 white stars on a blue field."
+   },
+   {
+    "date": "1782-06-20",
+    "event": "The Confederation Congress approves the Great Seal, with a bald eagle holding arrows and an olive branch."
+   },
+   {
+    "date": "1784-01-26",
+    "event": "Franklin writes an unsent letter to his daughter mocking the eagle on the Society of the Cincinnati badge and praising the turkey."
+   },
+   {
+    "date": "1912",
+    "event": "President William Howard Taft standardizes the 48-star flag in six rows of eight."
+   },
+   {
+    "date": "1916",
+    "event": "President Woodrow Wilson proclaims a national Flag Day on June 14."
+   },
+   {
+    "date": "1931-03-03",
+    "event": "Congress makes The Star-Spangled Banner the national anthem."
+   },
+   {
+    "date": "1942",
+    "event": "A joint resolution of Congress puts the Pledge of Allegiance into federal law."
+   },
+   {
+    "date": "1943",
+    "event": "In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge."
+   },
+   {
+    "date": "1949",
+    "event": "President Harry Truman signs legislation designating June 14 as national Flag Day."
+   },
+   {
+    "date": "1954",
+    "event": "Congress adds the words 'under God' to the Pledge of Allegiance."
+   },
+   {
+    "date": "1956-07-30",
+    "event": "Congress declares 'In God we trust' the national motto."
+   },
+   {
+    "date": "1960-07-04",
+    "event": "The 50-star flag becomes official after Hawaii's admission as a state."
+   },
+   {
+    "date": "1961-09",
+    "event": "Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam."
+   },
+   {
+    "date": "1986-10-07",
+    "event": "Congress designates the rose as the national floral emblem."
+   },
+   {
+    "date": "1987-12-11",
+    "event": "John Philip Sousa's The Stars and Stripes Forever becomes the national march."
+   },
+   {
+    "date": "1989-06-21",
+    "event": "In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression."
+   },
+   {
+    "date": "2004-12-08",
+    "event": "Congress designates the oak as the national tree."
+   },
+   {
+    "date": "2016-05-09",
+    "event": "The National Bison Legacy Act makes the North American bison the national mammal."
+   },
+   {
+    "date": "2024-12-23",
+    "event": "Public Law 118-206 designates the bald eagle as the national bird."
+   }
+  ],
+  "misconception": {
+   "myth": "Benjamin Franklin wanted the wild turkey, not the bald eagle, to be the national bird and proposed it for the Great Seal.",
+   "fact": "Franklin's 1776 seal proposal showed Moses and Pharaoh at the Red Sea, with no bird at all. His praise of the turkey comes from a January 1784 letter to his daughter, written after the seal was adopted, that mocked the eagle on the Society of the Cincinnati's badge; he never sent it, and the full English text was not printed until 1817.",
+   "why": "The joke is vivid and fits Thanksgiving, so it is retold as if Franklin had campaigned for the turkey; and because the bald eagle was not formally named the national bird until 2024, it is easy to imagine an open contest between birds."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/USCODE-2014-title36/html/USCODE-2014-title36-subtitleI-partA-chap3.htm",
+   "https://www.govinfo.gov/content/pkg/USCODE-2022-title4/html/USCODE-2022-title4-chap1.htm",
+   "https://www.govinfo.gov/content/pkg/PLAW-118publ206/html/PLAW-118publ206.htm",
+   "https://www.govinfo.gov/content/pkg/PLAW-114publ152/html/PLAW-114publ152.htm",
+   "https://founders.archives.gov/documents/Franklin/01-41-02-0327",
+   "https://www.monticello.org/encyclopedia/seal-united-states",
+   "https://prologue.blogs.archives.gov/2015/06/20/the-great-seal-celebrating-233-years-of-a-national-emblem",
+   "https://www.loc.gov/item/today-in-history/june-14",
+   "https://www.nps.gov/articles/uncle-sam.htm",
+   "https://constitutioncenter.org/the-constitution/supreme-court-case-library/west-virginia-board-of-education-v-barnette",
+   "https://globalfreedomofexpression.columbia.edu/cases/texas-v-johnson"
+  ]
+ },
+ {
   "id": "us:native-americans",
   "title": "Native Americans",
   "aliases": [

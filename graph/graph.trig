@@ -1071,6 +1071,20 @@
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s4> .
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s5> .
 <https://github.com/john1hsu/usa-graph/id/liberty-bell#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/symbols-and-national-identity/national-symbols-of-the-united-states.md" .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> .
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> .
 
 <https://github.com/john1hsu/usa-graph/id/abolitionism#graph> {
   <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
@@ -15864,6 +15878,227 @@
   <https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s6> <https://schema.org/url> <https://www.historynewsnetwork.org/article/37376> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states#graph> {
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Franklin's 1776 seal proposal showed Moses and Pharaoh at the Red Sea, with no bird at all. His praise of the turkey comes from a January 1784 letter to his daughter, written after the seal was adopted, that mocked the eagle on the Society of the Cincinnati's badge; he never sent it, and the full English text was not printed until 1817." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Benjamin Franklin wanted the wild turkey, not the bald eagle, to be the national bird and proposed it for the Great Seal." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The joke is vivid and fits Thanksgiving, so it is retold as if Franklin had campaigned for the turkey; and because the bald eagle was not formally named the national bird until 2024, it is easy to imagine an open contest between birds." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the bald eagle need an act of Congress in 2024 to become the national bird if it had been on the Great Seal since 1782?" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1782 decision adopted the eagle as part of the seal's coat of arms, not as a national bird. No statute named a national bird until Public Law 118-206, approved December 23, 2024, added a section on the national bird to title 36 of the U.S. Code." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How have Supreme Court decisions limited what government can require of people with respect to national symbols?" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "In Barnette (1943) the Court held that schools could not compel students to salute the flag and recite the pledge, and in Texas v. Johnson (1989) it held that burning a flag in protest is expressive conduct a state cannot punish in order to preserve the flag as a symbol of national unity. The Flag Code's display rules are likewise customs without penalties." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do the laws designating the bison and the bald eagle refer to Native nations?" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Their findings record that bison were tied to the economic and spiritual lives of many tribes, more than 60 of which take part in the Intertribal Buffalo Council's restoration work, and that bald eagles are integral to the spiritual lives of most Indigenous peoples and Tribal communities." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How is the origin of Uncle Sam different from that of the flag or the national anthem?" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The flag and anthem were adopted by acts of Congress, while Uncle Sam grew out of popular usage during the War of 1812 and was shaped by cartoonists and poster artists; Congress only honored Samuel Wilson as the figure's progenitor in 1961, and the National Park Service still calls the name's origin disputed." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "President Harry Truman signs legislation designating June 14 as national Flag Day." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1949"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress adds the words 'under God' to the Pledge of Allegiance." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Congress declares 'In God we trust' the national motto." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The 50-star flag becomes official after Hawaii's admission as a state." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Congress designates the rose as the national floral emblem." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1986-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "John Philip Sousa's The Stars and Stripes Forever becomes the national march." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1987-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1989-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Congress designates the oak as the national tree." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "2004-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Second Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson to design a seal for the United States." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/20> <http://www.w3.org/2000/01/rdf-schema#label> "The National Bison Legacy Act makes the North American bison the national mammal." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/20> <https://github.com/john1hsu/usa-graph/ontology#date> "2016-05-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/21> <http://www.w3.org/2000/01/rdf-schema#label> "Public Law 118-206 designates the bald eagle as the national bird." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/21> <https://github.com/john1hsu/usa-graph/ontology#date> "2024-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The first seal committee reports its design; Congress tables it, and two more committees follow in 1780 and 1782." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Continental Congress adopts a flag of 13 red and white stripes and 13 white stars on a blue field." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Confederation Congress approves the Great Seal, with a bald eagle holding arrows and an olive branch." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1782-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin writes an unsent letter to his daughter mocking the eagle on the Society of the Cincinnati badge and praising the turkey." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1784-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President William Howard Taft standardizes the 48-star flag in six rows of eight." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "President Woodrow Wilson proclaims a national Flag Day on June 14." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Congress makes The Star-Spangled Banner the national anthem." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1931-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A joint resolution of Congress puts the Pledge of Allegiance into federal law." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1942"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2000/01/rdf-schema#label> "National symbols of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "American national symbols" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "Symbols of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. national symbols" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#definition> "The emblems, mottoes, songs, plants, animals and figures that represent the United States: some, like the flag, the Great Seal, the national anthem and the national motto, were designated by Congress, while others, like Uncle Sam, became symbols through popular use." .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#prefLabel> "National symbols of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-bison> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bald-eagle> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/charles-thomson> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-day> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/texas-v-johnson> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/uncle-sam> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/west-virginia-state-board-of-education-v-barnette> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#domain> "symbols-and-national-identity" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-code> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/symbols-and-national-identity/national-symbols-of-the-united-states.md" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizes> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/19> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/20> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/21> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://schema.org/startDate> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <http://purl.org/dc/terms/publisher> "National Constitution Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <http://purl.org/dc/terms/title> "West Virginia Board of Education v. Barnette (1943)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s10> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/supreme-court-case-library/west-virginia-board-of-education-v-barnette> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <http://purl.org/dc/terms/publisher> "Global Freedom of Expression, Columbia University" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <http://purl.org/dc/terms/title> "Texas v. Johnson" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s11> <https://schema.org/url> <https://globalfreedomofexpression.columbia.edu/cases/texas-v-johnson> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, govinfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <http://purl.org/dc/terms/title> "36 U.S.C. Chapter 3: National Anthem, Motto, Floral Emblem, March, and Tree (2014 edition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USCODE-2014-title36/html/USCODE-2014-title36-subtitleI-partA-chap3.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, govinfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <http://purl.org/dc/terms/title> "4 U.S.C. Chapter 1: The Flag (2022 edition)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s2> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USCODE-2022-title4/html/USCODE-2022-title4-chap1.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, govinfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <http://purl.org/dc/terms/title> "Public Law 118-206: An Act to designate the bald eagle as the national bird (S. 4610)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s3> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/PLAW-118publ206/html/PLAW-118publ206.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office, govinfo" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <http://purl.org/dc/terms/title> "Public Law 114-152: National Bison Legacy Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s4> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/PLAW-114publ152/html/PLAW-114publ152.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <http://purl.org/dc/terms/title> "Benjamin Franklin to Sarah Bache, 26 January 1784 (The Papers of Benjamin Franklin, vol. 41)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s5> <https://schema.org/url> <https://founders.archives.gov/documents/Franklin/01-41-02-0327> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <http://purl.org/dc/terms/publisher> "Thomas Jefferson Encyclopedia, Thomas Jefferson Foundation (Monticello)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <http://purl.org/dc/terms/title> "Seal of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s6> <https://schema.org/url> <https://www.monticello.org/encyclopedia/seal-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <http://purl.org/dc/terms/publisher> "National Archives, Prologue blog" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <http://purl.org/dc/terms/title> "The Great Seal: Celebrating 233 Years of a National Emblem" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s7> <https://schema.org/url> <https://prologue.blogs.archives.gov/2015/06/20/the-great-seal-celebrating-233-years-of-a-national-emblem> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <http://purl.org/dc/terms/title> "Today in History: June 14 (Flag Day)" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s8> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/june-14> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <http://purl.org/dc/terms/title> "Uncle Sam and National Identity" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/national-symbols-of-the-united-states/s9> <https://schema.org/url> <https://www.nps.gov/articles/uncle-sam.htm> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/inferred> {
   <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
@@ -16030,6 +16265,7 @@
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-anti-slavery-society> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/american-bison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -16086,6 +16322,11 @@
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/american-frontier> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/american-indian-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/american-national-identity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -16200,6 +16441,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -16240,6 +16482,7 @@
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baker-v-nelson> <https://github.com/john1hsu/usa-graph/ontology#overturnedBy> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/bald-eagle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/baltimore-and-ohio-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -16267,6 +16510,7 @@
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-r-curtis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/bessie-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -16289,8 +16533,10 @@
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/betsy-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/due-process> .
@@ -16485,6 +16731,7 @@
   <https://github.com/john1hsu/usa-graph/id/central-valley> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/cesar-chavez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -16669,6 +16916,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -16733,6 +16981,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -16906,7 +17155,9 @@
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/earl-warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -17043,9 +17294,11 @@
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/first-thanksgiving-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/foreign-miners-tax-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
@@ -17124,6 +17377,7 @@
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/frank-m-johnson-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
@@ -17137,6 +17391,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fred-gray> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/frederick-douglass/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -17342,6 +17597,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
@@ -17552,6 +17808,7 @@
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -17834,8 +18091,10 @@
   <https://github.com/john1hsu/usa-graph/id/liberty-bell/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/liberty-bell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/liberty-bell> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/liberty-party> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/liliuokalani> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
@@ -18151,12 +18410,45 @@
   <https://github.com/john1hsu/usa-graph/id/national-park-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/national-park-system> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/national-september-11-memorial-and-museum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-national-identity> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/national-womans-party> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/native-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/native-americans/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18486,6 +18778,7 @@
   <https://github.com/john1hsu/usa-graph/id/pittsburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/pittsburgh> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/pittsburgh> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/pledge-of-allegiance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18877,6 +19170,7 @@
   <https://github.com/john1hsu/usa-graph/id/spanish-american-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/square-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
@@ -18971,6 +19265,7 @@
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/terrorism-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/texas-v-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/texas> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/thanksgiving-day-resolution-of-1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/thanksgiving-day-resolution-of-1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -19109,6 +19404,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -19265,6 +19561,7 @@
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/uncle-sam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad-quilt-code-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -19273,6 +19570,9 @@
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-farm-workers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-code> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/united-states-colored-troops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -19318,6 +19618,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#enacted> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/united-states-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -19364,6 +19665,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -19442,6 +19744,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/united-states> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/university-of-virginia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/us-dakota-war-of-1862> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/usa-patriot-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
@@ -19540,6 +19843,7 @@
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/west-virginia-state-board-of-education-v-barnette> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .

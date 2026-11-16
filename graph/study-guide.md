@@ -1427,3 +1427,20 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is it uncertain whether the bell rang for the Declaration of Independence?
   **A:** No record shows the bell ringing on July 4 or July 8, 1776, and the steeple was in poor condition. The National Park Service says there is no evidence, while historian Gary Nash writes that it is believed to have rung at the July 8 public reading; the July 4 version is Lippard's fiction.
 
+### [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) — Concept
+
+| Myth | Fact |
+|---|---|
+| Benjamin Franklin wanted the wild turkey, not the bald eagle, to be the national bird and proposed it for the Great Seal. | Franklin's 1776 seal proposal showed Moses and Pharaoh at the Red Sea, with no bird at all. His praise of the turkey comes from a January 1784 letter to his daughter, written after the seal was adopted, that mocked the eagle on the Society of the Cincinnati's badge; he never sent it, and the full English text was not printed until 1817. |
+
+**Why it matters:** The joke is vivid and fits Thanksgiving, so it is retold as if Franklin had campaigned for the turkey; and because the bald eagle was not formally named the national bird until 2024, it is easy to imagine an open contest between birds.
+
+- **Q:** Why did the bald eagle need an act of Congress in 2024 to become the national bird if it had been on the Great Seal since 1782?
+  **A:** The 1782 decision adopted the eagle as part of the seal's coat of arms, not as a national bird. No statute named a national bird until Public Law 118-206, approved December 23, 2024, added a section on the national bird to title 36 of the U.S. Code.
+- **Q:** How have Supreme Court decisions limited what government can require of people with respect to national symbols?
+  **A:** In Barnette (1943) the Court held that schools could not compel students to salute the flag and recite the pledge, and in Texas v. Johnson (1989) it held that burning a flag in protest is expressive conduct a state cannot punish in order to preserve the flag as a symbol of national unity. The Flag Code's display rules are likewise customs without penalties.
+- **Q:** Why do the laws designating the bison and the bald eagle refer to Native nations?
+  **A:** Their findings record that bison were tied to the economic and spiritual lives of many tribes, more than 60 of which take part in the Intertribal Buffalo Council's restoration work, and that bald eagles are integral to the spiritual lives of most Indigenous peoples and Tribal communities.
+- **Q:** How is the origin of Uncle Sam different from that of the flag or the national anthem?
+  **A:** The flag and anthem were adopted by acts of Congress, while Uncle Sam grew out of popular usage during the War of 1812 and was shaped by cartoonists and poster artists; Congress only honored Samuel Wilson as the figure's progenitor in 1961, and the National Park Service still calls the name's origin disputed.
+
