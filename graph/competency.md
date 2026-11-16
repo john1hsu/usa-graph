@@ -30,6 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:california-gold-rush` | 5 | Native Americans, act-for-the-government-and-protection-of-indians, chinese-exclusion-act, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
+| `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, continental-army, haudenosaunee, treaty-of-alliance-1778 |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
 | `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
-| `us:gilded-age` | 2 | labor-movement, populist-movement |
 
-…and 49 more.
+…and 50 more.
 
 ## Happenings by era
 

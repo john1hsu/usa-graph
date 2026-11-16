@@ -70,22 +70,34 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-04-19 – 1783-09-03 | **[American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md)** (Conflict) |
 | 1775-04-19 | British regulars march to seize militia stores at Concord; fighting at Lexington, Concord's North Bridge and along the road back to Boston opens the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1775-04-20 | New England militia begin the siege of British-held Boston. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1775-05-10 – 1781-03-01 | **[Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md)** (Institution) |
+| 1775-05-10 | The Second Continental Congress convenes in Philadelphia, weeks after fighting at Lexington and Concord. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1775-06-14 | The Continental Congress votes to raise a Continental Army and the next day unanimously chooses George Washington to command it. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1775-06-15 | Congress chooses George Washington to command the Continental forces; he accepts the next day. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1775-06-15 | The Second Continental Congress appoints him commander in chief of the new Continental Army. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1775-06-17 | Congress agrees to Washington's commission as General and Commander in chief. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1775-07-06 | Congress adopts a declaration on taking up arms that disclaims any aim of separation. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1775-07-08 | Delegates of twelve colonies sign the Olive Branch Petition to George III. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1775-07-13 | Congress approves a speech asking the Six Nations to stay neutral. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1775-11-29 | Congress creates the Committee of Secret Correspondence to contact friends abroad. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1776 | Sent to France as one of the American commissioners. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1776-01-01 | The Continental Union (Grand Union) flag, with British crosses in its canton, flies over Washington's camp in Massachusetts. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
+| 1776-04-06 | Congress opens American ports to the ships of all nations except Britain. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1776-06-07 | Congress receives Richard Henry Lee's resolution for independence. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776-06-07 | Richard Henry Lee of Virginia moves in Congress that the colonies are, and ought to be, free and independent states. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-06-11 | After the Lee Resolution, the Second Continental Congress appoints a committee, one member per colony, to plan a confederation. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1776-06-28 | The drafting committee presents Jefferson's draft, edited by Adams and Franklin, to Congress. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-01 | A first vote on Lee's resolution: nine colonies in favour, Pennsylvania and South Carolina opposed, Delaware deadlocked and New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-07-02 | Congress votes for independence. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776-07-02 | The Second Continental Congress votes for independence by adopting the Lee Resolution. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-02 | Twelve colonies vote for independence, with New York abstaining. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | **[Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md)** (Document) |
 | 1776-07-04 | **[National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md)** (Concept) |
 | 1776-07-04 | **[United States](../articles/states-and-territories/united-states.md)** (Country) |
+| 1776-07-04 | Congress adopts the Declaration of Independence. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776-07-04 | Congress adopts the Declaration of Independence. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-07-04 | The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
@@ -100,6 +112,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-09-09 | Congress orders that "United States" replace "United Colonies" in official documents. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1776-12 | Crosses the Delaware on Christmas night and wins at Trenton, then at Princeton days later. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1776-12-20 | With the British army advancing across New Jersey, Congress begins sitting in Baltimore. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776-12-25 | After losing New York, Washington crosses the Delaware and surprises the Hessian garrison at Trenton. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777 | Fearing the British would melt it for munitions, Philadelphians hide it in Allentown's Zion Reformed Church; it returns in 1778. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1777-01-18 | Congress authorizes a printing that carries the signers' names for the first time. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -107,6 +120,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-06-14 | The Continental Congress adopts a flag of 13 red and white stripes and 13 white stars on a blue field. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1777-06-14 | The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1777-08-06 | Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1777-09-30 | After the British capture of Philadelphia, Congress begins meeting at the York, Pennsylvania, court house. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1777-10-17 | John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
 | 1777-11-15 | After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -118,10 +132,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1778 | The United States begins making treaties with Native nations; the Senate ratifies 370 of them by 1871. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1778 | The United States signs its first treaty with a Native nation, the Lenape (Delaware); both sides treat early treaties as diplomatic agreements between sovereigns. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1778-02-06 | American commissioners sign the Treaty of Alliance and the Treaty of Amity and Commerce with France. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1778-06-27 | Congress's last day in York before returning to Philadelphia. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779 | Presents his credentials to the French court, becoming the first American minister received by a foreign government. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-06-21 | Spain enters the war against Britain. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1779-08-14 | Congress sets its terms for peace; John Adams is named to negotiate the next month. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -130,6 +146,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1781-03-01 | Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into force. — [United States](../articles/states-and-territories/united-states.md) |
 | 1781-09-05 | The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |

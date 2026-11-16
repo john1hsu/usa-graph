@@ -10198,6 +10198,193 @@
    "skos:prefLabel": "Symbols, ideals and national identity"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "When it met in May 1775 most delegates still hoped for reconciliation. In July 1775 Congress sent George III the Olive Branch Petition professing loyalty and adopted a declaration on taking up arms that denied any intention of separating from Britain. Support for independence grew only after the king refused the petition and declared the colonies in rebellion, and Congress voted for independence on July 2, 1776, fourteen months after it convened.",
+   "uso:myth": "The Second Continental Congress gathered in 1775 in order to declare independence.",
+   "uso:why": "The Declaration of Independence became Congress's best-remembered act, so its earlier year of petitions and professions of loyalty is easily forgotten."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Second Continental Congress spend more than a year fighting Britain before it declared independence?",
+   "uso:answer": "Most delegates in 1775 still hoped for reconciliation; Congress described its armed resistance as defence, denied any aim of separating, and sent the Olive Branch Petition to George III. Only after the king refused to receive it and declared the colonies in open rebellion did calls for independence grow, leading to the vote of July 2, 1776.",
+   "uso:questionFor": {
+    "@id": "us:second-continental-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How could a body created only to coordinate colonial protest end up acting as a national government?",
+   "uso:answer": "Because war had already begun when it convened, Congress had to raise and command an army, issue bills of credit to pay for it, conduct diplomacy and negotiate with Native nations; in doing so it exceeded the authority the colonial governments had given it and governed de facto until the Articles of Confederation took effect in 1781.",
+   "uso:questionFor": {
+    "@id": "us:second-continental-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the question of how states would vote in Congress so contentious when the Articles of Confederation were debated in 1776?",
+   "uso:answer": "Congress had voted by colony, one vote each, and the Dickinson draft kept that rule; Benjamin Franklin argued that votes should follow population and contributions, but his amendment was defeated, so small and large states kept equal votes in the Confederation Congress.",
+   "uso:questionFor": {
+    "@id": "us:second-continental-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did Congress ask of the Six Nations in July 1775, and why?",
+   "uso:answer": "It asked the Haudenosaunee to stay at home and not join either side, calling the conflict a family quarrel with Britain, because in the war's first years Congress judged that keeping Native nations neutral cost less than seeking them as allies.",
+   "uso:questionFor": {
+    "@id": "us:second-continental-congress"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Second Continental Congress convenes in Philadelphia, weeks after fighting at Lexington and Concord.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-05-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress votes for independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts the Declaration of Independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With the British army advancing across New Jersey, Congress begins sitting in Baltimore.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the British capture of Philadelphia, Congress begins meeting at the York, Pennsylvania, court house.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-09-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress's last day in York before returning to Philadelphia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1778-06-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress sets its terms for peace; John Adams is named to negotiate the next month.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1779-08-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress chooses George Washington to command the Continental forces; he accepts the next day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress agrees to Washington's commission as General and Commander in chief.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-06-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts a declaration on taking up arms that disclaims any aim of separation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-07-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delegates of twelve colonies sign the Olive Branch Petition to George III.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-07-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress approves a speech asking the Six Nations to stay neutral.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-07-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress creates the Committee of Secret Correspondence to contact friends abroad.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1775-11-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress opens American ports to the ships of all nations except Britain.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-04-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress receives Richard Henry Lee's resolution for independence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-06-07"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The federal engineering investigation by NIST found that the impacts severed columns and stripped fireproofing, and that multi-floor fires weakened floors that pulled the perimeter columns inward until they failed; it found no corroborating evidence for explosives, and seismic signals came from falling debris after each collapse began.",
@@ -19309,6 +19496,188 @@
     "@id": "https://www.cambridge.org/core/journals/americas/article/clark-memorandum-myth/CA5CEA441323FB908C46329D5350CD3E"
    },
    "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "Continental Congress, 1774–1781",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/continental-congress"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 22)",
+   "dcterms:title": "Editorial Note on Franklin's Part in the Congressional Debate of July 30 to August 1, 1776",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Franklin/01-22-02-0317"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon, Digital Encyclopedia (James MacDonald)",
+   "dcterms:title": "Appointment as Commander in Chief",
+   "schema:url": {
+    "@id": "https://www.mountvernon.org/digital-encyclopedia/article/appointment-as-commander-in-chief"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Encyclopedia of Greater Philadelphia, Rutgers University–Camden (Michael Karpyn)",
+   "dcterms:title": "Continental Congresses",
+   "schema:url": {
+    "@id": "https://philadelphiaencyclopedia.org/essays/continental-congresses/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "Articles of Confederation, 1777–1781",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1776-1783/articles"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State (Buildings of the Department of State)",
+   "dcterms:title": "The Period of the Continental Congress",
+   "schema:url": {
+    "@id": "https://history.state.gov/departmenthistory/buildings/section1"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Continental Congress and Constitutional Convention, 1774–1789: Timeline, 1775",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/articles-and-essays/timeline/1775/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Declaring Independence: Drafting the Documents — Chronology, June 7, 1776 to January 18, 1777",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/declara/declara2.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "A Declaration by the Representatives of the United Colonies of North-America, Now Met in Congress at Philadelphia, Setting Forth the Causes and Necessity of Their Taking Up Arms (July 6, 1775)",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/contcong_07-06-75.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Speech to the Six Confederate Nations (July 13, 1775)",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/contcong_07-13-75.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Commission for General Washington (June 17, 1775)",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/contcong_06-17-75.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "The Olive Branch Petition",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/the-olive-branch-petition.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives, The Text Message blog (Greg Bradsher)",
+   "dcterms:title": "“Outsiders” in the United States Army during the American War for Independence",
+   "schema:url": {
+    "@id": "https://text-message.blogs.archives.gov/2021/11/08/outsiders-in-the-united-states-army-during-the-american-war-for-independence"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1",
@@ -36721,6 +37090,202 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:second-continental-congress",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9"
+    }
+   ],
+   "rdfs:label": "Second Continental Congress",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1781-03-01"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1775-05-10"
+   },
+   "skos:altLabel": "2nd Continental Congress",
+   "skos:broader": {
+    "@id": "us:continental-congress"
+   },
+   "skos:definition": "The assembly of delegates from the thirteen colonies that convened in Philadelphia on May 10, 1775, after fighting had begun in Massachusetts, and served as the de facto national government of the United States — raising the Continental Army, declaring independence and drafting the Articles of Confederation — until the Articles took effect on March 1, 1781.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Second Continental Congress",
+   "skos:related": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:committee-of-secret-correspondence"
+    },
+    {
+     "@id": "us:confederation-period"
+    },
+    {
+     "@id": "us:declaration-of-the-causes-and-necessity-of-taking-up-arms"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:john-dickinson"
+    },
+    {
+     "@id": "us:lee-resolution"
+    },
+    {
+     "@id": "us:olive-branch-petition"
+    },
+    {
+     "@id": "us:philadelphia"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:haudenosaunee"
+   },
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/colonial-and-revolutionary/second-continental-congress.md",
+   "uso:ledBy": {
+    "@id": "us:john-hancock"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:continental-army"
+    },
+    {
+     "@id": "us:declaration-of-independence"
+    },
+    {
+     "@id": "us:treaty-of-alliance-1778"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:independence-hall"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:first-continental-congress"
+    },
+    {
+     "@id": "us:thirteen-colonies"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9"
     }
    ]
   },

@@ -12279,6 +12279,234 @@
   ]
  },
  {
+  "id": "us:second-continental-congress",
+  "title": "Second Continental Congress",
+  "aliases": [
+   "2nd Continental Congress"
+  ],
+  "type": "Institution",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/colonial-and-revolutionary/second-continental-congress.md",
+  "created": "2026-11-16",
+  "summary": "The assembly of delegates from the thirteen colonies that convened in Philadelphia on May 10, 1775, after fighting had begun in Massachusetts, and served as the de facto national government of the United States — raising the Continental Army, declaring independence and drafting the Articles of Confederation — until the Articles took effect on March 1, 1781.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:confederation-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:olive-branch-petition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:declaration-of-the-causes-and-necessity-of-taking-up-arms"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lee-resolution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:committee-of-secret-correspondence"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-dickinson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:philadelphia"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:first-continental-congress"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:independence-hall",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:john-hancock",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:continental-army",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:declaration-of-independence",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:articles-of-confederation",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-alliance-1778",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:haudenosaunee",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1775-05-10",
+  "end": "1781-03-01",
+  "review": [
+   {
+    "question": "Why did the Second Continental Congress spend more than a year fighting Britain before it declared independence?",
+    "answer": "Most delegates in 1775 still hoped for reconciliation; Congress described its armed resistance as defence, denied any aim of separating, and sent the Olive Branch Petition to George III. Only after the king refused to receive it and declared the colonies in open rebellion did calls for independence grow, leading to the vote of July 2, 1776."
+   },
+   {
+    "question": "How could a body created only to coordinate colonial protest end up acting as a national government?",
+    "answer": "Because war had already begun when it convened, Congress had to raise and command an army, issue bills of credit to pay for it, conduct diplomacy and negotiate with Native nations; in doing so it exceeded the authority the colonial governments had given it and governed de facto until the Articles of Confederation took effect in 1781."
+   },
+   {
+    "question": "Why was the question of how states would vote in Congress so contentious when the Articles of Confederation were debated in 1776?",
+    "answer": "Congress had voted by colony, one vote each, and the Dickinson draft kept that rule; Benjamin Franklin argued that votes should follow population and contributions, but his amendment was defeated, so small and large states kept equal votes in the Confederation Congress."
+   },
+   {
+    "question": "What did Congress ask of the Six Nations in July 1775, and why?",
+    "answer": "It asked the Haudenosaunee to stay at home and not join either side, calling the conflict a family quarrel with Britain, because in the war's first years Congress judged that keeping Native nations neutral cost less than seeking them as allies."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1775-05-10",
+    "event": "The Second Continental Congress convenes in Philadelphia, weeks after fighting at Lexington and Concord."
+   },
+   {
+    "date": "1775-06-15",
+    "event": "Congress chooses George Washington to command the Continental forces; he accepts the next day."
+   },
+   {
+    "date": "1775-06-17",
+    "event": "Congress agrees to Washington's commission as General and Commander in chief."
+   },
+   {
+    "date": "1775-07-06",
+    "event": "Congress adopts a declaration on taking up arms that disclaims any aim of separation."
+   },
+   {
+    "date": "1775-07-08",
+    "event": "Delegates of twelve colonies sign the Olive Branch Petition to George III."
+   },
+   {
+    "date": "1775-07-13",
+    "event": "Congress approves a speech asking the Six Nations to stay neutral."
+   },
+   {
+    "date": "1775-11-29",
+    "event": "Congress creates the Committee of Secret Correspondence to contact friends abroad."
+   },
+   {
+    "date": "1776-04-06",
+    "event": "Congress opens American ports to the ships of all nations except Britain."
+   },
+   {
+    "date": "1776-06-07",
+    "event": "Congress receives Richard Henry Lee's resolution for independence."
+   },
+   {
+    "date": "1776-07-02",
+    "event": "Congress votes for independence."
+   },
+   {
+    "date": "1776-07-04",
+    "event": "Congress adopts the Declaration of Independence."
+   },
+   {
+    "date": "1776-12-20",
+    "event": "With the British army advancing across New Jersey, Congress begins sitting in Baltimore."
+   },
+   {
+    "date": "1777-09-30",
+    "event": "After the British capture of Philadelphia, Congress begins meeting at the York, Pennsylvania, court house."
+   },
+   {
+    "date": "1778-06-27",
+    "event": "Congress's last day in York before returning to Philadelphia."
+   },
+   {
+    "date": "1779-08-14",
+    "event": "Congress sets its terms for peace; John Adams is named to negotiate the next month."
+   },
+   {
+    "date": "1781-03-01",
+    "event": "Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule."
+   }
+  ],
+  "misconception": {
+   "myth": "The Second Continental Congress gathered in 1775 in order to declare independence.",
+   "fact": "When it met in May 1775 most delegates still hoped for reconciliation. In July 1775 Congress sent George III the Olive Branch Petition professing loyalty and adopted a declaration on taking up arms that denied any intention of separating from Britain. Support for independence grew only after the king refused the petition and declared the colonies in rebellion, and Congress voted for independence on July 2, 1776, fourteen months after it convened.",
+   "why": "The Declaration of Independence became Congress's best-remembered act, so its earlier year of petitions and professions of loyalty is easily forgotten."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1776-1783/continental-congress",
+   "https://history.state.gov/departmenthistory/buildings/section1",
+   "https://www.loc.gov/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/articles-and-essays/timeline/1775/",
+   "https://www.loc.gov/exhibits/declara/declara2.html",
+   "https://avalon.law.yale.edu/18th_century/contcong_07-06-75.asp",
+   "https://avalon.law.yale.edu/18th_century/contcong_07-13-75.asp",
+   "https://avalon.law.yale.edu/18th_century/contcong_06-17-75.asp",
+   "https://www.nps.gov/articles/000/the-olive-branch-petition.htm",
+   "https://text-message.blogs.archives.gov/2021/11/08/outsiders-in-the-united-states-army-during-the-american-war-for-independence",
+   "https://founders.archives.gov/documents/Franklin/01-22-02-0317",
+   "https://www.mountvernon.org/digital-encyclopedia/article/appointment-as-commander-in-chief",
+   "https://philadelphiaencyclopedia.org/essays/continental-congresses/",
+   "https://history.state.gov/milestones/1776-1783/articles"
+  ]
+ },
+ {
   "id": "us:september-11-attacks",
   "title": "September 11 attacks",
   "aliases": [

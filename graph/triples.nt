@@ -7376,6 +7376,140 @@
 <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> <http://www.w3.org/2004/02/skos/core#prefLabel> "States and territories" .
 <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symbols, ideals and national identity" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "When it met in May 1775 most delegates still hoped for reconciliation. In July 1775 Congress sent George III the Olive Branch Petition professing loyalty and adopted a declaration on taking up arms that denied any intention of separating from Britain. Support for independence grew only after the king refused the petition and declared the colonies in rebellion, and Congress voted for independence on July 2, 1776, fourteen months after it convened." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Second Continental Congress gathered in 1775 in order to declare independence." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The Declaration of Independence became Congress's best-remembered act, so its earlier year of petitions and professions of loyalty is easily forgotten." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Second Continental Congress spend more than a year fighting Britain before it declared independence?" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Most delegates in 1775 still hoped for reconciliation; Congress described its armed resistance as defence, denied any aim of separating, and sent the Olive Branch Petition to George III. Only after the king refused to receive it and declared the colonies in open rebellion did calls for independence grow, leading to the vote of July 2, 1776." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How could a body created only to coordinate colonial protest end up acting as a national government?" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because war had already begun when it convened, Congress had to raise and command an army, issue bills of credit to pay for it, conduct diplomacy and negotiate with Native nations; in doing so it exceeded the authority the colonial governments had given it and governed de facto until the Articles of Confederation took effect in 1781." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the question of how states would vote in Congress so contentious when the Articles of Confederation were debated in 1776?" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Congress had voted by colony, one vote each, and the Dickinson draft kept that rule; Benjamin Franklin argued that votes should follow population and contributions, but his amendment was defeated, so small and large states kept equal votes in the Confederation Congress." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did Congress ask of the Six Nations in July 1775, and why?" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It asked the Haudenosaunee to stay at home and not join either side, calling the conflict a family quarrel with Britain, because in the war's first years Congress judged that keeping Native nations neutral cost less than seeking them as allies." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Congress votes for independence." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Congress adopts the Declaration of Independence." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "With the British army advancing across New Jersey, Congress begins sitting in Baltimore." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "After the British capture of Philadelphia, Congress begins meeting at the York, Pennsylvania, court house." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Congress's last day in York before returning to Philadelphia." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1778-06-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Congress sets its terms for peace; John Adams is named to negotiate the next month." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1779-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Second Continental Congress convenes in Philadelphia, weeks after fighting at Lexington and Concord." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Congress chooses George Washington to command the Continental forces; he accepts the next day." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Congress agrees to Washington's commission as General and Commander in chief." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress adopts a declaration on taking up arms that disclaims any aim of separation." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-07-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Delegates of twelve colonies sign the Olive Branch Petition to George III." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Congress approves a speech asking the Six Nations to stay neutral." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-07-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Congress creates the Committee of Secret Correspondence to contact friends abroad." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1775-11-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Congress opens American ports to the ships of all nations except Britain." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Congress receives Richard Henry Lee's resolution for independence." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1776-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2000/01/rdf-schema#label> "Second Continental Congress" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#altLabel> "2nd Continental Congress" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#definition> "The assembly of delegates from the thirteen colonies that convened in Philadelphia on May 10, 1775, after fighting had begun in Massachusetts, and served as the de facto national government of the United States — raising the Continental Army, declaring independence and drafting the Articles of Confederation — until the Articles took effect on March 1, 1781." .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#prefLabel> "Second Continental Congress" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/committee-of-secret-correspondence> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-the-causes-and-necessity-of-taking-up-arms> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-adams> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-dickinson> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lee-resolution> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/olive-branch-petition> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/philadelphia> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/second-continental-congress.md" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/john-hancock> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/continental-army> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/independence-hall> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/first-continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/second-continental-congress/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://schema.org/endDate> "1781-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/second-continental-congress> <https://schema.org/startDate> "1775-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The federal engineering investigation by NIST found that the impacts severed columns and stripped fireproofing, and that multi-floor fires weakened floors that pulled the perimeter columns inward until they failed; it found no corroborating evidence for explosives, and seismic signals came from falling debris after each collapse began." .
 <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Twin Towers were brought down by a planned controlled demolition using explosives or thermite rather than by the hijacked planes." .
@@ -11510,6 +11644,84 @@
 <https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/usa-graph/id/source/roosevelt-corollary/s7> <https://schema.org/url> <https://www.cambridge.org/core/journals/americas/article/clark-memorandum-myth/CA5CEA441323FB908C46329D5350CD3E> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives (The Papers of Benjamin Franklin, vol. 22)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <http://purl.org/dc/terms/title> "Editorial Note on Franklin's Part in the Congressional Debate of July 30 to August 1, 1776" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s10> <https://schema.org/url> <https://founders.archives.gov/documents/Franklin/01-22-02-0317> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <http://purl.org/dc/terms/publisher> "George Washington's Mount Vernon, Digital Encyclopedia (James MacDonald)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <http://purl.org/dc/terms/title> "Appointment as Commander in Chief" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s11> <https://schema.org/url> <https://www.mountvernon.org/digital-encyclopedia/article/appointment-as-commander-in-chief> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <http://purl.org/dc/terms/publisher> "The Encyclopedia of Greater Philadelphia, Rutgers University–Camden (Michael Karpyn)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <http://purl.org/dc/terms/title> "Continental Congresses" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s12> <https://schema.org/url> <https://philadelphiaencyclopedia.org/essays/continental-congresses/> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. Department of State" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <http://purl.org/dc/terms/title> "Articles of Confederation, 1777–1781" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s13> <https://schema.org/url> <https://history.state.gov/milestones/1776-1783/articles> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. Department of State" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <http://purl.org/dc/terms/title> "Continental Congress, 1774–1781" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s1> <https://schema.org/url> <https://history.state.gov/milestones/1776-1783/continental-congress> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. Department of State (Buildings of the Department of State)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <http://purl.org/dc/terms/title> "The Period of the Continental Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s2> <https://schema.org/url> <https://history.state.gov/departmenthistory/buildings/section1> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <http://purl.org/dc/terms/title> "Continental Congress and Constitutional Convention, 1774–1789: Timeline, 1775" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s3> <https://schema.org/url> <https://www.loc.gov/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/articles-and-essays/timeline/1775/> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <http://purl.org/dc/terms/title> "Declaring Independence: Drafting the Documents — Chronology, June 7, 1776 to January 18, 1777" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s4> <https://schema.org/url> <https://www.loc.gov/exhibits/declara/declara2.html> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <http://purl.org/dc/terms/title> "A Declaration by the Representatives of the United Colonies of North-America, Now Met in Congress at Philadelphia, Setting Forth the Causes and Necessity of Their Taking Up Arms (July 6, 1775)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s5> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/contcong_07-06-75.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <http://purl.org/dc/terms/title> "Speech to the Six Confederate Nations (July 13, 1775)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s6> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/contcong_07-13-75.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <http://purl.org/dc/terms/title> "Commission for General Washington (June 17, 1775)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s7> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/contcong_06-17-75.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <http://purl.org/dc/terms/title> "The Olive Branch Petition" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s8> <https://schema.org/url> <https://www.nps.gov/articles/000/the-olive-branch-petition.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <http://purl.org/dc/terms/publisher> "National Archives, The Text Message blog (Greg Bradsher)" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <http://purl.org/dc/terms/title> "“Outsiders” in the United States Army during the American War for Independence" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/second-continental-congress/s9> <https://schema.org/url> <https://text-message.blogs.archives.gov/2021/11/08/outsiders-in-the-united-states-army-during-the-american-war-for-independence> .
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/publisher> "National Commission on Terrorist Attacks Upon the United States" .
 <https://github.com/john1hsu/usa-graph/id/source/september-11-attacks/s1> <http://purl.org/dc/terms/title> "Executive Summary, The 9/11 Commission Report" .

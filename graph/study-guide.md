@@ -213,6 +213,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did later reformers use the Declaration's language?
   **A:** The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed.
 
+### [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Second Continental Congress gathered in 1775 in order to declare independence. | When it met in May 1775 most delegates still hoped for reconciliation. In July 1775 Congress sent George III the Olive Branch Petition professing loyalty and adopted a declaration on taking up arms that denied any intention of separating from Britain. Support for independence grew only after the king refused the petition and declared the colonies in rebellion, and Congress voted for independence on July 2, 1776, fourteen months after it convened. |
+
+**Why it matters:** The Declaration of Independence became Congress's best-remembered act, so its earlier year of petitions and professions of loyalty is easily forgotten.
+
+- **Q:** Why did the Second Continental Congress spend more than a year fighting Britain before it declared independence?
+  **A:** Most delegates in 1775 still hoped for reconciliation; Congress described its armed resistance as defence, denied any aim of separating, and sent the Olive Branch Petition to George III. Only after the king refused to receive it and declared the colonies in open rebellion did calls for independence grow, leading to the vote of July 2, 1776.
+- **Q:** How could a body created only to coordinate colonial protest end up acting as a national government?
+  **A:** Because war had already begun when it convened, Congress had to raise and command an army, issue bills of credit to pay for it, conduct diplomacy and negotiate with Native nations; in doing so it exceeded the authority the colonial governments had given it and governed de facto until the Articles of Confederation took effect in 1781.
+- **Q:** Why was the question of how states would vote in Congress so contentious when the Articles of Confederation were debated in 1776?
+  **A:** Congress had voted by colony, one vote each, and the Dickinson draft kept that rule; Benjamin Franklin argued that votes should follow population and contributions, but his amendment was defeated, so small and large states kept equal votes in the Confederation Congress.
+- **Q:** What did Congress ask of the Six Nations in July 1775, and why?
+  **A:** It asked the Haudenosaunee to stay at home and not join either side, calling the conflict a family quarrel with Britain, because in the war's first years Congress judged that keeping Native nations neutral cost less than seeking them as allies.
+
 ### [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) — Document
 
 | Myth | Fact |
