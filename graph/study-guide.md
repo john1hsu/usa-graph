@@ -598,6 +598,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did the redress movement achieve, and how?
   **A:** Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education.
 
+### [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| The United States stayed strictly neutral in World War II until the attack on Pearl Harbor. | The country was neutral in law but not in practice. From 1939 it sold arms to Britain and France on a cash-and-carry basis, in September 1940 it traded destroyers to Britain for bases, and from March 1941 the Lend-Lease Act let it supply Britain and other nations without immediate payment. |
+
+**Why it matters:** Pearl Harbor was such a sudden shock, and isolationist sentiment before it so loud, that the long, deliberate drift toward aiding the Allies is easily forgotten.
+
+- **Q:** How was the United States involved in the war before Pearl Harbor even though it was officially neutral?
+  **A:** It sold war materiel to Britain on a cash-and-carry basis from 1939, traded more than 50 destroyers to Britain for base leases in 1940, and under the March 1941 Lend-Lease Act supplied Britain and eventually more than 30 countries with about $50 billion in aid without demanding immediate payment.
+- **Q:** Why did the United States end up fighting Germany as well as Japan after Pearl Harbor?
+  **A:** Congress declared war only on Japan on December 8, 1941. On December 11 Germany and Italy declared war on the United States, and Congress then passed resolutions recognizing a state of war with both.
+- **Q:** Why did African American newspapers promote a "Double V" campaign during the war?
+  **A:** About a million Black Americans served, mostly in segregated units led by white officers, while discrimination persisted at home; the Pittsburgh Courier's campaign urged victory over fascism abroad and over racism at home.
+- **Q:** How did the war change the American economy and workforce?
+  **A:** Federal spending soared, unemployment virtually disappeared as some 20 million workers entered the military, women took over a million administrative jobs and became a majority of aircraft-industry workers by 1943, and the bracero program brought Mexican laborers to fill farm jobs.
+
 ## early-republic-and-expansion
 
 ### [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) — Event

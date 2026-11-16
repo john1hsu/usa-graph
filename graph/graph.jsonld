@@ -22830,6 +22830,160 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian (Milestones)",
+   "dcterms:title": "Lend-Lease and Military Aid to the Allies in the Early Years of World War II",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1937-1945/lend-lease"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "Declarations of War",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/declarations-of-war.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian (Milestones)",
+   "dcterms:title": "Wartime Conferences, 1941–1945",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1937-1945/war-time-conferences"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School Lillian Goldman Law Library",
+   "dcterms:title": "Declarations of a State of War with Japan, Germany, and Italy, Part 5: House proceedings, December 8 and 11, 1941",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/wwii/dec05.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "U.S. History, 27.2 The Home Front",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/27-2-the-home-front"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press edition, open text)",
+   "dcterms:title": "The American Yawp, Chapter 24: World War II",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/24-world-war-ii/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The National WWII Museum",
+   "dcterms:title": "Research Starters: US Military by the Numbers",
+   "schema:url": {
+    "@id": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-us-military-numbers"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Surrender of Japan (1945)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/surrender-of-japan"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Dwight D. Eisenhower Presidential Library, Museum and Boyhood Home",
+   "dcterms:title": "World War II: D-Day, The Invasion of Normandy",
+   "schema:url": {
+    "@id": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Naval History and Heritage Command",
+   "dcterms:title": "H-006-1: Battle of Midway — Overview",
+   "schema:url": {
+    "@id": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-006/h-006-1.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Lend-Lease Act (1941)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/lend-lease-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -26168,6 +26322,175 @@
    "uso:date": {
     "@type": "xsd:gYear",
     "@value": "1896"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The country was neutral in law but not in practice. From 1939 it sold arms to Britain and France on a cash-and-carry basis, in September 1940 it traded destroyers to Britain for bases, and from March 1941 the Lend-Lease Act let it supply Britain and other nations without immediate payment.",
+   "uso:myth": "The United States stayed strictly neutral in World War II until the attack on Pearl Harbor.",
+   "uso:why": "Pearl Harbor was such a sudden shock, and isolationist sentiment before it so loud, that the long, deliberate drift toward aiding the Allies is easily forgotten."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How was the United States involved in the war before Pearl Harbor even though it was officially neutral?",
+   "uso:answer": "It sold war materiel to Britain on a cash-and-carry basis from 1939, traded more than 50 destroyers to Britain for base leases in 1940, and under the March 1941 Lend-Lease Act supplied Britain and eventually more than 30 countries with about $50 billion in aid without demanding immediate payment.",
+   "uso:questionFor": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States end up fighting Germany as well as Japan after Pearl Harbor?",
+   "uso:answer": "Congress declared war only on Japan on December 8, 1941. On December 11 Germany and Italy declared war on the United States, and Congress then passed resolutions recognizing a state of war with both.",
+   "uso:questionFor": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did African American newspapers promote a \"Double V\" campaign during the war?",
+   "uso:answer": "About a million Black Americans served, mostly in segregated units led by white officers, while discrimination persisted at home; the Pittsburgh Courier's campaign urged victory over fascism abroad and over racism at home.",
+   "uso:questionFor": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the war change the American economy and workforce?",
+   "uso:answer": "Federal spending soared, unemployment virtually disappeared as some 20 million workers entered the military, women took over a million administrative jobs and became a majority of aircraft-industry workers by 1943, and the bracero program brought Mexican laborers to fill farm jobs.",
+   "uso:questionFor": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "War breaks out in Europe; Roosevelt declares the United States neutral in law, and a new Neutrality Act lets warring nations buy American arms only on a cash-and-carry basis.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1939-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "American combat troops land in French Morocco, opening the campaign in North Africa.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1942-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "D-Day: almost 133,000 Allied troops land on five Normandy beaches under General Eisenhower's command.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1944-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1945-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-09-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs the destroyers-for-bases agreement, trading more than 50 old destroyers to Britain for 99-year leases on bases in Newfoundland and the Caribbean.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1940-09-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Lend-Lease Act is approved, letting the President sell, lend or lease war materiel to any country whose defense he deems vital to U.S. defense.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-03-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Japan attacks the U.S. fleet and airfields at Pearl Harbor, Hawaiʻi.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress declares war on Japan, 82-0 in the Senate and 388-1 in the House.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Germany and Italy declare war on the United States, and Congress answers with declarations of war against both the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-06-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bracero program begins bringing Mexican farm workers to the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-08-04"
    }
   },
   {
@@ -41112,6 +41435,187 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:world-war-ii-and-the-united-states",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9"
+    }
+   ],
+   "rdfs:label": "World War II and the United States",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1945-09-02"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1941-12-07"
+   },
+   "skos:altLabel": [
+    "American involvement in World War II",
+    "Second World War and the United States",
+    "U.S. participation in the Second World War",
+    "United States in World War II"
+   ],
+   "skos:broader": {
+    "@id": "us:world-war-ii"
+   },
+   "skos:definition": "The American part in the Second World War, from formal neutrality and aid to Britain after 1939, through belligerency against Japan, Germany and Italy from December 1941, to Japan's surrender aboard USS Missouri on September 2, 1945 — a war that mobilized more than 12 million Americans in uniform at its peak and remade the home front.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "World War II and the United States",
+   "skos:related": [
+    {
+     "@id": "us:442nd-regimental-combat-team"
+    },
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:atomic-bombings-of-hiroshima-and-nagasaki"
+    },
+    {
+     "@id": "us:attack-on-pearl-harbor"
+    },
+    {
+     "@id": "us:battle-of-midway"
+    },
+    {
+     "@id": "us:d-day"
+    },
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:lend-lease-act"
+    },
+    {
+     "@id": "us:manhattan-project"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:navajo-code-talkers"
+    },
+    {
+     "@id": "us:servicemens-readjustment-act-of-1944"
+    },
+    {
+     "@id": "us:tuskegee-airmen"
+    }
+   ],
+   "uso:domain": "depression-and-world-war",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/depression-and-world-war/world-war-ii-and-the-united-states.md",
+   "uso:ledBy": {
+    "@id": "us:franklin-d-roosevelt"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:bracero-program"
+    },
+    {
+     "@id": "us:double-v-campaign"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:japanese-instrument-of-surrender"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9"
     }
    ]
   },

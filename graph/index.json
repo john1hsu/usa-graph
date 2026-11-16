@@ -16922,6 +16922,215 @@
   ]
  },
  {
+  "id": "us:world-war-ii-and-the-united-states",
+  "title": "World War II and the United States",
+  "aliases": [
+   "United States in World War II",
+   "American involvement in World War II",
+   "U.S. participation in the Second World War",
+   "Second World War and the United States"
+  ],
+  "type": "Conflict",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/depression-and-world-war/world-war-ii-and-the-united-states.md",
+  "created": "2026-11-16",
+  "summary": "The American part in the Second World War, from formal neutrality and aid to Britain after 1939, through belligerency against Japan, Germany and Italy from December 1941, to Japan's surrender aboard USS Missouri on September 2, 1945 — a war that mobilized more than 12 million Americans in uniform at its peak and remade the home front.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:world-war-ii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:attack-on-pearl-harbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:servicemens-readjustment-act-of-1944"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lend-lease-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-midway"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:d-day"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:manhattan-project"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:atomic-bombings-of-hiroshima-and-nagasaki"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:442nd-regimental-combat-team"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:navajo-code-talkers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tuskegee-airmen"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:franklin-d-roosevelt",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:japanese-american-incarceration",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:bracero-program",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:double-v-campaign",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:japanese-instrument-of-surrender",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1941-12-07",
+  "end": "1945-09-02",
+  "review": [
+   {
+    "question": "How was the United States involved in the war before Pearl Harbor even though it was officially neutral?",
+    "answer": "It sold war materiel to Britain on a cash-and-carry basis from 1939, traded more than 50 destroyers to Britain for base leases in 1940, and under the March 1941 Lend-Lease Act supplied Britain and eventually more than 30 countries with about $50 billion in aid without demanding immediate payment."
+   },
+   {
+    "question": "Why did the United States end up fighting Germany as well as Japan after Pearl Harbor?",
+    "answer": "Congress declared war only on Japan on December 8, 1941. On December 11 Germany and Italy declared war on the United States, and Congress then passed resolutions recognizing a state of war with both."
+   },
+   {
+    "question": "Why did African American newspapers promote a \"Double V\" campaign during the war?",
+    "answer": "About a million Black Americans served, mostly in segregated units led by white officers, while discrimination persisted at home; the Pittsburgh Courier's campaign urged victory over fascism abroad and over racism at home."
+   },
+   {
+    "question": "How did the war change the American economy and workforce?",
+    "answer": "Federal spending soared, unemployment virtually disappeared as some 20 million workers entered the military, women took over a million administrative jobs and became a majority of aircraft-industry workers by 1943, and the bracero program brought Mexican laborers to fill farm jobs."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1939-09",
+    "event": "War breaks out in Europe; Roosevelt declares the United States neutral in law, and a new Neutrality Act lets warring nations buy American arms only on a cash-and-carry basis."
+   },
+   {
+    "date": "1940-09-02",
+    "event": "Roosevelt signs the destroyers-for-bases agreement, trading more than 50 old destroyers to Britain for 99-year leases on bases in Newfoundland and the Caribbean."
+   },
+   {
+    "date": "1941-03-11",
+    "event": "The Lend-Lease Act is approved, letting the President sell, lend or lease war materiel to any country whose defense he deems vital to U.S. defense."
+   },
+   {
+    "date": "1941-12-07",
+    "event": "Japan attacks the U.S. fleet and airfields at Pearl Harbor, Hawaiʻi."
+   },
+   {
+    "date": "1941-12-08",
+    "event": "Congress declares war on Japan, 82-0 in the Senate and 388-1 in the House."
+   },
+   {
+    "date": "1941-12-11",
+    "event": "Germany and Italy declare war on the United States, and Congress answers with declarations of war against both the same day."
+   },
+   {
+    "date": "1942-02-19",
+    "event": "Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans."
+   },
+   {
+    "date": "1942-06-04",
+    "event": "The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7."
+   },
+   {
+    "date": "1942-08-04",
+    "event": "The bracero program begins bringing Mexican farm workers to the United States."
+   },
+   {
+    "date": "1942-11",
+    "event": "American combat troops land in French Morocco, opening the campaign in North Africa."
+   },
+   {
+    "date": "1944-06-06",
+    "event": "D-Day: almost 133,000 Allied troops land on five Normandy beaches under General Eisenhower's command."
+   },
+   {
+    "date": "1945-05",
+    "event": "Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day."
+   },
+   {
+    "date": "1945-08-06",
+    "event": "A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9."
+   },
+   {
+    "date": "1945-09-02",
+    "event": "Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay."
+   }
+  ],
+  "misconception": {
+   "myth": "The United States stayed strictly neutral in World War II until the attack on Pearl Harbor.",
+   "fact": "The country was neutral in law but not in practice. From 1939 it sold arms to Britain and France on a cash-and-carry basis, in September 1940 it traded destroyers to Britain for bases, and from March 1941 the Lend-Lease Act let it supply Britain and other nations without immediate payment.",
+   "why": "Pearl Harbor was such a sudden shock, and isolationist sentiment before it so loud, that the long, deliberate drift toward aiding the Allies is easily forgotten."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1937-1945/lend-lease",
+   "https://avalon.law.yale.edu/wwii/dec05.asp",
+   "https://openstax.org/books/us-history/pages/27-2-the-home-front",
+   "https://www.americanyawp.com/text/24-world-war-ii/",
+   "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-us-military-numbers",
+   "https://www.archives.gov/milestone-documents/surrender-of-japan",
+   "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy",
+   "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-006/h-006-1.html",
+   "https://www.archives.gov/milestone-documents/lend-lease-act",
+   "https://history.state.gov/milestones/1937-1945/war-time-conferences",
+   "https://www.senate.gov/about/powers-procedures/declarations-of-war.htm"
+  ]
+ },
+ {
   "id": "us:wright-brothers-first-flight",
   "title": "Wright brothers' first flight",
   "aliases": [

@@ -9,15 +9,14 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.60 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.39 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
 | 3.24 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
-| 2.95 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.70 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.67 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:missouri-compromise`, `us:thirteenth-amendment` |
+| 2.65 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.65 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
 | 2.48 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.47 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
 | 2.45 | `us:betsy-ross-flag-myth` | `us:e-pluribus-unum` | `us:flag-of-the-united-states`, `us:francis-hopkinson`, `us:national-symbols-of-the-united-states`, `us:second-continental-congress` |
 | 2.38 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
-| 2.35 | `us:great-depression` | `us:native-americans` | `us:indian-reorganization-act`, `us:united-states`, `us:world-war-ii-and-the-united-states` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.25 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:constitutional-convention`, `us:second-continental-congress` |
 | 2.24 | `us:pennsylvania` | `us:second-continental-congress` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:philadelphia`, `us:thirteen-colonies` |
@@ -29,3 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.17 | `us:jim-crow-laws` | `us:reynolds-v-sims` | `us:alabama-constitution-of-1901`, `us:equal-protection`, `us:fourteenth-amendment` |
 | 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
 | 2.16 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
+| 2.15 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase` |

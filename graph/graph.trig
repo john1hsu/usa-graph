@@ -425,6 +425,20 @@
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s7> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s8> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/world-war-ii-and-the-united-states.md" .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> .
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> .
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/early-republic-and-expansion/california-gold-rush.md" .
@@ -7140,6 +7154,200 @@
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <https://schema.org/url> <https://newsdesk.si.edu/releases/smithsonian-marks-75th-anniversary-executive-order-9066> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <http://purl.org/dc/terms/title> "Declarations of War" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> <https://schema.org/url> <https://www.senate.gov/about/powers-procedures/declarations-of-war.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian (Milestones)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <http://purl.org/dc/terms/title> "Wartime Conferences, 1941–1945" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> <https://schema.org/url> <https://history.state.gov/milestones/1937-1945/war-time-conferences> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian (Milestones)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <http://purl.org/dc/terms/title> "Lend-Lease and Military Aid to the Allies in the Early Years of World War II" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> <https://schema.org/url> <https://history.state.gov/milestones/1937-1945/lend-lease> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School Lillian Goldman Law Library" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <http://purl.org/dc/terms/title> "Declarations of a State of War with Japan, Germany, and Italy, Part 5: House proceedings, December 8 and 11, 1941" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> <https://schema.org/url> <https://avalon.law.yale.edu/wwii/dec05.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <http://purl.org/dc/terms/title> "U.S. History, 27.2 The Home Front" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> <https://schema.org/url> <https://openstax.org/books/us-history/pages/27-2-the-home-front> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press edition, open text)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <http://purl.org/dc/terms/title> "The American Yawp, Chapter 24: World War II" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> <https://schema.org/url> <https://www.americanyawp.com/text/24-world-war-ii/> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <http://purl.org/dc/terms/publisher> "The National WWII Museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <http://purl.org/dc/terms/title> "Research Starters: US Military by the Numbers" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> <https://schema.org/url> <https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-us-military-numbers> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <http://purl.org/dc/terms/title> "Surrender of Japan (1945)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> <https://schema.org/url> <https://www.archives.gov/milestone-documents/surrender-of-japan> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <http://purl.org/dc/terms/publisher> "Dwight D. Eisenhower Presidential Library, Museum and Boyhood Home" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <http://purl.org/dc/terms/title> "World War II: D-Day, The Invasion of Normandy" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> <https://schema.org/url> <https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <http://purl.org/dc/terms/publisher> "Naval History and Heritage Command" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <http://purl.org/dc/terms/title> "H-006-1: Battle of Midway — Overview" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> <https://schema.org/url> <https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-006/h-006-1.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <http://purl.org/dc/terms/title> "Lend-Lease Act (1941)" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> <https://schema.org/url> <https://www.archives.gov/milestone-documents/lend-lease-act> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The country was neutral in law but not in practice. From 1939 it sold arms to Britain and France on a cash-and-carry basis, in September 1940 it traded destroyers to Britain for bases, and from March 1941 the Lend-Lease Act let it supply Britain and other nations without immediate payment." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The United States stayed strictly neutral in World War II until the attack on Pearl Harbor." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Pearl Harbor was such a sudden shock, and isolationist sentiment before it so loud, that the long, deliberate drift toward aiding the Allies is easily forgotten." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How was the United States involved in the war before Pearl Harbor even though it was officially neutral?" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It sold war materiel to Britain on a cash-and-carry basis from 1939, traded more than 50 destroyers to Britain for base leases in 1940, and under the March 1941 Lend-Lease Act supplied Britain and eventually more than 30 countries with about $50 billion in aid without demanding immediate payment." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States end up fighting Germany as well as Japan after Pearl Harbor?" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Congress declared war only on Japan on December 8, 1941. On December 11 Germany and Italy declared war on the United States, and Congress then passed resolutions recognizing a state of war with both." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did African American newspapers promote a \"Double V\" campaign during the war?" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "About a million Black Americans served, mostly in segregated units led by white officers, while discrimination persisted at home; the Pittsburgh Courier's campaign urged victory over fascism abroad and over racism at home." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the war change the American economy and workforce?" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Federal spending soared, unemployment virtually disappeared as some 20 million workers entered the military, women took over a million administrative jobs and became a majority of aircraft-industry workers by 1943, and the bracero program brought Mexican laborers to fill farm jobs." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "American combat troops land in French Morocco, opening the campaign in North Africa." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "D-Day: almost 133,000 Allied troops land on five Normandy beaches under General Eisenhower's command." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1944-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "War breaks out in Europe; Roosevelt declares the United States neutral in law, and a new Neutrality Act lets warring nations buy American arms only on a cash-and-carry basis." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1939-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs the destroyers-for-bases agreement, trading more than 50 old destroyers to Britain for 99-year leases on bases in Newfoundland and the Caribbean." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1940-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Lend-Lease Act is approved, letting the President sell, lend or lease war materiel to any country whose defense he deems vital to U.S. defense." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-03-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Japan attacks the U.S. fleet and airfields at Pearl Harbor, Hawaiʻi." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress declares war on Japan, 82-0 in the Senate and 388-1 in the House." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Germany and Italy declare war on the United States, and Congress answers with declarations of war against both the same day." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-06-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The bracero program begins bringing Mexican farm workers to the United States." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2000/01/rdf-schema#label> "World War II and the United States" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "American involvement in World War II" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "Second World War and the United States" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. participation in the Second World War" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "United States in World War II" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#definition> "The American part in the Second World War, from formal neutrality and aid to Britain after 1939, through belligerency against Japan, Germany and Italy from December 1941, to Japan's surrender aboard USS Missouri on September 2, 1945 — a war that mobilized more than 12 million Americans in uniform at its peak and remade the home front." .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#prefLabel> "World War II and the United States" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/atomic-bombings-of-hiroshima-and-nagasaki> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-midway> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/d-day> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lend-lease-act> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/manhattan-project> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/navajo-code-talkers> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tuskegee-airmen> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s10> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s11> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s1> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s2> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s3> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s4> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s5> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s6> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s7> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s8> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/world-war-ii-and-the-united-states/s9> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/world-war-ii-and-the-united-states.md" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/bracero-program> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/double-v-campaign> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/japanese-instrument-of-surrender> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://schema.org/endDate> "1945-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://schema.org/startDate> "1941-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/california-gold-rush#graph> {
@@ -17063,6 +17271,7 @@
   <https://github.com/john1hsu/usa-graph/id/1906-san-francisco-earthquake> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -17196,6 +17405,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -17421,6 +17631,7 @@
   <https://github.com/john1hsu/usa-graph/id/asian-american-literature> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/asian-american-literature> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/assassination-of-abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/atomic-bombings-of-hiroshima-and-nagasaki> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -17441,6 +17652,8 @@
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
+  <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/avery-v-midland-county> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
@@ -17474,6 +17687,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-gettysburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-midway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-midway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
@@ -17584,6 +17798,7 @@
   <https://github.com/john1hsu/usa-graph/id/boulder-canyon-project-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/bracero-program> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -17968,6 +18183,7 @@
   <https://github.com/john1hsu/usa-graph/id/cuban-missile-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/culebra-cut> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/cybersecurity-and-infrastructure-security-agency> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/d-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/daisy-bates> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/dakota-oyate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/david-walker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
@@ -18084,6 +18300,7 @@
   <https://github.com/john1hsu/usa-graph/id/dominican-customs-receivership> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/doris-miller> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/dorothea-lange> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/double-v-campaign> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18176,6 +18393,7 @@
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/dust-bowl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
+  <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/e-d-nixon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum-former-motto-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -18435,6 +18653,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
@@ -18957,14 +19176,18 @@
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/japanese-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/japanese-instrument-of-surrender> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/jay-cooke-and-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/jay-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/jazz-ambassadors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
@@ -19133,6 +19356,7 @@
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/lend-lease-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -19236,6 +19460,7 @@
   <https://github.com/john1hsu/usa-graph/id/magna-carta> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/magnuson-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
   <https://github.com/john1hsu/usa-graph/id/maine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/manhattan-project> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/manifest-destiny> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
@@ -19548,6 +19773,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/california> .
@@ -19557,6 +19783,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/native-hawaiians> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/navajo-code-talkers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/neutrality-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -20152,6 +20379,8 @@
   <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/veterans-benefits-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
+  <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/seventeenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/shawnee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/shays-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -20695,6 +20924,7 @@
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/tuskegee-airmen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -21120,18 +21350,45 @@
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/world-war-i> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
-  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/wounded-knee-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .

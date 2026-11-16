@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:treaty-of-paris-1783` | 4 | Mississippi River, haudenosaunee, loyalists, treaty-of-fort-stanwix-1784 |
+| `us:world-war-ii-and-the-united-states` | 4 | Japanese American incarceration during World War II, bracero-program, double-v-campaign, japanese-instrument-of-surrender |
 | `us:affordable-care-act` | 3 | california-v-texas, medicaid, nfib-v-sebelius |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
 | `us:american-revolutionary-war` | 3 | African Americans, Treaty of Paris (1783), haudenosaunee |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 | `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
-| `us:fifteenth-amendment` | 2 | Voting Rights Act of 1965, Women's suffrage movement |
 
-…and 50 more.
+…and 51 more.
 
 ## Happenings by era
 
