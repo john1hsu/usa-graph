@@ -2480,6 +2480,160 @@
   ]
  },
  {
+  "id": "us:bureau-of-ocean-energy-management",
+  "title": "Bureau of Ocean Energy Management",
+  "aliases": [
+   "BOEM",
+   "U.S. Bureau of Ocean Energy Management"
+  ],
+  "type": "Institution",
+  "domain": "geography-and-environment",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/geography-and-environment/bureau-of-ocean-energy-management.md",
+  "created": "2026-11-16",
+  "summary": "The Department of the Interior bureau, formally established on October 1, 2011, out of the breakup of the Minerals Management Service after the Deepwater Horizon oil spill, that leases and plans the development of oil, gas, wind and marine minerals on the roughly 3.2 billion acres of the U.S. Outer Continental Shelf.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:department-of-the-interior"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:deepwater-horizon-oil-spill"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minerals-management-service"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bureau-of-safety-and-environmental-enforcement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:outer-continental-shelf-lands-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marine-minerals-administration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gulf-of-mexico"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oil-industry-in-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:deepwater-horizon-oil-spill"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:department-of-the-interior",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:secretarial-order-3299",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:tommy-beaudreau",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:outer-continental-shelf-lands-act",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "2011-10-01",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the Interior Department split the Minerals Management Service into separate bodies after 2010?",
+    "answer": "One agency had been both selling offshore leases and collecting about $13 billion a year in revenue while also policing drilling safety; after the Deepwater Horizon blowout and earlier inspector-general findings of ethical lapses and conflicts of interest, Secretary Salazar's order separated leasing and planning (BOEM), safety enforcement (BSEE) and revenue collection (ONRR) so that their missions would not pull against one another."
+   },
+   {
+    "question": "How does BOEM's job differ from that of the Bureau of Safety and Environmental Enforcement?",
+    "answer": "BOEM decides where and when offshore resources are offered and manages them — the five-year oil and gas leasing program, renewable-energy leases, sand and gravel for coastal restoration, resource evaluation and environmental studies — while BSEE permits and inspects operations and enforces safety and environmental rules."
+   },
+   {
+    "question": "Why is the 2026 merger into the Marine Minerals Administration disputed?",
+    "answer": "Interior and industry supporters say two overlapping bureaus administering one law cause delays and that a single agency can coordinate better without weakening safety standards; critics, including environmental groups and congressional Democrats, argue that recombining leasing and safety oversight removes the separation created after Deepwater Horizon."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1953",
+    "event": "Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing."
+   },
+   {
+    "date": "1978",
+    "event": "Amendments to the act strengthen environmental safeguards and coastal-state involvement and reinforce the five-year leasing program."
+   },
+   {
+    "date": "1982-01-19",
+    "event": "Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection."
+   },
+   {
+    "date": "2005",
+    "event": "The Energy Policy Act extends offshore authority to renewable energy such as wind, wave and ocean-current power."
+   },
+   {
+    "date": "2010-04-20",
+    "event": "The Deepwater Horizon blowout in the Gulf of Mexico kills 11 workers."
+   },
+   {
+    "date": "2010-05-19",
+    "event": "Secretary Ken Salazar signs Secretarial Order 3299, dividing the Minerals Management Service into three organizations."
+   },
+   {
+    "date": "2010-06-18",
+    "event": "Secretarial Order 3302 renames the agency the Bureau of Ocean Energy Management, Regulation and Enforcement (BOEMRE)."
+   },
+   {
+    "date": "2010-10-01",
+    "event": "Revenue collection moves to a separate Office of Natural Resources Revenue."
+   },
+   {
+    "date": "2011-10-01",
+    "event": "BOEM and the Bureau of Safety and Environmental Enforcement are established as separate bureaus; Tommy Beaudreau becomes BOEM's director."
+   },
+   {
+    "date": "2026-04-03",
+    "event": "The Interior Department announces plans to merge BOEM and BSEE into a Marine Minerals Administration."
+   },
+   {
+    "date": "2026-07-10",
+    "event": "Secretary's Order 3451 establishes the Marine Minerals Administration and vests BOEM's functions in it, with a phased transition."
+   }
+  ],
+  "misconception": {
+   "myth": "After the Deepwater Horizon spill, Congress passed a law abolishing the Minerals Management Service and creating BOEM.",
+   "fact": "The breakup was carried out administratively, by the Interior Secretary's orders of 2010. The House passed a bill to restructure the agency in July 2010, but Congress did not enact the split into law; the 2026 merger into the Marine Minerals Administration was likewise made by secretarial order.",
+   "why": "Other large post-crisis reorganizations, such as the creation of the Department of Homeland Security, were done by statute, and news coverage often described the 2010–2011 changes as a sweeping reform without noting how they were made."
+  },
+  "source_urls": [
+   "https://www.doi.gov/news/pressreleases/Interior-Department-Completes-Reorganization-of-the-Former-MMS",
+   "https://www.everycrsreport.com/reports/R41485.html",
+   "https://www.boem.gov/node/42239",
+   "https://www.boem.gov/newsroom/ocean-science-news/understanding-outer-continental-shelf-lands-act",
+   "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-marine-minerals-administration_final_508.pdf",
+   "https://elr.info/sites/default/files/article/2011/06/41.10414.pdf",
+   "https://www.bnnbloomberg.ca/business/international/2026/04/03/trump-administration-to-rejoin-offshore-drilling-agencies-separated-after-2010-gulf-oil-spill/",
+   "https://www.energy.senate.gov/2026/7/ranking-members-heinrich-and-huffman-lead-call-for-investigation-into-trump-admin-s-plan-to-merge-offshore-energy-agencies"
+  ]
+ },
+ {
   "id": "us:california",
   "title": "California",
   "aliases": [

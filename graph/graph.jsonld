@@ -2058,6 +2058,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The breakup was carried out administratively, by the Interior Secretary's orders of 2010. The House passed a bill to restructure the agency in July 2010, but Congress did not enact the split into law; the 2026 merger into the Marine Minerals Administration was likewise made by secretarial order.",
+   "uso:myth": "After the Deepwater Horizon spill, Congress passed a law abolishing the Minerals Management Service and creating BOEM.",
+   "uso:why": "Other large post-crisis reorganizations, such as the creation of the Department of Homeland Security, were done by statute, and news coverage often described the 2010–2011 changes as a sweeping reform without noting how they were made."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Interior Department split the Minerals Management Service into separate bodies after 2010?",
+   "uso:answer": "One agency had been both selling offshore leases and collecting about $13 billion a year in revenue while also policing drilling safety; after the Deepwater Horizon blowout and earlier inspector-general findings of ethical lapses and conflicts of interest, Secretary Salazar's order separated leasing and planning (BOEM), safety enforcement (BSEE) and revenue collection (ONRR) so that their missions would not pull against one another.",
+   "uso:questionFor": {
+    "@id": "us:bureau-of-ocean-energy-management"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does BOEM's job differ from that of the Bureau of Safety and Environmental Enforcement?",
+   "uso:answer": "BOEM decides where and when offshore resources are offered and manages them — the five-year oil and gas leasing program, renewable-energy leases, sand and gravel for coastal restoration, resource evaluation and environmental studies — while BSEE permits and inspects operations and enforces safety and environmental rules.",
+   "uso:questionFor": {
+    "@id": "us:bureau-of-ocean-energy-management"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is the 2026 merger into the Marine Minerals Administration disputed?",
+   "uso:answer": "Interior and industry supporters say two overlapping bureaus administering one law cause delays and that a single agency can coordinate better without weakening safety standards; critics, including environmental groups and congressional Democrats, argue that recombining leasing and safety oversight removes the separation created after Deepwater Horizon.",
+   "uso:questionFor": {
+    "@id": "us:bureau-of-ocean-energy-management"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1953"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Interior Department announces plans to merge BOEM and BSEE into a Marine Minerals Administration.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2026-04-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary's Order 3451 establishes the Marine Minerals Administration and vests BOEM's functions in it, with a phased transition.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2026-07-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Amendments to the act strengthen environmental safeguards and coastal-state involvement and reinforce the five-year leasing program.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1978"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1982-01-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Energy Policy Act extends offshore authority to renewable energy such as wind, wave and ocean-current power.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2005"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Deepwater Horizon blowout in the Gulf of Mexico kills 11 workers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-04-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary Ken Salazar signs Secretarial Order 3299, dividing the Minerals Management Service into three organizations.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-05-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretarial Order 3302 renames the agency the Bureau of Ocean Energy Management, Regulation and Enforcement (BOEMRE).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-06-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Revenue collection moves to a separate Office of Natural Resources Revenue.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-10-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "BOEM and the Bureau of Safety and Environmental Enforcement are established as separate bureaus; Tommy Beaudreau becomes BOEM's director.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2011-10-01"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/california-gold-rush/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "A few miners found fortunes, but most did not; many made modest profits at best, while others went bankrupt or died, and the surest fortunes went to merchants and speculators such as Samuel Brannan and Levi Strauss who sold goods to miners. Even the discoverer, James Marshall, was at one point stranded penniless.",
@@ -13306,6 +13439,118 @@
    "dcterms:title": "The Southern Manifesto of 1956",
    "schema:url": {
     "@id": "https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of the Interior",
+   "dcterms:title": "Interior Department Completes Reorganization of the Former MMS",
+   "schema:url": {
+    "@id": "https://www.doi.gov/news/pressreleases/Interior-Department-Completes-Reorganization-of-the-Former-MMS"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Congressional Research Service, Henry B. Hogue (via EveryCRSReport)",
+   "dcterms:title": "Reorganization of the Minerals Management Service in the Aftermath of the Deepwater Horizon Oil Spill (R41485)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R41485.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bureau of Ocean Energy Management",
+   "dcterms:title": "About BOEM",
+   "schema:url": {
+    "@id": "https://www.boem.gov/node/42239"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bureau of Ocean Energy Management",
+   "dcterms:title": "Understanding the Outer Continental Shelf Lands Act",
+   "schema:url": {
+    "@id": "https://www.boem.gov/newsroom/ocean-science-news/understanding-outer-continental-shelf-lands-act"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Secretary of the Interior",
+   "dcterms:title": "Order No. 3451: Establishment of the Marine Minerals Administration",
+   "schema:url": {
+    "@id": "https://www.doi.gov/sites/default/files/document_secretarys_orders/so-marine-minerals-administration_final_508.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Peter Jan Honigsberg, Environmental Law Reporter 41 ELR 10414 (May 2011)",
+   "dcterms:title": "Conflict of Interest That Led to the Gulf Oil Disaster",
+   "schema:url": {
+    "@id": "https://elr.info/sites/default/files/article/2011/06/41.10414.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Associated Press (Jennifer McDermott and Matthew Daly), via BNN Bloomberg",
+   "dcterms:title": "Trump administration to rejoin offshore drilling agencies separated after 2010 Gulf oil spill",
+   "schema:url": {
+    "@id": "https://www.bnnbloomberg.ca/business/international/2026/04/03/trump-administration-to-rejoin-offshore-drilling-agencies-separated-after-2010-gulf-oil-spill/"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Senate Committee on Energy and Natural Resources (minority)",
+   "dcterms:title": "Ranking Members Heinrich and Huffman Lead Call for Investigation into Trump Admin's Plan to Merge Offshore Energy Agencies",
+   "schema:url": {
+    "@id": "https://www.energy.senate.gov/2026/7/ranking-members-heinrich-and-huffman-lead-call-for-investigation-into-trump-admin-s-plan-to-merge-offshore-energy-agencies"
    },
    "uso:sourceType": "government"
   },
@@ -29937,6 +30182,137 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:bureau-of-ocean-energy-management",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/bureau-of-ocean-energy-management/s8"
+    }
+   ],
+   "rdfs:label": "Bureau of Ocean Energy Management",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2011-10-01"
+   },
+   "skos:altLabel": [
+    "BOEM",
+    "U.S. Bureau of Ocean Energy Management"
+   ],
+   "skos:broader": {
+    "@id": "us:department-of-the-interior"
+   },
+   "skos:definition": "The Department of the Interior bureau, formally established on October 1, 2011, out of the breakup of the Minerals Management Service after the Deepwater Horizon oil spill, that leases and plans the development of oil, gas, wind and marine minerals on the roughly 3.2 billion acres of the U.S. Outer Continental Shelf.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Bureau of Ocean Energy Management",
+   "skos:related": [
+    {
+     "@id": "us:bureau-of-safety-and-environmental-enforcement"
+    },
+    {
+     "@id": "us:deepwater-horizon-oil-spill"
+    },
+    {
+     "@id": "us:gulf-of-mexico"
+    },
+    {
+     "@id": "us:marine-minerals-administration"
+    },
+    {
+     "@id": "us:minerals-management-service"
+    },
+    {
+     "@id": "us:oil-industry-in-the-united-states"
+    },
+    {
+     "@id": "us:outer-continental-shelf-lands-act"
+    }
+   ],
+   "uso:domain": "geography-and-environment",
+   "uso:establishedBy": {
+    "@id": "us:secretarial-order-3299"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/geography-and-environment/bureau-of-ocean-energy-management.md",
+   "uso:influencedBy": {
+    "@id": "us:outer-continental-shelf-lands-act"
+   },
+   "uso:ledBy": {
+    "@id": "us:tommy-beaudreau"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:department-of-the-interior"
+   },
+   "uso:requires": {
+    "@id": "us:deepwater-horizon-oil-spill"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management/timeline/9"
     }
    ]
   },

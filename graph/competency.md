@@ -35,7 +35,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:chinese-exclusion-act` | 4 | chae-chan-ping-v-united-states, chinese-americans, geary-act, paper-sons |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
-| `us:deepwater-horizon-oil-spill` | 4 | bureau-of-ocean-energy-management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
+| `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 
-…and 55 more.
+…and 56 more.
 
 ## Happenings by era
 
@@ -123,9 +123,7 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `us:deepwater-horizon-oil-spill` |
+_No results._
 
 ## People with no recorded role (gap)
 
@@ -187,6 +185,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:marbury-v-madison` | `us:judicial-review` |
+| `us:secretarial-order-3299` | `us:bureau-of-ocean-energy-management` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
 | `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |

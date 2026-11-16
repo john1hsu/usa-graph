@@ -860,6 +860,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## geography-and-environment
 
+### [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| After the Deepwater Horizon spill, Congress passed a law abolishing the Minerals Management Service and creating BOEM. | The breakup was carried out administratively, by the Interior Secretary's orders of 2010. The House passed a bill to restructure the agency in July 2010, but Congress did not enact the split into law; the 2026 merger into the Marine Minerals Administration was likewise made by secretarial order. |
+
+**Why it matters:** Other large post-crisis reorganizations, such as the creation of the Department of Homeland Security, were done by statute, and news coverage often described the 2010–2011 changes as a sweeping reform without noting how they were made.
+
+- **Q:** Why did the Interior Department split the Minerals Management Service into separate bodies after 2010?
+  **A:** One agency had been both selling offshore leases and collecting about $13 billion a year in revenue while also policing drilling safety; after the Deepwater Horizon blowout and earlier inspector-general findings of ethical lapses and conflicts of interest, Secretary Salazar's order separated leasing and planning (BOEM), safety enforcement (BSEE) and revenue collection (ONRR) so that their missions would not pull against one another.
+- **Q:** How does BOEM's job differ from that of the Bureau of Safety and Environmental Enforcement?
+  **A:** BOEM decides where and when offshore resources are offered and manages them — the five-year oil and gas leasing program, renewable-energy leases, sand and gravel for coastal restoration, resource evaluation and environmental studies — while BSEE permits and inspects operations and enforces safety and environmental rules.
+- **Q:** Why is the 2026 merger into the Marine Minerals Administration disputed?
+  **A:** Interior and industry supporters say two overlapping bureaus administering one law cause delays and that a single agency can coordinate better without weakening safety standards; critics, including environmental groups and congressional Democrats, argue that recombining leasing and safety oversight removes the separation created after Deepwater Horizon.
+
 ### [Colorado River](../articles/geography-and-environment/colorado-river.md) — NaturalFeature
 
 | Myth | Fact |
