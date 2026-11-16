@@ -408,6 +408,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1848-12-05 | President James K. Polk confirms the reports of gold to Congress and asks for a branch mint in California. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | About 25,000 emigrants travel overland to California, the first great year of the rush. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1849 | Chinese immigration to the United States begins in earnest with the California Gold Rush. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1849 | Forty-eight delegates in Monterey write a state constitution, published in English and Spanish, that limits voting to white men. — [California](../articles/states-and-territories/california.md) |
 | 1849-03-23 | Henry "Box" Brown is shipped in a crate by rail from Richmond to Philadelphia, a 27-hour journey. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1849-11-13 | California voters ratify a state constitution, paving the way for statehood. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -552,6 +553,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
@@ -625,6 +627,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1874-03 | Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1875 | The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875-01-30 | The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -652,11 +655,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1880 | Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
+| 1880 | The Angell Treaty allows the United States to regulate or limit, but not wholly prohibit, Chinese immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1882 | Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1882-04-04 | President Chester A. Arthur vetoes a bill that would have suspended Chinese labor immigration for twenty years. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1882-05-06 – 1943 | **[Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md)** (Law) |
+| 1882-05-06 | Arthur approves a revised act suspending Chinese labor immigration for ten years and barring Chinese naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -677,8 +684,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1887-01-25 | The Senate takes its first vote on the amendment and defeats it, 16 to 34. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1887-02-08 | Congress approves the Dawes Act, dividing reservation land held in common into individual allotments. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1887-02-08 | The Dawes General Allotment Act divides reservation land into individual allotments and opens the 'surplus' to settlers. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1888-10-01 | The Scott Act voids the return certificates of Chinese laborers abroad, stranding about 20,000 people. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -688,6 +697,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1892 | Becomes president of NAWSA, serving until Carrie Chapman Catt succeeds her in 1900. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1892 | The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1892 | The Homestead Strike ends in defeat for the steelworkers' union. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1892 | The Homestead strike is broken at Carnegie's Pennsylvania steel works; the People's Party adopts its Omaha Platform; Ida B. Wells publishes Southern Horrors. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
@@ -738,6 +748,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1901-10 | Dines with Booker T. Washington at the White House, provoking a storm of criticism from white Southerners. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1902 | Brings coal operators and miners' leaders to the White House and pushes them into arbitration to end the anthracite coal strike. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1902 | British, German and Italian warships blockade Venezuela's ports after it defaults on debts to foreign bondholders. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1902 | Exclusion is made permanent. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1902 | Park managers buy 21 bison from private owners to rebuild a wild herd that had fallen to about two dozen animals. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1902-06-19 | The U.S. Senate votes to build the canal through Panama rather than Nicaragua. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1902-10 | Wilbur glides 622 feet in 21 seconds, setting American distance and time records for gliders. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
@@ -995,6 +1006,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-06-04 | The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-08-04 | The bracero program begins bringing Mexican farm workers to the United States. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
+| 1943 | During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -1117,6 +1129,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-07-02 | President Lyndon B. Johnson signs the Civil Rights Act of 1964. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1964-07-02 | The Civil Rights Act outlaws segregation in businesses such as theaters, restaurants and hotels. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | State troopers and local officers attack about 600 voting-rights marchers on the Edmund Pettus Bridge in Selma, Alabama (Bloody Sunday). — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1266,6 +1279,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2012 | Following a 2011 Senate resolution, the House unanimously adopts a resolution condemning the exclusion laws. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 2012-06-28 | In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2013 | The Supreme Court strikes down a key federal oversight provision of the Voting Rights Act. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |

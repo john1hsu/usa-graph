@@ -28,10 +28,11 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
-| `us:california-gold-rush` | 5 | Native Americans, act-for-the-government-and-protection-of-indians, chinese-exclusion-act, compromise-of-1850, foreign-miners-tax-of-1850 |
+| `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, continental-army, haudenosaunee, treaty-of-alliance-1778 |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
+| `us:chinese-exclusion-act` | 4 | chae-chan-ping-v-united-states, chinese-americans, geary-act, paper-sons |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
 | `us:deepwater-horizon-oil-spill` | 4 | bureau-of-ocean-energy-management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
-| `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
 
-…and 53 more.
+…and 54 more.
 
 ## Happenings by era
 
@@ -86,6 +86,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:articles-of-confederation` | interpretive |  |
 | `us:attack-on-pearl-harbor` | interpretive |  |
 | `us:blues` | interpretive |  |
+| `us:chinese-exclusion-act` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
@@ -109,9 +110,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:native-americans` | interpretive |  |
 | `us:panama-canal` | interpretive |  |
 | `us:panic-of-1873` | interpretive |  |
-| `us:roosevelt-corollary` | interpretive | `us:luis-maria-drago` |
 
-…and 11 more.
+…and 12 more.
 
 ## Places with nothing tied to them (gap)
 

@@ -911,6 +911,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## gilded-age-and-progressive-era
 
+### [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) — Law
+
+| Myth | Fact |
+|---|---|
+| The Chinese Exclusion Act shut out every Chinese person, and its repeal in 1943 reopened immigration from China. | The 1882 act suspended the entry of Chinese laborers, skilled and unskilled, while merchants, students, teachers, diplomats and travelers with certificates could still enter; the 1943 repeal replaced exclusion with a quota of about 105 people a year, and racial quotas lasted until 1965. |
+
+**Why it matters:** Seeing exclusion as a class-and-race filter enforced through papers, interrogations and quotas explains why Chinese families relied on certificates and paper son identities, and why its effects outlasted the repeal.
+
+- **Q:** Why did President Arthur veto the first exclusion bill in April 1882, and how did the law he signed in May differ?
+  **A:** He argued that a twenty-year ban broke the 1880 treaty, which let the United States limit but not prohibit Chinese immigration, and objected to making Chinese residents register; the act he approved cut the suspension to ten years.
+- **Q:** How did the 1882 act lead to paper sons and daughters?
+  **A:** Because laborers were barred while merchants and their families could still enter with papers, many Chinese immigrants entered as paper sons and daughters, claiming family ties on paper to qualify for admission.
+- **Q:** Why did Congress repeal the exclusion laws in 1943, and why did the repeal not open immigration widely?
+  **A:** China was a wartime ally and Japanese propaganda used exclusion against the alliance; the repeal still set an ethnic quota of about 105 Chinese immigrants a year.
+
 ### [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) — Era
 
 | Myth | Fact |

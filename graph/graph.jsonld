@@ -2858,6 +2858,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1882 act suspended the entry of Chinese laborers, skilled and unskilled, while merchants, students, teachers, diplomats and travelers with certificates could still enter; the 1943 repeal replaced exclusion with a quota of about 105 people a year, and racial quotas lasted until 1965.",
+   "uso:myth": "The Chinese Exclusion Act shut out every Chinese person, and its repeal in 1943 reopened immigration from China.",
+   "uso:why": "Seeing exclusion as a class-and-race filter enforced through papers, interrogations and quotas explains why Chinese families relied on certificates and paper son identities, and why its effects outlasted the repeal."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did President Arthur veto the first exclusion bill in April 1882, and how did the law he signed in May differ?",
+   "uso:answer": "He argued that a twenty-year ban broke the 1880 treaty, which let the United States limit but not prohibit Chinese immigration, and objected to making Chinese residents register; the act he approved cut the suspension to ten years.",
+   "uso:questionFor": {
+    "@id": "us:chinese-exclusion-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the 1882 act lead to paper sons and daughters?",
+   "uso:answer": "Because laborers were barred while merchants and their families could still enter with papers, many Chinese immigrants entered as paper sons and daughters, claiming family ties on paper to qualify for admission.",
+   "uso:questionFor": {
+    "@id": "us:chinese-exclusion-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Congress repeal the exclusion laws in 1943, and why did the repeal not open immigration widely?",
+   "uso:answer": "China was a wartime ally and Japanese propaganda used exclusion against the alliance; the repeal still set an ethnic quota of about 105 Chinese immigrants a year.",
+   "uso:questionFor": {
+    "@id": "us:chinese-exclusion-act"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chinese immigration to the United States begins in earnest with the California Gold Rush.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1849"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Exclusion is made permanent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1902"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1943"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Immigration and Nationality Act ends the national-origins quota system.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Following a 2011 Senate resolution, the House unanimously adopts a resolution condemning the exclusion laws.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2012"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Burlingame Treaty secures free migration between the United States and China.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1868"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1875"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Angell Treaty allows the United States to regulate or limit, but not wholly prohibit, Chinese immigration.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1880"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Chester A. Arthur vetoes a bill that would have suspended Chinese labor immigration for twenty years.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Arthur approves a revised act suspending Chinese labor immigration for ten years and barring Chinese naturalization.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-05-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Scott Act voids the return certificates of Chinese laborers abroad, stranding about 20,000 people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1888-10-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1889-05-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Geary Act extends exclusion for ten more years and requires Chinese residents to carry certificates of residence.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1892"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The movement was built by many organizations and local people, especially students and Black women such as Ella Baker, Diane Nash, Clara Luper and Gloria Richardson, and it confronted segregation in housing, schools and jobs in Northern cities too, as the 1966 Chicago campaign showed.",
@@ -13775,6 +13926,118 @@
     "@id": "https://daily.jstor.org/lost-in-translation-ezra-pounds-imagism-and-the-angel-island-poets"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Milestone Documents",
+   "dcterms:title": "Chinese Exclusion Act (1882)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/chinese-exclusion-act"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Chester A. Arthur, Veto of the Chinese Exclusion Bill, April 4, 1882 (Presidential Speeches)",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/2359"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Immigration History, a project of the Immigration and Ethnic History Society",
+   "dcterms:title": "An Act to Execute Certain Treaty Stipulations Relating to Chinese (aka the Chinese Exclusion Law)",
+   "schema:url": {
+    "@id": "https://immigrationhistory.org/item/an-act-to-execute-certain-treaty-stipulations-relating-to-chinese-aka-the-chinese-exclusion-law/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Caitlin Connelly, In Custodia Legis, Law Library of Congress",
+   "dcterms:title": "The Chinese Exclusion Act, Part 1 – The History",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2022/05/the-chinese-exclusion-act-part-1-the-history/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Immigration History, a project of the Immigration and Ethnic History Society",
+   "dcterms:title": "Chae Chan Ping v. United States (1889), aka the Chinese Exclusion Case",
+   "schema:url": {
+    "@id": "https://immigrationhistory.org/item/chae-chan-ping-v-united-states-1889-aka-the-chinese-exclusion-case"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Andy Urban, Rutgers University Libraries Digital Exhibits",
+   "dcterms:title": "Chinese Exclusion and the Establishment of the Gate-keeping Nation",
+   "schema:url": {
+    "@id": "https://exhibits.libraries.rutgers.edu/chinese_exclusion/chinese-exclusion-and-establishment-gate-keeping-nation"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Repeal of the Chinese Exclusion Act, 1943",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1937-1945/chinese-exclusion-act-repeal"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Densho Encyclopedia",
+   "dcterms:title": "Chinese Exclusion Act",
+   "schema:url": {
+    "@id": "https://encyclopedia.densho.org/Chinese%20Exclusion%20Act/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/civil-rights-movement/s1",
@@ -30343,6 +30606,171 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:chinese-exclusion-act",
+   "@type": "uso:Law",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-exclusion-act/s8"
+    }
+   ],
+   "rdfs:label": "Chinese Exclusion Act",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1943"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1882-05-06"
+   },
+   "skos:altLabel": [
+    "An Act to Execute Certain Treaty Stipulations Relating to Chinese",
+    "Chinese Exclusion Act of 1882",
+    "Chinese Exclusion Law"
+   ],
+   "skos:broader": {
+    "@id": "us:immigration-to-the-united-states"
+   },
+   "skos:definition": "The federal law approved on May 6, 1882, that suspended the immigration of Chinese laborers for ten years and barred Chinese immigrants from naturalized citizenship — the first major U.S. law to restrict immigration by race and class, later extended, made permanent in 1902 and repealed only in 1943.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/gilded-age-and-progressive-era"
+   },
+   "skos:prefLabel": "Chinese Exclusion Act",
+   "skos:related": [
+    {
+     "@id": "us:angel-island-immigration-station"
+    },
+    {
+     "@id": "us:burlingame-treaty"
+    },
+    {
+     "@id": "us:chinese-americans"
+    },
+    {
+     "@id": "us:chinese-detention-barracks-poetry"
+    },
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:immigration-act-of-1924"
+    },
+    {
+     "@id": "us:immigration-and-nationality-act-of-1965"
+    },
+    {
+     "@id": "us:magnuson-act"
+    },
+    {
+     "@id": "us:page-act-of-1875"
+    },
+    {
+     "@id": "us:paper-sons"
+    },
+    {
+     "@id": "us:scott-act"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:chinese-americans"
+   },
+   "uso:domain": "gilded-age-and-progressive-era",
+   "uso:enactedBy": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/gilded-age-and-progressive-era/chinese-exclusion-act.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:chae-chan-ping-v-united-states"
+    },
+    {
+     "@id": "us:geary-act"
+    },
+    {
+     "@id": "us:paper-sons"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:california-gold-rush"
+   },
+   "uso:signedBy": {
+    "@id": "us:chester-a-arthur"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act/timeline/9"
     }
    ]
   },
