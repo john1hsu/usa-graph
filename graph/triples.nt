@@ -4767,6 +4767,115 @@
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/deathDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/endDate> "1913-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/harriet-tubman> <https://schema.org/startDate> "1822"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Some framers knew and admired the Six Nations' union, and Congress formally acknowledged the confederacy's influence in 1988, but historians disagree about how much it shaped the Constitution; the two systems also differ sharply, since Haudenosaunee clan mothers select chiefs and the Grand Council decides by consensus rather than by elections and majority votes." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The framers copied the United States Constitution from the Haudenosaunee Great Law of Peace." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The story is a corrective to histories that left Native nations out of the founding, and real documents such as Franklin's 1751 letter seem to confirm it, so an argument about influence is easily remembered as a claim of direct copying." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does the Haudenosaunee Grand Council reach a decision?" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 50 chiefs sit on three benches — the Mohawk and Seneca as Older Brothers, the Oneida and Cayuga as Younger Brothers, and the Onondaga as Firekeepers — and each bench must agree before passing a matter on; a decision is made only when all three agree, which the Onondaga Nation calls reaching \"One Mind.\"" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the American Revolution devastate the Haudenosaunee even though one of its nations fought on the winning side?" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The confederacy split, with the Oneida and Tuscarora supporting the Americans and most of the other nations joining Britain; American forces burned many Seneca, Onondaga and Cayuga towns in 1779, an Oneida village was destroyed in 1780, and after the war New York's land purchases shrank even the Oneida homeland despite the 1784 Fort Stanwix guarantee." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Kinzua Dam conflict with the Treaty of Canandaigua?" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "In 1794 the United States promised never to claim or disturb the Seneca lands it recognized, yet the federal government took Allegany Reservation land by eminent domain for the dam, flooding about 10,000 acres and moving about 700 people, after courts declined to stop it." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about whether the Haudenosaunee influenced the Constitution?" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Scholars such as Donald Grinde and Bruce Johansen point to Canasatego's 1744 call for colonial union and Franklin's 1751 letter as evidence of influence, while Elisabeth Tooker argued the evidence is thin, that European theory supplied the framers' models, and that the League's matrilineal, consensus-based structure differs greatly from the federal system." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Congress agrees to H. Con. Res. 331, acknowledging the contributions of the Iroquois Confederacy and other Indian nations to the formation of the United States." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1988-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The wampum belts taken in 1890 are returned to the Onondaga Nation." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Tuscarora, who had moved north from North Carolina and Virginia, join the confederacy, which becomes the Six Nations." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1722"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Franklin, urging a union of the British colonies, points to the Six Nations' union as proof that one is possible." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1751-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1768"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Oneida warriors fight beside New York militia at Oriskany while most of the Six Nations side with Britain, splitting the confederacy." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1777-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Clinton-Sullivan expedition burns many Seneca, Onondaga and Cayuga towns." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1779"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Treaty of Fort Stanwix affirms that the Haudenosaunee and the United States are separate nations and sets boundaries to stop settlement." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1784"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1794-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "New York State takes the Onondaga Nation's wampum belts." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TribalNation> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2000/01/rdf-schema#label> "Haudenosaunee" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "Five Nations" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "Haudenosaunee Confederacy" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "Iroquois Confederacy" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "Iroquois League" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "League of the Iroquois" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "People of the Longhouse" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#altLabel> "Six Nations" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#definition> "The Haudenosaunee (\"People of the Longhouse\") are a confederacy of six Native nations — the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora — united under the Great Law of Peace, whose Grand Council still meets at Onondaga in central New York and whose treaties with the United States, including the 1794 Treaty of Canandaigua, the nations regard as binding today." .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/native-nations> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haudenosaunee" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/albany-plan> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/kinzua-dam> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-canandaigua> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/albany-plan> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#domain> "native-nations" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/native-nations/haudenosaunee.md" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/battle-of-oriskany> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/haudenosaunee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898." .
 <https://github.com/john1hsu/usa-graph/id/hawaii/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Native Hawaiians accepted annexation, and Hawaiʻi joined the United States through a ratified treaty." .
@@ -11291,6 +11400,78 @@
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s9> <https://schema.org/url> <https://www.nps.gov/hatu/learn/management/index.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <http://purl.org/dc/terms/publisher> "In Custodia Legis, Law Library of Congress (Jennifer Davis, 2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <http://purl.org/dc/terms/title> "The Haudenosaunee Confederacy and the Constitution" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10> <https://schema.org/url> <https://blogs.loc.gov/law/2023/09/the> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <http://purl.org/dc/terms/publisher> "American Heritage (Alvin M. Josephy Jr., December 1968)" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <http://purl.org/dc/terms/title> "Cornplanter, Can You Swim?" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11> <https://schema.org/url> <https://www.americanheritage.com/node/52215> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <http://purl.org/dc/terms/publisher> "Indigenous Appalachia, West Virginia University Libraries" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <http://purl.org/dc/terms/title> "The Haudenosaunee" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12> <https://schema.org/url> <https://indigenousappalachia.lib.wvu.edu/peoples/native-nations/haudenosaunee> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <http://purl.org/dc/terms/publisher> "Onondaga Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <http://purl.org/dc/terms/title> "History" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1> <https://schema.org/url> <https://onondaganation.org/history> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <http://purl.org/dc/terms/publisher> "Onondaga Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <http://purl.org/dc/terms/title> "About Us" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2> <https://schema.org/url> <https://onondaganation.org/aboutus> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <http://purl.org/dc/terms/publisher> "Onondaga Nation" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <http://purl.org/dc/terms/title> "Treaties" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3> <https://schema.org/url> <https://www.onondaganation.org/government/treaties/> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <http://purl.org/dc/terms/publisher> "The Canadian Encyclopedia (Historica Canada); Peter G. Ramsden, updated by Zach Parrott" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <http://purl.org/dc/terms/title> "Iroquois (Haudenosaunee)" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4> <https://schema.org/url> <https://www.thecanadianencyclopedia.ca/en/article/iroquois> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <http://purl.org/dc/terms/publisher> "The Avalon Project, Lillian Goldman Law Library, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <http://purl.org/dc/terms/title> "Treaty With the Six Nations, 1794" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/six1794.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <http://purl.org/dc/terms/title> "The Oneida Nation in the American Revolution" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6> <https://schema.org/url> <https://www.nps.gov/articles/the-oneida-nation-in-the-american-revolution.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <http://purl.org/dc/terms/title> "Benjamin Franklin to James Parker, 20 March 1751" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7> <https://schema.org/url> <https://founders.archives.gov/documents/Franklin/01-04-02-0037> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <http://purl.org/dc/terms/title> "H. Con. Res. 331 (100th Congress): Iroquois Confederacy and Indian Nations — Recognizing Contributions, 102 Stat. 4932" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4932-2.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <http://purl.org/dc/terms/publisher> "TeachingHistory.org, Roy Rosenzweig Center for History and New Media, George Mason University" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <http://purl.org/dc/terms/title> "Ask a Historian: Iroquois and the Founding Fathers" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9> <https://schema.org/url> <https://teachinghistory.org/history-content/ask-a-historian/24099> .
 <https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/publisher> "Library of Congress, Classroom Materials" .
 <https://github.com/john1hsu/usa-graph/id/source/hawaii/s10> <http://purl.org/dc/terms/title> "Hawaii: Life in a Plantation Society" .

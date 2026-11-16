@@ -6489,6 +6489,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Some framers knew and admired the Six Nations' union, and Congress formally acknowledged the confederacy's influence in 1988, but historians disagree about how much it shaped the Constitution; the two systems also differ sharply, since Haudenosaunee clan mothers select chiefs and the Grand Council decides by consensus rather than by elections and majority votes.",
+   "uso:myth": "The framers copied the United States Constitution from the Haudenosaunee Great Law of Peace.",
+   "uso:why": "The story is a corrective to histories that left Native nations out of the founding, and real documents such as Franklin's 1751 letter seem to confirm it, so an argument about influence is easily remembered as a claim of direct copying."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the Haudenosaunee Grand Council reach a decision?",
+   "uso:answer": "The 50 chiefs sit on three benches — the Mohawk and Seneca as Older Brothers, the Oneida and Cayuga as Younger Brothers, and the Onondaga as Firekeepers — and each bench must agree before passing a matter on; a decision is made only when all three agree, which the Onondaga Nation calls reaching \"One Mind.\"",
+   "uso:questionFor": {
+    "@id": "us:haudenosaunee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the American Revolution devastate the Haudenosaunee even though one of its nations fought on the winning side?",
+   "uso:answer": "The confederacy split, with the Oneida and Tuscarora supporting the Americans and most of the other nations joining Britain; American forces burned many Seneca, Onondaga and Cayuga towns in 1779, an Oneida village was destroyed in 1780, and after the war New York's land purchases shrank even the Oneida homeland despite the 1784 Fort Stanwix guarantee.",
+   "uso:questionFor": {
+    "@id": "us:haudenosaunee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Kinzua Dam conflict with the Treaty of Canandaigua?",
+   "uso:answer": "In 1794 the United States promised never to claim or disturb the Seneca lands it recognized, yet the federal government took Allegany Reservation land by eminent domain for the dam, flooding about 10,000 acres and moving about 700 people, after courts declined to stop it.",
+   "uso:questionFor": {
+    "@id": "us:haudenosaunee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about whether the Haudenosaunee influenced the Constitution?",
+   "uso:answer": "Scholars such as Donald Grinde and Bruce Johansen point to Canasatego's 1744 call for colonial union and Franklin's 1751 letter as evidence of influence, while Elisabeth Tooker argued the evidence is thin, that European theory supplied the framers' models, and that the League's matrilineal, consensus-based structure differs greatly from the federal system.",
+   "uso:questionFor": {
+    "@id": "us:haudenosaunee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Tuscarora, who had moved north from North Carolina and Virginia, join the confederacy, which becomes the Six Nations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1722"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress agrees to H. Con. Res. 331, acknowledging the contributions of the Iroquois Confederacy and other Indian nations to the formation of the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1988-10-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The wampum belts taken in 1890 are returned to the Onondaga Nation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1989"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Benjamin Franklin, urging a union of the British colonies, points to the Six Nations' union as proof that one is possible.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1751-03-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1768"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oneida warriors fight beside New York militia at Oriskany while most of the Six Nations side with Britain, splitting the confederacy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1777-08-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Clinton-Sullivan expedition burns many Seneca, Onondaga and Cayuga towns.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1779"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Fort Stanwix affirms that the Haudenosaunee and the United States are separate nations and sets boundaries to stop settlement.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1784"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1794-11-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York State takes the Onondaga Nation's wampum belts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/hawaii/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "More than 21,000 Native Hawaiians—over half of those counted in 1897—signed petitions against annexation, and the 1897 treaty died in the Senate with only 46 supporters; annexation came instead by a joint resolution that needed only simple majorities, signed July 7, 1898.",
@@ -17841,6 +17983,174 @@
     "@id": "https://www.nps.gov/hatu/learn/management/index.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Onondaga Nation",
+   "dcterms:title": "History",
+   "schema:url": {
+    "@id": "https://onondaganation.org/history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "In Custodia Legis, Law Library of Congress (Jennifer Davis, 2023)",
+   "dcterms:title": "The Haudenosaunee Confederacy and the Constitution",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2023/09/the"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "American Heritage (Alvin M. Josephy Jr., December 1968)",
+   "dcterms:title": "Cornplanter, Can You Swim?",
+   "schema:url": {
+    "@id": "https://www.americanheritage.com/node/52215"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Indigenous Appalachia, West Virginia University Libraries",
+   "dcterms:title": "The Haudenosaunee",
+   "schema:url": {
+    "@id": "https://indigenousappalachia.lib.wvu.edu/peoples/native-nations/haudenosaunee"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Onondaga Nation",
+   "dcterms:title": "About Us",
+   "schema:url": {
+    "@id": "https://onondaganation.org/aboutus"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Onondaga Nation",
+   "dcterms:title": "Treaties",
+   "schema:url": {
+    "@id": "https://www.onondaganation.org/government/treaties/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Canadian Encyclopedia (Historica Canada); Peter G. Ramsden, updated by Zach Parrott",
+   "dcterms:title": "Iroquois (Haudenosaunee)",
+   "schema:url": {
+    "@id": "https://www.thecanadianencyclopedia.ca/en/article/iroquois"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "Treaty With the Six Nations, 1794",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/six1794.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "The Oneida Nation in the American Revolution",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/the-oneida-nation-in-the-american-revolution.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "Benjamin Franklin to James Parker, 20 March 1751",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Franklin/01-04-02-0037"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "H. Con. Res. 331 (100th Congress): Iroquois Confederacy and Indian Nations — Recognizing Contributions, 102 Stat. 4932",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4932-2.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "TeachingHistory.org, Roy Rosenzweig Center for History and New Media, George Mason University",
+   "dcterms:title": "Ask a Historian: Iroquois and the Founding Fathers",
+   "schema:url": {
+    "@id": "https://teachinghistory.org/history-content/ask-a-historian/24099"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/hawaii/s1",
@@ -36106,6 +36416,158 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:haudenosaunee",
+   "@type": "uso:TribalNation",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/haudenosaunee/s9"
+    }
+   ],
+   "rdfs:label": "Haudenosaunee",
+   "skos:altLabel": [
+    "Five Nations",
+    "Haudenosaunee Confederacy",
+    "Iroquois Confederacy",
+    "Iroquois League",
+    "League of the Iroquois",
+    "People of the Longhouse",
+    "Six Nations"
+   ],
+   "skos:broader": {
+    "@id": "us:native-americans"
+   },
+   "skos:definition": "The Haudenosaunee (\"People of the Longhouse\") are a confederacy of six Native nations — the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora — united under the Great Law of Peace, whose Grand Council still meets at Onondaga in central New York and whose treaties with the United States, including the 1794 Treaty of Canandaigua, the nations regard as binding today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/native-nations"
+   },
+   "skos:prefLabel": "Haudenosaunee",
+   "skos:related": [
+    {
+     "@id": "us:albany-plan"
+    },
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:kinzua-dam"
+    },
+    {
+     "@id": "us:new-york"
+    },
+    {
+     "@id": "us:treaty-of-canandaigua"
+    },
+    {
+     "@id": "us:treaty-of-fort-stanwix-1784"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:albany-plan"
+   },
+   "uso:domain": "native-nations",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/native-nations/haudenosaunee.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:battle-of-oriskany"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:native-americans"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/haudenosaunee/timeline/9"
     }
    ]
   },

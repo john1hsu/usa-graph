@@ -30,7 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
-| `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, continental-army, haudenosaunee, treaty-of-alliance-1778 |
+| `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, Haudenosaunee, continental-army, treaty-of-alliance-1778 |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:chinese-exclusion-act` | 4 | Chinese Americans, chae-chan-ping-v-united-states, geary-act, paper-sons |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
@@ -39,12 +39,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
-| `us:treaty-of-paris-1783` | 4 | Mississippi River, haudenosaunee, loyalists, treaty-of-fort-stanwix-1784 |
+| `us:treaty-of-paris-1783` | 4 | Haudenosaunee, Mississippi River, loyalists, treaty-of-fort-stanwix-1784 |
 | `us:world-war-ii-and-the-united-states` | 4 | Japanese American incarceration during World War II, bracero-program, double-v-campaign, japanese-instrument-of-surrender |
 | `us:affordable-care-act` | 3 | california-v-texas, medicaid, nfib-v-sebelius |
 | `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
-| `us:american-revolutionary-war` | 3 | African Americans, Treaty of Paris (1783), haudenosaunee |
-| `us:articles-of-confederation` | 3 | Constitutional Convention, haudenosaunee, tenth-amendment |
+| `us:american-revolutionary-war` | 3 | African Americans, Haudenosaunee, Treaty of Paris (1783) |
+| `us:articles-of-confederation` | 3 | Constitutional Convention, Haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | Chinese Americans, japanese-americans |
 
-…and 59 more.
+…and 60 more.
 
 ## Happenings by era
 
@@ -99,6 +99,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:good-neighbor-policy` | interpretive |  |
 | `us:great-depression` | interpretive |  |
 | `us:great-railroad-strike-of-1877` | interpretive |  |
+| `us:haudenosaunee` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
@@ -109,9 +110,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:mexican-american-war` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
 | `us:monroe-doctrine` | interpretive |  |
-| `us:native-americans` | interpretive |  |
 
-…and 14 more.
+…and 15 more.
 
 ## Places with nothing tied to them (gap)
 

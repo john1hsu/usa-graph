@@ -8018,6 +8018,179 @@
   ]
  },
  {
+  "id": "us:haudenosaunee",
+  "title": "Haudenosaunee",
+  "aliases": [
+   "Haudenosaunee Confederacy",
+   "Iroquois Confederacy",
+   "Iroquois League",
+   "Six Nations",
+   "Five Nations",
+   "People of the Longhouse",
+   "League of the Iroquois"
+  ],
+  "type": "TribalNation",
+  "domain": "native-nations",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/native-nations/haudenosaunee.md",
+  "created": "2026-11-16",
+  "summary": "The Haudenosaunee (\"People of the Longhouse\") are a confederacy of six Native nations — the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora — united under the Great Law of Peace, whose Grand Council still meets at Onondaga in central New York and whose treaties with the United States, including the 1794 Treaty of Canandaigua, the nations regard as binding today.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-fort-stanwix-1784"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-canandaigua"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:kinzua-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:albany-plan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-paris-1783"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-revolutionary-war",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:battle-of-oriskany",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:albany-plan",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "How does the Haudenosaunee Grand Council reach a decision?",
+    "answer": "The 50 chiefs sit on three benches — the Mohawk and Seneca as Older Brothers, the Oneida and Cayuga as Younger Brothers, and the Onondaga as Firekeepers — and each bench must agree before passing a matter on; a decision is made only when all three agree, which the Onondaga Nation calls reaching \"One Mind.\""
+   },
+   {
+    "question": "Why did the American Revolution devastate the Haudenosaunee even though one of its nations fought on the winning side?",
+    "answer": "The confederacy split, with the Oneida and Tuscarora supporting the Americans and most of the other nations joining Britain; American forces burned many Seneca, Onondaga and Cayuga towns in 1779, an Oneida village was destroyed in 1780, and after the war New York's land purchases shrank even the Oneida homeland despite the 1784 Fort Stanwix guarantee."
+   },
+   {
+    "question": "How did the Kinzua Dam conflict with the Treaty of Canandaigua?",
+    "answer": "In 1794 the United States promised never to claim or disturb the Seneca lands it recognized, yet the federal government took Allegany Reservation land by eminent domain for the dam, flooding about 10,000 acres and moving about 700 people, after courts declined to stop it."
+   },
+   {
+    "question": "Why do historians disagree about whether the Haudenosaunee influenced the Constitution?",
+    "answer": "Scholars such as Donald Grinde and Bruce Johansen point to Canasatego's 1744 call for colonial union and Franklin's 1751 letter as evidence of influence, while Elisabeth Tooker argued the evidence is thin, that European theory supplied the framers' models, and that the League's matrilineal, consensus-based structure differs greatly from the federal system."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1722",
+    "event": "The Tuscarora, who had moved north from North Carolina and Virginia, join the confederacy, which becomes the Six Nations."
+   },
+   {
+    "date": "1751-03-20",
+    "event": "Benjamin Franklin, urging a union of the British colonies, points to the Six Nations' union as proof that one is possible."
+   },
+   {
+    "date": "1768",
+    "event": "The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land."
+   },
+   {
+    "date": "1777-08-06",
+    "event": "Oneida warriors fight beside New York militia at Oriskany while most of the Six Nations side with Britain, splitting the confederacy."
+   },
+   {
+    "date": "1779",
+    "event": "The Clinton-Sullivan expedition burns many Seneca, Onondaga and Cayuga towns."
+   },
+   {
+    "date": "1784",
+    "event": "The Treaty of Fort Stanwix affirms that the Haudenosaunee and the United States are separate nations and sets boundaries to stop settlement."
+   },
+   {
+    "date": "1794-11-11",
+    "event": "The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands."
+   },
+   {
+    "date": "1890",
+    "event": "New York State takes the Onondaga Nation's wampum belts."
+   },
+   {
+    "date": "1965",
+    "event": "The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move."
+   },
+   {
+    "date": "1988-10-21",
+    "event": "Congress agrees to H. Con. Res. 331, acknowledging the contributions of the Iroquois Confederacy and other Indian nations to the formation of the United States."
+   },
+   {
+    "date": "1989",
+    "event": "The wampum belts taken in 1890 are returned to the Onondaga Nation."
+   }
+  ],
+  "misconception": {
+   "myth": "The framers copied the United States Constitution from the Haudenosaunee Great Law of Peace.",
+   "fact": "Some framers knew and admired the Six Nations' union, and Congress formally acknowledged the confederacy's influence in 1988, but historians disagree about how much it shaped the Constitution; the two systems also differ sharply, since Haudenosaunee clan mothers select chiefs and the Grand Council decides by consensus rather than by elections and majority votes.",
+   "why": "The story is a corrective to histories that left Native nations out of the founding, and real documents such as Franklin's 1751 letter seem to confirm it, so an argument about influence is easily remembered as a claim of direct copying."
+  },
+  "source_urls": [
+   "https://onondaganation.org/history",
+   "https://onondaganation.org/aboutus",
+   "https://www.onondaganation.org/government/treaties/",
+   "https://www.thecanadianencyclopedia.ca/en/article/iroquois",
+   "https://avalon.law.yale.edu/18th_century/six1794.asp",
+   "https://www.nps.gov/articles/the-oneida-nation-in-the-american-revolution.htm",
+   "https://founders.archives.gov/documents/Franklin/01-04-02-0037",
+   "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg4932-2.pdf",
+   "https://teachinghistory.org/history-content/ask-a-historian/24099",
+   "https://blogs.loc.gov/law/2023/09/the",
+   "https://www.americanheritage.com/node/52215",
+   "https://indigenousappalachia.lib.wvu.edu/peoples/native-nations/haudenosaunee"
+  ]
+ },
+ {
   "id": "us:hawaii",
   "title": "Hawaii",
   "aliases": [

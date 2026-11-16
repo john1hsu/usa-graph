@@ -35,6 +35,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1718 | **[New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md)** (City) |
 | 1718 | Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1722 | France makes New Orleans the capital of French Louisiana. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1722 | The Tuscarora, who had moved north from North Carolina and Virginia, join the confederacy, which becomes the Six Nations. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1723 | Strikes out on his own and finds work as a journeyman printer in Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1730 | Becomes sole proprietor of the printing business he had opened with a partner in 1728. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1731 | Helps organize the Library Company of Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -45,6 +46,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1751 | Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1751-03-20 | Benjamin Franklin, urging a union of the British colonies, points to the Six Nations' union as proof that one is possible. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1751-11-01 | Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1752 | Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1752-06 | Flies a kite in a Philadelphia thunderstorm to collect electrical charge from the clouds. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -60,6 +62,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1768 | The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769-07-16 | Junípero Serra founds Mission San Diego de Alcalá, the first of 21 Franciscan missions, in Kumeyaay country. — [California](../articles/states-and-territories/california.md) |
 | 1773 | She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -120,6 +123,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-06-14 | The Continental Congress adopts a flag of 13 red and white stripes and 13 white stars on a blue field. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1777-06-14 | The Continental Congress resolves that the flag be thirteen red and white stripes and thirteen white stars on blue. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1777-08-06 | Oneida warriors fight beside New York militia at Oriskany as the Haudenosaunee Confederacy splits over the war. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1777-08-06 | Oneida warriors fight beside New York militia at Oriskany while most of the Six Nations side with Britain, splitting the confederacy. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1777-09-30 | After the British capture of Philadelphia, Congress begins meeting at the York, Pennsylvania, court house. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1777-10-17 | John Burgoyne surrenders his army to Horatio Gates at Saratoga, New York. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1777-11-15 – 1789 | **[Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md)** (Document) |
@@ -135,6 +139,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1778-06-27 | Congress's last day in York before returning to Philadelphia. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1778-11-20 | New Jersey ratifies after holding out over western land claims. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779 | Presents his credentials to the French court, becoming the first American minister received by a foreign government. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1779 | The Clinton-Sullivan expedition burns many Seneca, Onondaga and Cayuga towns. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-06-21 | Spain enters the war against Britain. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1779-08-14 | Congress sets its terms for peace; John Adams is named to negotiate the next month. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
@@ -169,6 +174,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1783-11-25 | British forces leave New York City, their last stronghold in the United States. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1783-12-23 | Resigns his commission to Congress at Annapolis, Maryland. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1784 | Prince Hall establishes African Lodge No. 459 in Boston, the start of Black Freemasonry. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1784 | The Treaty of Fort Stanwix affirms that the Haudenosaunee and the United States are separate nations and sets boundaries to stop settlement. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1784-01-14 | The Confederation Congress, meeting in Annapolis, ratifies the treaty. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1784-01-26 | Franklin writes an unsent letter to his daughter mocking the eagle on the Society of the Cincinnati badge and praising the turkey. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1784-10 | Confederation commissioners impose the Treaty of Fort Stanwix on Haudenosaunee delegates while New York pursues its own negotiations. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -242,6 +248,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1794-11-11 | The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1796 | In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
@@ -713,6 +720,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1890 | New York State takes the Onondaga Nation's wampum belts. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1890 | The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1890 | The rival suffrage associations merge as the National American Woman Suffrage Association. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1890-12-29 | U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -1180,6 +1188,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964-09-08 | Prince Edward County's public schools reopen after the Supreme Court's Griffin decision. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1965 | The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
+| 1965 | The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1965 | The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1253,6 +1262,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1988 | Wildfires burn about 36 percent of the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1988 | World War II merchant mariners are finally recognized as veterans, decades after Roosevelt asked Congress to extend them similar benefits. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1988-10-21 | Congress agrees to H. Con. Res. 331, acknowledging the contributions of the Iroquois Confederacy and other Indian nations to the formation of the United States. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
+| 1989 | The wampum belts taken in 1890 are returned to the Onondaga Nation. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |

@@ -6,10 +6,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 3.80 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
 | 3.70 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
-| 3.59 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
+| 3.58 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.38 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
 | 3.23 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
-| 2.96 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:mexican-american-war`, `us:missouri-compromise` |
+| 2.95 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:mexican-american-war`, `us:missouri-compromise` |
 | 2.70 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.64 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
 | 2.60 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
@@ -21,11 +21,11 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.38 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.38 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 2.35 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
+| 2.35 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:haudenosaunee`, `us:louisiana-purchase`, `us:treaty-of-paris-1783` |
+| 2.34 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |
 | 2.33 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.24 | `us:pennsylvania` | `us:second-continental-congress` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:philadelphia`, `us:thirteen-colonies` |
 | 2.23 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:constitutional-convention`, `us:second-continental-congress` |
 | 2.22 | `us:liberty-bell` | `us:second-continental-congress` | `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:independence-hall`, `us:philadelphia` |
 | 2.20 | `us:benjamin-franklin` | `us:betsy-ross-flag-myth` | `us:american-revolutionary-war`, `us:george-washington`, `us:national-symbols-of-the-united-states`, `us:pennsylvania`, `us:philadelphia` |
-| 2.18 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
-| 2.17 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:dred-scott-v-sandford`, `us:frederick-douglass`, `us:judicial-review`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |
-| 2.17 | `us:department-of-homeland-security` | `us:war-in-afghanistan` | `us:george-w-bush`, `us:september-11-attacks`, `us:war-on-terror` |
+| 2.17 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |

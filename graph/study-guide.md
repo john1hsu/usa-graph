@@ -1084,6 +1084,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the case's guardian-and-ward language still important in federal Indian law?
   **A:** Marshall's description of the tribes' relation to the United States as resembling that of a ward to its guardian became a root of the federal trust responsibility, the duty the federal government owes tribes to protect their remaining lands and provide services.
 
+### [Haudenosaunee](../articles/native-nations/haudenosaunee.md) — TribalNation
+
+| Myth | Fact |
+|---|---|
+| The framers copied the United States Constitution from the Haudenosaunee Great Law of Peace. | Some framers knew and admired the Six Nations' union, and Congress formally acknowledged the confederacy's influence in 1988, but historians disagree about how much it shaped the Constitution; the two systems also differ sharply, since Haudenosaunee clan mothers select chiefs and the Grand Council decides by consensus rather than by elections and majority votes. |
+
+**Why it matters:** The story is a corrective to histories that left Native nations out of the founding, and real documents such as Franklin's 1751 letter seem to confirm it, so an argument about influence is easily remembered as a claim of direct copying.
+
+- **Q:** How does the Haudenosaunee Grand Council reach a decision?
+  **A:** The 50 chiefs sit on three benches — the Mohawk and Seneca as Older Brothers, the Oneida and Cayuga as Younger Brothers, and the Onondaga as Firekeepers — and each bench must agree before passing a matter on; a decision is made only when all three agree, which the Onondaga Nation calls reaching "One Mind."
+- **Q:** Why did the American Revolution devastate the Haudenosaunee even though one of its nations fought on the winning side?
+  **A:** The confederacy split, with the Oneida and Tuscarora supporting the Americans and most of the other nations joining Britain; American forces burned many Seneca, Onondaga and Cayuga towns in 1779, an Oneida village was destroyed in 1780, and after the war New York's land purchases shrank even the Oneida homeland despite the 1784 Fort Stanwix guarantee.
+- **Q:** How did the Kinzua Dam conflict with the Treaty of Canandaigua?
+  **A:** In 1794 the United States promised never to claim or disturb the Seneca lands it recognized, yet the federal government took Allegany Reservation land by eminent domain for the dam, flooding about 10,000 acres and moving about 700 people, after courts declined to stop it.
+- **Q:** Why do historians disagree about whether the Haudenosaunee influenced the Constitution?
+  **A:** Scholars such as Donald Grinde and Bruce Johansen point to Canasatego's 1744 call for colonial union and Franklin's 1751 letter as evidence of influence, while Elisabeth Tooker argued the evidence is thin, that European theory supplied the framers' models, and that the League's matrilineal, consensus-based structure differs greatly from the federal system.
+
 ### [Indian Removal Act](../articles/native-nations/indian-removal-act.md) — Law
 
 | Myth | Fact |
