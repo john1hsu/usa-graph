@@ -4241,6 +4241,170 @@
   ]
  },
  {
+  "id": "us:deepwater-horizon-oil-spill",
+  "title": "Deepwater Horizon oil spill",
+  "aliases": [
+   "BP oil spill",
+   "Gulf oil spill of 2010",
+   "Macondo blowout",
+   "Deepwater Horizon disaster"
+  ],
+  "type": "Event",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/contemporary-america/deepwater-horizon-oil-spill.md",
+  "created": "2026-11-16",
+  "summary": "The April 20, 2010, blowout of BP's Macondo well beneath the Deepwater Horizon drilling rig in the Gulf of Mexico, which killed 11 workers and released oil for 87 days in the largest marine oil spill in U.S. history.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:environmental-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:oil-industry-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:barack-obama"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hurricane-katrina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:exxon-valdez-oil-spill"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minerals-management-service"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-coastal-master-plan"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:gulf-of-mexico",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:louisiana",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:restore-act",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:bureau-of-ocean-energy-management",
+    "source": "s5",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2010-04-20",
+  "end": "2010-09-19",
+  "review": [
+   {
+    "question": "Why did the presidential commission conclude the blowout was not simply an accident?",
+    "answer": "It found the loss of the well could have been prevented, tracing it to identifiable mistakes by BP, Halliburton and Transocean that reflected systematic failures in risk management, and to a culture of complacency in industry and government, including a regulator whose leasing-revenue role conflicted with its safety role."
+   },
+   {
+    "question": "How did early underestimates of the flow rate affect the response?",
+    "answer": "Officials first cited 1,000 and then 5,000 barrels a day, while later government estimates put the flow near 62,000 barrels a day at the outset; the commission found the understated estimates impeded planning to stop the oil at its source."
+   },
+   {
+    "question": "How did money from the BP settlements reach Gulf communities and ecosystems?",
+    "answer": "Most of the $5.5 billion Clean Water Act penalty (80 percent) was directed to Gulf restoration under the RESTORE Act, $8.1 billion or more went to natural resource restoration, and the five Gulf states and hundreds of local governments received separate payments for economic losses; Louisiana planned to put $7 billion toward its Coastal Master Plan."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2010-04-20",
+    "event": "The Macondo well blows out beneath the Deepwater Horizon rig; an explosion and fire kill 11 workers and the blowout preventer fails to activate."
+   },
+   {
+    "date": "2010-04-22",
+    "event": "The burning rig sinks in about 5,000 feet of water; aerial dispersant spraying begins the same day."
+   },
+   {
+    "date": "2010-04-24",
+    "event": "Officials announce a flow estimate of up to 1,000 barrels a day, raised to 5,000 barrels a day four days later."
+   },
+   {
+    "date": "2010-04-28",
+    "event": "The first controlled burn of floating oil and the first fishery closures in state waters."
+   },
+   {
+    "date": "2010-05-22",
+    "event": "President Barack Obama announces a national commission to investigate the spill."
+   },
+   {
+    "date": "2010-05-26",
+    "event": "The \"top kill\" attempt to plug the well begins; it fails by May 28."
+   },
+   {
+    "date": "2010-05-30",
+    "event": "A six-month moratorium on deepwater drilling takes effect."
+   },
+   {
+    "date": "2010-06-21",
+    "event": "Fishery closures reach about 37 percent of the Gulf of Mexico."
+   },
+   {
+    "date": "2010-07-15",
+    "event": "BP closes the valves on a new containment cap and the oil stops flowing."
+   },
+   {
+    "date": "2010-09-19",
+    "event": "After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement."
+   },
+   {
+    "date": "2011-01-11",
+    "event": "The presidential commission releases its final report, Deep Water."
+   },
+   {
+    "date": "2013-01-29",
+    "event": "BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty."
+   },
+   {
+    "date": "2015-10-05",
+    "event": "The Justice Department announces a $20.8 billion civil settlement with BP, the United States and five Gulf states."
+   },
+   {
+    "date": "2016-04-04",
+    "event": "A federal court enters the consent decree, including up to $8.8 billion for natural resource damages."
+   }
+  ],
+  "misconception": {
+   "myth": "By August 2010 most of the spilled oil was gone, because the government's \"oil budget\" showed three-quarters of it had disappeared.",
+   "fact": "The oil budget was a rough operational tool for responders whose only directly measured category was oil recovered at the wellhead; it ignored biodegradation, and oil it classed as dispersed, dissolved or evaporated was not necessarily gone. The commission's staff found that the \"75 percent gone\" framing and the claim that the budget was peer-reviewed were inaccurate and produced misleading coverage.",
+   "why": "Officials announced the figures as good news after months of rising flow estimates, and headlines turned uncertain categories into a single reassuring number; much oil in fact sank to the seafloor."
+  },
+  "source_urls": [
+   "https://response.restoration.noaa.gov/taxonomy/term/488",
+   "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater",
+   "https://www.govinfo.gov/content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION-1.pdf",
+   "https://www.govinfo.gov/content/pkg/GOVPUB-PR-PURL-gpo185/pdf/GOVPUB-PR-PURL-gpo185.pdf",
+   "https://64parishes.org/entry/deepwater-horizon-oil-spill",
+   "https://www.niehs.nih.gov/newsreleases/detail/942980"
+  ]
+ },
+ {
   "id": "us:department-of-homeland-security",
   "title": "Department of Homeland Security",
   "aliases": [

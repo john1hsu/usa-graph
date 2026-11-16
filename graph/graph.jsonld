@@ -3444,6 +3444,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The oil budget was a rough operational tool for responders whose only directly measured category was oil recovered at the wellhead; it ignored biodegradation, and oil it classed as dispersed, dissolved or evaporated was not necessarily gone. The commission's staff found that the \"75 percent gone\" framing and the claim that the budget was peer-reviewed were inaccurate and produced misleading coverage.",
+   "uso:myth": "By August 2010 most of the spilled oil was gone, because the government's \"oil budget\" showed three-quarters of it had disappeared.",
+   "uso:why": "Officials announced the figures as good news after months of rising flow estimates, and headlines turned uncertain categories into a single reassuring number; much oil in fact sank to the seafloor."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the presidential commission conclude the blowout was not simply an accident?",
+   "uso:answer": "It found the loss of the well could have been prevented, tracing it to identifiable mistakes by BP, Halliburton and Transocean that reflected systematic failures in risk management, and to a culture of complacency in industry and government, including a regulator whose leasing-revenue role conflicted with its safety role.",
+   "uso:questionFor": {
+    "@id": "us:deepwater-horizon-oil-spill"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did early underestimates of the flow rate affect the response?",
+   "uso:answer": "Officials first cited 1,000 and then 5,000 barrels a day, while later government estimates put the flow near 62,000 barrels a day at the outset; the commission found the understated estimates impeded planning to stop the oil at its source.",
+   "uso:questionFor": {
+    "@id": "us:deepwater-horizon-oil-spill"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did money from the BP settlements reach Gulf communities and ecosystems?",
+   "uso:answer": "Most of the $5.5 billion Clean Water Act penalty (80 percent) was directed to Gulf restoration under the RESTORE Act, $8.1 billion or more went to natural resource restoration, and the five Gulf states and hundreds of local governments received separate payments for economic losses; Louisiana planned to put $7 billion toward its Coastal Master Plan.",
+   "uso:questionFor": {
+    "@id": "us:deepwater-horizon-oil-spill"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Macondo well blows out beneath the Deepwater Horizon rig; an explosion and fire kill 11 workers and the blowout preventer fails to activate.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-04-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-09-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The presidential commission releases its final report, Deep Water.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2011-01-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-01-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Justice Department announces a $20.8 billion civil settlement with BP, the United States and five Gulf states.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2015-10-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A federal court enters the consent decree, including up to $8.8 billion for natural resource damages.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2016-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The burning rig sinks in about 5,000 feet of water; aerial dispersant spraying begins the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-04-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Officials announce a flow estimate of up to 1,000 barrels a day, raised to 5,000 barrels a day four days later.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-04-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first controlled burn of floating oil and the first fishery closures in state waters.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-04-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Barack Obama announces a national commission to investigate the spill.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-05-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The \"top kill\" attempt to plug the well begins; it fails by May 28.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-05-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A six-month moratorium on deepwater drilling takes effect.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-05-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fishery closures reach about 37 percent of the Gulf of Mexico.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-06-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "BP closes the valves on a new containment cap and the oil stops flowing.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-07-15"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The FBI and CIA stayed outside the new department; the 2002 act transferred only the FBI's National Infrastructure Protection Center and allowed FBI and CIA analysts to be detailed to DHS, and President Bush considered folding in the FBI but decided against it.",
@@ -14245,6 +14405,90 @@
     "@id": "https://www.monticello.org/thomas-jefferson/jefferson-slavery/"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "NOAA Office of Response and Restoration",
+   "dcterms:title": "The Deepwater Horizon Oil Spill (response timeline)",
+   "schema:url": {
+    "@id": "https://response.restoration.noaa.gov/taxonomy/term/488"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Office of Public Affairs",
+   "dcterms:title": "U.S. and Five Gulf States Reach Historic Settlement with BP to Resolve Civil Lawsuit Over Deepwater Horizon Oil Spill",
+   "schema:url": {
+    "@id": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling (via GovInfo)",
+   "dcterms:title": "Deep Water: The Gulf Oil Disaster and the Future of Offshore Drilling. Report to the President",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION-1.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling (via GovInfo)",
+   "dcterms:title": "Staff Working Paper No. 3: The Amount and Fate of the Oil (draft)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/GOVPUB-PR-PURL-gpo185/pdf/GOVPUB-PR-PURL-gpo185.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "64 Parishes (Louisiana Endowment for the Humanities), Jason P. Theriot",
+   "dcterms:title": "Deepwater Horizon Oil Spill",
+   "schema:url": {
+    "@id": "https://64parishes.org/entry/deepwater-horizon-oil-spill"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "National Institute of Environmental Health Sciences",
+   "dcterms:title": "NIH study finds chemicals from Deepwater Horizon disaster associated with more wheeze",
+   "schema:url": {
+    "@id": "https://www.niehs.nih.gov/newsreleases/detail/942980"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/department-of-homeland-security/s1",
@@ -30753,6 +30997,147 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:deepwater-horizon-oil-spill",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/deepwater-horizon-oil-spill/s6"
+    }
+   ],
+   "rdfs:label": "Deepwater Horizon oil spill",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "2010-09-19"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2010-04-20"
+   },
+   "skos:altLabel": [
+    "BP oil spill",
+    "Deepwater Horizon disaster",
+    "Gulf oil spill of 2010",
+    "Macondo blowout"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:environmental-history-of-the-united-states"
+    },
+    {
+     "@id": "us:oil-industry-in-the-united-states"
+    }
+   ],
+   "skos:definition": "The April 20, 2010, blowout of BP's Macondo well beneath the Deepwater Horizon drilling rig in the Gulf of Mexico, which killed 11 workers and released oil for 87 days in the largest marine oil spill in U.S. history.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "Deepwater Horizon oil spill",
+   "skos:related": [
+    {
+     "@id": "us:barack-obama"
+    },
+    {
+     "@id": "us:exxon-valdez-oil-spill"
+    },
+    {
+     "@id": "us:hurricane-katrina"
+    },
+    {
+     "@id": "us:louisiana-coastal-master-plan"
+    },
+    {
+     "@id": "us:minerals-management-service"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:louisiana"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/contemporary-america/deepwater-horizon-oil-spill.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:bureau-of-ocean-energy-management"
+    },
+    {
+     "@id": "us:national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling"
+    },
+    {
+     "@id": "us:restore-act"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:gulf-of-mexico"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill/timeline/9"
     }
    ]
   },

@@ -1251,12 +1251,25 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2010-03-23 | **[Affordable Care Act](../articles/contemporary-america/affordable-care-act.md)** (Law) |
 | 2010-03-23 | Obama signs the Patient Protection and Affordable Care Act. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2010-03-30 | Obama signs the Health Care and Education Reconciliation Act, which amends the new law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2010-04-20 – 2010-09-19 | **[Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md)** (Event) |
+| 2010-04-20 | The Macondo well blows out beneath the Deepwater Horizon rig; an explosion and fire kill 11 workers and the blowout preventer fails to activate. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-04-22 | The burning rig sinks in about 5,000 feet of water; aerial dispersant spraying begins the same day. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-04-24 | Officials announce a flow estimate of up to 1,000 barrels a day, raised to 5,000 barrels a day four days later. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-04-28 | The first controlled burn of floating oil and the first fishery closures in state waters. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-05-22 | President Barack Obama announces a national commission to investigate the spill. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-05-26 | The "top kill" attempt to plug the well begins; it fails by May 28. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-05-30 | A six-month moratorium on deepwater drilling takes effect. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-06-21 | Fishery closures reach about 37 percent of the Gulf of Mexico. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-07-15 | BP closes the valves on a new containment cap and the oil stops flowing. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2010-09-19 | After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
+| 2011-01-11 | The presidential commission releases its final report, Deep Water. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-07 | Afghan forces begin taking over security responsibility from international troops. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2011-09-12 | The National September 11 Memorial opens to the public, a day after its dedication on the tenth anniversary. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2012-06-28 | In NFIB v. Sebelius the Supreme Court upholds the individual mandate as a tax but makes the Medicaid expansion optional for states. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2013 | The Supreme Court strikes down a key federal oversight provision of the Voting Rights Act. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2013-01-29 | BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2014 | A second, expanded edition of Island is published by the University of Washington Press. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
@@ -1270,8 +1283,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2015-06-25 | In King v. Burwell the Court, 6 to 3, holds that tax credits are available in states that use the federal exchange. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2015-06-26 | **[Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md)** (CourtCase) |
 | 2015-06-26 | The Court rules 5–4 that states must license and recognize same-sex marriages, overruling Baker v. Nelson. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2015-10-05 | The Justice Department announces a $20.8 billion civil settlement with BP, the United States and five Gulf states. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2016 | Evenwel v. Abbott holds that states may draw legislative districts using total population. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 2016-01 | Obama vetoes the first repeal bill Congress sends him. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
+| 2016-04-04 | A federal court enters the consent decree, including up to $8.8 billion for natural resource damages. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2016-05-09 | The National Bison Legacy Act makes the North American bison the national mammal. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2016-06-26 | Panama's expanded canal opens with new locks on both coasts. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2016-06-26 | The inaugural transit of the expanded canal begins at the new Agua Clara Locks on the Atlantic side. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |

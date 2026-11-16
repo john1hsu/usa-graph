@@ -34,6 +34,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:civil-rights-movement` | 4 | Voting Rights Act of 1965, black-power-movement, civil-rights-act-of-1964, racial-segregation-in-the-united-states |
 | `us:colorado-river` | 4 | California, arizona-v-california, colorado-river-compact, colorado-river-indian-tribes |
+| `us:deepwater-horizon-oil-spill` | 4 | bureau-of-ocean-energy-management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:angel-island-immigration-station` | 2 | chinese-americans, japanese-americans |
 | `us:brown-v-board-of-education` | 2 | massive-resistance, southern-manifesto |
 | `us:declaration-of-independence` | 2 | United States, treaty-of-alliance-1778 |
-| `us:dred-scott-v-sandford` | 2 | lincoln-douglas-debates, republican-party |
 
-…and 52 more.
+…and 53 more.
 
 ## Happenings by era
 
@@ -123,7 +123,9 @@ _No results._
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-_No results._
+| node |
+|---|
+| `us:deepwater-horizon-oil-spill` |
 
 ## People with no recorded role (gap)
 

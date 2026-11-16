@@ -349,6 +349,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did California v. Texas end without a ruling on whether the law was constitutional?
   **A:** Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed.
 
+### [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) — Event
+
+| Myth | Fact |
+|---|---|
+| By August 2010 most of the spilled oil was gone, because the government's "oil budget" showed three-quarters of it had disappeared. | The oil budget was a rough operational tool for responders whose only directly measured category was oil recovered at the wellhead; it ignored biodegradation, and oil it classed as dispersed, dissolved or evaporated was not necessarily gone. The commission's staff found that the "75 percent gone" framing and the claim that the budget was peer-reviewed were inaccurate and produced misleading coverage. |
+
+**Why it matters:** Officials announced the figures as good news after months of rising flow estimates, and headlines turned uncertain categories into a single reassuring number; much oil in fact sank to the seafloor.
+
+- **Q:** Why did the presidential commission conclude the blowout was not simply an accident?
+  **A:** It found the loss of the well could have been prevented, tracing it to identifiable mistakes by BP, Halliburton and Transocean that reflected systematic failures in risk management, and to a culture of complacency in industry and government, including a regulator whose leasing-revenue role conflicted with its safety role.
+- **Q:** How did early underestimates of the flow rate affect the response?
+  **A:** Officials first cited 1,000 and then 5,000 barrels a day, while later government estimates put the flow near 62,000 barrels a day at the outset; the commission found the understated estimates impeded planning to stop the oil at its source.
+- **Q:** How did money from the BP settlements reach Gulf communities and ecosystems?
+  **A:** Most of the $5.5 billion Clean Water Act penalty (80 percent) was directed to Gulf restoration under the RESTORE Act, $8.1 billion or more went to natural resource restoration, and the five Gulf states and hundreds of local governments received separate payments for economic losses; Louisiana planned to put $7 billion toward its Coastal Master Plan.
+
 ### [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) — Institution
 
 | Myth | Fact |
