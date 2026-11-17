@@ -9004,6 +9004,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century.",
+   "uso:myth": "Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review.",
+   "uso:why": "Reading the case's modern fame back into 1803 hides how its reputation was built later, by commentators, the 1903 centennial and Cooper v. Aaron in 1958, and makes the early history of judicial power look more settled than it was."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Marbury lose his case even though the Court agreed he was entitled to his commission?",
+   "uso:answer": "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue a writ of mandamus in a case like Marbury's gave the Court original jurisdiction that Article III did not allow, so that provision was void and the Court had no power to issue the writ; the rule was discharged.",
+   "uso:questionFor": {
+    "@id": "us:marbury-v-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Federalist and Republican fight over the courts in 1801–1802 shape the timing and politics of the case?",
+   "uso:answer": "The lame-duck Federalists created new judgeships and Adams filled offices at the last minute; the Republican Congress then repealed the 1801 act and, through the Judiciary Act of 1802, cancelled the Court's June 1802 term, so the Court did not hear Marbury's motion until February 1803, while Madison declined even to appear.",
+   "uso:questionFor": {
+    "@id": "us:marbury-v-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do historians explain why Marbury came to be seen as the founding case of judicial review?",
+   "uso:answer": "One view stresses Marshall's skill in avoiding a confrontation with Jefferson while claiming a larger power for the Court; another, backed by citation studies, argues that the case was mostly cited for other points in the 1800s and was turned into the canonical source of judicial review by later commentators, the 1903 centennial and Cooper v. Aaron.",
+   "uso:questionFor": {
+    "@id": "us:marbury-v-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1800-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Jefferson, writing to Justice William Johnson, criticizes the opinion as unnecessary and calls its mandamus discussion obiter dictum.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1823"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dred Scott v. Sandford becomes the second federal statute the Court holds unconstitutional, more than fifty years after Marbury.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1857"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cooper v. Aaron invokes Marbury as the foundation of judicial supremacy, cementing its modern image.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1958"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-02-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President John Adams nominates William Marbury as a justice of the peace for the District of Columbia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1801-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1802-03-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1802-04-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marshall announces the unanimous opinion: Marbury has a right to the commission, but the Court lacks power to issue the writ.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1803-02-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Stuart v. Laird the Court accepts the transfer of a case to a court organized under the 1802 act.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1803-03"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable.",
@@ -20761,6 +20903,90 @@
     "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)",
+   "dcterms:title": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), opinion of the Court",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supct/html/historics/USSC_CR_0005_0137_ZO.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Marbury v. Madison (1803)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/marbury-v-madison"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Federal Judicial Center, Cases that Shaped the Federal Courts",
+   "dcterms:title": "Marbury v. Madison (1803)",
+   "schema:url": {
+    "@id": "https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Federal Judicial Center",
+   "dcterms:title": "Landmark Legislation: Judiciary Act of 1802",
+   "schema:url": {
+    "@id": "https://www.fjc.gov/history/legislation/landmark-legislation-judiciary-act-1802"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society",
+   "dcterms:title": "The Marshall Court, 1801–1835",
+   "schema:url": {
+    "@id": "https://supremecourthistory.org/history-of-the-courts/the-marshall-court-1801-1835/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Princeton University (Keith E. Whittington faculty site)",
+   "dcterms:title": "Making a Mountain Out of a Molehill? Marbury and the Construction of the Constitutional Canon (Keith E. Whittington and Amanda Rinderle, 39 Hastings Constitutional Law Quarterly 823, 2012)",
+   "schema:url": {
+    "@id": "https://kewhitt.scholar.princeton.edu/document/47"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1",
@@ -41123,6 +41349,168 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:marbury-v-madison",
+   "@type": "uso:CourtCase",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6"
+    }
+   ],
+   "rdfs:label": "Marbury v. Madison",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1803-02-24"
+   },
+   "skos:altLabel": [
+    "1 Cranch 137",
+    "5 U.S. 137",
+    "Marbury case",
+    "Marbury et al. v. Madison",
+    "Marbury v Madison"
+   ],
+   "skos:broader": {
+    "@id": "us:judicial-review"
+   },
+   "skos:definition": "The February 1803 U.S. Supreme Court decision in which Chief Justice John Marshall held that William Marbury was legally entitled to his undelivered commission as a District of Columbia justice of the peace, but that the Court could not order it delivered because the provision of the Judiciary Act of 1789 it would have relied on unconstitutionally enlarged the Court's original jurisdiction; it was the first time the Court treated an act of Congress as void.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law"
+   },
+   "skos:prefLabel": "Marbury v. Madison",
+   "skos:related": [
+    {
+     "@id": "us:cooper-v-aaron"
+    },
+    {
+     "@id": "us:dred-scott-v-sandford"
+    },
+    {
+     "@id": "us:election-of-1800"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:john-marshall"
+    },
+    {
+     "@id": "us:judiciary-act-of-1789"
+    },
+    {
+     "@id": "us:judiciary-act-of-1801"
+    },
+    {
+     "@id": "us:judiciary-act-of-1802"
+    },
+    {
+     "@id": "us:mcculloch-v-maryland"
+    },
+    {
+     "@id": "us:samuel-chase"
+    },
+    {
+     "@id": "us:stuart-v-laird"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:william-marbury"
+    }
+   ],
+   "uso:authoredBy": {
+    "@id": "us:john-marshall"
+   },
+   "uso:challengedBy": {
+    "@id": "us:thomas-jefferson"
+   },
+   "uso:domain": "rights-and-law",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/rights-and-law/marbury-v-madison.md",
+   "uso:interprets": [
+    {
+     "@id": "us:judiciary-act-of-1789"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:early-republic"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9"
     }
    ]
   },

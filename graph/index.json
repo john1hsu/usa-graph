@@ -11012,6 +11012,203 @@
   ]
  },
  {
+  "id": "us:marbury-v-madison",
+  "title": "Marbury v. Madison",
+  "aliases": [
+   "Marbury v Madison",
+   "Marbury et al. v. Madison",
+   "5 U.S. 137",
+   "1 Cranch 137",
+   "Marbury case"
+  ],
+  "type": "CourtCase",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/rights-and-law/marbury-v-madison.md",
+  "created": "2026-11-17",
+  "summary": "The February 1803 U.S. Supreme Court decision in which Chief Justice John Marshall held that William Marbury was legally entitled to his undelivered commission as a District of Columbia justice of the peace, but that the Court could not order it delivered because the provision of the Judiciary Act of 1789 it would have relied on unconstitutionally enlarged the Court's original jurisdiction; it was the first time the Court treated an act of Congress as void.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:judicial-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-marbury"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:election-of-1800"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judiciary-act-of-1789"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judiciary-act-of-1801"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judiciary-act-of-1802"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stuart-v-laird"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:samuel-chase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dred-scott-v-sandford"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cooper-v-aaron"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcculloch-v-maryland"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-marshall",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:judiciary-act-of-1789",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:early-republic",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:thomas-jefferson",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1803-02-24",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Marbury lose his case even though the Court agreed he was entitled to his commission?",
+    "answer": "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue a writ of mandamus in a case like Marbury's gave the Court original jurisdiction that Article III did not allow, so that provision was void and the Court had no power to issue the writ; the rule was discharged."
+   },
+   {
+    "question": "How did the Federalist and Republican fight over the courts in 1801–1802 shape the timing and politics of the case?",
+    "answer": "The lame-duck Federalists created new judgeships and Adams filled offices at the last minute; the Republican Congress then repealed the 1801 act and, through the Judiciary Act of 1802, cancelled the Court's June 1802 term, so the Court did not hear Marbury's motion until February 1803, while Madison declined even to appear."
+   },
+   {
+    "question": "How do historians explain why Marbury came to be seen as the founding case of judicial review?",
+    "answer": "One view stresses Marshall's skill in avoiding a confrontation with Jefferson while claiming a larger power for the Court; another, backed by citation studies, argues that the case was mostly cited for other points in the 1800s and was turned into the canonical source of judicial review by later commentators, the 1903 centennial and Cooper v. Aaron."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1800-11",
+    "event": "Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801."
+   },
+   {
+    "date": "1801-02-13",
+    "event": "The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships."
+   },
+   {
+    "date": "1801-03-02",
+    "event": "President John Adams nominates William Marbury as a justice of the peace for the District of Columbia."
+   },
+   {
+    "date": "1801-03-03",
+    "event": "The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered."
+   },
+   {
+    "date": "1801-12",
+    "event": "Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission."
+   },
+   {
+    "date": "1802-03-08",
+    "event": "The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships."
+   },
+   {
+    "date": "1802-04-29",
+    "event": "The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term."
+   },
+   {
+    "date": "1803-02-24",
+    "event": "Marshall announces the unanimous opinion: Marbury has a right to the commission, but the Court lacks power to issue the writ."
+   },
+   {
+    "date": "1803-03",
+    "event": "In Stuart v. Laird the Court accepts the transfer of a case to a court organized under the 1802 act."
+   },
+   {
+    "date": "1823",
+    "event": "Thomas Jefferson, writing to Justice William Johnson, criticizes the opinion as unnecessary and calls its mandamus discussion obiter dictum."
+   },
+   {
+    "date": "1857",
+    "event": "Dred Scott v. Sandford becomes the second federal statute the Court holds unconstitutional, more than fifty years after Marbury."
+   },
+   {
+    "date": "1958",
+    "event": "Cooper v. Aaron invokes Marbury as the foundation of judicial supremacy, cementing its modern image."
+   }
+  ],
+  "misconception": {
+   "myth": "Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review.",
+   "fact": "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century.",
+   "why": "Reading the case's modern fame back into 1803 hides how its reputation was built later, by commentators, the 1903 centennial and Cooper v. Aaron in 1958, and makes the early history of judicial power look more settled than it was."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/supct/html/historics/USSC_CR_0005_0137_ZO.html",
+   "https://www.archives.gov/milestone-documents/marbury-v-madison",
+   "https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison",
+   "https://www.fjc.gov/history/legislation/landmark-legislation-judiciary-act-1802",
+   "https://supremecourthistory.org/history-of-the-courts/the-marshall-court-1801-1835/",
+   "https://kewhitt.scholar.princeton.edu/document/47"
+  ]
+ },
+ {
   "id": "us:martin-luther-king-jr",
   "title": "Martin Luther King Jr.",
   "aliases": [

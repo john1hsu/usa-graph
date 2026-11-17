@@ -6564,6 +6564,115 @@
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/endDate> "1803-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/startDate> "1803-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Reading the case's modern fame back into 1803 hides how its reputation was built later, by commentators, the 1903 centennial and Cooper v. Aaron in 1958, and makes the early history of judicial power look more settled than it was." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Marbury lose his case even though the Court agreed he was entitled to his commission?" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Marshall held that the part of the Judiciary Act of 1789 letting the Court issue a writ of mandamus in a case like Marbury's gave the Court original jurisdiction that Article III did not allow, so that provision was void and the Court had no power to issue the writ; the rule was discharged." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Federalist and Republican fight over the courts in 1801–1802 shape the timing and politics of the case?" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The lame-duck Federalists created new judgeships and Adams filled offices at the last minute; the Republican Congress then repealed the 1801 act and, through the Judiciary Act of 1802, cancelled the Court's June 1802 term, so the Court did not hear Marbury's motion until February 1803, while Madison declined even to appear." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How do historians explain why Marbury came to be seen as the founding case of judicial review?" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "One view stresses Marshall's skill in avoiding a confrontation with Jefferson while claiming a larger power for the Court; another, backed by citation studies, argues that the case was mostly cited for other points in the 1800s and was turned into the canonical source of judicial review by later commentators, the 1903 centennial and Cooper v. Aaron." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Jefferson, writing to Justice William Johnson, criticizes the opinion as unnecessary and calls its mandamus discussion obiter dictum." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1823"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Dred Scott v. Sandford becomes the second federal statute the Court holds unconstitutional, more than fifty years after Marbury." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1857"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Cooper v. Aaron invokes Marbury as the foundation of judicial supremacy, cementing its modern image." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1800-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "President John Adams nominates William Marbury as a justice of the peace for the District of Columbia." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1802-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1802-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Marshall announces the unanimous opinion: Marbury has a right to the commission, but the Court lacks power to issue the writ." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In Stuart v. Laird the Court accepts the transfer of a case to a court organized under the 1802 act." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1803-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2000/01/rdf-schema#label> "Marbury v. Madison" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "1 Cranch 137" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "5 U.S. 137" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "Marbury case" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "Marbury et al. v. Madison" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "Marbury v Madison" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#definition> "The February 1803 U.S. Supreme Court decision in which Chief Justice John Marshall held that William Marbury was legally entitled to his undelivered commission as a District of Columbia justice of the peace, but that the Court could not order it delivered because the provision of the Judiciary Act of 1789 it would have relied on unconstitutionally enlarged the Court's original jurisdiction; it was the first time the Court treated an act of Congress as void." .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marbury v. Madison" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cooper-v-aaron> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/election-of-1800> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-adams> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1801> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1802> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/samuel-chase> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stuart-v-laird> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-marbury> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#challengedBy> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#domain> "rights-and-law" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/rights-and-law/marbury-v-madison.md" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/judiciary-act-of-1789> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/marbury-v-madison> <https://schema.org/startDate> "1803-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable." .
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "King was a widely admired, broadly popular figure in his own lifetime." .
@@ -12836,6 +12945,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://schema.org/url> <https://daily.jstor.org/the-actual-louisiana-purchase-price> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/title> "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), opinion of the Court" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <https://schema.org/url> <https://www.law.cornell.edu/supct/html/historics/USSC_CR_0005_0137_ZO.html> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <http://purl.org/dc/terms/title> "Marbury v. Madison (1803)" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s2> <https://schema.org/url> <https://www.archives.gov/milestone-documents/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <http://purl.org/dc/terms/publisher> "Federal Judicial Center, Cases that Shaped the Federal Courts" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <http://purl.org/dc/terms/title> "Marbury v. Madison (1803)" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s3> <https://schema.org/url> <https://fjc.gov/history/cases/cases-that-shaped-the-federal-courts/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <http://purl.org/dc/terms/publisher> "Federal Judicial Center" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <http://purl.org/dc/terms/title> "Landmark Legislation: Judiciary Act of 1802" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s4> <https://schema.org/url> <https://www.fjc.gov/history/legislation/landmark-legislation-judiciary-act-1802> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <http://purl.org/dc/terms/publisher> "Supreme Court Historical Society" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <http://purl.org/dc/terms/title> "The Marshall Court, 1801–1835" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s5> <https://schema.org/url> <https://supremecourthistory.org/history-of-the-courts/the-marshall-court-1801-1835/> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <http://purl.org/dc/terms/publisher> "Princeton University (Keith E. Whittington faculty site)" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <http://purl.org/dc/terms/title> "Making a Mountain Out of a Molehill? Marbury and the Construction of the Constitutional Canon (Keith E. Whittington and Amanda Rinderle, 39 Hastings Constitutional Law Quarterly 823, 2012)" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s6> <https://schema.org/url> <https://kewhitt.scholar.princeton.edu/document/47> .
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/publisher> "Clayborne Carson, American National Biography (Oxford University Press, 1999), author's Stanford copy" .
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/title> "King, Martin Luther, Jr." .

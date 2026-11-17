@@ -1470,6 +1470,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Who was left out of the citizenship clause at first, and how did that change?
   **A:** Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.
 
+### [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review. | Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century. |
+
+**Why it matters:** Reading the case's modern fame back into 1803 hides how its reputation was built later, by commentators, the 1903 centennial and Cooper v. Aaron in 1958, and makes the early history of judicial power look more settled than it was.
+
+- **Q:** Why did Marbury lose his case even though the Court agreed he was entitled to his commission?
+  **A:** Marshall held that the part of the Judiciary Act of 1789 letting the Court issue a writ of mandamus in a case like Marbury's gave the Court original jurisdiction that Article III did not allow, so that provision was void and the Court had no power to issue the writ; the rule was discharged.
+- **Q:** How did the Federalist and Republican fight over the courts in 1801–1802 shape the timing and politics of the case?
+  **A:** The lame-duck Federalists created new judgeships and Adams filled offices at the last minute; the Republican Congress then repealed the 1801 act and, through the Judiciary Act of 1802, cancelled the Court's June 1802 term, so the Court did not hear Marbury's motion until February 1803, while Madison declined even to appear.
+- **Q:** How do historians explain why Marbury came to be seen as the founding case of judicial review?
+  **A:** One view stresses Marshall's skill in avoiding a confrontation with Jefferson while claiming a larger power for the Court; another, backed by citation studies, argues that the case was mostly cited for other points in the 1800s and was turned into the canonical source of judicial review by later commentators, the 1903 centennial and Cooper v. Aaron.
+
 ### [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) — CourtCase
 
 | Myth | Fact |

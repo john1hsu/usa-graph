@@ -271,18 +271,28 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1800 | The Court follows the capital from Philadelphia to Washington and is lent space in the Capitol. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1800-05 | Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1800-11 | Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1800-11-17 | The Senate moves into the unfinished Capitol in Washington, D.C. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1801-01-01 | The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1801-02-13 | The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1801-03-02 | President John Adams nominates William Marbury as a justice of the peace for the District of Columbia. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1801-03-03 | The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1801-12 | Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802 | Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802). — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1802-03-08 | The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1802-04-29 | The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-10 | Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803 | In Marbury v. Madison the Court for the first time declares an act of Congress unconstitutional. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1803 | The U.S. Army erects Fort Dearborn near the mouth of the Chicago River. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1803 | The United States buys the Louisiana territory, about 530 million acres, from France for $15 million. — [United States](../articles/states-and-territories/united-states.md) |
 | 1803-01 | Jefferson sends James Monroe as minister extraordinary to join Robert Livingston in Paris, authorized to pay up to $10 million for New Orleans and the Floridas. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803-02-24 | **[Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md)** (CourtCase) |
 | 1803-02-24 | In Marbury v. Madison the Court, through Chief Justice John Marshall, holds part of the Judiciary Act of 1789 unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
+| 1803-02-24 | Marshall announces the unanimous opinion: Marbury has a right to the commission, but the Court lacks power to issue the writ. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1803-02-27 | In a private letter to William Henry Harrison, lays out a plan to acquire Native lands through trade debts. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1803-03 | In Stuart v. Laird the Court accepts the transfer of a case to a court organized under the 1802 act. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1803-04-11 | French foreign minister Talleyrand tells Livingston that France will sell all of Louisiana. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-04-30 – 1803-12-20 | **[Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md)** (Event) |
 | 1803-04-30 | Livingston, Monroe and François Barbé-Marbois sign the treaty of cession and two financial conventions in Paris. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -342,6 +352,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1822 | Born Araminta "Minty" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1822-03 | Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823 | British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823 | Thomas Jefferson, writing to Justice William Johnson, criticizes the opinion as unnecessary and calls its mandamus discussion obiter dictum. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1823-06-12 | Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
@@ -510,6 +521,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1856 | Works as an agent of the American Anti-Slavery Society. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1856-02 | The U.S. Supreme Court hears the first oral argument; it orders re-argument, held in December 1856. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1857 | Brings her aging parents north after learning her father faces arrest. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1857 | Dred Scott v. Sandford becomes the second federal statute the Court holds unconstitutional, more than fifty years after Marbury. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1857 | In Dred Scott the Court suggests that freeing an enslaved man would deprive his owner of property without due process. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1857 | In Dred Scott v. Sandford the Supreme Court declares the Missouri Compromise unconstitutional. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1857 | In Scott v. Sandford the Court strikes down the Missouri Compromise, the next federal statute it holds unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
@@ -1243,6 +1255,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1957-09-24 | Eisenhower signs Executive Order 10730, federalizing the Arkansas Guard and sending in the 101st Airborne Division. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1957-09-25 | Escorted by federal troops, the Little Rock Nine attend their first full day of classes. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1957-11 | The 101st Airborne returns to Fort Campbell, leaving federalized Guard units in charge for the rest of the year. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
+| 1958 | Cooper v. Aaron invokes Marbury as the foundation of judicial supremacy, cementing its modern image. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1958-02 | Minnijean Brown is expelled after retaliating against harassment. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-05 | Ernest Green becomes the first Black student to graduate from Central High. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |

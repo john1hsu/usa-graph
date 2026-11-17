@@ -66,6 +66,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | era | node | start |
 |---|---|---|
 | `us:cold-war` | `us:desegregation-of-little-rock-central-high-school` | 1957-09-02 |
+| `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
@@ -108,10 +109,10 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:lattimer-massacre` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
+| `us:marbury-v-madison` | interpretive | `us:thomas-jefferson` |
 | `us:martin-luther-king-jr` | interpretive |  |
-| `us:mexican-american-war` | interpretive |  |
 
-…and 17 more.
+…and 18 more.
 
 ## Places with nothing tied to them (gap)
 
