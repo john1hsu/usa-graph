@@ -36,6 +36,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians now cite about 750,000 deaths instead of the long-used 620,000?
   **A:** J. David Hacker compared census survival rates for 1860–1870 with the decades before and after, and the shortfall pointed to about 750,000 deaths (range 650,000–850,000), since earlier counts relied on incomplete military records.
 
+### [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Freedmen's Bureau gave freed families "forty acres and a mule." | The 1865 act let the bureau rent abandoned or confiscated land in plots of no more than forty acres, with an option to buy; after President Johnson pardoned former Confederates, the bureau was ordered to return that land to its former owners, a process nearly complete in Georgia by summer 1866, and only a small share of the land freedpeople had settled stayed in Black hands. |
+
+**Why it matters:** Remembering a broken promise as a fulfilled one hides why most freedpeople started freedom without land and turned to wage labor and sharecropping on white-owned farms.
+
+- **Q:** Why did most freedpeople fail to keep land that the bureau had been authorized to rent and sell to them?
+  **A:** The land came from abandoned and confiscated Confederate property, and once President Johnson pardoned former Confederates and overturned Sherman's field order, the bureau was ordered to return it to its former owners; by summer 1866 restoration in Georgia was nearly complete, and only about one-sixth of the land settled by freed families stayed in their hands.
+- **Q:** How did the bureau's fight with President Johnson help widen the split between him and Congress?
+  **A:** Johnson vetoed the February 1866 extension bill as unnecessary, costly and an intrusion on states' rights; the override failed, but Congress passed a second bill in July 1866 over another veto, a clash that deepened the break between Johnson and congressional Republicans.
+- **Q:** Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?
+  **A:** It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes.
+
 ### [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) — Conflict
 
 | Myth | Fact |

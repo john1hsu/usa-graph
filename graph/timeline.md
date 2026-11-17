@@ -585,6 +585,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1864-02-09 | Senator Charles Sumner presents the first 100,000 signatures from the Women's Loyal National League's emancipation petition. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1864-02-10 | The Senate Judiciary Committee under Lyman Trumbull reports the amendment to the full Senate. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-02-16 | Her copyright claim for cartes de visite titled "I sell the Shadow to Support the Substance" is recorded. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1864-03-01 | The House passes the first bill for a freedmen's bureau by a vote of 69 to 67. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1864-04-08 | The Senate passes the amendment, 38 to 6. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1864-06 | Congress grants Black soldiers pay equal to white soldiers, retroactively. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1864-09-02 | William T. Sherman's army captures Atlanta before marching to the sea. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -595,12 +596,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865 | The United States backs Mexican President Benito Juárez against the French-supported Emperor Maximilian. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1865 | The end of the Civil War closes the era of escape from slavery in the United States. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1865-01 | General William T. Sherman's Special Field Order No. 15 sets aside abandoned coastal land for freedpeople. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-06 | Lakota and Cheyenne fighters, retaliating for the Sand Creek Massacre, attack the Mud Springs telegraph station in Nebraska; its operator wires for troops. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
+| 1865-03-03 – 1872-06 | **[Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md)** (Institution) |
+| 1865-03-03 | Congress passes the act creating the bureau in the War Department, and President Lincoln signs it the same day. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1865-05 | President Andrew Johnson appoints Major General Oliver Otis Howard as commissioner. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1865-06-19 | General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1865-12 | Alabama adopts a Black Code controlling the labor and movement of freed people. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1865-12-06 | **[Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md)** (Law) |
@@ -613,14 +618,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1866 | Elizabeth Cady Stanton and Susan B. Anthony help form the American Equal Rights Association to seek suffrage for Black Americans and women alike. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1866 | Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1866-02-19 | Johnson vetoes a bill to extend the bureau; the Senate fails to override the next day. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-13 | The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1866-06-13 | The House passes the amendment, 120 to 32. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-16 | The joint resolution is submitted to the states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-07-16 | A second Freedmen's Bureau Act becomes law over Johnson's veto, extending the agency for two years. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1866-07-23 | Congress reduces the authorized seats to seven, to be reached as vacancies occur. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1866-07-30 | White mobs, joined by police, kill nearly fifty people at the Mechanics' Institute during a convention seeking Black men's voting rights. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1867 | The Military Reconstruction Act places the bureau under the commanders of five military districts. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1867-06-24 | Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
@@ -636,6 +644,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-09 | Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1868-07-25 | Congress creates Wyoming Territory; the 1868 Fort Laramie treaty negotiated with Red Cloud closes the Bozeman Trail the same year. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1869 | Congress cuts most of the bureau's funding; offices close but educational work continues for a time. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1869 | The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
@@ -655,6 +664,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870 | Campaigns for federal land grants to formerly enslaved people and meets President Ulysses S. Grant. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1870 | Congress makes Thanksgiving a holiday in the District of Columbia, leaving its date to the President. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1870 | The Washburn–Langford–Doane Expedition explores the plateau and names Old Faithful. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1870 | The bureau supports more than 1,500 schools serving over 100,000 pupils. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -688,6 +698,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1872-03-01 | **[Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md)** (Landmark) |
 | 1872-03-01 | President Ulysses S. Grant signs the Yellowstone National Park Protection Act. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-03-01 | The Yellowstone park bill becomes law, about ten weeks after its introduction. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
+| 1872-06 | The bureau is discontinued. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1872-11-01 | Registers to vote in Rochester's Eighth Ward with her three sisters and other women, citing the Fourteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1872-11-05 | Votes in the presidential and congressional election. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1872-11-18 | Arrested at her Rochester home for voting illegally under the Enforcement Act of 1870. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |

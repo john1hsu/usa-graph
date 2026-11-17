@@ -5709,6 +5709,130 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The 1865 act let the bureau rent abandoned or confiscated land in plots of no more than forty acres, with an option to buy; after President Johnson pardoned former Confederates, the bureau was ordered to return that land to its former owners, a process nearly complete in Georgia by summer 1866, and only a small share of the land freedpeople had settled stayed in Black hands.",
+   "uso:myth": "The Freedmen's Bureau gave freed families \"forty acres and a mule.\"",
+   "uso:why": "Remembering a broken promise as a fulfilled one hides why most freedpeople started freedom without land and turned to wage labor and sharecropping on white-owned farms."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did most freedpeople fail to keep land that the bureau had been authorized to rent and sell to them?",
+   "uso:answer": "The land came from abandoned and confiscated Confederate property, and once President Johnson pardoned former Confederates and overturned Sherman's field order, the bureau was ordered to return it to its former owners; by summer 1866 restoration in Georgia was nearly complete, and only about one-sixth of the land settled by freed families stayed in their hands.",
+   "uso:questionFor": {
+    "@id": "us:freedmens-bureau"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the bureau's fight with President Johnson help widen the split between him and Congress?",
+   "uso:answer": "Johnson vetoed the February 1866 extension bill as unnecessary, costly and an intrusion on states' rights; the override failed, but Congress passed a second bill in July 1866 over another veto, a clash that deepened the break between Johnson and congressional Republicans.",
+   "uso:questionFor": {
+    "@id": "us:freedmens-bureau"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?",
+   "uso:answer": "It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes.",
+   "uso:questionFor": {
+    "@id": "us:freedmens-bureau"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House passes the first bill for a freedmen's bureau by a vote of 69 to 67.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1864-03-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bureau is discontinued.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1872-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "General William T. Sherman's Special Field Order No. 15 sets aside abandoned coastal land for freedpeople.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1865-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the act creating the bureau in the War Department, and President Lincoln signs it the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-03-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Andrew Johnson appoints Major General Oliver Otis Howard as commissioner.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1865-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Johnson vetoes a bill to extend the bureau; the Senate fails to override the next day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second Freedmen's Bureau Act becomes law over Johnson's veto, extending the agency for two years.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1866-07-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Military Reconstruction Act places the bureau under the commanders of five military districts.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1867"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress cuts most of the bureau's funding; offices close but educational work continues for a time.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1869"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bureau supports more than 1,500 schools serving over 100,000 pupils.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1870"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts.",
@@ -17977,6 +18101,90 @@
     "@id": "https://www.nps.gov/articles/000/why-the-women-s-rights-movement-split-over-the-15th-amendment.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, African American Heritage",
+   "dcterms:title": "The Freedmen's Bureau",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/african-americans/freedmens-bureau"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Art & History",
+   "dcterms:title": "The Freedmen's Bureau",
+   "schema:url": {
+    "@id": "https://www.senate.gov/artandhistory/history/common/generic/FreedmensBureau.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "The Rise and Fall of the Freedmen's Bureau",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/the-rise-and-fall-of-the-freedmen-s-bureau.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Roberta Sue Alexander, NCpedia (State Library of North Carolina), 2006",
+   "dcterms:title": "Freedmen's Bureau",
+   "schema:url": {
+    "@id": "https://ncpedia.org/node/2531"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Edward A. Hatfield, New Georgia Encyclopedia (Georgia Humanities and University of Georgia Press)",
+   "dcterms:title": "Freedmen's Bureau",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/freedmens-bureau"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Lit2Go, Florida Center for Instructional Technology, University of South Florida",
+   "dcterms:title": "The Souls of Black Folk, Chapter 2: Of the Dawn of Freedom (W. E. B. Du Bois, 1903)",
+   "schema:url": {
+    "@id": "https://etc.usf.edu/lit2go/203/the-souls-of-black-folk/4432/chapter-2-of-the-dawn-of-freedom/"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/gatun-locks/s1",
@@ -37488,6 +37696,140 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/frederick-douglass/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:freedmens-bureau",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/freedmens-bureau/s6"
+    }
+   ],
+   "rdfs:label": "Freedmen's Bureau",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1872-06"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1865-03-03"
+   },
+   "skos:altLabel": [
+    "Bureau of Refugees",
+    "Freedmen",
+    "and Abandoned Lands"
+   ],
+   "skos:broader": {
+    "@id": "us:reconstruction-era"
+   },
+   "skos:definition": "The federal agency, created in the War Department in March 1865 and closed in 1872, that gave relief to freedpeople and white refugees in the war-torn South, supervised labor contracts, managed abandoned and confiscated land, and helped build schools for formerly enslaved people.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction"
+   },
+   "skos:prefLabel": "Freedmen's Bureau",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:andrew-johnson"
+    },
+    {
+     "@id": "us:freedmans-savings-and-trust-company"
+    },
+    {
+     "@id": "us:sharecropping"
+    },
+    {
+     "@id": "us:special-field-order-no-15"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:african-americans"
+   },
+   "uso:domain": "civil-war-and-reconstruction",
+   "uso:establishedBy": [
+    {
+     "@id": "us:freedmens-bureau-act-of-1865"
+    },
+    {
+     "@id": "us:freedmens-bureau-act-of-1866"
+    }
+   ],
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/civil-war-and-reconstruction/freedmens-bureau.md",
+   "uso:ledBy": {
+    "@id": "us:oliver-otis-howard"
+   },
+   "uso:ledTo": {
+    "@id": "us:historically-black-colleges-and-universities"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:united-states-department-of-war"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/freedmens-bureau/timeline/9"
     }
    ]
   },

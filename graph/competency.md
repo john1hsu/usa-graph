@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:telegraph` | 3 | American Civil War, pony-express, railroads-in-the-united-states |
 
-…and 64 more.
+…and 67 more.
 
 ## Happenings by era
 
@@ -94,6 +94,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:e-pluribus-unum` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
+| `us:freedmens-bureau` | interpretive |  |
 | `us:george-washington` | interpretive |  |
 | `us:gilded-age` | interpretive |  |
 | `us:good-neighbor-policy` | interpretive |  |
@@ -109,9 +110,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:louisiana-purchase` | interpretive |  |
 | `us:martin-luther-king-jr` | interpretive |  |
 | `us:mexican-american-war` | interpretive |  |
-| `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
 
-…and 16 more.
+…and 17 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -179,6 +179,8 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:fourteenth-amendment` | `us:census-and-apportionment` |
 | `us:fourteenth-amendment` | `us:due-process` |
 | `us:fourteenth-amendment` | `us:equal-protection` |
+| `us:freedmens-bureau-act-of-1865` | `us:freedmens-bureau` |
+| `us:freedmens-bureau-act-of-1866` | `us:freedmens-bureau` |
 | `us:hawaii-admission-act` | `us:hawaii` |
 | `us:hay-bunau-varilla-treaty` | `us:panama-canal` |
 | `us:homeland-security-act-of-2002` | `us:department-of-homeland-security` |
@@ -195,5 +197,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:united-states` |
 | `us:united-states-constitution` | `us:united-states-congress` |
 | `us:wyoming-statehood-act` | `us:wyoming` |
-| `us:yellowstone-national-park-protection-act` | `us:yellowstone-national-park` |
+
+…and 1 more.
 

@@ -6985,6 +6985,163 @@
   ]
  },
  {
+  "id": "us:freedmens-bureau",
+  "title": "Freedmen's Bureau",
+  "aliases": [
+   "Bureau of Refugees",
+   "Freedmen",
+   "and Abandoned Lands"
+  ],
+  "type": "Institution",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/civil-war-and-reconstruction/freedmens-bureau.md",
+  "created": "2026-11-17",
+  "summary": "The federal agency, created in the War Department in March 1865 and closed in 1872, that gave relief to freedpeople and white refugees in the war-torn South, supervised labor contracts, managed abandoned and confiscated land, and helped build schools for formerly enslaved people.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:special-field-order-no-15"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:freedmans-savings-and-trust-company"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sharecropping"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:freedmens-bureau-act-of-1865",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:freedmens-bureau-act-of-1866",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:united-states-department-of-war",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:oliver-otis-howard",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:historically-black-colleges-and-universities",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1865-03-03",
+  "end": "1872-06",
+  "review": [
+   {
+    "question": "Why did most freedpeople fail to keep land that the bureau had been authorized to rent and sell to them?",
+    "answer": "The land came from abandoned and confiscated Confederate property, and once President Johnson pardoned former Confederates and overturned Sherman's field order, the bureau was ordered to return it to its former owners; by summer 1866 restoration in Georgia was nearly complete, and only about one-sixth of the land settled by freed families stayed in their hands."
+   },
+   {
+    "question": "How did the bureau's fight with President Johnson help widen the split between him and Congress?",
+    "answer": "Johnson vetoed the February 1866 extension bill as unnecessary, costly and an intrusion on states' rights; the override failed, but Congress passed a second bill in July 1866 over another veto, a clash that deepened the break between Johnson and congressional Republicans."
+   },
+   {
+    "question": "Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?",
+    "answer": "It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1864-03-01",
+    "event": "The House passes the first bill for a freedmen's bureau by a vote of 69 to 67."
+   },
+   {
+    "date": "1865-01",
+    "event": "General William T. Sherman's Special Field Order No. 15 sets aside abandoned coastal land for freedpeople."
+   },
+   {
+    "date": "1865-03-03",
+    "event": "Congress passes the act creating the bureau in the War Department, and President Lincoln signs it the same day."
+   },
+   {
+    "date": "1865-05",
+    "event": "President Andrew Johnson appoints Major General Oliver Otis Howard as commissioner."
+   },
+   {
+    "date": "1866-02-19",
+    "event": "Johnson vetoes a bill to extend the bureau; the Senate fails to override the next day."
+   },
+   {
+    "date": "1866-07-16",
+    "event": "A second Freedmen's Bureau Act becomes law over Johnson's veto, extending the agency for two years."
+   },
+   {
+    "date": "1867",
+    "event": "The Military Reconstruction Act places the bureau under the commanders of five military districts."
+   },
+   {
+    "date": "1869",
+    "event": "Congress cuts most of the bureau's funding; offices close but educational work continues for a time."
+   },
+   {
+    "date": "1870",
+    "event": "The bureau supports more than 1,500 schools serving over 100,000 pupils."
+   },
+   {
+    "date": "1872-06",
+    "event": "The bureau is discontinued."
+   }
+  ],
+  "misconception": {
+   "myth": "The Freedmen's Bureau gave freed families \"forty acres and a mule.\"",
+   "fact": "The 1865 act let the bureau rent abandoned or confiscated land in plots of no more than forty acres, with an option to buy; after President Johnson pardoned former Confederates, the bureau was ordered to return that land to its former owners, a process nearly complete in Georgia by summer 1866, and only a small share of the land freedpeople had settled stayed in Black hands.",
+   "why": "Remembering a broken promise as a fulfilled one hides why most freedpeople started freedom without land and turned to wage labor and sharecropping on white-owned farms."
+  },
+  "source_urls": [
+   "https://www.archives.gov/research/african-americans/freedmens-bureau",
+   "https://www.senate.gov/artandhistory/history/common/generic/FreedmensBureau.htm",
+   "https://home.nps.gov/articles/000/the-rise-and-fall-of-the-freedmen-s-bureau.htm",
+   "https://ncpedia.org/node/2531",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/freedmens-bureau",
+   "https://etc.usf.edu/lit2go/203/the-souls-of-black-folk/4432/chapter-2-of-the-dawn-of-freedom/"
+  ]
+ },
+ {
   "id": "us:gatun-locks",
   "title": "Gatun Locks",
   "aliases": [
