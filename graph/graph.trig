@@ -272,6 +272,20 @@
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s4> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s5> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/presidency-of-the-united-states.md" .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> .
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/supreme-court-of-the-united-states.md" .
@@ -5465,6 +5479,185 @@
   <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
   <https://github.com/john1hsu/usa-graph/id/source/judicial-review/s6> <https://schema.org/url> <https://teachingamericanhistory.org/document/cooper-v-aaron/> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states#graph> {
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The original Constitution set a four-year term with no limit on re-election. Two terms was a custom begun when George Washington retired after eight years; Franklin D. Roosevelt broke it by winning a third and a fourth term, and only the Twenty-second Amendment, ratified in 1951, made the limit law." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution has always limited presidents to two terms." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because every president since 1951 has been bound by the amendment, it is easy to forget that the limit is an amendment added after a century and a half of practice, not part of the framers' original design." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the framers create a single president rather than an executive council?" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "After a debate in which Edmund Randolph warned that a single executive could become a monarchy, the convention followed James Wilson's view that one person would be a better safeguard against tyranny; Hamilton later argued in Federalist No. 70 that unity gives the executive the energy good government needs." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the two-term limit go from custom to constitutional rule?" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Washington retired after two terms and later presidents followed his example until Franklin D. Roosevelt won a third and fourth term; Congress then proposed the Twenty-second Amendment in 1947, and its ratification in 1951 barred anyone from being elected president more than twice." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How do the president's powers depend on the other branches?" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The president alone commands the armed forces and grants pardons, but treaties and major appointments need the Senate's approval, Congress can override a veto by a two-thirds vote of both houses, and the House and Senate can remove a president through impeachment and conviction." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the presidency's staff grow in the twentieth century?" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Brownlow Committee reported in 1937 that the president's immediate staff was inadequate, and in 1939 Franklin D. Roosevelt created the Executive Office of the President to give the office its own advisers and agencies." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1967-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "At the Constitutional Convention, James Wilson moves that the executive be a single person; the vote is postponed." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "George Washington takes the first presidential oath at Federal Hall in New York City." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "John Tyler becomes the first vice president to succeed a president who died in office and claims the office's full powers." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1841-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Twentieth Amendment is ratified, moving the end of presidential terms to noon on January 20." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Brownlow Committee reports that the president needs more staff help." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin D. Roosevelt creates the Executive Office of the President." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1939"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Twenty-second Amendment is ratified, limiting presidents to two elected terms." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1951-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2000/01/rdf-schema#label> "Presidency of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "American presidency" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "Office of the President" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "POTUS" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "President of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. presidency" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#definition> "The office at the head of the executive branch of the U.S. federal government, created by Article II of the Constitution, whose holder serves a four-year term as head of state, chief executive and commander in chief; George Washington first took the oath of office on April 30, 1789." .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidency of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/executive-office-of-the-president> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-tyler> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-fifth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/white-house> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/presidency-of-the-united-states.md" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/james-wilson> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://schema.org/startDate> "1789-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <http://purl.org/dc/terms/publisher> "White House Historical Association" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <http://purl.org/dc/terms/title> "Slavery in the President's Neighborhood: FAQ" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10> <https://schema.org/url> <https://whitehousehistory.org/slavery-in-the-presidents-neighborhood-faq> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <http://purl.org/dc/terms/title> "Overview of Executive Vesting Clause (Constitution Annotated)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-1/overview-of-executive-vesting-clause> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Legal Information Institute, Cornell Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <http://purl.org/dc/terms/title> "Overview of Article II, Executive Branch (Constitution Annotated)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1> <https://schema.org/url> <https://law.cornell.edu/constitution-conan/article-2/overview-of-article-ii-executive-branch> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <http://purl.org/dc/terms/publisher> "National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <http://purl.org/dc/terms/title> "America's Founding Documents: The Constitution, Amendments 11–27" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2> <https://schema.org/url> <https://archives.gov/founding-docs/amendments-11-27> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <http://purl.org/dc/terms/title> "Madison Debates: June 1, 1787" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/debates_601.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <http://purl.org/dc/terms/title> "The Federalist No. 70: The Executive Department Further Considered" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/fed70.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <http://purl.org/dc/terms/publisher> "George Washington's Mount Vernon (Mary Stockwell)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <http://purl.org/dc/terms/title> "Presidential Precedents" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5> <https://schema.org/url> <https://www.mountvernon.org/digital-encyclopedia/article/presidential-precedents> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <http://purl.org/dc/terms/publisher> "The White House (archived by the National Archives)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <http://purl.org/dc/terms/title> "The Executive Branch" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6> <https://schema.org/url> <https://bidenwhitehouse.archives.gov/about-the-white-house/our-government/the-executive-branch> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <http://purl.org/dc/terms/publisher> "The White House (archived by the National Archives)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <http://purl.org/dc/terms/title> "John Tyler" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7> <https://schema.org/url> <https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/john-tyler/> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia (William Freehling)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <http://purl.org/dc/terms/title> "John Tyler: Life in Brief" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8> <https://schema.org/url> <https://millercenter.org/president/tyler/life-in-brief> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <http://purl.org/dc/terms/publisher> "Teaching American History, Ashbrook Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <http://purl.org/dc/terms/title> "Report of the President's Committee on Administrative Management (The Brownlow Committee Report)" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9> <https://schema.org/url> <https://teachingamericanhistory.org/document/report-of-the-presidents-committee-on-administrative-management-the-brownlow-committee-report/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states#graph> {
@@ -23501,6 +23694,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -24197,6 +24391,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
@@ -24218,6 +24413,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -24327,6 +24523,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -24642,6 +24839,7 @@
   <https://github.com/john1hsu/usa-graph/id/esther-hobart-morris> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/evenwel-v-abbott> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/ex-parte-endo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+  <https://github.com/john1hsu/usa-graph/id/executive-office-of-the-president> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-10730> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-8802> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/executive-order-9066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
@@ -24664,14 +24862,17 @@
   <https://github.com/john1hsu/usa-graph/id/federal-bureau-of-investigation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federal-holidays-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/federal-holidays-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/federal-indian-boarding-schools> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
@@ -24711,6 +24912,7 @@
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -24892,6 +25094,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
@@ -25032,9 +25235,11 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -25585,6 +25790,9 @@
   <https://github.com/john1hsu/usa-graph/id/james-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/james-tallmadge-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/james-w-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/james-wilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-wilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/james-wilson> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/jamestown/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jamestown/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/jamestown/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25799,6 +26007,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/john-smith> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/john-sutter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
+  <https://github.com/john1hsu/usa-graph/id/john-tyler> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/john-wesley-powell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/johnson-v-mintosh> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -26932,17 +27141,34 @@
   <https://github.com/john1hsu/usa-graph/id/powhatan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/powhatan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
   <https://github.com/john1hsu/usa-graph/id/powhatan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
-  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
-  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
-  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/presidents-house-philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
@@ -26954,6 +27180,7 @@
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/prigg-v-pennsylvania> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/progressive-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
@@ -27211,11 +27438,13 @@
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/separate-car-act> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
@@ -27813,6 +28042,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -28022,8 +28252,11 @@
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/tule-lake-segregation-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/tuskegee-airmen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-fifth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twenty-fourth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/twenty-third-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28153,6 +28386,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -28177,6 +28411,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -28292,6 +28527,7 @@
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -28435,6 +28671,7 @@
   <https://github.com/john1hsu/usa-graph/id/western-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/white-house> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .

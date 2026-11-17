@@ -377,6 +377,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the views of Jefferson and Lincoln differ from the position the Court took in Cooper v. Aaron?
   **A:** Jefferson called the people the ultimate arbiter and Lincoln said rulings bind the parties but must not irrevocably fix government policy, while in Cooper v. Aaron the Court said the federal judiciary is supreme in expounding the Constitution and that its reading in Brown bound every state official sworn to support the Constitution.
 
+### [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) — Office
+
+| Myth | Fact |
+|---|---|
+| The Constitution has always limited presidents to two terms. | The original Constitution set a four-year term with no limit on re-election. Two terms was a custom begun when George Washington retired after eight years; Franklin D. Roosevelt broke it by winning a third and a fourth term, and only the Twenty-second Amendment, ratified in 1951, made the limit law. |
+
+**Why it matters:** Because every president since 1951 has been bound by the amendment, it is easy to forget that the limit is an amendment added after a century and a half of practice, not part of the framers' original design.
+
+- **Q:** Why did the framers create a single president rather than an executive council?
+  **A:** After a debate in which Edmund Randolph warned that a single executive could become a monarchy, the convention followed James Wilson's view that one person would be a better safeguard against tyranny; Hamilton later argued in Federalist No. 70 that unity gives the executive the energy good government needs.
+- **Q:** How did the two-term limit go from custom to constitutional rule?
+  **A:** Washington retired after two terms and later presidents followed his example until Franklin D. Roosevelt won a third and fourth term; Congress then proposed the Twenty-second Amendment in 1947, and its ratification in 1951 barred anyone from being elected president more than twice.
+- **Q:** How do the president's powers depend on the other branches?
+  **A:** The president alone commands the armed forces and grants pardons, but treaties and major appointments need the Senate's approval, Congress can override a veto by a two-thirds vote of both houses, and the House and Senate can remove a president through impeachment and conviction.
+- **Q:** Why did the presidency's staff grow in the twentieth century?
+  **A:** The Brownlow Committee reported in 1937 that the president's immediate staff was inadequate, and in 1939 Franklin D. Roosevelt created the Executive Office of the President to give the office its own advisers and agencies.
+
 ### [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) — Institution
 
 | Myth | Fact |

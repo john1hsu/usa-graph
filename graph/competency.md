@@ -26,7 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
-| `us:united-states-constitution` | 8 | Census and apportionment, Electoral College, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
+| `us:united-states-constitution` | 9 | Census and apportionment, Electoral College, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
@@ -204,9 +204,9 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:electoral-college` |
+| `us:united-states-constitution` | `us:presidency-of-the-united-states` |
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 | `us:united-states-constitution` | `us:united-states` |
-| `us:united-states-constitution` | `us:united-states-congress` |
 
-…and 2 more.
+…and 3 more.
 

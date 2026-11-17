@@ -13518,6 +13518,139 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The original Constitution set a four-year term with no limit on re-election. Two terms was a custom begun when George Washington retired after eight years; Franklin D. Roosevelt broke it by winning a third and a fourth term, and only the Twenty-second Amendment, ratified in 1951, made the limit law.",
+   "uso:myth": "The Constitution has always limited presidents to two terms.",
+   "uso:why": "Because every president since 1951 has been bound by the amendment, it is easy to forget that the limit is an amendment added after a century and a half of practice, not part of the framers' original design."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the framers create a single president rather than an executive council?",
+   "uso:answer": "After a debate in which Edmund Randolph warned that a single executive could become a monarchy, the convention followed James Wilson's view that one person would be a better safeguard against tyranny; Hamilton later argued in Federalist No. 70 that unity gives the executive the energy good government needs.",
+   "uso:questionFor": {
+    "@id": "us:presidency-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the two-term limit go from custom to constitutional rule?",
+   "uso:answer": "Washington retired after two terms and later presidents followed his example until Franklin D. Roosevelt won a third and fourth term; Congress then proposed the Twenty-second Amendment in 1947, and its ratification in 1951 barred anyone from being elected president more than twice.",
+   "uso:questionFor": {
+    "@id": "us:presidency-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How do the president's powers depend on the other branches?",
+   "uso:answer": "The president alone commands the armed forces and grants pardons, but treaties and major appointments need the Senate's approval, Congress can override a veto by a two-thirds vote of both houses, and the House and Senate can remove a president through impeachment and conviction.",
+   "uso:questionFor": {
+    "@id": "us:presidency-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the presidency's staff grow in the twentieth century?",
+   "uso:answer": "The Brownlow Committee reported in 1937 that the president's immediate staff was inadequate, and in 1939 Franklin D. Roosevelt created the Executive Office of the President to give the office its own advisers and agencies.",
+   "uso:questionFor": {
+    "@id": "us:presidency-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At the Constitutional Convention, James Wilson moves that the executive be a single person; the vote is postponed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-06-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1967-02-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-03-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Washington takes the first presidential oath at Federal Hall in New York City.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1804-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Tyler becomes the first vice president to succeed a president who died in office and claims the office's full powers.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1841-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Twentieth Amendment is ratified, moving the end of presidential terms to noon on January 20.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-01-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Brownlow Committee reports that the president needs more staff help.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt creates the Executive Office of the President.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1939"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Twenty-second Amendment is ratified, limiting presidents to two elected terms.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1951-02-27"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "This \"tragic era\" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence.",
@@ -26196,6 +26329,160 @@
     "@id": "https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/"
    },
    "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Overview of Article II, Executive Branch (Constitution Annotated)",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/constitution-conan/article-2/overview-of-article-ii-executive-branch"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "White House Historical Association",
+   "dcterms:title": "Slavery in the President's Neighborhood: FAQ",
+   "schema:url": {
+    "@id": "https://whitehousehistory.org/slavery-in-the-presidents-neighborhood-faq"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Overview of Executive Vesting Clause (Constitution Annotated)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-1/overview-of-executive-vesting-clause"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "America's Founding Documents: The Constitution, Amendments 11–27",
+   "schema:url": {
+    "@id": "https://archives.gov/founding-docs/amendments-11-27"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "Madison Debates: June 1, 1787",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/debates_601.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "The Federalist No. 70: The Executive Department Further Considered",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/fed70.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon (Mary Stockwell)",
+   "dcterms:title": "Presidential Precedents",
+   "schema:url": {
+    "@id": "https://www.mountvernon.org/digital-encyclopedia/article/presidential-precedents"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The White House (archived by the National Archives)",
+   "dcterms:title": "The Executive Branch",
+   "schema:url": {
+    "@id": "https://bidenwhitehouse.archives.gov/about-the-white-house/our-government/the-executive-branch"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The White House (archived by the National Archives)",
+   "dcterms:title": "John Tyler",
+   "schema:url": {
+    "@id": "https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/john-tyler/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia (William Freehling)",
+   "dcterms:title": "John Tyler: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/tyler/life-in-brief"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Teaching American History, Ashbrook Center",
+   "dcterms:title": "Report of the President's Committee on Administrative Management (The Brownlow Committee Report)",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/report-of-the-presidents-committee-on-administrative-management-the-brownlow-committee-report/"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1",
@@ -49972,6 +50259,175 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:presidency-of-the-united-states",
+   "@type": "uso:Office",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/presidency-of-the-united-states/s9"
+    }
+   ],
+   "rdfs:label": "Presidency of the United States",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1789-04-30"
+   },
+   "skos:altLabel": [
+    "American presidency",
+    "Office of the President",
+    "POTUS",
+    "President of the United States",
+    "U.S. presidency"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:federal-government-of-the-united-states"
+    },
+    {
+     "@id": "us:separation-of-powers"
+    }
+   ],
+   "skos:definition": "The office at the head of the executive branch of the U.S. federal government, created by Article II of the Constitution, whose holder serves a four-year term as head of state, chief executive and commander in chief; George Washington first took the oath of office on April 30, 1789.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "Presidency of the United States",
+   "skos:related": [
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:electoral-college"
+    },
+    {
+     "@id": "us:executive-office-of-the-president"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:john-tyler"
+    },
+    {
+     "@id": "us:presidents-of-the-united-states"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:twelfth-amendment"
+    },
+    {
+     "@id": "us:twenty-fifth-amendment"
+    },
+    {
+     "@id": "us:twenty-second-amendment"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:vice-presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:white-house"
+    }
+   ],
+   "uso:domain": "constitution-and-government",
+   "uso:establishedBy": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/constitution-and-government/presidency-of-the-united-states.md",
+   "uso:influencedBy": {
+    "@id": "us:george-washington"
+   },
+   "uso:introducedBy": {
+    "@id": "us:james-wilson"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:federal-government-of-the-united-states"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states/timeline/9"
     }
    ]
   },

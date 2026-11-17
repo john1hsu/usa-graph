@@ -16553,6 +16553,202 @@
   ]
  },
  {
+  "id": "us:presidency-of-the-united-states",
+  "title": "Presidency of the United States",
+  "aliases": [
+   "President of the United States",
+   "U.S. presidency",
+   "Office of the President",
+   "American presidency",
+   "POTUS"
+  ],
+  "type": "Office",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/constitution-and-government/presidency-of-the-united-states.md",
+  "created": "2026-11-17",
+  "summary": "The office at the head of the executive branch of the U.S. federal government, created by Article II of the Constitution, whose holder serves a four-year term as head of state, chief executive and commander in chief; George Washington first took the oath of office on April 30, 1789.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-government-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:vice-presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:electoral-college"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twelfth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-second-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-fifth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:executive-office-of-the-president"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-tyler"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:white-house"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:federal-government-of-the-united-states",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:james-wilson",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:george-washington",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": "1789-04-30",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the framers create a single president rather than an executive council?",
+    "answer": "After a debate in which Edmund Randolph warned that a single executive could become a monarchy, the convention followed James Wilson's view that one person would be a better safeguard against tyranny; Hamilton later argued in Federalist No. 70 that unity gives the executive the energy good government needs."
+   },
+   {
+    "question": "How did the two-term limit go from custom to constitutional rule?",
+    "answer": "Washington retired after two terms and later presidents followed his example until Franklin D. Roosevelt won a third and fourth term; Congress then proposed the Twenty-second Amendment in 1947, and its ratification in 1951 barred anyone from being elected president more than twice."
+   },
+   {
+    "question": "How do the president's powers depend on the other branches?",
+    "answer": "The president alone commands the armed forces and grants pardons, but treaties and major appointments need the Senate's approval, Congress can override a veto by a two-thirds vote of both houses, and the House and Senate can remove a president through impeachment and conviction."
+   },
+   {
+    "question": "Why did the presidency's staff grow in the twentieth century?",
+    "answer": "The Brownlow Committee reported in 1937 that the president's immediate staff was inadequate, and in 1939 Franklin D. Roosevelt created the Executive Office of the President to give the office its own advisers and agencies."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-06-01",
+    "event": "At the Constitutional Convention, James Wilson moves that the executive be a single person; the vote is postponed."
+   },
+   {
+    "date": "1788-03-18",
+    "event": "Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive."
+   },
+   {
+    "date": "1789-04-30",
+    "event": "George Washington takes the first presidential oath at Federal Hall in New York City."
+   },
+   {
+    "date": "1804-06-15",
+    "event": "The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president."
+   },
+   {
+    "date": "1841-04",
+    "event": "John Tyler becomes the first vice president to succeed a president who died in office and claims the office's full powers."
+   },
+   {
+    "date": "1933-01-23",
+    "event": "The Twentieth Amendment is ratified, moving the end of presidential terms to noon on January 20."
+   },
+   {
+    "date": "1937",
+    "event": "The Brownlow Committee reports that the president needs more staff help."
+   },
+   {
+    "date": "1939",
+    "event": "Franklin D. Roosevelt creates the Executive Office of the President."
+   },
+   {
+    "date": "1951-02-27",
+    "event": "The Twenty-second Amendment is ratified, limiting presidents to two elected terms."
+   },
+   {
+    "date": "1967-02-10",
+    "event": "The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution has always limited presidents to two terms.",
+   "fact": "The original Constitution set a four-year term with no limit on re-election. Two terms was a custom begun when George Washington retired after eight years; Franklin D. Roosevelt broke it by winning a third and a fourth term, and only the Twenty-second Amendment, ratified in 1951, made the limit law.",
+   "why": "Because every president since 1951 has been bound by the amendment, it is easy to forget that the limit is an amendment added after a century and a half of practice, not part of the framers' original design."
+  },
+  "source_urls": [
+   "https://law.cornell.edu/constitution-conan/article-2/overview-of-article-ii-executive-branch",
+   "https://archives.gov/founding-docs/amendments-11-27",
+   "https://avalon.law.yale.edu/18th_century/debates_601.asp",
+   "https://avalon.law.yale.edu/18th_century/fed70.asp",
+   "https://www.mountvernon.org/digital-encyclopedia/article/presidential-precedents",
+   "https://bidenwhitehouse.archives.gov/about-the-white-house/our-government/the-executive-branch",
+   "https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/john-tyler/",
+   "https://millercenter.org/president/tyler/life-in-brief",
+   "https://teachingamericanhistory.org/document/report-of-the-presidents-committee-on-administrative-management-the-brownlow-committee-report/",
+   "https://whitehousehistory.org/slavery-in-the-presidents-neighborhood-faq",
+   "https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-1/overview-of-executive-vesting-clause"
+  ]
+ },
+ {
   "id": "us:reconstruction-era",
   "title": "Reconstruction era",
   "aliases": [

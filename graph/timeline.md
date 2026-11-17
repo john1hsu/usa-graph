@@ -244,6 +244,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-05-25 | Elected president of the Constitutional Convention in Philadelphia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1787-05-25 | Seven states form a quorum and the delegates unanimously elect George Washington president of the convention. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05-29 | Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-06-01 | At the Constitutional Convention, James Wilson moves that the executive be a single person; the vote is postponed. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1787-06-11 | James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-07-12 | The Constitutional Convention votes to tie representation and direct taxes to population, counting enslaved people at three-fifths. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1787-07-12 | The convention adopts the three-fifths rule, six states to two with two divided. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
@@ -264,6 +265,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-12-12 | **[Pennsylvania](../articles/states-and-territories/pennsylvania.md)** (State) |
 | 1787-12-12 | Pennsylvania becomes the second state to ratify the U.S. Constitution. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1788-02-12 | The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-03-18 | Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1788-03-22 | John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-04-02 | The 76th essay of the newspaper run appears; the rest first appear in the bound volumes. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-05-28 | McLean publishes the second volume, bringing the collection to 85 essays. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
@@ -281,6 +283,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-01 | The House of Representatives achieves the first quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-04-06 | The Senate achieves its first quorum and the electoral votes for president are counted. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-04-30 | **[Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md)** (Office) |
+| 1789-04-30 | George Washington takes the first presidential oath at Federal Hall in New York City. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-09-15 | An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
@@ -365,6 +369,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1804-06 | New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
+| 1804-06-15 | The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1807 | John Colter becomes the first known European American to visit the area of present-day Yellowstone. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1807-02-24 | Congress adds a seventh seat. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -524,6 +529,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1841-04 | John Tyler becomes the first vice president to succeed a president who died in office and claims the office's full powers. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1843 | Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -1180,6 +1186,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1933-01-02 | The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-01-23 | The Twentieth Amendment is ratified, moving the end of presidential terms to noon on January 20. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1933-03 – 1938 | **[New Deal](../articles/depression-and-world-war/new-deal.md)** (Policy) |
 | 1933-03-04 | **[Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md)** (Policy) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -1228,6 +1235,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937 | Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1937 | The Brownlow Committee reports that the president needs more staff help. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-02-05 | Asks Congress to add justices to the Supreme Court; the plan is shelved in July. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -1246,6 +1254,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1938-06-25 | Roosevelt signs the Fair Labor Standards Act. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-10-24 | The first federal minimum wage, 25 cents an hour, takes effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1939 | Franklin D. Roosevelt creates the Executive Office of the President. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1939 | Franklin D. Roosevelt moves Thanksgiving to the second-to-last Thursday of November; states split over which date to observe. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1939 | John Steinbeck's The Grapes of Wrath and Carey McWilliams's Factories in the Field are published; county prosecutors charge more than two dozen people under the Indigent Act. — [Okies](../articles/society-and-people/okies.md) |
 | 1939 | Lane v. Wilson holds that the amendment reaches subtle as well as overt discrimination. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
@@ -1356,6 +1365,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1950-06-01 | Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-09 | Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1951-02-27 | The Twenty-second Amendment is ratified, limiting presidents to two elected terms. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
@@ -1492,6 +1502,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1966-06-16 | Stokely Carmichael of SNCC makes Black Power a public slogan at a rally in Greenwood, Mississippi. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1966-08-26 | The Chicago Freedom Movement reaches an open-housing summit agreement with city officials and lenders. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1967-02-01 | Under the 1966 amendments, farmworkers are covered by the federal minimum for the first time, at $1.00 an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1967-02-10 | The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1967-04-04 | Denounces the Vietnam War at Riverside Church in New York. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1967-06-12 | Loving v. Virginia unanimously strikes down a state ban on interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1967-10-02 | Thurgood Marshall is sworn in as the first African American justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
