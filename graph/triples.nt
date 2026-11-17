@@ -3858,6 +3858,107 @@
 <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> <https://schema.org/startDate> "1776-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The phrase \"electoral college\" does not appear in the Constitution, and the electors never meet as one body; each state's electors meet in their own state in December, and Congress counts their certified votes in January." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution creates a body called the \"Electoral College\" whose members gather in one place to elect the president." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The name suggests a single deliberative assembly, which hides how much of the process is run by the states and how little room individual electors now have." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the framers choose electors rather than election by Congress or by a national popular vote?" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It was a compromise; selection by Congress risked making the president dependent on the legislature, while most delegates distrusted direct popular election, and Madison noted that a popular vote would disadvantage Southern states whose enslaved people could not vote." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the election of 1800 lead to the Twelfth Amendment?" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Each elector cast two undifferentiated votes, so Jefferson and his running mate Burr tied at 73 and the House needed 36 ballots to choose; the amendment, ratified in 1804, gave electors separate votes for president and vice president." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How can a candidate win the national popular vote and still lose the presidency?" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The president is chosen by state-allotted electors, and 48 states and the District of Columbia give all their electors to the statewide winner, so narrow wins in some states can outweigh large margins elsewhere, as in 1876, 1888, 2000 and 2016." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did the Supreme Court decide in Chiafalo v. Washington, and why?" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "It held unanimously in judgment in 2020 that states may enforce electors' pledges, reasoning from long practice that electors are not free agents but vote for the candidate their state's voters chose." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "At the Constitutional Convention, James Madison says direct popular election would leave the Southern states little influence because enslaved people could not vote, and leans toward electors." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1796"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "After Jefferson and Aaron Burr tie at 73 electoral votes each, the House elects Jefferson on its 36th ballot." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1804-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1825-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "By this year almost every state has its voters, rather than its legislature, choose presidential electors." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1836"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In Chiafalo v. Washington, the Supreme Court rules that states may enforce electors' pledges to vote for their party's nominee." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-07-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Institution> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2000/01/rdf-schema#label> "Electoral College" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Electoral College" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#altLabel> "United States Electoral College" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#altLabel> "presidential electors" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/elections-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federal-government-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#definition> "The system set out in Article II of the Constitution and revised by the Twelfth Amendment under which the president and vice president are chosen by 538 electors appointed by the states and the District of Columbia, with a majority of 270 electoral votes needed to win." .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electoral College" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chiafalo-v-washington> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/twenty-third-amendment> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-senate> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/vice-presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/election-of-1800> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#domain> "democracy-and-elections" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/democracy-and-elections/electoral-college.md" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/twelfth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/electoral-college> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny." .
 <https://github.com/john1hsu/usa-graph/id/equal-protection/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Equal Protection Clause forbids government from ever treating people differently." .
@@ -12657,6 +12758,84 @@
 <https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/usa-graph/id/source/e-pluribus-unum/s6> <https://schema.org/url> <https://doks.zeitgeschichte-digital.de/doks/files/1341/ZF_1_2019_128_139_Etges.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <http://purl.org/dc/terms/publisher> "Office of the Historian, U.S. House of Representatives" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <http://purl.org/dc/terms/title> "John Quincy Adams and the Election of 1824 (Whereas: Stories from the People's House)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10> <https://schema.org/url> <https://history.house.gov/Blog/2025/January/1-30-Education-JQA/> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <http://purl.org/dc/terms/publisher> "History News Network" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <http://purl.org/dc/terms/title> "The Electoral College and the Myth of a Proslavery Ploy (Sean Wilentz)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11> <https://schema.org/url> <https://www.historynewsnetwork.org/article/the-electoral-college-and-the-myth-of-a-proslavery> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <http://purl.org/dc/terms/publisher> "African American Intellectual History Society, Black Perspectives" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <http://purl.org/dc/terms/title> "Slavery, Democracy, and the Racialized Roots of the Electoral College (Christopher F. Petrella)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12> <https://schema.org/url> <https://www.aaihs.org/?p=13395> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <http://purl.org/dc/terms/publisher> "National Constitution Center, Interactive Constitution" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <http://purl.org/dc/terms/title> "Article II, Section 1: Interpretation & Debate (James W. Ceaser and Jamin Raskin)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13> <https://schema.org/url> <https://constitutioncenter.org/the-constitution/articles/article-ii/clauses/350> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Office of the Federal Register" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <http://purl.org/dc/terms/title> "About the Electoral College" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1> <https://schema.org/url> <https://www.archives.gov/electoral-college/about> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Office of the Federal Register" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <http://purl.org/dc/terms/title> "Electoral College: Frequently Asked Questions" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2> <https://schema.org/url> <https://archives.gov/electoral-college/faq> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <http://purl.org/dc/terms/publisher> "National Archives and Records Administration, Office of the Federal Register" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <http://purl.org/dc/terms/title> "Electoral College History" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3> <https://schema.org/url> <https://www.archives.gov/electoral-college/history> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Cornell Legal Information Institute" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <http://purl.org/dc/terms/title> "ArtII.S1.C2.2 Historical Background on Electors Appointments Clause (Constitution Annotated)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-2/historical-background-on-electors-appointments-clause> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Cornell Legal Information Institute" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <http://purl.org/dc/terms/title> "Overview of the Twelfth Amendment (Constitution Annotated)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-12/overview-of-the-twelfth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <http://purl.org/dc/terms/title> "Chiafalo v. Washington, 591 U.S. ___ (2020), slip opinion" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6> <https://schema.org/url> <https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <http://purl.org/dc/terms/title> "Method of Appointing the Executive, [19 July] 1787" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7> <https://schema.org/url> <https://founders.archives.gov/documents/Madison/01-10-02-0065> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <http://purl.org/dc/terms/publisher> "National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <http://purl.org/dc/terms/title> "Treasures of Congress: The Election of 1800" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8> <https://schema.org/url> <https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <http://purl.org/dc/terms/publisher> "National Constitution Center" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <http://purl.org/dc/terms/title> "The Constitution, the Presidency, and Partisan Democracy: Congress Revises the Electoral College, 1803-1804 (Sean Wilentz)" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9> <https://schema.org/url> <https://constitutioncenter.org/news-debate/special-projects/a-madisonian-constitution-for-all/essay-series/the-constitution-the-presidency-and-partisan-democracy-congress-revises-the-electoral-college-1804> .
 <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/publisher> "Constitution Annotated, Congress.gov (Cornell Legal Information Institute)" .
 <https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1> <http://purl.org/dc/terms/title> "Equal Protection: Overview" .

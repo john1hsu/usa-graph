@@ -5,27 +5,27 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.70 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
-| 3.47 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states` |
+| 3.46 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states` |
 | 3.44 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.26 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
+| 3.18 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:electoral-college`, `us:indian-removal-act`, `us:mexican-american-war` |
 | 3.17 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
-| 2.93 | `us:slavery-in-the-united-states` | `us:united-states-congress` | `us:census-and-apportionment`, `us:constitutional-convention`, `us:indian-removal-act`, `us:mexican-american-war`, `us:missouri-compromise` |
-| 2.92 | `us:federalist-papers` | `us:mcculloch-v-maryland` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:federalism`, `us:james-madison`, `us:judicial-review` |
-| 2.75 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:declaration-of-independence`, `us:judicial-review`, `us:louisiana-purchase`, `us:marbury-v-madison` |
+| 3.05 | `us:thomas-jefferson` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:declaration-of-independence`, `us:electoral-college`, `us:judicial-review`, `us:louisiana-purchase` |
+| 2.79 | `us:federalist-papers` | `us:mcculloch-v-maryland` | `us:alexander-hamilton`, `us:articles-of-confederation`, `us:federalism`, `us:james-madison`, `us:judicial-review` |
 | 2.69 | `us:abolitionism` | `us:abraham-lincoln` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:republican-party`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.68 | `us:federalist-papers` | `us:treaty-of-paris-1783` | `us:articles-of-confederation`, `us:founding-documents-of-the-united-states`, `us:john-jay`, `us:united-states-constitution` |
-| 2.52 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
+| 2.51 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.46 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
-| 2.46 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
+| 2.45 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.45 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
+| 2.38 | `us:articles-of-confederation` | `us:electoral-college` | `us:constitutional-convention`, `us:federalism`, `us:federalist-papers`, `us:james-madison`, `us:united-states-congress` |
 | 2.37 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 2.36 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.36 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.35 | `us:great-railroad-strike-of-1877` | `us:telegraph` | `us:baltimore`, `us:railroads-in-the-united-states` |
 | 2.34 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:haudenosaunee`, `us:louisiana-purchase`, `us:treaty-of-paris-1783` |
-| 2.32 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |
+| 2.31 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |
 | 2.31 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.27 | `us:benjamin-franklin` | `us:united-states` | `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states`, `us:pennsylvania` |
+| 2.26 | `us:benjamin-franklin` | `us:united-states` | `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states`, `us:pennsylvania` |
 | 2.24 | `us:second-continental-congress` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:thirteen-colonies` |
-| 2.24 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:american-civil-war`, `us:census-and-apportionment`, `us:dred-scott-v-sandford`, `us:reconstruction-era` |
-| 2.23 | `us:judicial-review` | `us:united-states-congress` | `us:constitutional-convention`, `us:mcculloch-v-maryland`, `us:missouri-compromise`, `us:separation-of-powers`, `us:supreme-court-of-the-united-states` |
+| 2.23 | `us:fourteenth-amendment` | `us:slavery-in-the-united-states` | `us:african-americans`, `us:american-civil-war`, `us:census-and-apportionment`, `us:dred-scott-v-sandford`, `us:reconstruction-era` |

@@ -6456,6 +6456,196 @@
   ]
  },
  {
+  "id": "us:electoral-college",
+  "title": "Electoral College",
+  "aliases": [
+   "United States Electoral College",
+   "U.S. Electoral College",
+   "presidential electors"
+  ],
+  "type": "Institution",
+  "domain": "democracy-and-elections",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/democracy-and-elections/electoral-college.md",
+  "created": "2026-11-17",
+  "summary": "The system set out in Article II of the Constitution and revised by the Twelfth Amendment under which the president and vice president are chosen by 538 electors appointed by the states and the District of Columbia, with a majority of 270 electoral votes needed to win.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federal-government-of-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:elections-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:vice-presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-of-representatives"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-senate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-quincy-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twenty-third-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chiafalo-v-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:election-of-1800",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:twelfth-amendment",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:three-fifths-clause",
+    "source": "s12",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s7",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the framers choose electors rather than election by Congress or by a national popular vote?",
+    "answer": "It was a compromise; selection by Congress risked making the president dependent on the legislature, while most delegates distrusted direct popular election, and Madison noted that a popular vote would disadvantage Southern states whose enslaved people could not vote."
+   },
+   {
+    "question": "How did the election of 1800 lead to the Twelfth Amendment?",
+    "answer": "Each elector cast two undifferentiated votes, so Jefferson and his running mate Burr tied at 73 and the House needed 36 ballots to choose; the amendment, ratified in 1804, gave electors separate votes for president and vice president."
+   },
+   {
+    "question": "How can a candidate win the national popular vote and still lose the presidency?",
+    "answer": "The president is chosen by state-allotted electors, and 48 states and the District of Columbia give all their electors to the statewide winner, so narrow wins in some states can outweigh large margins elsewhere, as in 1876, 1888, 2000 and 2016."
+   },
+   {
+    "question": "What did the Supreme Court decide in Chiafalo v. Washington, and why?",
+    "answer": "It held unanimously in judgment in 2020 that states may enforce electors' pledges, reasoning from long practice that electors are not free agents but vote for the candidate their state's voters chose."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-07-19",
+    "event": "At the Constitutional Convention, James Madison says direct popular election would leave the Southern states little influence because enslaved people could not vote, and leans toward electors."
+   },
+   {
+    "date": "1796",
+    "event": "Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president."
+   },
+   {
+    "date": "1801-02-17",
+    "event": "After Jefferson and Aaron Burr tie at 73 electoral votes each, the House elects Jefferson on its 36th ballot."
+   },
+   {
+    "date": "1804-06",
+    "event": "New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president."
+   },
+   {
+    "date": "1825-02-09",
+    "event": "With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes."
+   },
+   {
+    "date": "1832",
+    "event": "By this year almost every state has its voters, rather than its legislature, choose presidential electors."
+   },
+   {
+    "date": "1836",
+    "event": "After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president."
+   },
+   {
+    "date": "2020-07-06",
+    "event": "In Chiafalo v. Washington, the Supreme Court rules that states may enforce electors' pledges to vote for their party's nominee."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution creates a body called the \"Electoral College\" whose members gather in one place to elect the president.",
+   "fact": "The phrase \"electoral college\" does not appear in the Constitution, and the electors never meet as one body; each state's electors meet in their own state in December, and Congress counts their certified votes in January.",
+   "why": "The name suggests a single deliberative assembly, which hides how much of the process is run by the states and how little room individual electors now have."
+  },
+  "source_urls": [
+   "https://www.archives.gov/electoral-college/about",
+   "https://archives.gov/electoral-college/faq",
+   "https://www.archives.gov/electoral-college/history",
+   "https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-2/historical-background-on-electors-appointments-clause",
+   "https://www.law.cornell.edu/constitution-conan/amendment-12/overview-of-the-twelfth-amendment",
+   "https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf",
+   "https://founders.archives.gov/documents/Madison/01-10-02-0065",
+   "https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html",
+   "https://constitutioncenter.org/news-debate/special-projects/a-madisonian-constitution-for-all/essay-series/the-constitution-the-presidency-and-partisan-democracy-congress-revises-the-electoral-college-1804",
+   "https://history.house.gov/Blog/2025/January/1-30-Education-JQA/",
+   "https://www.historynewsnetwork.org/article/the-electoral-college-and-the-myth-of-a-proslavery",
+   "https://www.aaihs.org/?p=13395",
+   "https://constitutioncenter.org/the-constitution/articles/article-ii/clauses/350"
+  ]
+ },
+ {
   "id": "us:equal-protection",
   "title": "Equal protection",
   "aliases": [

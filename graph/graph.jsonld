@@ -5310,6 +5310,121 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The phrase \"electoral college\" does not appear in the Constitution, and the electors never meet as one body; each state's electors meet in their own state in December, and Congress counts their certified votes in January.",
+   "uso:myth": "The Constitution creates a body called the \"Electoral College\" whose members gather in one place to elect the president.",
+   "uso:why": "The name suggests a single deliberative assembly, which hides how much of the process is run by the states and how little room individual electors now have."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the framers choose electors rather than election by Congress or by a national popular vote?",
+   "uso:answer": "It was a compromise; selection by Congress risked making the president dependent on the legislature, while most delegates distrusted direct popular election, and Madison noted that a popular vote would disadvantage Southern states whose enslaved people could not vote.",
+   "uso:questionFor": {
+    "@id": "us:electoral-college"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the election of 1800 lead to the Twelfth Amendment?",
+   "uso:answer": "Each elector cast two undifferentiated votes, so Jefferson and his running mate Burr tied at 73 and the House needed 36 ballots to choose; the amendment, ratified in 1804, gave electors separate votes for president and vice president.",
+   "uso:questionFor": {
+    "@id": "us:electoral-college"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How can a candidate win the national popular vote and still lose the presidency?",
+   "uso:answer": "The president is chosen by state-allotted electors, and 48 states and the District of Columbia give all their electors to the statewide winner, so narrow wins in some states can outweigh large margins elsewhere, as in 1876, 1888, 2000 and 2016.",
+   "uso:questionFor": {
+    "@id": "us:electoral-college"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the Supreme Court decide in Chiafalo v. Washington, and why?",
+   "uso:answer": "It held unanimously in judgment in 2020 that states may enforce electors' pledges, reasoning from long practice that electors are not free agents but vote for the candidate their state's voters chose.",
+   "uso:questionFor": {
+    "@id": "us:electoral-college"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At the Constitutional Convention, James Madison says direct popular election would leave the Southern states little influence because enslaved people could not vote, and leans toward electors.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-07-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1796"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Jefferson and Aaron Burr tie at 73 electoral votes each, the House elects Jefferson on its 36th ballot.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-02-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1804-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1825-02-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By this year almost every state has its voters, rather than its legislature, choose presidential electors.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1836"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Chiafalo v. Washington, the Supreme Court rules that states may enforce electors' pledges to vote for their party's nominee.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-07-06"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Governments classify people constantly, by age, income, or occupation, and most such lines stand if they are \"rationally related to a legitimate state interest\"; only suspect classifications such as race, or laws burdening fundamental rights, face the demanding test of strict scrutiny.",
@@ -19245,6 +19360,188 @@
     "@id": "https://doks.zeitgeschichte-digital.de/doks/files/1341/ZF_1_2019_128_139_Etges.pdf"
    },
    "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Office of the Federal Register",
+   "dcterms:title": "About the Electoral College",
+   "schema:url": {
+    "@id": "https://www.archives.gov/electoral-college/about"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. House of Representatives",
+   "dcterms:title": "John Quincy Adams and the Election of 1824 (Whereas: Stories from the People's House)",
+   "schema:url": {
+    "@id": "https://history.house.gov/Blog/2025/January/1-30-Education-JQA/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "History News Network",
+   "dcterms:title": "The Electoral College and the Myth of a Proslavery Ploy (Sean Wilentz)",
+   "schema:url": {
+    "@id": "https://www.historynewsnetwork.org/article/the-electoral-college-and-the-myth-of-a-proslavery"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "African American Intellectual History Society, Black Perspectives",
+   "dcterms:title": "Slavery, Democracy, and the Racialized Roots of the Electoral College (Christopher F. Petrella)",
+   "schema:url": {
+    "@id": "https://www.aaihs.org/?p=13395"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Constitution Center, Interactive Constitution",
+   "dcterms:title": "Article II, Section 1: Interpretation & Debate (James W. Ceaser and Jamin Raskin)",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/the-constitution/articles/article-ii/clauses/350"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Office of the Federal Register",
+   "dcterms:title": "Electoral College: Frequently Asked Questions",
+   "schema:url": {
+    "@id": "https://archives.gov/electoral-college/faq"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives and Records Administration, Office of the Federal Register",
+   "dcterms:title": "Electoral College History",
+   "schema:url": {
+    "@id": "https://www.archives.gov/electoral-college/history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service, via Cornell Legal Information Institute",
+   "dcterms:title": "ArtII.S1.C2.2 Historical Background on Electors Appointments Clause (Constitution Annotated)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/article-2/section-1/clause-2/historical-background-on-electors-appointments-clause"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service, via Cornell Legal Information Institute",
+   "dcterms:title": "Overview of the Twelfth Amendment (Constitution Annotated)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/amendment-12/overview-of-the-twelfth-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Supreme Court of the United States",
+   "dcterms:title": "Chiafalo v. Washington, 591 U.S. ___ (2020), slip opinion",
+   "schema:url": {
+    "@id": "https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "Method of Appointing the Executive, [19 July] 1787",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Madison/01-10-02-0065"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "Treasures of Congress: The Election of 1800",
+   "schema:url": {
+    "@id": "https://www.archives.gov/exhibits/treasures_of_congress/text/page7_text.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Constitution Center",
+   "dcterms:title": "The Constitution, the Presidency, and Partisan Democracy: Congress Revises the Electoral College, 1803-1804 (Sean Wilentz)",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/news-debate/special-projects/a-madisonian-constitution-for-all/essay-series/the-constitution-the-presidency-and-partisan-democracy-congress-revises-the-electoral-college-1804"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/equal-protection/s1",
@@ -40088,6 +40385,171 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/e-pluribus-unum/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:electoral-college",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/electoral-college/s9"
+    }
+   ],
+   "rdfs:label": "Electoral College",
+   "skos:altLabel": [
+    "U.S. Electoral College",
+    "United States Electoral College",
+    "presidential electors"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:elections-in-the-united-states"
+    },
+    {
+     "@id": "us:federal-government-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The system set out in Article II of the Constitution and revised by the Twelfth Amendment under which the president and vice president are chosen by 538 electors appointed by the states and the District of Columbia, with a majority of 270 electoral votes needed to win.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/democracy-and-elections"
+   },
+   "skos:prefLabel": "Electoral College",
+   "skos:related": [
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:chiafalo-v-washington"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:john-quincy-adams"
+    },
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:twenty-third-amendment"
+    },
+    {
+     "@id": "us:united-states-congress"
+    },
+    {
+     "@id": "us:united-states-senate"
+    },
+    {
+     "@id": "us:vice-presidency-of-the-united-states"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:election-of-1800"
+   },
+   "uso:domain": "democracy-and-elections",
+   "uso:establishedBy": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/democracy-and-elections/electoral-college.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:twelfth-amendment"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/electoral-college/timeline/8"
     }
    ]
   },

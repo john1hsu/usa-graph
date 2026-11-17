@@ -654,6 +654,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What is the difference between apportionment and redistricting?
   **A:** Apportionment divides the 435 House seats among the states by population; redistricting is each state's redrawing of district boundaries within its borders, using small-area counts the Census Bureau supplies.
 
+### [Electoral College](../articles/democracy-and-elections/electoral-college.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Constitution creates a body called the "Electoral College" whose members gather in one place to elect the president. | The phrase "electoral college" does not appear in the Constitution, and the electors never meet as one body; each state's electors meet in their own state in December, and Congress counts their certified votes in January. |
+
+**Why it matters:** The name suggests a single deliberative assembly, which hides how much of the process is run by the states and how little room individual electors now have.
+
+- **Q:** Why did the framers choose electors rather than election by Congress or by a national popular vote?
+  **A:** It was a compromise; selection by Congress risked making the president dependent on the legislature, while most delegates distrusted direct popular election, and Madison noted that a popular vote would disadvantage Southern states whose enslaved people could not vote.
+- **Q:** How did the election of 1800 lead to the Twelfth Amendment?
+  **A:** Each elector cast two undifferentiated votes, so Jefferson and his running mate Burr tied at 73 and the House needed 36 ballots to choose; the amendment, ratified in 1804, gave electors separate votes for president and vice president.
+- **Q:** How can a candidate win the national popular vote and still lose the presidency?
+  **A:** The president is chosen by state-allotted electors, and 48 states and the District of Columbia give all their electors to the statewide winner, so narrow wins in some states can outweigh large margins elsewhere, as in 1876, 1888, 2000 and 2016.
+- **Q:** What did the Supreme Court decide in Chiafalo v. Washington, and why?
+  **A:** It held unanimously in judgment in 2020 that states may enforce electors' pledges, reasoning from long practice that electors are not free agents but vote for the candidate their state's voters chose.
+
 ### [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) — Law
 
 | Myth | Fact |

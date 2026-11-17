@@ -26,8 +26,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
+| `us:united-states-constitution` | 8 | Census and apportionment, Electoral College, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
-| `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
 | `us:new-deal` | 5 | African Americans, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act, social-security-act |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 
-…and 76 more.
+…and 77 more.
 
 ## Happenings by era
 
@@ -95,6 +95,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
+| `us:electoral-college` | interpretive |  |
 | `us:federalist-papers` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:franklin-d-roosevelt` | interpretive |  |
@@ -112,9 +113,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
 | `us:lawes-divine-morall-and-martiall` | interpretive |  |
-| `us:liberty-bell` | interpretive |  |
 
-…and 25 more.
+…and 26 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -199,10 +199,10 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:thanksgiving-proclamation-of-1863` | `us:thanksgiving` |
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
+| `us:united-states-constitution` | `us:electoral-college` |
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 | `us:united-states-constitution` | `us:united-states` |
 | `us:united-states-constitution` | `us:united-states-congress` |
-| `us:wyoming-statehood-act` | `us:wyoming` |
 
-…and 1 more.
+…and 2 more.
 

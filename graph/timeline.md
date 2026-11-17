@@ -242,6 +242,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-07-12 | The convention adopts the three-fifths rule, six states to two with two divided. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-07-16 | Delegates at the Constitutional Convention agree on a two-chamber legislature with equal state representation in the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1787-07-16 | The Great (Connecticut) Compromise passes by a margin of one state. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-07-19 | At the Constitutional Convention, James Madison says direct popular election would leave the Southern states little influence because enslaved people could not vote, and leans toward electors. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1787-08 | A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-17 | **[United States Constitution](../articles/constitution-and-government/united-states-constitution.md)** (Document) |
 | 1787-09-17 | Delegates sign the finished four-page Constitution in Philadelphia. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
@@ -307,6 +308,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1796 | In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
+| 1796 | Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1797 – 1883-11-26 | **[Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md)** (Person) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -320,6 +322,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1800-11-17 | The Senate moves into the unfinished Capitol in Washington, D.C. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1801-01-01 | The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1801-02-13 | The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1801-02-17 | After Jefferson and Aaron Burr tie at 73 electoral votes each, the House elects Jefferson on its 36th ballot. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1801-03-02 | President John Adams nominates William Marbury as a justice of the peace for the District of Columbia. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-03-03 | The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
@@ -347,6 +350,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1804-06 | New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1807 | John Colter becomes the first known European American to visit the area of present-day Yellowstone. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1807-02-24 | Congress adds a seventh seat. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -405,6 +409,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1825-02-09 | With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -435,6 +440,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1831-03-18 | **[Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md)** (CourtCase) |
 | 1831-03-18 | The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1832 | By this year almost every state has its voters, rather than its legislature, choose presidential electors. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -452,6 +458,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1836 | After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1836 | Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1836 | The House adopts the gag rule, barring discussion of abolitionist petitions. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1836 | The Second Bank's federal charter expires without renewal. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
@@ -1657,6 +1664,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-30 | The administration launches Operation Warp Speed to speed development of a vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-08 | BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
+| 2020-07-06 | In Chiafalo v. Washington, the Supreme Court rules that states may enforce electors' pledges to vote for their party's nominee. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 2020-12-11 | FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-12-14 | New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2021 | The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
