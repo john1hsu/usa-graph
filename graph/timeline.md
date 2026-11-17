@@ -1355,19 +1355,29 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1948 | Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1948-03 | Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1948-06-11 | The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1948-08-03 | Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1949 | President Harry Truman signs legislation designating June 14 as national Flag Day. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1949-04-04 | **[North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md)** (Organization) |
+| 1949-04-04 | Twelve nations sign the North Atlantic Treaty in Washington; Secretary of State Dean Acheson signs for the United States. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1949-06-06 | The Senate Foreign Relations Committee reports the treaty favorably by a vote of 13 to 0. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1949-07-21 | The Senate gives its advice and consent to ratification, 82 to 13. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1949-07-25 | President Harry S. Truman ratifies the treaty. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1949-08-24 | The treaty enters into force after the remaining instruments of ratification are deposited. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1950 | The census records the city's peak population, 3,620,962. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1950-02-09 | Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-06-01 | Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-09 | Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1950-12 | General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-02-27 | The Twenty-second Amendment is ratified, limiting presidents to two elected terms. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1952 | Greece and Turkey join the alliance. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953 | Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
@@ -1398,6 +1408,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1955 | Receives a doctorate in systematic theology from Boston University. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1955 | West Germany joins; the Soviet Union answers with its own alliance of Eastern European states, the Warsaw Pact. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1955-05-24 | The Little Rock School Board adopts Superintendent Virgil Blossom's gradual plan, beginning with token desegregation of Central High in 1957. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1955-05-31 | In Brown II the Court orders desegregation to proceed with all deliberate speed under federal district courts. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1593,6 +1604,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1998-04-24 | A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612). — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1998-04-30 | After eight days of debate, the Senate approves the accession of Poland, Hungary and the Czech Republic, 80 to 19. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1998-07-21 | The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1602,6 +1614,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-09-11 | **[September 11 attacks](../articles/contemporary-america/september-11-attacks.md)** (Event) |
 | 2001-09-11 | Hijacked airliners strike the World Trade Center's North Tower (8:46 a.m.) and South Tower (9:03 a.m.) and the Pentagon (9:37 a.m.); United 93 crashes in Pennsylvania at 10:03 a.m. after a passenger and crew revolt. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2001-09-12 | NATO invokes Article 5 for the first time, the day after the September 11 attacks on the United States. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 2001-09-18 | Congress's Authorization for Use of Military Force against those responsible for the September 11 attacks, and those who harbored them, is approved. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2001-09-18 | President George W. Bush signs the Authorization for Use of Military Force against those responsible. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2001-10 | Bush signs the USA PATRIOT Act, expanding surveillance and security powers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
@@ -1752,6 +1765,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2023-05-11 | The federal COVID-19 public health emergency expires at the end of the day. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 2023-07-20 | The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 2024-03-07 | Sweden becomes the 32nd member. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |

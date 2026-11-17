@@ -12301,6 +12301,166 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Article 5 treats an attack on one as an attack on all, but each member takes \"such action as it deems necessary,\" which may or may not include armed force; U.S. negotiators insisted on that wording because the Constitution gives Congress the power to declare war.",
+   "uso:myth": "Article 5 automatically obliges every NATO member to go to war when an ally is attacked.",
+   "uso:why": "The slogan \"an attack on one is an attack on all\" is remembered without the clause that leaves each government to decide its own response."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States refuse to write an automatic military commitment into the North Atlantic Treaty?",
+   "uso:answer": "European negotiators wanted a guarantee of automatic U.S. intervention, but under the Constitution only Congress can declare war, so Article 5 lets each member take the action it deems necessary, including but not limited to armed force.",
+   "uso:questionFor": {
+    "@id": "us:nato"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Vandenberg Resolution prepare the way for NATO?",
+   "uso:answer": "Adopted by the Senate in June 1948, it endorsed U.S. association with regional collective-defense arrangements under the UN Charter and through constitutional processes, giving the administration bipartisan Senate backing to negotiate the treaty.",
+   "uso:questionFor": {
+    "@id": "us:nato"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was joining NATO a break with earlier American foreign policy?",
+   "uso:answer": "It was the first peacetime military alliance the United States entered outside the Western Hemisphere, ending a long tradition of avoiding alliances with European powers.",
+   "uso:questionFor": {
+    "@id": "us:nato"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did the only invocation of Article 5 lead to?",
+   "uso:answer": "After the September 11, 2001, attacks the allies invoked Article 5 on September 12; NATO then agreed eight support measures and sent AWACS radar planes to patrol U.S. skies in Operation Eagle Assist, its first Article 5 operation.",
+   "uso:questionFor": {
+    "@id": "us:nato"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1948-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "West Germany joins; the Soviet Union answers with its own alliance of Eastern European states, the Warsaw Pact.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1955"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After eight days of debate, the Senate approves the accession of Poland, Hungary and the Czech Republic, 80 to 19.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1998-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "NATO invokes Article 5 for the first time, the day after the September 11 attacks on the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2001-09-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sweden becomes the 32nd member.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2024-03-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1948-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Twelve nations sign the North Atlantic Treaty in Washington; Secretary of State Dean Acheson signs for the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate Foreign Relations Committee reports the treaty favorably by a vote of 13 to 0.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate gives its advice and consent to ratification, 82 to 13.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Harry S. Truman ratifies the treaty.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-07-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The treaty enters into force after the remaining instruments of ratification are deposited.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-08-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1950-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Greece and Turkey join the alliance.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1952"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II.",
@@ -25377,6 +25537,160 @@
     "@id": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0055/1668949.pdf"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "North Atlantic Treaty Organization (NATO), 1949",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1945-1952/nato"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "North Atlantic Treaty Organization",
+   "dcterms:title": "Enlargement and Article 10",
+   "schema:url": {
+    "@id": "https://www.nato.int/cps/en/natohq/topics_49212.htm"
+   },
+   "uso:sourceType": "intergovernmental"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Foreign Relations (Gale)",
+   "dcterms:title": "North Atlantic Treaty Organization (Klaus Larres, Encyclopedia of the New American Nation)",
+   "schema:url": {
+    "@id": "https://americanforeignrelations.com/E-N/North-Atlantic-Treaty-Organization.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Avalon Project, Yale Law School",
+   "dcterms:title": "North Atlantic Treaty; April 4, 1949",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/20th_century/nato.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Senate Resolution 239 (Vandenberg Resolution), June 11, 1948 (Foreign Relations of the United States, 1948, vol. III, doc. 106)",
+   "schema:url": {
+    "@id": "https://history.state.gov/historicaldocuments/frus1948v03/d106"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Department of State, National Museum of American Diplomacy",
+   "dcterms:title": "The Road to NATO: Building the Transatlantic Alliance",
+   "schema:url": {
+    "@id": "https://diplomacy.state.gov/exhibits/the-road-to-nato-building-the-transatlantic-alliance/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport.com)",
+   "dcterms:title": "Senate Consideration of the North Atlantic Treaty and Subsequent Accessions: Historical Overview (CRS Report 97-1041)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/97-1041.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport.com)",
+   "dcterms:title": "NATO: Senate Floor Consideration of the Accession of the Czech Republic, Hungary, and Poland (CRS Report 98-669)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/98-669.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Statement by the President on the Coming Into Effect of the North Atlantic Treaty, August 24, 1949",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-the-president-the-coming-into-effect-the-north-atlantic-treaty"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "North Atlantic Treaty Organization",
+   "dcterms:title": "Collective defence and Article 5",
+   "schema:url": {
+    "@id": "https://www.nato.int/cps/en/natohq/110496.htm"
+   },
+   "uso:sourceType": "intergovernmental"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "North Atlantic Treaty Organization",
+   "dcterms:title": "The United States and NATO",
+   "schema:url": {
+    "@id": "https://nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/united-states-and-nato"
+   },
+   "uso:sourceType": "intergovernmental"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s1",
@@ -49000,6 +49314,177 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/native-americans/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:nato",
+   "@type": "uso:Organization",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/nato/s9"
+    }
+   ],
+   "rdfs:label": "North Atlantic Treaty Organization",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1949-04-04"
+   },
+   "skos:altLabel": [
+    "Atlantic Alliance",
+    "NATO",
+    "North Atlantic Alliance",
+    "OTAN"
+   ],
+   "skos:broader": {
+    "@id": "us:foreign-relations-of-the-united-states"
+   },
+   "skos:definition": "The military alliance created by the North Atlantic Treaty, signed in Washington on April 4, 1949, by the United States, Canada and ten Western European states; it was the first peacetime military alliance the United States joined outside the Western Hemisphere, and it grew from 12 to 32 members by 2024.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "North Atlantic Treaty Organization",
+   "skos:related": [
+    {
+     "@id": "us:arthur-vandenberg"
+    },
+    {
+     "@id": "us:berlin-airlift"
+    },
+    {
+     "@id": "us:dean-acheson"
+    },
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:harry-s-truman"
+    },
+    {
+     "@id": "us:korean-war"
+    },
+    {
+     "@id": "us:marshall-plan"
+    },
+    {
+     "@id": "us:september-11-attacks"
+    },
+    {
+     "@id": "us:soviet-union"
+    },
+    {
+     "@id": "us:united-nations"
+    },
+    {
+     "@id": "us:united-states"
+    },
+    {
+     "@id": "us:united-states-senate"
+    },
+    {
+     "@id": "us:war-in-afghanistan"
+    }
+   ],
+   "uso:domain": "foreign-relations-and-military",
+   "uso:establishedBy": {
+    "@id": "us:north-atlantic-treaty"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/foreign-relations-and-military/nato.md",
+   "uso:influencedBy": [
+    {
+     "@id": "us:brussels-treaty"
+    },
+    {
+     "@id": "us:vandenberg-resolution"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:warsaw-pact"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/nato/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:cold-war"
+   },
+   "uso:requires": {
+    "@id": "us:cold-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/nato/timeline/9"
     }
    ]
   },

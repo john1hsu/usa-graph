@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 
-…and 79 more.
+…and 81 more.
 
 ## Happenings by era
 
@@ -65,6 +65,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 
 | era | node | start |
 |---|---|---|
+| `us:cold-war` | `us:nato` | 1949-04-04 |
 | `us:cold-war` | `us:desegregation-of-little-rock-central-high-school` | 1957-09-02 |
 | `us:cold-war` | `us:mccarthyism` | 1947 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
@@ -116,7 +117,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
 
-…and 29 more.
+…and 30 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -197,6 +198,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:judiciary-act-of-1789` | `us:supreme-court-of-the-united-states` |
 | `us:louisiana-constitution-of-1898` | `us:jim-crow-laws` |
 | `us:marbury-v-madison` | `us:judicial-review` |
+| `us:north-atlantic-treaty` | `us:nato` |
 | `us:secretarial-order-3299` | `us:bureau-of-ocean-energy-management` |
 | `us:separate-car-act` | `us:jim-crow-laws` |
 | `us:thanksgiving-day-resolution-of-1941` | `us:thanksgiving` |
@@ -206,7 +208,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:electoral-college` |
 | `us:united-states-constitution` | `us:presidency-of-the-united-states` |
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
-| `us:united-states-constitution` | `us:united-states` |
 
-…and 3 more.
+…and 4 more.
 

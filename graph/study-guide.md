@@ -1071,6 +1071,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do some historians see a contradiction in the Good Neighbor policy?
   **A:** While renouncing military intervention, Washington backed dictators such as Somoza, Trujillo and Batista and kept influence through advisers, loans, trade treaties and military ties, and the Cold War brought renewed interventions.
 
+### [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) — Organization
+
+| Myth | Fact |
+|---|---|
+| Article 5 automatically obliges every NATO member to go to war when an ally is attacked. | Article 5 treats an attack on one as an attack on all, but each member takes "such action as it deems necessary," which may or may not include armed force; U.S. negotiators insisted on that wording because the Constitution gives Congress the power to declare war. |
+
+**Why it matters:** The slogan "an attack on one is an attack on all" is remembered without the clause that leaves each government to decide its own response.
+
+- **Q:** Why did the United States refuse to write an automatic military commitment into the North Atlantic Treaty?
+  **A:** European negotiators wanted a guarantee of automatic U.S. intervention, but under the Constitution only Congress can declare war, so Article 5 lets each member take the action it deems necessary, including but not limited to armed force.
+- **Q:** How did the Vandenberg Resolution prepare the way for NATO?
+  **A:** Adopted by the Senate in June 1948, it endorsed U.S. association with regional collective-defense arrangements under the UN Charter and through constitutional processes, giving the administration bipartisan Senate backing to negotiate the treaty.
+- **Q:** Why was joining NATO a break with earlier American foreign policy?
+  **A:** It was the first peacetime military alliance the United States entered outside the Western Hemisphere, ending a long tradition of avoiding alliances with European powers.
+- **Q:** What did the only invocation of Article 5 lead to?
+  **A:** After the September 11, 2001, attacks the allies invoked Article 5 on September 12; NATO then agreed eight support measures and sent AWACS radar planes to patrol U.S. skies in Operation Eagle Assist, its first Article 5 operation.
+
 ### [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) — Landmark
 
 | Myth | Fact |

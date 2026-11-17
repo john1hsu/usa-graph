@@ -15051,6 +15051,207 @@
   ]
  },
  {
+  "id": "us:nato",
+  "title": "North Atlantic Treaty Organization",
+  "aliases": [
+   "NATO",
+   "North Atlantic Alliance",
+   "Atlantic Alliance",
+   "OTAN"
+  ],
+  "type": "Organization",
+  "domain": "foreign-relations-and-military",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/foreign-relations-and-military/nato.md",
+  "created": "2026-11-17",
+  "summary": "The military alliance created by the North Atlantic Treaty, signed in Washington on April 4, 1949, by the United States, Canada and ten Western European states; it was the first peacetime military alliance the United States joined outside the Western Hemisphere, and it grew from 12 to 32 members by 2024.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-senate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harry-s-truman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dean-acheson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:arthur-vandenberg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marshall-plan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:berlin-airlift"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:korean-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:soviet-union"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-nations"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:september-11-attacks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-in-afghanistan"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:north-atlantic-treaty",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:vandenberg-resolution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:brussels-treaty",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:cold-war",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:warsaw-pact",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1949-04-04",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the United States refuse to write an automatic military commitment into the North Atlantic Treaty?",
+    "answer": "European negotiators wanted a guarantee of automatic U.S. intervention, but under the Constitution only Congress can declare war, so Article 5 lets each member take the action it deems necessary, including but not limited to armed force."
+   },
+   {
+    "question": "How did the Vandenberg Resolution prepare the way for NATO?",
+    "answer": "Adopted by the Senate in June 1948, it endorsed U.S. association with regional collective-defense arrangements under the UN Charter and through constitutional processes, giving the administration bipartisan Senate backing to negotiate the treaty."
+   },
+   {
+    "question": "Why was joining NATO a break with earlier American foreign policy?",
+    "answer": "It was the first peacetime military alliance the United States entered outside the Western Hemisphere, ending a long tradition of avoiding alliances with European powers."
+   },
+   {
+    "question": "What did the only invocation of Article 5 lead to?",
+    "answer": "After the September 11, 2001, attacks the allies invoked Article 5 on September 12; NATO then agreed eight support measures and sent AWACS radar planes to patrol U.S. skies in Operation Eagle Assist, its first Article 5 operation."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1948-03",
+    "event": "Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact."
+   },
+   {
+    "date": "1948-06-11",
+    "event": "The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes."
+   },
+   {
+    "date": "1949-04-04",
+    "event": "Twelve nations sign the North Atlantic Treaty in Washington; Secretary of State Dean Acheson signs for the United States."
+   },
+   {
+    "date": "1949-06-06",
+    "event": "The Senate Foreign Relations Committee reports the treaty favorably by a vote of 13 to 0."
+   },
+   {
+    "date": "1949-07-21",
+    "event": "The Senate gives its advice and consent to ratification, 82 to 13."
+   },
+   {
+    "date": "1949-07-25",
+    "event": "President Harry S. Truman ratifies the treaty."
+   },
+   {
+    "date": "1949-08-24",
+    "event": "The treaty enters into force after the remaining instruments of ratification are deposited."
+   },
+   {
+    "date": "1950-12",
+    "event": "General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe."
+   },
+   {
+    "date": "1952",
+    "event": "Greece and Turkey join the alliance."
+   },
+   {
+    "date": "1955",
+    "event": "West Germany joins; the Soviet Union answers with its own alliance of Eastern European states, the Warsaw Pact."
+   },
+   {
+    "date": "1998-04-30",
+    "event": "After eight days of debate, the Senate approves the accession of Poland, Hungary and the Czech Republic, 80 to 19."
+   },
+   {
+    "date": "2001-09-12",
+    "event": "NATO invokes Article 5 for the first time, the day after the September 11 attacks on the United States."
+   },
+   {
+    "date": "2024-03-07",
+    "event": "Sweden becomes the 32nd member."
+   }
+  ],
+  "misconception": {
+   "myth": "Article 5 automatically obliges every NATO member to go to war when an ally is attacked.",
+   "fact": "Article 5 treats an attack on one as an attack on all, but each member takes \"such action as it deems necessary,\" which may or may not include armed force; U.S. negotiators insisted on that wording because the Constitution gives Congress the power to declare war.",
+   "why": "The slogan \"an attack on one is an attack on all\" is remembered without the clause that leaves each government to decide its own response."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1945-1952/nato",
+   "https://avalon.law.yale.edu/20th_century/nato.asp",
+   "https://history.state.gov/historicaldocuments/frus1948v03/d106",
+   "https://diplomacy.state.gov/exhibits/the-road-to-nato-building-the-transatlantic-alliance/",
+   "https://www.everycrsreport.com/reports/97-1041.html",
+   "https://www.everycrsreport.com/reports/98-669.html",
+   "https://www.presidency.ucsb.edu/documents/statement-the-president-the-coming-into-effect-the-north-atlantic-treaty",
+   "https://www.nato.int/cps/en/natohq/110496.htm",
+   "https://nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/united-states-and-nato",
+   "https://www.nato.int/cps/en/natohq/topics_49212.htm",
+   "https://americanforeignrelations.com/E-N/North-Atlantic-Treaty-Organization.html"
+  ]
+ },
+ {
   "id": "us:new-deal",
   "title": "New Deal",
   "aliases": [

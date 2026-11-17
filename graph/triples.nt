@@ -8968,6 +8968,125 @@
 <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/native-americans/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/native-americans/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/native-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/native-americans/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/nato/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/nato/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Article 5 treats an attack on one as an attack on all, but each member takes \"such action as it deems necessary,\" which may or may not include armed force; U.S. negotiators insisted on that wording because the Constitution gives Congress the power to declare war." .
+<https://github.com/john1hsu/usa-graph/id/nato/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Article 5 automatically obliges every NATO member to go to war when an ally is attacked." .
+<https://github.com/john1hsu/usa-graph/id/nato/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The slogan \"an attack on one is an attack on all\" is remembered without the clause that leaves each government to decide its own response." .
+<https://github.com/john1hsu/usa-graph/id/nato/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States refuse to write an automatic military commitment into the North Atlantic Treaty?" .
+<https://github.com/john1hsu/usa-graph/id/nato/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "European negotiators wanted a guarantee of automatic U.S. intervention, but under the Constitution only Congress can declare war, so Article 5 lets each member take the action it deems necessary, including but not limited to armed force." .
+<https://github.com/john1hsu/usa-graph/id/nato/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nato> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Vandenberg Resolution prepare the way for NATO?" .
+<https://github.com/john1hsu/usa-graph/id/nato/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Adopted by the Senate in June 1948, it endorsed U.S. association with regional collective-defense arrangements under the UN Charter and through constitutional processes, giving the administration bipartisan Senate backing to negotiate the treaty." .
+<https://github.com/john1hsu/usa-graph/id/nato/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nato> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was joining NATO a break with earlier American foreign policy?" .
+<https://github.com/john1hsu/usa-graph/id/nato/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It was the first peacetime military alliance the United States entered outside the Western Hemisphere, ending a long tradition of avoiding alliances with European powers." .
+<https://github.com/john1hsu/usa-graph/id/nato/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nato> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/nato/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did the only invocation of Article 5 lead to?" .
+<https://github.com/john1hsu/usa-graph/id/nato/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "After the September 11, 2001, attacks the allies invoked Article 5 on September 12; NATO then agreed eight support measures and sent AWACS radar planes to patrol U.S. skies in Operation Eagle Assist, its first Article 5 operation." .
+<https://github.com/john1hsu/usa-graph/id/nato/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/nato> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "West Germany joins; the Soviet Union answers with its own alliance of Eastern European states, the Warsaw Pact." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "After eight days of debate, the Senate approves the accession of Poland, Hungary and the Czech Republic, 80 to 19." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1998-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "NATO invokes Article 5 for the first time, the day after the September 11 attacks on the United States." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2001-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Sweden becomes the 32nd member." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "2024-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1948-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1948-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Twelve nations sign the North Atlantic Treaty in Washington; Secretary of State Dean Acheson signs for the United States." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1949-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate Foreign Relations Committee reports the treaty favorably by a vote of 13 to 0." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1949-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate gives its advice and consent to ratification, 82 to 13." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1949-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President Harry S. Truman ratifies the treaty." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1949-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The treaty enters into force after the remaining instruments of ratification are deposited." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1949-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1950-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Greece and Turkey join the alliance." .
+<https://github.com/john1hsu/usa-graph/id/nato/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Organization> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2000/01/rdf-schema#label> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#altLabel> "Atlantic Alliance" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#altLabel> "NATO" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#altLabel> "North Atlantic Alliance" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#altLabel> "OTAN" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#definition> "The military alliance created by the North Atlantic Treaty, signed in Washington on April 4, 1949, by the United States, Canada and ten Western European states; it was the first peacetime military alliance the United States joined outside the Western Hemisphere, and it grew from 12 to 32 members by 2024." .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#prefLabel> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/arthur-vandenberg> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/berlin-airlift> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dean-acheson> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harry-s-truman> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/korean-war> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marshall-plan> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/soviet-union> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-nations> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-senate> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s10> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s11> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s1> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s2> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s3> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s4> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s5> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s6> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s7> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s8> .
+<https://github.com/john1hsu/usa-graph/id/nato> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/nato/s9> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/north-atlantic-treaty> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/nato.md" .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/brussels-treaty> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/vandenberg-resolution> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/warsaw-pact> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/nato/misconception> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/nato/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/nato> <https://schema.org/startDate> "1949-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II." .
 <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The New Deal ended the Great Depression." .
@@ -15448,6 +15567,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/native-americans/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/native-americans/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
 <https://github.com/john1hsu/usa-graph/id/source/native-americans/s9> <https://schema.org/url> <https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0055/1668949.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <http://purl.org/dc/terms/publisher> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <http://purl.org/dc/terms/title> "Enlargement and Article 10" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s10> <https://schema.org/url> <https://www.nato.int/cps/en/natohq/topics_49212.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <http://purl.org/dc/terms/publisher> "American Foreign Relations (Gale)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <http://purl.org/dc/terms/title> "North Atlantic Treaty Organization (Klaus Larres, Encyclopedia of the New American Nation)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s11> <https://schema.org/url> <https://americanforeignrelations.com/E-N/North-Atlantic-Treaty-Organization.html> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <http://purl.org/dc/terms/title> "North Atlantic Treaty Organization (NATO), 1949" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s1> <https://schema.org/url> <https://history.state.gov/milestones/1945-1952/nato> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <http://purl.org/dc/terms/publisher> "Avalon Project, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <http://purl.org/dc/terms/title> "North Atlantic Treaty; April 4, 1949" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s2> <https://schema.org/url> <https://avalon.law.yale.edu/20th_century/nato.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <http://purl.org/dc/terms/title> "Senate Resolution 239 (Vandenberg Resolution), June 11, 1948 (Foreign Relations of the United States, 1948, vol. III, doc. 106)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s3> <https://schema.org/url> <https://history.state.gov/historicaldocuments/frus1948v03/d106> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of State, National Museum of American Diplomacy" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <http://purl.org/dc/terms/title> "The Road to NATO: Building the Transatlantic Alliance" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s4> <https://schema.org/url> <https://diplomacy.state.gov/exhibits/the-road-to-nato-building-the-transatlantic-alliance/> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport.com)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <http://purl.org/dc/terms/title> "Senate Consideration of the North Atlantic Treaty and Subsequent Accessions: Historical Overview (CRS Report 97-1041)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s5> <https://schema.org/url> <https://www.everycrsreport.com/reports/97-1041.html> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport.com)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <http://purl.org/dc/terms/title> "NATO: Senate Floor Consideration of the Accession of the Czech Republic, Hungary, and Poland (CRS Report 98-669)" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s6> <https://schema.org/url> <https://www.everycrsreport.com/reports/98-669.html> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <http://purl.org/dc/terms/title> "Statement by the President on the Coming Into Effect of the North Atlantic Treaty, August 24, 1949" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s7> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/statement-the-president-the-coming-into-effect-the-north-atlantic-treaty> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <http://purl.org/dc/terms/publisher> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <http://purl.org/dc/terms/title> "Collective defence and Article 5" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s8> <https://schema.org/url> <https://www.nato.int/cps/en/natohq/110496.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <http://purl.org/dc/terms/publisher> "North Atlantic Treaty Organization" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <http://purl.org/dc/terms/title> "The United States and NATO" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/usa-graph/id/source/nato/s9> <https://schema.org/url> <https://nato.int/en/about-us/nato-history/history-by-theme/my-country-and-nato/united-states-and-nato> .
 <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/publisher> "Teaching American History, Ashbrook Center (text from the American Presidency Project)" .
 <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/title> "Acceptance Speech at the Democratic Convention (1932), Franklin D. Roosevelt" .
