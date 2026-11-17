@@ -1114,6 +1114,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1920-11-02 | Loses the vice-presidential election on the Democratic ticket headed by James Cox. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1921-08 | Stricken with polio at Campobello, New Brunswick; he never again walks unaided. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
+| 1921-08 | The Dow Jones Industrial Average stands at 63. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -1137,11 +1138,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1928-12-21 | President Coolidge signs the Boulder Canyon Project Act authorizing the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1929-01-15 – 1968-04-04 | **[Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md)** (Person) |
 | 1929-01-15 | Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1929-02-02 | The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-06-18 | The Reapportionment and Census Act makes apportionment automatic after the 1930 census and keeps 435 seats. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1929-08 – 1941 | **[Great Depression](../articles/depression-and-world-war/great-depression.md)** (Era) |
+| 1929-08 | The Board approves a rise in the New York Fed's discount rate to 6 percent. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-08 | The expansion of the 1920s ends and the economy begins to contract. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1929-09-03 | The Dow closes at its peak of 381.17. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-10-24 – 1929-11 | **[Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md)** (Event) |
+| 1929-10-24 | Black Thursday: nearly 13 million shares trade; leading New York banks buy blue-chip stocks to steady prices. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-10-24 | Black Thursday: the New York Stock Exchange loses 11 percent of its value. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1929-10-25 | President Hoover tells the press that the nation's basic business is sound. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-10-28 | Black Monday: the Dow falls nearly 13 percent. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1929-10-29 | Black Tuesday: more than 16 million shares change hands and over $14 billion in wealth is lost in a day. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1929-10-29 | Black Tuesday: the Dow falls nearly 12 percent on record trading of over 16 million shares. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-10-30 | Before trading opens, the New York Fed announces it will buy $100 million in government securities. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
+| 1929-11 | By mid-November the Dow has lost almost half its value. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1930 | Son House records for Paramount. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1930-06 | Hoover signs the Smoot-Hawley Tariff, raising duties on farm and industrial imports to historic highs. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1930-09-17 | At a ceremony opening work on the project, Interior Secretary Ray Lyman Wilbur announces the name Hoover Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1158,8 +1169,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932 | Thousands of World War I veterans march on Washington as the Bonus Army to demand early payment of promised bonuses, a precedent planners later wanted to avoid. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1932-03-02 | The Senate authorizes its Banking and Currency Committee to investigate stock exchange practices. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932-07-02 | Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1932-07-08 | The Dow bottoms at 41.22, about 89 percent below its 1929 peak. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1932-10-13 | Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1932-11-08 | Elected president, defeating Herbert Hoover. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1932-11-14 | The river is turned through the diversion tunnels around the dam site. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1188,6 +1201,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934 | The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1934-06-06 | Roosevelt signs the Securities Exchange Act of 1934. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
@@ -1370,6 +1384,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-05-21 | Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1954-06-09 | Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-08 | The Communist Control Act effectively criminalizes membership in the Communist Party. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1954-11-23 | The Dow finally regains its 1929 high. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1955 | Receives a doctorate in systematic theology from Boston University. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |

@@ -18590,6 +18590,169 @@
   ]
  },
  {
+  "id": "us:stock-market-crash-of-1929",
+  "title": "Stock market crash of 1929",
+  "aliases": [
+   "Crash of 1929",
+   "Great Crash",
+   "Wall Street Crash of 1929",
+   "Black Tuesday",
+   "Black Thursday"
+  ],
+  "type": "Event",
+  "domain": "economy-and-work",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/economy-and-work/stock-market-crash-of-1929.md",
+  "created": "2026-11-17",
+  "summary": "The collapse of prices on the New York Stock Exchange in late October and November 1929, centred on Black Thursday (October 24) and Black Monday and Black Tuesday (October 28–29), which ended the speculative boom of the 1920s, wiped out about half the market's value within weeks and became the best-known symbol of the onset of the Great Depression.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-reserve-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-stock-exchange"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:banking-act-of-1933"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-york-city",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:great-depression",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:pecora-investigation",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:securities-exchange-act-of-1934",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1929-10-24",
+  "end": "1929-11",
+  "review": [
+   {
+    "question": "How did buying on margin make the crash worse once prices began to fall?",
+    "answer": "Investors had paid only part of a share's price and borrowed the rest against the shares, an arrangement that worked only while prices kept rising; once prices fell, the borrowed positions could not be sustained, and panic selling drove prices down further."
+   },
+   {
+    "question": "Why do many economists say the crash did not by itself cause the Great Depression?",
+    "answer": "The economy had already begun contracting in the summer of 1929, the crash's effects on spending faded within months and recovery looked likely by fall 1930, and it was later problems in the financial system, above all bank failures, that turned a recession into a depression; some, like Allan Meltzer, call the crash a symptom of the downturn rather than a cause."
+   },
+   {
+    "question": "How did the crash change federal regulation of Wall Street?",
+    "answer": "It led the Senate to investigate stock exchange practices; the Pecora hearings exposed questionable dealings such as Charles Mitchell's tax-avoiding stock sale and built support for the Banking Act of 1933, which separated commercial from investment banking and created deposit insurance, and the Securities Exchange Act of 1934."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1921-08",
+    "event": "The Dow Jones Industrial Average stands at 63."
+   },
+   {
+    "date": "1929-02-02",
+    "event": "The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators."
+   },
+   {
+    "date": "1929-08",
+    "event": "The Board approves a rise in the New York Fed's discount rate to 6 percent."
+   },
+   {
+    "date": "1929-09-03",
+    "event": "The Dow closes at its peak of 381.17."
+   },
+   {
+    "date": "1929-10-24",
+    "event": "Black Thursday: nearly 13 million shares trade; leading New York banks buy blue-chip stocks to steady prices."
+   },
+   {
+    "date": "1929-10-25",
+    "event": "President Hoover tells the press that the nation's basic business is sound."
+   },
+   {
+    "date": "1929-10-28",
+    "event": "Black Monday: the Dow falls nearly 13 percent."
+   },
+   {
+    "date": "1929-10-29",
+    "event": "Black Tuesday: the Dow falls nearly 12 percent on record trading of over 16 million shares."
+   },
+   {
+    "date": "1929-10-30",
+    "event": "Before trading opens, the New York Fed announces it will buy $100 million in government securities."
+   },
+   {
+    "date": "1929-11",
+    "event": "By mid-November the Dow has lost almost half its value."
+   },
+   {
+    "date": "1932-03-02",
+    "event": "The Senate authorizes its Banking and Currency Committee to investigate stock exchange practices."
+   },
+   {
+    "date": "1932-07-08",
+    "event": "The Dow bottoms at 41.22, about 89 percent below its 1929 peak."
+   },
+   {
+    "date": "1934-06-06",
+    "event": "Roosevelt signs the Securities Exchange Act of 1934."
+   },
+   {
+    "date": "1954-11-23",
+    "event": "The Dow finally regains its 1929 high."
+   }
+  ],
+  "misconception": {
+   "myth": "Most Americans had their savings in the stock market, so the crash ruined ordinary families across the country at a stroke.",
+   "fact": "Only about 3 million of roughly 120 million Americans, under 2.5 percent, owned any stock in 1929, most of them in small holdings; the widespread ruin came later, as banks failed and jobs disappeared during the Depression.",
+   "why": "The crash is remembered through the Depression that followed, so the hardship of the 1930s is often projected back onto a few days of trading that directly touched a small minority."
+  },
+  "source_urls": [
+   "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+   "https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929",
+   "https://www.senate.gov/about/powers-procedures/investigations/pecora.htm",
+   "https://hoover.blogs.archives.gov/2022/06/15/the-great-stock-market-crash-of-1929-why-history-textbooks-and-the-conventional-wisdom-get-it-wrong/",
+   "https://www.presidency.ucsb.edu/documents/statement-the-national-business-and-economic-situation",
+   "https://www.saturdayeveningpost.com/2019/10/6-myths-about-the-stock-market-crash-of-1929/"
+  ]
+ },
+ {
   "id": "us:supreme-court-of-the-united-states",
   "title": "Supreme Court of the United States",
   "aliases": [

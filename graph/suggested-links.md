@@ -23,8 +23,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.45 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
 | 2.42 | `us:new-orleans` | `us:slavery-in-the-united-states` | `us:domestic-slave-trade`, `us:jazz`, `us:louisiana-purchase`, `us:war-of-1812` |
 | 2.37 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
-| 2.36 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.36 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
+| 2.36 | `us:great-depression` | `us:servicemens-readjustment-act-of-1944` | `us:bonus-army`, `us:franklin-d-roosevelt`, `us:new-deal`, `us:world-war-ii-and-the-united-states` |
 | 2.35 | `us:george-washington` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:constitutional-convention`, `us:john-marshall`, `us:presidency-of-the-united-states` |
 | 2.33 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:haudenosaunee`, `us:louisiana-purchase`, `us:treaty-of-paris-1783` |
 | 2.31 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |

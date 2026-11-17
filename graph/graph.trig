@@ -706,6 +706,15 @@
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s4> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s5> .
 <https://github.com/john1hsu/usa-graph/id/panic-of-1873#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/stock-market-crash-of-1929.md" .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> .
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> .
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/triangle-shirtwaist-factory-fire.md" .
@@ -11544,6 +11553,153 @@
   <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/panic-of-1873/s6> <https://schema.org/url> <https://home.treasury.gov/about/history/freedmans-bank-building/freedmans-bank-demise> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <http://purl.org/dc/terms/publisher> "Federal Reserve History, Federal Reserve System (Gary Richardson, Alejandro Komai, Michael Gou and Daniel Park)" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <http://purl.org/dc/terms/title> "Stock Market Crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> <https://schema.org/url> <https://www.federalreservehistory.org/essays/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <http://purl.org/dc/terms/title> "25.1 The Stock Market Crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <http://purl.org/dc/terms/publisher> "United States Senate, Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <http://purl.org/dc/terms/title> "The Pecora Investigation" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> <https://schema.org/url> <https://www.senate.gov/about/powers-procedures/investigations/pecora.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <http://purl.org/dc/terms/publisher> "Herbert Hoover Presidential Library and Museum, Hoover Heads blog (Thomas F. Schwartz)" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <http://purl.org/dc/terms/title> "The Great Stock Market Crash of 1929: Why History Textbooks and the Conventional Wisdom Get It Wrong" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> <https://schema.org/url> <https://hoover.blogs.archives.gov/2022/06/15/the-great-stock-market-crash-of-1929-why-history-textbooks-and-the-conventional-wisdom-get-it-wrong/> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <http://purl.org/dc/terms/title> "Statement on the National Business and Economic Situation (Herbert Hoover, October 25, 1929)" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> <https://schema.org/url> <https://www.presidency.ucsb.edu/documents/statement-the-national-business-and-economic-situation> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <http://purl.org/dc/terms/publisher> "The Saturday Evening Post (Jeff Nilsson, October 29, 2019)" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <http://purl.org/dc/terms/title> "6 Myths about the Stock Market Crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> <https://schema.org/url> <https://www.saturdayeveningpost.com/2019/10/6-myths-about-the-stock-market-crash-of-1929/> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Only about 3 million of roughly 120 million Americans, under 2.5 percent, owned any stock in 1929, most of them in small holdings; the widespread ruin came later, as banks failed and jobs disappeared during the Depression." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Most Americans had their savings in the stock market, so the crash ruined ordinary families across the country at a stroke." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The crash is remembered through the Depression that followed, so the hardship of the 1930s is often projected back onto a few days of trading that directly touched a small minority." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did buying on margin make the crash worse once prices began to fall?" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Investors had paid only part of a share's price and borrowed the rest against the shares, an arrangement that worked only while prices kept rising; once prices fell, the borrowed positions could not be sustained, and panic selling drove prices down further." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why do many economists say the crash did not by itself cause the Great Depression?" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The economy had already begun contracting in the summer of 1929, the crash's effects on spending faded within months and recovery looked likely by fall 1930, and it was later problems in the financial system, above all bank failures, that turned a recession into a depression; some, like Allan Meltzer, call the crash a symptom of the downturn rather than a cause." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did the crash change federal regulation of Wall Street?" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It led the Senate to investigate stock exchange practices; the Pecora hearings exposed questionable dealings such as Charles Mitchell's tax-avoiding stock sale and built support for the Banking Act of 1933, which separated commercial from investment banking and created deposit insurance, and the Securities Exchange Act of 1934." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "By mid-November the Dow has lost almost half its value." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate authorizes its Banking and Currency Committee to investigate stock exchange practices." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Dow bottoms at 41.22, about 89 percent below its 1929 peak." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt signs the Securities Exchange Act of 1934." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1934-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The Dow finally regains its 1929 high." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1954-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Dow Jones Industrial Average stands at 63." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1921-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The Board approves a rise in the New York Fed's discount rate to 6 percent." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Dow closes at its peak of 381.17." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Black Thursday: nearly 13 million shares trade; leading New York banks buy blue-chip stocks to steady prices." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "President Hoover tells the press that the nation's basic business is sound." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Black Monday: the Dow falls nearly 13 percent." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Black Tuesday: the Dow falls nearly 12 percent on record trading of over 16 million shares." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Before trading opens, the New York Fed announces it will buy $100 million in government securities." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2000/01/rdf-schema#label> "Stock market crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#altLabel> "Black Thursday" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#altLabel> "Black Tuesday" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#altLabel> "Crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#altLabel> "Great Crash" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#altLabel> "Wall Street Crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#definition> "The collapse of prices on the New York Stock Exchange in late October and November 1929, centred on Black Thursday (October 24) and Black Monday and Black Tuesday (October 28–29), which ended the speculative boom of the 1920s, wiped out about half the market's value within weeks and became the best-known symbol of the onset of the Great Depression." .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stock market crash of 1929" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/banking-act-of-1933> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-stock-exchange> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#domain> "economy-and-work" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/economy-and-work/stock-market-crash-of-1929.md" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/pecora-investigation> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/securities-exchange-act-of-1934> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://schema.org/endDate> "1929-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <https://schema.org/startDate> "1929-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire#graph> {
@@ -23405,6 +23561,7 @@
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/banking-act-of-1933> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -24395,6 +24552,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -24402,6 +24560,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/edwards-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -24521,6 +24680,7 @@
   <https://github.com/john1hsu/usa-graph/id/federal-indian-law> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/federal-indian-law> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/federal-reserve-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/federal-trust-responsibility> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
@@ -24976,6 +25136,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
@@ -25191,6 +25352,7 @@
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#commemoratedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -26397,6 +26559,7 @@
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -26432,8 +26595,10 @@
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-york-factory-investigating-commission> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-stock-exchange> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
@@ -26651,6 +26816,7 @@
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/panic-of-1873> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station> .
@@ -26661,6 +26827,7 @@
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-advance-knowledge-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-investigations> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/pecora-investigation> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/pedro-miguel-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/pendleton-civil-service-reform-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -27035,6 +27202,7 @@
   <https://github.com/john1hsu/usa-graph/id/sectionalism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/sectionalism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/sectionalism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/securities-exchange-act-of-1934> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
@@ -27320,7 +27488,27 @@
   <https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
   <https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
-  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/storyville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/stuart-v-laird> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .

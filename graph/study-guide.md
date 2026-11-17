@@ -1003,6 +1003,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians link the depression that followed the panic to the end of Reconstruction?
   **A:** The downturn pushed economic issues ahead of Reconstruction on the national agenda, eroded Northern willingness to keep intervening in the South, and helped Democrats win the House in 1874, while white Southern Democrats were regaining power state by state; historians differ on how much weight to give the economy versus Southern political violence.
 
+### [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Most Americans had their savings in the stock market, so the crash ruined ordinary families across the country at a stroke. | Only about 3 million of roughly 120 million Americans, under 2.5 percent, owned any stock in 1929, most of them in small holdings; the widespread ruin came later, as banks failed and jobs disappeared during the Depression. |
+
+**Why it matters:** The crash is remembered through the Depression that followed, so the hardship of the 1930s is often projected back onto a few days of trading that directly touched a small minority.
+
+- **Q:** How did buying on margin make the crash worse once prices began to fall?
+  **A:** Investors had paid only part of a share's price and borrowed the rest against the shares, an arrangement that worked only while prices kept rising; once prices fell, the borrowed positions could not be sustained, and panic selling drove prices down further.
+- **Q:** Why do many economists say the crash did not by itself cause the Great Depression?
+  **A:** The economy had already begun contracting in the summer of 1929, the crash's effects on spending faded within months and recovery looked likely by fall 1930, and it was later problems in the financial system, above all bank failures, that turned a recession into a depression; some, like Allan Meltzer, call the crash a symptom of the downturn rather than a cause.
+- **Q:** How did the crash change federal regulation of Wall Street?
+  **A:** It led the Senate to investigate stock exchange practices; the Pecora hearings exposed questionable dealings such as Charles Mitchell's tax-avoiding stock sale and built support for the Banking Act of 1933, which separated commercial from investment banking and created deposit insurance, and the Securities Exchange Act of 1934.
+
 ### [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) — Event
 
 | Myth | Fact |

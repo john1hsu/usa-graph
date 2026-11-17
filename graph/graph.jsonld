@@ -27556,6 +27556,90 @@
    "uso:sourceType": "peer-reviewed"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Federal Reserve History, Federal Reserve System (Gary Richardson, Alejandro Komai, Michael Gou and Daniel Park)",
+   "dcterms:title": "Stock Market Crash of 1929",
+   "schema:url": {
+    "@id": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "25.1 The Stock Market Crash of 1929",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/25-1-the-stock-market-crash-of-1929"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Senate Historical Office",
+   "dcterms:title": "The Pecora Investigation",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/investigations/pecora.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Herbert Hoover Presidential Library and Museum, Hoover Heads blog (Thomas F. Schwartz)",
+   "dcterms:title": "The Great Stock Market Crash of 1929: Why History Textbooks and the Conventional Wisdom Get It Wrong",
+   "schema:url": {
+    "@id": "https://hoover.blogs.archives.gov/2022/06/15/the-great-stock-market-crash-of-1929-why-history-textbooks-and-the-conventional-wisdom-get-it-wrong/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Statement on the National Business and Economic Situation (Herbert Hoover, October 25, 1929)",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/documents/statement-the-national-business-and-economic-situation"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Saturday Evening Post (Jeff Nilsson, October 29, 2019)",
+   "dcterms:title": "6 Myths about the Stock Market Crash of 1929",
+   "schema:url": {
+    "@id": "https://www.saturdayeveningpost.com/2019/10/6-myths-about-the-stock-market-crash-of-1929/"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -31330,6 +31414,166 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1610-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Only about 3 million of roughly 120 million Americans, under 2.5 percent, owned any stock in 1929, most of them in small holdings; the widespread ruin came later, as banks failed and jobs disappeared during the Depression.",
+   "uso:myth": "Most Americans had their savings in the stock market, so the crash ruined ordinary families across the country at a stroke.",
+   "uso:why": "The crash is remembered through the Depression that followed, so the hardship of the 1930s is often projected back onto a few days of trading that directly touched a small minority."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did buying on margin make the crash worse once prices began to fall?",
+   "uso:answer": "Investors had paid only part of a share's price and borrowed the rest against the shares, an arrangement that worked only while prices kept rising; once prices fell, the borrowed positions could not be sustained, and panic selling drove prices down further.",
+   "uso:questionFor": {
+    "@id": "us:stock-market-crash-of-1929"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do many economists say the crash did not by itself cause the Great Depression?",
+   "uso:answer": "The economy had already begun contracting in the summer of 1929, the crash's effects on spending faded within months and recovery looked likely by fall 1930, and it was later problems in the financial system, above all bank failures, that turned a recession into a depression; some, like Allan Meltzer, call the crash a symptom of the downturn rather than a cause.",
+   "uso:questionFor": {
+    "@id": "us:stock-market-crash-of-1929"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the crash change federal regulation of Wall Street?",
+   "uso:answer": "It led the Senate to investigate stock exchange practices; the Pecora hearings exposed questionable dealings such as Charles Mitchell's tax-avoiding stock sale and built support for the Banking Act of 1933, which separated commercial from investment banking and created deposit insurance, and the Securities Exchange Act of 1934.",
+   "uso:questionFor": {
+    "@id": "us:stock-market-crash-of-1929"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dow Jones Industrial Average stands at 63.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1921-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "By mid-November the Dow has lost almost half its value.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate authorizes its Banking and Currency Committee to investigate stock exchange practices.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-03-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dow bottoms at 41.22, about 89 percent below its 1929 peak.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-07-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt signs the Securities Exchange Act of 1934.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1934-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dow finally regains its 1929 high.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-11-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Federal Reserve Board asks reserve banks to deny credit to member banks that lend to stock speculators.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-02-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Board approves a rise in the New York Fed's discount rate to 6 percent.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Dow closes at its peak of 381.17.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-09-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Thursday: nearly 13 million shares trade; leading New York banks buy blue-chip stocks to steady prices.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Hoover tells the press that the nation's basic business is sound.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Monday: the Dow falls nearly 13 percent.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Black Tuesday: the Dow falls nearly 12 percent on record trading of over 16 million shares.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Before trading opens, the New York Fed announces it will buy $100 million in government securities.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-10-30"
    }
   },
   {
@@ -51474,6 +51718,146 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:stock-market-crash-of-1929",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/stock-market-crash-of-1929/s6"
+    }
+   ],
+   "rdfs:label": "Stock market crash of 1929",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1929-11"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1929-10-24"
+   },
+   "skos:altLabel": [
+    "Black Thursday",
+    "Black Tuesday",
+    "Crash of 1929",
+    "Great Crash",
+    "Wall Street Crash of 1929"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The collapse of prices on the New York Stock Exchange in late October and November 1929, centred on Black Thursday (October 24) and Black Monday and Black Tuesday (October 28–29), which ended the speculative boom of the 1920s, wiped out about half the market's value within weeks and became the best-known symbol of the onset of the Great Depression.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Stock market crash of 1929",
+   "skos:related": [
+    {
+     "@id": "us:banking-act-of-1933"
+    },
+    {
+     "@id": "us:federal-reserve-system"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:new-york-stock-exchange"
+    },
+    {
+     "@id": "us:panic-of-1873"
+    }
+   ],
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/economy-and-work/stock-market-crash-of-1929.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:pecora-investigation"
+    },
+    {
+     "@id": "us:securities-exchange-act-of-1934"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:great-depression"
+   },
+   "uso:occurredIn": {
+    "@id": "us:new-york-city"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929/timeline/9"
     }
    ]
   },

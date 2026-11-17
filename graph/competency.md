@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 
-…and 78 more.
+…and 79 more.
 
 ## Happenings by era
 
@@ -74,6 +74,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
 | `us:gilded-age` | `us:hayden-geological-survey-of-1871` | 1871-06 |
+| `us:great-depression` | `us:stock-market-crash-of-1929` | 1929-10-24 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
 | `us:great-depression` | `us:new-deal` | 1933-03 |
 | `us:progressive-era` | `us:womens-suffrage-movement` | 1848-07-19 |
@@ -115,7 +116,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
 
-…and 28 more.
+…and 29 more.
 
 ## Places with nothing tied to them (gap)
 
