@@ -1096,6 +1096,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-03-18 | Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 1938-05-26 | The House creates the Special Committee on Un-American Activities, known as the Dies Committee after its chair, Martin Dies Jr. of Texas. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1938-06-25 | Roosevelt signs the Fair Labor Standards Act. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1938-08-15 | Hansen is photographed at the figures with Carl J. Hambro, president of the Norwegian Parliament. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-10-24 | The first federal minimum wage, 25 cents an hour, takes effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1173,6 +1174,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1945-01-03 | The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1945-05 | Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-08-06 | A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1184,17 +1186,23 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1947 – 1957 | **[McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md)** (Era) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
 | 1947 | Veterans make up 49 percent of students at American colleges. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1947-03 | President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1948 | Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1948-08-03 | Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1949 | President Harry Truman signs legislation designating June 14 as national Flag Day. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1950 | The census records the city's peak population, 3,620,962. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1950-02-09 | Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1950-06-01 | Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1950-09 | Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1202,7 +1210,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953 | Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 1953 | The American Indian Center of Chicago is founded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1953-04-27 | President Dwight D. Eisenhower issues Executive Order 10450, which bars gay men and lesbians from federal employment. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1953-06-18 | Marries Coretta Scott in Marion, Alabama. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1953-06-19 | Julius and Ethel Rosenberg are executed for conspiracy to commit espionage. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1953-08-01 | House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-08-15 | Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1214,11 +1224,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954 | Muddy Waters records Willie Dixon's "I'm Your Hoochie Coochie Man." — [Blues](../articles/culture-and-arts/blues.md) |
 | 1954 | The NAACP's legal campaign against segregated schools culminates in Brown v. Board of Education. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1954-03 | The Women's Political Council meets Mayor W. A. Gayle to ask for changes in how Black riders are treated on city buses. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1954-03-16 | The Senate Permanent Subcommittee on Investigations opens its inquiry into McCarthy's clash with the U.S. Army; the hearings are televised nationally. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1954-05-17 | **[Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md)** (CourtCase) |
 | 1954-05-17 | Brown v. Board of Education rejects separate but equal in public education. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1954-05-17 | The Court rules unanimously that segregated public schools violate the Equal Protection Clause; Bolling v. Sharpe is decided the same day. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1954-05-17 | The Supreme Court rules in Brown v. Board of Education that segregated public schools are unconstitutional. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1954-05-21 | Council president Jo Ann Robinson writes to the mayor that many local groups have discussed a city-wide boycott. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1954-06-09 | Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1954-08 | The Communist Control Act effectively criminalizes membership in the Communist Party. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1955 | Receives a doctorate in systematic theology from Boston University. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -1245,6 +1259,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-12-21 | Montgomery's buses operate on an integrated basis. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1957 | Founds the Southern Christian Leadership Conference and becomes its president. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1957-01 | More than sixty ministers meet at Ebenezer Baptist Church in Atlanta and form the Southern Christian Leadership Conference. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1957-05 | McCarthy dies at age 48. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1957-08-28 | Federal judge Ronald Davies voids a state court injunction against integration and orders the district to proceed. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1957-09-02 – 1958-05 | **[Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md)** (Event) |
 | 1957-09-02 | Governor Orval Faubus announces on television that he has called out the Arkansas National Guard. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
@@ -1348,6 +1363,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1974 | Domestic workers are brought under the law. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1975 | Congress extends preclearance and updates the formula for the last time, using 1972 election data. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
+| 1975 | The House abolishes its Committee on Internal Security, HUAC's successor; the Civil Service Commission ends its ban on gay federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1975 | The Indian Self-Determination and Education Assistance Act lets tribes contract to run programs formerly run by the BIA and the Indian Health Service. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1976 | Craig v. Boren sets the intermediate-scrutiny standard for sex classifications. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1976 | For the Bicentennial the bell moves from Independence Hall to a glass-and-brick pavilion a block away. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -1396,6 +1412,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1995-07 | The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 1997 | The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1997 | The immigration station is designated a National Historic Landmark. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |

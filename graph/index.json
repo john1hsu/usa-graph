@@ -11420,6 +11420,235 @@
   ]
  },
  {
+  "id": "us:mccarthyism",
+  "title": "McCarthyism",
+  "aliases": [
+   "Second Red Scare",
+   "The Second Red Scare",
+   "McCarthy era",
+   "Age of McCarthyism"
+  ],
+  "type": "Era",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/cold-war-and-civil-rights/mccarthyism.md",
+  "created": "2026-11-17",
+  "summary": "The domestic anticommunist campaign of the early Cold War, roughly 1947 to 1957, in which federal loyalty programs, congressional investigations, blacklists and laws aimed at the Communist Party cost thousands of Americans their jobs; it is named after Senator Joseph McCarthy of Wisconsin, whose reckless accusations from 1950 to 1954 made him its most visible figure.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:joseph-mccarthy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-un-american-activities-committee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:executive-order-9835"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:army-mccarthy-hearings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hollywood-blacklist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alger-hiss"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:julius-and-ethel-rosenberg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:venona-project"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lavender-scare"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:margaret-chase-smith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-senate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:house-of-representatives"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fifth-amendment"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:cold-war",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:mccarran-internal-security-act",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:communist-control-act-of-1954",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:lgbtq-americans",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:labor-movement",
+    "source": "s9",
+    "confidence": "high"
+   }
+  ],
+  "start": "1947",
+  "end": "1957",
+  "review": [
+   {
+    "question": "Why do historians such as Ellen Schrecker argue that McCarthyism was much bigger than Joseph McCarthy?",
+    "answer": "Federal loyalty reviews, HUAC investigations and the Hollywood blacklist were under way before McCarthy's 1950 Wheeling speech, and firings, loyalty oaths and screening programs continued after his 1954 censure; the repression worked through many public and private actors, from federal agencies to employers and unions, not one senator."
+   },
+   {
+    "question": "How did the televised Army-McCarthy hearings contribute to McCarthy's downfall?",
+    "answer": "About 20 million people watched McCarthy's bullying tactics over 36 days in 1954, culminating in Joseph Welch's rebuke on June 9; his popularity collapsed, and in December the Senate voted 67 to 22 to censure him."
+   },
+   {
+    "question": "How did the Venona decrypts change the debate over the era?",
+    "answer": "Released from 1995, they confirmed that some Americans, including Julius Rosenberg, really did spy for the Soviet Union; some historians argue this shows anticommunist fears had a real basis, while critics of McCarthyism reply that real espionage does not justify the false accusations and mass firings of people who were never spies."
+   },
+   {
+    "question": "Why was the Lavender Scare part of the same era?",
+    "answer": "Anticommunists claimed that gay federal employees were morally weak and open to Soviet blackmail, so Eisenhower's 1953 Executive Order 10450 barred them from federal jobs, a ban not lifted in the civil service until 1975."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1938-05-26",
+    "event": "The House creates the Special Committee on Un-American Activities, known as the Dies Committee after its chair, Martin Dies Jr. of Texas."
+   },
+   {
+    "date": "1945-01-03",
+    "event": "The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee."
+   },
+   {
+    "date": "1947-03",
+    "event": "President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees."
+   },
+   {
+    "date": "1948-08-03",
+    "event": "Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction."
+   },
+   {
+    "date": "1950-02-09",
+    "event": "Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists."
+   },
+   {
+    "date": "1950-06-01",
+    "event": "Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism."
+   },
+   {
+    "date": "1950-09",
+    "event": "Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government."
+   },
+   {
+    "date": "1953-04-27",
+    "event": "President Dwight D. Eisenhower issues Executive Order 10450, which bars gay men and lesbians from federal employment."
+   },
+   {
+    "date": "1953-06-19",
+    "event": "Julius and Ethel Rosenberg are executed for conspiracy to commit espionage."
+   },
+   {
+    "date": "1954-03-16",
+    "event": "The Senate Permanent Subcommittee on Investigations opens its inquiry into McCarthy's clash with the U.S. Army; the hearings are televised nationally."
+   },
+   {
+    "date": "1954-06-09",
+    "event": "Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff."
+   },
+   {
+    "date": "1954-08",
+    "event": "The Communist Control Act effectively criminalizes membership in the Communist Party."
+   },
+   {
+    "date": "1954-12-02",
+    "event": "The Senate votes 67 to 22 to censure McCarthy."
+   },
+   {
+    "date": "1957-05",
+    "event": "McCarthy dies at age 48."
+   },
+   {
+    "date": "1975",
+    "event": "The House abolishes its Committee on Internal Security, HUAC's successor; the Civil Service Commission ends its ban on gay federal employees."
+   },
+   {
+    "date": "1995-07",
+    "event": "The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables."
+   }
+  ],
+  "misconception": {
+   "myth": "Joseph McCarthy started the Red Scare and ran the House Un-American Activities Committee that blacklisted Hollywood.",
+   "fact": "McCarthy was a senator who chaired a Senate subcommittee; HUAC was a House committee dating from 1938, it held its Hollywood hearings in 1947, and Truman's federal loyalty program began in March 1947, nearly three years before McCarthy's Wheeling speech.",
+   "why": "Naming a whole era after one senator hides how broad and bipartisan the anticommunist campaign was, and how much of it was carried out by agencies, employers, unions and state governments rather than by McCarthy himself."
+  },
+  "source_urls": [
+   "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-and-army-mccarthy-hearings.htm",
+   "https://www.senate.gov/about/powers-procedures/censure/133Joseph_McCarthy.htm",
+   "https://www.trumanlibrary.gov/education/presidential-inquiries/trumans-loyalty-program",
+   "https://www.archives.gov/legislative/research/getting-started/huac-records",
+   "https://www.americanyawp.com/text/25-the-cold-war/",
+   "https://openstax.org/books/us-history/pages/28-2-the-cold-war",
+   "https://www.nsa.gov/News-Features/Declassified-Documents/Venona",
+   "https://www.archives.gov/research/lgbt/federal-employment",
+   "https://muse.jhu.edu/article/527373/summary",
+   "https://muse.jhu.edu/article/45199/pdf",
+   "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/a-declaration-of-conscience.htm",
+   "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/have-you-no-sense-of-decency.htm",
+   "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/communists-in-government-service.htm"
+  ]
+ },
+ {
   "id": "us:mcculloch-v-maryland",
   "title": "McCulloch v. Maryland",
   "aliases": [

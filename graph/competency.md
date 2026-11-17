@@ -38,6 +38,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
+| `us:mccarthyism` | 4 | communist-control-act-of-1954, labor-movement, lgbtq-americans, mccarran-internal-security-act |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:treaty-of-paris-1783` | 4 | Haudenosaunee, Mississippi River, loyalists, treaty-of-fort-stanwix-1784 |
 | `us:world-war-ii-and-the-united-states` | 4 | Japanese American incarceration during World War II, bracero-program, double-v-campaign, japanese-instrument-of-surrender |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
-| `us:telegraph` | 3 | American Civil War, pony-express, railroads-in-the-united-states |
 
-…and 67 more.
+…and 68 more.
 
 ## Happenings by era
 
@@ -66,6 +66,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | era | node | start |
 |---|---|---|
 | `us:cold-war` | `us:desegregation-of-little-rock-central-high-school` | 1957-09-02 |
+| `us:cold-war` | `us:mccarthyism` | 1947 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
@@ -112,7 +113,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:marbury-v-madison` | interpretive | `us:thomas-jefferson` |
 | `us:martin-luther-king-jr` | interpretive |  |
 
-…and 18 more.
+…and 19 more.
 
 ## Places with nothing tied to them (gap)
 

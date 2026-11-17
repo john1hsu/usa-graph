@@ -145,6 +145,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about Governor Orval Faubus's motives?
   **A:** Before 1957 he was seen as a racial moderate who had hired Black state employees and supported Black colleges, so his biographer argues his stand was a political calculation to win re-election in 1958, while some observers insisted catering to segregationists was out of character for him; many voters rewarded him for appearing to stand up to the federal government.
 
+### [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) — Era
+
+| Myth | Fact |
+|---|---|
+| Joseph McCarthy started the Red Scare and ran the House Un-American Activities Committee that blacklisted Hollywood. | McCarthy was a senator who chaired a Senate subcommittee; HUAC was a House committee dating from 1938, it held its Hollywood hearings in 1947, and Truman's federal loyalty program began in March 1947, nearly three years before McCarthy's Wheeling speech. |
+
+**Why it matters:** Naming a whole era after one senator hides how broad and bipartisan the anticommunist campaign was, and how much of it was carried out by agencies, employers, unions and state governments rather than by McCarthy himself.
+
+- **Q:** Why do historians such as Ellen Schrecker argue that McCarthyism was much bigger than Joseph McCarthy?
+  **A:** Federal loyalty reviews, HUAC investigations and the Hollywood blacklist were under way before McCarthy's 1950 Wheeling speech, and firings, loyalty oaths and screening programs continued after his 1954 censure; the repression worked through many public and private actors, from federal agencies to employers and unions, not one senator.
+- **Q:** How did the televised Army-McCarthy hearings contribute to McCarthy's downfall?
+  **A:** About 20 million people watched McCarthy's bullying tactics over 36 days in 1954, culminating in Joseph Welch's rebuke on June 9; his popularity collapsed, and in December the Senate voted 67 to 22 to censure him.
+- **Q:** How did the Venona decrypts change the debate over the era?
+  **A:** Released from 1995, they confirmed that some Americans, including Julius Rosenberg, really did spy for the Soviet Union; some historians argue this shows anticommunist fears had a real basis, while critics of McCarthyism reply that real espionage does not justify the false accusations and mass firings of people who were never spies.
+- **Q:** Why was the Lavender Scare part of the same era?
+  **A:** Anticommunists claimed that gay federal employees were morally weak and open to Soviet blackmail, so Eisenhower's 1953 Executive Order 10450 barred them from federal jobs, a ban not lifted in the civil service until 1975.
+
 ### [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) — Event
 
 | Myth | Fact |

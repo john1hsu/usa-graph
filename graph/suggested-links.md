@@ -17,15 +17,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.47 | `us:george-washington` | `us:pennsylvania` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:constitutional-convention`, `us:whiskey-rebellion` |
 | 2.46 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
 | 2.45 | `us:morrill-land-grant-college-act` | `us:servicemens-readjustment-act-of-1944` | `us:higher-education-in-the-united-states`, `us:historically-black-colleges-and-universities`, `us:united-states-congress` |
-| 2.44 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:mexican-american-war`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.37 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 2.37 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
-| 2.35 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
 | 2.35 | `us:great-railroad-strike-of-1877` | `us:telegraph` | `us:baltimore`, `us:railroads-in-the-united-states` |
 | 2.35 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:haudenosaunee`, `us:louisiana-purchase`, `us:treaty-of-paris-1783` |
 | 2.34 | `us:judicial-review` | `us:united-states-congress` | `us:constitutional-convention`, `us:mcculloch-v-maryland`, `us:missouri-compromise`, `us:separation-of-powers`, `us:supreme-court-of-the-united-states` |
 | 2.33 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |
 | 2.32 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
 | 2.31 | `us:second-continental-congress` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:thirteen-colonies` |
+| 2.31 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
 | 2.27 | `us:benjamin-franklin` | `us:united-states` | `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states`, `us:pennsylvania` |
-| 2.23 | `us:pennsylvania` | `us:second-continental-congress` | `us:benjamin-franklin`, `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:philadelphia`, `us:thirteen-colonies` |
+| 2.25 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:mexican-american-war`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
+| 2.23 | `us:gilded-age` | `us:mccarthyism` | `us:history-of-the-united-states`, `us:labor-movement`, `us:united-states` |

@@ -9342,6 +9342,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "McCarthy was a senator who chaired a Senate subcommittee; HUAC was a House committee dating from 1938, it held its Hollywood hearings in 1947, and Truman's federal loyalty program began in March 1947, nearly three years before McCarthy's Wheeling speech.",
+   "uso:myth": "Joseph McCarthy started the Red Scare and ran the House Un-American Activities Committee that blacklisted Hollywood.",
+   "uso:why": "Naming a whole era after one senator hides how broad and bipartisan the anticommunist campaign was, and how much of it was carried out by agencies, employers, unions and state governments rather than by McCarthy himself."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians such as Ellen Schrecker argue that McCarthyism was much bigger than Joseph McCarthy?",
+   "uso:answer": "Federal loyalty reviews, HUAC investigations and the Hollywood blacklist were under way before McCarthy's 1950 Wheeling speech, and firings, loyalty oaths and screening programs continued after his 1954 censure; the repression worked through many public and private actors, from federal agencies to employers and unions, not one senator.",
+   "uso:questionFor": {
+    "@id": "us:mccarthyism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the televised Army-McCarthy hearings contribute to McCarthy's downfall?",
+   "uso:answer": "About 20 million people watched McCarthy's bullying tactics over 36 days in 1954, culminating in Joseph Welch's rebuke on June 9; his popularity collapsed, and in December the Senate voted 67 to 22 to censure him.",
+   "uso:questionFor": {
+    "@id": "us:mccarthyism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Venona decrypts change the debate over the era?",
+   "uso:answer": "Released from 1995, they confirmed that some Americans, including Julius Rosenberg, really did spy for the Soviet Union; some historians argue this shows anticommunist fears had a real basis, while critics of McCarthyism reply that real espionage does not justify the false accusations and mass firings of people who were never spies.",
+   "uso:questionFor": {
+    "@id": "us:mccarthyism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the Lavender Scare part of the same era?",
+   "uso:answer": "Anticommunists claimed that gay federal employees were morally weak and open to Soviet blackmail, so Eisenhower's 1953 Executive Order 10450 barred them from federal jobs, a ban not lifted in the civil service until 1975.",
+   "uso:questionFor": {
+    "@id": "us:mccarthyism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House creates the Special Committee on Un-American Activities, known as the Dies Committee after its chair, Martin Dies Jr. of Texas.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1938-05-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate Permanent Subcommittee on Investigations opens its inquiry into McCarthy's clash with the U.S. Army; the hearings are televised nationally.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-03-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Army counsel Joseph Welch rebukes McCarthy on live television after McCarthy attacks a young lawyer on Welch's staff.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-06-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Communist Control Act effectively criminalizes membership in the Communist Party.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1954-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate votes 67 to 22 to censure McCarthy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1954-12-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McCarthy dies at age 48.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1957-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House abolishes its Committee on Internal Security, HUAC's successor; the Civil Service Commission ends its ban on gay federal employees.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1975"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1995-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-01-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1947-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1948-08-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1950-02-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1950-06-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1950-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Dwight D. Eisenhower issues Executive Order 10450, which bars gay men and lesbians from federal employment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-04-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Julius and Ethel Rosenberg are executed for conspiracy to commit espionage.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-06-19"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Marshall's opinion restated that the national government is one of enumerated powers; it allowed only means clearly suited to a legitimate end within the Constitution's scope, and it said the Court would have to declare void a law passed under the pretext of executing a power for objects not entrusted to the government.",
@@ -21085,6 +21272,188 @@
     "@id": "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
    },
    "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Powers and Procedures, Investigations",
+   "dcterms:title": "McCarthy and Army-McCarthy Hearings",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-and-army-mccarthy-hearings.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Cold War Studies 5, no. 3 (Summer 2003) 120–122 (MIT Press)",
+   "dcterms:title": "Review of Ellen Schrecker, The Age of McCarthyism: A Brief History with Documents, 2nd ed.",
+   "schema:url": {
+    "@id": "https://muse.jhu.edu/article/45199/pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Powers and Procedures, Investigations",
+   "dcterms:title": "A Declaration of Conscience",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/a-declaration-of-conscience.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Powers and Procedures, Investigations",
+   "dcterms:title": "Have You No Sense of Decency?",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/have-you-no-sense-of-decency.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Powers and Procedures, Investigations",
+   "dcterms:title": "Communists in Government Service",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings/communists-in-government-service.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate, Powers and Procedures, Censure",
+   "dcterms:title": "The Censure Case of Joseph McCarthy of Wisconsin (1954)",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/censure/133Joseph_McCarthy.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Harry S. Truman Presidential Library and Museum, Presidential Inquiries",
+   "dcterms:title": "Truman's Loyalty Program",
+   "schema:url": {
+    "@id": "https://www.trumanlibrary.gov/education/presidential-inquiries/trumans-loyalty-program"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, Center for Legislative Archives",
+   "dcterms:title": "Records of the House Committee on Un-American Activities (HUAC)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/legislative/research/getting-started/huac-records"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The American Yawp, ed. Joseph L. Locke and Ben Wright (Stanford University Press)",
+   "dcterms:title": "25. The Cold War",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/25-the-cold-war/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "28.2 The Cold War",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/28-2-the-cold-war"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Security Agency, Declassified Documents",
+   "dcterms:title": "Venona",
+   "schema:url": {
+    "@id": "https://www.nsa.gov/News-Features/Declassified-Documents/Venona"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, LGBTQIA+ Resources",
+   "dcterms:title": "Federal Employment",
+   "schema:url": {
+    "@id": "https://www.archives.gov/research/lgbt/federal-employment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Ellen Schrecker, Social Research 71, no. 4 (Winter 2004) 1041–1086, doi:10.1353/sor.2004.0067",
+   "dcterms:title": "McCarthyism: Political Repression and the Fear of Communism",
+   "schema:url": {
+    "@id": "https://muse.jhu.edu/article/527373/summary"
+   },
+   "uso:sourceType": "peer-reviewed"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1",
@@ -41694,6 +42063,209 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:mccarthyism",
+   "@type": "uso:Era",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/mccarthyism/s9"
+    }
+   ],
+   "rdfs:label": "McCarthyism",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1957"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1947"
+   },
+   "skos:altLabel": [
+    "Age of McCarthyism",
+    "McCarthy era",
+    "Second Red Scare",
+    "The Second Red Scare"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:history-of-the-united-states"
+    }
+   ],
+   "skos:definition": "The domestic anticommunist campaign of the early Cold War, roughly 1947 to 1957, in which federal loyalty programs, congressional investigations, blacklists and laws aimed at the Communist Party cost thousands of Americans their jobs; it is named after Senator Joseph McCarthy of Wisconsin, whose reckless accusations from 1950 to 1954 made him its most visible figure.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "McCarthyism",
+   "skos:related": [
+    {
+     "@id": "us:alger-hiss"
+    },
+    {
+     "@id": "us:army-mccarthy-hearings"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:executive-order-9835"
+    },
+    {
+     "@id": "us:fifth-amendment"
+    },
+    {
+     "@id": "us:hollywood-blacklist"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    },
+    {
+     "@id": "us:house-un-american-activities-committee"
+    },
+    {
+     "@id": "us:joseph-mccarthy"
+    },
+    {
+     "@id": "us:julius-and-ethel-rosenberg"
+    },
+    {
+     "@id": "us:lavender-scare"
+    },
+    {
+     "@id": "us:margaret-chase-smith"
+    },
+    {
+     "@id": "us:united-states-senate"
+    },
+    {
+     "@id": "us:venona-project"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:lgbtq-americans"
+    }
+   ],
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/cold-war-and-civil-rights/mccarthyism.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:communist-control-act-of-1954"
+    },
+    {
+     "@id": "us:mccarran-internal-security-act"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:cold-war"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:requires": {
+    "@id": "us:cold-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/mccarthyism/timeline/9"
     }
    ]
   },
