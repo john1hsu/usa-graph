@@ -25649,6 +25649,90 @@
    "uso:sourceType": "museum"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Martha McCartney",
+   "dcterms:title": "The Starving Time",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/starving-time-the/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Historic Jamestowne (Jamestown Rediscovery Foundation)",
+   "dcterms:title": "The Starving Time",
+   "schema:url": {
+    "@id": "https://historicjamestowne.org/history/history-of-jamestown/the-starving-time/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Historic Jamestowne (Colonial National Historical Park)",
+   "dcterms:title": "A Short History of Jamestown",
+   "schema:url": {
+    "@id": "https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), from the Journals of the House of Burgesses",
+   "dcterms:title": "The Starving Time and Rescue; an excerpt from A Breife Declaration of the Plantation of Virginia (1624)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/the-starving-time-and-rescue-an-excerpt-from-a-breife-declaration-of-the-plantation-of-virginia-1624/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Preservation Virginia, with the Smithsonian Institution and Colonial Williamsburg",
+   "dcterms:title": "Forensic Anthropology and Archaeology Confirm Survival Cannibalism in 17th-Century Jamestown",
+   "schema:url": {
+    "@id": "https://preservationvirginia.org/press-center/forensic-anthropology-and-archaeology-confirm-survival-cannibalism-in-17th/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Science (AAAS), record on Scilit",
+   "dcterms:title": "The Lost Colony and Jamestown Droughts (Stahle, Cleaveland, Blanton, Therrell and Gay, Science 280:564–567, 1998; doi:10.1126/science.280.5363.564)",
+   "schema:url": {
+    "@id": "https://scilit.com/publications/0f0dad5317d01f8d667a3e14ae9e06d2"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -29091,6 +29175,157 @@
     "@id": "https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Colony leaders such as John Smith, Ralph Hamor and William Strachey blamed idleness, but many historians now accept Karen Ordahl Kupperman's argument that malnutrition and disease produced an apathy that looked like laziness, while a severe drought and a Powhatan siege cut the fort off from food.",
+   "uso:myth": "Jamestown's colonists starved because they were lazy gentlemen who would not work.",
+   "uso:why": "The idleness story came from leaders and promoters who had their own reasons to blame the settlers rather than the Virginia Company or conditions in Virginia, and it was retold as a simple moral lesson about discipline and work."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Powhatan siege of 1609–1610 cause starvation rather than defeat in battle?",
+   "uso:answer": "Powhatan chose starvation over direct assault; his warriors killed the colony's hogs and anyone who left the fort to hunt, fish, trade or forage, so the colonists, already short of food in a drought, could not feed themselves until the siege lifted at spring planting.",
+   "uso:questionFor": {
+    "@id": "us:starving-time"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the loss of the Sea Venture contribute to the Starving Time?",
+   "uso:answer": "The flagship carried much of the relief fleet's supplies and the colony's new leaders, so the ships that did arrive brought about 300 hungry colonists with little food, and Jamestown was left under weak leadership as winter came.",
+   "uso:questionFor": {
+    "@id": "us:starving-time"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What evidence shows that survival cannibalism occurred at Jamestown, and why do some historians remain cautious?",
+   "uso:answer": "Accounts by George Percy and the 1624 Ancient Planters' report describe it, and in 2013 forensic study of a teenage girl's skull showed chop and knife marks consistent with survival cannibalism; but Rachel Herrmann notes that the written accounts had authors with motives, and no document describes that particular girl.",
+   "uso:questionFor": {
+    "@id": "us:starving-time"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians now doubt that idleness explains the deaths?",
+   "uso:answer": "Karen Ordahl Kupperman argued that malnutrition and diseases such as scurvy and dysentery cause apathy and loss of appetite that contemporaries mistook for laziness, and tree-ring research shows the colony faced its worst drought in 770 years.",
+   "uso:questionFor": {
+    "@id": "us:starving-time"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1609-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1624"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612).",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1998-04-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Smithsonian, Colonial Williamsburg and Preservation Virginia announce forensic evidence of survival cannibalism on the remains of a girl called Jane.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-05-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The surviving ships reach Jamestown with about 300 new colonists and few supplies.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1609-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Percy is elected president of the council.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1609-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Smith, badly hurt in a gunpowder explosion, sails for England.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1609-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Powhatan's warriors ambush a party led by John Ratcliffe and Powhatan orders a siege of the fort.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1609-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The siege lifts in early May as the Powhatans begin spring planting; about 60 colonists remain alive at the fort.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1610-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Gates and the Sea Venture survivors reach Jamestown in two boats built on Bermuda.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1610-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gates announces that the colonists will abandon Jamestown and sail for England.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1610-06-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The departing colonists meet the fleet of the new governor, Lord De La Warr, and are ordered back to Jamestown.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1610-06-08"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/misconception",
@@ -47746,6 +47981,135 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/sojourner-truth/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:starving-time",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s6"
+    }
+   ],
+   "rdfs:label": "Starving Time of 1609–1610",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1610-06-08"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1609-11"
+   },
+   "skos:altLabel": [
+    "Starving Time",
+    "Winter of 1609–1610 at Jamestown"
+   ],
+   "skos:broader": {
+    "@id": "us:jamestown"
+   },
+   "skos:definition": "The famine at Jamestown, Virginia, in the winter of 1609–1610, when drought, a Powhatan siege, lost supplies and disease killed most of the English colonists, drove some to survival cannibalism, and nearly ended the colony before relief ships arrived in June 1610.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Starving Time of 1609–1610",
+   "skos:related": [
+    {
+     "@id": "us:colony-of-virginia"
+    },
+    {
+     "@id": "us:george-percy"
+    },
+    {
+     "@id": "us:john-smith"
+    },
+    {
+     "@id": "us:powhatan"
+    },
+    {
+     "@id": "us:sea-venture"
+    },
+    {
+     "@id": "us:thomas-gates"
+    },
+    {
+     "@id": "us:virginia-company-of-london"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:colony-of-virginia"
+   },
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/colonial-and-revolutionary/starving-time.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:jamestown"
+   },
+   "uso:partOf": {
+    "@id": "us:anglo-powhatan-wars"
+   },
+   "uso:requires": {
+    "@id": "us:jamestown"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9"
     }
    ]
   },

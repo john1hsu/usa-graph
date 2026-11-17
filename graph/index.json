@@ -17082,6 +17082,160 @@
   ]
  },
  {
+  "id": "us:starving-time",
+  "title": "Starving Time of 1609–1610",
+  "aliases": [
+   "Starving Time",
+   "Winter of 1609–1610 at Jamestown"
+  ],
+  "type": "Event",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/colonial-and-revolutionary/starving-time.md",
+  "created": "2026-11-17",
+  "summary": "The famine at Jamestown, Virginia, in the winter of 1609–1610, when drought, a Powhatan siege, lost supplies and disease killed most of the English colonists, drove some to survival cannibalism, and nearly ended the colony before relief ships arrived in June 1610.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:jamestown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:powhatan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-smith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-company-of-london"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-percy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-gates"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sea-venture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colony-of-virginia"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jamestown"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:jamestown",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:anglo-powhatan-wars",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:colony-of-virginia",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1609-11",
+  "end": "1610-06-08",
+  "review": [
+   {
+    "question": "Why did the Powhatan siege of 1609–1610 cause starvation rather than defeat in battle?",
+    "answer": "Powhatan chose starvation over direct assault; his warriors killed the colony's hogs and anyone who left the fort to hunt, fish, trade or forage, so the colonists, already short of food in a drought, could not feed themselves until the siege lifted at spring planting."
+   },
+   {
+    "question": "How did the loss of the Sea Venture contribute to the Starving Time?",
+    "answer": "The flagship carried much of the relief fleet's supplies and the colony's new leaders, so the ships that did arrive brought about 300 hungry colonists with little food, and Jamestown was left under weak leadership as winter came."
+   },
+   {
+    "question": "What evidence shows that survival cannibalism occurred at Jamestown, and why do some historians remain cautious?",
+    "answer": "Accounts by George Percy and the 1624 Ancient Planters' report describe it, and in 2013 forensic study of a teenage girl's skull showed chop and knife marks consistent with survival cannibalism; but Rachel Herrmann notes that the written accounts had authors with motives, and no document describes that particular girl."
+   },
+   {
+    "question": "Why do historians now doubt that idleness explains the deaths?",
+    "answer": "Karen Ordahl Kupperman argued that malnutrition and diseases such as scurvy and dysentery cause apathy and loss of appetite that contemporaries mistook for laziness, and tree-ring research shows the colony faced its worst drought in 770 years."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1609-07",
+    "event": "A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda."
+   },
+   {
+    "date": "1609-08",
+    "event": "The surviving ships reach Jamestown with about 300 new colonists and few supplies."
+   },
+   {
+    "date": "1609-09-10",
+    "event": "George Percy is elected president of the council."
+   },
+   {
+    "date": "1609-10",
+    "event": "John Smith, badly hurt in a gunpowder explosion, sails for England."
+   },
+   {
+    "date": "1609-11",
+    "event": "Powhatan's warriors ambush a party led by John Ratcliffe and Powhatan orders a siege of the fort."
+   },
+   {
+    "date": "1610-05",
+    "event": "The siege lifts in early May as the Powhatans begin spring planting; about 60 colonists remain alive at the fort."
+   },
+   {
+    "date": "1610-05-24",
+    "event": "Thomas Gates and the Sea Venture survivors reach Jamestown in two boats built on Bermuda."
+   },
+   {
+    "date": "1610-06-07",
+    "event": "Gates announces that the colonists will abandon Jamestown and sail for England."
+   },
+   {
+    "date": "1610-06-08",
+    "event": "The departing colonists meet the fleet of the new governor, Lord De La Warr, and are ordered back to Jamestown."
+   },
+   {
+    "date": "1624",
+    "event": "Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly."
+   },
+   {
+    "date": "1998-04-24",
+    "event": "A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612)."
+   },
+   {
+    "date": "2013-05-01",
+    "event": "The Smithsonian, Colonial Williamsburg and Preservation Virginia announce forensic evidence of survival cannibalism on the remains of a girl called Jane."
+   }
+  ],
+  "misconception": {
+   "myth": "Jamestown's colonists starved because they were lazy gentlemen who would not work.",
+   "fact": "Colony leaders such as John Smith, Ralph Hamor and William Strachey blamed idleness, but many historians now accept Karen Ordahl Kupperman's argument that malnutrition and disease produced an apathy that looked like laziness, while a severe drought and a Powhatan siege cut the fort off from food.",
+   "why": "The idleness story came from leaders and promoters who had their own reasons to blame the settlers rather than the Virginia Company or conditions in Virginia, and it was retold as a simple moral lesson about discipline and work."
+  },
+  "source_urls": [
+   "https://encyclopediavirginia.org/entries/starving-time-the/",
+   "https://historicjamestowne.org/history/history-of-jamestown/the-starving-time/",
+   "https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+   "https://encyclopediavirginia.org/entries/the-starving-time-and-rescue-an-excerpt-from-a-breife-declaration-of-the-plantation-of-virginia-1624/",
+   "https://preservationvirginia.org/press-center/forensic-anthropology-and-archaeology-confirm-survival-cannibalism-in-17th/",
+   "https://scilit.com/publications/0f0dad5317d01f8d667a3e14ae9e06d2"
+  ]
+ },
+ {
   "id": "us:supreme-court-of-the-united-states",
   "title": "Supreme Court of the United States",
   "aliases": [

@@ -20,7 +20,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1607-05-13 | 104 English men and boys choose a site on the James River and name it for the king. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1607-06-15 | The colonists finish the triangular James Fort. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1609 | Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1609-07 | A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1609-08 | The surviving ships reach Jamestown with about 300 new colonists and few supplies. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1609-09-10 | George Percy is elected president of the council. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1609-10 | John Smith, badly hurt in a gunpowder explosion, sails for England. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1609-11 – 1610-06-08 | **[Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md)** (Event) |
+| 1609-11 | Powhatan's warriors ambush a party led by John Ratcliffe and Powhatan orders a siege of the fort. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1610-05 | Governor Thomas Gates resolves to abandon Jamestown but turns back on news of Lord De La Warr's relief fleet. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1610-05 | The siege lifts in early May as the Powhatans begin spring planting; about 60 colonists remain alive at the fort. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1610-05-24 | Thomas Gates and the Sea Venture survivors reach Jamestown in two boats built on Bermuda. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1610-06-07 | Gates announces that the colonists will abandon Jamestown and sail for England. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
+| 1610-06-08 | The departing colonists meet the fleet of the new governor, Lord De La Warr, and are ordered back to Jamestown. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1612 | John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1614-04 | Pocahontas marries John Rolfe, bringing a peace that lasts until 1622. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
@@ -30,6 +40,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1621 | Wampanoag leader Ousamequin (Massasoit) and about 90 men join the Plymouth colonists for a three-day harvest gathering, probably in late September or early October. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1622-03-22 | Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1624 | Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1624-05-24 | The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -1465,6 +1476,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1997 | The immigration station is designated a National Historic Landmark. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1997-09-10 | The centennial is marked with new state markers and remarks in the Congressional Record. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1998-04-24 | A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612). — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1998-07-21 | The National Underground Railroad Network to Freedom Act (Public Law 105-203) creates a National Park Service commemoration program. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1548,6 +1560,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2013-01-29 | BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2013-02-27 | The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 2013-05-01 | The Smithsonian, Colonial Williamsburg and Preservation Virginia announce forensic evidence of survival cannibalism on the remains of a girl called Jane. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 2013-06-11 | Archaeologists announce forensic evidence of survival cannibalism during the Starving Time. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 2013-06-25 | **[Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md)** (CourtCase) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |

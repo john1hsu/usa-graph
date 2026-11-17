@@ -15178,6 +15178,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
 <https://github.com/john1hsu/usa-graph/id/source/sojourner-truth/s9> <https://schema.org/url> <https://civilwar.si.edu/slavery_truth.html> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/publisher> "Encyclopedia Virginia (Virginia Humanities), by Martha McCartney" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://purl.org/dc/terms/title> "The Starving Time" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> <https://schema.org/url> <https://encyclopediavirginia.org/entries/starving-time-the/> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <http://purl.org/dc/terms/publisher> "Historic Jamestowne (Jamestown Rediscovery Foundation)" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <http://purl.org/dc/terms/title> "The Starving Time" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> <https://schema.org/url> <https://historicjamestowne.org/history/history-of-jamestown/the-starving-time/> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <http://purl.org/dc/terms/publisher> "National Park Service, Historic Jamestowne (Colonial National Historical Park)" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <http://purl.org/dc/terms/title> "A Short History of Jamestown" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> <https://schema.org/url> <https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <http://purl.org/dc/terms/publisher> "Encyclopedia Virginia (Virginia Humanities), from the Journals of the House of Burgesses" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <http://purl.org/dc/terms/title> "The Starving Time and Rescue; an excerpt from A Breife Declaration of the Plantation of Virginia (1624)" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> <https://schema.org/url> <https://encyclopediavirginia.org/entries/the-starving-time-and-rescue-an-excerpt-from-a-breife-declaration-of-the-plantation-of-virginia-1624/> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <http://purl.org/dc/terms/publisher> "Preservation Virginia, with the Smithsonian Institution and Colonial Williamsburg" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <http://purl.org/dc/terms/title> "Forensic Anthropology and Archaeology Confirm Survival Cannibalism in 17th-Century Jamestown" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> <https://schema.org/url> <https://preservationvirginia.org/press-center/forensic-anthropology-and-archaeology-confirm-survival-cannibalism-in-17th/> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <http://purl.org/dc/terms/publisher> "Science (AAAS), record on Scilit" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <http://purl.org/dc/terms/title> "The Lost Colony and Jamestown Droughts (Stahle, Cleaveland, Blanton, Therrell and Gay, Science 280:564–567, 1998; doi:10.1126/science.280.5363.564)" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> <https://schema.org/url> <https://scilit.com/publications/0f0dad5317d01f8d667a3e14ae9e06d2> .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/publisher> "Library of Congress" .
 <https://github.com/john1hsu/usa-graph/id/source/supreme-court-of-the-united-states/s10> <http://purl.org/dc/terms/title> "Today in History: October 2 (Thurgood Marshall)" .
@@ -16654,6 +16690,107 @@
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s9> <https://schema.org/url> <https://www.nps.gov/yell/learn/historyculture/flightnezperce.htm> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Colony leaders such as John Smith, Ralph Hamor and William Strachey blamed idleness, but many historians now accept Karen Ordahl Kupperman's argument that malnutrition and disease produced an apathy that looked like laziness, while a severe drought and a Powhatan siege cut the fort off from food." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Jamestown's colonists starved because they were lazy gentlemen who would not work." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The idleness story came from leaders and promoters who had their own reasons to blame the settlers rather than the Virginia Company or conditions in Virginia, and it was retold as a simple moral lesson about discipline and work." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Powhatan siege of 1609–1610 cause starvation rather than defeat in battle?" .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Powhatan chose starvation over direct assault; his warriors killed the colony's hogs and anyone who left the fort to hunt, fish, trade or forage, so the colonists, already short of food in a drought, could not feed themselves until the siege lifted at spring planting." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/starving-time> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the loss of the Sea Venture contribute to the Starving Time?" .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The flagship carried much of the relief fleet's supplies and the colony's new leaders, so the ships that did arrive brought about 300 hungry colonists with little food, and Jamestown was left under weak leadership as winter came." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/starving-time> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What evidence shows that survival cannibalism occurred at Jamestown, and why do some historians remain cautious?" .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Accounts by George Percy and the 1624 Ancient Planters' report describe it, and in 2013 forensic study of a teenage girl's skull showed chop and knife marks consistent with survival cannibalism; but Rachel Herrmann notes that the written accounts had authors with motives, and no document describes that particular girl." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/starving-time> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians now doubt that idleness explains the deaths?" .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Karen Ordahl Kupperman argued that malnutrition and diseases such as scurvy and dysentery cause apathy and loss of appetite that contemporaries mistook for laziness, and tree-ring research shows the colony faced its worst drought in 770 years." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/starving-time> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1624"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "A tree-ring study in Science shows Jamestown was founded during the driest seven years in 770 years (1606–1612)." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1998-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Smithsonian, Colonial Williamsburg and Preservation Virginia announce forensic evidence of survival cannibalism on the remains of a girl called Jane." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1609-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The surviving ships reach Jamestown with about 300 new colonists and few supplies." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1609-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "George Percy is elected president of the council." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1609-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "John Smith, badly hurt in a gunpowder explosion, sails for England." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1609-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Powhatan's warriors ambush a party led by John Ratcliffe and Powhatan orders a siege of the fort." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1609-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The siege lifts in early May as the Powhatans begin spring planting; about 60 colonists remain alive at the fort." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1610-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Gates and the Sea Venture survivors reach Jamestown in two boats built on Bermuda." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1610-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Gates announces that the colonists will abandon Jamestown and sail for England." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1610-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The departing colonists meet the fleet of the new governor, Lord De La Warr, and are ordered back to Jamestown." .
+<https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1610-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2000/01/rdf-schema#label> "Starving Time of 1609–1610" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#altLabel> "Starving Time" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#altLabel> "Winter of 1609–1610 at Jamestown" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#definition> "The famine at Jamestown, Virginia, in the winter of 1609–1610, when drought, a Powhatan siege, lost supplies and disease killed most of the English colonists, drove some to survival cannibalism, and nearly ended the colony before relief ships arrived in June 1610." .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#prefLabel> "Starving Time of 1609–1610" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-percy> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-smith> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/powhatan> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sea-venture> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-gates> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s1> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s2> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s3> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s4> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s5> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/starving-time/s6> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/starving-time.md" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/starving-time/misconception> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/anglo-powhatan-wars> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/starving-time/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://schema.org/endDate> "1610-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/starving-time> <https://schema.org/startDate> "1609-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Article III creates \"one supreme Court\" but sets no size; the Judiciary Act of 1789 gave it six justices, Congress changed the authorized number several times, and the figure of nine dates only from an 1869 statute." .
 <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Constitution requires the Supreme Court to have nine justices." .

@@ -6,7 +6,9 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written eras, events and conflicts have no ledTo edge saying what they led to?_ — `queries/01-events-without-consequences.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:starving-time` | uso:Event |
 
 ## Rights with no protecting text (gap)
 
@@ -57,7 +59,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 
-…and 71 more.
+…and 72 more.
 
 ## Happenings by era
 
@@ -113,15 +115,13 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 
-…and 21 more.
+…and 22 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:jamestown` | uso:City |
+_No results._
 
 ## Orphan articles (gap)
 

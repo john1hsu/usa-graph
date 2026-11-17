@@ -277,6 +277,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did Congress ask of the Six Nations in July 1775, and why?
   **A:** It asked the Haudenosaunee to stay at home and not join either side, calling the conflict a family quarrel with Britain, because in the war's first years Congress judged that keeping Native nations neutral cost less than seeking them as allies.
 
+### [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Jamestown's colonists starved because they were lazy gentlemen who would not work. | Colony leaders such as John Smith, Ralph Hamor and William Strachey blamed idleness, but many historians now accept Karen Ordahl Kupperman's argument that malnutrition and disease produced an apathy that looked like laziness, while a severe drought and a Powhatan siege cut the fort off from food. |
+
+**Why it matters:** The idleness story came from leaders and promoters who had their own reasons to blame the settlers rather than the Virginia Company or conditions in Virginia, and it was retold as a simple moral lesson about discipline and work.
+
+- **Q:** Why did the Powhatan siege of 1609–1610 cause starvation rather than defeat in battle?
+  **A:** Powhatan chose starvation over direct assault; his warriors killed the colony's hogs and anyone who left the fort to hunt, fish, trade or forage, so the colonists, already short of food in a drought, could not feed themselves until the siege lifted at spring planting.
+- **Q:** How did the loss of the Sea Venture contribute to the Starving Time?
+  **A:** The flagship carried much of the relief fleet's supplies and the colony's new leaders, so the ships that did arrive brought about 300 hungry colonists with little food, and Jamestown was left under weak leadership as winter came.
+- **Q:** What evidence shows that survival cannibalism occurred at Jamestown, and why do some historians remain cautious?
+  **A:** Accounts by George Percy and the 1624 Ancient Planters' report describe it, and in 2013 forensic study of a teenage girl's skull showed chop and knife marks consistent with survival cannibalism; but Rachel Herrmann notes that the written accounts had authors with motives, and no document describes that particular girl.
+- **Q:** Why do historians now doubt that idleness explains the deaths?
+  **A:** Karen Ordahl Kupperman argued that malnutrition and diseases such as scurvy and dysentery cause apathy and loss of appetite that contemporaries mistook for laziness, and tree-ring research shows the colony faced its worst drought in 770 years.
+
 ### [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) — Document
 
 | Myth | Fact |
