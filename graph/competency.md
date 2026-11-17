@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | Chinese Americans, japanese-americans |
 
-…and 60 more.
+…and 62 more.
 
 ## Happenings by era
 
@@ -194,5 +194,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 | `us:united-states-constitution` | `us:united-states` |
 | `us:united-states-constitution` | `us:united-states-congress` |
+| `us:wyoming-statehood-act` | `us:wyoming` |
 | `us:yellowstone-national-park-protection-act` | `us:yellowstone-national-park` |
 

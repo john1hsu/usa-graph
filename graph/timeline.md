@@ -363,6 +363,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1833-12-01 | Dr. John Emerson, an army surgeon, takes the enslaved Dred Scott to Fort Armstrong in the free state of Illinois. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1834 | Fur traders William Sublette and Robert Campbell found the trading post that becomes Fort Laramie. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1834 | Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians. — [California](../articles/states-and-territories/california.md) |
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
@@ -391,6 +392,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1843-06-01 | Takes the name Sojourner Truth and begins travelling to preach and speak against slavery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -435,6 +437,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1849 | After her enslaver Edward Brodess dies in March, she fears being sold, escapes alone in the late fall and reaches Philadelphia. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1849 | Chinese immigration to the United States begins in earnest with the California Gold Rush. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1849 | Forty-eight delegates in Monterey write a state constitution, published in English and Spanish, that limits voting to white men. — [California](../articles/states-and-territories/california.md) |
+| 1849 | The U.S. Army buys Fort Laramie. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1849-03-23 | Henry "Box" Brown is shipped in a crate by rail from Richmond to Philadelphia, a 27-hour journey. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1849-11-13 | California voters ratify a state constitution, paving the way for statehood. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1850 | Congress begins fixing the size of the House before apportionment and adopts the Vinton (Hamilton) method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
@@ -452,6 +455,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
 | 1850-09-18 | The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1851 | Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1851 | The first Treaty of Fort Laramie sets terms for contact between Plains nations and Americans. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-09-11 | At Christiana, Pennsylvania, Black residents resist a Maryland slaveholder's attempt to recapture freedom seekers; the slaveholder is killed. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
@@ -528,6 +532,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1863-06-07 | Black Union regiments help repel a Confederate attack on the supply post at Milliken's Bend, Louisiana. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-06-25 | Union engineers explode 2,200 pounds of black powder under a Confederate redan on the Jackson Road; the crater fight gains no ground. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07 | Union forces under Meade defeat Lee's invading army at Gettysburg. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1863-07-02 | Eastern Shoshone leaders, among them Washakie, sign the first Fort Bridger treaty. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1863-07-03 | Pemberton and Grant meet between the lines; that night Grant offers to parole the garrison. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
 | 1863-07-03 | Pickett's Charge fails, ending the three-day Battle of Gettysburg. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-07-04 | At 10 a.m. some 29,000 Confederates march out, stack their arms and surrender the city. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
@@ -582,11 +587,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1868-07-03 | The second Fort Bridger treaty sets aside about 3.2 million acres in the Wind River Valley for the Eastern Shoshone. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
 | 1868-07-09 | **[Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md)** (Law) |
 | 1868-07-09 | Louisiana and South Carolina ratify, completing the three-fourths needed. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1868-07-09 | Ratification of the Fourteenth Amendment extends a due process guarantee against the states. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1868-07-09 | Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1868-07-25 | Congress creates Wyoming Territory; the 1868 Fort Laramie treaty negotiated with Red Cloud closes the Bozeman Trail the same year. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -598,7 +605,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1869-05-10 | At Promontory Summit, Utah Territory, eight Chinese workers move the final rail into place for the transcontinental railroad. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1869-05-12 | At the American Equal Rights Association meeting, argues that Black men's voting rights are a matter of life and death. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1869-05-12 | The American Equal Rights Association splits over the amendment's omission of women at its annual meeting. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1869-05-19 | The territorial government is formally inaugurated. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1869-05-24 | John Wesley Powell's expedition launches four boats at Green River, Wyoming; it leaves the Grand Canyon on August 28. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1869-12-10 | Governor John Campbell signs the act granting the territory's women the right to vote and hold office. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1870 | **[Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md)** (Myth) |
 | 1870 – 1900 | **[Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md)** (Era) |
 | 1870 | California's Native population has fallen below 30,000; the foreign miners' tax is voided. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
@@ -608,8 +617,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870 | William Canby reads a paper to the Historical Society of Pennsylvania telling the family story of the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1870-02-03 | **[Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md)** (Law) |
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1870-02-17 | Esther Hobart Morris is appointed justice of the peace at South Pass City. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1870-02-25 | Hiram Revels is sworn in as the first African American senator. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
+| 1870-09-06 | Louisa Swain of Laramie casts the first ballot by a woman under the new law. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1871 | Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -628,6 +639,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1872 | Susan B. Anthony is arrested for voting in Rochester, New York, and Sojourner Truth is turned away from the polls in Battle Creek, Michigan. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1872 | William Still publishes The Underground Railroad, based on his Philadelphia vigilance committee records. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1872 | Yellowstone is established, beginning the reservation of western lands as parks. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
+| 1872 | Yellowstone, mostly in Wyoming Territory, is set aside as the first national park. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1872-01-30 | The Senate passes S. 392. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1872-02-20 | Hayden dates his report on the season's work to Interior Secretary Delano. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1872-02-27 | The House passes S. 392 by a vote of 115 to 65. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -678,6 +690,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1878 | J. Franklin Reigart's book embellishes the tale, crediting Ross with originating the first flag. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1878-01-10 | Senator Aaron Sargent introduces the woman suffrage amendment that suffragists later call the Anthony Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1878-01-10 | Senator Aaron Sargent of California introduces the woman suffrage amendment in the Senate. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1878-03-18 | Northern Arapaho led by Black Coal arrive under military escort on the Shoshone reservation at Wind River. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1879 | Henry George publishes Progress and Poverty, a bestselling critique of inequality. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1879 | The depression begins to lift early in the year. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
@@ -702,6 +715,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 1885-09-02 | White miners in Rock Springs kill 28 Chinese coal miners and wound 15. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1885-09-02 | White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -717,12 +731,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1889 | Appointed U.S. minister resident and consul general to Haiti, serving until 1891. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1889 | Appointed to the U.S. Civil Service Commission by President Benjamin Harrison. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1889-05-13 | In Chae Chan Ping v. United States the Supreme Court upholds the Scott Act under Congress's plenary power over immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1889-11-05 | Voters ratify the state constitution, which keeps equal suffrage for women. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890 | A second Morrill Act adds annual appropriations and leads to the founding of separate land-grant institutions for Black students in the segregated South. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1890 | Louisiana passes the Separate Car Act, one of nine state laws of 1887–1892 separating passengers by race. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1890 | Louisiana's legislature passes the Separate Car Act (Act No. 111), requiring separate railroad cars for Black and white passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1890 | New York State takes the Onondaga Nation's wampum belts. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1890 | The rival associations merge as the National American Woman Suffrage Association; Wyoming enters the Union with women's suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1890 | The rival suffrage associations merge as the National American Woman Suffrage Association. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1890-07-10 | **[Wyoming](../articles/states-and-territories/wyoming.md)** (State) |
+| 1890-07-10 | President Benjamin Harrison signs the statehood bill; Wyoming becomes the 44th state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1890-12-29 | U.S. troops kill between 150 and 300 Lakota men, women and children at Wounded Knee. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1891 | Eighteen New Orleans residents form the Comité des Citoyens to challenge the law in court. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1891-09-05 | Creole of color activists announce the Comité des Citoyens to challenge Louisiana's Separate Car Law. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -906,6 +923,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1919-06-10 | Wisconsin becomes the first state to ratify. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920 | Mamie Smith records "Crazy Blues," the first commercial vaudeville blues record by a Black vocalist. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1920 | The census shows a shift to cities; Congress fails to reapportion for the only time. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1920-01-27 | Wyoming ratifies the Nineteenth Amendment. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -919,6 +937,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1925-01-05 | Nellie Tayloe Ross takes office as the first elected woman governor in the United States. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1927 | Duke Ellington's band begins its engagement at Harlem's whites-only Cotton Club, with nightly radio broadcasts. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1927-03-02 | President Calvin Coolidge signs the act creating the Kill Devil Hill National Memorial. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
@@ -1061,6 +1080,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-05-27 | Admiral Chester Nimitz presents the Navy Cross to Mess Attendant Doris Miller for his conduct aboard USS West Virginia during the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1942-06-04 | The Battle of Midway begins; by June 6 U.S. aircraft have wrecked four Japanese carriers, and USS Yorktown sinks on June 7. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-08-04 | The bracero program begins bringing Mexican farm workers to the United States. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
+| 1942-08-12 | The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1942-11 | American combat troops land in French Morocco, opening the campaign in North Africa. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1943 | During World War II Congress repeals the exclusion laws, sets a Chinese quota of about 105 a year and opens naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1943 | In West Virginia State Board of Education v. Barnette the Supreme Court rules that public schools cannot compel the flag salute and pledge. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1082,6 +1102,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1945-08-06 | A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-10-24 | The federal minimum reaches 40 cents an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
+| 1945-11-10 | The last incarcerees leave Heart Mountain. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1945-11-15 | A Joint Congressional Committee opens the eighth and most thorough investigation of the attack. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1946 | The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -1420,6 +1441,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 13,002,700 residents. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |
+| 2020-04-01 | The census counts 576,851 residents, the fewest of any state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-04-26 | The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 2021-06-17 | In California v. Texas the Court, 7 to 2, dismisses a challenge to the law for lack of standing. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |

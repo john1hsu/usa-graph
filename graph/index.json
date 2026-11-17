@@ -19471,6 +19471,265 @@
   ]
  },
  {
+  "id": "us:wyoming",
+  "title": "Wyoming",
+  "aliases": [
+   "State of Wyoming",
+   "Wyoming Territory",
+   "Equality State"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/wyoming.md",
+  "created": "2026-11-17",
+  "summary": "The forty-fourth U.S. state (admitted July 10, 1890), a high, dry Rocky Mountain and Great Plains state crossed by the Continental Divide; homeland of the Shoshone, Arapaho, Lakota, Cheyenne and other nations, it became in 1869 the first U.S. territory or state to grant women the vote, and in the 2020 census it was the least populous state.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-west"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:yellowstone-national-park"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hayden-geological-survey-of-1871"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:womens-suffrage-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:susan-b-anthony"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nineteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rock-springs-massacre"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chinese-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:heart-mountain-relocation-center"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:transcontinental-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-fort-laramie-1868"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:wind-river-reservation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:eastern-shoshone-tribe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:northern-arapaho-tribe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oregon-trail"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rocky-mountains"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-plains"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:esther-hobart-morris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nellie-tayloe-ross"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:wyoming-statehood-act",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:womens-suffrage-movement",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:the-west",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1890-07-10",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Wyoming's all-Democratic territorial legislature give women the vote in 1869?",
+    "answer": "Historians point to mixed motives. Lawmakers hoped the publicity would attract settlers, especially women, when men outnumbered women about six to one; some expected women to vote Democratic or wanted to embarrass the Republican governor, John Campbell, whom they expected to veto it; many argued that if Black and Chinese men could vote, white women should too; and some, including the bill's sponsor William Bright, believed it was right."
+   },
+   {
+    "question": "How did women's suffrage nearly cost Wyoming statehood?",
+    "answer": "The 1889 constitution kept equal suffrage, and House Democrats attacked that article as a reason to deny statehood to a Republican-leaning territory. The bill passed the House only 139 to 127 in March 1890 and the Senate 29 to 18 before Harrison signed it on July 10, 1890."
+   },
+   {
+    "question": "How did the Union Pacific's coal mines shape the Rock Springs massacre?",
+    "answer": "The railroad owned the mines that fueled its trains and, after an 1884 strike, had managers hire only Chinese workers, so by 1885 nearly 600 Chinese miners worked beside about 300 white miners. On September 2, 1885, white miners attacked the Chinese, killing 28; no one was charged."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1834",
+    "event": "Fur traders William Sublette and Robert Campbell found the trading post that becomes Fort Laramie."
+   },
+   {
+    "date": "1843",
+    "event": "Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass."
+   },
+   {
+    "date": "1849",
+    "event": "The U.S. Army buys Fort Laramie."
+   },
+   {
+    "date": "1851",
+    "event": "The first Treaty of Fort Laramie sets terms for contact between Plains nations and Americans."
+   },
+   {
+    "date": "1863-07-02",
+    "event": "Eastern Shoshone leaders, among them Washakie, sign the first Fort Bridger treaty."
+   },
+   {
+    "date": "1868-07-03",
+    "event": "The second Fort Bridger treaty sets aside about 3.2 million acres in the Wind River Valley for the Eastern Shoshone."
+   },
+   {
+    "date": "1868-07-25",
+    "event": "Congress creates Wyoming Territory; the 1868 Fort Laramie treaty negotiated with Red Cloud closes the Bozeman Trail the same year."
+   },
+   {
+    "date": "1869-05-19",
+    "event": "The territorial government is formally inaugurated."
+   },
+   {
+    "date": "1869-12-10",
+    "event": "Governor John Campbell signs the act granting the territory's women the right to vote and hold office."
+   },
+   {
+    "date": "1870-02-17",
+    "event": "Esther Hobart Morris is appointed justice of the peace at South Pass City."
+   },
+   {
+    "date": "1870-09-06",
+    "event": "Louisa Swain of Laramie casts the first ballot by a woman under the new law."
+   },
+   {
+    "date": "1872",
+    "event": "Yellowstone, mostly in Wyoming Territory, is set aside as the first national park."
+   },
+   {
+    "date": "1878-03-18",
+    "event": "Northern Arapaho led by Black Coal arrive under military escort on the Shoshone reservation at Wind River."
+   },
+   {
+    "date": "1885-09-02",
+    "event": "White miners in Rock Springs kill 28 Chinese coal miners and wound 15."
+   },
+   {
+    "date": "1889-11-05",
+    "event": "Voters ratify the state constitution, which keeps equal suffrage for women."
+   },
+   {
+    "date": "1890-07-10",
+    "event": "President Benjamin Harrison signs the statehood bill; Wyoming becomes the 44th state."
+   },
+   {
+    "date": "1920-01-27",
+    "event": "Wyoming ratifies the Nineteenth Amendment."
+   },
+   {
+    "date": "1925-01-05",
+    "event": "Nellie Tayloe Ross takes office as the first elected woman governor in the United States."
+   },
+   {
+    "date": "1942-08-12",
+    "event": "The first Japanese Americans arrive at the Heart Mountain incarceration camp between Cody and Powell."
+   },
+   {
+    "date": "1945-11-10",
+    "event": "The last incarcerees leave Heart Mountain."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 576,851 residents, the fewest of any state."
+   }
+  ],
+  "misconception": {
+   "myth": "Wyoming was the first place in the United States where women voted.",
+   "fact": "Under New Jersey's 1776 constitution some unmarried women who met a property requirement voted until the legislature limited the vote to white male taxpayers in 1807. Wyoming's 1869 law was the first by a U.S. territory or state to grant women the vote outright, and unlike New Jersey's it was never taken back.",
+   "why": "New Jersey's experiment was brief, rested on loosely worded law and was reversed, while Wyoming's lasting law became central to the state's identity as the \"Equality State.\""
+  },
+  "source_urls": [
+   "https://www.wyo.gov/about-wyoming/wyoming-history",
+   "https://www.wyohistory.org/essays/wyoming-statehood",
+   "https://wyohistory.org/blog/we-will-remain-out-union-wyoming-woman-suffrage-and-fight-statehood",
+   "https://www.wyohistory.org/essays/right-choice-wrong-reasons-wyoming-women-win-right-vote",
+   "https://www.nps.gov/articles/wyoming-women-s-history.htm",
+   "https://www.nps.gov/articles/voting-rights-in-nj-before-the-15th-and-19th.htm",
+   "https://www.census.gov/quickfacts/fact/table/WY,US",
+   "https://census.gov/newsroom/press-releases/2021/2020-census-apportionment-results.html",
+   "https://wyohistory.org/essays/rock-springs-massacre",
+   "https://www.wyohistory.org/encyclopedia/brief-history-heart-mountain-relocation-center",
+   "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868",
+   "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation",
+   "https://www.nps.gov/places/1868-fort-laramie-treaty-grounds.htm",
+   "https://www.eia.gov/todayinenergy/detail.php?id=32272",
+   "https://www.wsgs.wyo.gov/public-info/guide-green-river-basin.aspx",
+   "https://www.wyohistory.org/encyclopedia/topics/womens-suffrage-and-womens-rights"
+  ]
+ },
+ {
   "id": "us:yellowstone-national-park",
   "title": "Yellowstone National Park",
   "aliases": [

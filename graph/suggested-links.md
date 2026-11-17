@@ -28,4 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.23 | `us:declaration-of-independence` | `us:george-washington` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:constitutional-convention`, `us:second-continental-congress` |
 | 2.22 | `us:liberty-bell` | `us:second-continental-congress` | `us:betsy-ross-flag-myth`, `us:declaration-of-independence`, `us:independence-hall`, `us:philadelphia` |
 | 2.20 | `us:benjamin-franklin` | `us:betsy-ross-flag-myth` | `us:american-revolutionary-war`, `us:george-washington`, `us:national-symbols-of-the-united-states`, `us:pennsylvania`, `us:philadelphia` |
-| 2.17 | `us:indian-removal-act` | `us:united-states-constitution` | `us:cherokee-nation-v-georgia`, `us:louisiana-purchase`, `us:slavery-in-the-united-states`, `us:supreme-court-of-the-united-states`, `us:tribal-sovereignty` |
+| 2.17 | `us:abraham-lincoln` | `us:united-states-constitution` | `us:dred-scott-v-sandford`, `us:frederick-douglass`, `us:judicial-review`, `us:presidency-of-the-united-states`, `us:slavery-in-the-united-states` |

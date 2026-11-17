@@ -1653,6 +1653,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How do Native nations fit into the U.S. political system today?
   **A:** The 575 federally recognized tribes hold inherent rights of self-government (tribal sovereignty) and a government-to-government relationship with the United States, alongside the federal government, the fifty states, the District of Columbia and the territories.
 
+### [Wyoming](../articles/states-and-territories/wyoming.md) — State
+
+| Myth | Fact |
+|---|---|
+| Wyoming was the first place in the United States where women voted. | Under New Jersey's 1776 constitution some unmarried women who met a property requirement voted until the legislature limited the vote to white male taxpayers in 1807. Wyoming's 1869 law was the first by a U.S. territory or state to grant women the vote outright, and unlike New Jersey's it was never taken back. |
+
+**Why it matters:** New Jersey's experiment was brief, rested on loosely worded law and was reversed, while Wyoming's lasting law became central to the state's identity as the "Equality State."
+
+- **Q:** Why did Wyoming's all-Democratic territorial legislature give women the vote in 1869?
+  **A:** Historians point to mixed motives. Lawmakers hoped the publicity would attract settlers, especially women, when men outnumbered women about six to one; some expected women to vote Democratic or wanted to embarrass the Republican governor, John Campbell, whom they expected to veto it; many argued that if Black and Chinese men could vote, white women should too; and some, including the bill's sponsor William Bright, believed it was right.
+- **Q:** How did women's suffrage nearly cost Wyoming statehood?
+  **A:** The 1889 constitution kept equal suffrage, and House Democrats attacked that article as a reason to deny statehood to a Republican-leaning territory. The bill passed the House only 139 to 127 in March 1890 and the Senate 29 to 18 before Harrison signed it on July 10, 1890.
+- **Q:** How did the Union Pacific's coal mines shape the Rock Springs massacre?
+  **A:** The railroad owned the mines that fueled its trains and, after an 1884 strike, had managers hire only Chinese workers, so by 1885 nearly 600 Chinese miners worked beside about 300 white miners. On September 2, 1885, white miners attacked the Chinese, killing 28; no one was charged.
+
 ## symbols-and-national-identity
 
 ### [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) — Myth
