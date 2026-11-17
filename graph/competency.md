@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 
-…and 68 more.
+…and 69 more.
 
 ## Happenings by era
 
@@ -119,7 +119,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:jamestown` | uso:City |
 
 ## Orphan articles (gap)
 

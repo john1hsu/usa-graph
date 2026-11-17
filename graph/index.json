@@ -9747,6 +9747,198 @@
   ]
  },
  {
+  "id": "us:jamestown",
+  "title": "Jamestown Colony",
+  "aliases": [
+   "Jamestown",
+   "James Fort",
+   "James Towne",
+   "Historic Jamestowne"
+  ],
+  "type": "City",
+  "domain": "colonial-and-revolutionary",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/colonial-and-revolutionary/jamestown.md",
+  "created": "2026-11-17",
+  "summary": "The English fort and town founded in May 1607 on the James River in Tsenacomoco, the Powhatan paramount chiefdom of coastal Virginia; the first permanent English settlement in North America and capital of the colony of Virginia until 1699, where representative assembly, tobacco plantation agriculture and the forced labor of Africans took root in English America.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:thirteen-colonies"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:powhatan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pocahontas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:opechancanough"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-smith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-rolfe"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-company-of-london"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-general-assembly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bacons-rebellion"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:williamsburg"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:virginia",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:capitalOf",
+    "object": "us:colony-of-virginia",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:james-river",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:anglo-powhatan-wars",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:st-augustine",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1607-05-13",
+  "end": "1699",
+  "review": [
+   {
+    "question": "Why did Jamestown's survival in its first years depend on the Powhatans?",
+    "answer": "Disease, bad water, famine and war killed many colonists, and Powhatan sent food to the struggling fort; the National Park Service judges that without Powhatan help the settlement would most likely have failed, and when trade broke down in 1609 the Starving Time followed."
+   },
+   {
+    "question": "How did tobacco change Jamestown and Virginia?",
+    "answer": "After John Rolfe introduced a new tobacco strain in 1612 it became the colony's cash crop, which drew more colonists, drove expansion onto Powhatan land that led to the 1622 and 1644 wars, and created the demand for labor that brought the first documented enslaved Africans in 1619."
+   },
+   {
+    "question": "Why is Jamestown not the first European settlement in the United States, and what is it the first of?",
+    "answer": "Spain founded St. Augustine in 1565, forty-two years earlier; Jamestown was the first permanent English settlement in North America and the site of English America's first representative legislative assembly in 1619."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1606-04-10",
+    "event": "King James I grants the Virginia Company of London a royal charter to colonize Virginia."
+   },
+   {
+    "date": "1607-05-13",
+    "event": "104 English men and boys choose a site on the James River and name it for the king."
+   },
+   {
+    "date": "1607-06-15",
+    "event": "The colonists finish the triangular James Fort."
+   },
+   {
+    "date": "1609",
+    "event": "Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War."
+   },
+   {
+    "date": "1610-05",
+    "event": "Governor Thomas Gates resolves to abandon Jamestown but turns back on news of Lord De La Warr's relief fleet."
+   },
+   {
+    "date": "1612",
+    "event": "John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop."
+   },
+   {
+    "date": "1614-04",
+    "event": "Pocahontas marries John Rolfe, bringing a peace that lasts until 1622."
+   },
+   {
+    "date": "1619",
+    "event": "The first documented Africans are forcibly brought to Virginia to work the tobacco fields."
+   },
+   {
+    "date": "1619-07-30",
+    "event": "Governor George Yeardley convenes the first representative legislative assembly in English America."
+   },
+   {
+    "date": "1622-03-22",
+    "event": "Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared."
+   },
+   {
+    "date": "1624-05-24",
+    "event": "The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony."
+   },
+   {
+    "date": "1676-09",
+    "event": "Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion."
+   },
+   {
+    "date": "1698",
+    "event": "Fire destroys the statehouse and prison."
+   },
+   {
+    "date": "1699",
+    "event": "The capital moves to Middle Plantation, renamed Williamsburg, and Jamestown ceases to be a town."
+   },
+   {
+    "date": "1994-04-04",
+    "event": "Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land."
+   },
+   {
+    "date": "2013-06-11",
+    "event": "Archaeologists announce forensic evidence of survival cannibalism during the Starving Time."
+   }
+  ],
+  "misconception": {
+   "myth": "Jamestown was the first European settlement in what is now the United States.",
+   "fact": "Spain founded St. Augustine, Florida, in 1565, forty-two years before Jamestown, and it remains the oldest continuously occupied European settlement in the continental United States; Jamestown was the first permanent English settlement in North America.",
+   "why": "National memory has long traced the country's origins through the English colonies, which pushes the earlier Spanish presence in Florida and the Southwest, and the Native nations already there, out of the founding story."
+  },
+  "source_urls": [
+   "https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+   "https://encyclopediavirginia.org/entries/jamestown-settlement-early/",
+   "https://home.nps.gov/people/powhatan.htm",
+   "https://historicjamestowne.org/archaeology/history-of-jamestown-rediscovery/",
+   "https://historicjamestowne.org/june-2013-2/",
+   "https://www.nps.gov/places/st-augustine-town-plan-historic-district-st-augustine-florida.htm"
+  ]
+ },
+ {
   "id": "us:japanese-american-incarceration",
   "title": "Japanese American incarceration during World War II",
   "aliases": [

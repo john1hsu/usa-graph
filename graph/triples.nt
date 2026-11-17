@@ -5826,6 +5826,126 @@
 <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://schema.org/startDate> "1830-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Spain founded St. Augustine, Florida, in 1565, forty-two years before Jamestown, and it remains the oldest continuously occupied European settlement in the continental United States; Jamestown was the first permanent English settlement in North America." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Jamestown was the first European settlement in what is now the United States." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "National memory has long traced the country's origins through the English colonies, which pushes the earlier Spanish presence in Florida and the Southwest, and the Native nations already there, out of the founding story." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Jamestown's survival in its first years depend on the Powhatans?" .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Disease, bad water, famine and war killed many colonists, and Powhatan sent food to the struggling fort; the National Park Service judges that without Powhatan help the settlement would most likely have failed, and when trade broke down in 1609 the Starving Time followed." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did tobacco change Jamestown and Virginia?" .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "After John Rolfe introduced a new tobacco strain in 1612 it became the colony's cash crop, which drew more colonists, drove expansion onto Powhatan land that led to the 1622 and 1644 wars, and created the demand for labor that brought the first documented enslaved Africans in 1619." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is Jamestown not the first European settlement in the United States, and what is it the first of?" .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Spain founded St. Augustine in 1565, forty-two years earlier; Jamestown was the first permanent English settlement in North America and the site of English America's first representative legislative assembly in 1619." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1622-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1624-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1676-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Fire destroys the statehouse and prison." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1698"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The capital moves to Middle Plantation, renamed Williamsburg, and Jamestown ceases to be a town." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1699"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1994-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Archaeologists announce forensic evidence of survival cannibalism during the Starving Time." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "King James I grants the Virginia Company of London a royal charter to colonize Virginia." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1606-04-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "104 English men and boys choose a site on the James River and name it for the king." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1607-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The colonists finish the triangular James Fort." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1607-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1609"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Governor Thomas Gates resolves to abandon Jamestown but turns back on news of Lord De La Warr's relief fleet." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1610-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1612"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Pocahontas marries John Rolfe, bringing a peace that lasts until 1622." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1614-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The first documented Africans are forcibly brought to Virginia to work the tobacco fields." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1619"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Governor George Yeardley convenes the first representative legislative assembly in English America." .
+<https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1619-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#City> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2000/01/rdf-schema#label> "Jamestown Colony" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#altLabel> "Historic Jamestowne" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#altLabel> "James Fort" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#altLabel> "James Towne" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#altLabel> "Jamestown" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#definition> "The English fort and town founded in May 1607 on the James River in Tsenacomoco, the Powhatan paramount chiefdom of coastal Virginia; the first permanent English settlement in North America and capital of the colony of Virginia until 1699, where representative assembly, tobacco plantation agriculture and the forced labor of Africans took root in English America." .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jamestown Colony" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bacons-rebellion> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-rolfe> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-smith> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/opechancanough> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pocahontas> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/powhatan> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-general-assembly> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/williamsburg> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/james-river> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#capitalOf> <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/st-augustine> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/jamestown.md" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/anglo-powhatan-wars> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/virginia> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/jamestown/misconception> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://schema.org/endDate> "1699"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/jamestown> <https://schema.org/startDate> "1607-05-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership." .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Japanese Americans were removed and imprisoned because they were caught spying or committing sabotage, so the camps were a military necessity." .
@@ -12776,6 +12896,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/indian-removal-act/s7> <https://schema.org/url> <https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Historic Jamestowne (Colonial National Historical Park)" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <http://purl.org/dc/terms/title> "A Short History of Jamestown" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s1> <https://schema.org/url> <https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia Virginia (Virginia Humanities), by Brendan Wolfe" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <http://purl.org/dc/terms/title> "Early Jamestown Settlement" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s2> <https://schema.org/url> <https://encyclopediavirginia.org/entries/jamestown-settlement-early/> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <http://purl.org/dc/terms/title> "Powhatan (Wahunsenacawh)" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s3> <https://schema.org/url> <https://home.nps.gov/people/powhatan.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <http://purl.org/dc/terms/publisher> "Jamestown Rediscovery Foundation (Preservation Virginia)" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <http://purl.org/dc/terms/title> "History of Jamestown Rediscovery" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s4> <https://schema.org/url> <https://historicjamestowne.org/archaeology/history-of-jamestown-rediscovery/> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <http://purl.org/dc/terms/publisher> "Jamestown Rediscovery Foundation (Preservation Virginia)" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <http://purl.org/dc/terms/title> "June 2013 dig update: Jane and evidence of survival cannibalism" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s5> <https://schema.org/url> <https://historicjamestowne.org/june-2013-2/> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <http://purl.org/dc/terms/title> "St. Augustine Town Plan Historic District, St. Augustine, Florida" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/jamestown/s6> <https://schema.org/url> <https://www.nps.gov/places/st-augustine-town-plan-historic-district-st-augustine-florida.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
 <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1> <http://purl.org/dc/terms/title> "Executive Order 9066: Resulting in Japanese-American Incarceration (1942)" .

@@ -7992,6 +7992,184 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Spain founded St. Augustine, Florida, in 1565, forty-two years before Jamestown, and it remains the oldest continuously occupied European settlement in the continental United States; Jamestown was the first permanent English settlement in North America.",
+   "uso:myth": "Jamestown was the first European settlement in what is now the United States.",
+   "uso:why": "National memory has long traced the country's origins through the English colonies, which pushes the earlier Spanish presence in Florida and the Southwest, and the Native nations already there, out of the founding story."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jamestown's survival in its first years depend on the Powhatans?",
+   "uso:answer": "Disease, bad water, famine and war killed many colonists, and Powhatan sent food to the struggling fort; the National Park Service judges that without Powhatan help the settlement would most likely have failed, and when trade broke down in 1609 the Starving Time followed.",
+   "uso:questionFor": {
+    "@id": "us:jamestown"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did tobacco change Jamestown and Virginia?",
+   "uso:answer": "After John Rolfe introduced a new tobacco strain in 1612 it became the colony's cash crop, which drew more colonists, drove expansion onto Powhatan land that led to the 1622 and 1644 wars, and created the demand for labor that brought the first documented enslaved Africans in 1619.",
+   "uso:questionFor": {
+    "@id": "us:jamestown"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is Jamestown not the first European settlement in the United States, and what is it the first of?",
+   "uso:answer": "Spain founded St. Augustine in 1565, forty-two years earlier; Jamestown was the first permanent English settlement in North America and the site of English America's first representative legislative assembly in 1619.",
+   "uso:questionFor": {
+    "@id": "us:jamestown"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "King James I grants the Virginia Company of London a royal charter to colonize Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1606-04-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1622-03-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1624-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1676-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fire destroys the statehouse and prison.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1698"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The capital moves to Middle Plantation, renamed Williamsburg, and Jamestown ceases to be a town.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1699"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1994-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Archaeologists announce forensic evidence of survival cannibalism during the Starving Time.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "104 English men and boys choose a site on the James River and name it for the king.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1607-05-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The colonists finish the triangular James Fort.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1607-06-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1609"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor Thomas Gates resolves to abandon Jamestown but turns back on news of Lord De La Warr's relief fleet.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1610-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1612"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pocahontas marries John Rolfe, bringing a peace that lasts until 1622.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1614-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first documented Africans are forcibly brought to Virginia to work the tobacco fields.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1619"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Governor George Yeardley convenes the first representative legislative assembly in English America.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1619-07-30"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No Japanese American was convicted of serious espionage or sabotage during the war; the rumours cited by the Army were unverified, and Congress later found the policy was driven by racial prejudice, war hysteria and a failure of political leadership.",
@@ -20376,6 +20554,90 @@
     "@id": "https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Historic Jamestowne (Colonial National Historical Park)",
+   "dcterms:title": "A Short History of Jamestown",
+   "schema:url": {
+    "@id": "https://home.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Brendan Wolfe",
+   "dcterms:title": "Early Jamestown Settlement",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/jamestown-settlement-early/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Powhatan (Wahunsenacawh)",
+   "schema:url": {
+    "@id": "https://home.nps.gov/people/powhatan.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jamestown Rediscovery Foundation (Preservation Virginia)",
+   "dcterms:title": "History of Jamestown Rediscovery",
+   "schema:url": {
+    "@id": "https://historicjamestowne.org/archaeology/history-of-jamestown-rediscovery/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jamestown Rediscovery Foundation (Preservation Virginia)",
+   "dcterms:title": "June 2013 dig update: Jane and evidence of survival cannibalism",
+   "schema:url": {
+    "@id": "https://historicjamestowne.org/june-2013-2/"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "St. Augustine Town Plan Historic District, St. Augustine, Florida",
+   "schema:url": {
+    "@id": "https://www.nps.gov/places/st-augustine-town-plan-historic-district-st-augustine-florida.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s1",
@@ -40658,6 +40920,164 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:jamestown",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s6"
+    }
+   ],
+   "rdfs:label": "Jamestown Colony",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1699"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1607-05-13"
+   },
+   "skos:altLabel": [
+    "Historic Jamestowne",
+    "James Fort",
+    "James Towne",
+    "Jamestown"
+   ],
+   "skos:broader": {
+    "@id": "us:thirteen-colonies"
+   },
+   "skos:definition": "The English fort and town founded in May 1607 on the James River in Tsenacomoco, the Powhatan paramount chiefdom of coastal Virginia; the first permanent English settlement in North America and capital of the colony of Virginia until 1699, where representative assembly, tobacco plantation agriculture and the forced labor of Africans took root in English America.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Jamestown Colony",
+   "skos:related": [
+    {
+     "@id": "us:bacons-rebellion"
+    },
+    {
+     "@id": "us:john-rolfe"
+    },
+    {
+     "@id": "us:john-smith"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:opechancanough"
+    },
+    {
+     "@id": "us:pocahontas"
+    },
+    {
+     "@id": "us:powhatan"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:virginia-company-of-london"
+    },
+    {
+     "@id": "us:virginia-general-assembly"
+    },
+    {
+     "@id": "us:williamsburg"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:james-river"
+   },
+   "uso:capitalOf": {
+    "@id": "us:colony-of-virginia"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:st-augustine"
+   },
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/colonial-and-revolutionary/jamestown.md",
+   "uso:ledTo": {
+    "@id": "us:anglo-powhatan-wars"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:virginia"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/timeline/9"
     }
    ]
   },

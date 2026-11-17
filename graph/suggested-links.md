@@ -5,7 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.70 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
-| 3.56 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
+| 3.55 | `us:declaration-of-independence` | `us:treaty-of-paris-1783` | `us:american-revolutionary-war`, `us:articles-of-confederation`, `us:benjamin-franklin`, `us:founding-documents-of-the-united-states`, `us:second-continental-congress` |
 | 3.26 | `us:louisiana-purchase` | `us:monroe-doctrine` | `us:adams-onis-treaty`, `us:early-republic`, `us:james-monroe` |
 | 3.18 | `us:constitutional-convention` | `us:second-continental-congress` | `us:articles-of-confederation`, `us:benjamin-franklin`, `us:confederation-period`, `us:declaration-of-independence`, `us:george-washington` |
 | 3.02 | `us:united-states` | `us:united-states-congress` | `us:articles-of-confederation`, `us:census-and-apportionment`, `us:indian-removal-act`, `us:national-symbols-of-the-united-states`, `us:thirteenth-amendment` |
@@ -24,8 +24,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.34 | `us:judicial-review` | `us:united-states-congress` | `us:constitutional-convention`, `us:mcculloch-v-maryland`, `us:missouri-compromise`, `us:separation-of-powers`, `us:supreme-court-of-the-united-states` |
 | 2.33 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |
 | 2.32 | `us:abolitionism` | `us:american-civil-war` | `us:emancipation-proclamation`, `us:frederick-douglass`, `us:harriet-tubman`, `us:slavery-in-the-united-states`, `us:sojourner-truth` |
-| 2.31 | `us:second-continental-congress` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:thirteen-colonies` |
 | 2.31 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
 | 2.27 | `us:benjamin-franklin` | `us:united-states` | `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states`, `us:pennsylvania` |
+| 2.25 | `us:second-continental-congress` | `us:united-states` | `us:articles-of-confederation`, `us:declaration-of-independence`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:thirteen-colonies` |
 | 2.25 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:mexican-american-war`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.23 | `us:gilded-age` | `us:mccarthyism` | `us:history-of-the-united-states`, `us:labor-movement`, `us:united-states` |

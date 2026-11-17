@@ -15,20 +15,35 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1542 | Juan Rodríguez Cabrillo sails north along the coast as far as present-day Oregon. — [California](../articles/states-and-territories/california.md) |
+| 1606-04-10 | King James I grants the Virginia Company of London a royal charter to colonize Virginia. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1607-05-13 – 1699 | **[Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md)** (City) |
+| 1607-05-13 | 104 English men and boys choose a site on the James River and name it for the king. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1607-06-15 | The colonists finish the triangular James Fort. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1609 | Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1610-05 | Governor Thomas Gates resolves to abandon Jamestown but turns back on news of Lord De La Warr's relief fleet. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1612 | John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1614-04 | Pocahontas marries John Rolfe, bringing a peace that lasts until 1622. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1619 | The first documented Africans are forcibly brought to Virginia to work the tobacco fields. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1619-07-30 | Governor George Yeardley convenes the first representative legislative assembly in English America. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1619-08 | The English privateer White Lion lands about twenty captive Africans at Point Comfort, Virginia, and sells them for food. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1619-08-25 | The privateer White Lion brings captive Africans from the kingdom of Ndongo to Old Point Comfort, Virginia. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1621 | Wampanoag leader Ousamequin (Massasoit) and about 90 men join the Plymouth colonists for a three-day harvest gathering, probably in late September or early October. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
+| 1622-03-22 | Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1624-05-24 | The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1676-09 | Followers of Nathaniel Bacon burn Jamestown during Bacon's Rebellion. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1681-03-04 | Charles II grants William Penn the Charter of Pennsylvania, settling a debt owed to Penn's father. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1682-10 | Penn arrives on the Welcome; Philadelphia is laid out as the capital. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1682-12-07 | The provincial Assembly adopts the Great Law. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1692-01 | Pierre Motteux's London Gentleman's Journal carries the motto, the earliest printing Deutsch traced; the Gentleman's Magazine later puts it on its title page. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1698 | Fire destroys the statehouse and prison. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1699 | The capital moves to Middle Plantation, renamed Williamsburg, and Jamestown ceases to be a town. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1701 | The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1706-01-17 – 1790-04-17 | **[Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md)** (Person) |
@@ -1409,6 +1424,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1993-11-23 | Congress apologizes for the U.S. role in the 1893 overthrow (Public Law 103-150). — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1994-04-04 | Jamestown Rediscovery begins excavating and soon finds that James Fort survives on dry land. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -1501,6 +1517,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013 | United States v. Windsor requires the federal government to treat lawful same-sex marriages equally; dozens of federal courts then strike down state bans. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2013-01-29 | BP Exploration and Production is sentenced to $4 billion in criminal fines and penalties after pleading guilty. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2013-02-27 | The Supreme Court hears oral argument after the district court and the D.C. Circuit uphold the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 2013-06-11 | Archaeologists announce forensic evidence of survival cannibalism during the Starving Time. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 2013-06-25 | **[Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md)** (CourtCase) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2013-06-25 | The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |

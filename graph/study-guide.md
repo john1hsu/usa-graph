@@ -245,6 +245,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did later reformers use the Declaration's language?
   **A:** The women who met at Seneca Falls in 1848 modelled their Declaration of Sentiments on it, declaring that all men and women are created equal, and Frederick Douglass in 1852 measured the nation's celebration of independence against the slavery it still allowed.
 
+### [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) — City
+
+| Myth | Fact |
+|---|---|
+| Jamestown was the first European settlement in what is now the United States. | Spain founded St. Augustine, Florida, in 1565, forty-two years before Jamestown, and it remains the oldest continuously occupied European settlement in the continental United States; Jamestown was the first permanent English settlement in North America. |
+
+**Why it matters:** National memory has long traced the country's origins through the English colonies, which pushes the earlier Spanish presence in Florida and the Southwest, and the Native nations already there, out of the founding story.
+
+- **Q:** Why did Jamestown's survival in its first years depend on the Powhatans?
+  **A:** Disease, bad water, famine and war killed many colonists, and Powhatan sent food to the struggling fort; the National Park Service judges that without Powhatan help the settlement would most likely have failed, and when trade broke down in 1609 the Starving Time followed.
+- **Q:** How did tobacco change Jamestown and Virginia?
+  **A:** After John Rolfe introduced a new tobacco strain in 1612 it became the colony's cash crop, which drew more colonists, drove expansion onto Powhatan land that led to the 1622 and 1644 wars, and created the demand for labor that brought the first documented enslaved Africans in 1619.
+- **Q:** Why is Jamestown not the first European settlement in the United States, and what is it the first of?
+  **A:** Spain founded St. Augustine in 1565, forty-two years earlier; Jamestown was the first permanent English settlement in North America and the site of English America's first representative legislative assembly in 1619.
+
 ### [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) — Institution
 
 | Myth | Fact |
