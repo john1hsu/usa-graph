@@ -370,6 +370,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1831 | Joseph Henry rings a bell at the far end of a mile-long wire with a powerful electromagnet and publishes an article suggesting an electric telegraph. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1831 | The Supreme Court in Cherokee Nation v. Georgia calls the Cherokees a 'domestic dependent nation' and declines to hear their suit; Choctaw removal begins. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | Tice Davids crosses the Ohio River from Kentucky; folklore says his enslaver claimed he had vanished on an underground road, one of several legends about the name. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1831 | William Lloyd Garrison founds The Liberator; a New York convention of free Black people rejects colonization. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -380,6 +381,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1832 | Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1832-07-10 | President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
@@ -407,6 +409,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1838 | Cherokees are forcibly removed to Indian Territory in 1838–39; about 4,000 of 16,000 die on the Trail of Tears. — [United States](../articles/states-and-territories/united-states.md) |
+| 1838 | Morse demonstrates his telegraph in New York and Washington and receives a U.S. patent. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1838-05 | President Martin Van Buren orders General Winfield Scott to remove the remaining Cherokees, beginning the Trail of Tears. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1838-05-23 | Under orders from President Martin Van Buren, the army begins rounding up Cherokees into stockades. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1838-09-03 | Escapes to New York disguised as a sailor, using a free Black sailor's papers and a ticket paid for by Anna Murray. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -419,13 +422,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1841 | A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1843 | Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1843-06-01 | Takes the name Sojourner Truth and begins travelling to preach and speak against slavery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1844 | Probably marries John Tubman, a free Black man, and takes the name Harriet. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1844-05-24 | Morse sends the first message on the line from the Supreme Court chamber in the Capitol to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1846 | The Magnetic Telegraph Company opens the first commercial line, from New York to Washington. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |
 | 1846-01-13 | President James K. Polk orders General Zachary Taylor to advance from Corpus Christi to the Rio Grande, into land Mexico considered its own. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846-02 | Workers drill out a hairline crack before Washington's Birthday; a new fissure opens and the bell is silenced for good. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -446,6 +452,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847-09-14 | After battles at Cerro Gordo, Contreras, Churubusco, Molino del Rey and Chapultepec, Scott's army enters Mexico City. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1847-12-22 | Representative Abraham Lincoln introduces his 'Spot' Resolutions challenging Polk's account of where the war began. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1848 | Newspapers form the Associated Press to pool telegraphed news. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1848 | Teaching in Canajoharie, New York, she learns that male teachers earn $10 a month and women $2.50. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1848 | The Illinois & Michigan Canal is completed, the first railroad opens, the telegraph arrives and the Board of Trade is founded. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1848-01-24 – 1855 | **[California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md)** (Event) |
@@ -483,6 +490,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1850-09-09 | California is admitted as the 31st state, free of slavery, as part of the Compromise of 1850. — [California](../articles/states-and-territories/california.md) |
 | 1850-09-18 | The Fugitive Slave Act of 1850 is approved, commanding bystanders to help catch freedom seekers and penalizing anyone who aids them. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1851 | Amelia Bloomer introduces her to Elizabeth Cady Stanton in Seneca Falls, New York. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1851 | Railroads begin dispatching trains by telegraph; the company that becomes Western Union is incorporated. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1851 | The first Treaty of Fort Laramie sets terms for contact between Plains nations and Americans. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1851-05-29 | Speaks at the Woman's Rights Convention in Akron, Ohio. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1851-06-21 | Marius Robinson's account of her Akron speech appears in the Anti-Slavery Bugle. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
@@ -493,6 +501,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1852-03-22 | The Missouri Supreme Court reverses, rejecting the principle of once free, always free. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1852-07-05 | Delivers "What to the Slave Is the Fourth of July?" at Corinthian Hall, Rochester. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1852-07-08 | The U.S. Senate refuses to ratify 18 treaties negotiated with California tribes, which had promised them about 7.5 million acres. — [California](../articles/states-and-territories/california.md) |
+| 1853 | In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1854 | Anthony Burns escapes from Richmond; he is arrested in Boston and returned to slavery under the 1850 law. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1854 | The Kansas-Nebraska Act repeals the 36°30′ restriction after 34 years. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1854 | The state capital moves to Sacramento after stints in San Jose, Vallejo and Benicia. — [California](../articles/states-and-territories/california.md) |
@@ -532,6 +541,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1861-04-12 – 1865-04-09 | **[American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md)** (Conflict) |
 | 1861-04-12 | Confederate forces fire on Fort Sumter in Charleston Harbor; it surrenders the next day and Lincoln calls for 75,000 volunteers. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1861-05 | At Fort Monroe, General Benjamin Butler begins receiving people fleeing slavery as "contraband of war." — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1861-10-24 | The first transcontinental telegraph line is completed, and the Pony Express soon shuts down. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1862 | Arrives at Port Royal, South Carolina, to serve the Union Army as a scout, spy, cook and nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1862 | Congress passes the Homestead Act, offering 160-acre claims to settlers who live on and improve the land for five years. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1862 | Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
@@ -588,6 +598,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1865-02-06 | Lakota and Cheyenne fighters, retaliating for the Sand Creek Massacre, attack the Mud Springs telegraph station in Nebraska; its operator wires for troops. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-06-19 | General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -600,6 +611,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1866 | Elizabeth Cady Stanton and Susan B. Anthony help form the American Equal Rights Association to seek suffrage for Black Americans and women alike. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
+| 1866 | Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -700,6 +712,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1875-01-30 | The United States and the Kingdom of Hawaiʻi sign a Treaty of Reciprocity. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1875-03-29 | Minor v. Happersett holds that citizenship does not carry a right to vote. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1876 | Alexander Graham Bell patents the telephone; Western Union declines to buy the patent. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1876 | United States v. Reese and United States v. Cruikshank narrow federal enforcement. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1876-06 | George Armstrong Custer and 268 of his men are killed at the Little Bighorn. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1876-07-04 | Reads a Declaration of Rights of Women outside Independence Hall during the Centennial. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -916,6 +929,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912-06-11 | Arthur L. Welsh, the school's first Dayton-trained pilot and later an instructor, is killed in a crash at College Park, Maryland. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1913 | AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment). — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1913-03-03 | Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
@@ -1134,6 +1148,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944-06-22 | **[Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md)** (Law) |
 | 1944-06-22 | President Franklin D. Roosevelt signs the Servicemen's Readjustment Act, sixteen days after D-Day. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-05 | Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-08-06 | A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1340,6 +1355,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1987 | Patricia Nelson Limerick publishes The Legacy of Conquest. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1987-12-11 | John Philip Sousa's The Stars and Stripes Forever becomes the national march. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1988 | Western Union sells off its telecommunications assets to concentrate on money transfers. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1988 | Wildfires burn about 36 percent of the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1988 | World War II merchant mariners are finally recognized as veterans, decades after Roosevelt asked Congress to extend them similar benefits. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1988-08-10 | President Ronald Reagan signs the Civil Liberties Act of 1988, with an apology and $20,000 for each surviving incarcerated person. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |

@@ -24307,6 +24307,104 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress, Samuel F. B. Morse Papers",
+   "dcterms:title": "Invention of the Telegraph",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History — May 24: What Hath God Wrought?",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/may-24/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Smithsonian Institution Archives",
+   "dcterms:title": "Joseph Henry: Inventor of the Telegraph?",
+   "schema:url": {
+    "@id": "https://siarchives.si.edu/collections/siris_sic_12604"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "EH.Net Encyclopedia, Economic History Association (Tomas Nonnenmacher)",
+   "dcterms:title": "History of the U.S. Telegraph Industry",
+   "schema:url": {
+    "@id": "https://eh.net/encyclopedia/history-of-the-u-s-telegraph-industry/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Reports, Supreme Court of the United States (via GovInfo)",
+   "dcterms:title": "O'Reilly et al. v. Morse et al., 56 U.S. (15 How.) 62",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/USREPORTS-56/pdf/USREPORTS-56-62.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "WyoHistory.org, Wyoming State Historical Society (Phil Roberts)",
+   "dcterms:title": "The Telegraph Crosses Wyoming, 1861",
+   "schema:url": {
+    "@id": "https://wyohistory.org/encyclopedia/telegraph-crosses-wyoming-1861"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Discover Our Shared Heritage",
+   "dcterms:title": "Mud Springs Pony Express Station",
+   "schema:url": {
+    "@id": "https://www.nps.gov/nr/travel/scotts_bluff/mud_springs_pony_express_station.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/thanksgiving/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -27756,6 +27854,193 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1872-11-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Morse built on Joseph Henry's electromagnet and long-distance signaling experiments of 1831–1835, relied on Leonard Gale's advice about Henry's relay and on Alfred Vail's mechanical skill, and competed with British systems such as Charles Wheatstone's. The words \"What hath God wrought\" (Numbers 23:23) were suggested by Annie Ellsworth, the young daughter of a friend.",
+   "uso:myth": "Samuel Morse invented the electric telegraph single-handedly, and chose its famous first message himself.",
+   "uso:why": "Morse held the patent, the code bears his name, and the 1844 demonstration was a dramatic public event, while an 1845 book by his assistant Vail barely mentioned Henry's foundational work."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Morse turn to Congress, and what did its 1843 appropriation pay for?",
+   "uso:answer": "He needed public money for a full-scale line after the Panic of 1837 delayed his project; Congress voted $30,000 to build an experimental line of about forty miles from Washington to Baltimore, which carried the first message in May 1844.",
+   "uso:questionFor": {
+    "@id": "us:telegraph"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the transcontinental telegraph change communication with the Far West in 1861?",
+   "uso:answer": "Completed on October 24, 1861, it carried messages from coast to coast almost instantly at about $7 for ten words, which was faster and cheaper than horseback mail, so the Pony Express shut down.",
+   "uso:questionFor": {
+    "@id": "us:telegraph"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court in O'Reilly v. Morse reject Morse's eighth patent claim while upholding the rest?",
+   "uso:answer": "The first seven claims described his actual apparatus, but the eighth claimed the use of electromagnetism, however developed, for marking characters at any distance; the Court held it too broad because it would cover improvements Morse had not invented.",
+   "uso:questionFor": {
+    "@id": "us:telegraph"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Western Union come to dominate the industry?",
+   "uso:answer": "Early competition among many firms gave way to regional pools and mergers; by 1866 Western Union had absorbed its major rivals, and for the rest of the century it carried over 90 percent of U.S. telegraph business.",
+   "uso:questionFor": {
+    "@id": "us:telegraph"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Joseph Henry rings a bell at the far end of a mile-long wire with a powerful electromagnet and publishes an article suggesting an electric telegraph.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1831"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first transcontinental telegraph line is completed, and the Pony Express soon shuts down.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1861-10-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lakota and Cheyenne fighters, retaliating for the Sand Creek Massacre, attack the Mud Springs telegraph station in Nebraska; its operator wires for troops.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-02-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1866"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alexander Graham Bell patents the telephone; Western Union declines to buy the patent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1876"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1913"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1945"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Western Union sells off its telecommunications assets to concentrate on money transfers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1988"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Morse demonstrates his telegraph in New York and Washington and receives a U.S. patent.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1838"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1843"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Morse sends the first message on the line from the Supreme Court chamber in the Capitol to Baltimore.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1844-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Magnetic Telegraph Company opens the first commercial line, from New York to Washington.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1846"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Newspapers form the Associated Press to pool telegraphed news.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1848"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Railroads begin dispatching trains by telegraph; the company that becomes Western Union is incorporated.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1851"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1853"
    }
   },
   {
@@ -45181,6 +45466,158 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/susan-b-anthony/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:telegraph",
+   "@type": "uso:Industry",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/telegraph/s7"
+    }
+   ],
+   "rdfs:label": "Electric telegraph",
+   "skos:altLabel": [
+    "Morse telegraph",
+    "Telegraph industry",
+    "Telegraph",
+    "Telegraphy"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The system of sending coded messages as pulses of electric current over wires, which Samuel F. B. Morse and his collaborators demonstrated between Washington and Baltimore in 1844 and which grew into the first nationwide electrical communications industry, dominated after 1866 by Western Union.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Electric telegraph",
+   "skos:related": [
+    {
+     "@id": "us:abraham-lincoln"
+    },
+    {
+     "@id": "us:alfred-vail"
+    },
+    {
+     "@id": "us:baltimore"
+    },
+    {
+     "@id": "us:oreilly-v-morse"
+    },
+    {
+     "@id": "us:roger-b-taney"
+    },
+    {
+     "@id": "us:sand-creek-massacre"
+    },
+    {
+     "@id": "us:smithsonian-institution"
+    },
+    {
+     "@id": "us:telephone"
+    },
+    {
+     "@id": "us:washington-dc"
+    },
+    {
+     "@id": "us:western-union"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:pony-express"
+    },
+    {
+     "@id": "us:railroads-in-the-united-states"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/telegraph.md",
+   "uso:influencedBy": {
+    "@id": "us:joseph-henry"
+   },
+   "uso:introducedBy": {
+    "@id": "us:samuel-morse"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9"
     }
    ]
   },

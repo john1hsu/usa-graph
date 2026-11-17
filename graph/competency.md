@@ -55,9 +55,9 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
-| `us:angel-island-immigration-station` | 2 | Chinese Americans, japanese-americans |
+| `us:telegraph` | 3 | American Civil War, pony-express, railroads-in-the-united-states |
 
-…and 63 more.
+…and 64 more.
 
 ## Happenings by era
 

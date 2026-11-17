@@ -1117,6 +1117,16 @@
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s5> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s6> .
 <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/science-and-innovation/telegraph.md" .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> .
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> .
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/science-and-innovation/wright-brothers-first-flight.md" .
@@ -16934,6 +16944,173 @@
   <https://github.com/john1hsu/usa-graph/id/source/morrill-land-grant-college-act/s7> <https://schema.org/url> <https://ipo.lib.niu.edu/1998/iht519842.html> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/telegraph#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <http://purl.org/dc/terms/publisher> "Library of Congress, Samuel F. B. Morse Papers" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <http://purl.org/dc/terms/title> "Invention of the Telegraph" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> <https://schema.org/url> <https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <http://purl.org/dc/terms/title> "Today in History — May 24: What Hath God Wrought?" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/may-24/> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <http://purl.org/dc/terms/publisher> "Smithsonian Institution Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <http://purl.org/dc/terms/title> "Joseph Henry: Inventor of the Telegraph?" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> <https://schema.org/url> <https://siarchives.si.edu/collections/siris_sic_12604> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <http://purl.org/dc/terms/publisher> "EH.Net Encyclopedia, Economic History Association (Tomas Nonnenmacher)" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <http://purl.org/dc/terms/title> "History of the U.S. Telegraph Industry" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> <https://schema.org/url> <https://eh.net/encyclopedia/history-of-the-u-s-telegraph-industry/> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <http://purl.org/dc/terms/publisher> "U.S. Reports, Supreme Court of the United States (via GovInfo)" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <http://purl.org/dc/terms/title> "O'Reilly et al. v. Morse et al., 56 U.S. (15 How.) 62" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/USREPORTS-56/pdf/USREPORTS-56-62.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <http://purl.org/dc/terms/publisher> "WyoHistory.org, Wyoming State Historical Society (Phil Roberts)" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <http://purl.org/dc/terms/title> "The Telegraph Crosses Wyoming, 1861" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> <https://schema.org/url> <https://wyohistory.org/encyclopedia/telegraph-crosses-wyoming-1861> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <http://purl.org/dc/terms/publisher> "National Park Service, Discover Our Shared Heritage" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <http://purl.org/dc/terms/title> "Mud Springs Pony Express Station" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> <https://schema.org/url> <https://www.nps.gov/nr/travel/scotts_bluff/mud_springs_pony_express_station.html> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Morse built on Joseph Henry's electromagnet and long-distance signaling experiments of 1831–1835, relied on Leonard Gale's advice about Henry's relay and on Alfred Vail's mechanical skill, and competed with British systems such as Charles Wheatstone's. The words \"What hath God wrought\" (Numbers 23:23) were suggested by Annie Ellsworth, the young daughter of a friend." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Samuel Morse invented the electric telegraph single-handedly, and chose its famous first message himself." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Morse held the patent, the code bears his name, and the 1844 demonstration was a dramatic public event, while an 1845 book by his assistant Vail barely mentioned Henry's foundational work." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Morse turn to Congress, and what did its 1843 appropriation pay for?" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He needed public money for a full-scale line after the Panic of 1837 delayed his project; Congress voted $30,000 to build an experimental line of about forty miles from Washington to Baltimore, which carried the first message in May 1844." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the transcontinental telegraph change communication with the Far West in 1861?" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Completed on October 24, 1861, it carried messages from coast to coast almost instantly at about $7 for ten words, which was faster and cheaper than horseback mail, so the Pony Express shut down." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court in O'Reilly v. Morse reject Morse's eighth patent claim while upholding the rest?" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The first seven claims described his actual apparatus, but the eighth claimed the use of electromagnetism, however developed, for marking characters at any distance; the Court held it too broad because it would cover improvements Morse had not invented." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did Western Union come to dominate the industry?" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Early competition among many firms gave way to regional pools and mergers; by 1866 Western Union had absorbed its major rivals, and for the rest of the century it carried over 90 percent of U.S. telegraph business." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The first transcontinental telegraph line is completed, and the Pony Express soon shuts down." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1861-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Lakota and Cheyenne fighters, retaliating for the Sand Creek Massacre, attack the Mud Springs telegraph station in Nebraska; its operator wires for troops." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1866"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Graham Bell patents the telephone; Western Union declines to buy the patent." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1876"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment)." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1945"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Western Union sells off its telecommunications assets to concentrate on money transfers." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Henry rings a bell at the far end of a mile-long wire with a powerful electromagnet and publishes an article suggesting an electric telegraph." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1831"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Morse demonstrates his telegraph in New York and Washington and receives a U.S. patent." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1838"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1843"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Morse sends the first message on the line from the Supreme Court chamber in the Capitol to Baltimore." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1844-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Magnetic Telegraph Company opens the first commercial line, from New York to Washington." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1846"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Newspapers form the Associated Press to pool telegraphed news." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1848"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Railroads begin dispatching trains by telegraph; the company that becomes Western Union is incorporated." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1851"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1853"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Industry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2000/01/rdf-schema#label> "Electric telegraph" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#altLabel> "Morse telegraph" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#altLabel> "Telegraph industry" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#altLabel> "Telegraph" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#altLabel> "Telegraphy" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#definition> "The system of sending coded messages as pulses of electric current over wires, which Samuel F. B. Morse and his collaborators demonstrated between Washington and Baltimore in 1844 and which grew into the first nationwide electrical communications industry, dominated after 1866 by Western Union." .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric telegraph" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alfred-vail> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/baltimore> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/oreilly-v-morse> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roger-b-taney> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sand-creek-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telephone> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/washington-dc> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/western-union> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s1> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s2> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s3> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s4> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s5> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s6> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/telegraph/s7> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/pony-express> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#domain> "science-and-innovation" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/science-and-innovation/telegraph.md" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/joseph-henry> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/samuel-morse> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight#graph> {
   <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s1> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/source/wright-brothers-first-flight/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Wright Brothers National Memorial" .
@@ -20111,6 +20288,7 @@
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
+  <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
@@ -20222,6 +20400,7 @@
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/alfred-vail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
@@ -20255,6 +20434,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
@@ -20479,6 +20659,7 @@
   <https://github.com/john1hsu/usa-graph/id/baltimore-and-ohio-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -21392,11 +21573,13 @@
   <https://github.com/john1hsu/usa-graph/id/eastern-shoshone-tribe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/edwards-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
@@ -22394,6 +22577,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-wesley-powell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
   <https://github.com/john1hsu/usa-graph/id/joint-committee-on-reconstruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/joseph-henry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/judicial-procedures-reform-bill-of-1937> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -23188,6 +23372,7 @@
   <https://github.com/john1hsu/usa-graph/id/olive-branch-petition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/operation-allies-welcome> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/oregon-trail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/oreilly-v-morse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/orval-faubus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/orville-wright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -23386,6 +23571,7 @@
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/plymouth-colony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
+  <https://github.com/john1hsu/usa-graph/id/pony-express> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/poor-peoples-campaign> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/poor-richards-almanack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -23452,6 +23638,7 @@
   <https://github.com/john1hsu/usa-graph/id/ragtime> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -23538,6 +23725,7 @@
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
+  <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/roger-b-taney> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -23569,8 +23757,12 @@
   <https://github.com/john1hsu/usa-graph/id/sally-hemings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-morse> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/samuel-pierpont-langley> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/san-andreas-fault> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/sand-creek-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/sandra-day-oconnor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/sarah-josepha-hale> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -23817,6 +24009,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/smith-lever-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
   <https://github.com/john1hsu/usa-graph/id/smithsonian-tropical-research-institute> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -23946,6 +24139,31 @@
   <https://github.com/john1hsu/usa-graph/id/taliban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/tang-poetry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/tax-cuts-and-jobs-act-of-2017> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/telephone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -24646,6 +24864,7 @@
   <https://github.com/john1hsu/usa-graph/id/washington-cherry-tree-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -24658,6 +24877,7 @@
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/western-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/wilbur-wright-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .

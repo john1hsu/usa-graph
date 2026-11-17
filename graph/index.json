@@ -16340,6 +16340,199 @@
   ]
  },
  {
+  "id": "us:telegraph",
+  "title": "Electric telegraph",
+  "aliases": [
+   "Telegraph",
+   "Telegraphy",
+   "Morse telegraph",
+   "Telegraph industry"
+  ],
+  "type": "Industry",
+  "domain": "science-and-innovation",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/telegraph.md",
+  "created": "2026-11-17",
+  "summary": "The system of sending coded messages as pulses of electric current over wires, which Samuel F. B. Morse and his collaborators demonstrated between Washington and Baltimore in 1844 and which grew into the first nationwide electrical communications industry, dominated after 1866 by Western Union.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alfred-vail"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:western-union"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:oreilly-v-morse"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:telephone"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smithsonian-institution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-dc"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:baltimore"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:sand-creek-massacre"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:abraham-lincoln"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:roger-b-taney"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:samuel-morse",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:joseph-henry",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:pony-express",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:american-civil-war",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:railroads-in-the-united-states",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Morse turn to Congress, and what did its 1843 appropriation pay for?",
+    "answer": "He needed public money for a full-scale line after the Panic of 1837 delayed his project; Congress voted $30,000 to build an experimental line of about forty miles from Washington to Baltimore, which carried the first message in May 1844."
+   },
+   {
+    "question": "How did the transcontinental telegraph change communication with the Far West in 1861?",
+    "answer": "Completed on October 24, 1861, it carried messages from coast to coast almost instantly at about $7 for ten words, which was faster and cheaper than horseback mail, so the Pony Express shut down."
+   },
+   {
+    "question": "Why did the Supreme Court in O'Reilly v. Morse reject Morse's eighth patent claim while upholding the rest?",
+    "answer": "The first seven claims described his actual apparatus, but the eighth claimed the use of electromagnetism, however developed, for marking characters at any distance; the Court held it too broad because it would cover improvements Morse had not invented."
+   },
+   {
+    "question": "How did Western Union come to dominate the industry?",
+    "answer": "Early competition among many firms gave way to regional pools and mergers; by 1866 Western Union had absorbed its major rivals, and for the rest of the century it carried over 90 percent of U.S. telegraph business."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1831",
+    "event": "Joseph Henry rings a bell at the far end of a mile-long wire with a powerful electromagnet and publishes an article suggesting an electric telegraph."
+   },
+   {
+    "date": "1832",
+    "event": "Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe."
+   },
+   {
+    "date": "1838",
+    "event": "Morse demonstrates his telegraph in New York and Washington and receives a U.S. patent."
+   },
+   {
+    "date": "1843",
+    "event": "Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore."
+   },
+   {
+    "date": "1844-05-24",
+    "event": "Morse sends the first message on the line from the Supreme Court chamber in the Capitol to Baltimore."
+   },
+   {
+    "date": "1846",
+    "event": "The Magnetic Telegraph Company opens the first commercial line, from New York to Washington."
+   },
+   {
+    "date": "1848",
+    "event": "Newspapers form the Associated Press to pool telegraphed news."
+   },
+   {
+    "date": "1851",
+    "event": "Railroads begin dispatching trains by telegraph; the company that becomes Western Union is incorporated."
+   },
+   {
+    "date": "1853",
+    "event": "In O'Reilly v. Morse (December Term 1853) the Supreme Court upholds Morse's patent but strikes down his broadest claim."
+   },
+   {
+    "date": "1861-10-24",
+    "event": "The first transcontinental telegraph line is completed, and the Pony Express soon shuts down."
+   },
+   {
+    "date": "1865-02-06",
+    "event": "Lakota and Cheyenne fighters, retaliating for the Sand Creek Massacre, attack the Mud Springs telegraph station in Nebraska; its operator wires for troops."
+   },
+   {
+    "date": "1866",
+    "event": "Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid."
+   },
+   {
+    "date": "1876",
+    "event": "Alexander Graham Bell patents the telephone; Western Union declines to buy the patent."
+   },
+   {
+    "date": "1913",
+    "event": "AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment)."
+   },
+   {
+    "date": "1945",
+    "event": "U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge."
+   },
+   {
+    "date": "1988",
+    "event": "Western Union sells off its telecommunications assets to concentrate on money transfers."
+   }
+  ],
+  "misconception": {
+   "myth": "Samuel Morse invented the electric telegraph single-handedly, and chose its famous first message himself.",
+   "fact": "Morse built on Joseph Henry's electromagnet and long-distance signaling experiments of 1831–1835, relied on Leonard Gale's advice about Henry's relay and on Alfred Vail's mechanical skill, and competed with British systems such as Charles Wheatstone's. The words \"What hath God wrought\" (Numbers 23:23) were suggested by Annie Ellsworth, the young daughter of a friend.",
+   "why": "Morse held the patent, the code bears his name, and the 1844 demonstration was a dramatic public event, while an 1845 book by his assistant Vail barely mentioned Henry's foundational work."
+  },
+  "source_urls": [
+   "https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/",
+   "https://www.loc.gov/item/today-in-history/may-24/",
+   "https://siarchives.si.edu/collections/siris_sic_12604",
+   "https://eh.net/encyclopedia/history-of-the-u-s-telegraph-industry/",
+   "https://www.govinfo.gov/content/pkg/USREPORTS-56/pdf/USREPORTS-56-62.pdf",
+   "https://wyohistory.org/encyclopedia/telegraph-crosses-wyoming-1861",
+   "https://www.nps.gov/nr/travel/scotts_bluff/mud_springs_pony_express_station.html"
+  ]
+ },
+ {
   "id": "us:thanksgiving",
   "title": "Thanksgiving",
   "aliases": [

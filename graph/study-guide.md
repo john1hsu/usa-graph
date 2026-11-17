@@ -1474,6 +1474,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## science-and-innovation
 
+### [Electric telegraph](../articles/science-and-innovation/telegraph.md) — Industry
+
+| Myth | Fact |
+|---|---|
+| Samuel Morse invented the electric telegraph single-handedly, and chose its famous first message himself. | Morse built on Joseph Henry's electromagnet and long-distance signaling experiments of 1831–1835, relied on Leonard Gale's advice about Henry's relay and on Alfred Vail's mechanical skill, and competed with British systems such as Charles Wheatstone's. The words "What hath God wrought" (Numbers 23:23) were suggested by Annie Ellsworth, the young daughter of a friend. |
+
+**Why it matters:** Morse held the patent, the code bears his name, and the 1844 demonstration was a dramatic public event, while an 1845 book by his assistant Vail barely mentioned Henry's foundational work.
+
+- **Q:** Why did Morse turn to Congress, and what did its 1843 appropriation pay for?
+  **A:** He needed public money for a full-scale line after the Panic of 1837 delayed his project; Congress voted $30,000 to build an experimental line of about forty miles from Washington to Baltimore, which carried the first message in May 1844.
+- **Q:** How did the transcontinental telegraph change communication with the Far West in 1861?
+  **A:** Completed on October 24, 1861, it carried messages from coast to coast almost instantly at about $7 for ten words, which was faster and cheaper than horseback mail, so the Pony Express shut down.
+- **Q:** Why did the Supreme Court in O'Reilly v. Morse reject Morse's eighth patent claim while upholding the rest?
+  **A:** The first seven claims described his actual apparatus, but the eighth claimed the use of electromagnetism, however developed, for marking characters at any distance; the Court held it too broad because it would cover improvements Morse had not invented.
+- **Q:** How did Western Union come to dominate the industry?
+  **A:** Early competition among many firms gave way to regional pools and mergers; by 1866 Western Union had absorbed its major rivals, and for the rest of the century it carried over 90 percent of U.S. telegraph business.
+
 ### [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) — Landmark
 
 | Myth | Fact |
