@@ -1091,6 +1091,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932-01 | By late January winds are lifting loose soil into dust storms. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1932-07-02 | Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1932-10-13 | Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1932-11-08 | Elected president, defeating Herbert Hoover. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1932-11-14 | The river is turned through the diversion tunnels around the dam site. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1098,11 +1099,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
 | 1933 | John and Alan Lomax first record Lead Belly while he is imprisoned in the Louisiana State Penitentiary. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1933-01-02 | The last U.S. Marines leave Nicaragua, two months before Franklin D. Roosevelt takes office. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-03 – 1938 | **[New Deal](../articles/depression-and-world-war/new-deal.md)** (Policy) |
 | 1933-03-04 | **[Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md)** (Policy) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1933-03-04 | Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-03-09 | Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1933-03-12 | Gives his first radio fireside chat, on the banking crisis. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
+| 1933-03-12 | Roosevelt's first fireside chat urges Americans to return their savings to reopened banks. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1933-05 | Interior Secretary Harold Ickes orders the structure renamed Boulder Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1933-05-12 | The Agricultural Adjustment Act begins paying farmers to cut production. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1933-06 | The Glass-Steagall Banking Act separates commercial and investment banking and creates the FDIC; the Hundred Days end. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1933-12 | At the Montevideo Conference the Roosevelt administration backs a declaration that no state has the right to intervene in another's affairs. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
@@ -1111,6 +1117,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934 | Franklin D. Roosevelt's Good Neighbor policy officially abandons the corollary. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1934 | The 1903 treaty with Cuba based on the Platt Amendment is abrogated, U.S. forces withdraw from Haiti, and Congress passes the Reciprocal Trade Agreements Act. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1934 | The Indian Reorganization Act ends the Dawes-era allotment policy and encourages tribal self-government. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1934 | The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1934 | The Indian Reorganization Act establishes modern tribal governments. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
@@ -1122,10 +1129,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935-03-21 | A second March dust cloud darkens Washington as Congress holds hearings on soil conservation. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
+| 1935-05 | In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-06 | Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1935-08-14 | Signs the Social Security Act. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1936 | In United States v. Butler the Supreme Court strikes down the Agricultural Adjustment Act's processing tax. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
 | 1936 | Robert Johnson makes the first of his 1936–1937 recordings. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1936-02-29 | Reclamation formally accepts the completed dam from Six Companies. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1133,7 +1143,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936-10-26 | The first generating unit, N-2, goes into full operation. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936-12-03 | The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1937 | In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
+| 1937 | Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-02-05 | Asks Congress to add justices to the Supreme Court; the plan is shelved in July. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -1144,6 +1156,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937-07-22 | Roosevelt's plan to enlarge the Court is defeated in the Senate. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
+| 1938 | The Fair Labor Standards Act sets a minimum wage and a 40-hour week, the last major New Deal law. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-03-18 | Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |

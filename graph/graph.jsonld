@@ -11564,6 +11564,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II.",
+   "uso:myth": "The New Deal ended the Great Depression.",
+   "uso:why": "The New Deal's most visible achievements, such as Social Security and public works, outlasted the Depression, so the program is often remembered as the cure rather than as a partial recovery cut short by the 1937 recession."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Supreme Court's 1935–36 rulings threaten the New Deal, and how did that change after 1937?",
+   "uso:answer": "In Schechter (1935) the Court struck down the National Industrial Recovery Act for delegating too much power and reaching intrastate commerce, and in Butler (1936) it struck down the Agricultural Adjustment Act's tax; after Roosevelt's failed 1937 plan to enlarge the Court, the justices began upholding laws such as the Wagner Act and Social Security and did not strike down another major New Deal law.",
+   "uso:questionFor": {
+    "@id": "us:new-deal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How could a farm program meant to help farmers end up hurting many of the poorest people in agriculture?",
+   "uso:answer": "The AAA paid landowners to take land out of production, so its payments mostly went to large farmers rather than to the Black and white tenant farmers, sharecroppers and farm workers who lost work when acreage was cut.",
+   "uso:questionFor": {
+    "@id": "us:new-deal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about why farm and domestic workers were left out of Social Security in 1935?",
+   "uso:answer": "Some scholars argue Southern Democrats engineered the exclusion to keep Black workers out, since 65 percent of Black workers fell in excluded jobs; SSA historian Larry DeWitt argues the record shows it came from Treasury concerns about collecting payroll taxes from scattered workers, and notes most of those excluded were white and coverage was extended in 1950 and 1954.",
+   "uso:questionFor": {
+    "@id": "us:new-deal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do economists such as Price Fishback argue New Deal spending was too small to end the Depression on its own?",
+   "uso:answer": "Federal outlays by 1939 were only about 8 percent of 1929 GDP above their 1929 level, tax increases kept deficits small, and public works and relief raised incomes by roughly a dollar per dollar spent while adding little private employment.",
+   "uso:questionFor": {
+    "@id": "us:new-deal"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-07-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1937"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Fair Labor Standards Act sets a minimum wage and a 40-hour week, the last major New Deal law.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1938"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt's first fireside chat urges Americans to return their savings to reopened banks.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Agricultural Adjustment Act begins paying farmers to cut production.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-05-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Glass-Steagall Banking Act separates commercial and investment banking and creates the FDIC; the Hundred Days end.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1933-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1934"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1935-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1935-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In United States v. Butler the Supreme Court strikes down the Agricultural Adjustment Act's processing tax.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1936"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/new-orleans/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "A 2005 USGS statement to Congress put more than half of the city below sea level, some areas by as much as 10 feet, while the original city sat on natural river levees about 5 to 10 feet above sea level, and those old levees and sandy ridges remain above it.",
@@ -23617,6 +23768,90 @@
     "@id": "https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0055/1668949.pdf"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Teaching American History, Ashbrook Center (text from the American Presidency Project)",
+   "dcterms:title": "Acceptance Speech at the Democratic Convention (1932), Franklin D. Roosevelt",
+   "schema:url": {
+    "@id": "https://teachingamericanhistory.org/document/acceptance-speech-at-the-democratic-convention-1932/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "26.2 The First New Deal",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/26-2-the-first-new-deal"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "26.3 The Second New Deal",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/26-3-the-second-new-deal"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia (William E. Leuchtenburg)",
+   "dcterms:title": "Franklin D. Roosevelt: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/314"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Social Security Administration, Social Security Bulletin vol. 70 no. 4 (Larry DeWitt), 2010",
+   "dcterms:title": "The Decision to Exclude Agricultural and Domestic Workers from the 1935 Social Security Act",
+   "schema:url": {
+    "@id": "https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Bureau of Economic Research (Price V. Fishback, University of Arizona), 2016",
+   "dcterms:title": "How Successful Was the New Deal? The Microeconomic Impact of New Deal Spending and Lending Policies in the 1930s (Working Paper 21925)",
+   "schema:url": {
+    "@id": "https://www.nber.org/papers/w21925.pdf"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/new-orleans/s1",
@@ -45483,6 +45718,198 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/native-americans/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:new-deal",
+   "@type": "uso:Policy",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/new-deal/s6"
+    }
+   ],
+   "rdfs:label": "New Deal",
+   "schema:endDate": {
+    "@type": "xsd:gYear",
+    "@value": "1938"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1933-03"
+   },
+   "skos:altLabel": [
+    "First New Deal",
+    "Roosevelt's New Deal",
+    "Second New Deal",
+    "The New Deal"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The set of federal laws, agencies and programs that Franklin D. Roosevelt's administration and Congress created from 1933 to 1938 to bring relief, recovery and reform during the Great Depression, from bank rescue and public works jobs to Social Security, union rights and a federal minimum wage.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war"
+   },
+   "skos:prefLabel": "New Deal",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:agricultural-adjustment-act"
+    },
+    {
+     "@id": "us:civilian-conservation-corps"
+    },
+    {
+     "@id": "us:dust-bowl"
+    },
+    {
+     "@id": "us:eleanor-roosevelt"
+    },
+    {
+     "@id": "us:fair-labor-standards-act"
+    },
+    {
+     "@id": "us:frances-perkins"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:hoover-dam"
+    },
+    {
+     "@id": "us:indian-reorganization-act"
+    },
+    {
+     "@id": "us:judicial-procedures-reform-bill-of-1937"
+    },
+    {
+     "@id": "us:minimum-wage"
+    },
+    {
+     "@id": "us:national-industrial-recovery-act"
+    },
+    {
+     "@id": "us:national-labor-relations-act"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:schechter-poultry-corp-v-united-states"
+    },
+    {
+     "@id": "us:social-security-act"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:tennessee-valley-authority"
+    },
+    {
+     "@id": "us:works-progress-administration"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:agriculture-in-the-united-states"
+    }
+   ],
+   "uso:domain": "depression-and-world-war",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/depression-and-world-war/new-deal.md",
+   "uso:introducedBy": {
+    "@id": "us:franklin-d-roosevelt"
+   },
+   "uso:ledTo": [
+    {
+     "@id": "us:fair-labor-standards-act"
+    },
+    {
+     "@id": "us:indian-reorganization-act"
+    },
+    {
+     "@id": "us:social-security-act"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:great-depression"
+   },
+   "uso:requires": {
+    "@id": "us:great-depression"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9"
     }
    ]
   },

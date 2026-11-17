@@ -14152,6 +14152,246 @@
   ]
  },
  {
+  "id": "us:new-deal",
+  "title": "New Deal",
+  "aliases": [
+   "The New Deal",
+   "First New Deal",
+   "Second New Deal",
+   "Roosevelt's New Deal"
+  ],
+  "type": "Policy",
+  "domain": "depression-and-world-war",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/depression-and-world-war/new-deal.md",
+  "created": "2026-11-17",
+  "summary": "The set of federal laws, agencies and programs that Franklin D. Roosevelt's administration and Congress created from 1933 to 1938 to bring relief, recovery and reform during the Great Depression, from bank rescue and public works jobs to Social Security, union rights and a federal minimum wage.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:economic-history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:social-security-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fair-labor-standards-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-reorganization-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:works-progress-administration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civilian-conservation-corps"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tennessee-valley-authority"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-labor-relations-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:agricultural-adjustment-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-industrial-recovery-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:schechter-poultry-corp-v-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-procedures-reform-bill-of-1937"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:frances-perkins"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:eleanor-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:minimum-wage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dust-bowl"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hoover-dam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:franklin-d-roosevelt",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:great-depression",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:social-security-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:fair-labor-standards-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:indian-reorganization-act",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:agriculture-in-the-united-states",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1933-03",
+  "end": "1938",
+  "review": [
+   {
+    "question": "Why did the Supreme Court's 1935–36 rulings threaten the New Deal, and how did that change after 1937?",
+    "answer": "In Schechter (1935) the Court struck down the National Industrial Recovery Act for delegating too much power and reaching intrastate commerce, and in Butler (1936) it struck down the Agricultural Adjustment Act's tax; after Roosevelt's failed 1937 plan to enlarge the Court, the justices began upholding laws such as the Wagner Act and Social Security and did not strike down another major New Deal law."
+   },
+   {
+    "question": "How could a farm program meant to help farmers end up hurting many of the poorest people in agriculture?",
+    "answer": "The AAA paid landowners to take land out of production, so its payments mostly went to large farmers rather than to the Black and white tenant farmers, sharecroppers and farm workers who lost work when acreage was cut."
+   },
+   {
+    "question": "Why do historians disagree about why farm and domestic workers were left out of Social Security in 1935?",
+    "answer": "Some scholars argue Southern Democrats engineered the exclusion to keep Black workers out, since 65 percent of Black workers fell in excluded jobs; SSA historian Larry DeWitt argues the record shows it came from Treasury concerns about collecting payroll taxes from scattered workers, and notes most of those excluded were white and coverage was extended in 1950 and 1954."
+   },
+   {
+    "question": "Why do economists such as Price Fishback argue New Deal spending was too small to end the Depression on its own?",
+    "answer": "Federal outlays by 1939 were only about 8 percent of 1929 GDP above their 1929 level, tax increases kept deficits small, and public works and relief raised incomes by roughly a dollar per dollar spent while adding little private employment."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1932-07-02",
+    "event": "Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people."
+   },
+   {
+    "date": "1933-03-09",
+    "event": "Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it."
+   },
+   {
+    "date": "1933-03-12",
+    "event": "Roosevelt's first fireside chat urges Americans to return their savings to reopened banks."
+   },
+   {
+    "date": "1933-05-12",
+    "event": "The Agricultural Adjustment Act begins paying farmers to cut production."
+   },
+   {
+    "date": "1933-06",
+    "event": "The Glass-Steagall Banking Act separates commercial and investment banking and creates the FDIC; the Hundred Days end."
+   },
+   {
+    "date": "1934",
+    "event": "The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government."
+   },
+   {
+    "date": "1935-05",
+    "event": "In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act."
+   },
+   {
+    "date": "1935-06",
+    "event": "Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act."
+   },
+   {
+    "date": "1936",
+    "event": "In United States v. Butler the Supreme Court strikes down the Agricultural Adjustment Act's processing tax."
+   },
+   {
+    "date": "1937",
+    "event": "In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws."
+   },
+   {
+    "date": "1937",
+    "event": "Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third."
+   },
+   {
+    "date": "1938",
+    "event": "The Fair Labor Standards Act sets a minimum wage and a 40-hour week, the last major New Deal law."
+   }
+  ],
+  "misconception": {
+   "myth": "The New Deal ended the Great Depression.",
+   "fact": "The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II.",
+   "why": "The New Deal's most visible achievements, such as Social Security and public works, outlasted the Depression, so the program is often remembered as the cure rather than as a partial recovery cut short by the 1937 recession."
+  },
+  "source_urls": [
+   "https://teachingamericanhistory.org/document/acceptance-speech-at-the-democratic-convention-1932/",
+   "https://openstax.org/books/us-history/pages/26-2-the-first-new-deal",
+   "https://openstax.org/books/us-history/pages/26-3-the-second-new-deal",
+   "https://millercenter.org/node/314",
+   "https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html",
+   "https://www.nber.org/papers/w21925.pdf"
+  ]
+ },
+ {
   "id": "us:new-orleans",
   "title": "New Orleans",
   "aliases": [

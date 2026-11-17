@@ -505,6 +505,15 @@
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s7> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s8> .
 <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/new-deal.md" .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> .
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> .
 <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
 <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/depression-and-world-war/world-war-ii-and-the-united-states.md" .
@@ -8626,6 +8635,167 @@
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
   <https://github.com/john1hsu/usa-graph/id/source/japanese-american-incarceration/s9> <https://schema.org/url> <https://newsdesk.si.edu/releases/smithsonian-marks-75th-anniversary-executive-order-9066> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/new-deal#graph> {
+  <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The New Deal ended the Great Depression." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The New Deal's most visible achievements, such as Social Security and public works, outlasted the Depression, so the program is often remembered as the cure rather than as a partial recovery cut short by the 1937 recession." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Supreme Court's 1935–36 rulings threaten the New Deal, and how did that change after 1937?" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "In Schechter (1935) the Court struck down the National Industrial Recovery Act for delegating too much power and reaching intrastate commerce, and in Butler (1936) it struck down the Agricultural Adjustment Act's tax; after Roosevelt's failed 1937 plan to enlarge the Court, the justices began upholding laws such as the Wagner Act and Social Security and did not strike down another major New Deal law." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How could a farm program meant to help farmers end up hurting many of the poorest people in agriculture?" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The AAA paid landowners to take land out of production, so its payments mostly went to large farmers rather than to the Black and white tenant farmers, sharecroppers and farm workers who lost work when acreage was cut." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians disagree about why farm and domestic workers were left out of Social Security in 1935?" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some scholars argue Southern Democrats engineered the exclusion to keep Black workers out, since 65 percent of Black workers fell in excluded jobs; SSA historian Larry DeWitt argues the record shows it came from Treasury concerns about collecting payroll taxes from scattered workers, and notes most of those excluded were white and coverage was extended in 1950 and 1954." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do economists such as Price Fishback argue New Deal spending was too small to end the Depression on its own?" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Federal outlays by 1939 were only about 8 percent of 1929 GDP above their 1929 level, tax increases kept deficits small, and public works and relief raised incomes by roughly a dollar per dollar spent while adding little private employment." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Spending cuts help bring on a sharp recession beginning in the fall; industrial production falls by a third." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Fair Labor Standards Act sets a minimum wage and a 40-hour week, the last major New Deal law." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Accepting the Democratic nomination in Chicago, Franklin D. Roosevelt pledges a new deal for the American people." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt's first fireside chat urges Americans to return their savings to reopened banks." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Agricultural Adjustment Act begins paying farmers to cut production." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Glass-Steagall Banking Act separates commercial and investment banking and creates the FDIC; the Hundred Days end." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Indian Reorganization Act ends the allotment policy of the Dawes Act and encourages tribal self-government." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "In United States v. Butler the Supreme Court strikes down the Agricultural Adjustment Act's processing tax." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1936"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Policy> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2000/01/rdf-schema#label> "New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#altLabel> "First New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#altLabel> "Roosevelt's New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#altLabel> "Second New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#altLabel> "The New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#definition> "The set of federal laws, agencies and programs that Franklin D. Roosevelt's administration and Congress created from 1933 to 1938 to bring relief, recovery and reform during the Great Depression, from bank rescue and public works jobs to Social Security, union rights and a federal minimum wage." .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/depression-and-world-war> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/agricultural-adjustment-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civilian-conservation-corps> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/eleanor-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frances-perkins> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-procedures-reform-bill-of-1937> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-industrial-recovery-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/schechter-poultry-corp-v-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tennessee-valley-authority> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/works-progress-administration> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#domain> "depression-and-world-war" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/depression-and-world-war/new-deal.md" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#introducedBy> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://schema.org/endDate> "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <https://schema.org/startDate> "1933-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/publisher> "Teaching American History, Ashbrook Center (text from the American Presidency Project)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://purl.org/dc/terms/title> "Acceptance Speech at the Democratic Convention (1932), Franklin D. Roosevelt" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s1> <https://schema.org/url> <https://teachingamericanhistory.org/document/acceptance-speech-at-the-democratic-convention-1932/> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <http://purl.org/dc/terms/title> "26.2 The First New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/26-2-the-first-new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <http://purl.org/dc/terms/title> "26.3 The Second New Deal" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s3> <https://schema.org/url> <https://openstax.org/books/us-history/pages/26-3-the-second-new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia (William E. Leuchtenburg)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <http://purl.org/dc/terms/title> "Franklin D. Roosevelt: Domestic Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s4> <https://schema.org/url> <https://millercenter.org/node/314> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <http://purl.org/dc/terms/publisher> "Social Security Administration, Social Security Bulletin vol. 70 no. 4 (Larry DeWitt), 2010" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <http://purl.org/dc/terms/title> "The Decision to Exclude Agricultural and Domestic Workers from the 1935 Social Security Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s5> <https://schema.org/url> <https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p49.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Price V. Fishback, University of Arizona), 2016" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <http://purl.org/dc/terms/title> "How Successful Was the New Deal? The Microeconomic Impact of New Deal Spending and Lending Policies in the 1930s (Working Paper 21925)" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/new-deal/s6> <https://schema.org/url> <https://www.nber.org/papers/w21925.pdf> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states#graph> {
@@ -21600,20 +21770,24 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/equal-protection> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/african-methodist-episcopal-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/agreement-for-bringing-peace-to-afghanistan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/agricultural-adjustment-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/agriculture-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/agua-clara-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
   <https://github.com/john1hsu/usa-graph/id/agua-clara-locks> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/aint-i-a-woman-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
@@ -22429,6 +22603,7 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/civilian-conservation-corps> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/claudette-colvin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/clayton-bulwer-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/coal-and-iron-police> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
@@ -22845,17 +23020,20 @@
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/eastern-shoshone-tribe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/edwards-v-california> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/eleanor-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/eleanor-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/elizabeth-cady-stanton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
@@ -22921,7 +23099,9 @@
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/farewell-address> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/farm-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
@@ -23111,6 +23291,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
@@ -23152,6 +23333,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/franklin-turkey-national-bird-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
@@ -23381,8 +23563,10 @@
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/great-depression> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -23590,6 +23774,7 @@
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#commemoratedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/herbert-hoover> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -23762,6 +23947,8 @@
   <https://github.com/john1hsu/usa-graph/id/indian-removal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/indian-self-determination-and-education-assistance-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/indian-self-determination-and-education-assistance-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
@@ -23980,6 +24167,7 @@
   <https://github.com/john1hsu/usa-graph/id/jonathan-baldwin-turner> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/joseph-henry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/joseph-mccarthy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
+  <https://github.com/john1hsu/usa-graph/id/judicial-procedures-reform-bill-of-1937> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/judicial-procedures-reform-bill-of-1937> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/judicial-review/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/judicial-review/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -24575,6 +24763,8 @@
   <https://github.com/john1hsu/usa-graph/id/national-freedom-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/national-grasslands> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/national-guard-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/national-industrial-recovery-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/national-park-protection-act-of-1894> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/national-park-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/national-park-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -24654,6 +24844,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
@@ -24678,14 +24869,28 @@
   <https://github.com/john1hsu/usa-graph/id/nevada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/nevada> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
-  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -25243,6 +25448,7 @@
   <https://github.com/john1hsu/usa-graph/id/sand-creek-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/sandra-day-oconnor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/sarah-josepha-hale> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
+  <https://github.com/john1hsu/usa-graph/id/schechter-poultry-corp-v-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
@@ -25499,6 +25705,8 @@
   <https://github.com/john1hsu/usa-graph/id/smithsonian-tropical-research-institute> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/social-security-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/social-security-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/society-of-the-cincinnati> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-act-of-1935> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/soil-conservation-service> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
@@ -25675,6 +25883,7 @@
   <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/telephone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/tennessee-valley-authority> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -26524,6 +26733,7 @@
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/work-songs> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/blues> .
+  <https://github.com/john1hsu/usa-graph/id/works-progress-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/world-trade-center> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .

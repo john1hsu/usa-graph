@@ -31,7 +31,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
-| `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
+| `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
+| `us:new-deal` | 5 | African Americans, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act, social-security-act |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, Haudenosaunee, continental-army, treaty-of-alliance-1778 |
 | `us:abolitionism` | 4 | Thirteenth Amendment, Women's suffrage movement, liberty-party, republican-party |
 | `us:chinese-exclusion-act` | 4 | Chinese Americans, chae-chan-ping-v-united-states, geary-act, paper-sons |
@@ -57,9 +58,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 | `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
-| `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 
-…and 72 more.
+…and 73 more.
 
 ## Happenings by era
 
@@ -76,6 +76,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
 | `us:gilded-age` | `us:hayden-geological-survey-of-1871` | 1871-06 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
+| `us:great-depression` | `us:new-deal` | 1933-03 |
 | `us:progressive-era` | `us:womens-suffrage-movement` | 1848-07-19 |
 
 ## Myths, contested claims and debated interpretations
@@ -115,7 +116,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 
-…and 22 more.
+…and 23 more.
 
 ## Places with nothing tied to them (gap)
 

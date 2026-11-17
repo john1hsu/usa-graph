@@ -724,6 +724,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What did the redress movement achieve, and how?
   **A:** Japanese American organizations pressed Congress, which created a commission in 1980; its findings and recommendations led to the Civil Liberties Act of 1988, which apologized, paid $20,000 to each surviving incarcerated person (82,219 people in all) and funded public education.
 
+### [New Deal](../articles/depression-and-world-war/new-deal.md) — Policy
+
+| Myth | Fact |
+|---|---|
+| The New Deal ended the Great Depression. | The New Deal brought relief and growth after 1933, but unemployment was still above 19 percent in 1939 and around 15 percent in 1940; full recovery came with wartime mobilization for World War II. |
+
+**Why it matters:** The New Deal's most visible achievements, such as Social Security and public works, outlasted the Depression, so the program is often remembered as the cure rather than as a partial recovery cut short by the 1937 recession.
+
+- **Q:** Why did the Supreme Court's 1935–36 rulings threaten the New Deal, and how did that change after 1937?
+  **A:** In Schechter (1935) the Court struck down the National Industrial Recovery Act for delegating too much power and reaching intrastate commerce, and in Butler (1936) it struck down the Agricultural Adjustment Act's tax; after Roosevelt's failed 1937 plan to enlarge the Court, the justices began upholding laws such as the Wagner Act and Social Security and did not strike down another major New Deal law.
+- **Q:** How could a farm program meant to help farmers end up hurting many of the poorest people in agriculture?
+  **A:** The AAA paid landowners to take land out of production, so its payments mostly went to large farmers rather than to the Black and white tenant farmers, sharecroppers and farm workers who lost work when acreage was cut.
+- **Q:** Why do historians disagree about why farm and domestic workers were left out of Social Security in 1935?
+  **A:** Some scholars argue Southern Democrats engineered the exclusion to keep Black workers out, since 65 percent of Black workers fell in excluded jobs; SSA historian Larry DeWitt argues the record shows it came from Treasury concerns about collecting payroll taxes from scattered workers, and notes most of those excluded were white and coverage was extended in 1950 and 1954.
+- **Q:** Why do economists such as Price Fishback argue New Deal spending was too small to end the Depression on its own?
+  **A:** Federal outlays by 1939 were only about 8 percent of 1929 GDP above their 1929 level, tax increases kept deficits small, and public works and relief raised incomes by roughly a dollar per dollar spent while adding little private employment.
+
 ### [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) — Conflict
 
 | Myth | Fact |
