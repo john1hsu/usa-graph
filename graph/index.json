@@ -6394,6 +6394,190 @@
   ]
  },
  {
+  "id": "us:federalist-papers",
+  "title": "The Federalist Papers",
+  "aliases": [
+   "The Federalist",
+   "Federalist Papers",
+   "Publius essays"
+  ],
+  "type": "Document",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/constitution-and-government/federalist-papers.md",
+  "created": "2026-11-17",
+  "summary": "A series of 85 essays written by Alexander Hamilton, James Madison and John Jay under the pen name \"Publius\" and published in New York in 1787–1788 to urge ratification of the proposed Constitution; later collected as The Federalist and widely used to explain the Constitution's design.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:founding-documents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ratification-of-the-constitution"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:anti-federalists"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:separation-of-powers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:checks-and-balances"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-compromise"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:alexander-hamilton",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:james-madison",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-jay",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:new-york-city",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:ratification-of-the-constitution",
+    "source": "s2",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1787-10-27",
+  "end": "1788-05-28",
+  "review": [
+   {
+    "question": "Why did Madison argue in Federalist No. 10 that a large republic would control faction better than a small one?",
+    "answer": "Because the causes of faction are rooted in human nature and cannot be removed without destroying liberty, the effects must be controlled; a large republic takes in more parties and interests, so a majority is less likely to share a motive to oppress others and harder to organize if it does."
+   },
+   {
+    "question": "How did the timing of New York's ratification complicate claims that the essays decided the outcome?",
+    "answer": "The convention met with Antifederalists outnumbering Federalists by more than two to one even after most essays had run, and it ratified narrowly, 30 to 27, only after New Hampshire and Virginia had ratified and the new government was going ahead."
+   },
+   {
+    "question": "Why do some legal scholars question relying on The Federalist to interpret the Constitution?",
+    "answer": "Critics doubt that background texts should settle constitutional meaning at all, and they note that the essays were partisan newspaper advocacy written to win a ratification fight rather than neutral explanations."
+   },
+   {
+    "question": "How did Federalist No. 54 treat enslaved people in its defence of the apportionment rule?",
+    "answer": "Speaking through an imagined Southern voice, it argued that the law treated enslaved people as both property and persons and accepted counting them as partial persons, three fifths, for representation and direct taxes."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1787-09-17",
+    "event": "The Philadelphia Convention proposes the Constitution and sends it to the states for ratification."
+   },
+   {
+    "date": "1787-10-27",
+    "event": "The first Publius essay appears in the Independent Journal in New York City."
+   },
+   {
+    "date": "1787-11-23",
+    "event": "Madison's essay on faction, later numbered No. 10, appears in the New York Packet."
+   },
+   {
+    "date": "1788-02-12",
+    "event": "The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet."
+   },
+   {
+    "date": "1788-03-22",
+    "event": "John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton."
+   },
+   {
+    "date": "1788-04-02",
+    "event": "The 76th essay of the newspaper run appears; the rest first appear in the bound volumes."
+   },
+   {
+    "date": "1788-05-28",
+    "event": "McLean publishes the second volume, bringing the collection to 85 essays."
+   },
+   {
+    "date": "1788-06-17",
+    "event": "New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one."
+   },
+   {
+    "date": "1788-07-26",
+    "event": "New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified."
+   },
+   {
+    "date": "1788-08-16",
+    "event": "Newspaper reprinting of the essays that first appeared in the second volume ends."
+   },
+   {
+    "date": "1818",
+    "event": "The Gideon edition prints the essays with Madison's own attributions of authorship."
+   },
+   {
+    "date": "1913",
+    "event": "Charles Beard makes Federalist No. 10 the centrepiece of his economic critique of the framers."
+   }
+  ],
+  "misconception": {
+   "myth": "The Federalist Papers won over New York and carried the state into ratifying the Constitution.",
+   "fact": "Seventy-six essays had run in New York City newspapers by April 2, 1788, yet the state convention that met in June still had Antifederalists outnumbering Federalists by more than two to one. New York ratified by only 30 to 27, and only after news arrived that New Hampshire had become the ninth state to ratify and Virginia the tenth, which left New York facing a union that would go ahead without it.",
+   "why": "The essays' later fame as the classic commentary on the Constitution is read back into 1788, when contemporaries, including some Federalists, found them too long and learned for many readers and when the decisive pressures on New York were the other states' votes."
+  },
+  "source_urls": [
+   "https://founders.archives.gov/documents/Hamilton/01-04-02-0151-0001",
+   "https://csac.history.wisc.edu/wp-content/uploads/sites/281/2023/12/DC6-04-00.2_An-Introduction-to-The-Federalist.pdf",
+   "https://archive.csac.history.wisc.edu/essay_newyork.pdf",
+   "https://avalon.law.yale.edu/18th_century/fed10.asp",
+   "https://avalon.law.yale.edu/18th_Century/fed54.asp",
+   "https://scholarship.law.duke.edu/dlj/vol56/iss2/2",
+   "https://jackmillercenter.org/greg-weiner-rethinking-federalist-10/"
+  ]
+ },
+ {
   "id": "us:fifteenth-amendment",
   "title": "Fifteenth Amendment",
   "aliases": [

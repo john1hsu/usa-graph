@@ -226,14 +226,25 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-08 | A bargain between New England and Deep South delegates protects the Atlantic slave trade until 1808. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-17 | **[United States Constitution](../articles/constitution-and-government/united-states-constitution.md)** (Document) |
 | 1787-09-17 | Delegates sign the finished four-page Constitution in Philadelphia. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1787-09-17 | The Philadelphia Convention proposes the Constitution and sends it to the states for ratification. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1787-09-17 | Thirty-eight delegates sign thirty-nine names to the finished Constitution; three present delegates refuse. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-09-28 | Congress unanimously resolves to send the Constitution to the states for ratifying conventions. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-10-27 – 1788-05-28 | **[The Federalist Papers](../articles/constitution-and-government/federalist-papers.md)** (Document) |
+| 1787-10-27 | The first Publius essay appears in the Independent Journal in New York City. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1787-11-23 | Madison's essay on faction, later numbered No. 10, appears in the New York Packet. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1787-12-07 | Delaware becomes the first state to ratify. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-12-07 | Delaware becomes the first state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1787-12-12 | **[Pennsylvania](../articles/states-and-territories/pennsylvania.md)** (State) |
 | 1787-12-12 | Pennsylvania becomes the second state to ratify the U.S. Constitution. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1788-02-12 | The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-03-22 | John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-04-02 | The 76th essay of the newspaper run appears; the rest first appear in the bound volumes. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-05-28 | McLean publishes the second volume, bringing the collection to 85 essays. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-06-17 | New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1788-07-26 | New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-08-16 | Newspaper reprinting of the essays that first appeared in the second volume ends. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1789 | The present-day Constitution goes into effect, replacing the Articles. — [United States](../articles/states-and-territories/united-states.md) |
 | 1789-03-04 | **[United States Congress](../articles/constitution-and-government/united-states-congress.md)** (Institution) |
@@ -338,6 +349,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1816-04 | President James Madison signs the act chartering the Second Bank of the United States for twenty years. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1817-01 | The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1818 | The Gideon edition prints the essays with Madison's own attributions of authorship. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1818-02-11 | Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
@@ -972,6 +984,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1912-08 | Leads the new Progressive ("Bull Moose") Party after losing the Republican nomination to William Howard Taft. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1912-10-14 | Shot in Milwaukee before a speech; his folded speech and spectacle case slow the bullet. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1913 | AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment). — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
+| 1913 | Charles Beard makes Federalist No. 10 the centrepiece of his economic critique of the framers. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1913-03-03 | Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1913-03-17 | Sworn in as assistant secretary of the Navy. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |

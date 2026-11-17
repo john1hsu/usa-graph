@@ -5229,6 +5229,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Seventy-six essays had run in New York City newspapers by April 2, 1788, yet the state convention that met in June still had Antifederalists outnumbering Federalists by more than two to one. New York ratified by only 30 to 27, and only after news arrived that New Hampshire had become the ninth state to ratify and Virginia the tenth, which left New York facing a union that would go ahead without it.",
+   "uso:myth": "The Federalist Papers won over New York and carried the state into ratifying the Constitution.",
+   "uso:why": "The essays' later fame as the classic commentary on the Constitution is read back into 1788, when contemporaries, including some Federalists, found them too long and learned for many readers and when the decisive pressures on New York were the other states' votes."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Madison argue in Federalist No. 10 that a large republic would control faction better than a small one?",
+   "uso:answer": "Because the causes of faction are rooted in human nature and cannot be removed without destroying liberty, the effects must be controlled; a large republic takes in more parties and interests, so a majority is less likely to share a motive to oppress others and harder to organize if it does.",
+   "uso:questionFor": {
+    "@id": "us:federalist-papers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the timing of New York's ratification complicate claims that the essays decided the outcome?",
+   "uso:answer": "The convention met with Antifederalists outnumbering Federalists by more than two to one even after most essays had run, and it ratified narrowly, 30 to 27, only after New Hampshire and Virginia had ratified and the new government was going ahead.",
+   "uso:questionFor": {
+    "@id": "us:federalist-papers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do some legal scholars question relying on The Federalist to interpret the Constitution?",
+   "uso:answer": "Critics doubt that background texts should settle constitutional meaning at all, and they note that the essays were partisan newspaper advocacy written to win a ratification fight rather than neutral explanations.",
+   "uso:questionFor": {
+    "@id": "us:federalist-papers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Federalist No. 54 treat enslaved people in its defence of the apportionment rule?",
+   "uso:answer": "Speaking through an imagined Southern voice, it argued that the law treated enslaved people as both property and persons and accepted counting them as partial persons, three fifths, for representation and direct taxes.",
+   "uso:questionFor": {
+    "@id": "us:federalist-papers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Philadelphia Convention proposes the Constitution and sends it to the states for ratification.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-09-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Newspaper reprinting of the essays that first appeared in the second volume ends.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-08-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Gideon edition prints the essays with Madison's own attributions of authorship.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1818"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Charles Beard makes Federalist No. 10 the centrepiece of his economic critique of the framers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1913"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first Publius essay appears in the Independent Journal in New York City.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-10-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Madison's essay on faction, later numbered No. 10, appears in the New York Packet.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-11-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-02-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-03-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The 76th essay of the newspaper run appears; the rest first appear in the bound volumes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-04-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McLean publishes the second volume, bringing the collection to 85 essays.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-05-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-06-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-07-26"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/fifteenth-amendment/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The amendment only forbade denying the vote because of race, color or previous servitude; it conferred no right of suffrage on anyone, did not cover sex, so Black women were still excluded, and left states free to impose poll taxes, literacy tests and other qualifications that Southern states used to disfranchise most Black men until federal enforcement under the Voting Rights Act of 1965.",
@@ -18370,6 +18521,104 @@
     "@id": "https://history.house.gov/HistoricalHighlight/Detail/25769819198"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Founders Online, National Archives (The Papers of Alexander Hamilton)",
+   "dcterms:title": "Introductory Note: The Federalist, [27 October 1787–28 May 1788]",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Hamilton/01-04-02-0151-0001"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison",
+   "dcterms:title": "An Introduction to The Federalist (Documentary History of the Ratification of the Constitution, vol. XIII)",
+   "schema:url": {
+    "@id": "https://csac.history.wisc.edu/wp-content/uploads/sites/281/2023/12/DC6-04-00.2_An-Introduction-to-The-Federalist.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison",
+   "dcterms:title": "New York Ratifies the Constitution, 26 July 1788",
+   "schema:url": {
+    "@id": "https://archive.csac.history.wisc.edu/essay_newyork.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "The Federalist Papers: No. 10",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/fed10.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "The Federalist Papers: No. 54",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_Century/fed54.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Duke Law Journal, vol. 56, no. 2 (2006), Dan T. Coenen",
+   "dcterms:title": "A Rhetoric for Ratification: The Argument of The Federalist and Its Impact on Constitutional Interpretation",
+   "schema:url": {
+    "@id": "https://scholarship.law.duke.edu/dlj/vol56/iss2/2"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jack Miller Center",
+   "dcterms:title": "Greg Weiner: After Federalist No. 10",
+   "schema:url": {
+    "@id": "https://jackmillercenter.org/greg-weiner-rethinking-federalist-10/"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/fifteenth-amendment/s1",
@@ -38384,6 +38633,159 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:federalist-papers",
+   "@type": "uso:Document",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7"
+    }
+   ],
+   "rdfs:label": "The Federalist Papers",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1788-05-28"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1787-10-27"
+   },
+   "skos:altLabel": [
+    "Federalist Papers",
+    "Publius essays",
+    "The Federalist"
+   ],
+   "skos:broader": {
+    "@id": "us:founding-documents-of-the-united-states"
+   },
+   "skos:definition": "A series of 85 essays written by Alexander Hamilton, James Madison and John Jay under the pen name \"Publius\" and published in New York in 1787–1788 to urge ratification of the proposed Constitution; later collected as The Federalist and widely used to explain the Constitution's design.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "The Federalist Papers",
+   "skos:related": [
+    {
+     "@id": "us:anti-federalists"
+    },
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:checks-and-balances"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:judicial-review"
+    },
+    {
+     "@id": "us:new-york"
+    },
+    {
+     "@id": "us:ratification-of-the-constitution"
+    },
+    {
+     "@id": "us:separation-of-powers"
+    },
+    {
+     "@id": "us:three-fifths-compromise"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:ratification-of-the-constitution"
+   },
+   "uso:authoredBy": [
+    {
+     "@id": "us:alexander-hamilton"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:john-jay"
+    }
+   ],
+   "uso:domain": "constitution-and-government",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/constitution-and-government/federalist-papers.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:new-york-city"
+   },
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9"
     }
    ]
   },

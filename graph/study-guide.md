@@ -345,6 +345,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How does most of the Court's work reach it, and how selective is it?
   **A:** Most cases arrive as petitions for a writ of certiorari asking the Court to review a lower-court decision; four justices must agree to take a case, and of up to about ten thousand requests a year the Court accepts fewer than 2 percent.
 
+### [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) — Document
+
+| Myth | Fact |
+|---|---|
+| The Federalist Papers won over New York and carried the state into ratifying the Constitution. | Seventy-six essays had run in New York City newspapers by April 2, 1788, yet the state convention that met in June still had Antifederalists outnumbering Federalists by more than two to one. New York ratified by only 30 to 27, and only after news arrived that New Hampshire had become the ninth state to ratify and Virginia the tenth, which left New York facing a union that would go ahead without it. |
+
+**Why it matters:** The essays' later fame as the classic commentary on the Constitution is read back into 1788, when contemporaries, including some Federalists, found them too long and learned for many readers and when the decisive pressures on New York were the other states' votes.
+
+- **Q:** Why did Madison argue in Federalist No. 10 that a large republic would control faction better than a small one?
+  **A:** Because the causes of faction are rooted in human nature and cannot be removed without destroying liberty, the effects must be controlled; a large republic takes in more parties and interests, so a majority is less likely to share a motive to oppress others and harder to organize if it does.
+- **Q:** How did the timing of New York's ratification complicate claims that the essays decided the outcome?
+  **A:** The convention met with Antifederalists outnumbering Federalists by more than two to one even after most essays had run, and it ratified narrowly, 30 to 27, only after New Hampshire and Virginia had ratified and the new government was going ahead.
+- **Q:** Why do some legal scholars question relying on The Federalist to interpret the Constitution?
+  **A:** Critics doubt that background texts should settle constitutional meaning at all, and they note that the essays were partisan newspaper advocacy written to win a ratification fight rather than neutral explanations.
+- **Q:** How did Federalist No. 54 treat enslaved people in its defence of the apportionment rule?
+  **A:** Speaking through an imagined Southern voice, it argued that the law treated enslaved people as both property and persons and accepted counting them as partial persons, three fifths, for representation and direct taxes.
+
 ### [United States Congress](../articles/constitution-and-government/united-states-congress.md) — Institution
 
 | Myth | Fact |

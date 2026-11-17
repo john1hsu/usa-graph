@@ -224,6 +224,16 @@
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s8> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> .
 <https://github.com/john1hsu/usa-graph/id/constitutional-convention#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s10> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/federalist-papers.md" .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> .
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/constitution-and-government/judicial-review.md" .
@@ -4634,6 +4644,160 @@
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/constitutional-convention/s9> <https://schema.org/url> <https://www.nps.gov/articles/000/constitutionalconvention-september17.htm> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/federalist-papers#graph> {
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Seventy-six essays had run in New York City newspapers by April 2, 1788, yet the state convention that met in June still had Antifederalists outnumbering Federalists by more than two to one. New York ratified by only 30 to 27, and only after news arrived that New Hampshire had become the ninth state to ratify and Virginia the tenth, which left New York facing a union that would go ahead without it." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Federalist Papers won over New York and carried the state into ratifying the Constitution." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The essays' later fame as the classic commentary on the Constitution is read back into 1788, when contemporaries, including some Federalists, found them too long and learned for many readers and when the decisive pressures on New York were the other states' votes." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Madison argue in Federalist No. 10 that a large republic would control faction better than a small one?" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because the causes of faction are rooted in human nature and cannot be removed without destroying liberty, the effects must be controlled; a large republic takes in more parties and interests, so a majority is less likely to share a motive to oppress others and harder to organize if it does." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the timing of New York's ratification complicate claims that the essays decided the outcome?" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The convention met with Antifederalists outnumbering Federalists by more than two to one even after most essays had run, and it ratified narrowly, 30 to 27, only after New Hampshire and Virginia had ratified and the new government was going ahead." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do some legal scholars question relying on The Federalist to interpret the Constitution?" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Critics doubt that background texts should settle constitutional meaning at all, and they note that the essays were partisan newspaper advocacy written to win a ratification fight rather than neutral explanations." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did Federalist No. 54 treat enslaved people in its defence of the apportionment rule?" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Speaking through an imagined Southern voice, it argued that the law treated enslaved people as both property and persons and accepted counting them as partial persons, three fifths, for representation and direct taxes." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Newspaper reprinting of the essays that first appeared in the second volume ends." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Gideon edition prints the essays with Madison's own attributions of authorship." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1818"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Beard makes Federalist No. 10 the centrepiece of his economic critique of the framers." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Philadelphia Convention proposes the Constitution and sends it to the states for ratification." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The first Publius essay appears in the Independent Journal in New York City." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Madison's essay on faction, later numbered No. 10, appears in the New York Packet." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The 76th essay of the newspaper run appears; the rest first appear in the bound volumes." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "McLean publishes the second volume, bringing the collection to 85 essays." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2000/01/rdf-schema#label> "The Federalist Papers" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#altLabel> "Federalist Papers" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#altLabel> "Publius essays" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#altLabel> "The Federalist" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#definition> "A series of 85 essays written by Alexander Hamilton, James Madison and John Jay under the pen name \"Publius\" and published in New York in 1787–1788 to urge ratification of the proposed Constitution; later collected as The Federalist and widely used to explain the Constitution's design." .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Federalist Papers" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/anti-federalists> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/checks-and-balances> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-jay> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#domain> "constitution-and-government" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/constitution-and-government/federalist-papers.md" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://schema.org/endDate> "1788-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://schema.org/startDate> "1787-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives (The Papers of Alexander Hamilton)" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <http://purl.org/dc/terms/title> "Introductory Note: The Federalist, [27 October 1787–28 May 1788]" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s1> <https://schema.org/url> <https://founders.archives.gov/documents/Hamilton/01-04-02-0151-0001> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <http://purl.org/dc/terms/publisher> "Center for the Study of the American Constitution, University of Wisconsin–Madison" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <http://purl.org/dc/terms/title> "An Introduction to The Federalist (Documentary History of the Ratification of the Constitution, vol. XIII)" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s2> <https://schema.org/url> <https://csac.history.wisc.edu/wp-content/uploads/sites/281/2023/12/DC6-04-00.2_An-Introduction-to-The-Federalist.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <http://purl.org/dc/terms/publisher> "Center for the Study of the American Constitution, University of Wisconsin–Madison" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <http://purl.org/dc/terms/title> "New York Ratifies the Constitution, 26 July 1788" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s3> <https://schema.org/url> <https://archive.csac.history.wisc.edu/essay_newyork.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <http://purl.org/dc/terms/title> "The Federalist Papers: No. 10" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s4> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/fed10.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <http://purl.org/dc/terms/title> "The Federalist Papers: No. 54" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s5> <https://schema.org/url> <https://avalon.law.yale.edu/18th_Century/fed54.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <http://purl.org/dc/terms/publisher> "Duke Law Journal, vol. 56, no. 2 (2006), Dan T. Coenen" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <http://purl.org/dc/terms/title> "A Rhetoric for Ratification: The Argument of The Federalist and Its Impact on Constitutional Interpretation" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s6> <https://schema.org/url> <https://scholarship.law.duke.edu/dlj/vol56/iss2/2> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <http://purl.org/dc/terms/publisher> "Jack Miller Center" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <http://purl.org/dc/terms/title> "Greg Weiner: After Federalist No. 10" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/federalist-papers/s7> <https://schema.org/url> <https://jackmillercenter.org/greg-weiner-rethinking-federalist-10/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/judicial-review#graph> {
@@ -21320,9 +21484,12 @@
   <https://github.com/john1hsu/usa-graph/id/albany-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/albany-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/albany-plan> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+  <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/alfred-vail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/alger-hiss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -21476,6 +21643,7 @@
   <https://github.com/john1hsu/usa-graph/id/anthony-kennedy> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/anthracite-coal-strike-of-1902> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/anthracite-coal-strike-of-1902> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/anti-federalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/antiquities-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/antonio-lopez-de-santa-anna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -21516,6 +21684,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
@@ -21526,6 +21695,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -21914,6 +22084,7 @@
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/charter-of-privileges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/checks-and-balances> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/checks-and-balances> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -22199,6 +22370,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/confederation-period> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
@@ -22210,6 +22382,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -22287,6 +22460,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
@@ -22620,11 +22794,34 @@
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/federalism> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
-  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -22696,10 +22893,12 @@
   <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -23422,10 +23621,13 @@
   <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/james-k-polk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/james-k-polk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -23592,6 +23794,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-hancock> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-jay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-jay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/john-jay> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/john-jay> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/john-lewis-voting-rights-advancement-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall-harlan-ii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
@@ -24356,9 +24559,11 @@
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/new-york-factory-investigating-commission> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/sojourner-truth> .
   <https://github.com/john1hsu/usa-graph/id/new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
@@ -24751,7 +24956,9 @@
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/railroads-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/ratification-of-the-constitution> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/reapportionment-act-of-1929> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
@@ -24941,6 +25148,7 @@
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/separation-of-powers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/september-11-attacks/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25455,6 +25663,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
@@ -25554,6 +25763,7 @@
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/three-fifths-compromise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/thurgood-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/tom-ridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25773,6 +25983,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -25796,6 +26007,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/united-states-constitution> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .

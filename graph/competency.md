@@ -27,7 +27,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | node | reach | targets |
 |---|---|---|
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
-| `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, United States, United States Congress, bill-of-rights, federalist-papers |
+| `us:united-states-constitution` | 7 | Census and apportionment, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, agriculture-in-the-united-states, bonus-army, new-deal, reconstruction-finance-corporation |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, Haudenosaunee, continental-army, treaty-of-alliance-1778 |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 
-…and 70 more.
+…and 71 more.
 
 ## Happenings by era
 
@@ -94,6 +94,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
+| `us:federalist-papers` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:franklin-d-roosevelt` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
@@ -111,9 +112,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:lattimer-massacre` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
-| `us:marbury-v-madison` | interpretive | `us:thomas-jefferson` |
 
-…and 20 more.
+…and 21 more.
 
 ## Places with nothing tied to them (gap)
 
