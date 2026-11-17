@@ -3969,6 +3969,184 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "CDC estimates about 675,000 U.S. deaths in the 1918 pandemic, while recorded U.S. COVID-19 deaths reached 1 million by May 12, 2022, so in raw numbers COVID-19 was the deadlier outbreak in American history.",
+   "uso:myth": "The 1918 influenza pandemic killed more Americans than any other pandemic, including COVID-19.",
+   "uso:why": "The 1918 flu has long been remembered as the benchmark for a catastrophic pandemic, and the comparison is easy to miss because the two tolls were counted a century apart in a much smaller and a much larger country."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the federal government declare emergencies in early 2020, and what did that make possible?",
+   "uso:answer": "After the first confirmed case on January 20, HHS declared a public health emergency on January 31 and the administration declared a nationwide emergency on March 13, which gave federal agencies emergency powers that later supported free testing, Medicaid and Medicare flexibilities, and emergency use authorizations for vaccines.",
+   "uso:questionFor": {
+    "@id": "us:covid-19-pandemic-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the pandemic affect the U.S. labor market in spring 2020?",
+   "uso:answer": "Efforts to contain the virus shut down much of the economy, so in April 2020 payroll employment fell by 20.5 million and unemployment reached 14.7 percent, the highest rate and largest one-month rise in the series dating to 1948, with leisure and hospitality hit hardest.",
+   "uso:questionFor": {
+    "@id": "us:covid-19-pandemic-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did U.S. life expectancy fall in both 2020 and 2021, and which group lost the most?",
+   "uso:answer": "COVID-19 deaths accounted for about three-quarters of the 2020 decline and half of the 2021 decline; American Indian and Alaska Native people lost the most, 6.6 years between 2019 and 2021.",
+   "uso:questionFor": {
+    "@id": "us:covid-19-pandemic-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What changed, and what did not, when the public health emergency ended on May 11, 2023?",
+   "uso:answer": "Requirements that Medicare and private insurers cover COVID-19 tests without cost sharing ended and some reporting authority lapsed, but vaccines stayed free, treatments stayed available, and existing emergency use authorizations were unaffected.",
+   "uso:questionFor": {
+    "@id": "us:covid-19-pandemic-in-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "CDC reports the first laboratory-confirmed U.S. case, in Washington state, and activates its Emergency Operations Center.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-01-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-12-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-12-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Delta variant becomes dominant in the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-06-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first U.S. case of the Omicron variant is detected in California.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2021-12-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Recorded U.S. COVID-19 deaths reach 1 million.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2022-05-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The federal COVID-19 public health emergency expires at the end of the day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2023-05-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "HHS Secretary Alex Azar declares a public health emergency; WHO declares a public health emergency of international concern the same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-01-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first U.S. death from laboratory-confirmed COVID-19 is reported in Washington state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-02-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "WHO declares COVID-19 a pandemic.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-03-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Trump administration declares a nationwide emergency.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-03-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The CARES Act (Public Law 116-136) is approved.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The administration launches Operation Warp Speed to speed development of a vaccine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-05-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Recorded U.S. COVID-19 deaths pass 100,000.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-05-28"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/declaration-of-independence/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Congress approved the text on July 4, but it ordered a parchment copy for signing only on July 19; most delegates signed on August 2, 1776, a few signed later that year, and Thomas McKean signed sometime after January 1777.",
@@ -17690,6 +17868,90 @@
    "dcterms:title": "September 17, 1787: The Constitution Is Signed",
    "schema:url": {
     "@id": "https://www.nps.gov/articles/000/constitutionalconvention-september17.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Centers for Disease Control and Prevention (David J. Sencer CDC Museum)",
+   "dcterms:title": "CDC Museum COVID-19 Timeline",
+   "schema:url": {
+    "@id": "https://www.cdc.gov/museum/timeline/covid19.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Department of Health and Human Services",
+   "dcterms:title": "Fact Sheet: End of the COVID-19 Public Health Emergency",
+   "schema:url": {
+    "@id": "https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-of-the-covid-19-public-health-emergency.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+   "dcterms:title": "Commissioner's Statement on the Employment Situation News Release (May 8, 2020)",
+   "schema:url": {
+    "@id": "https://www.bls.gov/news.release/archives/jec_05082020.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+   "dcterms:title": "Public Law 116-136 - Coronavirus Aid, Relief, and Economic Security Act (CARES Act)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/app/details/PLAW-116publ136"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Center for Health Statistics, CDC",
+   "dcterms:title": "Life Expectancy in the U.S. Dropped for the Second Year in a Row in 2021",
+   "schema:url": {
+    "@id": "https://www.cdc.gov/nchs/pressroom/releases/20220831.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Centers for Disease Control and Prevention",
+   "dcterms:title": "1918 Pandemic (H1N1 virus)",
+   "schema:url": {
+    "@id": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html"
    },
    "uso:sourceType": "government"
   },
@@ -37788,6 +38050,155 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/constitutional-convention/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:covid-19-pandemic-in-the-united-states",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/covid-19-pandemic-in-the-united-states/s6"
+    }
+   ],
+   "rdfs:label": "COVID-19 pandemic in the United States",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "2023-05-11"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "2020-01-20"
+   },
+   "skos:altLabel": [
+    "Coronavirus pandemic in the United States",
+    "SARS-CoV-2 pandemic in the United States",
+    "U.S. COVID-19 public health emergency"
+   ],
+   "skos:broader": [
+    {
+     "@id": "us:health-care-in-the-united-states"
+    },
+    {
+     "@id": "us:united-states"
+    }
+   ],
+   "skos:definition": "The spread of the coronavirus disease COVID-19 across the United States from the first confirmed case in January 2020, which killed more than a million Americans by May 2022, cut life expectancy for two years running, set off the sharpest jump in unemployment on record, and led to emergency relief laws and a rapid vaccine campaign before the federal public health emergency ended on May 11, 2023.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/contemporary-america"
+   },
+   "skos:prefLabel": "COVID-19 pandemic in the United States",
+   "skos:related": [
+    {
+     "@id": "us:1918-influenza-pandemic"
+    },
+    {
+     "@id": "us:affordable-care-act"
+    },
+    {
+     "@id": "us:cares-act"
+    },
+    {
+     "@id": "us:department-of-homeland-security"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:operation-warp-speed"
+    },
+    {
+     "@id": "us:united-states-congress"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:native-americans"
+   },
+   "uso:contrastsWith": {
+    "@id": "us:1918-influenza-pandemic"
+   },
+   "uso:domain": "contemporary-america",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/contemporary-america/covid-19-pandemic-in-the-united-states.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:cares-act"
+    },
+    {
+     "@id": "us:operation-warp-speed"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states/timeline/9"
     }
    ]
   },

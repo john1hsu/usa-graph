@@ -4845,6 +4845,185 @@
   ]
  },
  {
+  "id": "us:covid-19-pandemic-in-the-united-states",
+  "title": "COVID-19 pandemic in the United States",
+  "aliases": [
+   "Coronavirus pandemic in the United States",
+   "SARS-CoV-2 pandemic in the United States",
+   "U.S. COVID-19 public health emergency"
+  ],
+  "type": "Event",
+  "domain": "contemporary-america",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/contemporary-america/covid-19-pandemic-in-the-united-states.md",
+  "created": "2026-11-17",
+  "summary": "The spread of the coronavirus disease COVID-19 across the United States from the first confirmed case in January 2020, which killed more than a million Americans by May 2022, cut life expectancy for two years running, set off the sharpest jump in unemployment on record, and led to emergency relief laws and a rapid vaccine campaign before the federal public health emergency ended on May 11, 2023.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:health-care-in-the-united-states"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:1918-influenza-pandemic"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cares-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:operation-warp-speed"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:affordable-care-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:department-of-homeland-security"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:cares-act",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:operation-warp-speed",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:native-americans",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:contrastsWith",
+    "object": "us:1918-influenza-pandemic",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "start": "2020-01-20",
+  "end": "2023-05-11",
+  "review": [
+   {
+    "question": "Why did the federal government declare emergencies in early 2020, and what did that make possible?",
+    "answer": "After the first confirmed case on January 20, HHS declared a public health emergency on January 31 and the administration declared a nationwide emergency on March 13, which gave federal agencies emergency powers that later supported free testing, Medicaid and Medicare flexibilities, and emergency use authorizations for vaccines."
+   },
+   {
+    "question": "How did the pandemic affect the U.S. labor market in spring 2020?",
+    "answer": "Efforts to contain the virus shut down much of the economy, so in April 2020 payroll employment fell by 20.5 million and unemployment reached 14.7 percent, the highest rate and largest one-month rise in the series dating to 1948, with leisure and hospitality hit hardest."
+   },
+   {
+    "question": "Why did U.S. life expectancy fall in both 2020 and 2021, and which group lost the most?",
+    "answer": "COVID-19 deaths accounted for about three-quarters of the 2020 decline and half of the 2021 decline; American Indian and Alaska Native people lost the most, 6.6 years between 2019 and 2021."
+   },
+   {
+    "question": "What changed, and what did not, when the public health emergency ended on May 11, 2023?",
+    "answer": "Requirements that Medicare and private insurers cover COVID-19 tests without cost sharing ended and some reporting authority lapsed, but vaccines stayed free, treatments stayed available, and existing emergency use authorizations were unaffected."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2020-01-20",
+    "event": "CDC reports the first laboratory-confirmed U.S. case, in Washington state, and activates its Emergency Operations Center."
+   },
+   {
+    "date": "2020-01-31",
+    "event": "HHS Secretary Alex Azar declares a public health emergency; WHO declares a public health emergency of international concern the same day."
+   },
+   {
+    "date": "2020-02-29",
+    "event": "The first U.S. death from laboratory-confirmed COVID-19 is reported in Washington state."
+   },
+   {
+    "date": "2020-03-11",
+    "event": "WHO declares COVID-19 a pandemic."
+   },
+   {
+    "date": "2020-03-13",
+    "event": "The Trump administration declares a nationwide emergency."
+   },
+   {
+    "date": "2020-03-27",
+    "event": "The CARES Act (Public Law 116-136) is approved."
+   },
+   {
+    "date": "2020-04-30",
+    "event": "The administration launches Operation Warp Speed to speed development of a vaccine."
+   },
+   {
+    "date": "2020-05-08",
+    "event": "BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs."
+   },
+   {
+    "date": "2020-05-28",
+    "event": "Recorded U.S. COVID-19 deaths pass 100,000."
+   },
+   {
+    "date": "2020-12-11",
+    "event": "FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine."
+   },
+   {
+    "date": "2020-12-14",
+    "event": "New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine."
+   },
+   {
+    "date": "2021-06-01",
+    "event": "The Delta variant becomes dominant in the United States."
+   },
+   {
+    "date": "2021-12-01",
+    "event": "The first U.S. case of the Omicron variant is detected in California."
+   },
+   {
+    "date": "2022-05-12",
+    "event": "Recorded U.S. COVID-19 deaths reach 1 million."
+   },
+   {
+    "date": "2023-05-11",
+    "event": "The federal COVID-19 public health emergency expires at the end of the day."
+   }
+  ],
+  "misconception": {
+   "myth": "The 1918 influenza pandemic killed more Americans than any other pandemic, including COVID-19.",
+   "fact": "CDC estimates about 675,000 U.S. deaths in the 1918 pandemic, while recorded U.S. COVID-19 deaths reached 1 million by May 12, 2022, so in raw numbers COVID-19 was the deadlier outbreak in American history.",
+   "why": "The 1918 flu has long been remembered as the benchmark for a catastrophic pandemic, and the comparison is easy to miss because the two tolls were counted a century apart in a much smaller and a much larger country."
+  },
+  "source_urls": [
+   "https://www.cdc.gov/museum/timeline/covid19.html",
+   "https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-of-the-covid-19-public-health-emergency.html",
+   "https://www.bls.gov/news.release/archives/jec_05082020.htm",
+   "https://www.govinfo.gov/app/details/PLAW-116publ136",
+   "https://www.cdc.gov/nchs/pressroom/releases/20220831.html",
+   "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html"
+  ]
+ },
+ {
   "id": "us:declaration-of-independence",
   "title": "Declaration of Independence",
   "aliases": [

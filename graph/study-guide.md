@@ -430,6 +430,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did California v. Texas end without a ruling on whether the law was constitutional?
   **A:** Because Congress had set the penalty for going without coverage at $0, the Court found the plaintiffs could not show an injury traceable to the government enforcing that provision, so they lacked standing and the case was dismissed.
 
+### [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) — Event
+
+| Myth | Fact |
+|---|---|
+| The 1918 influenza pandemic killed more Americans than any other pandemic, including COVID-19. | CDC estimates about 675,000 U.S. deaths in the 1918 pandemic, while recorded U.S. COVID-19 deaths reached 1 million by May 12, 2022, so in raw numbers COVID-19 was the deadlier outbreak in American history. |
+
+**Why it matters:** The 1918 flu has long been remembered as the benchmark for a catastrophic pandemic, and the comparison is easy to miss because the two tolls were counted a century apart in a much smaller and a much larger country.
+
+- **Q:** Why did the federal government declare emergencies in early 2020, and what did that make possible?
+  **A:** After the first confirmed case on January 20, HHS declared a public health emergency on January 31 and the administration declared a nationwide emergency on March 13, which gave federal agencies emergency powers that later supported free testing, Medicaid and Medicare flexibilities, and emergency use authorizations for vaccines.
+- **Q:** How did the pandemic affect the U.S. labor market in spring 2020?
+  **A:** Efforts to contain the virus shut down much of the economy, so in April 2020 payroll employment fell by 20.5 million and unemployment reached 14.7 percent, the highest rate and largest one-month rise in the series dating to 1948, with leisure and hospitality hit hardest.
+- **Q:** Why did U.S. life expectancy fall in both 2020 and 2021, and which group lost the most?
+  **A:** COVID-19 deaths accounted for about three-quarters of the 2020 decline and half of the 2021 decline; American Indian and Alaska Native people lost the most, 6.6 years between 2019 and 2021.
+- **Q:** What changed, and what did not, when the public health emergency ended on May 11, 2023?
+  **A:** Requirements that Medicare and private insurers cover COVID-19 tests without cost sharing ended and some reporting authority lapsed, but vaccines stayed free, treatments stayed available, and existing emergency use authorizations were unaffected.
+
 ### [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) — Event
 
 | Myth | Fact |
