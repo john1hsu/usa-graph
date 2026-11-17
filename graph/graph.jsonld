@@ -9387,6 +9387,112 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Thomas Gates issued the first orders in May 1610 and Lord De La Warr added more in June 1610; Dale enlarged them and added a military code in June 1611. Most of the printed text is that law martial for soldiers, and Brent Tarter argues Dale probably did not apply it to civilians, although the civil orders themselves carried death for many offenses.",
+   "uso:myth": "\"Dale's Laws\" were written by Sir Thomas Dale and placed every Virginia colonist under martial law.",
+   "uso:why": "Dale governed longest under the code and enforced it most harshly, and Strachey's 1612 edition bound the civil orders and the soldiers' code together under one title."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Thomas Gates issue strict orders as soon as he reached Jamestown in May 1610?",
+   "uso:answer": "He found only about sixty malnourished survivors of the Starving Time in a colony that had collapsed into disorder, so he imposed rules on work, food, livestock, trade and worship to restore discipline and keep the settlement alive.",
+   "uso:questionFor": {
+    "@id": "us:lawes-divine-morall-and-martiall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Lawes differ from the legal rights the Virginia Company's charters had promised colonists?",
+   "uso:answer": "The charters promised the rights of Englishmen, but the Lawes were company orders issued by military governors, not made by a legislature or applied by courts, and offenders were punished without English common-law procedures such as trial by jury.",
+   "uso:questionFor": {
+    "@id": "us:lawes-divine-morall-and-martiall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Lawes forbid unauthorized trade with Native people and running away to live among them?",
+   "uso:answer": "During the war with the Powhatans, hungry colonists had fled to Native towns or traded on their own, and the company wanted to control the food trade and relations with Native nations, so it made unlicensed trade, robbing Native traders and desertion serious or capital crimes.",
+   "uso:questionFor": {
+    "@id": "us:lawes-divine-morall-and-martiall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Lawes come to an end?",
+   "uso:answer": "The company's reformed government replaced them; George Yeardley arrived as governor in April 1619 and the first General Assembly met that summer to make laws for a civilian government.",
+   "uso:questionFor": {
+    "@id": "us:lawes-divine-morall-and-martiall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Gates, arriving from Bermuda to find about sixty starving survivors at Jamestown, issues the first orders.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1610-05-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The new governor, Thomas West, Lord De La Warr, confirms Gates's orders and adds his own.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1610-06-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Deputy Governor Thomas Dale reissues and enlarges the orders and adds a law martial for the colony's soldiers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1611-06-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Strachey publishes the collected orders in London as For the Colony in Virginea Britannia. Lawes Divine, Morall and Martiall, &c.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1612"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dale sails for England; George Yeardley serves as deputy governor.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1616-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George Yeardley arrives as governor under the company's reformed charter, ending government under the Lawes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1619-04-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first General Assembly meets at Jamestown and begins making laws for the colony's civilian government.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1619-07-30"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/liberty-bell/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The National Park Service finds no evidence the bell rang on July 4 or July 8, 1776; the July 4 story comes from George Lippard's 1847 fiction, and the crack that silenced the bell dates from the 1840s.",
@@ -22182,6 +22288,90 @@
     "@id": "https://www.govinfo.gov/content/pkg/CREC-1997-09-10/html/CREC-1997-09-10-pt1-PgE1714.htm"
    },
    "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Brent Tarter",
+   "dcterms:title": "Lawes Divine, Morall and Martiall",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/lawes-divine-morall-and-martiall/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Historic Jamestowne (Colonial National Historical Park)",
+   "dcterms:title": "Martial Law at Jamestown",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jame/learn/historyculture/martial-law.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), primary document by William Strachey",
+   "dcterms:title": "Articles, Laws, and Orders, Divine, Politic, and Martial for the Colony in Virginia (1612)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/primary-documents/articles-laws-and-orders-divine-politic-and-martial-for-the-colony-of-virginia-1612/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress, Thomas Jefferson Papers",
+   "dcterms:title": "Virginia Records Timeline: 1610 to 1619",
+   "schema:url": {
+    "@id": "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/virginia-records-timeline-1553-to-1743/1610-to-1619/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Brent Tarter and the Dictionary of Virginia Biography",
+   "dcterms:title": "Sir Thomas Dale (d. 1619)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/dale-sir-thomas-d-1619/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Martha McCartney",
+   "dcterms:title": "The Starving Time",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/starving-time-the/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/liberty-bell/s1",
@@ -43655,6 +43845,125 @@
    ]
   },
   {
+   "@id": "us:lawes-divine-morall-and-martiall",
+   "@type": "uso:Document",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lawes-divine-morall-and-martiall/s6"
+    }
+   ],
+   "rdfs:label": "Lawes Divine, Morall and Martiall",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1619-04-18"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1610-05-24"
+   },
+   "skos:altLabel": [
+    "Articles, Laws, and Orders, Divine, Politic, and Martial for the Colony in Virginia",
+    "Dale's Code",
+    "Dale's Laws",
+    "For the Colony in Virginea Britannia: Lawes Divine, Morall and Martiall",
+    "Laws Divine, Moral and Martial"
+   ],
+   "skos:broader": {
+    "@id": "us:colony-of-virginia"
+   },
+   "skos:definition": "The harsh code of civil and military orders issued at Jamestown by the Virginia Company's governors Thomas Gates (1610), Lord De La Warr (1610) and Thomas Dale (1611) after the Starving Time, published by William Strachey in 1612 and in force until the company's reformed government arrived in 1619.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Lawes Divine, Morall and Martiall",
+   "skos:related": [
+    {
+     "@id": "us:anglo-powhatan-wars"
+    },
+    {
+     "@id": "us:jamestown"
+    },
+    {
+     "@id": "us:powhatan"
+    },
+    {
+     "@id": "us:starving-time"
+    },
+    {
+     "@id": "us:virginia-company-of-london"
+    },
+    {
+     "@id": "us:virginia-general-assembly"
+    },
+    {
+     "@id": "us:william-strachey"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:colony-of-virginia"
+   },
+   "uso:authoredBy": [
+    {
+     "@id": "us:thomas-dale"
+    },
+    {
+     "@id": "us:thomas-gates"
+    }
+   ],
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md",
+   "uso:level": "intermediate",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:starving-time"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall/timeline/7"
+    }
+   ]
+  },
+  {
    "@id": "us:liberty-bell",
    "@type": "uso:Symbol",
    "dcterms:created": {
@@ -48829,6 +49138,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-17"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/source/starving-time/s1"
@@ -48899,6 +49212,9 @@
    "uso:domain": "colonial-and-revolutionary",
    "uso:evidenceStatus": "interpretive",
    "uso:file": "articles/colonial-and-revolutionary/starving-time.md",
+   "uso:ledTo": {
+    "@id": "us:lawes-divine-morall-and-martiall"
+   },
    "uso:level": "introductory",
    "uso:misconception": {
     "@id": "https://github.com/john1hsu/usa-graph/id/starving-time/misconception"

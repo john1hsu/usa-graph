@@ -17,6 +17,7 @@ relations:
   - {predicate: occurredIn, object: us:jamestown, source: s1, confidence: high}
   - {predicate: partOf, object: us:anglo-powhatan-wars, source: s1, confidence: medium}
   - {predicate: affected, object: us:colony-of-virginia, source: s3, confidence: high}
+  - {predicate: ledTo, object: us:lawes-divine-morall-and-martiall, source: s1, confidence: medium}
 timeline:
   - {date: 1609-07, event: "A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda."}
   - {date: 1609-08, event: "The surviving ships reach Jamestown with about 300 new colonists and few supplies."}
@@ -82,6 +83,7 @@ sources:
     type: peer-reviewed
     accessed: 2026-11-17
 created: 2026-11-17
+modified: 2026-11-17
 ---
 
 # Starving Time of 1609–1610

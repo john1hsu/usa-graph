@@ -11402,6 +11402,143 @@
   ]
  },
  {
+  "id": "us:lawes-divine-morall-and-martiall",
+  "title": "Lawes Divine, Morall and Martiall",
+  "aliases": [
+   "Dale's Laws",
+   "Dale's Code",
+   "Laws Divine, Moral and Martial",
+   "For the Colony in Virginea Britannia: Lawes Divine, Morall and Martiall",
+   "Articles, Laws, and Orders, Divine, Politic, and Martial for the Colony in Virginia"
+  ],
+  "type": "Document",
+  "domain": "colonial-and-revolutionary",
+  "level": "intermediate",
+  "evidenceStatus": "interpretive",
+  "file": "articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md",
+  "created": "2026-11-17",
+  "summary": "The harsh code of civil and military orders issued at Jamestown by the Virginia Company's governors Thomas Gates (1610), Lord De La Warr (1610) and Thomas Dale (1611) after the Starving Time, published by William Strachey in 1612 and in force until the company's reformed government arrived in 1619.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:colony-of-virginia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:starving-time"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jamestown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-company-of-london"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-general-assembly"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-strachey"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:powhatan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:anglo-powhatan-wars"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:starving-time"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:thomas-gates",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:thomas-dale",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:colony-of-virginia",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1610-05-24",
+  "end": "1619-04-18",
+  "review": [
+   {
+    "question": "Why did Thomas Gates issue strict orders as soon as he reached Jamestown in May 1610?",
+    "answer": "He found only about sixty malnourished survivors of the Starving Time in a colony that had collapsed into disorder, so he imposed rules on work, food, livestock, trade and worship to restore discipline and keep the settlement alive."
+   },
+   {
+    "question": "How did the Lawes differ from the legal rights the Virginia Company's charters had promised colonists?",
+    "answer": "The charters promised the rights of Englishmen, but the Lawes were company orders issued by military governors, not made by a legislature or applied by courts, and offenders were punished without English common-law procedures such as trial by jury."
+   },
+   {
+    "question": "Why did the Lawes forbid unauthorized trade with Native people and running away to live among them?",
+    "answer": "During the war with the Powhatans, hungry colonists had fled to Native towns or traded on their own, and the company wanted to control the food trade and relations with Native nations, so it made unlicensed trade, robbing Native traders and desertion serious or capital crimes."
+   },
+   {
+    "question": "How did the Lawes come to an end?",
+    "answer": "The company's reformed government replaced them; George Yeardley arrived as governor in April 1619 and the first General Assembly met that summer to make laws for a civilian government."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1610-05-24",
+    "event": "Thomas Gates, arriving from Bermuda to find about sixty starving survivors at Jamestown, issues the first orders."
+   },
+   {
+    "date": "1610-06-12",
+    "event": "The new governor, Thomas West, Lord De La Warr, confirms Gates's orders and adds his own."
+   },
+   {
+    "date": "1611-06-22",
+    "event": "Deputy Governor Thomas Dale reissues and enlarges the orders and adds a law martial for the colony's soldiers."
+   },
+   {
+    "date": "1612",
+    "event": "William Strachey publishes the collected orders in London as For the Colony in Virginea Britannia. Lawes Divine, Morall and Martiall, &c."
+   },
+   {
+    "date": "1616-05",
+    "event": "Dale sails for England; George Yeardley serves as deputy governor."
+   },
+   {
+    "date": "1619-04-18",
+    "event": "George Yeardley arrives as governor under the company's reformed charter, ending government under the Lawes."
+   },
+   {
+    "date": "1619-07-30",
+    "event": "The first General Assembly meets at Jamestown and begins making laws for the colony's civilian government."
+   }
+  ],
+  "misconception": {
+   "myth": "\"Dale's Laws\" were written by Sir Thomas Dale and placed every Virginia colonist under martial law.",
+   "fact": "Thomas Gates issued the first orders in May 1610 and Lord De La Warr added more in June 1610; Dale enlarged them and added a military code in June 1611. Most of the printed text is that law martial for soldiers, and Brent Tarter argues Dale probably did not apply it to civilians, although the civil orders themselves carried death for many offenses.",
+   "why": "Dale governed longest under the code and enforced it most harshly, and Strachey's 1612 edition bound the civil orders and the soldiers' code together under one title."
+  },
+  "source_urls": [
+   "https://encyclopediavirginia.org/entries/lawes-divine-morall-and-martiall/",
+   "https://www.nps.gov/jame/learn/historyculture/martial-law.htm",
+   "https://encyclopediavirginia.org/primary-documents/articles-laws-and-orders-divine-politic-and-martial-for-the-colony-of-virginia-1612/",
+   "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/virginia-records-timeline-1553-to-1743/1610-to-1619/",
+   "https://encyclopediavirginia.org/entries/dale-sir-thomas-d-1619/",
+   "https://encyclopediavirginia.org/entries/starving-time-the/"
+  ]
+ },
+ {
   "id": "us:liberty-bell",
   "title": "Liberty Bell",
   "aliases": [
@@ -17568,6 +17705,12 @@
     "object": "us:colony-of-virginia",
     "source": "s3",
     "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:lawes-divine-morall-and-martiall",
+    "source": "s1",
+    "confidence": "medium"
    }
   ],
   "start": "1609-11",

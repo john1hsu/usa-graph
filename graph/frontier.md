@@ -40,9 +40,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:japanese-americans` | 5.06 | - | `us:angel-island-immigration-station`, `us:chinese-americans`, `us:chinese-detention-barracks-poetry`, `us:japanese-american-incarceration` |
 | `us:foreign-relations-of-the-united-states` | 5.06 | - | `us:good-neighbor-policy`, `us:monroe-doctrine`, `us:panama-canal`, `us:roosevelt-corollary`, `us:treaty-of-paris-1783` |
 | `us:francis-hopkinson` | 5.05 | - | `us:betsy-ross-flag-myth`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states` |
+| `us:colony-of-virginia` | 5.05 | Place | `us:jamestown`, `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
 | `us:bill-of-rights` | 4.58 | - | `us:due-process`, `us:united-states-congress`, `us:united-states-constitution` |
 | `us:indian-reorganization-act` | 4.57 | - | `us:great-depression`, `us:native-americans`, `us:new-deal` |
-| `us:social-security-act` | 4.57 | - | `us:franklin-d-roosevelt`, `us:great-depression`, `us:new-deal` |
+| `us:social-security-act` | 4.56 | - | `us:franklin-d-roosevelt`, `us:great-depression`, `us:new-deal` |
 | `us:voting-rights-in-the-united-states` | 4.55 | - | `us:fifteenth-amendment`, `us:shelby-county-v-holder`, `us:voting-rights-act-of-1965`, `us:womens-suffrage-movement` |
 | `us:louisiana` | 4.55 | Place | `us:deepwater-horizon-oil-spill`, `us:louisiana-purchase`, `us:mississippi-river`, `us:new-orleans` |
 | `us:transcontinental-railroad` | 4.55 | - | `us:california-gold-rush`, `us:chinese-americans`, `us:the-west`, `us:wyoming` |
@@ -111,6 +112,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:cooper-v-aaron` | 3.03 | - | `us:desegregation-of-little-rock-central-high-school`, `us:judicial-review`, `us:marbury-v-madison` |
 | `us:hurricane-katrina` | 3.03 | - | `us:deepwater-horizon-oil-spill`, `us:department-of-homeland-security`, `us:new-orleans` |
 | `us:redistricting-in-the-united-states` | 3.03 | - | `us:census-and-apportionment`, `us:reynolds-v-sims` |
+| `us:anglo-powhatan-wars` | 3.03 | - | `us:jamestown`, `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
+| `us:powhatan` | 3.03 | - | `us:jamestown`, `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
+| `us:virginia-company-of-london` | 3.03 | - | `us:jamestown`, `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
 | `us:george-w-bush` | 3.03 | - | `us:department-of-homeland-security`, `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:war-on-terror` | 3.03 | - | `us:department-of-homeland-security`, `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:aviation-in-the-united-states` | 3.03 | - | `us:huffman-prairie`, `us:wright-brothers-first-flight`, `us:wright-company-school-of-aviation` |
@@ -119,7 +123,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:panama-canal-expansion` | 3.03 | - | `us:gatun-locks`, `us:third-locks-project` |
 | `us:lgbtq-americans` | 3.03 | - | `us:mccarthyism`, `us:obergefell-v-hodges` |
 | `us:baker-v-carr` | 3.03 | - | `us:reynolds-v-sims` |
-| `us:colony-of-virginia` | 3.03 | Place | `us:jamestown`, `us:starving-time` |
 | `us:juneteenth` | 2.55 | - | `us:african-americans`, `us:slavery-in-the-united-states` |
 | `us:gettysburg-address` | 2.54 | - | `us:abraham-lincoln`, `us:american-civil-war` |
 | `us:bureau-of-indian-affairs` | 2.54 | - | `us:native-americans`, `us:tribal-sovereignty` |
@@ -248,6 +251,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:transportation-security-administration` | 2.02 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
 | `us:usa-patriot-act` | 2.02 | - | `us:department-of-homeland-security`, `us:september-11-attacks` |
 | `us:flag-day` | 2.02 | - | `us:betsy-ross-flag-myth`, `us:national-symbols-of-the-united-states` |
+| `us:john-smith` | 2.02 | - | `us:jamestown`, `us:starving-time` |
+| `us:virginia-general-assembly` | 2.02 | - | `us:jamestown`, `us:lawes-divine-morall-and-martiall` |
 | `us:pierre-eugene-du-simitiere` | 2.02 | Person | `us:e-pluribus-unum`, `us:great-seal-of-the-united-states` |
 | `us:boulder-city` | 2.02 | - | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
 | `us:bureau-of-reclamation` | 2.02 | - | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
@@ -259,6 +264,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:california-v-texas` | 2.02 | - | `us:affordable-care-act` |
 | `us:medicaid` | 2.02 | - | `us:affordable-care-act` |
 | `us:nfib-v-sebelius` | 2.02 | - | `us:affordable-care-act` |
+| `us:thomas-gates` | 2.02 | Person | `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
 | `us:montgomery` | 2.02 | Place | `us:montgomery-bus-boycott`, `us:wright-company-school-of-aviation` |
 | `us:gulf-of-mexico` | 2.02 | Place | `us:bureau-of-ocean-energy-management`, `us:deepwater-horizon-oil-spill` |
 | `us:minerals-management-service` | 2.02 | - | `us:bureau-of-ocean-energy-management`, `us:deepwater-horizon-oil-spill` |
@@ -274,18 +280,14 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:necessary-and-proper-clause` | 2.02 | - | `us:mcculloch-v-maryland` |
 | `us:second-bank-of-the-united-states` | 2.02 | - | `us:mcculloch-v-maryland` |
 | `us:labor-law-in-the-united-states` | 2.02 | - | `us:minimum-wage`, `us:triangle-shirtwaist-factory-fire` |
-| `us:anglo-powhatan-wars` | 2.02 | - | `us:jamestown`, `us:starving-time` |
 | `us:health-care-in-the-united-states` | 2.02 | - | `us:affordable-care-act`, `us:covid-19-pandemic-in-the-united-states` |
-| `us:john-smith` | 2.02 | - | `us:jamestown`, `us:starving-time` |
-| `us:powhatan` | 2.02 | - | `us:jamestown`, `us:starving-time` |
-| `us:virginia-company-of-london` | 2.02 | - | `us:jamestown`, `us:starving-time` |
 | `us:1918-influenza-pandemic` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
 | `us:cares-act` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
 | `us:operation-warp-speed` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
 | `us:puerto-rico` | 1.52 | - | `us:united-states` |
 | `us:shays-rebellion` | 1.52 | - | `us:articles-of-confederation` |
 | `us:second-great-awakening` | 1.52 | - | `us:abolitionism` |
-| `us:washington-cherry-tree-myth` | 1.52 | - | `us:george-washington` |
+| `us:washington-cherry-tree-myth` | 1.51 | - | `us:george-washington` |
 | `us:d-day` | 1.51 | - | `us:world-war-ii-and-the-united-states` |
 | `us:manhattan-project` | 1.51 | - | `us:world-war-ii-and-the-united-states` |
 | `us:federal-reserve-system` | 1.51 | - | `us:great-depression` |
@@ -306,11 +308,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:treaty-of-fort-laramie-1868` | 1.51 | - | `us:wyoming` |
 | `us:cuban-missile-crisis` | 1.51 | - | `us:monroe-doctrine` |
 | `us:native-hawaiians` | 1.51 | - | `us:hawaii` |
+| `us:virginia` | 1.51 | Place | `us:jamestown` |
 | `us:suburbanization` | 1.51 | - | `us:servicemens-readjustment-act-of-1944` |
 | `us:ohio` | 1.51 | Place | `us:huffman-prairie` |
 | `us:erie-canal` | 1.51 | - | `us:chicago` |
 | `us:the-midwest` | 1.51 | - | `us:chicago` |
-| `us:virginia` | 1.51 | Place | `us:jamestown` |
 | `us:nato` | 1.51 | - | `us:war-in-afghanistan` |
 | `us:first-thanksgiving-myth` | 1.51 | - | `us:thanksgiving` |
 | `us:plymouth-colony` | 1.51 | - | `us:thanksgiving` |
@@ -398,12 +400,12 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:united-states-v-reese` | 1.02 | - | `us:fifteenth-amendment` |
 | `us:mcgirt-v-oklahoma` | 1.02 | - | `us:tribal-sovereignty` |
 | `us:public-law-280` | 1.02 | - | `us:tribal-sovereignty` |
-| `us:jay-treaty` | 1.02 | - | `us:george-washington` |
-| `us:martha-washington` | 1.02 | - | `us:george-washington` |
-| `us:mount-vernon` | 1.02 | - | `us:george-washington` |
-| `us:neutrality-proclamation` | 1.02 | - | `us:george-washington` |
-| `us:treaty-of-greenville` | 1.02 | - | `us:george-washington` |
-| `us:washington-wooden-teeth-myth` | 1.02 | - | `us:george-washington` |
+| `us:jay-treaty` | 1.01 | - | `us:george-washington` |
+| `us:martha-washington` | 1.01 | - | `us:george-washington` |
+| `us:mount-vernon` | 1.01 | - | `us:george-washington` |
+| `us:neutrality-proclamation` | 1.01 | - | `us:george-washington` |
+| `us:treaty-of-greenville` | 1.01 | - | `us:george-washington` |
+| `us:washington-wooden-teeth-myth` | 1.01 | - | `us:george-washington` |
 | `us:atomic-bombings-of-hiroshima-and-nagasaki` | 1.01 | - | `us:world-war-ii-and-the-united-states` |
 | `us:bracero-program` | 1.01 | - | `us:world-war-ii-and-the-united-states` |
 | `us:double-v-campaign` | 1.01 | - | `us:world-war-ii-and-the-united-states` |
@@ -633,6 +635,13 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:national-grasslands` | 1.01 | - | `us:dust-bowl` |
 | `us:soil-conservation-act-of-1935` | 1.01 | - | `us:dust-bowl` |
 | `us:soil-conservation-service` | 1.01 | - | `us:dust-bowl` |
+| `us:bacons-rebellion` | 1.01 | - | `us:jamestown` |
+| `us:james-river` | 1.01 | Place | `us:jamestown` |
+| `us:john-rolfe` | 1.01 | - | `us:jamestown` |
+| `us:opechancanough` | 1.01 | - | `us:jamestown` |
+| `us:pocahontas` | 1.01 | - | `us:jamestown` |
+| `us:st-augustine` | 1.01 | - | `us:jamestown` |
+| `us:williamsburg` | 1.01 | - | `us:jamestown` |
 | `us:baton-rouge-bus-boycott` | 1.01 | - | `us:montgomery-bus-boycott` |
 | `us:browder-v-gayle` | 1.01 | - | `us:montgomery-bus-boycott` |
 | `us:claudette-colvin` | 1.01 | - | `us:montgomery-bus-boycott` |
@@ -703,19 +712,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:william-barton` | 1.01 | Person | `us:great-seal-of-the-united-states` |
 | `us:aint-i-a-woman-myth` | 1.01 | - | `us:sojourner-truth` |
 | `us:akron-womens-rights-convention` | 1.01 | - | `us:sojourner-truth` |
-| `us:bacons-rebellion` | 1.01 | - | `us:jamestown` |
 | `us:burwell-v-hobby-lobby` | 1.01 | - | `us:affordable-care-act` |
 | `us:health-care-and-education-reconciliation-act` | 1.01 | - | `us:affordable-care-act` |
-| `us:james-river` | 1.01 | Place | `us:jamestown` |
-| `us:john-rolfe` | 1.01 | - | `us:jamestown` |
 | `us:king-v-burwell` | 1.01 | - | `us:affordable-care-act` |
 | `us:medicare` | 1.01 | - | `us:affordable-care-act` |
-| `us:opechancanough` | 1.01 | - | `us:jamestown` |
-| `us:pocahontas` | 1.01 | - | `us:jamestown` |
-| `us:st-augustine` | 1.01 | - | `us:jamestown` |
 | `us:tax-cuts-and-jobs-act-of-2017` | 1.01 | - | `us:affordable-care-act` |
-| `us:virginia-general-assembly` | 1.01 | - | `us:jamestown` |
-| `us:williamsburg` | 1.01 | - | `us:jamestown` |
 | `us:anthony-kennedy` | 1.01 | Person | `us:obergefell-v-hodges` |
 | `us:baker-v-nelson` | 1.01 | Document | `us:obergefell-v-hodges` |
 | `us:defense-of-marriage-act` | 1.01 | - | `us:obergefell-v-hodges` |
@@ -729,6 +730,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:thomas-moran` | 1.01 | - | `us:hayden-geological-survey-of-1871` |
 | `us:washburn-langford-doane-expedition` | 1.01 | - | `us:hayden-geological-survey-of-1871` |
 | `us:william-henry-jackson` | 1.01 | - | `us:hayden-geological-survey-of-1871` |
+| `us:george-percy` | 1.01 | - | `us:starving-time` |
+| `us:sea-venture` | 1.01 | - | `us:starving-time` |
+| `us:thomas-dale` | 1.01 | Person | `us:lawes-divine-morall-and-martiall` |
+| `us:william-strachey` | 1.01 | - | `us:lawes-divine-morall-and-martiall` |
 | `us:environmental-history-of-the-united-states` | 1.01 | - | `us:deepwater-horizon-oil-spill` |
 | `us:exxon-valdez-oil-spill` | 1.01 | - | `us:deepwater-horizon-oil-spill` |
 | `us:louisiana-coastal-master-plan` | 1.01 | - | `us:deepwater-horizon-oil-spill` |
@@ -790,7 +795,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:federal-holidays-in-the-united-states` | 1.01 | - | `us:thanksgiving` |
 | `us:freedmens-bureau-act-of-1865` | 1.01 | Document | `us:freedmens-bureau` |
 | `us:freedmens-bureau-act-of-1866` | 1.01 | Document | `us:freedmens-bureau` |
-| `us:george-percy` | 1.01 | - | `us:starving-time` |
 | `us:hatch-act-of-1887` | 1.01 | - | `us:morrill-land-grant-college-act` |
 | `us:henry-h-arnold` | 1.01 | - | `us:wright-company-school-of-aviation` |
 | `us:hollywood-blacklist` | 1.01 | - | `us:mccarthyism` |
@@ -821,14 +825,12 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:samuel-morse` | 1.01 | Person | `us:telegraph` |
 | `us:sand-creek-massacre` | 1.01 | - | `us:telegraph` |
 | `us:sarah-josepha-hale` | 1.01 | - | `us:thanksgiving` |
-| `us:sea-venture` | 1.01 | - | `us:starving-time` |
 | `us:sharecropping` | 1.01 | - | `us:freedmens-bureau` |
 | `us:smith-lever-act` | 1.01 | - | `us:morrill-land-grant-college-act` |
 | `us:special-field-order-no-15` | 1.01 | - | `us:freedmens-bureau` |
 | `us:thanksgiving-day-resolution-of-1941` | 1.01 | Document | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1789` | 1.01 | - | `us:thanksgiving` |
 | `us:thanksgiving-proclamation-of-1863` | 1.01 | Document | `us:thanksgiving` |
-| `us:thomas-gates` | 1.01 | - | `us:starving-time` |
 | `us:tribal-colleges-and-universities` | 1.01 | - | `us:morrill-land-grant-college-act` |
 | `us:united-states-department-of-war` | 1.01 | - | `us:freedmens-bureau` |
 | `us:uprising-of-the-20000` | 1.01 | - | `us:triangle-shirtwaist-factory-fire` |

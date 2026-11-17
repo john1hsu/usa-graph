@@ -260,6 +260,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is Jamestown not the first European settlement in the United States, and what is it the first of?
   **A:** Spain founded St. Augustine in 1565, forty-two years earlier; Jamestown was the first permanent English settlement in North America and the site of English America's first representative legislative assembly in 1619.
 
+### [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) — Document
+
+| Myth | Fact |
+|---|---|
+| "Dale's Laws" were written by Sir Thomas Dale and placed every Virginia colonist under martial law. | Thomas Gates issued the first orders in May 1610 and Lord De La Warr added more in June 1610; Dale enlarged them and added a military code in June 1611. Most of the printed text is that law martial for soldiers, and Brent Tarter argues Dale probably did not apply it to civilians, although the civil orders themselves carried death for many offenses. |
+
+**Why it matters:** Dale governed longest under the code and enforced it most harshly, and Strachey's 1612 edition bound the civil orders and the soldiers' code together under one title.
+
+- **Q:** Why did Thomas Gates issue strict orders as soon as he reached Jamestown in May 1610?
+  **A:** He found only about sixty malnourished survivors of the Starving Time in a colony that had collapsed into disorder, so he imposed rules on work, food, livestock, trade and worship to restore discipline and keep the settlement alive.
+- **Q:** How did the Lawes differ from the legal rights the Virginia Company's charters had promised colonists?
+  **A:** The charters promised the rights of Englishmen, but the Lawes were company orders issued by military governors, not made by a legislature or applied by courts, and offenders were punished without English common-law procedures such as trial by jury.
+- **Q:** Why did the Lawes forbid unauthorized trade with Native people and running away to live among them?
+  **A:** During the war with the Powhatans, hungry colonists had fled to Native towns or traded on their own, and the company wanted to control the food trade and relations with Native nations, so it made unlicensed trade, robbing Native traders and desertion serious or capital crimes.
+- **Q:** How did the Lawes come to an end?
+  **A:** The company's reformed government replaced them; George Yeardley arrived as governor in April 1619 and the first General Assembly met that summer to make laws for a civilian government.
+
 ### [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) — Institution
 
 | Myth | Fact |

@@ -6,9 +6,7 @@ SPARQL queries in `queries/` run over the asserted graph, the OWL-RL inferences 
 
 _Which written eras, events and conflicts have no ledTo edge saying what they led to?_ — `queries/01-events-without-consequences.rq`
 
-| node | type |
-|---|---|
-| `us:starving-time` | uso:Event |
+_No results._
 
 ## Rights with no protecting text (gap)
 
@@ -59,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 | `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 
-…and 74 more.
+…and 75 more.
 
 ## Happenings by era
 
@@ -113,10 +111,10 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:jim-crow-laws` | interpretive |  |
 | `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
+| `us:lawes-divine-morall-and-martiall` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
-| `us:louisiana-purchase` | interpretive |  |
 
-…and 23 more.
+…and 24 more.
 
 ## Places with nothing tied to them (gap)
 
