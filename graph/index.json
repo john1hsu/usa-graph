@@ -15970,6 +15970,215 @@
   ]
  },
  {
+  "id": "us:reconstruction-era",
+  "title": "Reconstruction era",
+  "aliases": [
+   "Reconstruction",
+   "Radical Reconstruction",
+   "Reconstruction of the South"
+  ],
+  "type": "Era",
+  "domain": "civil-war-and-reconstruction",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/civil-war-and-reconstruction/reconstruction-era.md",
+  "created": "2026-11-17",
+  "summary": "The period from roughly 1863 to 1877 when the United States reunited the former Confederate states and tried, through new laws, three constitutional amendments and federal enforcement, to turn about four million freed people into citizens and voters, an experiment in interracial democracy that was overthrown by white-supremacist violence and Northern retreat.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:freedmens-bureau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-codes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-amendments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thirteenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-act-of-1866"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:enforcement-acts"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ulysses-s-grant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rutherford-b-hayes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hiram-revels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:compromise-of-1877"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ku-klux-klan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era-national-historical-park"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-civil-war"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:fourteenth-amendment",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:fifteenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:sharecropping",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1863",
+  "end": "1877",
+  "review": [
+   {
+    "question": "Why did Congress replace Andrew Johnson's plan with Congressional (Radical) Reconstruction in 1867?",
+    "answer": "Under Johnson's lenient plan, Southern states passed Black Codes that restricted freedpeople's movement and labor, and Johnson vetoed civil-rights measures, so Republican majorities overrode him, passed the Fourteenth Amendment and the Reconstruction Acts, and required new state constitutions with Black male suffrage before readmission."
+   },
+   {
+    "question": "How did violence and economic depression help end Reconstruction?",
+    "answer": "The Klan and other paramilitaries terrorized Black voters and Republicans, as at Colfax in 1873, while the Panic of 1873 turned Northern attention to the economy and helped Democrats win the House in 1874; federal will to enforce Black rights faded, and the Compromise of 1877 withdrew the last troops."
+   },
+   {
+    "question": "Why do historians call Reconstruction a \"splendid failure\" rather than simply a failure?",
+    "answer": "It failed to redistribute land or protect Black voting, and planters regained power, yet it wrote birthright citizenship, equal protection and Black male suffrage into the Constitution, and those amendments later became the legal basis of the civil rights movement."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1863",
+    "event": "In the fall, President Abraham Lincoln offers amnesty and lets loyal Southerners form new state governments once 10 percent of voters swear an oath of loyalty."
+   },
+   {
+    "date": "1865-01-31",
+    "event": "Congress passes the Thirteenth Amendment abolishing slavery; it is ratified by the end of the year."
+   },
+   {
+    "date": "1865-04-14",
+    "event": "Lincoln is shot and dies the next morning; Andrew Johnson becomes president and begins a lenient Presidential Reconstruction."
+   },
+   {
+    "date": "1866",
+    "event": "Congress passes the Civil Rights Act of 1866 over Johnson's veto; the Ku Klux Klan is organized in Pulaski, Tennessee; deadly riots against Black residents erupt in Memphis and New Orleans."
+   },
+   {
+    "date": "1866-06-13",
+    "event": "Congress passes the Fourteenth Amendment, guaranteeing birthright citizenship, due process and equal protection."
+   },
+   {
+    "date": "1867-03-02",
+    "event": "The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts."
+   },
+   {
+    "date": "1868-06-22",
+    "event": "Arkansas becomes the first state readmitted to congressional representation under the Reconstruction Acts."
+   },
+   {
+    "date": "1868-07-28",
+    "event": "The Fourteenth Amendment is certified as ratified by 28 of 37 states."
+   },
+   {
+    "date": "1870-05-19",
+    "event": "A Baltimore parade celebrates the Fifteenth Amendment, which bars racial discrimination in voting; the same year Congress passes the first Enforcement Act against intimidation at the polls."
+   },
+   {
+    "date": "1871",
+    "event": "The Ku Klux Klan Act lets federal courts try crimes against freedpeople and allows suspension of habeas corpus."
+   },
+   {
+    "date": "1873",
+    "event": "White paramilitaries kill as many as 150 Black men at Colfax, Louisiana; in September the Panic of 1873 opens a long depression."
+   },
+   {
+    "date": "1875",
+    "event": "Congress passes a Civil Rights Act requiring equal treatment in public places and on juries."
+   },
+   {
+    "date": "1877",
+    "event": "An 8–7 electoral commission vote and the Compromise of 1877 seat Rutherford B. Hayes; federal troops are withdrawn from the South in April."
+   }
+  ],
+  "misconception": {
+   "myth": "Reconstruction failed because vindictive Radicals handed the South to corrupt carpetbaggers and to freedmen unfit to govern, until white \"redeemers\" restored honest rule.",
+   "fact": "This \"tragic era\" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence.",
+   "why": "The legend served as intellectual justification for segregation and disfranchisement for much of the twentieth century, so correcting it changes how Americans understand Jim Crow and the civil rights movement."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/textbook/14-reconstruction/",
+   "https://openstax.org/books/us-history/pages/16-4-the-collapse-of-reconstruction",
+   "https://www.senate.gov/artandhistory/history/common/generic/Civil_War_AdmissionReadmission.htm",
+   "https://www.archives.gov/milestone-documents/14th-amendment",
+   "https://www.americanheritage.com/new-view-reconstruction",
+   "https://journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/political-history",
+   "https://www.journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/reconstruction-in-the-west/",
+   "https://www.nps.gov/reer/learn/news/presskit.htm"
+  ]
+ },
+ {
   "id": "us:reynolds-v-sims",
   "title": "Reynolds v. Sims",
   "aliases": [

@@ -51,6 +51,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians and contemporaries such as W. E. B. Du Bois judge the bureau's record so differently?
   **A:** It achieved a great deal in relief, schools and legal recognition with fewer than 900 agents and little money, but it also pushed freedpeople into labor contracts with former enslavers and could not deliver land, so verdicts depend on whether one weighs its achievements against its resources or against freedpeople's hopes.
 
+### [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) — Era
+
+| Myth | Fact |
+|---|---|
+| Reconstruction failed because vindictive Radicals handed the South to corrupt carpetbaggers and to freedmen unfit to govern, until white "redeemers" restored honest rule. | This "tragic era" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence. |
+
+**Why it matters:** The legend served as intellectual justification for segregation and disfranchisement for much of the twentieth century, so correcting it changes how Americans understand Jim Crow and the civil rights movement.
+
+- **Q:** Why did Congress replace Andrew Johnson's plan with Congressional (Radical) Reconstruction in 1867?
+  **A:** Under Johnson's lenient plan, Southern states passed Black Codes that restricted freedpeople's movement and labor, and Johnson vetoed civil-rights measures, so Republican majorities overrode him, passed the Fourteenth Amendment and the Reconstruction Acts, and required new state constitutions with Black male suffrage before readmission.
+- **Q:** How did violence and economic depression help end Reconstruction?
+  **A:** The Klan and other paramilitaries terrorized Black voters and Republicans, as at Colfax in 1873, while the Panic of 1873 turned Northern attention to the economy and helped Democrats win the House in 1874; federal will to enforce Black rights faded, and the Compromise of 1877 withdrew the last troops.
+- **Q:** Why do historians call Reconstruction a "splendid failure" rather than simply a failure?
+  **A:** It failed to redistribute land or protect Black voting, and planters regained power, yet it wrote birthright citizenship, equal protection and Black male suffrage into the Constitution, and those amendments later became the legal basis of the civil rights movement.
+
 ### [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) — Conflict
 
 | Myth | Fact |

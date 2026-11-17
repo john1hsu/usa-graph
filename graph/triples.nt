@@ -9514,6 +9514,122 @@
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://schema.org/startDate> "1896-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "This \"tragic era\" story, spread by William Dunning's Columbia school, Claude Bowers's The Tragic Era and films, has been rejected by historians; Southern corruption was no worse than national scandals, Black men held a small share of offices, and the Reconstruction governments built the South's first public school systems before being overthrown by violence." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Reconstruction failed because vindictive Radicals handed the South to corrupt carpetbaggers and to freedmen unfit to govern, until white \"redeemers\" restored honest rule." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The legend served as intellectual justification for segregation and disfranchisement for much of the twentieth century, so correcting it changes how Americans understand Jim Crow and the civil rights movement." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Congress replace Andrew Johnson's plan with Congressional (Radical) Reconstruction in 1867?" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Under Johnson's lenient plan, Southern states passed Black Codes that restricted freedpeople's movement and labor, and Johnson vetoed civil-rights measures, so Republican majorities overrode him, passed the Fourteenth Amendment and the Reconstruction Acts, and required new state constitutions with Black male suffrage before readmission." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did violence and economic depression help end Reconstruction?" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Klan and other paramilitaries terrorized Black voters and Republicans, as at Colfax in 1873, while the Panic of 1873 turned Northern attention to the economy and helped Democrats win the House in 1874; federal will to enforce Black rights faded, and the Compromise of 1877 withdrew the last troops." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do historians call Reconstruction a \"splendid failure\" rather than simply a failure?" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It failed to redistribute land or protect Black voting, and planters regained power, yet it wrote birthright citizenship, equal protection and Black male suffrage into the Constitution, and those amendments later became the legal basis of the civil rights movement." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Ku Klux Klan Act lets federal courts try crimes against freedpeople and allows suspension of habeas corpus." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1871"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "White paramilitaries kill as many as 150 Black men at Colfax, Louisiana; in September the Panic of 1873 opens a long depression." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1873"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes a Civil Rights Act requiring equal treatment in public places and on juries." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1875"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "An 8–7 electoral commission vote and the Compromise of 1877 seat Rutherford B. Hayes; federal troops are withdrawn from the South in April." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1877"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "In the fall, President Abraham Lincoln offers amnesty and lets loyal Southerners form new state governments once 10 percent of voters swear an oath of loyalty." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1863"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Thirteenth Amendment abolishing slavery; it is ratified by the end of the year." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln is shot and dies the next morning; Andrew Johnson becomes president and begins a lenient Presidential Reconstruction." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Civil Rights Act of 1866 over Johnson's veto; the Ku Klux Klan is organized in Pulaski, Tennessee; deadly riots against Black residents erupt in Memphis and New Orleans." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1866"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Congress passes the Fourteenth Amendment, guaranteeing birthright citizenship, due process and equal protection." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1866-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Arkansas becomes the first state readmitted to congressional representation under the Reconstruction Acts." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Fourteenth Amendment is certified as ratified by 28 of 37 states." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-07-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A Baltimore parade celebrates the Fifteenth Amendment, which bars racial discrimination in voting; the same year Congress passes the first Enforcement Act against intimidation at the polls." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1870-05-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Era> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2000/01/rdf-schema#label> "Reconstruction era" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Radical Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Reconstruction of the South" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#definition> "The period from roughly 1863 to 1877 when the United States reunited the former Confederate states and tried, through new laws, three constitutional amendments and federal enforcement, to turn about four million freed people into citizens and voters, an experiment in interracial democracy that was overthrown by white-supremacist violence and Northern retreat." .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/civil-war-and-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reconstruction era" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-johnson> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/black-codes> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1866> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/compromise-of-1877> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/enforcement-acts> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hiram-revels> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ku-klux-klan> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-amendments> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era-national-historical-park> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rutherford-b-hayes> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ulysses-s-grant> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#domain> "civil-war-and-reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/civil-war-and-reconstruction/reconstruction-era.md" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/sharecropping> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/misconception> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/reconstruction-era/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://schema.org/endDate> "1877"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://schema.org/startDate> "1863"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The phrase entered the Supreme Court's case law a year earlier, in Gray v. Sanders (1963), which struck down Georgia's county-unit system for statewide elections; Reynolds applied that equality standard to the seats of both houses of state legislatures." .
 <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Reynolds v. Sims coined the phrase \"one person, one vote.\"" .
@@ -15110,6 +15226,54 @@
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/usa-graph/id/source/plessy-v-ferguson/s6> <https://schema.org/url> <https://supremecourthistory.org/scotus-scoops/louisiana-governor-pardons-homer-plessy/> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/publisher> "Joseph L. Locke and Ben Wright, eds., The American Yawp (Stanford University Press)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://purl.org/dc/terms/title> "14. Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s1> <https://schema.org/url> <https://www.americanyawp.com/textbook/14-reconstruction/> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <http://purl.org/dc/terms/publisher> "OpenStax, U.S. History (Rice University)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <http://purl.org/dc/terms/title> "16.4 The Collapse of Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s2> <https://schema.org/url> <https://openstax.org/books/us-history/pages/16-4-the-collapse-of-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <http://purl.org/dc/terms/publisher> "U.S. Senate, Art & History" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <http://purl.org/dc/terms/title> "Civil War Admission and Readmission" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s3> <https://schema.org/url> <https://www.senate.gov/artandhistory/history/common/generic/Civil_War_AdmissionReadmission.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <http://purl.org/dc/terms/title> "14th Amendment to the U.S. Constitution: Civil Rights (1868)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s4> <https://schema.org/url> <https://www.archives.gov/milestone-documents/14th-amendment> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <http://purl.org/dc/terms/publisher> "Eric Foner, American Heritage 34, no. 6 (October/November 1983)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <http://purl.org/dc/terms/title> "The New View of Reconstruction" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s5> <https://schema.org/url> <https://www.americanheritage.com/new-view-reconstruction> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <http://purl.org/dc/terms/publisher> "Thomas C. Holt, The Journal of the Civil War Era (2017)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <http://purl.org/dc/terms/title> "Political History (Forum: The Future of Reconstruction Studies)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s6> <https://schema.org/url> <https://journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/political-history> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <http://purl.org/dc/terms/publisher> "Elliott West, The Journal of the Civil War Era (2017)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <http://purl.org/dc/terms/title> "Reconstruction in the West (Forum: The Future of Reconstruction Studies)" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s7> <https://schema.org/url> <https://www.journalofthecivilwarera.org/forum-the-future-of-reconstruction-studies/reconstruction-in-the-west/> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <http://purl.org/dc/terms/title> "Reconstruction Era National Historical Park: Press Kit" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/reconstruction-era/s8> <https://schema.org/url> <https://www.nps.gov/reer/learn/news/presskit.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court, United States Reports (via GovInfo, U.S. Government Publishing Office)" .
 <https://github.com/john1hsu/usa-graph/id/source/reynolds-v-sims/s1> <http://purl.org/dc/terms/title> "Reynolds v. Sims, 377 U.S. 533 (1964)" .

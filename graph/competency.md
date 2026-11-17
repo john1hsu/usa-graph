@@ -40,11 +40,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
 | `us:mccarthyism` | 4 | communist-control-act-of-1954, labor-movement, lgbtq-americans, mccarran-internal-security-act |
+| `us:reconstruction-era` | 4 | African Americans, Fifteenth Amendment, Fourteenth Amendment, sharecropping |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:treaty-of-paris-1783` | 4 | Haudenosaunee, Mississippi River, loyalists, treaty-of-fort-stanwix-1784 |
 | `us:world-war-ii-and-the-united-states` | 4 | Japanese American incarceration during World War II, bracero-program, double-v-campaign, japanese-instrument-of-surrender |
 | `us:affordable-care-act` | 3 | california-v-texas, medicaid, nfib-v-sebelius |
-| `us:american-civil-war` | 3 | Thirteenth Amendment, emancipation-proclamation, reconstruction-era |
+| `us:american-civil-war` | 3 | Reconstruction era, Thirteenth Amendment, emancipation-proclamation |
 | `us:american-revolutionary-war` | 3 | African Americans, Haudenosaunee, Treaty of Paris (1783) |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, Haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 | `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
-| `us:mexican-american-war` | 3 | compromise-of-1850, treaty-of-guadalupe-hidalgo, wilmot-proviso |
 
-…and 75 more.
+…and 76 more.
 
 ## Happenings by era
 
@@ -114,7 +114,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:lawes-divine-morall-and-martiall` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 
-…and 24 more.
+…and 25 more.
 
 ## Places with nothing tied to them (gap)
 

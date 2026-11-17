@@ -609,8 +609,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862-07-02 | Lincoln signs the Morrill Act; states in rebellion are excluded from its grants. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-12-26 | Thirty-eight Dakota men are hanged at Mankato after Lincoln commutes most of the death sentences. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
+| 1863 – 1877 | **[Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md)** (Era) |
 | 1863 | California repeals its laws legalizing Indian indenture, and African Americans win the right to testify in court. — [California](../articles/states-and-territories/california.md) |
 | 1863 | Helps found the Women's Loyal National League to petition for emancipation. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1863 | In the fall, President Abraham Lincoln offers amnesty and lets loyal Southerners form new state governments once 10 percent of voters swear an oath of loyalty. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas in rebellion. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect in areas under Confederate control. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1863-01-01 | The Emancipation Proclamation takes effect, but only in areas in rebellion. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -655,6 +657,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865 | The end of the Civil War closes the era of escape from slavery in the United States. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1865-01 | General William T. Sherman's Special Field Order No. 15 sets aside abandoned coastal land for freedpeople. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
+| 1865-01-31 | Congress passes the Thirteenth Amendment abolishing slavery; it is ratified by the end of the year. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1865-02-01 | Lincoln approves the joint resolution sending the amendment to the states. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -662,6 +665,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-03-03 – 1872-06 | **[Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md)** (Institution) |
 | 1865-03-03 | Congress passes the act creating the bureau in the War Department, and President Lincoln signs it the same day. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1865-04-09 | Robert E. Lee surrenders the Army of Northern Virginia to Grant at Appomattox. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1865-04-14 | Lincoln is shot and dies the next morning; Andrew Johnson becomes president and begins a lenient Presidential Reconstruction. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1865-04-14 | Shot by John Wilkes Booth at Ford's Theatre; dies the next morning. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1865-05 | President Andrew Johnson appoints Major General Oliver Otis Howard as commissioner. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1865-06-19 | General Order No. 3 announces freedom in Galveston, Texas, the origin of Juneteenth. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -673,12 +677,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865-12-06 | The Thirteenth Amendment is ratified, abolishing slavery throughout the United States. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-12-13 | Congress creates the Joint Committee of Fifteen on Reconstruction. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1865-12-18 | Secretary of State William H. Seward proclaims the amendment ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
+| 1866 | Congress passes the Civil Rights Act of 1866 over Johnson's veto; the Ku Klux Klan is organized in Pulaski, Tennessee; deadly riots against Black residents erupt in Memphis and New Orleans. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1866 | Elizabeth Cady Stanton and Susan B. Anthony help form the American Equal Rights Association to seek suffrage for Black Americans and women alike. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1866 | Western Union absorbs its last major rivals, and the first successful Atlantic telegraph cable is laid. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1866-01-23 | New Jersey's governor signs a state constitutional amendment ending slavery there. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1866-02-19 | Johnson vetoes a bill to extend the bureau; the Senate fails to override the next day. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1866-04 | Congress passes the Civil Rights Act of 1866. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-08 | The Senate passes the amendment, 33 to 11. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1866-06-13 | Congress passes the Fourteenth Amendment, guaranteeing birthright citizenship, due process and equal protection. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1866-06-13 | The House approves the proposed Fourteenth Amendment, 120-32, carrying the equal protection language. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1866-06-13 | The House passes the amendment, 120 to 32. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1866-06-16 | The joint resolution is submitted to the states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
@@ -688,12 +694,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867 | Congress enfranchises Black men in the District of Columbia and the territories and requires seceded states to guarantee Black male suffrage as a condition of readmission. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1867 | The Military Reconstruction Act places the bureau under the commanders of five military districts. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1867-03-02 | The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1867-06-24 | Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
 | 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1868 | The Fourteenth Amendment's citizenship clause makes all persons born in the United States citizens, overturning the decision's citizenship holding. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1868-06-22 | Arkansas becomes the first state readmitted to congressional representation under the Reconstruction Acts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1868-07-03 | The second Fort Bridger treaty sets aside about 3.2 million acres in the Wind River Valley for the Eastern Shoshone. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-09 | **[Equal protection](../articles/rights-and-law/equal-protection.md)** (Right) |
 | 1868-07-09 | **[Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md)** (Law) |
@@ -702,6 +710,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-09 | Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1868-07-25 | Congress creates Wyoming Territory; the 1868 Fort Laramie treaty negotiated with Red Cloud closes the Bozeman Trail the same year. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1868-07-28 | The Fourteenth Amendment is certified as ratified by 28 of 37 states. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1869 | Congress cuts most of the bureau's funding; offices close but educational work continues for a time. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -728,11 +737,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870-02-03 | The amendment is ratified by three-fourths of the states. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1870-02-17 | Esther Hobart Morris is appointed justice of the peace at South Pass City. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1870-02-25 | Hiram Revels is sworn in as the first African American senator. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1870-05-19 | A Baltimore parade celebrates the Fifteenth Amendment, which bars racial discrimination in voting; the same year Congress passes the first Enforcement Act against intimidation at the polls. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1870-09-06 | Louisa Swain of Laramie casts the first ballot by a woman under the new law. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1871 | Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1871 | The Ku Klux Klan Act lets federal courts try crimes against freedpeople and allows suspension of habeas corpus. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1871-03-03 | A sundry civil act provides $40,000 to continue Hayden's survey of the territories. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
 | 1871-06 – 1871-10-02 | **[Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md)** (Event) |
 | 1871-06 | The party of more than 30 men sets out in early June; the USGS dates its departure from Ogden, Utah, to June 8. — [Hayden Geological Survey of 1871](../articles/geography-and-environment/hayden-geological-survey-of-1871.md) |
@@ -765,6 +776,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1873 | The Slaughter-House Cases narrow the Privileges or Immunities Clause. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1873 | The Slaughter-House Cases recognize formerly enslaved African Americans as the clause's primary intended beneficiaries while noting its words reach everyone. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1873 | The railroads' financial bubble bursts, beginning years of depression, layoffs and repeated wage cuts. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
+| 1873 | White paramilitaries kill as many as 150 Black men at Colfax, Louisiana; in September the Panic of 1873 opens a long depression. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1873-01-21 | A federal judge in Albany refuses to discharge her on a writ of habeas corpus. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-01-24 | A federal grand jury indicts her. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1873-05 | A stock market crash in Vienna, Austria, the first of two that year, leads European investors to start selling American securities, especially railroad bonds. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -776,6 +788,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1873-10 | The acute panic subsides by mid-October, but a long depression follows. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-03 | Frederick Douglass is elected president of the struggling Freedman's Savings and Trust Company; Congress passes a bill to issue more greenback currency, which President Grant vetoes. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
 | 1874-06-29 | The Freedman's Savings and Trust Company closes, days after Congress puts its assets under a three-member board. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
+| 1875 | Congress passes a Civil Rights Act requiring equal treatment in public places and on juries. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1875 | Tennessee's Chapter 130 permits discrimination in hotels, theaters, trains and streetcars. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1875 | The Page Act bars contract laborers, prostitutes and felons from China and Japan; its enforcement keeps most Chinese women out. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1875-01 | The Specie Resumption Act commits the Treasury to retire greenbacks and return to gold-backed currency within four years. — [Panic of 1873](../articles/economy-and-work/panic-of-1873.md) |
@@ -786,6 +799,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1876-06 | George Armstrong Custer and 268 of his men are killed at the Little Bighorn. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1876-07-04 | Reads a Declaration of Rights of Women outside Independence Hall during the Centennial. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1877 – 1968 | **[Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md)** (Policy) |
+| 1877 | An 8–7 electoral commission vote and the Compromise of 1877 seat Rutherford B. Hayes; federal troops are withdrawn from the South in April. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1877 | Appointed U.S. marshal for the District of Columbia by President Hayes. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1877 | The Great Railroad Strike spreads from Baltimore to St. Louis; about 100 people die before federal troops end it. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1877 | The last Union occupation troops, including U.S. Colored Troops, are withdrawn from Vicksburg. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
