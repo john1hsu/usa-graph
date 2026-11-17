@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:panic-of-1873` | 3 | Great Railroad Strike of 1877, freedmans-savings-and-trust-company, reconstruction-era |
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 
-…and 69 more.
+…and 70 more.
 
 ## Happenings by era
 
@@ -95,6 +95,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
+| `us:franklin-d-roosevelt` | interpretive |  |
 | `us:frederick-douglass` | interpretive |  |
 | `us:freedmens-bureau` | interpretive |  |
 | `us:george-washington` | interpretive |  |
@@ -111,9 +112,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
 | `us:marbury-v-madison` | interpretive | `us:thomas-jefferson` |
-| `us:martin-luther-king-jr` | interpretive |  |
 
-…and 19 more.
+…and 20 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -141,10 +141,13 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 
 | office | person | born |
 |---|---|---|
+| `us:assistant-secretary-of-the-navy` | `us:franklin-d-roosevelt` | 1882-01-30 |
+| `us:governor-of-new-york` | `us:franklin-d-roosevelt` | 1882-01-30 |
 | `us:presidency-of-the-united-states` | `us:george-washington` | 1732-02-22 |
 | `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:presidency-of-the-united-states` | `us:theodore-roosevelt` | 1858-10-27 |
+| `us:presidency-of-the-united-states` | `us:franklin-d-roosevelt` | 1882-01-30 |
 | `us:united-states-minister-to-france` | `us:benjamin-franklin` | 1706-01-17 |
 | `us:united-states-minister-to-haiti` | `us:frederick-douglass` | 1818-02 |
 | `us:united-states-secretary-of-state` | `us:thomas-jefferson` | 1743-04-13 |

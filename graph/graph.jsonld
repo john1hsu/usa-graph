@@ -5540,6 +5540,202 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "His illness was public knowledge; he founded the Georgia Warm Springs Foundation in 1927 and launched the National Foundation for Infantile Paralysis in 1938. What was minimized was its extent. Few Americans understood that he could not walk unaided, because he took care to be seen standing or walking with support and press photographers generally lowered their cameras.",
+   "uso:myth": "Americans never knew that Roosevelt had polio, because he hid it from the public.",
+   "uso:why": "The \"secret\" version erases both the public polio work he led and how he shaped buildings, cars and wheelchairs around his disability, which the National Park Service now presents as part of disability history."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the Miller Center argue that the New Deal did not by itself end the Great Depression?",
+   "uso:answer": "Unemployment was still above 19 percent in 1939 and in double digits in 1940, and a sharp recession in 1937–38 followed spending cuts aimed at balancing the budget; in Leuchtenburg's view it was wartime mobilization for World War II that finally ended the slump.",
+   "uso:questionFor": {
+    "@id": "us:franklin-d-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the New Deal both expand and limit economic security for different Americans?",
+   "uso:answer": "It created old-age and unemployment insurance, union bargaining rights and a minimum wage, but Social Security left out agricultural and domestic workers, many of them African American or Mexican American, and Black Americans and women received far fewer benefits than white men.",
+   "uso:questionFor": {
+    "@id": "us:franklin-d-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did A. Philip Randolph's threatened march lead to Executive Order 8802?",
+   "uso:answer": "Randolph and other Black leaders demanded an order against job discrimination in defense work and threatened to bring tens of thousands of marchers to Washington; Roosevelt issued the order on June 25, 1941, creating the Committee on Fair Employment Practice, and Randolph called off the march.",
+   "uso:questionFor": {
+    "@id": "us:franklin-d-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What is the core disagreement among historians about Roosevelt's response to the Holocaust?",
+   "uso:answer": "Critics such as David Wyman argue that political expediency led him to abandon European Jews until it was too late, while Richard Breitman and Allan Lichtman acknowledge early failures but argue that he was the first president to intervene, at least part of the time, for Jews abroad, notably through the War Refugee Board created in January 1944, which is credited with saving at least 200,000 Jews.",
+   "uso:questionFor": {
+    "@id": "us:franklin-d-roosevelt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born in Hyde Park, New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-01-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the Social Security Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-08-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Asks Congress to add justices to the Supreme Court; the plan is shelved in July.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1937-02-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Issues Executive Order 8802 against discrimination in defense industries.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Asks Congress to declare war on Japan after the attack on Pearl Harbor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1941-12-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1942-02-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Creates the War Refugee Board.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1944-01-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected to a fourth term, defeating Thomas E. Dewey.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1944-11-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at Warm Springs, Georgia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-04-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marries Eleanor Roosevelt.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1905-03-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected to the New York State Senate.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1910"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sworn in as assistant secretary of the Navy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1913-03-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Loses the vice-presidential election on the Democratic ticket headed by James Cox.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1920-11-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Stricken with polio at Campobello, New Brunswick; he never again walks unaided.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1921-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected governor of New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1928-11-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected president, defeating Herbert Hoover.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1932-11-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gives his first radio fireside chat, on the banking crisis.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1933-03-12"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "No record gives the day. Douglass believed he was born about 1817; a ledger kept by his enslaver Aaron Anthony notes February 1818, possibly added later, and Douglass chose February 14 to celebrate.",
@@ -18482,6 +18678,160 @@
     "@id": "https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)",
+   "dcterms:title": "Franklin D. Roosevelt: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/311"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Ronald Reagan Presidential Library, National Archives",
+   "dcterms:title": "Constitutional Amendments Series – Amendment XXII – Term Limits for the Presidency",
+   "schema:url": {
+    "@id": "https://reagan.blogs.archives.gov/2022/10/11/constitutional-amendments-series-amendment-xxii-term-limits-for-the-presidency"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "U.S. Presidents: Franklin D. Roosevelt",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/franklin-d-roosevelt"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)",
+   "dcterms:title": "Franklin D. Roosevelt: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/314"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)",
+   "dcterms:title": "Franklin D. Roosevelt: Impact and Legacy",
+   "schema:url": {
+    "@id": "https://www.millercenter.org/president/fdroosevelt/impact-and-legacy"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Timeline of Franklin D. Roosevelt's Life",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/timeline-of-franklin-d-roosevelt-s-life.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Home of Franklin D. Roosevelt National Historic Site",
+   "dcterms:title": "FDR and the History of Disability",
+   "schema:url": {
+    "@id": "https://www.nps.gov/hofr/learn/fdr-and-the-history-of-disability.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Heritage (Geoffrey C. Ward), June/July 1985",
+   "dcterms:title": "FDR's War with Polio",
+   "schema:url": {
+    "@id": "https://www.americanheritage.com/fdrs-war-polio"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Executive Order 9066: Resulting in Japanese-American Incarceration (1942)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/executive-order-9066"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Executive Order 8802: Prohibition of Discrimination in the Defense Industry (1941)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/executive-order-8802"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Franklin D. Roosevelt Presidential Library and Museum",
+   "dcterms:title": "FDR and the Holocaust",
+   "schema:url": {
+    "@id": "https://fdrlibrary.org/documents/356632/390886/7.6+FDR+and+the+Holocaust+3+FINAL+3-18-14.pdf/19dc9138-cc02-4607-b655-23177b6832d7"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s1",
@@ -38381,6 +38731,206 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:franklin-d-roosevelt",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9"
+    }
+   ],
+   "rdfs:label": "Franklin D. Roosevelt",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1882-01-30"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1945-04-12"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1945-04-12"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1882-01-30"
+   },
+   "skos:altLabel": [
+    "32nd President of the United States",
+    "FDR",
+    "Franklin Delano Roosevelt"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "The 32nd president of the United States (1933–1945), a New York Democrat who led the country through the Great Depression with the New Deal and through most of World War II, won four presidential elections, and governed from a wheelchair after polio paralyzed his legs in 1921.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Franklin D. Roosevelt",
+   "skos:related": [
+    {
+     "@id": "us:attack-on-pearl-harbor"
+    },
+    {
+     "@id": "us:eleanor-roosevelt"
+    },
+    {
+     "@id": "us:executive-order-8802"
+    },
+    {
+     "@id": "us:executive-order-9066"
+    },
+    {
+     "@id": "us:fair-labor-standards-act"
+    },
+    {
+     "@id": "us:good-neighbor-policy"
+    },
+    {
+     "@id": "us:great-depression"
+    },
+    {
+     "@id": "us:herbert-hoover"
+    },
+    {
+     "@id": "us:japanese-american-incarceration"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:servicemens-readjustment-act-of-1944"
+    },
+    {
+     "@id": "us:social-security-act"
+    },
+    {
+     "@id": "us:theodore-roosevelt"
+    },
+    {
+     "@id": "us:war-refugee-board"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/franklin-d-roosevelt.md",
+   "uso:heldOffice": [
+    {
+     "@id": "us:assistant-secretary-of-the-navy"
+    },
+    {
+     "@id": "us:governor-of-new-york"
+    },
+    {
+     "@id": "us:presidency-of-the-united-states"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:twenty-second-amendment"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:democratic-party"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception"
+   },
+   "uso:participatedIn": {
+    "@id": "us:world-war-ii-and-the-united-states"
+   },
+   "uso:requires": {
+    "@id": "us:great-depression"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9"
     }
    ]
   },

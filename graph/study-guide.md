@@ -1306,6 +1306,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Did Franklin formally propose the turkey as the national bird?
   **A:** No. In an unsent 1784 letter to his daughter mocking the eagle on the Society of the Cincinnati badge, he disparaged the eagle and praised the turkey, but he made no formal proposal.
 
+### [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) — Person
+
+| Myth | Fact |
+|---|---|
+| Americans never knew that Roosevelt had polio, because he hid it from the public. | His illness was public knowledge; he founded the Georgia Warm Springs Foundation in 1927 and launched the National Foundation for Infantile Paralysis in 1938. What was minimized was its extent. Few Americans understood that he could not walk unaided, because he took care to be seen standing or walking with support and press photographers generally lowered their cameras. |
+
+**Why it matters:** The "secret" version erases both the public polio work he led and how he shaped buildings, cars and wheelchairs around his disability, which the National Park Service now presents as part of disability history.
+
+- **Q:** Why does the Miller Center argue that the New Deal did not by itself end the Great Depression?
+  **A:** Unemployment was still above 19 percent in 1939 and in double digits in 1940, and a sharp recession in 1937–38 followed spending cuts aimed at balancing the budget; in Leuchtenburg's view it was wartime mobilization for World War II that finally ended the slump.
+- **Q:** How did the New Deal both expand and limit economic security for different Americans?
+  **A:** It created old-age and unemployment insurance, union bargaining rights and a minimum wage, but Social Security left out agricultural and domestic workers, many of them African American or Mexican American, and Black Americans and women received far fewer benefits than white men.
+- **Q:** How did A. Philip Randolph's threatened march lead to Executive Order 8802?
+  **A:** Randolph and other Black leaders demanded an order against job discrimination in defense work and threatened to bring tens of thousands of marchers to Washington; Roosevelt issued the order on June 25, 1941, creating the Committee on Fair Employment Practice, and Randolph called off the march.
+- **Q:** What is the core disagreement among historians about Roosevelt's response to the Holocaust?
+  **A:** Critics such as David Wyman argue that political expediency led him to abandon European Jews until it was too late, while Richard Breitman and Allan Lichtman acknowledge early failures but argue that he was the first president to intervene, at least part of the time, for Jews abroad, notably through the War Refugee Board created in January 1944, which is credited with saving at least 200,000 Jews.
+
 ### [George Washington](../articles/presidents-and-founders/george-washington.md) — Person
 
 | Myth | Fact |

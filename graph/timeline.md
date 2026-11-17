@@ -783,6 +783,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1882 | Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1882 | The Chinese Exclusion Act suspends the immigration of Chinese laborers and bars Chinese immigrants from naturalization. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1882 | Wins a seat in the New York State Assembly. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1882-01-30 – 1945-04-12 | **[Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md)** (Person) |
+| 1882-01-30 | Born in Hyde Park, New York. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1882-04-04 | President Chester A. Arthur vetoes a bill that would have suspended Chinese labor immigration for twenty years. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1882-05-06 – 1943 | **[Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md)** (Law) |
 | 1882-05-06 | Arthur approves a revised act suspending Chinese labor immigration for ten years and barring Chinese naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
@@ -911,6 +913,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1905 | Lochner v. New York strikes down a workplace regulation on "freedom of contract" grounds. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1905 | The War Department transfers 20 acres of Angel Island for an immigration station. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1905-01-20 | A U.S.-Dominican executive agreement gives the United States control of Dominican customhouses; critics say it bypasses the Senate. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
+| 1905-03-17 | Marries Eleanor Roosevelt. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1905-04-01 | With Senate action on a treaty blocked, Roosevelt puts a customs receivership into effect by a modus vivendi. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1905-06-23 | Orville makes the first flight of the rebuilt Wright Flyer III. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1905-07-14 | A crash that throws Orville through the upper wing prompts a redesign of the controls. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
@@ -937,6 +940,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1909 | Triangle workers join the garment strike known as the Uprising of the 20,000, which lasts about three months. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1909-08-24 | Workers pour the first concrete at the Gatun lock site. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1910 – 1940 | **[Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md)** (Work) |
+| 1910 | Elected to the New York State Senate. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -970,6 +974,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913 | AT&T gives up its stake in Western Union under federal antitrust pressure (the Kingsbury Commitment). — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1913-03-03 | Alice Paul's suffrage procession in Washington, held the day before Woodrow Wilson's inauguration, is attacked by hostile crowds. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1913-03-10 | Dies of pneumonia in Auburn and is buried at Fort Hill Cemetery. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1913-03-17 | Sworn in as assistant secretary of the Navy. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1913-03-26 | The workforce peaks at 44,733 men on the job. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1913-04-08 | The Seventeenth Amendment, providing for popular election of senators, is ratified. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1913-08 | Blanck is fined $20 for locking a factory door during working hours at another shop. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
@@ -1015,6 +1020,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1920-08-18 | Tennessee becomes the thirty-sixth state to ratify, completing ratification. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-08-26 | Secretary of State Bainbridge Colby certifies the Nineteenth Amendment. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1920-09-25 | Pennsylvania suffragists first ring their replica Justice Bell at Independence Square after the Nineteenth Amendment. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1920-11-02 | Loses the vice-presidential election on the Democratic ticket headed by James Cox. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
+| 1921-08 | Stricken with polio at Campobello, New Brunswick; he never again walks unaided. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1922 | Kid Ory's band records in California, the first recording by a Black New Orleans jazz band; Louis Armstrong joins King Oliver's Creole Jazz Band in Chicago. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1922 | Reclamation surveyors J. G. Tierney and Harold Connelly drown in the Colorado River while studying possible dam sites. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1922-11-24 | Representatives of seven states and the federal government sign the Colorado River Compact at Santa Fe, New Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -1033,6 +1040,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1928 | Amid a feud with the Smithsonian, Orville ships the 1903 Flyer to the Science Museum in London. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1928 | Congress passes the Flood Control Act, shifting federal policy from levees alone to spillways and floodways. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1928 | The Boulder Canyon Project Act approves the Compact, authorizes Hoover Dam and divides the Lower Basin's share among Arizona, California and Nevada. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1928-11-06 | Elected governor of New York. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1928-12-17 | Undersecretary of State J. Reuben Clark's memorandum challenges the corollary on legal grounds. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1928-12-21 | President Coolidge signs the Boulder Canyon Project Act authorizing the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1929-01-15 – 1968-04-04 | **[Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md)** (Person) |
@@ -1060,6 +1068,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1932-01-12 | Hattie Caraway becomes the first woman elected to the Senate. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1932-07 | Federal troops drive the Bonus Army of unemployed World War I veterans out of their camps in Washington, D.C. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1932-10-13 | Chief Justice Charles Evans Hughes lays the cornerstone of the Supreme Court Building. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1932-11-08 | Elected president, defeating Herbert Hoover. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1932-11-14 | The river is turned through the diversion tunnels around the dam site. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933 | At the Montevideo conference the United States pledges non-intervention in the hemisphere. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1933 | California's Indigent Act makes it a crime to bring a poor nonresident into the state. — [Okies](../articles/society-and-people/okies.md) |
@@ -1068,6 +1077,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-03-04 | **[Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md)** (Policy) |
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1933-03-04 | Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-03-12 | Gives his first radio fireside chat, on the banking crisis. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1933-05 | Interior Secretary Harold Ickes orders the structure renamed Boulder Dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-06-06 | The first concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1933-09 | The Soil Erosion Service is set up in the Interior Department with Hugh Hammond Bennett as chief. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
@@ -1089,6 +1099,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935-04-14 | Black Sunday: a dust front sweeps from central Nebraska toward the Mexican border; a reporter's account names the Dust Bowl. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-04-27 | Roosevelt signs the Soil Conservation Act, creating the permanent Soil Conservation Service in the Agriculture Department. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1935-08-14 | Signs the Social Security Act. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936 | Los Angeles police post a border patrol, the "bum blockade", to turn back poor arrivals; it is withdrawn under threat of lawsuits. — [Okies](../articles/society-and-people/okies.md) |
@@ -1100,6 +1111,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1937-02-05 | Asks Congress to add justices to the Supreme Court; the plan is shelved in July. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-03-29 | In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1937-03-29 | The Court upholds a Washington State minimum-wage law for women in West Coast Hotel v. Parrish. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
@@ -1142,6 +1154,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-02-19 | Dry excavation begins in the Gatun sector. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1941-03-11 | The Lend-Lease Act is approved, letting the President sell, lend or lease war materiel to any country whose defense he deems vital to U.S. defense. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1941-06-25 | After A. Philip Randolph threatens a march on Washington, Executive Order 8802 bars discrimination in defense industries with government contracts. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
+| 1941-06-25 | Issues Executive Order 8802 against discrimination in defense industries. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1941-07 | After Japanese forces move into French Indochina, the United States and Britain impose a full oil embargo and Washington freezes Japanese assets. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-11-15 | Congress adopts the method of equal proportions for all future apportionments. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1941-11-24 | In Edwards v. California the Supreme Court strikes down the law, holding that states cannot bar poor migrants from other states. — [Okies](../articles/society-and-people/okies.md) |
@@ -1151,6 +1164,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-12-07 | Japan attacks Pearl Harbor; a presidential proclamation makes Japanese nationals in the U.S. liable to be detained as enemy aliens. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1941-12-07 | Japan attacks the U.S. fleet and airfields at Pearl Harbor, Hawaiʻi. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1941-12-07 | On the day of the Pearl Harbor attack, the territorial governor signs a declaration of martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1941-12-08 | Asks Congress to declare war on Japan after the attack on Pearl Harbor. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1941-12-08 | Congress declares war on Japan, 82-0 in the Senate and 388-1 in the House. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1941-12-08 | Roosevelt addresses a joint session of Congress at 12:30 p.m.; Congress declares war on Japan, with one dissent, and he signs the declaration at 4 p.m. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-11 | Germany and Italy declare war on the United States, and Congress answers with declarations of war against both the same day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1161,6 +1175,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans on the West Coast. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
+| 1942-02-19 | Signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1942-03-18 | Executive Order 9102 creates the War Relocation Authority (WRA) to run the camps. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-21 | Public Law 503 makes violating an exclusion order a federal crime. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-03-23 | The first Civilian Exclusion Order removes Japanese Americans from Bainbridge Island, Washington. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
@@ -1183,13 +1198,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-11 | The American Legion drafts its own "GI Bill of Rights"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1944 | The bill, S. 1767, passes both chambers of Congress unanimously in the spring. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1944-01-22 | Creates the War Refugee Board. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1944-06-06 | D-Day: almost 133,000 Allied troops land on five Normandy beaches under General Eisenhower's command. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1944-06-22 | **[Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md)** (Law) |
 | 1944-06-22 | President Franklin D. Roosevelt signs the Servicemen's Readjustment Act, sixteen days after D-Day. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1944-11-07 | Elected to a fourth term, defeating Thomas E. Dewey. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-03 | The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1945-04-12 | Dies at Warm Springs, Georgia. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1945-05 | Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-08-06 | A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |

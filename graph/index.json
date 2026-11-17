@@ -6796,6 +6796,232 @@
   ]
  },
  {
+  "id": "us:franklin-d-roosevelt",
+  "title": "Franklin D. Roosevelt",
+  "aliases": [
+   "FDR",
+   "Franklin Delano Roosevelt",
+   "32nd President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/franklin-d-roosevelt.md",
+  "created": "2026-11-17",
+  "summary": "The 32nd president of the United States (1933–1945), a New York Democrat who led the country through the Great Depression with the New Deal and through most of World War II, won four presidential elections, and governed from a wheelchair after polio paralyzed his legs in 1921.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:herbert-hoover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:eleanor-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:good-neighbor-policy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:social-security-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fair-labor-standards-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:servicemens-readjustment-act-of-1944"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:attack-on-pearl-harbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:japanese-american-incarceration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:executive-order-9066"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:executive-order-8802"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-refugee-board"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:theodore-roosevelt"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:governor-of-new-york",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:assistant-secretary-of-the-navy",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:democratic-party",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:world-war-ii-and-the-united-states",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:twenty-second-amendment",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1882-01-30",
+  "end": "1945-04-12",
+  "review": [
+   {
+    "question": "Why does the Miller Center argue that the New Deal did not by itself end the Great Depression?",
+    "answer": "Unemployment was still above 19 percent in 1939 and in double digits in 1940, and a sharp recession in 1937–38 followed spending cuts aimed at balancing the budget; in Leuchtenburg's view it was wartime mobilization for World War II that finally ended the slump."
+   },
+   {
+    "question": "How did the New Deal both expand and limit economic security for different Americans?",
+    "answer": "It created old-age and unemployment insurance, union bargaining rights and a minimum wage, but Social Security left out agricultural and domestic workers, many of them African American or Mexican American, and Black Americans and women received far fewer benefits than white men."
+   },
+   {
+    "question": "How did A. Philip Randolph's threatened march lead to Executive Order 8802?",
+    "answer": "Randolph and other Black leaders demanded an order against job discrimination in defense work and threatened to bring tens of thousands of marchers to Washington; Roosevelt issued the order on June 25, 1941, creating the Committee on Fair Employment Practice, and Randolph called off the march."
+   },
+   {
+    "question": "What is the core disagreement among historians about Roosevelt's response to the Holocaust?",
+    "answer": "Critics such as David Wyman argue that political expediency led him to abandon European Jews until it was too late, while Richard Breitman and Allan Lichtman acknowledge early failures but argue that he was the first president to intervene, at least part of the time, for Jews abroad, notably through the War Refugee Board created in January 1944, which is credited with saving at least 200,000 Jews."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1882-01-30",
+    "event": "Born in Hyde Park, New York."
+   },
+   {
+    "date": "1905-03-17",
+    "event": "Marries Eleanor Roosevelt."
+   },
+   {
+    "date": "1910",
+    "event": "Elected to the New York State Senate."
+   },
+   {
+    "date": "1913-03-17",
+    "event": "Sworn in as assistant secretary of the Navy."
+   },
+   {
+    "date": "1920-11-02",
+    "event": "Loses the vice-presidential election on the Democratic ticket headed by James Cox."
+   },
+   {
+    "date": "1921-08",
+    "event": "Stricken with polio at Campobello, New Brunswick; he never again walks unaided."
+   },
+   {
+    "date": "1928-11-06",
+    "event": "Elected governor of New York."
+   },
+   {
+    "date": "1932-11-08",
+    "event": "Elected president, defeating Herbert Hoover."
+   },
+   {
+    "date": "1933-03-12",
+    "event": "Gives his first radio fireside chat, on the banking crisis."
+   },
+   {
+    "date": "1935-08-14",
+    "event": "Signs the Social Security Act."
+   },
+   {
+    "date": "1937-02-05",
+    "event": "Asks Congress to add justices to the Supreme Court; the plan is shelved in July."
+   },
+   {
+    "date": "1941-06-25",
+    "event": "Issues Executive Order 8802 against discrimination in defense industries."
+   },
+   {
+    "date": "1941-12-08",
+    "event": "Asks Congress to declare war on Japan after the attack on Pearl Harbor."
+   },
+   {
+    "date": "1942-02-19",
+    "event": "Signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans."
+   },
+   {
+    "date": "1944-01-22",
+    "event": "Creates the War Refugee Board."
+   },
+   {
+    "date": "1944-11-07",
+    "event": "Elected to a fourth term, defeating Thomas E. Dewey."
+   },
+   {
+    "date": "1945-04-12",
+    "event": "Dies at Warm Springs, Georgia."
+   }
+  ],
+  "misconception": {
+   "myth": "Americans never knew that Roosevelt had polio, because he hid it from the public.",
+   "fact": "His illness was public knowledge; he founded the Georgia Warm Springs Foundation in 1927 and launched the National Foundation for Infantile Paralysis in 1938. What was minimized was its extent. Few Americans understood that he could not walk unaided, because he took care to be seen standing or walking with support and press photographers generally lowered their cameras.",
+   "why": "The \"secret\" version erases both the public polio work he led and how he shaped buildings, cars and wheelchairs around his disability, which the National Park Service now presents as part of disability history."
+  },
+  "source_urls": [
+   "https://millercenter.org/node/311",
+   "https://millercenter.org/node/314",
+   "https://www.millercenter.org/president/fdroosevelt/impact-and-legacy",
+   "https://www.nps.gov/articles/timeline-of-franklin-d-roosevelt-s-life.htm",
+   "https://www.nps.gov/hofr/learn/fdr-and-the-history-of-disability.htm",
+   "https://www.americanheritage.com/fdrs-war-polio",
+   "https://www.archives.gov/milestone-documents/executive-order-9066",
+   "https://www.archives.gov/milestone-documents/executive-order-8802",
+   "https://fdrlibrary.org/documents/356632/390886/7.6+FDR+and+the+Holocaust+3+FINAL+3-18-14.pdf/19dc9138-cc02-4607-b655-23177b6832d7",
+   "https://reagan.blogs.archives.gov/2022/10/11/constitutional-amendments-series-amendment-xxii-term-limits-for-the-presidency",
+   "https://millercenter.org/president/franklin-d-roosevelt"
+  ]
+ },
+ {
   "id": "us:frederick-douglass",
   "title": "Frederick Douglass",
   "aliases": [

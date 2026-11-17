@@ -4047,6 +4047,145 @@
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://schema.org/startDate> "1868-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "His illness was public knowledge; he founded the Georgia Warm Springs Foundation in 1927 and launched the National Foundation for Infantile Paralysis in 1938. What was minimized was its extent. Few Americans understood that he could not walk unaided, because he took care to be seen standing or walking with support and press photographers generally lowered their cameras." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Americans never knew that Roosevelt had polio, because he hid it from the public." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The \"secret\" version erases both the public polio work he led and how he shaped buildings, cars and wheelchairs around his disability, which the National Park Service now presents as part of disability history." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why does the Miller Center argue that the New Deal did not by itself end the Great Depression?" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Unemployment was still above 19 percent in 1939 and in double digits in 1940, and a sharp recession in 1937–38 followed spending cuts aimed at balancing the budget; in Leuchtenburg's view it was wartime mobilization for World War II that finally ended the slump." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the New Deal both expand and limit economic security for different Americans?" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "It created old-age and unemployment insurance, union bargaining rights and a minimum wage, but Social Security left out agricultural and domestic workers, many of them African American or Mexican American, and Black Americans and women received far fewer benefits than white men." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did A. Philip Randolph's threatened march lead to Executive Order 8802?" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Randolph and other Black leaders demanded an order against job discrimination in defense work and threatened to bring tens of thousands of marchers to Washington; Roosevelt issued the order on June 25, 1941, creating the Committee on Fair Employment Practice, and Randolph called off the march." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What is the core disagreement among historians about Roosevelt's response to the Holocaust?" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Critics such as David Wyman argue that political expediency led him to abandon European Jews until it was too late, while Richard Breitman and Allan Lichtman acknowledge early failures but argue that he was the first president to intervene, at least part of the time, for Jews abroad, notably through the War Refugee Board created in January 1944, which is credited with saving at least 200,000 Jews." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the Social Security Act." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Asks Congress to add justices to the Supreme Court; the plan is shelved in July." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Issues Executive Order 8802 against discrimination in defense industries." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Asks Congress to declare war on Japan after the attack on Pearl Harbor." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1941-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Signs Executive Order 9066, which leads to the mass incarceration of Japanese Americans." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1942-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Creates the War Refugee Board." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1944-01-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Elected to a fourth term, defeating Thomas E. Dewey." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1944-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Dies at Warm Springs, Georgia." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born in Hyde Park, New York." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1882-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Marries Eleanor Roosevelt." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1905-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Elected to the New York State Senate." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1910"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Sworn in as assistant secretary of the Navy." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1913-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Loses the vice-presidential election on the Democratic ticket headed by James Cox." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1920-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Stricken with polio at Campobello, New Brunswick; he never again walks unaided." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1921-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Elected governor of New York." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1928-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Elected president, defeating Herbert Hoover." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1932-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Gives his first radio fireside chat, on the banking crisis." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1933-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin D. Roosevelt" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#altLabel> "32nd President of the United States" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#altLabel> "FDR" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#altLabel> "Franklin Delano Roosevelt" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#definition> "The 32nd president of the United States (1933–1945), a New York Democrat who led the country through the Great Depression with the New Deal and through most of World War II, won four presidential elections, and governed from a wheelchair after polio paralyzed his legs in 1921." .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franklin D. Roosevelt" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/eleanor-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/executive-order-8802> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/executive-order-9066> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fair-labor-standards-act> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/herbert-hoover> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/social-security-act> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-refugee-board> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/franklin-d-roosevelt.md" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/assistant-secretary-of-the-navy> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/governor-of-new-york> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/twenty-second-amendment> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/democratic-party> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://schema.org/birthDate> "1882-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://schema.org/deathDate> "1945-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://schema.org/endDate> "1945-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <https://schema.org/startDate> "1882-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No record gives the day. Douglass believed he was born about 1817; a ledger kept by his enslaver Aaron Anthony notes February 1818, possibly added later, and Douglass chose February 14 to celebrate." .
 <https://github.com/john1hsu/usa-graph/id/frederick-douglass/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Douglass was born on February 14, 1818, a birthday recorded at the time." .
@@ -12008,6 +12147,72 @@
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/fourteenth-amendment/s9> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/amendment-14/modern-doctrine-on-selective-incorporation-of-bill-of-rights> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <http://purl.org/dc/terms/publisher> "Ronald Reagan Presidential Library, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <http://purl.org/dc/terms/title> "Constitutional Amendments Series – Amendment XXII – Term Limits for the Presidency" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s10> <https://schema.org/url> <https://reagan.blogs.archives.gov/2022/10/11/constitutional-amendments-series-amendment-xxii-term-limits-for-the-presidency> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <http://purl.org/dc/terms/title> "U.S. Presidents: Franklin D. Roosevelt" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s11> <https://schema.org/url> <https://millercenter.org/president/franklin-d-roosevelt> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <http://purl.org/dc/terms/title> "Franklin D. Roosevelt: Life in Brief" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s1> <https://schema.org/url> <https://millercenter.org/node/311> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <http://purl.org/dc/terms/title> "Franklin D. Roosevelt: Domestic Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s2> <https://schema.org/url> <https://millercenter.org/node/314> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia (William E. Leuchtenburg)" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <http://purl.org/dc/terms/title> "Franklin D. Roosevelt: Impact and Legacy" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s3> <https://schema.org/url> <https://www.millercenter.org/president/fdroosevelt/impact-and-legacy> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <http://purl.org/dc/terms/title> "Timeline of Franklin D. Roosevelt's Life" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s4> <https://schema.org/url> <https://www.nps.gov/articles/timeline-of-franklin-d-roosevelt-s-life.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Home of Franklin D. Roosevelt National Historic Site" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <http://purl.org/dc/terms/title> "FDR and the History of Disability" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s5> <https://schema.org/url> <https://www.nps.gov/hofr/learn/fdr-and-the-history-of-disability.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <http://purl.org/dc/terms/publisher> "American Heritage (Geoffrey C. Ward), June/July 1985" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <http://purl.org/dc/terms/title> "FDR's War with Polio" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s6> <https://schema.org/url> <https://www.americanheritage.com/fdrs-war-polio> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <http://purl.org/dc/terms/title> "Executive Order 9066: Resulting in Japanese-American Incarceration (1942)" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s7> <https://schema.org/url> <https://www.archives.gov/milestone-documents/executive-order-9066> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <http://purl.org/dc/terms/title> "Executive Order 8802: Prohibition of Discrimination in the Defense Industry (1941)" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s8> <https://schema.org/url> <https://www.archives.gov/milestone-documents/executive-order-8802> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <http://purl.org/dc/terms/publisher> "Franklin D. Roosevelt Presidential Library and Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <http://purl.org/dc/terms/title> "FDR and the Holocaust" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/franklin-d-roosevelt/s9> <https://schema.org/url> <https://fdrlibrary.org/documents/356632/390886/7.6+FDR+and+the+Holocaust+3+FINAL+3-18-14.pdf/19dc9138-cc02-4607-b655-23177b6832d7> .
 <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s1> <http://purl.org/dc/terms/date> "2026-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s1> <http://purl.org/dc/terms/publisher> "Library of Congress, Frederick Douglass Papers" .
 <https://github.com/john1hsu/usa-graph/id/source/frederick-douglass/s1> <http://purl.org/dc/terms/title> "Frederick Douglass Timeline" .
