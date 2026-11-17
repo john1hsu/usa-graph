@@ -19,7 +19,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.45 | `us:betsy-ross-flag-myth` | `us:e-pluribus-unum` | `us:flag-of-the-united-states`, `us:francis-hopkinson`, `us:national-symbols-of-the-united-states`, `us:second-continental-congress` |
 | 2.44 | `us:abraham-lincoln` | `us:united-states-congress` | `us:house-of-representatives`, `us:mexican-american-war`, `us:morrill-land-grant-college-act`, `us:presidency-of-the-united-states`, `us:thirteenth-amendment` |
 | 2.38 | `us:mexican-american-war` | `us:united-states` | `us:american-civil-war`, `us:california`, `us:mexico`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
-| 2.38 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
+| 2.37 | `us:civil-rights-movement` | `us:servicemens-readjustment-act-of-1944` | `us:fair-housing-act-of-1968`, `us:jim-crow-laws`, `us:racial-segregation-in-the-united-states` |
 | 2.35 | `us:panic-of-1873` | `us:triangle-shirtwaist-factory-fire` | `us:great-railroad-strike-of-1877`, `us:labor-movement`, `us:new-york-city` |
 | 2.35 | `us:native-americans` | `us:united-states-constitution` | `us:census-and-apportionment`, `us:cherokee-nation-v-georgia`, `us:haudenosaunee`, `us:louisiana-purchase`, `us:treaty-of-paris-1783` |
 | 2.34 | `us:articles-of-confederation` | `us:benjamin-franklin` | `us:american-revolutionary-war`, `us:constitutional-convention`, `us:declaration-of-independence`, `us:george-washington`, `us:haudenosaunee` |

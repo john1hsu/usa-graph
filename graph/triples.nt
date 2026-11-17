@@ -6214,6 +6214,139 @@
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/endDate> "1803-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/startDate> "1803-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "King was a widely admired, broadly popular figure in his own lifetime." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Remembering King only as a unifying icon hides how controversial his demands for desegregation, voting rights, economic justice and an end to the Vietnam War were when he made them." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did King's 1963 Birmingham campaign matter for national civil rights law?" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Televised images of police violence against demonstrators in May 1963 pressured the Kennedy administration, which then proposed major civil rights legislation; President Johnson signed a civil rights law the following year." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did King's standing with the public and the federal government change after 1965, and why?" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "His Chicago campaign against housing discrimination brought no significant gains, and his 1967 Riverside Church speech against the Vietnam War cost him influence on federal racial policy and drew more FBI scrutiny; by August 1966 a Gallup poll found 63% of Americans viewed him unfavorably." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Justice Department in 2000 reject the conspiracy finding of the 1999 King v. Jowers civil verdict?" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It found the allegations of Loyd Jowers and Donald Wilson not credible because both men contradicted themselves and nothing reliable corroborated them, and it judged that the civil trial rested heavily on hearsay, so it saw no reason to disturb the 1969 finding that James Earl Ray killed King." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Speaks at the March on Washington for Jobs and Freedom before more than 200,000 people." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Attorney General Robert Kennedy authorizes FBI wiretaps on King's home and SCLC offices." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Receives the Nobel Peace Prize." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Addresses marchers at the Alabama capitol in Montgomery after the Selma-to-Montgomery march." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Moves into a Chicago neighborhood to campaign against poverty and housing discrimination." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1966"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Denounces the Vietnam War at Riverside Church in New York." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1967-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Announces the Poor People's Campaign." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1967-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1968-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "Assassinated on a balcony of the Lorraine Motel in Memphis." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1929-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1948"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Marries Coretta Scott in Marion, Alabama." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1953-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes pastor of Dexter Avenue Baptist Church in Montgomery, Alabama." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Receives a doctorate in systematic theology from Boston University." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Chosen to lead the Montgomery Improvement Association after Rosa Parks's arrest; the FBI begins monitoring him." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1955-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Founds the Southern Christian Leadership Conference and becomes its president." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1960-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1963-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Luther King Jr." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. King" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#altLabel> "MLK" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#altLabel> "Martin Luther King" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#altLabel> "Michael King Jr." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#definition> "A Baptist minister and civil rights leader (1929–1968) who led the Montgomery bus boycott, founded and headed the Southern Christian Leadership Conference, and became the best-known advocate of nonviolent protest against segregation, disfranchisement and poverty until his assassination in Memphis." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Martin Luther King Jr." .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-act-of-1964> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ella-baker> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federal-bureau-of-investigation> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lyndon-b-johnson> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr-day> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/poor-peoples-campaign> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rosa-parks> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#domain> "people-who-shaped-america" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/people-who-shaped-america/martin-luther-king-jr.md" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/southern-christian-leadership-conference> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/march-on-washington-for-jobs-and-freedom> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/selma-to-montgomery-marches> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/birthDate> "1929-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/deathDate> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/endDate> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/startDate> "1929-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army." .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Abraham Lincoln opposed the Mexican War so strongly that he refused to vote money and supplies for the soldiers fighting it." .
@@ -12066,6 +12199,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://schema.org/url> <https://daily.jstor.org/the-actual-louisiana-purchase-price> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/publisher> "Clayborne Carson, American National Biography (Oxford University Press, 1999), author's Stanford copy" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://purl.org/dc/terms/title> "King, Martin Luther, Jr." .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1> <https://schema.org/url> <https://web.stanford.edu/~ccarson/articles/King,%20Martin%20Luther,%20Jr.,%20in%20ANB.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <http://purl.org/dc/terms/publisher> "The Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <http://purl.org/dc/terms/title> "Federal Bureau of Investigation (FBI)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2> <https://schema.org/url> <https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <http://purl.org/dc/terms/publisher> "The Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <http://purl.org/dc/terms/title> "Baker, Ella Josephine" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3> <https://schema.org/url> <https://kinginstitute.stanford.edu/baker-ella-josephine> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <http://purl.org/dc/terms/publisher> "U.S. Statutes at Large, 97 Stat. 917 (Office of the Law Revision Counsel copy)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <http://purl.org/dc/terms/title> "Public Law 98-144: An Act to amend title 5, United States Code, to make the birthday of Martin Luther King, Jr., a legal public holiday (H.R. 3706)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4> <https://schema.org/url> <https://uscodeweb1.house.gov/statutes/pl/98/144.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Civil Rights Division (June 2000)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <http://purl.org/dc/terms/title> "United States Department of Justice Investigation of Recent Allegations Regarding the Assassination of Dr. Martin Luther King, Jr. — Part I: Introduction and Summary" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5> <https://schema.org/url> <https://www.justice.gov/crt/about/crm/mlk/part2.php> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <http://purl.org/dc/terms/publisher> "Pew Research Center (August 10, 2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <http://purl.org/dc/terms/title> "How public attitudes toward Martin Luther King Jr. have changed since the 1960s" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6> <https://schema.org/url> <https://pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <http://purl.org/dc/terms/publisher> "The Nobel Prize (Nobel Prize Outreach)" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <http://purl.org/dc/terms/title> "Martin Luther King Jr. – Facts" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <https://schema.org/url> <https://www.nobelprize.org/prizes/peace/1964/king/facts/> .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/publisher> "The Papers of Abraham Lincoln" .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/title> "Abraham Lincoln to William H. Herndon, 1 February 1848" .

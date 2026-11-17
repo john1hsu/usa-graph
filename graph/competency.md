@@ -107,11 +107,11 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:lattimer-massacre` | interpretive |  |
 | `us:liberty-bell` | interpretive |  |
 | `us:louisiana-purchase` | interpretive |  |
+| `us:martin-luther-king-jr` | interpretive |  |
 | `us:mexican-american-war` | interpretive |  |
 | `us:missouri-compromise` | interpretive | `us:dred-scott-v-sandford` |
-| `us:monroe-doctrine` | interpretive |  |
 
-…and 15 more.
+…and 16 more.
 
 ## Places with nothing tied to them (gap)
 

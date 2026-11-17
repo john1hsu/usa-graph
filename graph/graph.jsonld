@@ -8515,6 +8515,202 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable.",
+   "uso:myth": "King was a widely admired, broadly popular figure in his own lifetime.",
+   "uso:why": "Remembering King only as a unifying icon hides how controversial his demands for desegregation, voting rights, economic justice and an end to the Vietnam War were when he made them."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did King's 1963 Birmingham campaign matter for national civil rights law?",
+   "uso:answer": "Televised images of police violence against demonstrators in May 1963 pressured the Kennedy administration, which then proposed major civil rights legislation; President Johnson signed a civil rights law the following year.",
+   "uso:questionFor": {
+    "@id": "us:martin-luther-king-jr"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did King's standing with the public and the federal government change after 1965, and why?",
+   "uso:answer": "His Chicago campaign against housing discrimination brought no significant gains, and his 1967 Riverside Church speech against the Vietnam War cost him influence on federal racial policy and drew more FBI scrutiny; by August 1966 a Gallup poll found 63% of Americans viewed him unfavorably.",
+   "uso:questionFor": {
+    "@id": "us:martin-luther-king-jr"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Justice Department in 2000 reject the conspiracy finding of the 1999 King v. Jowers civil verdict?",
+   "uso:answer": "It found the allegations of Loyd Jowers and Donald Wilson not credible because both men contradicted themselves and nothing reliable corroborated them, and it judged that the civil trial rested heavily on hearsay, so it saw no reason to disturb the 1969 finding that James Earl Ray killed King.",
+   "uso:questionFor": {
+    "@id": "us:martin-luther-king-jr"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1929-01-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Speaks at the March on Washington for Jobs and Freedom before more than 200,000 people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1963-08-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Attorney General Robert Kennedy authorizes FBI wiretaps on King's home and SCLC offices.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1963-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Receives the Nobel Peace Prize.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1964-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Addresses marchers at the Alabama capitol in Montgomery after the Selma-to-Montgomery march.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-03-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Moves into a Chicago neighborhood to campaign against poverty and housing discrimination.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1966"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Denounces the Vietnam War at Riverside Church in New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1967-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Announces the Poor People's Campaign.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1967-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-04-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Assassinated on a balcony of the Lorraine Motel in Memphis.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1968-04-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1948"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marries Coretta Scott in Marion, Alabama.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-06-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes pastor of Dexter Avenue Baptist Church in Montgomery, Alabama.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1954"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Receives a doctorate in systematic theology from Boston University.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1955"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chosen to lead the Montgomery Improvement Association after Rosa Parks's arrest; the FBI begins monitoring him.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1955-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Founds the Southern Christian Leadership Conference and becomes its president.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1957"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1960-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1963-04"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army.",
@@ -19537,6 +19733,104 @@
     "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Clayborne Carson, American National Biography (Oxford University Press, 1999), author's Stanford copy",
+   "dcterms:title": "King, Martin Luther, Jr.",
+   "schema:url": {
+    "@id": "https://web.stanford.edu/~ccarson/articles/King,%20Martin%20Luther,%20Jr.,%20in%20ANB.htm"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Federal Bureau of Investigation (FBI)",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "Baker, Ella Josephine",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/baker-ella-josephine"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Statutes at Large, 97 Stat. 917 (Office of the Law Revision Counsel copy)",
+   "dcterms:title": "Public Law 98-144: An Act to amend title 5, United States Code, to make the birthday of Martin Luther King, Jr., a legal public holiday (H.R. 3706)",
+   "schema:url": {
+    "@id": "https://uscodeweb1.house.gov/statutes/pl/98/144.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "U.S. Department of Justice, Civil Rights Division (June 2000)",
+   "dcterms:title": "United States Department of Justice Investigation of Recent Allegations Regarding the Assassination of Dr. Martin Luther King, Jr. — Part I: Introduction and Summary",
+   "schema:url": {
+    "@id": "https://www.justice.gov/crt/about/crm/mlk/part2.php"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Pew Research Center (August 10, 2023)",
+   "dcterms:title": "How public attitudes toward Martin Luther King Jr. have changed since the 1960s",
+   "schema:url": {
+    "@id": "https://pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Nobel Prize (Nobel Prize Outreach)",
+   "dcterms:title": "Martin Luther King Jr. – Facts",
+   "schema:url": {
+    "@id": "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+   },
+   "uso:sourceType": "institutional"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s1",
@@ -38452,6 +38746,189 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:martin-luther-king-jr",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7"
+    }
+   ],
+   "rdfs:label": "Martin Luther King Jr.",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1929-01-15"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1968-04-04"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1968-04-04"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1929-01-15"
+   },
+   "skos:altLabel": [
+    "Dr. King",
+    "MLK",
+    "Martin Luther King",
+    "Michael King Jr."
+   ],
+   "skos:broader": {
+    "@id": "us:african-american-history"
+   },
+   "skos:definition": "A Baptist minister and civil rights leader (1929–1968) who led the Montgomery bus boycott, founded and headed the Southern Christian Leadership Conference, and became the best-known advocate of nonviolent protest against segregation, disfranchisement and poverty until his assassination in Memphis.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america"
+   },
+   "skos:prefLabel": "Martin Luther King Jr.",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:brown-v-board-of-education"
+    },
+    {
+     "@id": "us:civil-rights-act-of-1964"
+    },
+    {
+     "@id": "us:ella-baker"
+    },
+    {
+     "@id": "us:federal-bureau-of-investigation"
+    },
+    {
+     "@id": "us:jim-crow-laws"
+    },
+    {
+     "@id": "us:lyndon-b-johnson"
+    },
+    {
+     "@id": "us:martin-luther-king-jr-day"
+    },
+    {
+     "@id": "us:poor-peoples-campaign"
+    },
+    {
+     "@id": "us:rosa-parks"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    }
+   ],
+   "uso:domain": "people-who-shaped-america",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/people-who-shaped-america/martin-luther-king-jr.md",
+   "uso:level": "introductory",
+   "uso:memberOf": {
+    "@id": "us:southern-christian-leadership-conference"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:march-on-washington-for-jobs-and-freedom"
+    },
+    {
+     "@id": "us:memphis-sanitation-strike"
+    },
+    {
+     "@id": "us:montgomery-bus-boycott"
+    },
+    {
+     "@id": "us:selma-to-montgomery-marches"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:jim-crow-laws"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr/timeline/9"
     }
    ]
   },

@@ -1180,6 +1180,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Tubman have to petition Congress for a pension, and what did she get?
   **A:** She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse.
 
+### [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) — Person
+
+| Myth | Fact |
+|---|---|
+| King was a widely admired, broadly popular figure in his own lifetime. | In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable. |
+
+**Why it matters:** Remembering King only as a unifying icon hides how controversial his demands for desegregation, voting rights, economic justice and an end to the Vietnam War were when he made them.
+
+- **Q:** Why did King's 1963 Birmingham campaign matter for national civil rights law?
+  **A:** Televised images of police violence against demonstrators in May 1963 pressured the Kennedy administration, which then proposed major civil rights legislation; President Johnson signed a civil rights law the following year.
+- **Q:** How did King's standing with the public and the federal government change after 1965, and why?
+  **A:** His Chicago campaign against housing discrimination brought no significant gains, and his 1967 Riverside Church speech against the Vietnam War cost him influence on federal racial policy and drew more FBI scrutiny; by August 1966 a Gallup poll found 63% of Americans viewed him unfavorably.
+- **Q:** Why did the Justice Department in 2000 reject the conspiracy finding of the 1999 King v. Jowers civil verdict?
+  **A:** It found the allegations of Loyd Jowers and Donald Wilson not credible because both men contradicted themselves and nothing reliable corroborated them, and it judged that the civil trial rested heavily on hearsay, so it saw no reason to disturb the 1969 finding that James Earl Ray killed King.
+
 ### [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) — Person
 
 | Myth | Fact |

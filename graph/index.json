@@ -10439,6 +10439,217 @@
   ]
  },
  {
+  "id": "us:martin-luther-king-jr",
+  "title": "Martin Luther King Jr.",
+  "aliases": [
+   "Martin Luther King",
+   "Michael King Jr.",
+   "MLK",
+   "Dr. King"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/people-who-shaped-america/martin-luther-king-jr.md",
+  "created": "2026-11-16",
+  "summary": "A Baptist minister and civil rights leader (1929–1968) who led the Montgomery bus boycott, founded and headed the Southern Christian Leadership Conference, and became the best-known advocate of nonviolent protest against segregation, disfranchisement and poverty until his assassination in Memphis.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-american-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:rosa-parks"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ella-baker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:brown-v-board-of-education"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:voting-rights-act-of-1965"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:civil-rights-act-of-1964"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lyndon-b-johnson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-bureau-of-investigation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:poor-peoples-campaign"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martin-luther-king-jr-day"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jim-crow-laws"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:civil-rights-movement",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:montgomery-bus-boycott",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:march-on-washington-for-jobs-and-freedom",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:selma-to-montgomery-marches",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:memphis-sanitation-strike",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:southern-christian-leadership-conference",
+    "source": "s7",
+    "confidence": "high"
+   }
+  ],
+  "start": "1929-01-15",
+  "end": "1968-04-04",
+  "review": [
+   {
+    "question": "Why did King's 1963 Birmingham campaign matter for national civil rights law?",
+    "answer": "Televised images of police violence against demonstrators in May 1963 pressured the Kennedy administration, which then proposed major civil rights legislation; President Johnson signed a civil rights law the following year."
+   },
+   {
+    "question": "How did King's standing with the public and the federal government change after 1965, and why?",
+    "answer": "His Chicago campaign against housing discrimination brought no significant gains, and his 1967 Riverside Church speech against the Vietnam War cost him influence on federal racial policy and drew more FBI scrutiny; by August 1966 a Gallup poll found 63% of Americans viewed him unfavorably."
+   },
+   {
+    "question": "Why did the Justice Department in 2000 reject the conspiracy finding of the 1999 King v. Jowers civil verdict?",
+    "answer": "It found the allegations of Loyd Jowers and Donald Wilson not credible because both men contradicted themselves and nothing reliable corroborated them, and it judged that the civil trial rested heavily on hearsay, so it saw no reason to disturb the 1969 finding that James Earl Ray killed King."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1929-01-15",
+    "event": "Born Michael King Jr. in Atlanta, Georgia; in 1934 his father changes both their names to Martin Luther King."
+   },
+   {
+    "date": "1948",
+    "event": "Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change."
+   },
+   {
+    "date": "1953-06-18",
+    "event": "Marries Coretta Scott in Marion, Alabama."
+   },
+   {
+    "date": "1954",
+    "event": "Becomes pastor of Dexter Avenue Baptist Church in Montgomery, Alabama."
+   },
+   {
+    "date": "1955",
+    "event": "Receives a doctorate in systematic theology from Boston University."
+   },
+   {
+    "date": "1955-12",
+    "event": "Chosen to lead the Montgomery Improvement Association after Rosa Parks's arrest; the FBI begins monitoring him."
+   },
+   {
+    "date": "1957",
+    "event": "Founds the Southern Christian Leadership Conference and becomes its president."
+   },
+   {
+    "date": "1960-04",
+    "event": "With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church."
+   },
+   {
+    "date": "1963-04",
+    "event": "Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail."
+   },
+   {
+    "date": "1963-08-28",
+    "event": "Speaks at the March on Washington for Jobs and Freedom before more than 200,000 people."
+   },
+   {
+    "date": "1963-10",
+    "event": "Attorney General Robert Kennedy authorizes FBI wiretaps on King's home and SCLC offices."
+   },
+   {
+    "date": "1964-12",
+    "event": "Receives the Nobel Peace Prize."
+   },
+   {
+    "date": "1965-03-25",
+    "event": "Addresses marchers at the Alabama capitol in Montgomery after the Selma-to-Montgomery march."
+   },
+   {
+    "date": "1966",
+    "event": "Moves into a Chicago neighborhood to campaign against poverty and housing discrimination."
+   },
+   {
+    "date": "1967-04-04",
+    "event": "Denounces the Vietnam War at Riverside Church in New York."
+   },
+   {
+    "date": "1967-11",
+    "event": "Announces the Poor People's Campaign."
+   },
+   {
+    "date": "1968-04-03",
+    "event": "Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers."
+   },
+   {
+    "date": "1968-04-04",
+    "event": "Assassinated on a balcony of the Lorraine Motel in Memphis."
+   }
+  ],
+  "misconception": {
+   "myth": "King was a widely admired, broadly popular figure in his own lifetime.",
+   "fact": "In an August 1966 Gallup survey, 63% of Americans viewed King unfavorably, 44% highly so; by August 2011 Gallup found 94% favorable.",
+   "why": "Remembering King only as a unifying icon hides how controversial his demands for desegregation, voting rights, economic justice and an end to the Vietnam War were when he made them."
+  },
+  "source_urls": [
+   "https://web.stanford.edu/~ccarson/articles/King,%20Martin%20Luther,%20Jr.,%20in%20ANB.htm",
+   "https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi",
+   "https://kinginstitute.stanford.edu/baker-ella-josephine",
+   "https://uscodeweb1.house.gov/statutes/pl/98/144.pdf",
+   "https://www.justice.gov/crt/about/crm/mlk/part2.php",
+   "https://pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s",
+   "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+  ]
+ },
+ {
   "id": "us:mexican-american-war",
   "title": "Mexican–American War",
   "aliases": [
