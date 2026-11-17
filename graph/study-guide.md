@@ -1734,6 +1734,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is it inaccurate to say "In God We Trust" replaced E pluribus unum as the national motto in 1956?
   **A:** E pluribus unum had never been designated the national motto by law. The 1956 act was the first to declare a national motto, and E pluribus unum remained on the Great Seal and is still required by law on the reverse of every U.S. coin.
 
+### [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) — Symbol
+
+| Myth | Fact |
+|---|---|
+| The pyramid and all-seeing eye on the back of the dollar bill are a Masonic emblem that Freemason founders put on the Great Seal. | The Eye of Providence came from artist Pierre Eugène Du Simitière's 1776 design for the first seal committee, the pyramid from William Barton's 1782 reverse, and Charles Thomson finished both; Franklin is the only known Freemason involved at any stage, and the eye-over-pyramid has never been adopted as a symbol by any grand lodge. |
+
+**Why it matters:** Some Masonic lodges have used an eye as a design element, and the reverse, never cut as a die, became familiar through the 1935 one-dollar bill rather than through Thomson's 1782 explanation of its religious and patriotic meaning.
+
+- **Q:** Why did it take six years and three committees to produce the Great Seal?
+  **A:** The 1776 committee's elaborate design, with emblems of European nations and a Red Sea scene, was tabled; a 1780 committee's report was recommitted; only in 1782 did Congress give the material of all three committees to Charles Thomson, who combined elements such as the 1776 eye and motto and Barton's eagle and pyramid into a design Congress accepted within a week.
+- **Q:** How does the front of the seal express the powers Congress held under the Articles of Confederation?
+  **A:** The eagle holds an olive branch and thirteen arrows, standing for the powers of peace and war, which under the Confederation belonged to Congress alone; the shield's thirteen stripes for the states are joined under a blue chief representing Congress.
+- **Q:** Why does the reverse of the seal appear on the dollar bill but never on an official document?
+  **A:** No die for the reverse has ever been cut, so documents are sealed only with the obverse; the reverse became widely seen after Roosevelt approved a 1935 dollar-bill design that printed both sides.
+- **Q:** What evidence contradicts the claim that the eye and pyramid are a Masonic emblem?
+  **A:** The design record traces the eye to the non-Mason artist Du Simitière in 1776 and the pyramid to Barton in 1782, with Thomson finishing the reverse; Franklin was the only known Mason involved, and no grand lodge has adopted the eye over a pyramid as a symbol.
+
 ### [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) — Symbol
 
 | Myth | Fact |

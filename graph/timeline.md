@@ -104,6 +104,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-07-04 | Congress adopts the Declaration of Independence. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776-07-04 | Congress adopts the Declaration of Independence. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-07-04 | Congress approves the revised text and orders it printed; John Dunlap prints about 200 broadsides. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
+| 1776-07-04 | Congress names Franklin, Adams and Jefferson a committee to devise a seal for the new nation. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1776-07-04 | The Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson as a committee to design a seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1776-07-04 | The Second Continental Congress appoints Benjamin Franklin, John Adams and Thomas Jefferson to design a seal for the United States. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1776-07-08 | John Nixon gives the first public reading in the State House Yard in Philadelphia. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
@@ -112,6 +113,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1776-08-02 | John Hancock and most of the delegates sign the engrossed parchment. — [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) |
 | 1776-08-20 | **[E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md)** (Symbol) |
 | 1776-08-20 | The committee reports a design drawn up with artist Pierre Eugène Du Simitière bearing the motto E PLURIBUS UNUM; Congress tables it. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1776-08-20 | The first committee's report, with the Eye of Providence and the motto E pluribus unum, is read and tabled. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1776-08-20 | The first seal committee reports its design; Congress tables it, and two more committees follow in 1780 and 1782. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1776-09-09 | Congress orders that "United States" replace "United Colonies" in official documents. — [United States](../articles/states-and-territories/united-states.md) |
 | 1776-09-28 | Pennsylvania adopts its first state constitution, with a one-house Assembly and no governor. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -150,6 +152,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780-03 | A second committee, advised by Francis Hopkinson, adds the 13 stripes, 13 stars and olive branch but produces no accepted seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1780-03-01 | Pennsylvania enacts the first state law for the gradual abolition of slavery. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1780-03-25 | A second committee, advised by Francis Hopkinson, takes up the design; its report is recommitted in May. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
@@ -158,10 +161,15 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1782-03-20 | Lord North resigns as prime minister; the new British government opens peace talks in Paris. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1782-05 | A third committee turns to Philadelphia lawyer William Barton, who drafts an eagle and a thirteen-step pyramid. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
+| 1782-06-13 | Congress hands all three committees' material to its secretary, Charles Thomson. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1782-06-13 | Congress hands the work of all three committees to its secretary, Charles Thomson, who puts the motto on a scroll in the eagle's beak. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1782-06-20 | **[Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md)** (Symbol) |
+| 1782-06-20 | Congress adopts Thomson's design and his written explanation of its symbols. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1782-06-20 | The Confederation Congress adopts the Great Seal with the motto. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1782-06-20 | The Confederation Congress approves the Great Seal, with a bald eagle holding arrows and an olive branch. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1782-08-19 | British rangers and Native allies rout Kentucky militia at Blue Licks, ten months after Yorktown. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1782-09-16 | The first brass die is used on a document empowering George Washington to negotiate over prisoners of war. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1782-09-27 | Formal peace negotiations open in Paris between British envoys and the American commissioners Benjamin Franklin, John Adams and John Jay. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1782-11-06 | His wife, Martha Wayles Jefferson, dies after childbirth. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1782-11-30 | American and British commissioners sign preliminary articles of peace. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
@@ -221,6 +229,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1789-09-15 | An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1789-09-24 | **[Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md)** (Institution) |
 | 1789-09-24 | The Judiciary Act of 1789 organizes the Court with a chief justice and five associate justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1789-09-25 | Congress proposes twelve amendments, including the article containing the Due Process Clause. — [Due process](../articles/rights-and-law/due-process.md) |
@@ -407,6 +416,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1839-09-06 | The reunited Cherokee Nation adopts a new constitution with its capital at Tahlequah. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1840 | The American Anti-Slavery Society splits over women's leadership and politics; the Liberty Party runs James G. Birney for president. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1840 | The city's enslaved population peaks at 23,448, nearly a quarter of its residents. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1841 | A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -733,6 +743,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1883-11-26 | Dies at her home in Battle Creek, Michigan, and is buried in Oak Hill Cemetery. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1884 | His mother and his first wife, Alice, die in the same house on the same day. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1884-11-03 | Elk v. Wilkins holds that Native Americans who had left their nations were still not U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1885 | A Tiffany & Co. die corrects the errors of the 1841 and 1877 dies. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1885 | The bell travels to the World's Industrial and Cotton Centennial Exposition in New Orleans, the first of seven trips. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1885-09-02 | White miners in Rock Springs kill 28 Chinese coal miners and wound 15. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -1018,6 +1029,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1934-05-11 | A great dust storm carries Plains soil over Washington, D.C., and out over the Atlantic. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
+| 1935 | Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1935 | The Court moves into its own building in its 146th year. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
 | 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1322,6 +1334,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1986 | The Bureau of Engraving and Printing makes the master die from which current dies are produced. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1986-10-07 | Congress designates the rose as the national floral emblem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1987 | California v. Cabazon Band of Mission Indians holds that state regulation of on-reservation bingo would infringe tribal government. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |

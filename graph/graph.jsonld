@@ -6534,6 +6534,157 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Eye of Providence came from artist Pierre Eugène Du Simitière's 1776 design for the first seal committee, the pyramid from William Barton's 1782 reverse, and Charles Thomson finished both; Franklin is the only known Freemason involved at any stage, and the eye-over-pyramid has never been adopted as a symbol by any grand lodge.",
+   "uso:myth": "The pyramid and all-seeing eye on the back of the dollar bill are a Masonic emblem that Freemason founders put on the Great Seal.",
+   "uso:why": "Some Masonic lodges have used an eye as a design element, and the reverse, never cut as a die, became familiar through the 1935 one-dollar bill rather than through Thomson's 1782 explanation of its religious and patriotic meaning."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did it take six years and three committees to produce the Great Seal?",
+   "uso:answer": "The 1776 committee's elaborate design, with emblems of European nations and a Red Sea scene, was tabled; a 1780 committee's report was recommitted; only in 1782 did Congress give the material of all three committees to Charles Thomson, who combined elements such as the 1776 eye and motto and Barton's eagle and pyramid into a design Congress accepted within a week.",
+   "uso:questionFor": {
+    "@id": "us:great-seal-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the front of the seal express the powers Congress held under the Articles of Confederation?",
+   "uso:answer": "The eagle holds an olive branch and thirteen arrows, standing for the powers of peace and war, which under the Confederation belonged to Congress alone; the shield's thirteen stripes for the states are joined under a blue chief representing Congress.",
+   "uso:questionFor": {
+    "@id": "us:great-seal-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does the reverse of the seal appear on the dollar bill but never on an official document?",
+   "uso:answer": "No die for the reverse has ever been cut, so documents are sealed only with the obverse; the reverse became widely seen after Roosevelt approved a 1935 dollar-bill design that printed both sides.",
+   "uso:questionFor": {
+    "@id": "us:great-seal-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What evidence contradicts the claim that the eye and pyramid are a Masonic emblem?",
+   "uso:answer": "The design record traces the eye to the non-Mason artist Du Simitière in 1776 and the pyramid to Barton in 1782, with Thomson finishing the reverse; Franklin was the only known Mason involved, and no grand lodge has adopted the eye over a pyramid as a symbol.",
+   "uso:questionFor": {
+    "@id": "us:great-seal-of-the-united-states"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress names Franklin, Adams and Jefferson a committee to devise a seal for the new nation.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-07-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Tiffany & Co. die corrects the errors of the 1841 and 1877 dies.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1885"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Bureau of Engraving and Printing makes the master die from which current dies are produced.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1986"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first committee's report, with the Eye of Providence and the motto E pluribus unum, is read and tabled.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1776-08-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second committee, advised by Francis Hopkinson, takes up the design; its report is recommitted in May.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1780-03-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A third committee turns to Philadelphia lawyer William Barton, who drafts an eagle and a thirteen-step pyramid.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1782-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress hands all three committees' material to its secretary, Charles Thomson.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-06-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress adopts Thomson's design and his written explanation of its symbols.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-06-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first brass die is used on a document empowering George Washington to negotiate over prisoners of war.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1782-09-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-09-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1841"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman.",
@@ -18596,6 +18747,104 @@
     "@id": "https://www.heinzhistorycenter.org/?p=1110"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Department of State",
+   "dcterms:title": "The Great Seal of the United States",
+   "schema:url": {
+    "@id": "https://diplomacy.state.gov/wp-content/uploads/2022/10/Great-Seal-PDF.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives (DocsTeach)",
+   "dcterms:title": "Report on the Seal of the United States (Charles Thomson, June 20, 1782), National Archives Identifier 595243",
+   "schema:url": {
+    "@id": "https://docsteach.org/document/report-great-seal/"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "IV. Report of the Committee, [2]0 August 1776 (The Papers of Thomas Jefferson, vol. 1)",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Jefferson/01-01-02-0206-0004"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Government Publishing Office (govinfo), United States Statutes at Large",
+   "dcterms:title": "An Act to provide for the safe-keeping of the Acts, Records and Seal of the United States (1 Stat. 68, September 15, 1789)",
+   "schema:url": {
+    "@id": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg68.pdf"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Thomas Jefferson Foundation (Monticello), Thomas Jefferson Encyclopedia",
+   "dcterms:title": "Seal of the United States",
+   "schema:url": {
+    "@id": "https://www.monticello.org/encyclopedia/seal-united-states"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Scottish Rite of Freemasonry, Southern Jurisdiction",
+   "dcterms:title": "Is the \"eye in the pyramid\" a Masonic symbol?",
+   "schema:url": {
+    "@id": "https://scottishrite.org/?p=13692"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Marketplace (Nancy Marshall-Genzer, March 3, 2014)",
+   "dcterms:title": "The creepy eye on the back of the dollar bill, explained",
+   "schema:url": {
+    "@id": "https://www.marketplace.org/2014/03/03/creepy-eye-back-dollar-bill-explained/"
+   },
+   "uso:sourceType": "news"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1",
@@ -37873,6 +38122,161 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:great-seal-of-the-united-states",
+   "@type": "uso:Symbol",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/great-seal-of-the-united-states/s7"
+    }
+   ],
+   "rdfs:label": "Great Seal of the United States",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1782-06-20"
+   },
+   "skos:altLabel": [
+    "Great Seal of the U.S.",
+    "Great Seal",
+    "Seal of the United States"
+   ],
+   "skos:broader": {
+    "@id": "us:national-symbols-of-the-united-states"
+   },
+   "skos:definition": "The official seal of the United States, adopted by the Confederation Congress on June 20, 1782, after three committees' work was combined by Charles Thomson: its front shows a bald eagle with an olive branch, thirteen arrows and the motto E pluribus unum, and its never-engraved reverse shows an unfinished pyramid under the Eye of Providence. The Secretary of State has kept it since 1789.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/symbols-and-national-identity"
+   },
+   "skos:prefLabel": "Great Seal of the United States",
+   "skos:related": [
+    {
+     "@id": "us:bald-eagle"
+    },
+    {
+     "@id": "us:benjamin-franklin"
+    },
+    {
+     "@id": "us:charles-thomson"
+    },
+    {
+     "@id": "us:confederation-period"
+    },
+    {
+     "@id": "us:e-pluribus-unum"
+    },
+    {
+     "@id": "us:flag-of-the-united-states"
+    },
+    {
+     "@id": "us:francis-hopkinson"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:great-seal-masonic-origin-myth"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:second-continental-congress"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:united-states-secretary-of-state"
+    }
+   ],
+   "uso:commemorates": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:domain": "symbols-and-national-identity",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/symbols-and-national-identity/great-seal-of-the-united-states.md",
+   "uso:influencedBy": {
+    "@id": "us:pierre-eugene-du-simitiere"
+   },
+   "uso:introducedBy": [
+    {
+     "@id": "us:charles-thomson"
+    },
+    {
+     "@id": "us:william-barton"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/misconception"
+   },
+   "uso:requires": {
+    "@id": "us:declaration-of-independence"
+   },
+   "uso:symbolizes": {
+    "@id": "us:united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/9"
     }
    ]
   },

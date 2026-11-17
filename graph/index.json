@@ -8043,6 +8043,198 @@
   ]
  },
  {
+  "id": "us:great-seal-of-the-united-states",
+  "title": "Great Seal of the United States",
+  "aliases": [
+   "Great Seal",
+   "Seal of the United States",
+   "Great Seal of the U.S."
+  ],
+  "type": "Symbol",
+  "domain": "symbols-and-national-identity",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/symbols-and-national-identity/great-seal-of-the-united-states.md",
+  "created": "2026-11-17",
+  "summary": "The official seal of the United States, adopted by the Confederation Congress on June 20, 1782, after three committees' work was combined by Charles Thomson: its front shows a bald eagle with an olive branch, thirteen arrows and the motto E pluribus unum, and its never-engraved reverse shows an unfinished pyramid under the Eye of Providence. The Secretary of State has kept it since 1789.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:e-pluribus-unum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bald-eagle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charles-thomson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francis-hopkinson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:benjamin-franklin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-secretary-of-state"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-continental-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:confederation-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:flag-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-seal-masonic-origin-myth"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:declaration-of-independence"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:charles-thomson",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:introducedBy",
+    "object": "us:william-barton",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:pierre-eugene-du-simitiere",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:symbolizes",
+    "object": "us:united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:commemorates",
+    "object": "us:declaration-of-independence",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1782-06-20",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did it take six years and three committees to produce the Great Seal?",
+    "answer": "The 1776 committee's elaborate design, with emblems of European nations and a Red Sea scene, was tabled; a 1780 committee's report was recommitted; only in 1782 did Congress give the material of all three committees to Charles Thomson, who combined elements such as the 1776 eye and motto and Barton's eagle and pyramid into a design Congress accepted within a week."
+   },
+   {
+    "question": "How does the front of the seal express the powers Congress held under the Articles of Confederation?",
+    "answer": "The eagle holds an olive branch and thirteen arrows, standing for the powers of peace and war, which under the Confederation belonged to Congress alone; the shield's thirteen stripes for the states are joined under a blue chief representing Congress."
+   },
+   {
+    "question": "Why does the reverse of the seal appear on the dollar bill but never on an official document?",
+    "answer": "No die for the reverse has ever been cut, so documents are sealed only with the obverse; the reverse became widely seen after Roosevelt approved a 1935 dollar-bill design that printed both sides."
+   },
+   {
+    "question": "What evidence contradicts the claim that the eye and pyramid are a Masonic emblem?",
+    "answer": "The design record traces the eye to the non-Mason artist Du Simitière in 1776 and the pyramid to Barton in 1782, with Thomson finishing the reverse; Franklin was the only known Mason involved, and no grand lodge has adopted the eye over a pyramid as a symbol."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1776-07-04",
+    "event": "Congress names Franklin, Adams and Jefferson a committee to devise a seal for the new nation."
+   },
+   {
+    "date": "1776-08-20",
+    "event": "The first committee's report, with the Eye of Providence and the motto E pluribus unum, is read and tabled."
+   },
+   {
+    "date": "1780-03-25",
+    "event": "A second committee, advised by Francis Hopkinson, takes up the design; its report is recommitted in May."
+   },
+   {
+    "date": "1782-05",
+    "event": "A third committee turns to Philadelphia lawyer William Barton, who drafts an eagle and a thirteen-step pyramid."
+   },
+   {
+    "date": "1782-06-13",
+    "event": "Congress hands all three committees' material to its secretary, Charles Thomson."
+   },
+   {
+    "date": "1782-06-20",
+    "event": "Congress adopts Thomson's design and his written explanation of its symbols."
+   },
+   {
+    "date": "1782-09-16",
+    "event": "The first brass die is used on a document empowering George Washington to negotiate over prisoners of war."
+   },
+   {
+    "date": "1789-09-15",
+    "event": "An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal."
+   },
+   {
+    "date": "1841",
+    "event": "A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal."
+   },
+   {
+    "date": "1885",
+    "event": "A Tiffany & Co. die corrects the errors of the 1841 and 1877 dies."
+   },
+   {
+    "date": "1935",
+    "event": "Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal."
+   },
+   {
+    "date": "1986",
+    "event": "The Bureau of Engraving and Printing makes the master die from which current dies are produced."
+   }
+  ],
+  "misconception": {
+   "myth": "The pyramid and all-seeing eye on the back of the dollar bill are a Masonic emblem that Freemason founders put on the Great Seal.",
+   "fact": "The Eye of Providence came from artist Pierre Eugène Du Simitière's 1776 design for the first seal committee, the pyramid from William Barton's 1782 reverse, and Charles Thomson finished both; Franklin is the only known Freemason involved at any stage, and the eye-over-pyramid has never been adopted as a symbol by any grand lodge.",
+   "why": "Some Masonic lodges have used an eye as a design element, and the reverse, never cut as a die, became familiar through the 1935 one-dollar bill rather than through Thomson's 1782 explanation of its religious and patriotic meaning."
+  },
+  "source_urls": [
+   "https://diplomacy.state.gov/wp-content/uploads/2022/10/Great-Seal-PDF.pdf",
+   "https://docsteach.org/document/report-great-seal/",
+   "https://founders.archives.gov/documents/Jefferson/01-01-02-0206-0004",
+   "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg68.pdf",
+   "https://www.monticello.org/encyclopedia/seal-united-states",
+   "https://scottishrite.org/?p=13692",
+   "https://www.marketplace.org/2014/03/03/creepy-eye-back-dollar-bill-explained/"
+  ]
+ },
+ {
   "id": "us:harriet-tubman",
   "title": "Harriet Tubman",
   "aliases": [
