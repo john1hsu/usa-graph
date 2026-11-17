@@ -369,6 +369,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1807-02-24 | Congress adds a seventh seat. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1808 | The Shawnee brothers Tecumseh and Tenskwatawa found Prophetstown on the Wabash and Tippecanoe rivers as the center of a Native alliance. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1808-01-01 | The federal ban on importing enslaved people takes effect. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -378,9 +379,27 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | The state capital moves to Harrisburg, after a stay in Lancaster from 1799. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1812-06-01 | President James Madison sends Congress a message listing British offenses against the United States. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1812-06-04 | The House votes for war, 79 to 49. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1812-06-17 | The Senate votes for war, 19 to 13; Madison signs the declaration the next day. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1812-06-18 – 1815-02 | **[War of 1812](../articles/early-republic-and-expansion/war-of-1812.md)** (Conflict) |
+| 1812-08-16 | General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1812-08-19 | USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1813-01-22 | British, Canadian and Native forces rout a Kentucky army at the River Raisin; only 33 Americans escape. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1813-09-10 | Oliver Hazard Perry's squadron wins the Battle of Lake Erie. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1813-10-05 | William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1814-03-27 | Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-04-02 | British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-08-09 | The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-08-24 | After the Battle of Bladensburg, British troops occupy Washington and burn the Capitol and the President's house. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1814-09-11 | A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-09-13 | The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-12-24 | American and British commissioners sign the Treaty of Ghent in present-day Belgium. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1815-01-08 | American forces defeat a British assault at New Orleans, the last major land battle of the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1815-02 | The United States ratifies the Treaty of Ghent, legally ending the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1816 | The American Colonization Society is founded to resettle free Black Americans in Africa. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1816-04 | President James Madison signs the act chartering the Second Bank of the United States for twenty years. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |

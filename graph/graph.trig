@@ -649,6 +649,22 @@
 <https://github.com/john1hsu/usa-graph/id/monroe-doctrine#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s4> .
 <https://github.com/john1hsu/usa-graph/id/monroe-doctrine#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s5> .
 <https://github.com/john1hsu/usa-graph/id/monroe-doctrine#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/early-republic-and-expansion/war-of-1812.md" .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> .
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/great-railroad-strike-of-1877.md" .
@@ -10727,6 +10743,242 @@
   <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
   <https://github.com/john1hsu/usa-graph/id/source/monroe-doctrine/s6> <https://schema.org/url> <https://history.state.gov/milestones/1921-1936/good-neighbor> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/war-of-1812#graph> {
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <http://purl.org/dc/terms/publisher> "Naval History and Heritage Command, U.S. Navy" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <http://purl.org/dc/terms/title> "War of 1812" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> <https://schema.org/url> <https://history.navy.mil/browse-by-topic/wars-conflicts-and-operations/1812.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <http://purl.org/dc/terms/title> "River Raisin National Battlefield Park: History & Culture" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> <https://schema.org/url> <https://www.nps.gov/rira/learn/historyculture/index.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <http://purl.org/dc/terms/publisher> "Reviews in History, Institute of Historical Research, University of London, by Jasper Trautsch" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <http://purl.org/dc/terms/title> "Review of eight bicentennial books on the War of 1812 (Review no. 1387)" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> <https://schema.org/url> <https://reviews.history.ac.uk/review/1387/print> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <http://purl.org/dc/terms/publisher> "Reviews in History, Institute of Historical Research, University of London, by Jasper Trautsch" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <http://purl.org/dc/terms/title> "Review of Paul A. Gilje, Free Trade and Sailors' Rights in the War of 1812 (Review no. 1498)" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> <https://schema.org/url> <https://reviews.history.ac.uk/review/1498/print> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <http://purl.org/dc/terms/title> "Treaty of Ghent (1814)" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> <https://schema.org/url> <https://www.archives.gov/milestone-documents/treaty-of-ghent> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia, by Tyson Reeder" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <http://purl.org/dc/terms/title> "James Madison: Foreign Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> <https://schema.org/url> <https://millercenter.org/node/81> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <http://purl.org/dc/terms/publisher> "United States Senate" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <http://purl.org/dc/terms/title> "Declarations of War" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> <https://schema.org/url> <https://www.senate.gov/about/powers-procedures/declarations-of-war.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <http://purl.org/dc/terms/title> "'War Hawks' urge military confrontation with Britain" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> <https://schema.org/url> <https://home.nps.gov/articles/war-hawks.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Jean Lafitte National Historical Park and Preserve" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <http://purl.org/dc/terms/title> "The Treaty of Ghent" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> <https://schema.org/url> <https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <http://purl.org/dc/terms/publisher> "Encyclopedia of Alabama, by Christopher Maloney" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <http://purl.org/dc/terms/title> "Treaty of Fort Jackson" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> <https://schema.org/url> <https://encyclopediaofalabama.org/article/h-3026> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <http://purl.org/dc/terms/title> "Today in History: September 13 — The Star-Spangled Banner" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/september-13> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <http://purl.org/dc/terms/publisher> "National Park Service, Star-Spangled Banner National Historic Trail" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <http://purl.org/dc/terms/title> "Freedom Seekers and the Colonial Marines" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> <https://schema.org/url> <https://www.nps.gov/stsp/learn/historyculture/colonial-marines.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <http://purl.org/dc/terms/title> "Tecumseh" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> <https://schema.org/url> <https://home.nps.gov/people/tecumseh.htm> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Treaty of Ghent was signed on December 24, 1814, but hostilities were to stop only after both governments ratified it, and the United States did not do so until February 1815; the war was still legally on when the battle was fought on January 8, 1815." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Battle of New Orleans was fought after the War of 1812 was already over, so it was pointless." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating the signing date as the end of the war makes the war's best-remembered American victory look like an accident of slow mail and hides how ratification actually worked." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the United States declare war on Britain in 1812, and why do historians argue about it?" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Madison and Congress cited British impressment of American sailors and British limits on neutral trade, alongside British support for Native resistance on the frontier. Most historians treat these maritime grievances as the core cause, but some have argued that the real aim was to seize Canada, while others stress national honor and British hostility to the young republic." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How could the war end in a treaty that changed no borders and yet still have large consequences?" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Treaty of Ghent restored prewar territory and did not mention impressment, but the war shattered Tecumseh's confederacy and the Creek Red Sticks, cost the Creeks millions of acres at Fort Jackson, left Native nations without British support, made Andrew Jackson a national hero and helped finish off the Federalist Party." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What choices did the war present to enslaved African Americans?" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some Black men joined U.S. forces hoping to earn freedom, while about 4,000 enslaved people in the Chesapeake escaped to British ships after Cochrane's 1814 proclamation; about 200 served as Colonial Marines, and Britain later resettled most in Canada's Maritime provinces or Trinidad." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Was the Battle of New Orleans fought after the war ended?" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "No. It came after the treaty was signed but before the United States ratified it in February 1815, and the treaty required fighting to continue until ratification." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-08-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "After the Battle of Bladensburg, British troops occupy Washington and burn the Capitol and the President's house." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "American and British commissioners sign the Treaty of Ghent in present-day Belgium." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "American forces defeat a British assault at New Orleans, the last major land battle of the war." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1815-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The United States ratifies the Treaty of Ghent, legally ending the war." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1815-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "The Shawnee brothers Tecumseh and Tenskwatawa found Prophetstown on the Wabash and Tippecanoe rivers as the center of a Native alliance." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1808"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "President James Madison sends Congress a message listing British offenses against the United States." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The House votes for war, 79 to 49." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-06-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate votes for war, 19 to 13; Madison signs the declaration the next day." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "British, Canadian and Native forces rout a Kentucky army at the River Raisin; only 33 Americans escape." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1813-01-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Oliver Hazard Perry's squadron wins the Battle of Lake Erie." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1813-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1813-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2000/01/rdf-schema#label> "War of 1812" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#altLabel> "Second War of Independence" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#definition> "The war the United States fought against Great Britain, its Canadian colonies and allied Native nations from June 1812 to February 1815, over British impressment of American sailors, restrictions on neutral trade and conflict on the northwestern frontier; the Treaty of Ghent ended it without changing the boundaries, but it shattered the Native confederacies that had allied with Britain." .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#prefLabel> "War of 1812" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-thames> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/burning-of-washington> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colonial-marines> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/creek-war> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-party> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/henry-clay> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tecumseh> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tenskwatawa> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/shawnee> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#domain> "early-republic-and-expansion" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/early-republic-and-expansion/war-of-1812.md" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/impressment> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/tecumseh> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/hartford-convention> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/treaty-of-ghent> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/baltimore> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/canada> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/washington-dc> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://schema.org/endDate> "1815-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://schema.org/startDate> "1812-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> {
@@ -22972,6 +23224,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
@@ -22980,12 +23233,15 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/andrew-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/andrew-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
@@ -23148,6 +23404,7 @@
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -23165,8 +23422,10 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-midway> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-oriskany> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-thames> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/battles-of-lexington-and-concord> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/bear-flag-revolt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -23340,6 +23599,7 @@
   <https://github.com/john1hsu/usa-graph/id/bureau-of-reclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/bureau-of-safety-and-environmental-enforcement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/burlingame-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/burning-of-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/burwell-v-hobby-lobby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
@@ -23423,6 +23683,7 @@
   <https://github.com/john1hsu/usa-graph/id/canada> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/canada> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/canada> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/canada> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
@@ -23691,6 +23952,7 @@
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/college-park-airport> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
+  <https://github.com/john1hsu/usa-graph/id/colonial-marines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
@@ -23841,6 +24103,7 @@
   <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/health-care-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/creek-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/crossroads-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/cuban-missile-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/culebra-cut> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -24127,6 +24390,7 @@
   <https://github.com/john1hsu/usa-graph/id/early-republic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/eastern-shoshone-tribe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-deal> .
@@ -24293,6 +24557,7 @@
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-party> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/ferdinand-v-hayden> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
@@ -24819,6 +25084,7 @@
   <https://github.com/john1hsu/usa-graph/id/harrisburg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/harry-colmery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/hart-rudman-commission> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
+  <https://github.com/john1hsu/usa-graph/id/hartford-convention> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/hatch-act-of-1887> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/haudenosaunee/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/haudenosaunee/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -24916,6 +25182,7 @@
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/henry-box-brown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
+  <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/henry-david-thoreau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/henry-h-arnold> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/henry-l-stimson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
@@ -25066,6 +25333,7 @@
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/immigration-to-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/impressment> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
@@ -25115,6 +25383,7 @@
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/indian-removal-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/indian-removal> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/indian-reorganization-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-depression> .
@@ -25140,7 +25409,9 @@
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -25569,6 +25840,7 @@
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
@@ -25903,6 +26175,7 @@
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
+  <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
@@ -25969,6 +26242,7 @@
   <https://github.com/john1hsu/usa-graph/id/mrs-olearys-cow-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/muddy-waters> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/muscogee-creek-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/jazz> .
@@ -26037,6 +26311,7 @@
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
+  <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
@@ -26077,6 +26352,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -26150,6 +26426,7 @@
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/new-orleans> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/new-york-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
@@ -26824,6 +27101,7 @@
   <https://github.com/john1hsu/usa-graph/id/sharecropping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/sharecropping> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/shawnee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
+  <https://github.com/john1hsu/usa-graph/id/shawnee> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/shays-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -26927,6 +27205,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -27017,6 +27296,7 @@
   <https://github.com/john1hsu/usa-graph/id/st-augustine> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/stand-watie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/star-spangled-banner> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/starving-time/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/starving-time/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/starving-time/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27126,6 +27406,10 @@
   <https://github.com/john1hsu/usa-graph/id/taliban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/tang-poetry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/tax-cuts-and-jobs-act-of-2017> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+  <https://github.com/john1hsu/usa-graph/id/tecumseh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/tecumseh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/tecumseh> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/tecumseh> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/telegraph/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/telegraph/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/telegraph/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27152,6 +27436,7 @@
   <https://github.com/john1hsu/usa-graph/id/telegraph> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/telephone> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/tennessee-valley-authority> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/tenskwatawa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/tenth-amendment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
@@ -27346,6 +27631,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27464,10 +27750,12 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-canandaigua> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-jackson> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-laramie-1868> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-ghent> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-greenville> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-guadalupe-hidalgo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-guadalupe-hidalgo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
@@ -27898,6 +28186,34 @@
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/war-on-terror> .
   <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
@@ -27905,9 +28221,11 @@
   <https://github.com/john1hsu/usa-graph/id/war-refugee-board> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/washburn-langford-doane-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/washington-cherry-tree-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27916,6 +28234,7 @@
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/washington-dc> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/washington-wooden-teeth-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/wesberry-v-sanders> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/west-coast-hotel-co-v-parrish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
@@ -27938,6 +28257,9 @@
   <https://github.com/john1hsu/usa-graph/id/william-barton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/william-barton> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/william-c-gorgas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/william-henry-harrison> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/william-henry-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/william-j-canby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .

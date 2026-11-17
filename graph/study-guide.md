@@ -922,6 +922,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Roosevelt Corollary change the doctrine's meaning?
   **A:** The 1823 message warned Europeans against intervening in the Americas; Roosevelt's 1904 corollary claimed a right for the United States itself to intervene, leading to Marine deployments in Santo Domingo, Nicaragua and Haiti.
 
+### [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| The Battle of New Orleans was fought after the War of 1812 was already over, so it was pointless. | The Treaty of Ghent was signed on December 24, 1814, but hostilities were to stop only after both governments ratified it, and the United States did not do so until February 1815; the war was still legally on when the battle was fought on January 8, 1815. |
+
+**Why it matters:** Treating the signing date as the end of the war makes the war's best-remembered American victory look like an accident of slow mail and hides how ratification actually worked.
+
+- **Q:** Why did the United States declare war on Britain in 1812, and why do historians argue about it?
+  **A:** Madison and Congress cited British impressment of American sailors and British limits on neutral trade, alongside British support for Native resistance on the frontier. Most historians treat these maritime grievances as the core cause, but some have argued that the real aim was to seize Canada, while others stress national honor and British hostility to the young republic.
+- **Q:** How could the war end in a treaty that changed no borders and yet still have large consequences?
+  **A:** The Treaty of Ghent restored prewar territory and did not mention impressment, but the war shattered Tecumseh's confederacy and the Creek Red Sticks, cost the Creeks millions of acres at Fort Jackson, left Native nations without British support, made Andrew Jackson a national hero and helped finish off the Federalist Party.
+- **Q:** What choices did the war present to enslaved African Americans?
+  **A:** Some Black men joined U.S. forces hoping to earn freedom, while about 4,000 enslaved people in the Chesapeake escaped to British ships after Cochrane's 1814 proclamation; about 200 served as Colonial Marines, and Britain later resettled most in Canada's Maritime provinces or Trinidad.
+- **Q:** Was the Battle of New Orleans fought after the war ended?
+  **A:** No. It came after the treaty was signed but before the United States ratified it in February 1815, and the treaty required fighting to continue until ratification.
+
 ## economy-and-work
 
 ### [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) — Event

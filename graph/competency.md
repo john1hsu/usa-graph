@@ -28,6 +28,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 |---|---|---|
 | `us:united-states-constitution` | 8 | Census and apportionment, Electoral College, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
+| `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
 | `us:new-deal` | 5 | African Americans, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act, social-security-act |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 | `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
-| `us:fourteenth-amendment` | 3 | Census and apportionment, Due process, Equal protection |
 
-…and 77 more.
+…and 78 more.
 
 ## Happenings by era
 
@@ -69,6 +69,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:cold-war` | `us:mccarthyism` | 1947 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
+| `us:early-republic` | `us:war-of-1812` | 1812-06-18 |
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
@@ -114,7 +115,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:judicial-review` | interpretive |  |
 | `us:lattimer-massacre` | interpretive |  |
 
-…and 27 more.
+…and 28 more.
 
 ## Places with nothing tied to them (gap)
 

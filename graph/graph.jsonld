@@ -29866,6 +29866,188 @@
    "uso:sourceType": "government"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Treaty of Ghent (1814)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/treaty-of-ghent"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Naval History and Heritage Command, U.S. Navy",
+   "dcterms:title": "War of 1812",
+   "schema:url": {
+    "@id": "https://history.navy.mil/browse-by-topic/wars-conflicts-and-operations/1812.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "River Raisin National Battlefield Park: History & Culture",
+   "schema:url": {
+    "@id": "https://www.nps.gov/rira/learn/historyculture/index.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Reviews in History, Institute of Historical Research, University of London, by Jasper Trautsch",
+   "dcterms:title": "Review of eight bicentennial books on the War of 1812 (Review no. 1387)",
+   "schema:url": {
+    "@id": "https://reviews.history.ac.uk/review/1387/print"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Reviews in History, Institute of Historical Research, University of London, by Jasper Trautsch",
+   "dcterms:title": "Review of Paul A. Gilje, Free Trade and Sailors' Rights in the War of 1812 (Review no. 1498)",
+   "schema:url": {
+    "@id": "https://reviews.history.ac.uk/review/1498/print"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia, by Tyson Reeder",
+   "dcterms:title": "James Madison: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/81"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Senate",
+   "dcterms:title": "Declarations of War",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/powers-procedures/declarations-of-war.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "'War Hawks' urge military confrontation with Britain",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/war-hawks.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Jean Lafitte National Historical Park and Preserve",
+   "dcterms:title": "The Treaty of Ghent",
+   "schema:url": {
+    "@id": "https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Alabama, by Christopher Maloney",
+   "dcterms:title": "Treaty of Fort Jackson",
+   "schema:url": {
+    "@id": "https://encyclopediaofalabama.org/article/h-3026"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History: September 13 — The Star-Spangled Banner",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/september-13"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Star-Spangled Banner National Historic Trail",
+   "dcterms:title": "Freedom Seekers and the Colonial Marines",
+   "schema:url": {
+    "@id": "https://www.nps.gov/stsp/learn/historyculture/colonial-marines.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Tecumseh",
+   "schema:url": {
+    "@id": "https://home.nps.gov/people/tecumseh.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/winged-figures-of-the-republic/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -34055,6 +34237,211 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "2020-02-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The Treaty of Ghent was signed on December 24, 1814, but hostilities were to stop only after both governments ratified it, and the United States did not do so until February 1815; the war was still legally on when the battle was fought on January 8, 1815.",
+   "uso:myth": "The Battle of New Orleans was fought after the War of 1812 was already over, so it was pointless.",
+   "uso:why": "Treating the signing date as the end of the war makes the war's best-remembered American victory look like an accident of slow mail and hides how ratification actually worked."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the United States declare war on Britain in 1812, and why do historians argue about it?",
+   "uso:answer": "Madison and Congress cited British impressment of American sailors and British limits on neutral trade, alongside British support for Native resistance on the frontier. Most historians treat these maritime grievances as the core cause, but some have argued that the real aim was to seize Canada, while others stress national honor and British hostility to the young republic.",
+   "uso:questionFor": {
+    "@id": "us:war-of-1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How could the war end in a treaty that changed no borders and yet still have large consequences?",
+   "uso:answer": "The Treaty of Ghent restored prewar territory and did not mention impressment, but the war shattered Tecumseh's confederacy and the Creek Red Sticks, cost the Creeks millions of acres at Fort Jackson, left Native nations without British support, made Andrew Jackson a national hero and helped finish off the Federalist Party.",
+   "uso:questionFor": {
+    "@id": "us:war-of-1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What choices did the war present to enslaved African Americans?",
+   "uso:answer": "Some Black men joined U.S. forces hoping to earn freedom, while about 4,000 enslaved people in the Chesapeake escaped to British ships after Cochrane's 1814 proclamation; about 200 served as Colonial Marines, and Britain later resettled most in Canada's Maritime provinces or Trinidad.",
+   "uso:questionFor": {
+    "@id": "us:war-of-1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Was the Battle of New Orleans fought after the war ended?",
+   "uso:answer": "No. It came after the treaty was signed but before the United States ratified it in February 1815, and the treaty required fighting to continue until ratification.",
+   "uso:questionFor": {
+    "@id": "us:war-of-1812"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Shawnee brothers Tecumseh and Tenskwatawa found Prophetstown on the Wabash and Tippecanoe rivers as the center of a Native alliance.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1808"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-04-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-08-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After the Battle of Bladensburg, British troops occupy Washington and burn the Capitol and the President's house.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-08-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "American and British commissioners sign the Treaty of Ghent in present-day Belgium.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-12-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "American forces defeat a British assault at New Orleans, the last major land battle of the war.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1815-01-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States ratifies the Treaty of Ghent, legally ending the war.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1815-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President James Madison sends Congress a message listing British offenses against the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-06-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House votes for war, 79 to 49.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-06-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate votes for war, 19 to 13; Madison signs the declaration the next day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-06-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-08-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-08-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British, Canadian and Native forces rout a Kentucky army at the River Raisin; only 33 Americans escape.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1813-01-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oliver Hazard Perry's squadron wins the Battle of Lake Erie.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1813-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1813-10-05"
    }
   },
   {
@@ -54053,6 +54440,251 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/war-in-afghanistan/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:war-of-1812",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/war-of-1812/s9"
+    }
+   ],
+   "rdfs:label": "War of 1812",
+   "schema:endDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1815-02"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1812-06-18"
+   },
+   "skos:altLabel": "Second War of Independence",
+   "skos:broader": {
+    "@id": "us:wars-of-the-united-states"
+   },
+   "skos:definition": "The war the United States fought against Great Britain, its Canadian colonies and allied Native nations from June 1812 to February 1815, over British impressment of American sailors, restrictions on neutral trade and conflict on the northwestern frontier; the Treaty of Ghent ended it without changing the boundaries, but it shattered the Native confederacies that had allied with Britain.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/early-republic-and-expansion"
+   },
+   "skos:prefLabel": "War of 1812",
+   "skos:related": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:andrew-jackson"
+    },
+    {
+     "@id": "us:battle-of-new-orleans"
+    },
+    {
+     "@id": "us:battle-of-the-thames"
+    },
+    {
+     "@id": "us:burning-of-washington"
+    },
+    {
+     "@id": "us:colonial-marines"
+    },
+    {
+     "@id": "us:creek-war"
+    },
+    {
+     "@id": "us:federalist-party"
+    },
+    {
+     "@id": "us:henry-clay"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    },
+    {
+     "@id": "us:monroe-doctrine"
+    },
+    {
+     "@id": "us:national-symbols-of-the-united-states"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:tecumseh"
+    },
+    {
+     "@id": "us:tenskwatawa"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:muscogee-creek-nation"
+    },
+    {
+     "@id": "us:shawnee"
+    }
+   ],
+   "uso:domain": "early-republic-and-expansion",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/early-republic-and-expansion/war-of-1812.md",
+   "uso:influencedBy": {
+    "@id": "us:impressment"
+   },
+   "uso:ledBy": [
+    {
+     "@id": "us:andrew-jackson"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:tecumseh"
+    },
+    {
+     "@id": "us:william-henry-harrison"
+    }
+   ],
+   "uso:ledTo": [
+    {
+     "@id": "us:hartford-convention"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:star-spangled-banner"
+    },
+    {
+     "@id": "us:treaty-of-fort-jackson"
+    },
+    {
+     "@id": "us:treaty-of-ghent"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:early-republic"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:baltimore"
+    },
+    {
+     "@id": "us:canada"
+    },
+    {
+     "@id": "us:new-orleans"
+    },
+    {
+     "@id": "us:washington-dc"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/war-of-1812/timeline/9"
     }
    ]
   },

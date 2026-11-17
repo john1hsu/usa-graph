@@ -22054,6 +22054,314 @@
   ]
  },
  {
+  "id": "us:war-of-1812",
+  "title": "War of 1812",
+  "aliases": [
+   "Second War of Independence"
+  ],
+  "type": "Conflict",
+  "domain": "early-republic-and-expansion",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/early-republic-and-expansion/war-of-1812.md",
+  "created": "2026-11-17",
+  "summary": "The war the United States fought against Great Britain, its Canadian colonies and allied Native nations from June 1812 to February 1815, over British impressment of American sailors, restrictions on neutral trade and conflict on the northwestern frontier; the Treaty of Ghent ended it without changing the boundaries, but it shattered the Native confederacies that had allied with Britain.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:wars-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tecumseh"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tenskwatawa"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-clay"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-new-orleans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:burning-of-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-the-thames"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:creek-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colonial-marines"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:louisiana-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:monroe-doctrine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:national-symbols-of-the-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:early-republic",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:canada",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:washington-dc",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:baltimore",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:new-orleans",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:impressment",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:james-madison",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:william-henry-harrison",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:andrew-jackson",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:tecumseh",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:muscogee-creek-nation",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:shawnee",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-ghent",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:treaty-of-fort-jackson",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:star-spangled-banner",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:hartford-convention",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:indian-removal-act",
+    "source": "s11",
+    "confidence": "low"
+   }
+  ],
+  "start": "1812-06-18",
+  "end": "1815-02",
+  "review": [
+   {
+    "question": "Why did the United States declare war on Britain in 1812, and why do historians argue about it?",
+    "answer": "Madison and Congress cited British impressment of American sailors and British limits on neutral trade, alongside British support for Native resistance on the frontier. Most historians treat these maritime grievances as the core cause, but some have argued that the real aim was to seize Canada, while others stress national honor and British hostility to the young republic."
+   },
+   {
+    "question": "How could the war end in a treaty that changed no borders and yet still have large consequences?",
+    "answer": "The Treaty of Ghent restored prewar territory and did not mention impressment, but the war shattered Tecumseh's confederacy and the Creek Red Sticks, cost the Creeks millions of acres at Fort Jackson, left Native nations without British support, made Andrew Jackson a national hero and helped finish off the Federalist Party."
+   },
+   {
+    "question": "What choices did the war present to enslaved African Americans?",
+    "answer": "Some Black men joined U.S. forces hoping to earn freedom, while about 4,000 enslaved people in the Chesapeake escaped to British ships after Cochrane's 1814 proclamation; about 200 served as Colonial Marines, and Britain later resettled most in Canada's Maritime provinces or Trinidad."
+   },
+   {
+    "question": "Was the Battle of New Orleans fought after the war ended?",
+    "answer": "No. It came after the treaty was signed but before the United States ratified it in February 1815, and the treaty required fighting to continue until ratification."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1808",
+    "event": "The Shawnee brothers Tecumseh and Tenskwatawa found Prophetstown on the Wabash and Tippecanoe rivers as the center of a Native alliance."
+   },
+   {
+    "date": "1812-06-01",
+    "event": "President James Madison sends Congress a message listing British offenses against the United States."
+   },
+   {
+    "date": "1812-06-04",
+    "event": "The House votes for war, 79 to 49."
+   },
+   {
+    "date": "1812-06-17",
+    "event": "The Senate votes for war, 19 to 13; Madison signs the declaration the next day."
+   },
+   {
+    "date": "1812-08-16",
+    "event": "General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock."
+   },
+   {
+    "date": "1812-08-19",
+    "event": "USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'."
+   },
+   {
+    "date": "1813-01-22",
+    "event": "British, Canadian and Native forces rout a Kentucky army at the River Raisin; only 33 Americans escape."
+   },
+   {
+    "date": "1813-09-10",
+    "event": "Oliver Hazard Perry's squadron wins the Battle of Lake Erie."
+   },
+   {
+    "date": "1813-10-05",
+    "event": "William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed."
+   },
+   {
+    "date": "1814-03-27",
+    "event": "Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend."
+   },
+   {
+    "date": "1814-04-02",
+    "event": "British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom."
+   },
+   {
+    "date": "1814-08-09",
+    "event": "The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres."
+   },
+   {
+    "date": "1814-08-24",
+    "event": "After the Battle of Bladensburg, British troops occupy Washington and burn the Capitol and the President's house."
+   },
+   {
+    "date": "1814-09-11",
+    "event": "A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York."
+   },
+   {
+    "date": "1814-09-13",
+    "event": "The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches."
+   },
+   {
+    "date": "1814-12-24",
+    "event": "American and British commissioners sign the Treaty of Ghent in present-day Belgium."
+   },
+   {
+    "date": "1815-01-08",
+    "event": "American forces defeat a British assault at New Orleans, the last major land battle of the war."
+   },
+   {
+    "date": "1815-02",
+    "event": "The United States ratifies the Treaty of Ghent, legally ending the war."
+   }
+  ],
+  "misconception": {
+   "myth": "The Battle of New Orleans was fought after the War of 1812 was already over, so it was pointless.",
+   "fact": "The Treaty of Ghent was signed on December 24, 1814, but hostilities were to stop only after both governments ratified it, and the United States did not do so until February 1815; the war was still legally on when the battle was fought on January 8, 1815.",
+   "why": "Treating the signing date as the end of the war makes the war's best-remembered American victory look like an accident of slow mail and hides how ratification actually worked."
+  },
+  "source_urls": [
+   "https://www.archives.gov/milestone-documents/treaty-of-ghent",
+   "https://millercenter.org/node/81",
+   "https://www.senate.gov/about/powers-procedures/declarations-of-war.htm",
+   "https://home.nps.gov/articles/war-hawks.htm",
+   "https://www.nps.gov/jela/learn/historyculture/the-treaty-of-ghent.htm",
+   "https://encyclopediaofalabama.org/article/h-3026",
+   "https://www.loc.gov/item/today-in-history/september-13",
+   "https://www.nps.gov/stsp/learn/historyculture/colonial-marines.htm",
+   "https://home.nps.gov/people/tecumseh.htm",
+   "https://history.navy.mil/browse-by-topic/wars-conflicts-and-operations/1812.html",
+   "https://www.nps.gov/rira/learn/historyculture/index.htm",
+   "https://reviews.history.ac.uk/review/1387/print",
+   "https://reviews.history.ac.uk/review/1498/print"
+  ]
+ },
+ {
   "id": "us:winged-figures-of-the-republic",
   "title": "Winged Figures of the Republic",
   "aliases": [
