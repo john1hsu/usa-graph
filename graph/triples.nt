@@ -6495,6 +6495,119 @@
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/deathDate> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/endDate> "1968-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://schema.org/startDate> "1929-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Marshall's opinion restated that the national government is one of enumerated powers; it allowed only means clearly suited to a legitimate end within the Constitution's scope, and it said the Court would have to declare void a law passed under the pretext of executing a power for objects not entrusted to the government." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "McCulloch v. Maryland gave Congress unlimited power to pass any law it considers useful." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Reading the case as a blank check obscures the real argument it started, which is about how far implied means can reach, not whether limits exist at all." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Marshall reject Maryland's argument that \"necessary\" in the Necessary and Proper Clause meant \"absolutely necessary\"?" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He said the word admits of degrees and is commonly used to mean convenient, useful or conducive to an end, and he pointed out that Article I, Section 10 uses the phrase \"absolutely necessary,\" which showed the framers knew how to demand strict necessity when they wanted it; a narrow reading would also leave the government unable to carry out its purposes." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the idea that \"the power to tax involves the power to destroy\" lead the Court to strike down Maryland's tax?" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because the national government derives its authority from the people of the whole Union and is supreme within its sphere, a single state cannot use its taxing power to burden or control the means the national government uses; allowing such a tax would let a state defeat what Congress had created." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Andrew Jackson's 1832 bank veto challenge the authority of the McCulloch decision?" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Jackson argued that each officer swears to support the Constitution as he understands it, that the Court's opinion must not control Congress or the President, and that whether the bank's particular features were necessary and proper was for the political branches to judge, so he could veto the recharter even though the Court had upheld the bank." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did James Madison object to in the decision, even though he had signed the Second Bank's charter in 1816?" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "He objected to the Court's broad rule of construction, warning that letting Congress treat almost anything as a means to an enumerated end could erase the limits set by enumerating its powers, and that few ratifiers would have accepted so pliant a rule." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The Second Bank's federal charter expires without renewal." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1836"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "President James Madison signs the act chartering the Second Bank of the United States for twenty years." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1816-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1817-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1818-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Maryland tax takes effect; James W. McCulloch, cashier of the Baltimore branch, later issues notes without the required stamps." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1818-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Supreme Court unanimously rules for McCulloch, upholding the bank and striking down Maryland's tax." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1819-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia judge Spencer Roane begins his four 'Hampden' essays attacking the decision in the Richmond Enquirer." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1819-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "James Madison writes to Roane objecting to the breadth of the Court's rule of construction." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1819-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1824"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1832-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#CourtCase> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2000/01/rdf-schema#label> "McCulloch v. Maryland" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "17 U.S. 316" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "4 Wheat. 316" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "M'Culloch v. Maryland" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "M'Culloch v. State of Maryland" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "McCulloch case" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#altLabel> "McCulloch v Maryland" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/federalism> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#definition> "The 1819 U.S. Supreme Court decision, written by Chief Justice John Marshall, that upheld Congress's power to charter the Second Bank of the United States as a \"necessary and proper\" means of carrying out its enumerated powers and held that Maryland could not tax the bank's operations." .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/rights-and-law> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#prefLabel> "McCulloch v. Maryland" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/daniel-webster> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/maryland> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/necessary-and-proper-clause> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/osborn-v-bank-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spencer-roane> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/supreme-court-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-v-fisher> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/federalism> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#authoredBy> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#challengedBy> <https://github.com/john1hsu/usa-graph/id/jacksons-bank-veto-message> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#domain> "rights-and-law" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "legal-text" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/rights-and-law/mcculloch-v-maryland.md" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/necessary-and-proper-clause> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#interprets> <https://github.com/john1hsu/usa-graph/id/tenth-amendment> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/misconception> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> <https://schema.org/startDate> "1819-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Lincoln voted for a House amendment declaring the war unnecessarily and unconstitutionally begun, but he wrote in February 1848 that he had always intended to vote supplies for the army." .
 <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Abraham Lincoln opposed the Mexican War so strongly that he refused to vote money and supplies for the soldiers fighting it." .
@@ -12485,6 +12598,60 @@
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/usa-graph/id/source/martin-luther-king-jr/s7> <https://schema.org/url> <https://www.nobelprize.org/prizes/peace/1964/king/facts/> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <http://purl.org/dc/terms/title> "McCulloch v. State of Maryland et al., 17 U.S. 316 (1819)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s1> <https://schema.org/url> <https://www.law.cornell.edu/supct/html/historics/USSC_CR_0017_0316_ZS.html> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <http://purl.org/dc/terms/title> "McCulloch v. Maryland (1819)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s2> <https://schema.org/url> <https://www.archives.gov/milestone-documents/mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, Constitution Annotated (via Legal Information Institute, Cornell Law School)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <http://purl.org/dc/terms/title> "ArtI.S8.C18.3 Necessary and Proper Clause Early Doctrine and McCulloch v. Maryland" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s3> <https://schema.org/url> <https://www.law.cornell.edu/constitution-conan/article-1/section-8/clause-1/necessary-and-proper-clause-early-doctrine-and-mcculloch-v-maryland> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <http://purl.org/dc/terms/publisher> "Federal Reserve History (Federal Reserve Bank of Philadelphia; Andrew T. Hill)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <http://purl.org/dc/terms/title> "The Second Bank of the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s4> <https://schema.org/url> <https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/The-Second-Bank-of-the-United-States-_-Federal-Reserve-History.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <http://purl.org/dc/terms/title> "James Madison to Spencer Roane, 2 September 1819" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s5> <https://schema.org/url> <https://founders.archives.gov/documents/Madison/04-01-02-0455> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <http://purl.org/dc/terms/title> "President Jackson's Veto Message Regarding the Bank of the United States; July 10, 1832" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s6> <https://schema.org/url> <https://avalon.law.yale.edu/19th_century/ajveto01.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <http://purl.org/dc/terms/title> "Spencer Roane to James Madison, 22 August 1819" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s7> <https://schema.org/url> <https://founders.archives.gov/documents/Madison/04-01-02-0453> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <http://purl.org/dc/terms/publisher> "Harvard Law Today, Harvard Law School (Jeff Neal, interviewing Mark Tushnet)" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <http://purl.org/dc/terms/title> "McCulloch v. Maryland: Two centuries later" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s8> <https://schema.org/url> <https://hls.harvard.edu/today/mcculloch-v-maryland-two-centuries-later> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <http://purl.org/dc/terms/title> "Jackson opposes Second Bank of the United States" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/mcculloch-v-maryland/s9> <https://schema.org/url> <https://millercenter.org/node/56976> .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/publisher> "The Papers of Abraham Lincoln" .
 <https://github.com/john1hsu/usa-graph/id/source/mexican-american-war/s10> <http://purl.org/dc/terms/title> "Abraham Lincoln to William H. Herndon, 1 February 1848" .

@@ -301,12 +301,20 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1816 | The American Colonization Society is founded to resettle free Black Americans in Africa. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1816-04 | President James Madison signs the act chartering the Second Bank of the United States for twenty years. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1817-01 | The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
+| 1818-02-11 | Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1818-05-01 | The Maryland tax takes effect; James W. McCulloch, cashier of the Baltimore branch, later issues notes without the required stamps. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819 | Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
+| 1819-03-06 | **[McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md)** (CourtCase) |
+| 1819-03-06 | The Supreme Court unanimously rules for McCulloch, upholding the bank and striking down Maryland's tax. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1819-06-11 | Virginia judge Spencer Roane begins his four 'Hampden' essays attacking the decision in the Richmond Enquirer. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1819-09-02 | James Madison writes to Roane objecting to the breadth of the Court's rule of construction. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819-12 | The Sixteenth Congress convenes; Senate leaders go on to tie Maine's statehood to Missouri's. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1820-02-15 – 1906-03-13 | **[Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md)** (Person) |
 | 1820-02-15 | Born in Adams, Massachusetts, to Daniel and Lucy Anthony. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -330,6 +338,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-12-02 | **[Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md)** (Policy) |
 | 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1826-07-04 | Dies at Monticello, fifty years after the Declaration's approval. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -362,6 +371,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1832-07-10 | President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -376,6 +386,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | Betsy Ross dies in Philadelphia; her grandson William Canby is eleven years old. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1836 | The House adopts the gag rule, barring discussion of abolitionist petitions. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1836 | The Second Bank's federal charter expires without renewal. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836-05-04 | Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1837 | **[Chicago](../articles/regions-cities-and-landmarks/chicago.md)** (City) |

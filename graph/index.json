@@ -10874,6 +10874,221 @@
   ]
  },
  {
+  "id": "us:mcculloch-v-maryland",
+  "title": "McCulloch v. Maryland",
+  "aliases": [
+   "McCulloch v Maryland",
+   "M'Culloch v. Maryland",
+   "M'Culloch v. State of Maryland",
+   "17 U.S. 316",
+   "4 Wheat. 316",
+   "McCulloch case"
+  ],
+  "type": "CourtCase",
+  "domain": "rights-and-law",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/rights-and-law/mcculloch-v-maryland.md",
+  "created": "2026-11-17",
+  "summary": "The 1819 U.S. Supreme Court decision, written by Chief Justice John Marshall, that upheld Congress's power to charter the Second Bank of the United States as a \"necessary and proper\" means of carrying out its enumerated powers and held that Maryland could not tax the bank's operations.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-bank-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:necessary-and-proper-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tenth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marbury-v-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alexander-hamilton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spencer-roane"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:daniel-webster"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-v-fisher"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:osborn-v-bank-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:authoredBy",
+    "object": "us:john-marshall",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:necessary-and-proper-clause",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:interprets",
+    "object": "us:tenth-amendment",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:second-bank-of-the-united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:federalism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:challengedBy",
+    "object": "us:jacksons-bank-veto-message",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1819-03-06",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Marshall reject Maryland's argument that \"necessary\" in the Necessary and Proper Clause meant \"absolutely necessary\"?",
+    "answer": "He said the word admits of degrees and is commonly used to mean convenient, useful or conducive to an end, and he pointed out that Article I, Section 10 uses the phrase \"absolutely necessary,\" which showed the framers knew how to demand strict necessity when they wanted it; a narrow reading would also leave the government unable to carry out its purposes."
+   },
+   {
+    "question": "How did the idea that \"the power to tax involves the power to destroy\" lead the Court to strike down Maryland's tax?",
+    "answer": "Because the national government derives its authority from the people of the whole Union and is supreme within its sphere, a single state cannot use its taxing power to burden or control the means the national government uses; allowing such a tax would let a state defeat what Congress had created."
+   },
+   {
+    "question": "How did Andrew Jackson's 1832 bank veto challenge the authority of the McCulloch decision?",
+    "answer": "Jackson argued that each officer swears to support the Constitution as he understands it, that the Court's opinion must not control Congress or the President, and that whether the bank's particular features were necessary and proper was for the political branches to judge, so he could veto the recharter even though the Court had upheld the bank."
+   },
+   {
+    "question": "What did James Madison object to in the decision, even though he had signed the Second Bank's charter in 1816?",
+    "answer": "He objected to the Court's broad rule of construction, warning that letting Congress treat almost anything as a means to an enumerated end could erase the limits set by enumerating its powers, and that few ratifiers would have accepted so pliant a rule."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1816-04",
+    "event": "President James Madison signs the act chartering the Second Bank of the United States for twenty years."
+   },
+   {
+    "date": "1817-01",
+    "event": "The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore."
+   },
+   {
+    "date": "1818-02-11",
+    "event": "Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818."
+   },
+   {
+    "date": "1818-05-01",
+    "event": "The Maryland tax takes effect; James W. McCulloch, cashier of the Baltimore branch, later issues notes without the required stamps."
+   },
+   {
+    "date": "1819-03-06",
+    "event": "The Supreme Court unanimously rules for McCulloch, upholding the bank and striking down Maryland's tax."
+   },
+   {
+    "date": "1819-06-11",
+    "event": "Virginia judge Spencer Roane begins his four 'Hampden' essays attacking the decision in the Richmond Enquirer."
+   },
+   {
+    "date": "1819-09-02",
+    "event": "James Madison writes to Roane objecting to the breadth of the Court's rule of construction."
+   },
+   {
+    "date": "1824",
+    "event": "In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation."
+   },
+   {
+    "date": "1832-07-10",
+    "event": "President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President."
+   },
+   {
+    "date": "1836",
+    "event": "The Second Bank's federal charter expires without renewal."
+   }
+  ],
+  "misconception": {
+   "myth": "McCulloch v. Maryland gave Congress unlimited power to pass any law it considers useful.",
+   "fact": "Marshall's opinion restated that the national government is one of enumerated powers; it allowed only means clearly suited to a legitimate end within the Constitution's scope, and it said the Court would have to declare void a law passed under the pretext of executing a power for objects not entrusted to the government.",
+   "why": "Reading the case as a blank check obscures the real argument it started, which is about how far implied means can reach, not whether limits exist at all."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/supct/html/historics/USSC_CR_0017_0316_ZS.html",
+   "https://www.archives.gov/milestone-documents/mcculloch-v-maryland",
+   "https://www.law.cornell.edu/constitution-conan/article-1/section-8/clause-1/necessary-and-proper-clause-early-doctrine-and-mcculloch-v-maryland",
+   "https://www.federalreservehistory.org/-/media/Project/FedHistory/FedHistory/Documents/essaysPDFs/The-Second-Bank-of-the-United-States-_-Federal-Reserve-History.pdf",
+   "https://founders.archives.gov/documents/Madison/04-01-02-0455",
+   "https://avalon.law.yale.edu/19th_century/ajveto01.asp",
+   "https://founders.archives.gov/documents/Madison/04-01-02-0453",
+   "https://hls.harvard.edu/today/mcculloch-v-maryland-two-centuries-later",
+   "https://millercenter.org/node/56976"
+  ]
+ },
+ {
   "id": "us:mexican-american-war",
   "title": "Mexican–American War",
   "aliases": [

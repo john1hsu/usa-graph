@@ -1455,6 +1455,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Who was left out of the citizenship clause at first, and how did that change?
   **A:** Native people under tribal rather than U.S. authority were excluded, and Elk v. Wilkins (1884) held that Native Americans were not U.S. citizens even after leaving their nations; Congress made all Native Americans citizens only with the Indian Citizenship Act of 1924.
 
+### [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) — CourtCase
+
+| Myth | Fact |
+|---|---|
+| McCulloch v. Maryland gave Congress unlimited power to pass any law it considers useful. | Marshall's opinion restated that the national government is one of enumerated powers; it allowed only means clearly suited to a legitimate end within the Constitution's scope, and it said the Court would have to declare void a law passed under the pretext of executing a power for objects not entrusted to the government. |
+
+**Why it matters:** Reading the case as a blank check obscures the real argument it started, which is about how far implied means can reach, not whether limits exist at all.
+
+- **Q:** Why did Marshall reject Maryland's argument that "necessary" in the Necessary and Proper Clause meant "absolutely necessary"?
+  **A:** He said the word admits of degrees and is commonly used to mean convenient, useful or conducive to an end, and he pointed out that Article I, Section 10 uses the phrase "absolutely necessary," which showed the framers knew how to demand strict necessity when they wanted it; a narrow reading would also leave the government unable to carry out its purposes.
+- **Q:** How did the idea that "the power to tax involves the power to destroy" lead the Court to strike down Maryland's tax?
+  **A:** Because the national government derives its authority from the people of the whole Union and is supreme within its sphere, a single state cannot use its taxing power to burden or control the means the national government uses; allowing such a tax would let a state defeat what Congress had created.
+- **Q:** How did Andrew Jackson's 1832 bank veto challenge the authority of the McCulloch decision?
+  **A:** Jackson argued that each officer swears to support the Constitution as he understands it, that the Court's opinion must not control Congress or the President, and that whether the bank's particular features were necessary and proper was for the political branches to judge, so he could veto the recharter even though the Court had upheld the bank.
+- **Q:** What did James Madison object to in the decision, even though he had signed the Second Bank's charter in 1816?
+  **A:** He objected to the Court's broad rule of construction, warning that letting Congress treat almost anything as a means to an enumerated end could erase the limits set by enumerating its powers, and that few ratifiers would have accepted so pliant a rule.
+
 ## science-and-innovation
 
 ### [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) — Landmark

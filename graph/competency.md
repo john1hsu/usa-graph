@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:slavery-in-the-united-states` | 3 | Underground Railroad, United States Constitution, fugitive-slave-act-of-1850 |
 | `us:angel-island-immigration-station` | 2 | Chinese Americans, japanese-americans |
 
-…and 62 more.
+…and 63 more.
 
 ## Happenings by era
 
