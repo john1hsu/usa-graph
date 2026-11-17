@@ -3490,6 +3490,230 @@
   ]
  },
  {
+  "id": "us:chicago",
+  "title": "Chicago",
+  "aliases": [
+   "Shikaakwa",
+   "City of Chicago",
+   "Chicago",
+   "Illinois"
+  ],
+  "type": "City",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/chicago.md",
+  "created": "2026-11-17",
+  "summary": "Illinois's largest city and the third-largest in the United States (2020 census), built on Neshnabé (Potawatomi, Odawa and Ojibwe) land at the portage between the Great Lakes and the Mississippi watershed; incorporated in 1837, it became the nation's railroad, grain and meatpacking hub, rebuilt after the 1871 fire, and was a major destination of the Great Migration.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:the-midwest"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mississippi-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-railroad-strike-of-1877"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:blues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-chicago-fire"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mrs-olearys-cow-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:potawatomi"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:illinois-and-michigan-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:erie-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jean-baptiste-point-du-sable"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pullman-strike"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worlds-columbian-exposition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago-race-riot-of-1919"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harold-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago-sanitary-and-ship-canal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago-river"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:illinois",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:lake-michigan",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1837",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Chicago's location make it a natural transportation hub?",
+    "answer": "It sits at a low divide between the Great Lakes and the Mississippi drainage, which Jolliet noticed in 1673; once the Erie Canal linked the Great Lakes to the Atlantic in 1825 and the Illinois & Michigan Canal and railroads arrived in 1848, Chicago connected eastern markets to the western interior, and by 1856 ten trunk railroads ended there."
+   },
+   {
+    "question": "How did the land Chicago stands on pass out of Native hands?",
+    "answer": "Through a series of treaties, beginning with a 1795 tract around the river's mouth and continuing in 1816, 1829 and 1832; the 1833 Treaty of Chicago forced the Potawatomi to cede their last Illinois and Wisconsin lands and move west of the Mississippi, a removal the Newberry's Indigenous Chicago project describes as coercive and unequal."
+   },
+   {
+    "question": "Why was the Chicago River reversed in 1900?",
+    "answer": "The Sanitary and Ship Canal was built for shipping and water quality; reversing the river sent the city's sewage south toward the Illinois River instead of into Lake Michigan, the source of its drinking water."
+   },
+   {
+    "question": "How did the Great Migration change Chicago, and what limits did Black migrants face?",
+    "answer": "The Black population grew from about 40,000 in 1910 to 278,000 in 1940 and 813,000 in 1960 as southerners came for wartime industrial jobs, encouraged by the Chicago Defender; but most were confined to an overcrowded, overpriced South Side Black Belt, faced job discrimination and union exclusion, and in 1919 suffered a riot that killed 23 Black Chicagoans."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1673",
+    "event": "French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems."
+   },
+   {
+    "date": "1800-05",
+    "event": "Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there."
+   },
+   {
+    "date": "1803",
+    "event": "The U.S. Army erects Fort Dearborn near the mouth of the Chicago River."
+   },
+   {
+    "date": "1833",
+    "event": "Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi."
+   },
+   {
+    "date": "1837",
+    "event": "Illinois grants Chicago its first city charter, with six wards and a mayor."
+   },
+   {
+    "date": "1848",
+    "event": "The Illinois & Michigan Canal is completed, the first railroad opens, the telegraph arrives and the Board of Trade is founded."
+   },
+   {
+    "date": "1865",
+    "event": "The Union Stock Yard opens at 39th and Halsted Streets."
+   },
+   {
+    "date": "1871-10-08",
+    "event": "The Great Fire begins in the O'Leary barn on DeKoven Street and burns about 3.5 square miles of the city."
+   },
+   {
+    "date": "1890",
+    "event": "The census counts 1,099,850 residents, making Chicago the second-largest U.S. city."
+   },
+   {
+    "date": "1893",
+    "event": "Chicago hosts the World's Columbian Exposition."
+   },
+   {
+    "date": "1894-05-11",
+    "event": "Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows."
+   },
+   {
+    "date": "1900",
+    "event": "The Sanitary and Ship Canal permanently reverses the flow of the Chicago River away from Lake Michigan."
+   },
+   {
+    "date": "1919",
+    "event": "Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded."
+   },
+   {
+    "date": "1950",
+    "event": "The census records the city's peak population, 3,620,962."
+   },
+   {
+    "date": "1953",
+    "event": "The American Indian Center of Chicago is founded."
+   },
+   {
+    "date": "1983-04-12",
+    "event": "Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor."
+   },
+   {
+    "date": "1997",
+    "event": "The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire."
+   },
+   {
+    "date": "2020",
+    "event": "The census counts 2,746,388 residents, third behind New York City and Los Angeles."
+   },
+   {
+    "date": "2021-06",
+    "event": "The City Council votes to rename Lake Shore Drive in honor of DuSable."
+   }
+  ],
+  "misconception": {
+   "myth": "Mrs. O'Leary's cow kicked over a lantern and started the Great Chicago Fire of 1871.",
+   "fact": "The fire did begin in the barn of Catherine and Patrick O'Leary, but the police and fire board's 1871 inquiry said it was unable to determine the cause, found the household asleep when the fire started, and in 1997 the City Council formally exonerated Mrs. O'Leary and her cow.",
+   "why": "An illustrated weekly named her the likely culprit within three weeks of the fire, and the vivid cow-and-lantern image became a local legend that outlived the inconclusive official record."
+  },
+  "source_urls": [
+   "https://encyclopedia.chicagohistory.org/pages/409.html",
+   "https://encyclopedia.chicagohistory.org/pages/198.html",
+   "https://encyclopedia.chicagohistory.org/pages/231.html",
+   "https://encyclopedia.chicagohistory.org/pages/1740.html",
+   "https://www.chipublib.org/blogs/post/whodunit-the-mystery-of-mrs-olearys-cow/",
+   "https://blogs.loc.gov/law/2022/06/the-great-chicago-fire/",
+   "https://www.census.gov/about/history/stories/monthly/2021/october-2021.html",
+   "https://encyclopedia.chicagohistory.org/pages/27.html",
+   "https://encyclopedia.chicagohistory.org/pages/1270.html",
+   "https://test.newberry.org/indigenous-chicago/?p=685",
+   "https://test.newberry.org/indigenous-chicago/?p=690",
+   "https://heritagegarden.uic.edu/shikaakwa",
+   "https://www.fieldmuseum.org/blog/who-was-jean-baptiste-pointe-dusable",
+   "https://www.nps.gov/pull/learn/historyculture/the-strike-of-1894.htm",
+   "https://encyclopedia.chicagohistory.org/pages/1684.html",
+   "https://encyclopedia.chicagohistory.org/pages/500009.html"
+  ]
+ },
+ {
   "id": "us:chinese-americans",
   "title": "Chinese Americans",
   "aliases": [

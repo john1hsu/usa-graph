@@ -2831,6 +2831,220 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The fire did begin in the barn of Catherine and Patrick O'Leary, but the police and fire board's 1871 inquiry said it was unable to determine the cause, found the household asleep when the fire started, and in 1997 the City Council formally exonerated Mrs. O'Leary and her cow.",
+   "uso:myth": "Mrs. O'Leary's cow kicked over a lantern and started the Great Chicago Fire of 1871.",
+   "uso:why": "An illustrated weekly named her the likely culprit within three weeks of the fire, and the vivid cow-and-lantern image became a local legend that outlived the inconclusive official record."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Chicago's location make it a natural transportation hub?",
+   "uso:answer": "It sits at a low divide between the Great Lakes and the Mississippi drainage, which Jolliet noticed in 1673; once the Erie Canal linked the Great Lakes to the Atlantic in 1825 and the Illinois & Michigan Canal and railroads arrived in 1848, Chicago connected eastern markets to the western interior, and by 1856 ten trunk railroads ended there.",
+   "uso:questionFor": {
+    "@id": "us:chicago"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the land Chicago stands on pass out of Native hands?",
+   "uso:answer": "Through a series of treaties, beginning with a 1795 tract around the river's mouth and continuing in 1816, 1829 and 1832; the 1833 Treaty of Chicago forced the Potawatomi to cede their last Illinois and Wisconsin lands and move west of the Mississippi, a removal the Newberry's Indigenous Chicago project describes as coercive and unequal.",
+   "uso:questionFor": {
+    "@id": "us:chicago"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the Chicago River reversed in 1900?",
+   "uso:answer": "The Sanitary and Ship Canal was built for shipping and water quality; reversing the river sent the city's sewage south toward the Illinois River instead of into Lake Michigan, the source of its drinking water.",
+   "uso:questionFor": {
+    "@id": "us:chicago"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Great Migration change Chicago, and what limits did Black migrants face?",
+   "uso:answer": "The Black population grew from about 40,000 in 1910 to 278,000 in 1940 and 813,000 in 1960 as southerners came for wartime industrial jobs, encouraged by the Chicago Defender; but most were confined to an overcrowded, overpriced South Side Black Belt, faced job discrimination and union exclusion, and in 1919 suffered a riot that killed 23 Black Chicagoans.",
+   "uso:questionFor": {
+    "@id": "us:chicago"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1673"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chicago hosts the World's Columbian Exposition.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1893"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1894-05-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Sanitary and Ship Canal permanently reverses the flow of the Chicago River away from Lake Michigan.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1900"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1919"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census records the city's peak population, 3,620,962.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1950"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The American Indian Center of Chicago is founded.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1953"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1983-04-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1997"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 2,746,388 residents, third behind New York City and Los Angeles.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2020"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The City Council votes to rename Lake Shore Drive in honor of DuSable.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2021-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1800-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The U.S. Army erects Fort Dearborn near the mouth of the Chicago River.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1803"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1833"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Illinois grants Chicago its first city charter, with six wards and a mayor.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1837"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Illinois & Michigan Canal is completed, the first railroad opens, the telegraph arrives and the Board of Trade is founded.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1848"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Union Stock Yard opens at 39th and Halsted Streets.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1865"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Great Fire begins in the O'Leary barn on DeKoven Street and burns about 3.5 square miles of the city.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1871-10-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 1,099,850 residents, making Chicago the second-largest U.S. city.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1890"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's \"East and West Shaking Hands,\" does not show them.",
@@ -15029,6 +15243,230 @@
     "@id": "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Economic Geography",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/409.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Indigenous Chicago, Newberry Library",
+   "dcterms:title": "Removal and Erasure",
+   "schema:url": {
+    "@id": "https://test.newberry.org/indigenous-chicago/?p=685"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Indigenous Chicago, Newberry Library",
+   "dcterms:title": "Returning and Remaining",
+   "schema:url": {
+    "@id": "https://test.newberry.org/indigenous-chicago/?p=690"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "UIC Heritage Garden, University of Illinois Chicago",
+   "dcterms:title": "Shikaakwa",
+   "schema:url": {
+    "@id": "https://heritagegarden.uic.edu/shikaakwa"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Field Museum, by Bridgette Russell (February 3, 2022)",
+   "dcterms:title": "Who was Jean Baptiste Pointe DuSable?",
+   "schema:url": {
+    "@id": "https://www.fieldmuseum.org/blog/who-was-jean-baptiste-pointe-dusable"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Pullman National Historical Park",
+   "dcterms:title": "The Strike of 1894",
+   "schema:url": {
+    "@id": "https://www.nps.gov/pull/learn/historyculture/the-strike-of-1894.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Sanitary and Ship Canal",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/1684.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Year Pages: 1983",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/500009.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Business of Chicago",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/198.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Charters, Municipal",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/231.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Fire of 1871",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/1740.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Chicago Public Library, Chicago in 4D blog (2014)",
+   "dcterms:title": "Whodunit? The Mystery of Mrs. O'Leary's Cow",
+   "schema:url": {
+    "@id": "https://www.chipublib.org/blogs/post/whodunit-the-mystery-of-mrs-olearys-cow/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Law Library of Congress, In Custodia Legis blog, by Annie Ross (June 3, 2022)",
+   "dcterms:title": "The Great Chicago Fire",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2022/06/the-great-chicago-fire/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "History and the Census: 1871 Great Chicago Fire",
+   "schema:url": {
+    "@id": "https://www.census.gov/about/history/stories/monthly/2021/october-2021.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "African Americans",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/27.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)",
+   "dcterms:title": "Treaties",
+   "schema:url": {
+    "@id": "https://encyclopedia.chicagohistory.org/pages/1270.html"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1",
@@ -33247,6 +33685,208 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:chicago",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s9"
+    }
+   ],
+   "rdfs:label": "Chicago",
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1837"
+   },
+   "skos:altLabel": [
+    "Chicago",
+    "City of Chicago",
+    "Illinois",
+    "Shikaakwa"
+   ],
+   "skos:broader": {
+    "@id": "us:the-midwest"
+   },
+   "skos:definition": "Illinois's largest city and the third-largest in the United States (2020 census), built on Neshnabé (Potawatomi, Odawa and Ojibwe) land at the portage between the Great Lakes and the Mississippi watershed; incorporated in 1837, it became the nation's railroad, grain and meatpacking hub, rebuilt after the 1871 fire, and was a major destination of the Great Migration.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "Chicago",
+   "skos:related": [
+    {
+     "@id": "us:blues"
+    },
+    {
+     "@id": "us:chicago-race-riot-of-1919"
+    },
+    {
+     "@id": "us:chicago-river"
+    },
+    {
+     "@id": "us:chicago-sanitary-and-ship-canal"
+    },
+    {
+     "@id": "us:erie-canal"
+    },
+    {
+     "@id": "us:great-chicago-fire"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:harold-washington"
+    },
+    {
+     "@id": "us:illinois-and-michigan-canal"
+    },
+    {
+     "@id": "us:jean-baptiste-point-du-sable"
+    },
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:mrs-olearys-cow-myth"
+    },
+    {
+     "@id": "us:potawatomi"
+    },
+    {
+     "@id": "us:pullman-strike"
+    },
+    {
+     "@id": "us:treaty-of-chicago"
+    },
+    {
+     "@id": "us:worlds-columbian-exposition"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:lake-michigan"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/chicago.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:illinois"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chicago/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chicago/timeline/9"
     }
    ]
   },

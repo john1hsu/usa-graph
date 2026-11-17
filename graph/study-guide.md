@@ -1306,6 +1306,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## regions-cities-and-landmarks
 
+### [Chicago](../articles/regions-cities-and-landmarks/chicago.md) — City
+
+| Myth | Fact |
+|---|---|
+| Mrs. O'Leary's cow kicked over a lantern and started the Great Chicago Fire of 1871. | The fire did begin in the barn of Catherine and Patrick O'Leary, but the police and fire board's 1871 inquiry said it was unable to determine the cause, found the household asleep when the fire started, and in 1997 the City Council formally exonerated Mrs. O'Leary and her cow. |
+
+**Why it matters:** An illustrated weekly named her the likely culprit within three weeks of the fire, and the vivid cow-and-lantern image became a local legend that outlived the inconclusive official record.
+
+- **Q:** Why did Chicago's location make it a natural transportation hub?
+  **A:** It sits at a low divide between the Great Lakes and the Mississippi drainage, which Jolliet noticed in 1673; once the Erie Canal linked the Great Lakes to the Atlantic in 1825 and the Illinois & Michigan Canal and railroads arrived in 1848, Chicago connected eastern markets to the western interior, and by 1856 ten trunk railroads ended there.
+- **Q:** How did the land Chicago stands on pass out of Native hands?
+  **A:** Through a series of treaties, beginning with a 1795 tract around the river's mouth and continuing in 1816, 1829 and 1832; the 1833 Treaty of Chicago forced the Potawatomi to cede their last Illinois and Wisconsin lands and move west of the Mississippi, a removal the Newberry's Indigenous Chicago project describes as coercive and unequal.
+- **Q:** Why was the Chicago River reversed in 1900?
+  **A:** The Sanitary and Ship Canal was built for shipping and water quality; reversing the river sent the city's sewage south toward the Illinois River instead of into Lake Michigan, the source of its drinking water.
+- **Q:** How did the Great Migration change Chicago, and what limits did Black migrants face?
+  **A:** The Black population grew from about 40,000 in 1910 to 278,000 in 1940 and 813,000 in 1960 as southerners came for wartime industrial jobs, encouraged by the Chicago Defender; but most were confined to an overcrowded, overpriced South Side Black Belt, faced job discrimination and union exclusion, and in 1919 suffered a riot that killed 23 Black Chicagoans.
+
 ### [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) — Landmark
 
 | Myth | Fact |

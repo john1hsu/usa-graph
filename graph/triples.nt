@@ -2066,6 +2066,154 @@
 <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> <https://schema.org/startDate> "1831-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chicago/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/chicago/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The fire did begin in the barn of Catherine and Patrick O'Leary, but the police and fire board's 1871 inquiry said it was unable to determine the cause, found the household asleep when the fire started, and in 1997 the City Council formally exonerated Mrs. O'Leary and her cow." .
+<https://github.com/john1hsu/usa-graph/id/chicago/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Mrs. O'Leary's cow kicked over a lantern and started the Great Chicago Fire of 1871." .
+<https://github.com/john1hsu/usa-graph/id/chicago/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "An illustrated weekly named her the likely culprit within three weeks of the fire, and the vivid cow-and-lantern image became a local legend that outlived the inconclusive official record." .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Chicago's location make it a natural transportation hub?" .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "It sits at a low divide between the Great Lakes and the Mississippi drainage, which Jolliet noticed in 1673; once the Erie Canal linked the Great Lakes to the Atlantic in 1825 and the Illinois & Michigan Canal and railroads arrived in 1848, Chicago connected eastern markets to the western interior, and by 1856 ten trunk railroads ended there." .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chicago> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the land Chicago stands on pass out of Native hands?" .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Through a series of treaties, beginning with a 1795 tract around the river's mouth and continuing in 1816, 1829 and 1832; the 1833 Treaty of Chicago forced the Potawatomi to cede their last Illinois and Wisconsin lands and move west of the Mississippi, a removal the Newberry's Indigenous Chicago project describes as coercive and unequal." .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chicago> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the Chicago River reversed in 1900?" .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Sanitary and Ship Canal was built for shipping and water quality; reversing the river sent the city's sewage south toward the Illinois River instead of into Lake Michigan, the source of its drinking water." .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chicago> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Great Migration change Chicago, and what limits did Black migrants face?" .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Black population grew from about 40,000 in 1910 to 278,000 in 1940 and 813,000 in 1960 as southerners came for wartime industrial jobs, encouraged by the Chicago Defender; but most were confined to an overcrowded, overpriced South Side Black Belt, faced job discrimination and union exclusion, and in 1919 suffered a riot that killed 23 Black Chicagoans." .
+<https://github.com/john1hsu/usa-graph/id/chicago/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/chicago> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago hosts the World's Columbian Exposition." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1894-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "The Sanitary and Ship Canal permanently reverses the flow of the Chicago River away from Lake Michigan." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Five days of racial violence leave 23 Black Chicagoans dead and about 300 wounded." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1919"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The census records the city's peak population, 3,620,962." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The American Indian Center of Chicago is founded." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1953"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1983-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 2,746,388 residents, third behind New York City and Los Angeles." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "The City Council votes to rename Lake Shore Drive in honor of DuSable." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "2021-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1673"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1800-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Army erects Fort Dearborn near the mouth of the Chicago River." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1803"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1833"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Illinois grants Chicago its first city charter, with six wards and a mayor." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1837"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Illinois & Michigan Canal is completed, the first railroad opens, the telegraph arrives and the Board of Trade is founded." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1848"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Union Stock Yard opens at 39th and Halsted Streets." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1865"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "The Great Fire begins in the O'Leary barn on DeKoven Street and burns about 3.5 square miles of the city." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1871-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 1,099,850 residents, making Chicago the second-largest U.S. city." .
+<https://github.com/john1hsu/usa-graph/id/chicago/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#City> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#altLabel> "Chicago" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#altLabel> "City of Chicago" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#altLabel> "Illinois" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#altLabel> "Shikaakwa" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#definition> "Illinois's largest city and the third-largest in the United States (2020 census), built on Neshnabé (Potawatomi, Odawa and Ojibwe) land at the portage between the Great Lakes and the Mississippi watershed; incorporated in 1837, it became the nation's railroad, grain and meatpacking hub, rebuilt after the 1871 fire, and was a major destination of the Great Migration." .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago-race-riot-of-1919> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago-river> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago-sanitary-and-ship-canal> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/erie-canal> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-chicago-fire> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harold-washington> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/illinois-and-michigan-canal> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jean-baptiste-point-du-sable> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mrs-olearys-cow-myth> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/potawatomi> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pullman-strike> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-chicago> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/worlds-columbian-exposition> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s10> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s11> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s12> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s13> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s14> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s15> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s16> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s1> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s2> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s3> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s4> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s5> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s6> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s7> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s8> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s9> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/lake-michigan> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#domain> "regions-cities-and-landmarks" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/regions-cities-and-landmarks/chicago.md" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/illinois> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/chicago/misconception> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/chicago/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/chicago> <https://schema.org/startDate> "1837"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "A Chinese contingent from the Central Pacific attended, and eight Chinese workers moved the final rail into place; photographers at the scene recorded them, but the most famous image, A. J. Russell's \"East and West Shaking Hands,\" does not show them." .
 <https://github.com/john1hsu/usa-graph/id/chinese-americans/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Chinese railroad workers were left out of the 1869 Golden Spike ceremony entirely." .
@@ -10183,6 +10331,102 @@
 <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/usa-graph/id/source/cherokee-nation-v-georgia/s8> <https://schema.org/url> <https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <http://purl.org/dc/terms/publisher> "Indigenous Chicago, Newberry Library" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <http://purl.org/dc/terms/title> "Removal and Erasure" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s10> <https://schema.org/url> <https://test.newberry.org/indigenous-chicago/?p=685> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <http://purl.org/dc/terms/publisher> "Indigenous Chicago, Newberry Library" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <http://purl.org/dc/terms/title> "Returning and Remaining" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s11> <https://schema.org/url> <https://test.newberry.org/indigenous-chicago/?p=690> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <http://purl.org/dc/terms/publisher> "UIC Heritage Garden, University of Illinois Chicago" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <http://purl.org/dc/terms/title> "Shikaakwa" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s12> <https://schema.org/url> <https://heritagegarden.uic.edu/shikaakwa> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <http://purl.org/dc/terms/publisher> "Field Museum, by Bridgette Russell (February 3, 2022)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <http://purl.org/dc/terms/title> "Who was Jean Baptiste Pointe DuSable?" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s13> <https://schema.org/url> <https://www.fieldmuseum.org/blog/who-was-jean-baptiste-pointe-dusable> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <http://purl.org/dc/terms/publisher> "National Park Service, Pullman National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <http://purl.org/dc/terms/title> "The Strike of 1894" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s14> <https://schema.org/url> <https://www.nps.gov/pull/learn/historyculture/the-strike-of-1894.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <http://purl.org/dc/terms/title> "Sanitary and Ship Canal" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s15> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/1684.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <http://purl.org/dc/terms/title> "Year Pages: 1983" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s16> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/500009.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <http://purl.org/dc/terms/title> "Economic Geography" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s1> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/409.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <http://purl.org/dc/terms/title> "Business of Chicago" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s2> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/198.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <http://purl.org/dc/terms/title> "Charters, Municipal" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s3> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/231.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <http://purl.org/dc/terms/title> "Fire of 1871" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s4> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/1740.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <http://purl.org/dc/terms/publisher> "Chicago Public Library, Chicago in 4D blog (2014)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <http://purl.org/dc/terms/title> "Whodunit? The Mystery of Mrs. O'Leary's Cow" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s5> <https://schema.org/url> <https://www.chipublib.org/blogs/post/whodunit-the-mystery-of-mrs-olearys-cow/> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <http://purl.org/dc/terms/publisher> "Law Library of Congress, In Custodia Legis blog, by Annie Ross (June 3, 2022)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <http://purl.org/dc/terms/title> "The Great Chicago Fire" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s6> <https://schema.org/url> <https://blogs.loc.gov/law/2022/06/the-great-chicago-fire/> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <http://purl.org/dc/terms/title> "History and the Census: 1871 Great Chicago Fire" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s7> <https://schema.org/url> <https://www.census.gov/about/history/stories/monthly/2021/october-2021.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <http://purl.org/dc/terms/title> "African Americans" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s8> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/27.html> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <http://purl.org/dc/terms/publisher> "Encyclopedia of Chicago (Chicago Historical Society and Newberry Library)" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <http://purl.org/dc/terms/title> "Treaties" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+<https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/1270.html> .
 <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Golden Spike National Historical Park" .
 <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s1> <http://purl.org/dc/terms/title> "Chinese Labor and the Iron Road" .
