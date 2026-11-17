@@ -5843,6 +5843,95 @@
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/endDate> "1871-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <https://schema.org/startDate> "1871-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Fatback Band's \"King Tim III (Personality Jock)\" was released about two months earlier in 1979, and DJs, MCs and dancers had been building hip hop at Bronx parties since the early-to-mid 1970s; \"Rapper's Delight\" was the first hip hop song to reach the Billboard Hot 100." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Sugarhill Gang's \"Rapper's Delight\" (1979) was the first rap record, and hip hop began when it was released." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Treating the first hit record as the beginning erases the years of unrecorded neighborhood creativity — the DJs, MCs, b-boys, b-girls and graffiti writers — that made the culture before the record industry noticed it." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did DJ Kool Herc's way of playing records matter so much to early hip hop?" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "By playing two copies of the same record on two turntables and switching between them, he extended the \"break,\" the drum-heavy passage dancers loved, which gave b-boys and b-girls room to dance and MCs a beat to rhyme over." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did conditions in the Bronx in the late 1960s and 1970s shape hip hop?" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Economic decline brought cuts to schools, job training and the arts, rising unemployment and abandoned buildings; young Black and Latino people, some of them former gang members, turned to DJing, dancing and rhyming at parties as do-it-yourself expression and an alternative to gang conflict." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it misleading to say hip hop began with \"Rapper's Delight\"?" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Hip hop had been developing at Bronx parties since 1973, and another rap record, \"King Tim III,\" came out about two months earlier; \"Rapper's Delight\" was the first to reach the Hot 100, not the start of the culture." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2023-07-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Pigmeat Markham's comic, funk-based \"Here Comes the Judge\" anticipates later rap boasting." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Gil Scott-Heron records \"The Revolution Will Not Be Televised,\" a spoken-word model for socially conscious rap." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "DJ Kool Herc plays the \"Back to School Jam\" organized by his sister Cindy Campbell at 1520 Sedgwick Avenue in the Bronx." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1973-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Fatback Band releases \"King Tim III (Personality Jock)\"; about two months later the Sugarhill Gang's \"Rapper's Delight\" becomes the first hip hop song on the Billboard Hot 100; Kurtis Blow signs with Mercury, the first rapper on a major label." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Afrika Bambaataa's \"Planet Rock\" and Grandmaster Flash and the Furious Five's \"The Message\" are released." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Video Music Box becomes the first music-video program devoted to hip hop." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Run-DMC's Raising Hell becomes the first hip hop album certified platinum." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Tradition> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2000/01/rdf-schema#label> "Hip hop" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#altLabel> "hip hop culture" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#altLabel> "hip-hop culture" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#altLabel> "hip-hop" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#altLabel> "rap music" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/music-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#definition> "A youth culture and art form created by Black, Afro-Caribbean and Latino young people in the Bronx, New York City, in the early 1970s, combining DJing, MCing (rapping), breaking and graffiti, which grew from neighborhood parties into a music industry and a culture found across the United States and the world." .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/culture-and-arts> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hip hop" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/black-power-movement> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-york-city> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#domain> "culture-and-arts" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/culture-and-arts/hip-hop.md" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#influencedBy> <https://github.com/john1hsu/usa-graph/id/jazz> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/hip-hop/misconception> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/the-bronx> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/hip-hop/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/hip-hop> <https://schema.org/startDate> "1973-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The Bureau of Reclamation states that no one is buried in the dam; concrete was placed in five-foot-high blocks that rose gradually as crews packed each layer, which made an unnoticed burial virtually impossible. The official toll counts 96 industrial deaths at the site." .
 <https://github.com/john1hsu/usa-graph/id/hoover-dam/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Workers who died building Hoover Dam are entombed in its concrete." .
@@ -13576,6 +13665,48 @@
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/usa-graph/id/source/hayden-geological-survey-of-1871/s9> <https://schema.org/url> <https://www.npshistory.com/publications/yell/cramton/sec5.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/publisher> "U.S. Senate, via GovInfo (U.S. Government Publishing Office)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://purl.org/dc/terms/title> "S.Res. 305 (118th Congress): A resolution commemorating the 50th anniversary of hip hop (agreed to in Senate)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s1> <https://schema.org/url> <https://www.govinfo.gov/content/pkg/BILLS-118sres305ats/xml/BILLS-118sres305ats.xml> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of African American History and Culture, Searchable Museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <http://purl.org/dc/terms/title> "Hip-Hop Origins" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s2> <https://schema.org/url> <https://www.searchablemuseum.com/hip-hop-origins/> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <http://purl.org/dc/terms/publisher> "Tina L. Ligon, National Archives, Rediscovering Black History blog (2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <http://purl.org/dc/terms/title> "\"To the Hip Hop and You Don't Stop\": A Tribute for the 50th Anniversary of Hip Hop" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s3> <https://schema.org/url> <https://rediscovering-black-history.blogs.archives.gov/2023/08/11/to-the-hip-hop-and-you-dont-stop-a-tribute-for-the-50th-anniversary-of-hip-hop> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <http://purl.org/dc/terms/publisher> "Heather Darnell, Library of Congress Music Division, In the Muse blog (2023)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <http://purl.org/dc/terms/title> "Early Hip-Hop at the Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s4> <https://schema.org/url> <https://blogs.loc.gov/music/2023/08/early-hip-hop-at-the-library-of-congress/> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <http://purl.org/dc/terms/publisher> "Kayla Chenault, The Henry Ford (2025)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <http://purl.org/dc/terms/title> "The Early History of Hip-Hop in Three Flyers" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s5> <https://schema.org/url> <https://www.thehenryford.org/collections/explore/articles/the-early-history-of-hip-hop-in-three-flyers> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <http://purl.org/dc/terms/publisher> "Carnegie Hall, Timeline of African American Music" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <http://purl.org/dc/terms/title> "Rap / Hip-Hop" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s6> <https://schema.org/url> <https://timeline.carnegiehall.org/genres/rap-hip-hop> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <http://purl.org/dc/terms/publisher> "Museum of Pop Culture (MoPOP), collections database" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <http://purl.org/dc/terms/title> "You're My Candy Sweet / King Tim III (Personality Jock)" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/hip-hop/s7> <https://schema.org/url> <https://mopop.emuseum.com/objects/98876/youre-my-candy-sweet--king-tim-iii-personality-jock> .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/date> "2026-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/usa-graph/id/source/hoover-dam/s10> <http://purl.org/dc/terms/title> "Hoover Dam" .

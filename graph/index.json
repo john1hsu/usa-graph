@@ -9743,6 +9743,145 @@
   ]
  },
  {
+  "id": "us:hip-hop",
+  "title": "Hip hop",
+  "aliases": [
+   "hip-hop",
+   "hip-hop culture",
+   "hip hop culture",
+   "rap music"
+  ],
+  "type": "Tradition",
+  "domain": "culture-and-arts",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/culture-and-arts/hip-hop.md",
+  "created": "2026-11-17",
+  "summary": "A youth culture and art form created by Black, Afro-Caribbean and Latino young people in the Bronx, New York City, in the early 1970s, combining DJing, MCing (rapping), breaking and graffiti, which grew from neighborhood parties into a music industry and a culture found across the United States and the world.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:music-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-york-city"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jazz"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:blues"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:black-power-movement"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:the-bronx",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:african-americans",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:blues",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:jazz",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1973-08-11",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did DJ Kool Herc's way of playing records matter so much to early hip hop?",
+    "answer": "By playing two copies of the same record on two turntables and switching between them, he extended the \"break,\" the drum-heavy passage dancers loved, which gave b-boys and b-girls room to dance and MCs a beat to rhyme over."
+   },
+   {
+    "question": "How did conditions in the Bronx in the late 1960s and 1970s shape hip hop?",
+    "answer": "Economic decline brought cuts to schools, job training and the arts, rising unemployment and abandoned buildings; young Black and Latino people, some of them former gang members, turned to DJing, dancing and rhyming at parties as do-it-yourself expression and an alternative to gang conflict."
+   },
+   {
+    "question": "Why is it misleading to say hip hop began with \"Rapper's Delight\"?",
+    "answer": "Hip hop had been developing at Bronx parties since 1973, and another rap record, \"King Tim III,\" came out about two months earlier; \"Rapper's Delight\" was the first to reach the Hot 100, not the start of the culture."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1968",
+    "event": "Pigmeat Markham's comic, funk-based \"Here Comes the Judge\" anticipates later rap boasting."
+   },
+   {
+    "date": "1971",
+    "event": "Gil Scott-Heron records \"The Revolution Will Not Be Televised,\" a spoken-word model for socially conscious rap."
+   },
+   {
+    "date": "1973-08-11",
+    "event": "DJ Kool Herc plays the \"Back to School Jam\" organized by his sister Cindy Campbell at 1520 Sedgwick Avenue in the Bronx."
+   },
+   {
+    "date": "1979",
+    "event": "The Fatback Band releases \"King Tim III (Personality Jock)\"; about two months later the Sugarhill Gang's \"Rapper's Delight\" becomes the first hip hop song on the Billboard Hot 100; Kurtis Blow signs with Mercury, the first rapper on a major label."
+   },
+   {
+    "date": "1981",
+    "event": "The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle."
+   },
+   {
+    "date": "1982",
+    "event": "Afrika Bambaataa's \"Planet Rock\" and Grandmaster Flash and the Furious Five's \"The Message\" are released."
+   },
+   {
+    "date": "1984",
+    "event": "Video Music Box becomes the first music-video program devoted to hip hop."
+   },
+   {
+    "date": "1986",
+    "event": "Run-DMC's Raising Hell becomes the first hip hop album certified platinum."
+   },
+   {
+    "date": "2021",
+    "event": "The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs."
+   },
+   {
+    "date": "2023-07-20",
+    "event": "The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary."
+   }
+  ],
+  "misconception": {
+   "myth": "The Sugarhill Gang's \"Rapper's Delight\" (1979) was the first rap record, and hip hop began when it was released.",
+   "fact": "The Fatback Band's \"King Tim III (Personality Jock)\" was released about two months earlier in 1979, and DJs, MCs and dancers had been building hip hop at Bronx parties since the early-to-mid 1970s; \"Rapper's Delight\" was the first hip hop song to reach the Billboard Hot 100.",
+   "why": "Treating the first hit record as the beginning erases the years of unrecorded neighborhood creativity — the DJs, MCs, b-boys, b-girls and graffiti writers — that made the culture before the record industry noticed it."
+  },
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/BILLS-118sres305ats/xml/BILLS-118sres305ats.xml",
+   "https://www.searchablemuseum.com/hip-hop-origins/",
+   "https://rediscovering-black-history.blogs.archives.gov/2023/08/11/to-the-hip-hop-and-you-dont-stop-a-tribute-for-the-50th-anniversary-of-hip-hop",
+   "https://blogs.loc.gov/music/2023/08/early-hip-hop-at-the-library-of-congress/",
+   "https://www.thehenryford.org/collections/explore/articles/the-early-history-of-hip-hop-in-three-flyers",
+   "https://timeline.carnegiehall.org/genres/rap-hip-hop",
+   "https://mopop.emuseum.com/objects/98876/youre-my-candy-sweet--king-tim-iii-personality-jock"
+  ]
+ },
+ {
   "id": "us:hoover-dam",
   "title": "Hoover Dam",
   "aliases": [

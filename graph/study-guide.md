@@ -573,6 +573,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How do scholars differ in reading the poems' form?
   **A:** Him Mark Lai described them as largely in the classical Tang style, while R. John Williams argues their irregular rhythms and loose constructions sit closer to modern free verse than to the classics.
 
+### [Hip hop](../articles/culture-and-arts/hip-hop.md) — Tradition
+
+| Myth | Fact |
+|---|---|
+| The Sugarhill Gang's "Rapper's Delight" (1979) was the first rap record, and hip hop began when it was released. | The Fatback Band's "King Tim III (Personality Jock)" was released about two months earlier in 1979, and DJs, MCs and dancers had been building hip hop at Bronx parties since the early-to-mid 1970s; "Rapper's Delight" was the first hip hop song to reach the Billboard Hot 100. |
+
+**Why it matters:** Treating the first hit record as the beginning erases the years of unrecorded neighborhood creativity — the DJs, MCs, b-boys, b-girls and graffiti writers — that made the culture before the record industry noticed it.
+
+- **Q:** Why did DJ Kool Herc's way of playing records matter so much to early hip hop?
+  **A:** By playing two copies of the same record on two turntables and switching between them, he extended the "break," the drum-heavy passage dancers loved, which gave b-boys and b-girls room to dance and MCs a beat to rhyme over.
+- **Q:** How did conditions in the Bronx in the late 1960s and 1970s shape hip hop?
+  **A:** Economic decline brought cuts to schools, job training and the arts, rising unemployment and abandoned buildings; young Black and Latino people, some of them former gang members, turned to DJing, dancing and rhyming at parties as do-it-yourself expression and an alternative to gang conflict.
+- **Q:** Why is it misleading to say hip hop began with "Rapper's Delight"?
+  **A:** Hip hop had been developing at Bronx parties since 1973, and another rap record, "King Tim III," came out about two months earlier; "Rapper's Delight" was the first to reach the Hot 100, not the start of the culture.
+
 ### [Jazz](../articles/culture-and-arts/jazz.md) — Tradition
 
 | Myth | Fact |

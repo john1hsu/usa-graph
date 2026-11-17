@@ -1438,6 +1438,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1968 | Avery v. Midland County extends the equal-population rule to elected local governments. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1968 | Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1968 | Pigmeat Markham's comic, funk-based "Here Comes the Judge" anticipates later rap boasting. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1968-04-03 | Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968-04-04 | Assassinated on a balcony of the Lorraine Motel in Memphis. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1449,9 +1450,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1970-05 | State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
+| 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1973-08-11 | **[Hip hop](../articles/culture-and-arts/hip-hop.md)** (Tradition) |
+| 1973-08-11 | DJ Kool Herc plays the "Back to School Jam" organized by his sister Cindy Campbell at 1520 Sedgwick Avenue in the Bronx. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1974 | Domestic workers are brought under the law. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1975 | Congress extends preclearance and updates the formula for the last time, using 1972 election data. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1975 | Congress extends preclearance for seven years and adds protections for language-minority citizens. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1470,9 +1474,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1978-04-18 | The Senate approves the Panama Canal Treaty by the same 68-to-32 margin. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978-11-07 | Voters approve a constitutional amendment making English and Hawaiian the state's official languages. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
+| 1979 | The Fatback Band releases "King Tim III (Personality Jock)"; about two months later the Sugarhill Gang's "Rapper's Delight" becomes the first hip hop song on the Billboard Hot 100; Kurtis Blow signs with Mercury, the first rapper on a major label. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1980 | Him Mark Lai, Genny Lim and Judy Yung publish Island, with translations of 135 poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1981 | The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1982 | Afrika Bambaataa's "Planet Rock" and Grandmaster Flash and the Furious Five's "The Message" are released. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1982-01-19 | Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1480,7 +1487,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1983-04-12 | Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1983-11-10 | A federal court in San Francisco vacates Fred Korematsu's conviction, citing government misconduct. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1984 | Video Music Box becomes the first music-video program devoted to hip hop. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1986 | Run-DMC's Raising Hell becomes the first hip hop album certified platinum. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1986 | The Bureau of Engraving and Printing makes the master die from which current dies are produced. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1986-10-07 | Congress designates the rose as the national floral emblem. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1650,6 +1659,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-12-11 | FDA issues the first COVID-19 vaccine emergency use authorization, for the Pfizer-BioNTech vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-12-14 | New York nurse Sandra Lindsay becomes the first American outside clinical trials to receive a COVID-19 vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
+| 2021 | The Smithsonian releases the Smithsonian Anthology of Hip-Hop and Rap, 129 tracks on nine CDs. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 2021-04-14 | President Biden announces a final withdrawal to begin May 1, later setting August 31 as the end of the military mission. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
 | 2021-04-26 | The Census Bureau delivers 2020 apportionment counts; Texas gains two seats and seven states lose one. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 2021-06 | The City Council votes to rename Lake Shore Drive in honor of DuSable. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
@@ -1668,6 +1678,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2022-12-13 | The Respect for Marriage Act is signed into law, repealing the Defense of Marriage Act's marriage definition and requiring interstate recognition of marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2023-05-11 | The federal COVID-19 public health emergency expires at the end of the day. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2023-07 | Preservationists launch a Save the Star Map campaign after the terrazzo work stalls. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
+| 2023-07-20 | The U.S. Senate agrees to S.Res. 305, designating August 11, 2023, as Hip Hop Celebration Day for the culture's 50th anniversary. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
