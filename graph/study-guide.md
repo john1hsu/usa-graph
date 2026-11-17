@@ -1359,6 +1359,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did Tubman have to petition Congress for a pension, and what did she get?
   **A:** She had served the Union as a nurse, cook, scout and spy without formal enlistment or regular pay, and at first received only an $8-a-month widow's pension as Nelson Davis's widow; in 1899 Congress raised it to $20 a month for her service as a nurse.
 
+### [John Marshall](../articles/people-who-shaped-america/john-marshall.md) — Person
+
+| Myth | Fact |
+|---|---|
+| John Marshall held only a handful of enslaved household servants, so slavery was marginal to his life. | Marshall bought hundreds of enslaved people over his lifetime; by 1830 he held about 150, and with the people he gave his sons the family's plantations held roughly 250. |
+
+**Why it matters:** Many biographers repeated a figure of about a dozen servants; Marshall's 1827 will and the 1830 census show far more, and the smaller number hides how deeply slavery shaped his household and fortune.
+
+- **Q:** How did Marbury v. Madison let Marshall strengthen the Supreme Court while denying William Marbury his remedy?
+  **A:** Marshall held that Marbury had a right to his commission but that the provision of the Judiciary Act of 1789 letting the Court issue the writ exceeded the Constitution; by refusing to apply an unconstitutional act of Congress, the Court established judicial review.
+- **Q:** Why did Marshall's ruling in Worcester v. Georgia fail to protect the Cherokee Nation from removal?
+  **A:** Although the Court held that Georgia's laws had no force in Cherokee territory, Georgia ignored the ruling and President Jackson did not enforce it; a dissident Cherokee faction signed the Treaty of New Echota in 1835 and the U.S. Army forced most Cherokees west in 1838.
+- **Q:** How does Paul Finkelman connect Marshall's slaveholding to his decisions?
+  **A:** He argues that Marshall, who bought hundreds of enslaved people and supported removing free Black people from Virginia, never wrote an opinion supporting Black freedom, and that enslaved plaintiffs lost every freedom case in which he wrote the majority opinion.
+- **Q:** Why did Marshall's broad view of national power put him at odds with Presidents Jefferson, Madison and Monroe?
+  **A:** Marshall favored a strong national government with the federal courts as final interpreters of the Constitution, while those Virginia presidents held more state-centered views, so he faced political headwinds from them for about 24 years.
+
 ### [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) — Person
 
 | Myth | Fact |

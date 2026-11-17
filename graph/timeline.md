@@ -92,6 +92,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1753 | Receives the Royal Society's Copley Medal and becomes deputy postmaster general for the northern colonies. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1754-05-09 | Prints the "Join, or Die" snake woodcut in the Pennsylvania Gazette, urging colonial union. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1754-07-03 | Surrenders Fort Necessity to French forces, a clash that helped open the Seven Years' War. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1755-09-24 – 1835-07-06 | **[John Marshall](../articles/people-who-shaped-america/john-marshall.md)** (Person) |
+| 1755-09-24 | Born near Germantown in Fauquier County, Virginia, one of fourteen children of Thomas and Mary Randolph Marshall. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1757 | Sails to London as agent of the Pennsylvania Assembly, taking two enslaved men, Peter and King. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -119,6 +121,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-07-13 | Congress approves a speech asking the Six Nations to stay neutral. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1775-11-29 | Congress creates the Committee of Secret Correspondence to contact friends abroad. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1776 | Enlists as a lieutenant; he rises to captain in the Continental Army by July 1778. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1776 | Sent to France as one of the American commissioners. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1776 | The Domínguez–Escalante expedition fords the river at the Crossing of the Fathers, now beneath Lake Powell. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
@@ -167,6 +170,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1777-11-15 | After debate sharpened by the British capture of Philadelphia, Congress adopts the Articles. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1777-11-15 | Congress adopts the Articles of Confederation, whose first article names the confederacy "The United States of America." — [United States](../articles/states-and-territories/united-states.md) |
 | 1777-11-17 | Congress sends the Articles to the states, all thirteen of which must ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1777-12 | Spends the winter at Valley Forge with Washington's army. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1777-12-16 | Virginia becomes the first state to ratify. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1778 | British captain James Cook reaches the islands. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1778 | France recognizes American independence and concludes an alliance with the United States. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -183,6 +187,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1780 | Studies law at the College of William & Mary. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1780-03 | A second committee, advised by Francis Hopkinson, adds the 13 stripes, 13 stars and olive branch but produces no accepted seal. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1780-03-01 | Pennsylvania enacts the first state law for the gradual abolition of slavery. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -194,6 +199,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-09-05 | The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1782 | Enters the Virginia House of Delegates and the state's Council of State. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1782-03-20 | Lord North resigns as prime minister; the new British government opens peace talks in Paris. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1782-05 | A third committee turns to Philadelphia lawyer William Barton, who drafts an eagle and a thirteen-step pyramid. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1782-06-13 | Congress hands all three committees' material to its secretary, Charles Thomson. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
@@ -209,6 +215,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1782-11-30 | American and British commissioners sign preliminary articles of peace. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1782-11-30 | The British and American commissioners sign preliminary articles of peace, to take effect only once Britain and France agree terms. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1782-12-14 | The British evacuate Charleston, South Carolina, taking loyalists and thousands of Black people with them. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1783 | Marries Mary "Polly" Ambler and settles in Richmond; an enslaved man, Robin Spurlock, is given to the couple as a wedding present. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1783-01-20 | Britain and France sign their own preliminary articles, and an armistice is declared. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
 | 1783-09-03 | **[Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md)** (Document) |
 | 1783-09-03 | David Hartley and the three American commissioners sign the definitive treaty at the Hôtel de York in Paris; Britain's treaties with France and Spain are signed at Versailles the same day. — [Treaty of Paris (1783)](../articles/colonial-and-revolutionary/treaty-of-paris-1783.md) |
@@ -260,6 +267,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1788-03-22 | John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-04-02 | The 76th essay of the newspaper run appears; the rest first appear in the bound volumes. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-05-28 | McLean publishes the second volume, bringing the collection to 85 essays. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
+| 1788-06 | Votes to ratify the U.S. Constitution as a delegate to the Virginia convention. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1788-06-17 | New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
@@ -313,14 +321,19 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1797 – 1883-11-26 | **[Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md)** (Person) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1797 | Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1797 | Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1799-12 | Takes his seat in the U.S. House of Representatives for a Virginia district. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1800 | The Court follows the capital from Philadelphia to Washington and is lent space in the Capitol. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1800-05 | Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1800-06-06 | Enters duty as Adams's secretary of state. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1800-11 | Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1800-11-17 | The Senate moves into the unfinished Capitol in Washington, D.C. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1801-01-01 | The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1801-01-27 | Confirmed by the Senate as Chief Justice of the United States. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
+| 1801-02-04 | Begins serving as Chief Justice while remaining acting secretary of state until March 4. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1801-02-13 | The outgoing Congress passes the Judiciary Act of 1801, creating sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-02-17 | After Jefferson and Aaron Burr tie at 73 electoral votes each, the House elects Jefferson on its 36th ballot. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -331,6 +344,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1802-03-08 | The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-04-29 | The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-10 | Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1803 | Delivers the Court's opinion in Marbury v. Madison, establishing judicial review of acts of Congress. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1803 | In Marbury v. Madison the Court for the first time declares an act of Congress unconstitutional. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1803 | The U.S. Army erects Fort Dearborn near the mouth of the Chicago River. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1803 | The United States buys Louisiana from France for $15 million. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -379,6 +393,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1818-05-01 | The Maryland tax takes effect; James W. McCulloch, cashier of the Baltimore branch, later issues notes without the required stamps. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819 | Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
+| 1819 | Writes for the Court in McCulloch v. Maryland and the Dartmouth College case. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
 | 1819-03-06 | **[McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md)** (CourtCase) |
 | 1819-03-06 | The Supreme Court unanimously rules for McCulloch, upholding the bank and striking down Maryland's tax. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
@@ -402,6 +417,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1822 | Born Araminta "Minty" Ross, probably in February or early March, on Anthony Thompson's plantation at Peter's Neck, Dorchester County, Maryland. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1822-03 | Monroe formally recognizes Argentina, Peru, Colombia, Chile and Mexico, newly independent of Spain. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1823 | British Foreign Minister George Canning proposes a joint U.S.-British declaration against European intervention in the Americas. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
+| 1823 | Grounds federal land title in the doctrine of discovery in Johnson v. M'Intosh. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1823 | Thomas Jefferson, writing to Justice William Johnson, criticizes the opinion as unnecessary and calls its mandamus discussion obiter dictum. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1823-06-12 | Thomas Jefferson writes to Justice William Johnson criticizing Marbury and naming the people as the ultimate arbiter. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1823-11 | Persuaded by Secretary of State John Quincy Adams, Monroe decides on a unilateral U.S. statement instead. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
@@ -409,6 +425,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1824 | Reads Congress's commerce power broadly in Gibbons v. Ogden. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1825-02-09 | With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -426,6 +443,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1828 | Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1829 | Mexico abolishes slavery. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1829 | Sits in the Virginia Constitutional Convention of 1829–30. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
@@ -441,6 +459,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1831-03-18 | The Court denies the injunction and dismisses the Cherokee Nation's bill for want of jurisdiction. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1831-08-22 | Nat Turner's rebellion begins in Southampton County, Virginia. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1832 | By this year almost every state has its voters, rather than its legislature, choose presidential electors. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
+| 1832 | Holds in Worcester v. Georgia that Georgia's laws have no force in the Cherokee Nation. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia law has no force within the Cherokee Nation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -456,6 +475,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1834 | Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians. — [California](../articles/states-and-territories/california.md) |
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
+| 1835-07-06 | Dies after 34 years as Chief Justice. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1835-10-21 | A Boston mob breaks up a meeting of the Boston Female Anti-Slavery Society and threatens Garrison's life. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1835-12-29 | A minority Treaty Party signs the Treaty of New Echota without the authority of Principal Chief John Ross or the Cherokee government; the Second Seminole War begins the same year. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836 | After Richard M. Johnson falls one vote short of an electoral majority for vice president, the Senate elects him 33 to 16, the only time it has chosen a vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |

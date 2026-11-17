@@ -9414,6 +9414,220 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Marshall bought hundreds of enslaved people over his lifetime; by 1830 he held about 150, and with the people he gave his sons the family's plantations held roughly 250.",
+   "uso:myth": "John Marshall held only a handful of enslaved household servants, so slavery was marginal to his life.",
+   "uso:why": "Many biographers repeated a figure of about a dozen servants; Marshall's 1827 will and the 1830 census show far more, and the smaller number hides how deeply slavery shaped his household and fortune."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Marbury v. Madison let Marshall strengthen the Supreme Court while denying William Marbury his remedy?",
+   "uso:answer": "Marshall held that Marbury had a right to his commission but that the provision of the Judiciary Act of 1789 letting the Court issue the writ exceeded the Constitution; by refusing to apply an unconstitutional act of Congress, the Court established judicial review.",
+   "uso:questionFor": {
+    "@id": "us:john-marshall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Marshall's ruling in Worcester v. Georgia fail to protect the Cherokee Nation from removal?",
+   "uso:answer": "Although the Court held that Georgia's laws had no force in Cherokee territory, Georgia ignored the ruling and President Jackson did not enforce it; a dissident Cherokee faction signed the Treaty of New Echota in 1835 and the U.S. Army forced most Cherokees west in 1838.",
+   "uso:questionFor": {
+    "@id": "us:john-marshall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does Paul Finkelman connect Marshall's slaveholding to his decisions?",
+   "uso:answer": "He argues that Marshall, who bought hundreds of enslaved people and supported removing free Black people from Virginia, never wrote an opinion supporting Black freedom, and that enslaved plaintiffs lost every freedom case in which he wrote the majority opinion.",
+   "uso:questionFor": {
+    "@id": "us:john-marshall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Marshall's broad view of national power put him at odds with Presidents Jefferson, Madison and Monroe?",
+   "uso:answer": "Marshall favored a strong national government with the federal courts as final interpreters of the Constitution, while those Virginia presidents held more state-centered views, so he faced political headwinds from them for about 24 years.",
+   "uso:questionFor": {
+    "@id": "us:john-marshall"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born near Germantown in Fauquier County, Virginia, one of fourteen children of Thomas and Mary Randolph Marshall.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1755-09-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enters duty as Adams's secretary of state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1800-06-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Confirmed by the Senate as Chief Justice of the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-01-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Begins serving as Chief Justice while remaining acting secretary of state until March 4.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-02-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Delivers the Court's opinion in Marbury v. Madison, establishing judicial review of acts of Congress.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1803"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Writes for the Court in McCulloch v. Maryland and the Dartmouth College case.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1819"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Grounds federal land title in the doctrine of discovery in Johnson v. M'Intosh.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1823"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Reads Congress's commerce power broadly in Gibbons v. Ogden.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1824"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sits in the Virginia Constitutional Convention of 1829–30.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1829"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Holds in Worcester v. Georgia that Georgia's laws have no force in the Cherokee Nation.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies after 34 years as Chief Justice.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1835-07-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enlists as a lieutenant; he rises to captain in the Continental Army by July 1778.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Spends the winter at Valley Forge with Washington's army.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1777-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Studies law at the College of William & Mary.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1780"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enters the Virginia House of Delegates and the state's Council of State.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1782"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marries Mary \"Polly\" Ambler and settles in Richmond; an enslaved man, Robin Spurlock, is given to the couple as a wedding present.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1783"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Votes to ratify the U.S. Constitution as a delegate to the Virginia convention.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1788-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1797"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes his seat in the U.S. House of Representatives for a Virginia district.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1799-12"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The Constitution does not expressly grant the power, but the idea was older than Marbury; state courts had voided statutes under state constitutions, Hamilton defended it in Federalist No. 78, and federal judges had weighed the constitutionality of acts of Congress in the 1790s. Marbury was the first time the Supreme Court actually held an act of Congress void.",
@@ -22790,6 +23004,146 @@
     "@id": "https://www.justice.gov/crt/history-federal-voting-rights-laws?ref=ivn.us"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Supreme Court Historical Society, Civics Resources",
+   "dcterms:title": "John Marshall",
+   "schema:url": {
+    "@id": "https://civics.supremecourthistory.org/?p=356"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "John Marshall",
+   "schema:url": {
+    "@id": "https://www.battlefields.org/learn/biographies/john-marshall"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Office of the Historian, U.S. Department of State",
+   "dcterms:title": "Biographies of the Secretaries of State: John Marshall (1755–1835)",
+   "schema:url": {
+    "@id": "https://history.state.gov/departmenthistory/people/marshall-john"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Supreme Court of the United States",
+   "dcterms:title": "The Supreme Court in the Nineteenth Century (remarks by Chief Justice William H. Rehnquist, June 4, 2001)",
+   "schema:url": {
+    "@id": "https://www.supremecourt.gov/publicinfo/speeches/sp_06-04-01.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "Milestone Documents: Marbury v. Madison (1803)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/marbury-v-madison"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "University of Chicago Law Review Online (Paul Finkelman, 2020)",
+   "dcterms:title": "Master John Marshall and the Problem of Slavery",
+   "schema:url": {
+    "@id": "https://lawreview.uchicago.edu/online-archive/master-john-marshall-and-problem-slavery"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Preservation Virginia",
+   "dcterms:title": "Voices Remembered: Agnes Spurlock",
+   "schema:url": {
+    "@id": "https://preservationvirginia.org/?p=6640"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia (Tim Alan Garrison)",
+   "dcterms:title": "Worcester v. Georgia (1832)",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress, In Custodia Legis (Jennifer Davis, 2023)",
+   "dcterms:title": "Doctrine of Discovery, Until Otherwise",
+   "schema:url": {
+    "@id": "https://blogs.loc.gov/law/2023/07/doctrine-of-discovery-until-otherwise/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Center for the Study of the American Constitution, University of Wisconsin–Madison",
+   "dcterms:title": "John Marshall (1755–1835)",
+   "schema:url": {
+    "@id": "https://archive.csac.history.wisc.edu/marshall_bio.pdf"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/judicial-review/s1",
@@ -44656,6 +45010,227 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/jim-crow-laws/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:john-marshall",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/john-marshall/s9"
+    }
+   ],
+   "rdfs:label": "John Marshall",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1755-09-24"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1835-07-06"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1835-07-06"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1755-09-24"
+   },
+   "skos:altLabel": [
+    "Chief Justice John Marshall",
+    "Chief Justice Marshall"
+   ],
+   "skos:broader": {
+    "@id": "us:justices-of-the-supreme-court"
+   },
+   "skos:definition": "A Virginia lawyer, Revolutionary War officer, congressman and secretary of state (1755–1835) who served as Chief Justice of the United States from 1801 to 1835, the longest tenure in that office, and whose opinions established judicial review and a broad view of national power, while he also enslaved hundreds of people over his lifetime and wrote the foundational decisions of federal Indian law.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/people-who-shaped-america"
+   },
+   "skos:prefLabel": "John Marshall",
+   "skos:related": [
+    {
+     "@id": "us:andrew-jackson"
+    },
+    {
+     "@id": "us:cherokee-nation-v-georgia"
+    },
+    {
+     "@id": "us:dartmouth-college-v-woodward"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:gibbons-v-ogden"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:johnson-v-mintosh"
+    },
+    {
+     "@id": "us:judicial-review"
+    },
+    {
+     "@id": "us:liberty-bell"
+    },
+    {
+     "@id": "us:marbury-v-madison"
+    },
+    {
+     "@id": "us:marshall-trilogy"
+    },
+    {
+     "@id": "us:mcculloch-v-maryland"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:supreme-court-of-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:domain": "people-who-shaped-america",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/people-who-shaped-america/john-marshall.md",
+   "uso:heldOffice": [
+    {
+     "@id": "us:chief-justice-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-secretary-of-state"
+    }
+   ],
+   "uso:level": "intermediate",
+   "uso:memberOf": [
+    {
+     "@id": "us:american-colonization-society"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:virginia-ratifying-convention"
+    },
+    {
+     "@id": "us:xyz-affair"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/john-marshall/timeline/9"
     }
    ]
   },

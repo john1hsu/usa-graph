@@ -11427,6 +11427,260 @@
   ]
  },
  {
+  "id": "us:john-marshall",
+  "title": "John Marshall",
+  "aliases": [
+   "Chief Justice John Marshall",
+   "Chief Justice Marshall"
+  ],
+  "type": "Person",
+  "domain": "people-who-shaped-america",
+  "level": "intermediate",
+  "evidenceStatus": "interpretive",
+  "file": "articles/people-who-shaped-america/john-marshall.md",
+  "created": "2026-11-17",
+  "summary": "A Virginia lawyer, Revolutionary War officer, congressman and secretary of state (1755–1835) who served as Chief Justice of the United States from 1801 to 1835, the longest tenure in that office, and whose opinions established judicial review and a broad view of national power, while he also enslaved hundreds of people over his lifetime and wrote the foundational decisions of federal Indian law.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:justices-of-the-supreme-court"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marbury-v-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcculloch-v-maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worcester-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:johnson-v-mintosh"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gibbons-v-ogden"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dartmouth-college-v-woodward"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marshall-trilogy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:judicial-review"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:supreme-court-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:andrew-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:liberty-bell"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:chief-justice-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:united-states-secretary-of-state",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:house-of-representatives",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-revolutionary-war",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:xyz-affair",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:virginia-ratifying-convention",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:american-colonization-society",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": "1755-09-24",
+  "end": "1835-07-06",
+  "review": [
+   {
+    "question": "How did Marbury v. Madison let Marshall strengthen the Supreme Court while denying William Marbury his remedy?",
+    "answer": "Marshall held that Marbury had a right to his commission but that the provision of the Judiciary Act of 1789 letting the Court issue the writ exceeded the Constitution; by refusing to apply an unconstitutional act of Congress, the Court established judicial review."
+   },
+   {
+    "question": "Why did Marshall's ruling in Worcester v. Georgia fail to protect the Cherokee Nation from removal?",
+    "answer": "Although the Court held that Georgia's laws had no force in Cherokee territory, Georgia ignored the ruling and President Jackson did not enforce it; a dissident Cherokee faction signed the Treaty of New Echota in 1835 and the U.S. Army forced most Cherokees west in 1838."
+   },
+   {
+    "question": "How does Paul Finkelman connect Marshall's slaveholding to his decisions?",
+    "answer": "He argues that Marshall, who bought hundreds of enslaved people and supported removing free Black people from Virginia, never wrote an opinion supporting Black freedom, and that enslaved plaintiffs lost every freedom case in which he wrote the majority opinion."
+   },
+   {
+    "question": "Why did Marshall's broad view of national power put him at odds with Presidents Jefferson, Madison and Monroe?",
+    "answer": "Marshall favored a strong national government with the federal courts as final interpreters of the Constitution, while those Virginia presidents held more state-centered views, so he faced political headwinds from them for about 24 years."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1755-09-24",
+    "event": "Born near Germantown in Fauquier County, Virginia, one of fourteen children of Thomas and Mary Randolph Marshall."
+   },
+   {
+    "date": "1776",
+    "event": "Enlists as a lieutenant; he rises to captain in the Continental Army by July 1778."
+   },
+   {
+    "date": "1777-12",
+    "event": "Spends the winter at Valley Forge with Washington's army."
+   },
+   {
+    "date": "1780",
+    "event": "Studies law at the College of William & Mary."
+   },
+   {
+    "date": "1782",
+    "event": "Enters the Virginia House of Delegates and the state's Council of State."
+   },
+   {
+    "date": "1783",
+    "event": "Marries Mary \"Polly\" Ambler and settles in Richmond; an enslaved man, Robin Spurlock, is given to the couple as a wedding present."
+   },
+   {
+    "date": "1788-06",
+    "event": "Votes to ratify the U.S. Constitution as a delegate to the Virginia convention."
+   },
+   {
+    "date": "1797",
+    "event": "Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair."
+   },
+   {
+    "date": "1799-12",
+    "event": "Takes his seat in the U.S. House of Representatives for a Virginia district."
+   },
+   {
+    "date": "1800-06-06",
+    "event": "Enters duty as Adams's secretary of state."
+   },
+   {
+    "date": "1801-01-27",
+    "event": "Confirmed by the Senate as Chief Justice of the United States."
+   },
+   {
+    "date": "1801-02-04",
+    "event": "Begins serving as Chief Justice while remaining acting secretary of state until March 4."
+   },
+   {
+    "date": "1803",
+    "event": "Delivers the Court's opinion in Marbury v. Madison, establishing judicial review of acts of Congress."
+   },
+   {
+    "date": "1819",
+    "event": "Writes for the Court in McCulloch v. Maryland and the Dartmouth College case."
+   },
+   {
+    "date": "1823",
+    "event": "Grounds federal land title in the doctrine of discovery in Johnson v. M'Intosh."
+   },
+   {
+    "date": "1824",
+    "event": "Reads Congress's commerce power broadly in Gibbons v. Ogden."
+   },
+   {
+    "date": "1829",
+    "event": "Sits in the Virginia Constitutional Convention of 1829–30."
+   },
+   {
+    "date": "1832",
+    "event": "Holds in Worcester v. Georgia that Georgia's laws have no force in the Cherokee Nation."
+   },
+   {
+    "date": "1835-07-06",
+    "event": "Dies after 34 years as Chief Justice."
+   }
+  ],
+  "misconception": {
+   "myth": "John Marshall held only a handful of enslaved household servants, so slavery was marginal to his life.",
+   "fact": "Marshall bought hundreds of enslaved people over his lifetime; by 1830 he held about 150, and with the people he gave his sons the family's plantations held roughly 250.",
+   "why": "Many biographers repeated a figure of about a dozen servants; Marshall's 1827 will and the 1830 census show far more, and the smaller number hides how deeply slavery shaped his household and fortune."
+  },
+  "source_urls": [
+   "https://civics.supremecourthistory.org/?p=356",
+   "https://history.state.gov/departmenthistory/people/marshall-john",
+   "https://www.supremecourt.gov/publicinfo/speeches/sp_06-04-01.html",
+   "https://www.archives.gov/milestone-documents/marbury-v-madison",
+   "https://lawreview.uchicago.edu/online-archive/master-john-marshall-and-problem-slavery",
+   "https://preservationvirginia.org/?p=6640",
+   "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/",
+   "https://blogs.loc.gov/law/2023/07/doctrine-of-discovery-until-otherwise/",
+   "https://archive.csac.history.wisc.edu/marshall_bio.pdf",
+   "https://www.battlefields.org/learn/biographies/john-marshall"
+  ]
+ },
+ {
   "id": "us:judicial-review",
   "title": "Judicial review",
   "aliases": [
