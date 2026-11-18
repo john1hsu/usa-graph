@@ -44,6 +44,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1616-05 | Dale sails for England; George Yeardley serves as deputy governor. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
 | 1619 | The first documented Africans are forcibly brought to Virginia to work the tobacco fields. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1619 | Virginia brings in its first enslaved African laborers; tobacco comes to dominate the Chesapeake economy. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1619-04-18 | George Yeardley arrives as governor under the company's reformed charter, ending government under the Lawes. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
 | 1619-07-30 | Governor George Yeardley convenes the first representative legislative assembly in English America. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1619-07-30 | The first General Assembly meets at Jamestown and begins making laws for the colony's civilian government. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
@@ -349,8 +350,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1790-08-02 | U.S. marshals and their deputies begin the first federal census, which counts 3,929,214 people. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1790-12-06 | Congress begins a ten-year residence in Philadelphia. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1791 | Kamehameha completes Puʻukoholā Heiau on Hawaiʻi Island during his wars of unification. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1791-02 | President Washington signs the bill chartering Alexander Hamilton's Bank of the United States. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1791-08-03 | The Court issues its first opinion, in West v. Barnes. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1791-12-12 | The First Bank of the United States opens in Philadelphia with a twenty-year charter. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
 | 1791-12-15 | Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1791-12-15 | Ten of the amendments are ratified as the Bill of Rights. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
@@ -360,6 +363,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1792-04-14 | Washington signs a replacement act giving the House 105 seats under Jefferson's method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1793 – 1865 | **[Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md)** (Movement) |
 | 1793 | Congress passes the first federal fugitive slave law, letting enslavers seize freedom seekers even in free states. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
+| 1793 | Eli Whitney develops the cotton gin, speeding the spread of cotton growing by enslaved people. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -441,6 +445,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1810 | Bought by John Dumont of West Park, New York, after being sold three times as a child. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1810 | Kamehameha I unites the islands into one kingdom after Kauaʻi comes under his rule. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1811 | Congress declines to renew the First Bank's charter after a tie in the Senate is broken against it. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1811 | More than eighty enslaved people launch the German Coast uprising upriver from New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | Louisiana is admitted as a state; President James Madison signs the statehood law. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1812 | The state capital moves to Harrisburg, after a stay in Lancaster from 1799. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -733,6 +738,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1859 | Commercial oil production begins near Titusville. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1859-02-24 | President James Buchanan vetoes the bill passed by Congress, citing cost and constitutional limits on federal power. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1859-05 | Buys a house and seven acres near Auburn, New York, from Senator William H. Seward. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1860 | The South produces about two-thirds of the world's cotton, held in bondage by nearly four million enslaved people. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1860 | The census counts 3,953,760 enslaved people, the peak and the last census to count them. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1860 | The first federal census of California counts about 308,000 residents. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -1099,6 +1105,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1898-08-12 | The United States formally annexes Hawaiʻi. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1898-12-19 | Queen Liliuokalani writes to the House objecting to the U.S. claim of ownership over Hawaii. — [United States](../articles/states-and-territories/united-states.md) |
 | 1899-01-19 | Congress passes H.R. 4982, raising her pension to $20 a month in recognition of her service as an army nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1900 | About 41 percent of the American workforce is employed in agriculture. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1900 | Hawaiʻi becomes a U.S. territory with a single non-voting delegate in the House. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1900 | Pennsylvania produces 60 percent of U.S. steel. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1900 | The Gold Standard Act effectively settles the currency debate; the census counts 76,212,168 people. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
@@ -1233,6 +1240,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-09-26 | **[Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md)** (Landmark) |
 | 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-10-10 | The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
+| 1913-12-23 | President Woodrow Wilson signs the Federal Reserve Act, creating a central bank after the Panic of 1907. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1914 | Cecil B. DeMille makes Hollywood his permanent studio home. — [Hollywood](../articles/culture-and-arts/hollywood.md) |
 | 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1914 | Ford begins paying five dollars for an eight-hour day. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
@@ -1366,6 +1374,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1933-03-04 | Franklin D. Roosevelt is inaugurated with nearly 25 percent of the labor force jobless, and soon declares a national bank holiday. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1933-03-04 | Leaves office after losing the 1932 election to Franklin D. Roosevelt. — [Herbert Hoover](../articles/presidents-and-founders/herbert-hoover.md) |
 | 1933-03-04 | Roosevelt's first inaugural address dedicates the nation to the policy of the good neighbor. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1933-03-04 | Unemployment has reached about 25 percent when Franklin D. Roosevelt is inaugurated. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1933-03-09 | Days after Roosevelt declares a bank holiday, he signs the Emergency Banking Act hours after Congress first sees it. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1933-03-12 | Gives his first radio fireside chat, on the banking crisis. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1933-03-12 | Roosevelt's first fireside chat urges Americans to return their savings to reopened banks. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
@@ -1520,6 +1529,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-08 | Governor Kelly's fact-finding committee issues its report, which critics call a whitewash of local authorities. — [1943 Detroit race riot](../articles/depression-and-world-war/detroit-race-riot-of-1943.md) |
 | 1943-11 | The American Legion drafts its own "GI Bill of Rights"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944 | A water treaty with Mexico commits 1.5 million acre-feet a year of the river's flow to Mexico. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 1944 | The G.I. Bill offers veterans low-interest home loans, college stipends and business loans. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1944 | The bill, S. 1767, passes both chambers of Congress unanimously in the spring. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944-01-22 | Creates the War Refugee Board. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1944-06-06 | D-Day: almost 133,000 Allied troops land on five Normandy beaches under General Eisenhower's command. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1800,6 +1810,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971 | After a national tour, the command module Columbia goes to the Smithsonian. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1971 | Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1971 | President Nixon ends foreign central banks' ability to exchange dollars for gold, breaking the dollar's last link to gold. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1971-01-21 | Senate Joint Resolution 7, proposing the amendment, is introduced. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
 | 1971-03-10 | The Senate passes the resolution unanimously. — [Twenty-sixth Amendment](../articles/democracy-and-elections/twenty-sixth-amendment.md) |
@@ -1840,12 +1851,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1979 | The Soviet invasion of Afghanistan ends détente and stalls the SALT II treaty. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1980 | Him Mark Lai, Genny Lim and Judy Yung publish Island, with translations of 135 poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1980-03 | Year-over-year consumer price inflation peaks at close to 15 percent. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1981 | The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1981 | The Omnibus Budget Reconciliation Act consolidates federal grants as part of the new federalism's push to return programs to the states. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1982 | Afrika Bambaataa's "Planet Rock" and Grandmaster Flash and the Furious Five's "The Message" are released. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1982-01-19 | Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 1982-11 | A severe recession that followed the Federal Reserve's anti-inflation policy ends; the Great Inflation era closes. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 1983 | The first Chesapeake Bay Agreement creates the Chesapeake Executive Council. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
@@ -1899,6 +1912,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1999 | Al Qaeda leader Usama Bin Ladin approves the airliner plot conceived by Khalid Sheikh Mohammed (late 1998 or early 1999). — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 1999-12-31 | The United States transfers the canal to Panama. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 2000 | A Save America's Treasures grant funds restoration of the station, including the poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 2000 | About 1.9 percent of employed Americans work in agriculture. — [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) |
 | 2000 | Rice v. Cayetano holds that the amendment protects all persons and that ancestry can serve as a proxy for race. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 2001-01 | The Hart-Rudman Commission proposes a National Homeland Security Agency to consolidate nearly two dozen agencies. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2001-07 | By early July all 19 hijackers, who had begun entering the country in January 2000, are inside the United States. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |

@@ -1086,6 +1086,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## economy-and-work
 
+### [Economic history of the United States](../articles/economy-and-work/economic-history-of-the-united-states.md) — Concept
+
+| Myth | Fact |
+|---|---|
+| The United States only began to industrialize after the Civil War, in the Gilded Age. | Industrialization began much earlier; by the 1830s the Northeast had a thriving industrial and commercial sector, and economic historians date an American industrial revolution to roughly 1790–1870, built on textile mills, steam engines and precision manufacturing. |
+
+**Why it matters:** The dramatic railroads, steel and corporations of the late 1800s overshadow the earlier mills and workshops, which hides how much the antebellum North had already changed, and how closely its factories were tied to slave-grown cotton.
+
+- **Q:** Why did the First Bank of the United States provoke opposition, and what happened to it?
+  **A:** Thomas Jefferson argued it would create a financial monopoly favouring creditors and that the Constitution gave no power to charter corporations; after Hamilton's death and the Federalists' fall from power, Congress let its charter expire in 1811 when the vice president broke a Senate tie against renewal.
+- **Q:** How did slave-grown cotton connect the economies of the South, the North and Britain before the Civil War?
+  **A:** Enslaved people grew most of the world's cotton; most of it was exported to British mills, northern mills depended on it as raw material, and southern planters borrowed from northern city banks, so northern manufacturing and finance were bound to slavery.
+- **Q:** Why did the Panic of 1907 lead to the Federal Reserve?
+  **A:** The United States was the only major financial power without a central bank and had to rely on J. P. Morgan's private rescue, so Congress created a commission to study reform, which led to the Federal Reserve Act of 1913.
+- **Q:** How did federal housing policy after the New Deal shape who shared in postwar prosperity?
+  **A:** Federal mortgage insurance and the G.I. Bill helped push homeownership from 44 percent in 1940 to almost 62 percent in 1960, but programs refused to back loans in redlined neighbourhoods and developments like Levittown sold only to white buyers, limiting Black homeownership.
+
 ### [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) — Event
 
 | Myth | Fact |

@@ -8685,6 +8685,195 @@
   ]
  },
  {
+  "id": "us:economic-history-of-the-united-states",
+  "title": "Economic history of the United States",
+  "aliases": [
+   "American economic history",
+   "U.S. economic history",
+   "History of the American economy"
+  ],
+  "type": "Concept",
+  "domain": "economy-and-work",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/economy-and-work/economic-history-of-the-united-states.md",
+  "created": "2026-11-18",
+  "summary": "The long-run story of how people in what became the United States produced, traded, financed and divided wealth, from a colonial Atlantic economy built on staple crops and enslaved labor through industrialization, financial crises and federal reform to a service-based economy in which only a small share of workers farm.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:industrial-revolution-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:agriculture-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federal-reserve-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcculloch-v-maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gilded-age"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:panic-of-1873"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:stock-market-crash-of-1929"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-depression"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:new-deal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:servicemens-readjustment-act-of-1944"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-recession"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:labor-movement"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:slavery-in-the-united-states",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:influencedBy",
+    "object": "us:alexander-hamilton",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:african-americans",
+    "source": "s11",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the First Bank of the United States provoke opposition, and what happened to it?",
+    "answer": "Thomas Jefferson argued it would create a financial monopoly favouring creditors and that the Constitution gave no power to charter corporations; after Hamilton's death and the Federalists' fall from power, Congress let its charter expire in 1811 when the vice president broke a Senate tie against renewal."
+   },
+   {
+    "question": "How did slave-grown cotton connect the economies of the South, the North and Britain before the Civil War?",
+    "answer": "Enslaved people grew most of the world's cotton; most of it was exported to British mills, northern mills depended on it as raw material, and southern planters borrowed from northern city banks, so northern manufacturing and finance were bound to slavery."
+   },
+   {
+    "question": "Why did the Panic of 1907 lead to the Federal Reserve?",
+    "answer": "The United States was the only major financial power without a central bank and had to rely on J. P. Morgan's private rescue, so Congress created a commission to study reform, which led to the Federal Reserve Act of 1913."
+   },
+   {
+    "question": "How did federal housing policy after the New Deal shape who shared in postwar prosperity?",
+    "answer": "Federal mortgage insurance and the G.I. Bill helped push homeownership from 44 percent in 1940 to almost 62 percent in 1960, but programs refused to back loans in redlined neighbourhoods and developments like Levittown sold only to white buyers, limiting Black homeownership."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1619",
+    "event": "Virginia brings in its first enslaved African laborers; tobacco comes to dominate the Chesapeake economy."
+   },
+   {
+    "date": "1791-02",
+    "event": "President Washington signs the bill chartering Alexander Hamilton's Bank of the United States."
+   },
+   {
+    "date": "1791-12-12",
+    "event": "The First Bank of the United States opens in Philadelphia with a twenty-year charter."
+   },
+   {
+    "date": "1793",
+    "event": "Eli Whitney develops the cotton gin, speeding the spread of cotton growing by enslaved people."
+   },
+   {
+    "date": "1811",
+    "event": "Congress declines to renew the First Bank's charter after a tie in the Senate is broken against it."
+   },
+   {
+    "date": "1860",
+    "event": "The South produces about two-thirds of the world's cotton, held in bondage by nearly four million enslaved people."
+   },
+   {
+    "date": "1900",
+    "event": "About 41 percent of the American workforce is employed in agriculture."
+   },
+   {
+    "date": "1913-12-23",
+    "event": "President Woodrow Wilson signs the Federal Reserve Act, creating a central bank after the Panic of 1907."
+   },
+   {
+    "date": "1933-03-04",
+    "event": "Unemployment has reached about 25 percent when Franklin D. Roosevelt is inaugurated."
+   },
+   {
+    "date": "1944",
+    "event": "The G.I. Bill offers veterans low-interest home loans, college stipends and business loans."
+   },
+   {
+    "date": "1971",
+    "event": "President Nixon ends foreign central banks' ability to exchange dollars for gold, breaking the dollar's last link to gold."
+   },
+   {
+    "date": "1980-03",
+    "event": "Year-over-year consumer price inflation peaks at close to 15 percent."
+   },
+   {
+    "date": "1982-11",
+    "event": "A severe recession that followed the Federal Reserve's anti-inflation policy ends; the Great Inflation era closes."
+   },
+   {
+    "date": "2000",
+    "event": "About 1.9 percent of employed Americans work in agriculture."
+   }
+  ],
+  "misconception": {
+   "myth": "The United States only began to industrialize after the Civil War, in the Gilded Age.",
+   "fact": "Industrialization began much earlier; by the 1830s the Northeast had a thriving industrial and commercial sector, and economic historians date an American industrial revolution to roughly 1790–1870, built on textile mills, steam engines and precision manufacturing.",
+   "why": "The dramatic railroads, steel and corporations of the late 1800s overshadow the earlier mills and workshops, which hides how much the antebellum North had already changed, and how closely its factories were tied to slave-grown cotton."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/textbook/05-colonial-society",
+   "https://www.federalreservehistory.org/essays/first-bank-of-the-us",
+   "https://openstax.org/books/us-history/pages/9-introduction",
+   "https://www.nber.org/papers/w34225",
+   "https://openstax.org/books/us-history/pages/12-1-the-economics-of-cotton",
+   "https://www.aeaweb.org/doi/10.1257/jep.36.2.123",
+   "https://www.pennpress.org/9780812224177/slaverys-capitalism/",
+   "https://www.federalreservehistory.org/essays/federal-reserve-act-signed",
+   "https://primary.ers.usda.gov/webdocs/publications/44197/13566_eib3_1_.pdf",
+   "https://hoover.archives.gov/exhibits/great-depression",
+   "https://www.americanyawp.com/textbook/24-the-affluent-society",
+   "https://www.federalreservehistory.org/essays/great-inflation"
+  ]
+ },
+ {
   "id": "us:electoral-college",
   "title": "Electoral College",
   "aliases": [
