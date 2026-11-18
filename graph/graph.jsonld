@@ -10410,6 +10410,112 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Article I says only that the House \"shall chuse their Speaker and other Officers\"; it sets no membership requirement, although every Speaker so far has been a sitting representative.",
+   "uso:myth": "The Constitution requires the Speaker of the House to be a member of the House.",
+   "uso:why": "Because the House has always picked one of its own, a long custom is easily mistaken for a written constitutional rule."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the framers make House members stand for election every two years?",
+   "uso:answer": "Short terms and direct election \"by the People of the several States\" were meant to keep the House the chamber closest to voters, which is why it is often called the People's House.",
+   "uso:questionFor": {
+    "@id": "us:house-of-representatives"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the House choose a president when no candidate wins an Electoral College majority, and when has this happened?",
+   "uso:answer": "Under the Twelfth Amendment the House picks from the top three candidates, with each state delegation casting one vote; it chose Thomas Jefferson in 1801 on the 36th ballot (under the original rules) and John Quincy Adams on February 9, 1825.",
+   "uso:questionFor": {
+    "@id": "us:house-of-representatives"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the 1910 revolt against Speaker Joseph Cannon a turning point for the House?",
+   "uso:answer": "Cannon controlled the Rules Committee and all committee appointments; the Norris resolution, passed 191 to 156 with progressive Republicans joining Democrats, removed him from the Rules Committee, the House later took back the power to appoint committees, and no later Speaker regained such centralized control.",
+   "uso:questionFor": {
+    "@id": "us:house-of-representatives"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What did Joseph Rainey's and Jeannette Rankin's arrivals show about who could serve in the House?",
+   "uso:answer": "Rainey, born enslaved, took his seat in December 1870 during Reconstruction as the first Black representative, and Rankin was sworn in in April 1917 as the first woman elected to Congress, four years before the Nineteenth Amendment; both widened a body that had excluded Black Americans and women.",
+   "uso:questionFor": {
+    "@id": "us:house-of-representatives"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House reaches its first quorum in New York and elects Frederick Muhlenberg of Pennsylvania as Speaker and John Beckley of Virginia as Clerk.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Thomas Jefferson and Aaron Burr tie in the Electoral College, the House elects Jefferson on its 36th ballot.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1801"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Voting by state delegations, the House chooses John Quincy Adams as president on its first ballot.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1825-02-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Joseph Hayne Rainey of South Carolina, born into slavery, takes his seat as the first Black member of the House.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1870-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House adopts George Norris's resolution, 191 to 156, removing Speaker Joseph Cannon from the Rules Committee.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-03-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jeannette Rankin of Montana is sworn in as the first woman elected to Congress.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1917-04-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Speaker becomes second in the line of presidential succession, after the vice president.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1947"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/huffman-prairie/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The 1903 flights were brief, straight-line hops; the brothers learned to turn, circle, bank and stay up for half an hour only at Huffman Prairie in 1904–1905, with the redesigned Flyer III.",
@@ -27325,6 +27431,104 @@
    "dcterms:title": "The Lost City",
    "schema:url": {
     "@id": "https://home.nps.gov/lake/learn/the-lost-city.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service, Constitution Annotated (via Cornell Legal Information Institute)",
+   "dcterms:title": "Article I, Section 2 (Constitution Annotated)",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/constitution-conan/article-1/section-2"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "American Government 3e, 11.4 House and Senate Organizations",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/11-4-house-and-senate-organizations"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Office of the Clerk, U.S. House of Representatives",
+   "dcterms:title": "History of the Office (1789 to Present)",
+   "schema:url": {
+    "@id": "https://clerk.house.gov/About/ViewHistoryOfOffice"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Constitution Center",
+   "dcterms:title": "What happens when no one wins a presidential election?",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/blog/what-happens-when-no-one-wins-a-presidential-election"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bill of Rights Institute",
+   "dcterms:title": "Speaker Joseph Cannon Dethroned",
+   "schema:url": {
+    "@id": "https://billofrightsinstitute.org/essays/speaker-joseph-cannon-dethroned/"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "South Carolina Encyclopedia, University of South Carolina",
+   "dcterms:title": "Rainey, Joseph Hayne",
+   "schema:url": {
+    "@id": "https://www.scencyclopedia.org/sce/entries/rainey-joseph-hayne/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives",
+   "dcterms:title": "National Archives Special Display Commemorates the 100th Anniversary of the First Congresswoman Jeannette Rankin",
+   "schema:url": {
+    "@id": "https://www.archives.gov/press/press-releases/2017/nr17-26"
    },
    "uso:sourceType": "government"
   },
@@ -52861,6 +53065,141 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/hoover-dam/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:house-of-representatives",
+   "@type": "uso:Institution",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/house-of-representatives/s7"
+    }
+   ],
+   "rdfs:label": "United States House of Representatives",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1789-04-01"
+   },
+   "skos:altLabel": [
+    "House of Representatives",
+    "People's House",
+    "U.S. House of Representatives",
+    "U.S. House"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states-congress"
+   },
+   "skos:definition": "The larger chamber of the U.S. Congress, created by Article I of the Constitution, whose 435 voting members are elected from the states every two years; it chooses its own Speaker, holds the sole power of impeachment and elects the president when no candidate wins an Electoral College majority.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "United States House of Representatives",
+   "skos:related": [
+    {
+     "@id": "us:census-and-apportionment"
+    },
+    {
+     "@id": "us:electoral-college"
+    },
+    {
+     "@id": "us:george-w-norris"
+    },
+    {
+     "@id": "us:jeannette-rankin"
+    },
+    {
+     "@id": "us:joseph-gurney-cannon"
+    },
+    {
+     "@id": "us:joseph-rainey"
+    },
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:speaker-of-the-house"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:twelfth-amendment"
+    },
+    {
+     "@id": "us:united-states-senate"
+    }
+   ],
+   "uso:domain": "constitution-and-government",
+   "uso:establishedBy": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:evidenceStatus": "legal-text",
+   "uso:file": "articles/constitution-and-government/house-of-representatives.md",
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/misconception"
+   },
+   "uso:partOf": {
+    "@id": "us:united-states-congress"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:election-of-1800"
+    },
+    {
+     "@id": "us:election-of-1824"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/house-of-representatives/timeline/7"
     }
    ]
   },

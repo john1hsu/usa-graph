@@ -26,7 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
-| `us:united-states-constitution` | 10 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
+| `us:united-states-constitution` | 11 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, United States House of Representatives, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
@@ -53,7 +53,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:american-revolutionary-war` | 3 | African Americans, Haudenosaunee, Treaty of Paris (1783) |
 | `us:articles-of-confederation` | 3 | Constitutional Convention, Haudenosaunee, tenth-amendment |
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
-| `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
+| `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 
@@ -216,5 +216,5 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:electoral-college` |
 | `us:united-states-constitution` | `us:federalism` |
 
-…and 6 more.
+…and 7 more.
 

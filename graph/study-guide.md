@@ -511,6 +511,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did Charles Beard's interpretation of the Constitution differ from that of later ideological historians?
   **A:** Beard argued in 1913 that the framers and ratifiers acted mainly to protect their economic interests, while historians such as Bernard Bailyn and Gordon Wood argued that political ideas, especially republicanism, better explain the framing; later scholarship has largely undermined Beard's account.
 
+### [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) — Institution
+
+| Myth | Fact |
+|---|---|
+| The Constitution requires the Speaker of the House to be a member of the House. | Article I says only that the House "shall chuse their Speaker and other Officers"; it sets no membership requirement, although every Speaker so far has been a sitting representative. |
+
+**Why it matters:** Because the House has always picked one of its own, a long custom is easily mistaken for a written constitutional rule.
+
+- **Q:** Why did the framers make House members stand for election every two years?
+  **A:** Short terms and direct election "by the People of the several States" were meant to keep the House the chamber closest to voters, which is why it is often called the People's House.
+- **Q:** How does the House choose a president when no candidate wins an Electoral College majority, and when has this happened?
+  **A:** Under the Twelfth Amendment the House picks from the top three candidates, with each state delegation casting one vote; it chose Thomas Jefferson in 1801 on the 36th ballot (under the original rules) and John Quincy Adams on February 9, 1825.
+- **Q:** Why was the 1910 revolt against Speaker Joseph Cannon a turning point for the House?
+  **A:** Cannon controlled the Rules Committee and all committee appointments; the Norris resolution, passed 191 to 156 with progressive Republicans joining Democrats, removed him from the Rules Committee, the House later took back the power to appoint committees, and no later Speaker regained such centralized control.
+- **Q:** What did Joseph Rainey's and Jeannette Rankin's arrivals show about who could serve in the House?
+  **A:** Rainey, born enslaved, took his seat in December 1870 during Reconstruction as the first Black representative, and Rankin was sworn in in April 1917 as the first woman elected to Congress, four years before the Nineteenth Amendment; both widened a body that had excluded Black Americans and women.
+
 ## contemporary-america
 
 ### [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) — Law

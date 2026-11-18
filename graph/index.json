@@ -12878,6 +12878,169 @@
   ]
  },
  {
+  "id": "us:house-of-representatives",
+  "title": "United States House of Representatives",
+  "aliases": [
+   "House of Representatives",
+   "U.S. House of Representatives",
+   "U.S. House",
+   "People's House"
+  ],
+  "type": "Institution",
+  "domain": "constitution-and-government",
+  "level": "introductory",
+  "evidenceStatus": "legal-text",
+  "file": "articles/constitution-and-government/house-of-representatives.md",
+  "created": "2026-11-18",
+  "summary": "The larger chamber of the U.S. Congress, created by Article I of the Constitution, whose 435 voting members are elected from the states every two years; it chooses its own Speaker, holds the sole power of impeachment and elects the president when no candidate wins an Electoral College majority.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states-congress"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-senate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:speaker-of-the-house"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:census-and-apportionment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:electoral-college"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:twelfth-amendment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:joseph-rainey"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jeannette-rankin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-w-norris"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:joseph-gurney-cannon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:presidency-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:united-states-constitution"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:united-states-constitution",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:united-states-congress",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:election-of-1800",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:election-of-1824",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "start": "1789-04-01",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the framers make House members stand for election every two years?",
+    "answer": "Short terms and direct election \"by the People of the several States\" were meant to keep the House the chamber closest to voters, which is why it is often called the People's House."
+   },
+   {
+    "question": "How does the House choose a president when no candidate wins an Electoral College majority, and when has this happened?",
+    "answer": "Under the Twelfth Amendment the House picks from the top three candidates, with each state delegation casting one vote; it chose Thomas Jefferson in 1801 on the 36th ballot (under the original rules) and John Quincy Adams on February 9, 1825."
+   },
+   {
+    "question": "Why was the 1910 revolt against Speaker Joseph Cannon a turning point for the House?",
+    "answer": "Cannon controlled the Rules Committee and all committee appointments; the Norris resolution, passed 191 to 156 with progressive Republicans joining Democrats, removed him from the Rules Committee, the House later took back the power to appoint committees, and no later Speaker regained such centralized control."
+   },
+   {
+    "question": "What did Joseph Rainey's and Jeannette Rankin's arrivals show about who could serve in the House?",
+    "answer": "Rainey, born enslaved, took his seat in December 1870 during Reconstruction as the first Black representative, and Rankin was sworn in in April 1917 as the first woman elected to Congress, four years before the Nineteenth Amendment; both widened a body that had excluded Black Americans and women."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1789-04-01",
+    "event": "The House reaches its first quorum in New York and elects Frederick Muhlenberg of Pennsylvania as Speaker and John Beckley of Virginia as Clerk."
+   },
+   {
+    "date": "1801",
+    "event": "After Thomas Jefferson and Aaron Burr tie in the Electoral College, the House elects Jefferson on its 36th ballot."
+   },
+   {
+    "date": "1825-02-09",
+    "event": "Voting by state delegations, the House chooses John Quincy Adams as president on its first ballot."
+   },
+   {
+    "date": "1870-12",
+    "event": "Joseph Hayne Rainey of South Carolina, born into slavery, takes his seat as the first Black member of the House."
+   },
+   {
+    "date": "1910-03-19",
+    "event": "The House adopts George Norris's resolution, 191 to 156, removing Speaker Joseph Cannon from the Rules Committee."
+   },
+   {
+    "date": "1917-04-02",
+    "event": "Jeannette Rankin of Montana is sworn in as the first woman elected to Congress."
+   },
+   {
+    "date": "1947",
+    "event": "The Speaker becomes second in the line of presidential succession, after the vice president."
+   }
+  ],
+  "misconception": {
+   "myth": "The Constitution requires the Speaker of the House to be a member of the House.",
+   "fact": "Article I says only that the House \"shall chuse their Speaker and other Officers\"; it sets no membership requirement, although every Speaker so far has been a sitting representative.",
+   "why": "Because the House has always picked one of its own, a long custom is easily mistaken for a written constitutional rule."
+  },
+  "source_urls": [
+   "https://www.law.cornell.edu/constitution-conan/article-1/section-2",
+   "https://openstax.org/books/american-government-3e/pages/11-4-house-and-senate-organizations",
+   "https://clerk.house.gov/About/ViewHistoryOfOffice",
+   "https://constitutioncenter.org/blog/what-happens-when-no-one-wins-a-presidential-election",
+   "https://billofrightsinstitute.org/essays/speaker-joseph-cannon-dethroned/",
+   "https://www.scencyclopedia.org/sce/entries/rainey-joseph-hayne/",
+   "https://www.archives.gov/press/press-releases/2017/nr17-26"
+  ]
+ },
+ {
   "id": "us:huffman-prairie",
   "title": "Huffman Prairie Flying Field",
   "aliases": [

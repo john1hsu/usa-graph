@@ -323,7 +323,9 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-03-04 | **[United States Congress](../articles/constitution-and-government/united-states-congress.md)** (Institution) |
 | 1789-03-04 | The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-03-04 | The date the framers set for the new Congress to convene. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1789-04-01 | **[United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md)** (Institution) |
 | 1789-04-01 | The House of Representatives achieves the first quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1789-04-01 | The House reaches its first quorum in New York and elects Frederick Muhlenberg of Pennsylvania as Speaker and John Beckley of Virginia as Clerk. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1789-04-06 | The Senate achieves its first quorum and the electoral votes for president are counted. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-04-06 | The Senate achieves its first quorum. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1789-04-30 | **[Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md)** (Office) |
@@ -386,6 +388,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1800-06-06 | Enters duty as Adams's secretary of state. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1800-11 | Democratic-Republicans defeat the Federalists in the presidential and congressional elections; the lame-duck Federalists keep control until March 1801. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1800-11-17 | The Senate moves into the unfinished Capitol in Washington, D.C. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
+| 1801 | After Thomas Jefferson and Aaron Burr tie in the Electoral College, the House elects Jefferson on its 36th ballot. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1801-01-01 | The 123 people Washington enslaved become free under his will, after Martha Washington signs a deed of manumission. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1801-01-27 | Confirmed by the Senate as Chief Justice of the United States. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1801-02-04 | Begins serving as Chief Justice while remaining acting secretary of state until March 4. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
@@ -519,6 +522,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1824 | Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1824 | Reads Congress's commerce power broadly in Gibbons v. Ogden. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
+| 1825-02-09 | Voting by state delegations, the House chooses John Quincy Adams as president on its first ballot. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1825-02-09 | With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1826 | Sent to Baltimore to live with Hugh and Sophia Auld, where he begins learning to read. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -887,6 +891,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1870-05-19 | A Baltimore parade celebrates the Fifteenth Amendment, which bars racial discrimination in voting; the same year Congress passes the first Enforcement Act against intimidation at the polls. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1870-05-19 | Black Baltimoreans hold a parade celebrating ratification. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1870-09-06 | Louisa Swain of Laramie casts the first ballot by a woman under the new law. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 1870-12 | Joseph Hayne Rainey of South Carolina, born into slavery, takes his seat as the first Black member of the House. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1871 | Congress ends treaty-making with Indian tribes. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1871 | Congress forbids further treaty-making with tribes; more than 370 ratified treaties remain law. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1871 | Ferdinand Hayden's government survey, with painter Thomas Moran and photographer William Henry Jackson, documents the region. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
@@ -1174,6 +1179,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910-01-21 | The U.S. Immigration Station on Angel Island opens; poems begin to appear on the barracks walls within about ten months. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1910-02-16 | Wilbur Wright picks Frank Kohn's plantation near Montgomery, Alabama, for spring flight training. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-03 – 1916 | **[Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md)** (Organization) |
+| 1910-03-19 | The House adopts George Norris's resolution, 191 to 156, removing Speaker Joseph Cannon from the Rules Committee. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1910-03-26 | Orville makes Montgomery's first powered flight; training of the first students follows. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
 | 1910-05 | The Wright School of Aviation moves its training to Huffman Field. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1910-05 | The school moves its permanent operations to Huffman Field (Simms Station) east of Dayton. — [Wright Company School of Aviation](../articles/science-and-innovation/wright-company-school-of-aviation.md) |
@@ -1234,6 +1240,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1917 | The Senate adopts its first cloture rule to limit filibusters. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1917-01 | The National Woman's Party's Silent Sentinels begin picketing the White House. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1917-02 | The Original Dixieland Jazz Band makes the first commercial jazz recordings in New York City. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1917-04-02 | Jeannette Rankin of Montana is sworn in as the first woman elected to Congress. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1917-11 | New Orleans closes its Storyville red-light district. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1917-11 | New York adopts woman suffrage. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1918 | Congress passes a minimum wage law for women and minors in the District of Columbia. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1504,6 +1511,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 – 1957 | **[McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md)** (Era) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
+| 1947 | The Speaker becomes second in the line of presidential succession, after the vice president. — [United States House of Representatives](../articles/constitution-and-government/house-of-representatives.md) |
 | 1947 | Veterans make up 49 percent of students at American colleges. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1947-03 | President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1947-03-12 | President Truman asks Congress for $400 million in aid to Greece and Turkey, announcing the Truman Doctrine. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
