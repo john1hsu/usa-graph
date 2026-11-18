@@ -8526,6 +8526,109 @@
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/endDate> "1803-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://schema.org/startDate> "1803-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The arrays are far too small to be seen from Earth; scientists find them only by the laser light they send back, and spacecraft cameras in lunar orbit are what have pinpointed their positions to within a metre." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Telescopes on Earth can see the reflectors and other equipment the Apollo astronauts left on the Moon." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because observatories aim lasers at the reflectors every night, it is easy to assume astronomers can simply look at them." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does bouncing a laser off a mirror on the Moon measure the Earth–Moon distance?" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Corner-cube prisms send light straight back toward its source, so scientists time how long a laser pulse takes to make the roughly 2.5-second round trip and convert that time into distance." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Apollo 11 experiment become far more precise over the following decades, even though the reflector never changed?" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The reflector needs no power, so better lasers, timing electronics and larger telescopes on Earth could keep improving the measurement — from an uncertainty of about 5 metres in August 1969 to about 2 centimetres by 1999 and about a millimetre with APOLLO." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What has lunar laser ranging revealed about the Moon and about gravity?" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "It shows the Moon receding about 3.8 cm a year because of tides, indicates the Moon has a fluid core, measures how tides flex the Moon, and finds that the Sun pulls on Earth and Moon alike despite their different makeup, a test of Einstein's theory of gravity." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why was the experiment also a Cold War race?" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Soviet scientists were also firing lasers at the Moon, and the U.S. sponsors urged American teams to get the first returns before the Soviets did." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The APOLLO project at Apache Point Observatory, New Mexico, begins ranging with millimetre-level precision." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "2005-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "IEEE dedicates a milestone plaque at Lick Observatory for the 1969 experiment." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "2019-08-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Discussions in Princeton's experimental gravitation research group plant the idea of ranging to a reflector on the Moon." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1960"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Apollo 11 astronauts set the reflector array on the lunar surface about 20 feet from the lunar module." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Lick Observatory's 120-inch telescope detects the first laser returns from the array." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-08-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "A faster-firing laser at Lick records 98 range measurements in one night." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "McDonald Observatory in Texas makes its first acquisition measurements of the array." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1969-08-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1970"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A second Soviet reflector reaches the Moon aboard Lunokhod 2." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1973"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2000/01/rdf-schema#label> "Lunar Laser Ranging Experiment" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#altLabel> "Apollo 11 laser ranging retroreflector" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#altLabel> "Apollo lunar retroreflectors" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#altLabel> "LURE" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#altLabel> "Lunar laser ranging" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/apollo-program> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#definition> "The scientific experiment begun when Apollo 11's astronauts set a panel of 100 glass corner-cube reflectors on the Moon in July 1969; observatories on Earth have timed laser pulses bounced off it and later reflectors ever since, measuring the Earth–Moon distance from metres in 1969 to about a millimetre today." .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lunar Laser Ranging Experiment" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/buzz-aldrin> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hal-walker> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nasa> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/smithsonian-institution> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/soviet-union> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/space-race> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#domain> "science-and-innovation" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/science-and-innovation/lunar-laser-ranging-experiment.md" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/next-generation-lunar-retroreflector> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/california> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/texas> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/apollo-program> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> <https://schema.org/startDate> "1969-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century." .
 <https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Marbury v. Madison was celebrated from the start and was constantly cited throughout the 1800s as the foundation of judicial review." .
@@ -16611,6 +16714,54 @@
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
 <https://github.com/john1hsu/usa-graph/id/source/louisiana-purchase/s7> <https://schema.org/url> <https://daily.jstor.org/the-actual-louisiana-purchase-price> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <http://purl.org/dc/terms/publisher> "Science 166 (3901): 99–102, 3 October 1969 (Faller, Winer, Carrion, Johnson, Spadin, Robinson, Wampler and Wieber), via IEEE Milestones" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <http://purl.org/dc/terms/title> "Laser Beam Directed at the Lunar Retro-Reflector Array: Observations of the First Returns" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1> <https://schema.org/url> <https://ieeemilestones.ethw.org/w/images/f/fc/Ref7-Science-Magazine-1969.pdf> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <http://purl.org/dc/terms/publisher> "IEEE History Center, Engineering and Technology History Wiki" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <http://purl.org/dc/terms/title> "Milestones: Apollo 11 Lunar Laser Ranging Experiment (LURE), 1969" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2> <https://schema.org/url> <https://ethw.org/Milestones:Apollo_11_Lunar_Laser_Ranging_Experiment_(LURE),_1969> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <http://purl.org/dc/terms/publisher> "NASA Jet Propulsion Laboratory (1999)" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <http://purl.org/dc/terms/title> "Apollo 11 Experiment Continues to Return Valuable Data" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3> <https://schema.org/url> <https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <http://purl.org/dc/terms/publisher> "NASA Jet Propulsion Laboratory (2019)" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <http://purl.org/dc/terms/title> "The Apollo Experiment That Keeps on Giving" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4> <https://schema.org/url> <https://www.jpl.nasa.gov/news/the-apollo-experiment-that-keeps-on-giving/> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <http://purl.org/dc/terms/publisher> "Apache Point Observatory, New Mexico State University" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <http://purl.org/dc/terms/title> "APOLLO: Apache Point Observatory Lunar Laser-ranging Operation" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5> <https://schema.org/url> <https://newapo.apo.nmsu.edu/mainpage/apollo/apolloguide/> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <http://purl.org/dc/terms/publisher> "Lemelson-MIT Program, Massachusetts Institute of Technology" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <http://purl.org/dc/terms/title> "Hildreth Walker" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6> <https://schema.org/url> <https://lemelson.mit.edu/resources/hildreth-walker> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <http://purl.org/dc/terms/publisher> "NASA Goddard Space Flight Center (from LPI Bulletin No. 72, 1994)" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <http://purl.org/dc/terms/title> "Measuring the Moon's Distance" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7> <https://schema.org/url> <https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <http://purl.org/dc/terms/publisher> "University of California, Santa Cruz (2019)" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <http://purl.org/dc/terms/title> "Lick Observatory commemorates Apollo 11 experiment on 50th anniversary" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8> <https://schema.org/url> <https://news.ucsc.edu/2019/07/lunar-laser-ranging/> .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court opinion (via Legal Information Institute, Cornell Law School)" .
 <https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1> <http://purl.org/dc/terms/title> "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), opinion of the Court" .

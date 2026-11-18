@@ -1949,6 +1949,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the Wrights stop flying after October 1905, just as they had succeeded?
   **A:** They feared that public demonstrations would let others copy their design before their patent was secure and before they had a buyer, so they took the Flyer apart and did not fly again for nearly three years.
 
+### [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Telescopes on Earth can see the reflectors and other equipment the Apollo astronauts left on the Moon. | The arrays are far too small to be seen from Earth; scientists find them only by the laser light they send back, and spacecraft cameras in lunar orbit are what have pinpointed their positions to within a metre. |
+
+**Why it matters:** Because observatories aim lasers at the reflectors every night, it is easy to assume astronomers can simply look at them.
+
+- **Q:** How does bouncing a laser off a mirror on the Moon measure the Earth–Moon distance?
+  **A:** Corner-cube prisms send light straight back toward its source, so scientists time how long a laser pulse takes to make the roughly 2.5-second round trip and convert that time into distance.
+- **Q:** Why did the Apollo 11 experiment become far more precise over the following decades, even though the reflector never changed?
+  **A:** The reflector needs no power, so better lasers, timing electronics and larger telescopes on Earth could keep improving the measurement — from an uncertainty of about 5 metres in August 1969 to about 2 centimetres by 1999 and about a millimetre with APOLLO.
+- **Q:** What has lunar laser ranging revealed about the Moon and about gravity?
+  **A:** It shows the Moon receding about 3.8 cm a year because of tides, indicates the Moon has a fluid core, measures how tides flex the Moon, and finds that the Sun pulls on Earth and Moon alike despite their different makeup, a test of Einstein's theory of gravity.
+- **Q:** Why was the experiment also a Cold War race?
+  **A:** Soviet scientists were also firing lasers at the Moon, and the U.S. sponsors urged American teams to get the first returns before the Soviets did.
+
 ### [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) — Law
 
 | Myth | Fact |

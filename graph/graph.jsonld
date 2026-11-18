@@ -11663,6 +11663,148 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The arrays are far too small to be seen from Earth; scientists find them only by the laser light they send back, and spacecraft cameras in lunar orbit are what have pinpointed their positions to within a metre.",
+   "uso:myth": "Telescopes on Earth can see the reflectors and other equipment the Apollo astronauts left on the Moon.",
+   "uso:why": "Because observatories aim lasers at the reflectors every night, it is easy to assume astronomers can simply look at them."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does bouncing a laser off a mirror on the Moon measure the Earth–Moon distance?",
+   "uso:answer": "Corner-cube prisms send light straight back toward its source, so scientists time how long a laser pulse takes to make the roughly 2.5-second round trip and convert that time into distance.",
+   "uso:questionFor": {
+    "@id": "us:lunar-laser-ranging-experiment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Apollo 11 experiment become far more precise over the following decades, even though the reflector never changed?",
+   "uso:answer": "The reflector needs no power, so better lasers, timing electronics and larger telescopes on Earth could keep improving the measurement — from an uncertainty of about 5 metres in August 1969 to about 2 centimetres by 1999 and about a millimetre with APOLLO.",
+   "uso:questionFor": {
+    "@id": "us:lunar-laser-ranging-experiment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What has lunar laser ranging revealed about the Moon and about gravity?",
+   "uso:answer": "It shows the Moon receding about 3.8 cm a year because of tides, indicates the Moon has a fluid core, measures how tides flex the Moon, and finds that the Sun pulls on Earth and Moon alike despite their different makeup, a test of Einstein's theory of gravity.",
+   "uso:questionFor": {
+    "@id": "us:lunar-laser-ranging-experiment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was the experiment also a Cold War race?",
+   "uso:answer": "Soviet scientists were also firing lasers at the Moon, and the U.S. sponsors urged American teams to get the first returns before the Soviets did.",
+   "uso:questionFor": {
+    "@id": "us:lunar-laser-ranging-experiment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Discussions in Princeton's experimental gravitation research group plant the idea of ranging to a reflector on the Moon.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1960"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The APOLLO project at Apache Point Observatory, New Mexico, begins ranging with millimetre-level precision.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "2005-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "IEEE dedicates a milestone plaque at Lick Observatory for the 1969 experiment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2019-08-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1969-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Apollo 11 astronauts set the reflector array on the lunar surface about 20 feet from the lunar module.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-07-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lick Observatory's 120-inch telescope detects the first laser returns from the array.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-08-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A faster-firing laser at Lick records 98 range measurements in one night.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-08-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McDonald Observatory in Texas makes its first acquisition measurements of the array.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1969-08-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1970"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1971"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A second Soviet reflector reaches the Moon aboard Lunokhod 2.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1973"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/marbury-v-madison/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Courts did cite the case in the nineteenth century, but mostly on jurisdiction, mandamus and executive appointments; a 2012 study found that only about 8% of the Supreme Court's nineteenth-century citations invoked it for judicial review, and the case was recast as the fountainhead of that power only around the turn of the twentieth century.",
@@ -26796,6 +26938,118 @@
     "@id": "https://daily.jstor.org/the-actual-louisiana-purchase-price"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Science 166 (3901): 99–102, 3 October 1969 (Faller, Winer, Carrion, Johnson, Spadin, Robinson, Wampler and Wieber), via IEEE Milestones",
+   "dcterms:title": "Laser Beam Directed at the Lunar Retro-Reflector Array: Observations of the First Returns",
+   "schema:url": {
+    "@id": "https://ieeemilestones.ethw.org/w/images/f/fc/Ref7-Science-Magazine-1969.pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "IEEE History Center, Engineering and Technology History Wiki",
+   "dcterms:title": "Milestones: Apollo 11 Lunar Laser Ranging Experiment (LURE), 1969",
+   "schema:url": {
+    "@id": "https://ethw.org/Milestones:Apollo_11_Lunar_Laser_Ranging_Experiment_(LURE),_1969"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA Jet Propulsion Laboratory (1999)",
+   "dcterms:title": "Apollo 11 Experiment Continues to Return Valuable Data",
+   "schema:url": {
+    "@id": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA Jet Propulsion Laboratory (2019)",
+   "dcterms:title": "The Apollo Experiment That Keeps on Giving",
+   "schema:url": {
+    "@id": "https://www.jpl.nasa.gov/news/the-apollo-experiment-that-keeps-on-giving/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Apache Point Observatory, New Mexico State University",
+   "dcterms:title": "APOLLO: Apache Point Observatory Lunar Laser-ranging Operation",
+   "schema:url": {
+    "@id": "https://newapo.apo.nmsu.edu/mainpage/apollo/apolloguide/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lemelson-MIT Program, Massachusetts Institute of Technology",
+   "dcterms:title": "Hildreth Walker",
+   "schema:url": {
+    "@id": "https://lemelson.mit.edu/resources/hildreth-walker"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "NASA Goddard Space Flight Center (from LPI Bulletin No. 72, 1994)",
+   "dcterms:title": "Measuring the Moon's Distance",
+   "schema:url": {
+    "@id": "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of California, Santa Cruz (2019)",
+   "dcterms:title": "Lick Observatory commemorates Apollo 11 experiment on 50th anniversary",
+   "schema:url": {
+    "@id": "https://news.ucsc.edu/2019/07/lunar-laser-ranging/"
+   },
+   "uso:sourceType": "academic"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/marbury-v-madison/s1",
@@ -51784,6 +52038,147 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/louisiana-purchase/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:lunar-laser-ranging-experiment",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/lunar-laser-ranging-experiment/s8"
+    }
+   ],
+   "rdfs:label": "Lunar Laser Ranging Experiment",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1969-07-21"
+   },
+   "skos:altLabel": [
+    "Apollo 11 laser ranging retroreflector",
+    "Apollo lunar retroreflectors",
+    "LURE",
+    "Lunar laser ranging"
+   ],
+   "skos:broader": {
+    "@id": "us:apollo-program"
+   },
+   "skos:definition": "The scientific experiment begun when Apollo 11's astronauts set a panel of 100 glass corner-cube reflectors on the Moon in July 1969; observatories on Earth have timed laser pulses bounced off it and later reflectors ever since, measuring the Earth–Moon distance from metres in 1969 to about a millimetre today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/science-and-innovation"
+   },
+   "skos:prefLabel": "Lunar Laser Ranging Experiment",
+   "skos:related": [
+    {
+     "@id": "us:apollo-11"
+    },
+    {
+     "@id": "us:buzz-aldrin"
+    },
+    {
+     "@id": "us:hal-walker"
+    },
+    {
+     "@id": "us:nasa"
+    },
+    {
+     "@id": "us:smithsonian-institution"
+    },
+    {
+     "@id": "us:soviet-union"
+    },
+    {
+     "@id": "us:space-race"
+    }
+   ],
+   "uso:domain": "science-and-innovation",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/science-and-innovation/lunar-laser-ranging-experiment.md",
+   "uso:ledTo": {
+    "@id": "us:next-generation-lunar-retroreflector"
+   },
+   "uso:level": "intermediate",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:cold-war"
+   },
+   "uso:occurredIn": [
+    {
+     "@id": "us:california"
+    },
+    {
+     "@id": "us:texas"
+    }
+   ],
+   "uso:partOf": {
+    "@id": "us:apollo-program"
+   },
+   "uso:requires": {
+    "@id": "us:apollo-11"
+   },
+   "uso:resultedFrom": {
+    "@id": "us:apollo-11"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment/timeline/9"
     }
    ]
   },

@@ -14341,6 +14341,178 @@
   ]
  },
  {
+  "id": "us:lunar-laser-ranging-experiment",
+  "title": "Lunar Laser Ranging Experiment",
+  "aliases": [
+   "Lunar laser ranging",
+   "LURE",
+   "Apollo 11 laser ranging retroreflector",
+   "Apollo lunar retroreflectors"
+  ],
+  "type": "Event",
+  "domain": "science-and-innovation",
+  "level": "intermediate",
+  "evidenceStatus": "established",
+  "file": "articles/science-and-innovation/lunar-laser-ranging-experiment.md",
+  "created": "2026-11-18",
+  "summary": "The scientific experiment begun when Apollo 11's astronauts set a panel of 100 glass corner-cube reflectors on the Moon in July 1969; observatories on Earth have timed laser pulses bounced off it and later reflectors ever since, measuring the Earth–Moon distance from metres in 1969 to about a millimetre today.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:apollo-program"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:apollo-11"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nasa"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:buzz-aldrin"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hal-walker"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:soviet-union"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:space-race"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:smithsonian-institution"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:apollo-11"
+   },
+   {
+    "predicate": "uso:resultedFrom",
+    "object": "us:apollo-11",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:apollo-program",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:california",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:texas",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:cold-war",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:next-generation-lunar-retroreflector",
+    "source": "s4",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1969-07-21",
+  "end": null,
+  "review": [
+   {
+    "question": "How does bouncing a laser off a mirror on the Moon measure the Earth–Moon distance?",
+    "answer": "Corner-cube prisms send light straight back toward its source, so scientists time how long a laser pulse takes to make the roughly 2.5-second round trip and convert that time into distance."
+   },
+   {
+    "question": "Why did the Apollo 11 experiment become far more precise over the following decades, even though the reflector never changed?",
+    "answer": "The reflector needs no power, so better lasers, timing electronics and larger telescopes on Earth could keep improving the measurement — from an uncertainty of about 5 metres in August 1969 to about 2 centimetres by 1999 and about a millimetre with APOLLO."
+   },
+   {
+    "question": "What has lunar laser ranging revealed about the Moon and about gravity?",
+    "answer": "It shows the Moon receding about 3.8 cm a year because of tides, indicates the Moon has a fluid core, measures how tides flex the Moon, and finds that the Sun pulls on Earth and Moon alike despite their different makeup, a test of Einstein's theory of gravity."
+   },
+   {
+    "question": "Why was the experiment also a Cold War race?",
+    "answer": "Soviet scientists were also firing lasers at the Moon, and the U.S. sponsors urged American teams to get the first returns before the Soviets did."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1960",
+    "event": "Discussions in Princeton's experimental gravitation research group plant the idea of ranging to a reflector on the Moon."
+   },
+   {
+    "date": "1969-02",
+    "event": "NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser."
+   },
+   {
+    "date": "1969-07-21",
+    "event": "Apollo 11 astronauts set the reflector array on the lunar surface about 20 feet from the lunar module."
+   },
+   {
+    "date": "1969-08-01",
+    "event": "Lick Observatory's 120-inch telescope detects the first laser returns from the array."
+   },
+   {
+    "date": "1969-08-03",
+    "event": "A faster-firing laser at Lick records 98 range measurements in one night."
+   },
+   {
+    "date": "1969-08-20",
+    "event": "McDonald Observatory in Texas makes its first acquisition measurements of the array."
+   },
+   {
+    "date": "1970",
+    "event": "The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array."
+   },
+   {
+    "date": "1971",
+    "event": "Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms."
+   },
+   {
+    "date": "1973",
+    "event": "A second Soviet reflector reaches the Moon aboard Lunokhod 2."
+   },
+   {
+    "date": "2005-07",
+    "event": "The APOLLO project at Apache Point Observatory, New Mexico, begins ranging with millimetre-level precision."
+   },
+   {
+    "date": "2019-08-01",
+    "event": "IEEE dedicates a milestone plaque at Lick Observatory for the 1969 experiment."
+   }
+  ],
+  "misconception": {
+   "myth": "Telescopes on Earth can see the reflectors and other equipment the Apollo astronauts left on the Moon.",
+   "fact": "The arrays are far too small to be seen from Earth; scientists find them only by the laser light they send back, and spacecraft cameras in lunar orbit are what have pinpointed their positions to within a metre.",
+   "why": "Because observatories aim lasers at the reflectors every night, it is easy to assume astronomers can simply look at them."
+  },
+  "source_urls": [
+   "https://ieeemilestones.ethw.org/w/images/f/fc/Ref7-Science-Magazine-1969.pdf",
+   "https://ethw.org/Milestones:Apollo_11_Lunar_Laser_Ranging_Experiment_(LURE),_1969",
+   "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/",
+   "https://www.jpl.nasa.gov/news/the-apollo-experiment-that-keeps-on-giving/",
+   "https://newapo.apo.nmsu.edu/mainpage/apollo/apolloguide/",
+   "https://lemelson.mit.edu/resources/hildreth-walker",
+   "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html",
+   "https://news.ucsc.edu/2019/07/lunar-laser-ranging/"
+  ]
+ },
+ {
   "id": "us:marbury-v-madison",
   "title": "Marbury v. Madison",
   "aliases": [

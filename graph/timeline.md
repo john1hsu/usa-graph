@@ -1565,6 +1565,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1959-08-21 | **[Hawaii](../articles/states-and-territories/hawaii.md)** (State) |
 | 1959-08-21 | Eisenhower proclaims Hawaii the fiftieth state, after island voters accept statehood in a June referendum. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-08-21 | Hawaii becomes the fiftieth state. — [United States](../articles/states-and-territories/united-states.md) |
+| 1960 | Discussions in Princeton's experimental gravitation research group plant the idea of ranging to a reflector on the Moon. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1960-02-01 | Four North Carolina A&T students sit in at a segregated Woolworth's lunch counter in Greensboro; sit-ins spread across the South. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | Students found the Student Nonviolent Coordinating Committee at a conference at Shaw University organized by Ella Baker. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1960-04 | With Ella Baker, convenes the student conference at Shaw University that founds SNCC; moves to Atlanta that year as co-pastor of Ebenezer Baptist Church. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1642,23 +1643,32 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-04-11 | Johnson signs the Civil Rights Act of 1968, known as the Fair Housing Act. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1968-05-06 | Oklahoma governor Dewey Bartlett launches the OKIE campaign to turn the old insult into a badge of state pride. — [Okies](../articles/society-and-people/okies.md) |
+| 1969-02 | NASA reaches agreement with Lick Observatory, leaving only months to prepare the telescope and laser. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1969-07-15 | Ralph Abernathy leads hundreds of Poor People's Campaign demonstrators demanding aid for Americans facing hunger and poverty. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-16 – 1969-07-24 | **[Apollo 11](../articles/science-and-innovation/apollo-11.md)** (Event) |
 | 1969-07-16 | A Saturn V rocket lifts Apollo 11 off Launch Pad 39A at Cape Kennedy, Florida, at 9:32 a.m. EDT. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-19 | An engine burn behind the Moon places Columbia and Eagle in lunar orbit. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-20 | Eagle lands at 4:17 p.m. EDT; Armstrong steps onto the surface at 10:56 p.m. EDT. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-07-21 | **[Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md)** (Event) |
+| 1969-07-21 | Apollo 11 astronauts set the reflector array on the lunar surface about 20 feet from the lunar module. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1969-07-21 | Armstrong and Aldrin lift off from the Moon, leaving instruments including a laser retroreflector. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
 | 1969-07-24 | Columbia splashes down in the Pacific and the crew is recovered by USS Hornet. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1969-08-01 | Lick Observatory's 120-inch telescope detects the first laser returns from the array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
+| 1969-08-03 | A faster-firing laser at Lick records 98 range measurements in one night. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
+| 1969-08-20 | McDonald Observatory in Texas makes its first acquisition measurements of the array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1970 | Congress extends Section 5 preclearance for five years. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1970 | Frank James (Wamsutta), an Aquinnah Wampanoag, speaks on Cole's Hill in Plymouth on Thanksgiving Day, beginning the annual National Day of Mourning. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1970 | State park ranger Alexander Weiss finds Chinese poems carved into the detention barracks walls, which were slated for demolition. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1970 | The Nixon administration repudiates termination and turns federal policy toward tribal self-determination. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
+| 1970 | The Soviet Luna 17 mission lands the Lunokhod 1 rover carrying a reflector array. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1970-05 | State park ranger Alexander Weiss finds hundreds of poems in the barracks, then slated for demolition. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1970-07-08 | President Richard Nixon asks Congress to repudiate termination and adopt a policy of self-determination. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1971 | After a national tour, the command module Columbia goes to the Smithsonian. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1971 | Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1973 | A second Soviet reflector reaches the Moon aboard Lunokhod 2. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1973 | Coleman A. Young is elected Detroit's first African American mayor. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1973-08-11 | **[Hip hop](../articles/culture-and-arts/hip-hop.md)** (Tradition) |
@@ -1773,6 +1783,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2004-12-08 | Congress designates the oak as the national tree. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2005 | Secretary Michael Chertoff's Second Stage Review leads to a major internal reorganization. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
 | 2005 | The Energy Policy Act extends offshore authority to renewable energy such as wind, wave and ocean-current power. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 2005-07 | The APOLLO project at Apache Point Observatory, New Mexico, begins ranging with millimetre-level precision. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
 | 2006 | Congress establishes the Captain John Smith Chesapeake National Historic Trail. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
@@ -1852,6 +1863,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2018-12-20 | Congress awards a collective Congressional Gold Medal to Chinese American veterans of World War II. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 2019 | The penalty for going without coverage falls to $0 under the 2017 tax law. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2019-06-18 | Governor Gavin Newsom formally apologizes on behalf of the State of California to California Native peoples. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
+| 2019-08-01 | IEEE dedicates a milestone plaque at Lick Observatory for the 1969 experiment. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 2020 | McGirt v. Oklahoma holds that only Congress, by clear statement, can disestablish a reservation. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 2020 | The census counts 2,746,388 residents, third behind New York City and Los Angeles. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 2020-01-20 – 2023-05-11 | **[COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md)** (Event) |

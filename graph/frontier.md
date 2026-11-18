@@ -4,8 +4,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
+| `us:cold-war` | 11.59 | Era | `us:apollo-11`, `us:desegregation-of-little-rock-central-high-school`, `us:jazz`, `us:lunar-laser-ranging-experiment`, `us:mccarthyism`, `us:nato` |
 | `us:african-american-history` | 11.16 | - | `us:abolitionism`, `us:african-americans`, `us:blues`, `us:civil-rights-movement`, `us:frederick-douglass`, `us:harriet-tubman`, `us:jim-crow-laws`, `us:martin-luther-king-jr`, `us:slavery-in-the-united-states`, `us:sojourner-truth`, `us:underground-railroad` |
-| `us:cold-war` | 10.58 | Era | `us:apollo-11`, `us:desegregation-of-little-rock-central-high-school`, `us:jazz`, `us:mccarthyism`, `us:nato` |
 | `us:house-of-representatives` | 8.60 | - | `us:abraham-lincoln`, `us:census-and-apportionment`, `us:electoral-college`, `us:james-madison`, `us:john-marshall`, `us:mccarthyism`, `us:united-states-congress` |
 | `us:labor-movement` | 8.58 | - | `us:detroit`, `us:gilded-age`, `us:great-railroad-strike-of-1877`, `us:lattimer-massacre`, `us:mccarthyism`, `us:minimum-wage`, `us:panic-of-1873`, `us:triangle-shirtwaist-factory-fire` |
 | `us:presidents-of-the-united-states` | 8.12 | - | `us:abraham-lincoln`, `us:andrew-jackson`, `us:franklin-d-roosevelt`, `us:george-washington`, `us:james-madison`, `us:presidency-of-the-united-states`, `us:theodore-roosevelt`, `us:thomas-jefferson` |
@@ -57,6 +57,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:great-plains` | 4.54 | Place | `us:dust-bowl`, `us:the-west`, `us:wyoming`, `us:yellowstone-national-park` |
 | `us:new-york` | 4.54 | - | `us:federalist-papers`, `us:haudenosaunee`, `us:sojourner-truth`, `us:susan-b-anthony` |
 | `us:flag-of-the-united-states` | 4.54 | - | `us:betsy-ross-flag-myth`, `us:e-pluribus-unum`, `us:great-seal-of-the-united-states`, `us:national-symbols-of-the-united-states` |
+| `us:smithsonian-institution` | 4.53 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment`, `us:telegraph`, `us:wright-brothers-first-flight` |
 | `us:black-codes` | 4.07 | - | `us:fourteenth-amendment`, `us:jim-crow-laws`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | `us:reconstruction-amendments` | 4.07 | - | `us:fifteenth-amendment`, `us:fourteenth-amendment`, `us:reconstruction-era`, `us:thirteenth-amendment` |
 | `us:confederation-period` | 4.06 | - | `us:articles-of-confederation`, `us:constitutional-convention`, `us:great-seal-of-the-united-states`, `us:second-continental-congress` |
@@ -79,6 +80,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:powhatan` | 4.04 | - | `us:chesapeake-bay`, `us:jamestown`, `us:lawes-divine-morall-and-martiall`, `us:starving-time` |
 | `us:barack-obama` | 4.03 | Person | `us:affordable-care-act`, `us:deepwater-horizon-oil-spill`, `us:war-in-afghanistan` |
 | `us:orville-wright` | 4.03 | Person | `us:huffman-prairie`, `us:wright-brothers-first-flight`, `us:wright-company-school-of-aviation` |
+| `us:apollo-program` | 4.03 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment` |
 | `us:cahokia` | 3.55 | - | `us:mississippi-river`, `us:native-americans`, `us:united-states` |
 | `us:battle-of-gettysburg` | 3.54 | - | `us:american-civil-war`, `us:pennsylvania`, `us:siege-of-vicksburg` |
 | `us:alaska` | 3.54 | - | `us:hawaii`, `us:the-west`, `us:united-states` |
@@ -96,7 +98,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:in-god-we-trust` | 3.53 | - | `us:e-pluribus-unum`, `us:national-symbols-of-the-united-states` |
 | `us:star-spangled-banner` | 3.53 | - | `us:chesapeake-bay`, `us:national-symbols-of-the-united-states`, `us:war-of-1812` |
 | `us:virginia` | 3.53 | Place | `us:chesapeake-bay`, `us:jamestown` |
-| `us:smithsonian-institution` | 3.53 | - | `us:apollo-11`, `us:telegraph`, `us:wright-brothers-first-flight` |
 | `us:hiram-revels` | 3.05 | - | `us:fifteenth-amendment`, `us:reconstruction-era`, `us:united-states-congress` |
 | `us:termination-policy` | 3.05 | - | `us:native-americans`, `us:tribal-sovereignty` |
 | `us:racial-and-ethnic-groups-in-the-united-states` | 3.05 | - | `us:african-americans`, `us:chinese-americans`, `us:native-americans` |
@@ -120,9 +121,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:magnuson-act` | 3.03 | - | `us:angel-island-immigration-station`, `us:chinese-americans`, `us:chinese-exclusion-act` |
 | `us:homestead-strike` | 3.03 | - | `us:gilded-age`, `us:lattimer-massacre`, `us:pennsylvania` |
 | `us:fifth-amendment` | 3.03 | Document | `us:dred-scott-v-sandford`, `us:due-process`, `us:mccarthyism` |
+| `us:californios` | 3.03 | - | `us:california`, `us:california-gold-rush`, `us:mexican-american-war` |
 | `us:frances-perkins` | 3.03 | - | `us:minimum-wage`, `us:new-deal`, `us:triangle-shirtwaist-factory-fire` |
 | `us:roger-b-taney` | 3.03 | Person | `us:dred-scott-v-sandford`, `us:telegraph` |
-| `us:californios` | 3.03 | - | `us:california`, `us:california-gold-rush`, `us:mexican-american-war` |
 | `us:colorado-river-compact` | 3.03 | - | `us:colorado-river`, `us:hoover-dam` |
 | `us:burning-of-washington` | 3.03 | - | `us:chesapeake-bay`, `us:james-madison`, `us:war-of-1812` |
 | `us:music-of-the-united-states` | 3.03 | - | `us:blues`, `us:hip-hop`, `us:jazz` |
@@ -144,6 +145,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:panama-canal-expansion` | 3.03 | - | `us:gatun-locks`, `us:third-locks-project` |
 | `us:lgbtq-americans` | 3.03 | - | `us:mccarthyism`, `us:obergefell-v-hodges` |
 | `us:baker-v-carr` | 3.03 | - | `us:reynolds-v-sims` |
+| `us:soviet-union` | 3.02 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment`, `us:nato` |
 | `us:juneteenth` | 2.55 | - | `us:african-americans`, `us:slavery-in-the-united-states` |
 | `us:bureau-of-indian-affairs` | 2.54 | - | `us:native-americans`, `us:tribal-sovereignty` |
 | `us:gettysburg-address` | 2.54 | - | `us:abraham-lincoln`, `us:american-civil-war` |
@@ -154,15 +156,18 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:checks-and-balances` | 2.52 | - | `us:federalist-papers`, `us:judicial-review` |
 | `us:kansas-nebraska-act` | 2.52 | - | `us:dred-scott-v-sandford`, `us:missouri-compromise` |
 | `us:2020-united-states-census` | 2.52 | - | `us:census-and-apportionment`, `us:chinese-americans` |
+| `us:los-angeles` | 2.52 | - | `us:california`, `us:hoover-dam` |
 | `us:federal-reserve-system` | 2.52 | - | `us:great-depression`, `us:stock-market-crash-of-1929` |
 | `us:spanish-american-war` | 2.52 | - | `us:hawaii`, `us:theodore-roosevelt` |
-| `us:los-angeles` | 2.52 | - | `us:california`, `us:hoover-dam` |
 | `us:lyndon-b-johnson` | 2.52 | Person | `us:martin-luther-king-jr`, `us:voting-rights-act-of-1965` |
 | `us:rocky-mountains` | 2.52 | - | `us:wyoming`, `us:yellowstone-national-park` |
 | `us:gerrymandering` | 2.52 | - | `us:census-and-apportionment`, `us:reynolds-v-sims` |
 | `us:iraq-war` | 2.52 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
+| `us:texas` | 2.52 | Place | `us:lunar-laser-ranging-experiment`, `us:okies` |
 | `us:the-midwest` | 2.52 | - | `us:chicago`, `us:detroit` |
 | `us:john-f-kennedy` | 2.52 | - | `us:apollo-11` |
+| `us:nasa` | 2.52 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment` |
+| `us:space-race` | 2.52 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment` |
 | `us:land-grant-universities` | 2.52 | - | `us:morrill-land-grant-college-act` |
 | `us:act-prohibiting-importation-of-slaves` | 2.05 | - | `us:slavery-in-the-united-states`, `us:thomas-jefferson` |
 | `us:nat-turners-rebellion` | 2.04 | - | `us:abolitionism`, `us:slavery-in-the-united-states` |
@@ -202,8 +207,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:rutherford-b-hayes` | 2.03 | - | `us:great-railroad-strike-of-1877`, `us:reconstruction-era` |
 | `us:loving-v-virginia` | 2.03 | - | `us:jim-crow-laws`, `us:obergefell-v-hodges` |
 | `us:alabama-constitution-of-1901` | 2.03 | Document | `us:jim-crow-laws`, `us:reynolds-v-sims` |
-| `us:farewell-address` | 2.03 | - | `us:george-washington`, `us:monroe-doctrine` |
-| `us:twelfth-amendment` | 2.03 | - | `us:electoral-college`, `us:presidency-of-the-united-states` |
+| `us:farewell-address` | 2.02 | - | `us:george-washington`, `us:monroe-doctrine` |
+| `us:twelfth-amendment` | 2.02 | - | `us:electoral-college`, `us:presidency-of-the-united-states` |
 | `us:comite-des-citoyens` | 2.02 | - | `us:new-orleans`, `us:plessy-v-ferguson` |
 | `us:john-brown` | 2.02 | - | `us:abolitionism`, `us:harriet-tubman` |
 | `us:missouri-river` | 2.02 | - | `us:mississippi-river` |
@@ -215,8 +220,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:adams-onis-treaty` | 2.02 | - | `us:louisiana-purchase`, `us:monroe-doctrine` |
 | `us:school-desegregation-in-the-united-states` | 2.02 | - | `us:brown-v-board-of-education`, `us:desegregation-of-little-rock-central-high-school` |
 | `us:southern-manifesto` | 2.02 | - | `us:brown-v-board-of-education`, `us:desegregation-of-little-rock-central-high-school` |
-| `us:william-lloyd-garrison` | 2.02 | - | `us:abolitionism`, `us:sojourner-truth` |
 | `us:page-act-of-1875` | 2.02 | - | `us:chinese-americans`, `us:chinese-exclusion-act` |
+| `us:william-lloyd-garrison` | 2.02 | - | `us:abolitionism`, `us:sojourner-truth` |
 | `us:womens-loyal-national-league` | 2.02 | - | `us:abolitionism`, `us:susan-b-anthony` |
 | `us:pittsburgh` | 2.02 | Place | `us:great-railroad-strike-of-1877`, `us:pennsylvania` |
 | `us:choctaw-nation` | 2.02 | - | `us:indian-removal-act`, `us:new-orleans` |
@@ -234,25 +239,25 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:bonus-army` | 2.02 | - | `us:great-depression`, `us:servicemens-readjustment-act-of-1944` |
 | `us:torrijos-carter-treaties` | 2.02 | - | `us:panama-canal` |
 | `us:arkansas` | 2.02 | Place | `us:mississippi-river`, `us:okies` |
+| `us:act-for-the-government-and-protection-of-indians` | 2.02 | - | `us:california`, `us:california-gold-rush` |
+| `us:history-of-california` | 2.02 | - | `us:california`, `us:california-gold-rush` |
 | `us:muscogee-creek-nation` | 2.02 | - | `us:indian-removal-act`, `us:war-of-1812` |
 | `us:national-association-of-colored-women` | 2.02 | - | `us:harriet-tubman`, `us:womens-suffrage-movement` |
 | `us:sectionalism` | 2.02 | - | `us:dred-scott-v-sandford`, `us:missouri-compromise` |
 | `us:underground-railroad-quilt-code-myth` | 2.02 | - | `us:harriet-tubman`, `us:underground-railroad` |
 | `us:black-power-movement` | 2.02 | - | `us:civil-rights-movement`, `us:hip-hop` |
-| `us:act-for-the-government-and-protection-of-indians` | 2.02 | - | `us:california`, `us:california-gold-rush` |
-| `us:history-of-california` | 2.02 | - | `us:california`, `us:california-gold-rush` |
+| `us:1906-san-francisco-earthquake` | 2.02 | - | `us:angel-island-immigration-station`, `us:california` |
 | `us:national-park-service` | 2.02 | - | `us:theodore-roosevelt`, `us:yellowstone-national-park` |
 | `us:congo-square` | 2.02 | - | `us:jazz`, `us:new-orleans` |
 | `us:storyville` | 2.02 | - | `us:jazz`, `us:new-orleans` |
 | `us:william-penn` | 2.02 | Person | `us:liberty-bell`, `us:pennsylvania` |
 | `us:rock-springs-massacre` | 2.02 | - | `us:chinese-americans`, `us:wyoming` |
 | `us:arizona-v-california` | 2.02 | - | `us:colorado-river` |
-| `us:1906-san-francisco-earthquake` | 2.02 | - | `us:angel-island-immigration-station`, `us:california` |
 | `us:carrie-chapman-catt` | 2.02 | Person | `us:susan-b-anthony`, `us:womens-suffrage-movement` |
 | `us:elizabeth-cady-stanton` | 2.02 | - | `us:susan-b-anthony`, `us:womens-suffrage-movement` |
 | `us:national-american-woman-suffrage-association` | 2.02 | - | `us:susan-b-anthony`, `us:womens-suffrage-movement` |
-| `us:glen-canyon-dam` | 2.02 | - | `us:colorado-river`, `us:hoover-dam` |
 | `us:james-k-polk` | 2.02 | - | `us:california-gold-rush`, `us:mexican-american-war` |
+| `us:glen-canyon-dam` | 2.02 | - | `us:colorado-river`, `us:hoover-dam` |
 | `us:louisiana-v-callais` | 2.02 | - | `us:shelby-county-v-holder`, `us:voting-rights-act-of-1965` |
 | `us:south-carolina-v-katzenbach` | 2.02 | - | `us:shelby-county-v-holder`, `us:voting-rights-act-of-1965` |
 | `us:texas-annexation` | 2.02 | - | `us:mexican-american-war` |
@@ -287,12 +292,13 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:shawnee` | 2.02 | - | `us:huffman-prairie`, `us:war-of-1812` |
 | `us:al-qaeda` | 2.02 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
 | `us:osama-bin-laden` | 2.02 | - | `us:september-11-attacks`, `us:war-in-afghanistan` |
+| `us:national-air-and-space-museum` | 2.02 | - | `us:apollo-11`, `us:wright-brothers-first-flight` |
 | `us:boulder-city` | 2.02 | - | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
 | `us:bureau-of-reclamation` | 2.02 | - | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
 | `us:harold-ickes` | 2.02 | - | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
 | `us:nevada` | 2.02 | Place | `us:hoover-dam`, `us:winged-figures-of-the-republic` |
 | `us:pierre-eugene-du-simitiere` | 2.02 | Person | `us:e-pluribus-unum`, `us:great-seal-of-the-united-states` |
-| `us:national-air-and-space-museum` | 2.02 | - | `us:apollo-11`, `us:wright-brothers-first-flight` |
+| `us:poor-peoples-campaign` | 2.02 | - | `us:apollo-11`, `us:martin-luther-king-jr` |
 | `us:california-v-texas` | 2.02 | - | `us:affordable-care-act` |
 | `us:medicaid` | 2.02 | - | `us:affordable-care-act` |
 | `us:nfib-v-sebelius` | 2.02 | - | `us:affordable-care-act` |
@@ -309,16 +315,14 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:department-of-the-interior` | 2.02 | - | `us:bureau-of-ocean-energy-management` |
 | `us:outer-continental-shelf-lands-act` | 2.02 | - | `us:bureau-of-ocean-energy-management` |
 | `us:alabama` | 2.02 | - | `us:reynolds-v-sims`, `us:shelby-county-v-holder` |
-| `us:poor-peoples-campaign` | 2.02 | - | `us:apollo-11`, `us:martin-luther-king-jr` |
+| `us:neil-armstrong` | 2.02 | Person | `us:apollo-11` |
 | `us:gray-v-sanders` | 2.02 | - | `us:reynolds-v-sims` |
 | `us:health-care-in-the-united-states` | 2.02 | - | `us:affordable-care-act`, `us:covid-19-pandemic-in-the-united-states` |
-| `us:soviet-union` | 2.02 | - | `us:apollo-11`, `us:nato` |
+| `us:buzz-aldrin` | 2.02 | - | `us:apollo-11`, `us:lunar-laser-ranging-experiment` |
 | `us:1918-influenza-pandemic` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
-| `us:apollo-program` | 2.02 | - | `us:apollo-11` |
 | `us:cares-act` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
 | `us:detroit-river` | 2.02 | Place | `us:detroit` |
 | `us:michigan` | 2.02 | Place | `us:detroit` |
-| `us:neil-armstrong` | 2.02 | Person | `us:apollo-11` |
 | `us:operation-warp-speed` | 2.02 | - | `us:covid-19-pandemic-in-the-united-states` |
 | `us:puerto-rico` | 1.52 | - | `us:united-states` |
 | `us:shays-rebellion` | 1.52 | - | `us:articles-of-confederation` |
@@ -336,7 +340,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:uncle-sam` | 1.51 | - | `us:national-symbols-of-the-united-states` |
 | `us:jacksonian-democracy` | 1.51 | - | `us:andrew-jackson` |
 | `us:country-music` | 1.51 | - | `us:okies` |
-| `us:texas` | 1.51 | - | `us:okies` |
 | `us:cuban-missile-crisis` | 1.51 | - | `us:monroe-doctrine` |
 | `us:ellis-island` | 1.51 | - | `us:angel-island-immigration-station` |
 | `us:erie-canal` | 1.51 | - | `us:chicago` |
@@ -349,9 +352,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:marshall-plan` | 1.51 | - | `us:nato` |
 | `us:automobile-industry` | 1.51 | - | `us:detroit` |
 | `us:first-thanksgiving-myth` | 1.51 | - | `us:thanksgiving` |
-| `us:nasa` | 1.51 | - | `us:apollo-11` |
 | `us:plymouth-colony` | 1.51 | - | `us:thanksgiving` |
-| `us:space-race` | 1.51 | - | `us:apollo-11` |
 | `us:telephone` | 1.51 | - | `us:telegraph` |
 | `us:indentured-servitude` | 1.03 | - | `us:slavery-in-the-united-states` |
 | `us:slavery-in-the-americas` | 1.03 | - | `us:slavery-in-the-united-states` |
@@ -519,6 +520,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:buffalo-soldiers` | 1.01 | - | `us:theodore-roosevelt` |
 | `us:progressive-party-1912` | 1.01 | - | `us:theodore-roosevelt` |
 | `us:square-deal` | 1.01 | - | `us:theodore-roosevelt` |
+| `us:bear-flag-revolt` | 1.01 | - | `us:california` |
+| `us:california-free-state-myth` | 1.01 | - | `us:california` |
+| `us:california-missions` | 1.01 | - | `us:california` |
+| `us:central-valley` | 1.01 | - | `us:california` |
+| `us:death-valley-national-park` | 1.01 | - | `us:california` |
+| `us:dolores-huerta` | 1.01 | - | `us:california` |
+| `us:junipero-serra` | 1.01 | - | `us:california` |
+| `us:kumeyaay` | 1.01 | - | `us:california` |
+| `us:san-andreas-fault` | 1.01 | - | `us:california` |
+| `us:united-farm-workers` | 1.01 | - | `us:california` |
 | `us:baltimore-and-ohio-railroad` | 1.01 | - | `us:great-railroad-strike-of-1877` |
 | `us:national-guard-of-the-united-states` | 1.01 | - | `us:great-railroad-strike-of-1877` |
 | `us:pennsylvania-railroad` | 1.01 | - | `us:great-railroad-strike-of-1877` |
@@ -556,16 +567,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:rock-and-roll` | 1.01 | - | `us:blues` |
 | `us:w-c-handy` | 1.01 | - | `us:blues` |
 | `us:work-songs` | 1.01 | - | `us:blues` |
-| `us:bear-flag-revolt` | 1.01 | - | `us:california` |
-| `us:california-free-state-myth` | 1.01 | - | `us:california` |
-| `us:california-missions` | 1.01 | - | `us:california` |
-| `us:central-valley` | 1.01 | - | `us:california` |
-| `us:death-valley-national-park` | 1.01 | - | `us:california` |
-| `us:dolores-huerta` | 1.01 | - | `us:california` |
-| `us:junipero-serra` | 1.01 | - | `us:california` |
-| `us:kumeyaay` | 1.01 | - | `us:california` |
-| `us:san-andreas-fault` | 1.01 | - | `us:california` |
-| `us:united-farm-workers` | 1.01 | - | `us:california` |
 | `us:judiciary-act-of-1801` | 1.01 | - | `us:marbury-v-madison` |
 | `us:judiciary-act-of-1802` | 1.01 | - | `us:marbury-v-madison` |
 | `us:samuel-chase` | 1.01 | - | `us:marbury-v-madison` |
@@ -581,11 +582,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:james-w-marshall` | 1.01 | - | `us:california-gold-rush` |
 | `us:john-sutter` | 1.01 | - | `us:california-gold-rush` |
 | `us:nisenan` | 1.01 | - | `us:california-gold-rush` |
+| `us:colorado-river-indian-tribes` | 1.01 | - | `us:colorado-river` |
+| `us:john-wesley-powell` | 1.01 | - | `us:colorado-river` |
 | `us:battle-of-oriskany` | 1.01 | - | `us:haudenosaunee` |
 | `us:kinzua-dam` | 1.01 | - | `us:haudenosaunee` |
 | `us:treaty-of-canandaigua` | 1.01 | - | `us:haudenosaunee` |
-| `us:colorado-river-indian-tribes` | 1.01 | - | `us:colorado-river` |
-| `us:john-wesley-powell` | 1.01 | - | `us:colorado-river` |
 | `us:chuichi-nagumo` | 1.01 | Person | `us:attack-on-pearl-harbor` |
 | `us:day-of-infamy-speech` | 1.01 | - | `us:attack-on-pearl-harbor` |
 | `us:doris-miller` | 1.01 | - | `us:attack-on-pearl-harbor` |
@@ -616,13 +617,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:lake-mead` | 1.01 | - | `us:hoover-dam` |
 | `us:pueblo-grande-de-nevada` | 1.01 | - | `us:hoover-dam` |
 | `us:six-companies` | 1.01 | - | `us:hoover-dam` |
-| `us:chief-justice-of-the-united-states` | 1.01 | Office | `us:john-marshall` |
-| `us:dartmouth-college-v-woodward` | 1.01 | - | `us:john-marshall` |
-| `us:gibbons-v-ogden` | 1.01 | - | `us:john-marshall` |
-| `us:johnson-v-mintosh` | 1.01 | - | `us:john-marshall` |
-| `us:justices-of-the-supreme-court` | 1.01 | - | `us:john-marshall` |
-| `us:virginia-ratifying-convention` | 1.01 | - | `us:john-marshall` |
-| `us:xyz-affair` | 1.01 | - | `us:john-marshall` |
 | `us:antonio-lopez-de-santa-anna` | 1.01 | Person | `us:mexican-american-war` |
 | `us:gadsden-purchase` | 1.01 | - | `us:mexican-american-war` |
 | `us:henry-david-thoreau` | 1.01 | - | `us:mexican-american-war` |
@@ -631,6 +625,13 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:wilmot-proviso` | 1.01 | - | `us:mexican-american-war` |
 | `us:winfield-scott` | 1.01 | Person | `us:mexican-american-war` |
 | `us:zachary-taylor` | 1.01 | Person | `us:mexican-american-war` |
+| `us:chief-justice-of-the-united-states` | 1.01 | Office | `us:john-marshall` |
+| `us:dartmouth-college-v-woodward` | 1.01 | - | `us:john-marshall` |
+| `us:gibbons-v-ogden` | 1.01 | - | `us:john-marshall` |
+| `us:johnson-v-mintosh` | 1.01 | - | `us:john-marshall` |
+| `us:justices-of-the-supreme-court` | 1.01 | - | `us:john-marshall` |
+| `us:virginia-ratifying-convention` | 1.01 | - | `us:john-marshall` |
+| `us:xyz-affair` | 1.01 | - | `us:john-marshall` |
 | `us:american-bison` | 1.01 | - | `us:national-symbols-of-the-united-states` |
 | `us:american-national-identity` | 1.01 | - | `us:national-symbols-of-the-united-states` |
 | `us:texas-v-johnson` | 1.01 | - | `us:national-symbols-of-the-united-states` |
@@ -841,6 +842,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:united-nations` | 1.01 | - | `us:nato` |
 | `us:vandenberg-resolution` | 1.01 | - | `us:nato` |
 | `us:warsaw-pact` | 1.01 | - | `us:nato` |
+| `us:florida` | 1.01 | Place | `us:apollo-11` |
+| `us:michael-collins` | 1.01 | - | `us:apollo-11` |
+| `us:moon-landing-hoax-myth` | 1.01 | - | `us:apollo-11` |
+| `us:ralph-abernathy` | 1.01 | - | `us:apollo-11` |
+| `us:wernher-von-braun` | 1.01 | - | `us:apollo-11` |
 | `us:freedmens-bureau-act-of-1865` | 1.01 | Document | `us:freedmens-bureau` |
 | `us:freedmens-bureau-act-of-1866` | 1.01 | Document | `us:freedmens-bureau` |
 | `us:oliver-otis-howard` | 1.01 | Person | `us:freedmens-bureau` |
@@ -877,7 +883,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:alger-hiss` | 1.01 | - | `us:mccarthyism` |
 | `us:antoine-de-la-mothe-cadillac` | 1.01 | Person | `us:detroit` |
 | `us:army-mccarthy-hearings` | 1.01 | - | `us:mccarthyism` |
-| `us:buzz-aldrin` | 1.01 | - | `us:apollo-11` |
 | `us:coleman-young` | 1.01 | - | `us:detroit` |
 | `us:college-park-airport` | 1.01 | - | `us:wright-company-school-of-aviation` |
 | `us:communist-control-act-of-1954` | 1.01 | - | `us:mccarthyism` |
@@ -893,8 +898,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:executive-order-10730` | 1.01 | - | `us:desegregation-of-little-rock-central-high-school` |
 | `us:executive-order-9835` | 1.01 | - | `us:mccarthyism` |
 | `us:federal-holidays-in-the-united-states` | 1.01 | - | `us:thanksgiving` |
-| `us:florida` | 1.01 | Place | `us:apollo-11` |
 | `us:ford-motor-company` | 1.01 | - | `us:detroit` |
+| `us:hal-walker` | 1.01 | - | `us:lunar-laser-ranging-experiment` |
 | `us:hatch-act-of-1887` | 1.01 | - | `us:morrill-land-grant-college-act` |
 | `us:henry-h-arnold` | 1.01 | - | `us:wright-company-school-of-aviation` |
 | `us:hollywood-blacklist` | 1.01 | - | `us:mccarthyism` |
@@ -917,11 +922,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:mccarran-internal-security-act` | 1.01 | - | `us:mccarthyism` |
 | `us:mcclures-magazine` | 1.01 | - | `us:muckrakers` |
 | `us:meat-inspection-act` | 1.01 | - | `us:muckrakers` |
-| `us:michael-collins` | 1.01 | - | `us:apollo-11` |
-| `us:moon-landing-hoax-myth` | 1.01 | - | `us:apollo-11` |
 | `us:morrill-act-of-1890` | 1.01 | - | `us:morrill-land-grant-college-act` |
 | `us:motown-records` | 1.01 | - | `us:detroit` |
 | `us:national-day-of-mourning` | 1.01 | - | `us:thanksgiving` |
+| `us:next-generation-lunar-retroreflector` | 1.01 | - | `us:lunar-laser-ranging-experiment` |
 | `us:oreilly-v-morse` | 1.01 | - | `us:telegraph` |
 | `us:orval-faubus` | 1.01 | - | `us:desegregation-of-little-rock-central-high-school` |
 | `us:oskar-j-w-hansen` | 1.01 | Person | `us:winged-figures-of-the-republic` |
@@ -930,7 +934,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:progressive-movement` | 1.01 | - | `us:muckrakers` |
 | `us:public-art-in-the-united-states` | 1.01 | - | `us:winged-figures-of-the-republic` |
 | `us:pure-food-and-drug-act` | 1.01 | - | `us:muckrakers` |
-| `us:ralph-abernathy` | 1.01 | - | `us:apollo-11` |
 | `us:ray-stannard-baker` | 1.01 | - | `us:muckrakers` |
 | `us:samuel-hopkins-adams` | 1.01 | - | `us:muckrakers` |
 | `us:samuel-morse` | 1.01 | Person | `us:telegraph` |
@@ -947,7 +950,6 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `us:upton-sinclair` | 1.01 | - | `us:muckrakers` |
 | `us:venona-project` | 1.01 | - | `us:mccarthyism` |
 | `us:wampanoag` | 1.01 | - | `us:thanksgiving` |
-| `us:wernher-von-braun` | 1.01 | - | `us:apollo-11` |
 | `us:western-union` | 1.01 | - | `us:telegraph` |
 | `us:wilbur-wright-field` | 1.01 | - | `us:wright-company-school-of-aviation` |
 | `us:wright-exhibition-team` | 1.01 | - | `us:wright-company-school-of-aviation` |
