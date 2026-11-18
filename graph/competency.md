@@ -42,7 +42,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:deepwater-horizon-oil-spill` | 4 | Bureau of Ocean Energy Management, louisiana, national-commission-on-the-bp-deepwater-horizon-oil-spill-and-offshore-drilling, restore-act |
 | `us:japanese-american-incarceration` | 4 | civil-liberties-act-of-1988, commission-on-wartime-relocation-and-internment-of-civilians, japanese-americans, korematsu-v-united-states |
 | `us:louisiana-purchase` | 4 | Missouri Compromise, Native Americans, adams-onis-treaty, territory-of-orleans |
-| `us:mccarthyism` | 4 | communist-control-act-of-1954, labor-movement, lgbtq-americans, mccarran-internal-security-act |
+| `us:mccarthyism` | 4 | Labor movement, communist-control-act-of-1954, lgbtq-americans, mccarran-internal-security-act |
 | `us:reconstruction-era` | 4 | African Americans, Fifteenth Amendment, Fourteenth Amendment, sharecropping |
 | `us:september-11-attacks` | 4 | Department of Homeland Security, War in Afghanistan (2001–2021), national-commission-on-terrorist-attacks-upon-the-united-states, usa-patriot-act |
 | `us:treaty-of-paris-1783` | 4 | Haudenosaunee, Mississippi River, loyalists, treaty-of-fort-stanwix-1784 |
@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 
-…and 89 more.
+…and 90 more.
 
 ## Happenings by era
 
@@ -76,6 +76,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:gilded-age` | `us:panic-of-1873` | 1873-09-18 |
 | `us:gilded-age` | `us:great-railroad-strike-of-1877` | 1877-07-16 |
 | `us:gilded-age` | `us:lattimer-massacre` | 1897-09-10 |
+| `us:gilded-age` | `us:labor-movement` | 1834-02 |
 | `us:gilded-age` | `us:hayden-geological-survey-of-1871` | 1871-06 |
 | `us:great-depression` | `us:stock-market-crash-of-1929` | 1929-10-24 |
 | `us:great-depression` | `us:dust-bowl` | 1931 |
@@ -120,7 +121,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:haudenosaunee` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 
-…and 37 more.
+…and 38 more.
 
 ## Places with nothing tied to them (gap)
 

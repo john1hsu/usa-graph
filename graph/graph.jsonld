@@ -11521,6 +11521,256 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "May Day grew out of an American campaign; unions chose May 1, 1886, for a national strike for the eight-hour day, and an international socialist congress in 1889 adopted the date for worldwide demonstrations beginning in 1890.",
+   "uso:myth": "May Day, the international workers' holiday on May 1, is a foreign or Soviet tradition with no American roots.",
+   "uso:why": "Because the Haymarket bombing tied May 1 to anarchists and later Cold War images tied it to Moscow, more conservative American unions dropped it for a September Labor Day, and its U.S. origin was largely forgotten."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Knights of Labor and the American Federation of Labor differ in whom they organized?",
+   "uso:answer": "The Knights aimed at \"One Big Union\" open to nearly all wage workers, including women, African Americans and immigrants of every skill level, while the AFL federated autonomous craft unions of skilled workers, concentrated on wages and conditions, and left most factory workers unorganized.",
+   "uso:questionFor": {
+    "@id": "us:labor-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did union membership grow so fast in the 1930s?",
+   "uso:answer": "The Wagner Act of 1935 guaranteed workers the right to form unions, required employers to bargain with a majority union and created the NLRB to enforce it, while the CIO organized whole mass-production industries and won breakthroughs such as the 1936–37 Flint sit-down strike against General Motors.",
+   "uso:questionFor": {
+    "@id": "us:labor-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What explanations do scholars give for the decline of union membership after the mid-twentieth century?",
+   "uso:answer": "Some stress structural change, such as international competition, unemployment and industry moving to the nonunion South; others stress employer opposition, including a sharp rise in unfair labor practice violations in the 1970s, and weak legal protection under the Wagner Act as narrowed by Taft-Hartley.",
+   "uso:questionFor": {
+    "@id": "us:labor-movement"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 800 women mill workers in Lowell, Massachusetts, walk out against a 12.5 percent wage cut.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1834-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A gunfight between strikers and Pinkerton guards at Carnegie Steel's Homestead works leaves three Pinkertons and six workers dead.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1892-07-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Pullman strike begins; the American Railway Union boycott spreads nationwide until federal troops break it in July.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1894-05-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress makes the first Monday in September a national Labor Day holiday.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1894-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1925"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John L. Lewis and allied unions form the Committee for Industrial Organization inside the AFL.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1935"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Franklin D. Roosevelt signs the National Labor Relations (Wagner) Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1935-07-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Auto workers sit down inside General Motors' Fisher Body plant in Flint, Michigan.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1936-12-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After 44 days General Motors reaches an agreement with the United Automobile Workers.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1937-02-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The industrial unions form the independent Congress of Industrial Organizations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1938"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress overrides President Truman's veto to pass the Taft-Hartley (Labor Management Relations) Act.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1947-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Between 1,500 and 2,000 Lowell workers strike over higher board charges and form the Factory Girls' Association.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1836-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The AFL and CIO merge as the AFL-CIO under George Meany.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1955"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Martin Luther King Jr. addresses the AFL-CIO convention and urges it to fight discrimination.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1961-12-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "More than 800 Filipino farmworkers in AWOC begin the Delano grape strike; César Chávez's NFWA votes to join on September 16.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1965-09-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "About 1,300 Black sanitation workers in AFSCME Local 1733 strike in Memphis for 65 days.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1968"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The BLS counts 14.7 million union members, 10.0 percent of wage and salary workers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2025"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In Commonwealth v. Hunt the Massachusetts Supreme Court holds that a union is not in itself a criminal conspiracy.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1842"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Skilled garment cutters in Philadelphia found the Knights of Labor.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1869"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York's Central Labor Union holds the first Labor Day parade.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1882-09-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "White miners who had met at a Knights of Labor hall kill 28 Chinese miners at Rock Springs, Wyoming Territory.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1885-09-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Workers strike nationwide for the eight-hour day, including more than 30,000 in Chicago.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1886-05-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A bomb is thrown at police at a Haymarket Square protest in Chicago, killing an officer and setting off a backlash against labor.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1886-05-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Samuel Gompers and other craft-union leaders form the American Federation of Labor.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1886-12"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The marchers had agreed not to carry firearms or clubs, the state's historical marker and a National Park Service study describe them as unarmed, and over a dozen marchers were shot in the back while fleeing; exactly how the first shots came is still debated.",
@@ -27337,6 +27587,230 @@
     "@id": "https://teachingamericanhistory.org/document/cooper-v-aaron/"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax, Rice University",
+   "dcterms:title": "18.3 Building Industrial America on the Backs of Labor — U.S. History",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/18-3-building-industrial-america-on-the-backs-of-labor"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Labor Relations Board",
+   "dcterms:title": "1947 Taft-Hartley Passage and NLRB Structural Changes",
+   "schema:url": {
+    "@id": "https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-passage-and-nlrb-structural-changes"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Walter P. Reuther Library, Wayne State University",
+   "dcterms:title": "Subject Focus: Remembering the Flint Sit-Down",
+   "schema:url": {
+    "@id": "https://reuther.wayne.edu/node/7092"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Social Welfare History Project, Virginia Commonwealth University Libraries",
+   "dcterms:title": "AFL-CIO",
+   "schema:url": {
+    "@id": "https://socialwelfare.library.vcu.edu/organizations/labor/afl-cio/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+   "dcterms:title": "American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)",
+   "schema:url": {
+    "@id": "https://kinginstitute.stanford.edu/american-federation-labor-and-congress-industrial-organizations-afl-cio"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Workers United: The Delano Grape Strike and Boycott",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/workers-united-the-delano-grape-strike-and-boycott.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+   "dcterms:title": "Union Members — 2025 (news release, February 18, 2026)",
+   "schema:url": {
+    "@id": "https://www.bls.gov/news.release/archives/union2_02182026.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Bureau of Economic Research",
+   "dcterms:title": "Unions and Inequality over the Twentieth Century: New Evidence from Survey Data (Farber, Herbst, Kuziemko and Naidu), NBER Working Paper 24587",
+   "schema:url": {
+    "@id": "https://www.nber.org/papers/w24587.pdf"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Lowell National Historical Park",
+   "dcterms:title": "Early Strikes in Lowell",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/early-strikes-in-lowell.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Commonwealth v. Hunt",
+   "schema:url": {
+    "@id": "https://www.britannica.com/event/Commonwealth-v-Hunt"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Economic History Association, EH.Net Encyclopedia",
+   "dcterms:title": "Labor Unions in the United States (Gerald Friedman)",
+   "schema:url": {
+    "@id": "https://eh.net/encyclopedia/labor-unions-in-the-united-states/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of Labor",
+   "dcterms:title": "History of Labor Day",
+   "schema:url": {
+    "@id": "https://www.dol.gov/general/LaborDay/history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Smithsonian Institution, National Museum of American History",
+   "dcterms:title": "May Day: America's most traditional, radical, complicated holiday (Jordan Grant)",
+   "schema:url": {
+    "@id": "https://torch.si.edu/2019/05/may-day-americas-most-traditional-radical-complicated-holiday"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "WyoHistory.org, Wyoming State Historical Society",
+   "dcterms:title": "The Rock Springs Massacre (Tom Rea)",
+   "schema:url": {
+    "@id": "https://wyohistory.org/essays/rock-springs-massacre"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Pullman National Historical Park",
+   "dcterms:title": "Pullman Porters",
+   "schema:url": {
+    "@id": "https://www.nps.gov/pull/learn/historyculture/pullman-porters.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Labor Relations Board",
+   "dcterms:title": "1935 Passage of the Wagner Act",
+   "schema:url": {
+    "@id": "https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1935-passage-of-the-wagner-act"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/lattimer-massacre/s1",
@@ -52708,6 +53182,278 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/judicial-review/timeline/7"
+    }
+   ]
+  },
+  {
+   "@id": "us:labor-movement",
+   "@type": "uso:Movement",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9"
+    }
+   ],
+   "rdfs:label": "Labor movement",
+   "schema:startDate": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1834-02"
+   },
+   "skos:altLabel": [
+    "American labor movement",
+    "Labor movement in the United States",
+    "Organized labor",
+    "Union movement"
+   ],
+   "skos:broader": {
+    "@id": "us:economic-history-of-the-united-states"
+   },
+   "skos:definition": "The long effort by American wage earners to improve pay, hours and conditions by organizing unions, striking and seeking protective laws, from the mill-town turnouts of the 1830s through the Knights of Labor, the AFL and the CIO to the AFL-CIO and the public-sector unions of today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work"
+   },
+   "skos:prefLabel": "Labor movement",
+   "skos:related": [
+    {
+     "@id": "us:afl-cio"
+    },
+    {
+     "@id": "us:american-federation-of-labor"
+    },
+    {
+     "@id": "us:brotherhood-of-sleeping-car-porters"
+    },
+    {
+     "@id": "us:cesar-chavez"
+    },
+    {
+     "@id": "us:civil-rights-movement"
+    },
+    {
+     "@id": "us:commonwealth-v-hunt"
+    },
+    {
+     "@id": "us:congress-of-industrial-organizations"
+    },
+    {
+     "@id": "us:detroit"
+    },
+    {
+     "@id": "us:dolores-huerta"
+    },
+    {
+     "@id": "us:flint-sit-down-strike"
+    },
+    {
+     "@id": "us:frances-perkins"
+    },
+    {
+     "@id": "us:gilded-age"
+    },
+    {
+     "@id": "us:great-railroad-strike-of-1877"
+    },
+    {
+     "@id": "us:haymarket-affair"
+    },
+    {
+     "@id": "us:homestead-strike"
+    },
+    {
+     "@id": "us:knights-of-labor"
+    },
+    {
+     "@id": "us:larry-itliong"
+    },
+    {
+     "@id": "us:lattimer-massacre"
+    },
+    {
+     "@id": "us:mccarthyism"
+    },
+    {
+     "@id": "us:memphis-sanitation-strike"
+    },
+    {
+     "@id": "us:minimum-wage"
+    },
+    {
+     "@id": "us:national-labor-relations-act"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:panic-of-1873"
+    },
+    {
+     "@id": "us:pullman-strike"
+    },
+    {
+     "@id": "us:rock-springs-massacre"
+    },
+    {
+     "@id": "us:taft-hartley-act"
+    },
+    {
+     "@id": "us:triangle-shirtwaist-factory-fire"
+    },
+    {
+     "@id": "us:united-farm-workers"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:income-inequality-in-the-united-states"
+   },
+   "uso:domain": "economy-and-work",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/economy-and-work/labor-movement.md",
+   "uso:ledBy": [
+    {
+     "@id": "us:a-philip-randolph"
+    },
+    {
+     "@id": "us:samuel-gompers"
+    }
+   ],
+   "uso:ledTo": [
+    {
+     "@id": "us:international-workers-day"
+    },
+    {
+     "@id": "us:labor-day"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:gilded-age"
+   },
+   "uso:requires": {
+    "@id": "us:industrial-revolution-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9"
     }
    ]
   },

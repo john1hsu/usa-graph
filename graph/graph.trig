@@ -735,6 +735,25 @@
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s4> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s5> .
 <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/labor-movement.md" .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> .
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> .
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/economy-and-work/lattimer-massacre.md" .
@@ -12195,6 +12214,286 @@
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
   <https://github.com/john1hsu/usa-graph/id/source/great-railroad-strike-of-1877/s6> <https://schema.org/url> <https://www.heinzhistorycenter.org/?p=1110> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/labor-movement#graph> {
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "May Day grew out of an American campaign; unions chose May 1, 1886, for a national strike for the eight-hour day, and an international socialist congress in 1889 adopted the date for worldwide demonstrations beginning in 1890." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "May Day, the international workers' holiday on May 1, is a foreign or Soviet tradition with no American roots." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Because the Haymarket bombing tied May 1 to anarchists and later Cold War images tied it to Moscow, more conservative American unions dropped it for a September Labor Day, and its U.S. origin was largely forgotten." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Knights of Labor and the American Federation of Labor differ in whom they organized?" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Knights aimed at \"One Big Union\" open to nearly all wage workers, including women, African Americans and immigrants of every skill level, while the AFL federated autonomous craft unions of skilled workers, concentrated on wages and conditions, and left most factory workers unorganized." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did union membership grow so fast in the 1930s?" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Wagner Act of 1935 guaranteed workers the right to form unions, required employers to bargain with a majority union and created the NLRB to enforce it, while the CIO organized whole mass-production industries and won breakthroughs such as the 1936–37 Flint sit-down strike against General Motors." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "What explanations do scholars give for the decline of union membership after the mid-twentieth century?" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Some stress structural change, such as international competition, unemployment and industry moving to the nonunion South; others stress employer opposition, including a sharp rise in unfair labor practice violations in the 1970s, and weak legal protection under the Wagner Act as narrowed by Taft-Hartley." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "A gunfight between strikers and Pinkerton guards at Carnegie Steel's Homestead works leaves three Pinkertons and six workers dead." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1892-07-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The Pullman strike begins; the American Railway Union boycott spreads nationwide until federal troops break it in July." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1894-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress makes the first Monday in September a national Labor Day holiday." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1894-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "John L. Lewis and allied unions form the Committee for Industrial Organization inside the AFL." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "President Franklin D. Roosevelt signs the National Labor Relations (Wagner) Act." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1935-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Auto workers sit down inside General Motors' Fisher Body plant in Flint, Michigan." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1936-12-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "After 44 days General Motors reaches an agreement with the United Automobile Workers." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1937-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The industrial unions form the independent Congress of Industrial Organizations." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1938"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Congress overrides President Truman's veto to pass the Taft-Hartley (Labor Management Relations) Act." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1947-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "About 800 women mill workers in Lowell, Massachusetts, walk out against a 12.5 percent wage cut." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1834-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20> <http://www.w3.org/2000/01/rdf-schema#label> "The AFL and CIO merge as the AFL-CIO under George Meany." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20> <https://github.com/john1hsu/usa-graph/ontology#date> "1955"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Luther King Jr. addresses the AFL-CIO convention and urges it to fight discrimination." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21> <https://github.com/john1hsu/usa-graph/ontology#date> "1961-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22> <http://www.w3.org/2000/01/rdf-schema#label> "More than 800 Filipino farmworkers in AWOC begin the Delano grape strike; César Chávez's NFWA votes to join on September 16." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22> <https://github.com/john1hsu/usa-graph/ontology#date> "1965-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23> <http://www.w3.org/2000/01/rdf-schema#label> "About 1,300 Black sanitation workers in AFSCME Local 1733 strike in Memphis for 65 days." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23> <https://github.com/john1hsu/usa-graph/ontology#date> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24> <http://www.w3.org/2000/01/rdf-schema#label> "The BLS counts 14.7 million union members, 10.0 percent of wage and salary workers." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24> <https://github.com/john1hsu/usa-graph/ontology#date> "2025"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Between 1,500 and 2,000 Lowell workers strike over higher board charges and form the Factory Girls' Association." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1836-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Commonwealth v. Hunt the Massachusetts Supreme Court holds that a union is not in itself a criminal conspiracy." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1842"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Skilled garment cutters in Philadelphia found the Knights of Labor." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1869"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "New York's Central Labor Union holds the first Labor Day parade." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1882-09-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "White miners who had met at a Knights of Labor hall kill 28 Chinese miners at Rock Springs, Wyoming Territory." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1885-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Workers strike nationwide for the eight-hour day, including more than 30,000 in Chicago." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1886-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "A bomb is thrown at police at a Haymarket Square protest in Chicago, killing an officer and setting off a backlash against labor." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1886-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Gompers and other craft-union leaders form the American Federation of Labor." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1886-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Movement> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2000/01/rdf-schema#label> "Labor movement" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "American labor movement" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "Labor movement in the United States" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "Organized labor" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#altLabel> "Union movement" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#definition> "The long effort by American wage earners to improve pay, hours and conditions by organizing unions, striking and seeking protective laws, from the mill-town turnouts of the 1830s through the Knights of Labor, the AFL and the CIO to the AFL-CIO and the public-sector unions of today." .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/economy-and-work> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#prefLabel> "Labor movement" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/afl-cio> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-federation-of-labor> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/brotherhood-of-sleeping-car-porters> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cesar-chavez> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/commonwealth-v-hunt> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/congress-of-industrial-organizations> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dolores-huerta> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/flint-sit-down-strike> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frances-perkins> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haymarket-affair> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/homestead-strike> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/knights-of-labor> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/larry-itliong> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pullman-strike> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/taft-hartley-act> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-farm-workers> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/income-inequality-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#domain> "economy-and-work" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/economy-and-work/labor-movement.md" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/samuel-gompers> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/international-workers-day> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/labor-day> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/industrial-revolution-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://schema.org/startDate> "1834-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/publisher> "National Labor Relations Board" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://purl.org/dc/terms/title> "1947 Taft-Hartley Passage and NLRB Structural Changes" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s10> <https://schema.org/url> <https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-passage-and-nlrb-structural-changes> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <http://purl.org/dc/terms/publisher> "Walter P. Reuther Library, Wayne State University" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <http://purl.org/dc/terms/title> "Subject Focus: Remembering the Flint Sit-Down" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s11> <https://schema.org/url> <https://reuther.wayne.edu/node/7092> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <http://purl.org/dc/terms/publisher> "Social Welfare History Project, Virginia Commonwealth University Libraries" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <http://purl.org/dc/terms/title> "AFL-CIO" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s12> <https://schema.org/url> <https://socialwelfare.library.vcu.edu/organizations/labor/afl-cio/> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <http://purl.org/dc/terms/publisher> "Martin Luther King, Jr. Research and Education Institute, Stanford University" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <http://purl.org/dc/terms/title> "American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s13> <https://schema.org/url> <https://kinginstitute.stanford.edu/american-federation-labor-and-congress-industrial-organizations-afl-cio> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <http://purl.org/dc/terms/title> "Workers United: The Delano Grape Strike and Boycott" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s14> <https://schema.org/url> <https://home.nps.gov/articles/000/workers-united-the-delano-grape-strike-and-boycott.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <http://purl.org/dc/terms/title> "Union Members — 2025 (news release, February 18, 2026)" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s15> <https://schema.org/url> <https://www.bls.gov/news.release/archives/union2_02182026.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <http://purl.org/dc/terms/title> "Unions and Inequality over the Twentieth Century: New Evidence from Survey Data (Farber, Herbst, Kuziemko and Naidu), NBER Working Paper 24587" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s16> <https://schema.org/url> <https://www.nber.org/papers/w24587.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <http://purl.org/dc/terms/title> "18.3 Building Industrial America on the Backs of Labor — U.S. History" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s1> <https://schema.org/url> <https://openstax.org/books/us-history/pages/18-3-building-industrial-america-on-the-backs-of-labor> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <http://purl.org/dc/terms/publisher> "National Park Service, Lowell National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <http://purl.org/dc/terms/title> "Early Strikes in Lowell" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s2> <https://schema.org/url> <https://www.nps.gov/articles/000/early-strikes-in-lowell.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <http://purl.org/dc/terms/title> "Commonwealth v. Hunt" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s3> <https://schema.org/url> <https://www.britannica.com/event/Commonwealth-v-Hunt> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <http://purl.org/dc/terms/publisher> "Economic History Association, EH.Net Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <http://purl.org/dc/terms/title> "Labor Unions in the United States (Gerald Friedman)" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s4> <https://schema.org/url> <https://eh.net/encyclopedia/labor-unions-in-the-united-states/> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <http://purl.org/dc/terms/publisher> "U.S. Department of Labor" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <http://purl.org/dc/terms/title> "History of Labor Day" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s5> <https://schema.org/url> <https://www.dol.gov/general/LaborDay/history> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <http://purl.org/dc/terms/publisher> "Smithsonian Institution, National Museum of American History" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <http://purl.org/dc/terms/title> "May Day: America's most traditional, radical, complicated holiday (Jordan Grant)" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s6> <https://schema.org/url> <https://torch.si.edu/2019/05/may-day-americas-most-traditional-radical-complicated-holiday> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <http://purl.org/dc/terms/publisher> "WyoHistory.org, Wyoming State Historical Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <http://purl.org/dc/terms/title> "The Rock Springs Massacre (Tom Rea)" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s7> <https://schema.org/url> <https://wyohistory.org/essays/rock-springs-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <http://purl.org/dc/terms/publisher> "National Park Service, Pullman National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <http://purl.org/dc/terms/title> "Pullman Porters" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s8> <https://schema.org/url> <https://www.nps.gov/pull/learn/historyculture/pullman-porters.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <http://purl.org/dc/terms/publisher> "National Labor Relations Board" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <http://purl.org/dc/terms/title> "1935 Passage of the Wagner Act" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/labor-movement/s9> <https://schema.org/url> <https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1935-passage-of-the-wagner-act> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/lattimer-massacre#graph> {
@@ -26123,6 +26422,9 @@
   <https://github.com/john1hsu/usa-graph/id/2020-united-states-census> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
   <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/442nd-regimental-combat-team> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/a-philip-randolph> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/abolitionism/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -26223,6 +26525,7 @@
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/afghanistan> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/afl-cio> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/african-american-history> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -26389,6 +26692,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
+  <https://github.com/john1hsu/usa-graph/id/american-federation-of-labor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/american-frontier> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/american-home-front-during-world-war-ii> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
@@ -26847,6 +27151,7 @@
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/boulder-city> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/winged-figures-of-the-republic> .
   <https://github.com/john1hsu/usa-graph/id/bracero-program> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/brotherhood-of-sleeping-car-porters> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/browder-v-gayle> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/brown-building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/brown-building> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
@@ -27040,6 +27345,7 @@
   <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/central-valley> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/cesar-chavez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/cesar-chavez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/chae-chan-ping-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/charles-cornwallis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27273,6 +27579,7 @@
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/montgomery-bus-boycott> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
@@ -27375,6 +27682,7 @@
   <https://github.com/john1hsu/usa-graph/id/commission-on-wartime-relocation-and-internment-of-civilians> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/committee-of-secret-correspondence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/common-sense> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/commonwealth-v-hunt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/communist-control-act-of-1954> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27397,6 +27705,7 @@
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/congo-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/congo-square> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/jazz> .
+  <https://github.com/john1hsu/usa-graph/id/congress-of-industrial-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/congress-of-racial-equality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27723,6 +28032,7 @@
   <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
   <https://github.com/john1hsu/usa-graph/id/dolley-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/dominican-customs-receivership> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/roosevelt-corollary> .
@@ -27858,6 +28168,7 @@
   <https://github.com/john1hsu/usa-graph/id/early-republic> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/eastern-shoshone-tribe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-depression> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
@@ -27865,6 +28176,7 @@
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/great-depression> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
+  <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
@@ -28116,6 +28428,7 @@
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/flint-sit-down-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/florida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/florida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/florida> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/apollo-11> .
@@ -28210,6 +28523,7 @@
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/frances-perkins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
@@ -28430,10 +28744,12 @@
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
+  <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/gilded-age> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
@@ -28543,6 +28859,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
@@ -28726,6 +29043,7 @@
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/great-surveys-of-the-west> .
   <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
+  <https://github.com/john1hsu/usa-graph/id/haymarket-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/health-care-and-education-reconciliation-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/health-care-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/health-care-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
@@ -28799,6 +29117,7 @@
   <https://github.com/john1hsu/usa-graph/id/homer-plessy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/homestead-act> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/homestead-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/honolulu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
@@ -28902,6 +29221,7 @@
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/in-god-we-trust> <https://github.com/john1hsu/usa-graph/ontology#confusedWith> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
+  <https://github.com/john1hsu/usa-graph/id/income-inequality-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/incorporation-of-the-bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/indentured-servitude> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -28963,7 +29283,9 @@
   <https://github.com/john1hsu/usa-graph/id/indian-self-determination-and-education-assistance-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
   <https://github.com/john1hsu/usa-graph/id/indian-territory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/industrial-revolution-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/international-ladies-garment-workers-union> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/international-workers-day> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/investigative-journalism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/investigative-journalism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -29300,12 +29622,14 @@
   <https://github.com/john1hsu/usa-graph/id/king-v-burwell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/kingdom-of-hawaii> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/kinzua-dam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
+  <https://github.com/john1hsu/usa-graph/id/knights-of-labor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/korean-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/korean-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/korematsu-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/ku-klux-klan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/kue-petitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/kumeyaay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/labor-day> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
@@ -29317,11 +29641,38 @@
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
-  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
-  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
-  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
-  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
@@ -29335,6 +29686,7 @@
   <https://github.com/john1hsu/usa-graph/id/lake-pontchartrain> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/land-grant-universities> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/larry-itliong> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/lattimer-massacre/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29636,6 +29988,7 @@
   <https://github.com/john1hsu/usa-graph/id/mccarthyism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/mccarthyism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/mccarthyism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+  <https://github.com/john1hsu/usa-graph/id/mccarthyism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/mccarthyism> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
   <https://github.com/john1hsu/usa-graph/id/mccarthyism> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/mcclures-magazine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
@@ -29669,6 +30022,7 @@
   <https://github.com/john1hsu/usa-graph/id/medicaid> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/medicaid> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/medicare> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
+  <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/memphis-sanitation-strike> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mexican-american-war/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29742,6 +30096,7 @@
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -29953,6 +30308,7 @@
   <https://github.com/john1hsu/usa-graph/id/national-grasslands> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/national-guard-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/national-industrial-recovery-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
+  <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/national-labor-relations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-deal> .
   <https://github.com/john1hsu/usa-graph/id/national-park-protection-act-of-1894> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
   <https://github.com/john1hsu/usa-graph/id/national-park-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
@@ -30114,6 +30470,7 @@
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/economic-history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+  <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
   <https://github.com/john1hsu/usa-graph/id/new-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
@@ -30581,6 +30938,7 @@
   <https://github.com/john1hsu/usa-graph/id/pueblo-grande-de-nevada> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/puerto-rico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/pullman-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/pullman-strike> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/pure-food-and-drug-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/quakers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
@@ -30719,6 +31077,7 @@
   <https://github.com/john1hsu/usa-graph/id/robert-r-livingston> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/rock-and-roll> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/rock-springs-massacre> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/rocky-mountains> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/rocky-mountains> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park> .
@@ -30760,6 +31119,9 @@
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/samuel-chase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-gompers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-gompers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-gompers> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/samuel-hood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/samuel-hopkins-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/samuel-morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -31249,6 +31611,7 @@
   <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/susquehanna-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/taft-hartley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/taliban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/tang-poetry> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/tax-cuts-and-jobs-act-of-2017> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
@@ -31754,6 +32117,7 @@
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-farm-workers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
+  <https://github.com/john1hsu/usa-graph/id/united-farm-workers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
   <https://github.com/john1hsu/usa-graph/id/united-mine-workers-of-america> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/united-nations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/united-states-code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .

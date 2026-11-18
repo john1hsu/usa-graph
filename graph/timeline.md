@@ -569,6 +569,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1834 | Fur traders William Sublette and Robert Campbell found the trading post that becomes Fort Laramie. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1834 | Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians. — [California](../articles/states-and-territories/california.md) |
+| 1834-02 | **[Labor movement](../articles/economy-and-work/labor-movement.md)** (Movement) |
+| 1834-02 | About 800 women mill workers in Lowell, Massachusetts, walk out against a 12.5 percent wage cut. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1834-03-28 | The Senate censures him, 26 to 20, over the removal of federal deposits from the Bank. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
@@ -582,6 +584,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836-05-04 | Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1836-06-28 | Dies at Montpelier, holding about 100 people in slavery and freeing none in his will. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
+| 1836-10 | Between 1,500 and 2,000 Lowell workers strike over higher board charges and form the Factory Girls' Association. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1837 | **[Chicago](../articles/regions-cities-and-landmarks/chicago.md)** (City) |
 | 1837 | A mob in Illinois kills the abolitionist editor Elijah Lovejoy. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1837 | Illinois grants Chicago its first city charter, with six wards and a mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
@@ -606,6 +609,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1841 | A new steel die with only six arrows and five-pointed stars departs from the law and is later called the illegal seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1841 | Hired as a lecturer by the Massachusetts Anti-Slavery Society. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1841-04 | John Tyler becomes the first vice president to succeed a president who died in office and claims the office's full powers. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
+| 1842 | In Commonwealth v. Hunt the Massachusetts Supreme Court holds that a union is not in itself a criminal conspiracy. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1842 | Prigg v. Pennsylvania upholds the 1793 law but frees state officials from enforcing it; the phrase underground railroad appears in the New York Spectator. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1843 | Congress appropriates $30,000 for an experimental line of about 40 miles from Washington to Baltimore. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1843 | Large-scale wagon migration west begins; emigrants cross the Continental Divide at South Pass. — [Wyoming](../articles/states-and-territories/wyoming.md) |
@@ -847,6 +851,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-28 | The Fourteenth Amendment is certified as ratified by 28 of 37 states. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1869 | Congress cuts most of the bureau's funding; offices close but educational work continues for a time. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1869 | Sarah Bradford publishes the first biography of Tubman; Tubman marries Civil War veteran Nelson Davis in Auburn. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
+| 1869 | Skilled garment cutters in Philadelphia found the Knights of Labor. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1869 | The Central Pacific and Union Pacific railroads meet in Utah, completing the first transcontinental line. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1869 | The movement splits over the Fifteenth Amendment into the National and American Woman Suffrage Associations; Wyoming Territory enfranchises women. — [Women's suffrage movement](../articles/gilded-age-and-progressive-era/womens-suffrage-movement.md) |
 | 1869 | With Stanton, forms the National Woman Suffrage Association after the movement splits over the Fifteenth Amendment. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -969,6 +974,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1882-05-06 – 1943 | **[Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md)** (Law) |
 | 1882-05-06 | Arthur approves a revised act suspending Chinese labor immigration for ten years and barring Chinese naturalization. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1882-05-06 | President Chester A. Arthur signs the Chinese Exclusion Act, barring Chinese laborers for ten years. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1882-09-05 | New York's Central Labor Union holds the first Labor Day parade. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1883 | Buffalo Bill Cody's Wild West show begins touring, spreading a romantic image of the West. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1883 | Congress passes the Pendleton Civil Service Act, two years after President James Garfield's assassination. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1883 | In the Civil Rights Cases the Supreme Court strikes down key parts of the Civil Rights Act of 1875. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -981,10 +987,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1885-08-10 | James Marshall dies at 75 after decades of setbacks, having once been stranded penniless. — [California Gold Rush](../articles/early-republic-and-expansion/california-gold-rush.md) |
 | 1885-09-02 | White miners in Rock Springs kill 28 Chinese coal miners and wound 15. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1885-09-02 | White miners kill 28 Chinese miners and burn the Chinatown of Rock Springs, Wyoming Territory. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
+| 1885-09-02 | White miners who had met at a Knights of Labor hall kill 28 Chinese miners at Rock Springs, Wyoming Territory. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1886 | United States v. Kagama upholds federal criminal laws on reservations as a power to protect dependent peoples. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1886 | Yick Wo v. Hopkins applies equal protection beyond race to discriminatory enforcement of an ordinance. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1886-05 | A bomb at a labor rally in Chicago's Haymarket Square kills seven policemen; four anarchists are later hanged. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
+| 1886-05-01 | Workers strike nationwide for the eight-hour day, including more than 30,000 in Chicago. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1886-05-04 | A bomb is thrown at police at a Haymarket Square protest in Chicago, killing an officer and setting off a backlash against labor. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1886-08-20 | The U.S. Army takes charge of the park after Congress declines to fund its civilian administration. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1886-12 | Samuel Gompers and other craft-union leaders form the American Federation of Labor. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1887 | The General Allotment (Dawes) Act breaks up tribal lands into individual allotments and opens land west of the Mississippi to non-Indian settlers. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1887 | The Hatch Act funds agricultural experiment stations at the land-grant colleges. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1887 | White landowners and businessmen force King Kalākaua to sign a constitution that strips him of power. — [Hawaii](../articles/states-and-territories/hawaii.md) |
@@ -1019,6 +1029,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1892-02-24 | Daniel Desdunes boards a whites-only car on an interstate train in a first test case. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-05-25 | In Abbott v. Hicks the Louisiana Supreme Court rules that the act does not apply to interstate passengers. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-06-07 | Homer Plessy is arrested after sitting in the whites-only coach of an East Louisiana Railroad train to Covington. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1892-07-06 | A gunfight between strikers and Pinkerton guards at Carnegie Steel's Homestead works leaves three Pinkertons and six workers dead. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1892-11-18 | Judge John Howard Ferguson of the Orleans Parish Criminal Court rules against Plessy. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1892-12 | The Louisiana Supreme Court upholds Ferguson's ruling. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1893 | Charles Weisgerber's painting of the scene draws crowds at the World's Columbian Exposition and is widely reproduced. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -1031,6 +1042,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1894 | After soldiers arrest the bison poacher Ed Howell, Congress passes the National Park Protection Act (Lacey Act) banning hunting in the park. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1894 | Federal troops break the Pullman sympathy strike led by the American Railway Union, and Eugene Debs is jailed. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1894-05-11 | Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1894-05-11 | The Pullman strike begins; the American Railway Union boycott spreads nationwide until federal troops break it in July. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
+| 1894-06-28 | Congress makes the first Monday in September a national Labor Day holiday. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1895 | In United States v. E. C. Knight the Supreme Court holds that the national government cannot regulate manufacturing, a hallmark of dual federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
@@ -1237,6 +1250,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1924 | Ma Rainey records "See See Rider Blues" with Louis Armstrong and Fletcher Henderson. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1924-06-02 | The Indian Citizenship Act makes Native Americans born in the United States citizens; about 40 percent had not been citizens before. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1924-06-24 | The Indian Citizenship Act makes Native Americans U.S. citizens. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
+| 1925 | A. Philip Randolph and Pullman porters found the Brotherhood of Sleeping Car Porters in New York City. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1925 | Armstrong's Hot Five and Hot Seven recordings (1925–1928) begin shifting jazz toward the improvising soloist. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1925-01-05 | Nellie Tayloe Ross takes office as the first elected woman governor in the United States. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1926 | U.S. Marines return to Nicaragua amid renewed fighting, a year after an earlier deployment ended. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
@@ -1320,6 +1334,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935 | Congress passes the Social Security Act, the Wagner Act and the relief appropriation that funds the Works Progress Administration. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill design showing both sides of the Great Seal, putting the motto on the back of the note. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1935 | Franklin D. Roosevelt approves a one-dollar bill showing both sides of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
+| 1935 | John L. Lewis and allied unions form the Committee for Industrial Organization inside the AFL. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1935 | The Court moves into its own building in its 146th year. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1935 | The migration to California begins in earnest; that summer economist Paul Taylor reports on white migrant families in the farm districts. — [Okies](../articles/society-and-people/okies.md) |
 | 1935-02-01 | The dam begins impounding water in Lake Mead. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1329,6 +1344,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1935-05 | In the Schechter case the Supreme Court strikes down the National Industrial Recovery Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1935-05-29 | The last concrete is placed. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1935-06 | Roosevelt sends Congress a list of must-pass bills, opening the Second New Deal; that summer Congress passes the Wagner Act and the Social Security Act. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1935-07-05 | President Franklin D. Roosevelt signs the National Labor Relations (Wagner) Act. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1935-08-14 | Signs the Social Security Act. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam, then called Boulder Dam; Hansen's star map later records the sky at this moment. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1935-09-30 | President Franklin D. Roosevelt dedicates the dam. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
@@ -1339,6 +1355,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1936-09-06 | In a fireside chat Roosevelt reports on his tour of nine drought states and outlines work relief and land-use plans. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1936-10-26 | The first generating unit, N-2, goes into full operation. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1936-12-03 | The Buenos Aires peace conference opens with Roosevelt in attendance; the United States accepts its non-intervention protocol without reservation. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
+| 1936-12-30 | Auto workers sit down inside General Motors' Fisher Body plant in Flint, Michigan. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1937 | After federal spending cuts, a sharp recession pushes unemployment up again and cuts industrial production by about a third. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1937 | In February Roosevelt asks Congress to add up to six justices to the Supreme Court; the plan fails, but the Court begins upholding New Deal laws. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
 | 1937 | Migration peaks in 1937 and 1938; up to 37,000 migrants reach Arizona's cotton fields. — [Okies](../articles/society-and-people/okies.md) |
@@ -1347,6 +1364,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937 | West Coast Hotel Co. v. Parrish repudiates the Lochner approach to economic regulation. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1937-02-05 | Asks Congress to add justices to the Supreme Court; the plan is shelved in July. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1937-02-05 | President Franklin D. Roosevelt asks Congress for up to six additional justices. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
+| 1937-02-11 | After 44 days General Motors reaches an agreement with the United Automobile Workers. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1937-03-29 | In West Coast Hotel Co. v. Parrish the Court upholds Washington's minimum wage law and overrules Adkins. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1937-03-29 | The Court upholds a Washington State minimum-wage law for women in West Coast Hotel v. Parrish. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1937-05-24 | Franklin D. Roosevelt sends a wages-and-hours bill to Congress. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1355,6 +1373,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1937-08-04 | The first soil conservation district is organized, in North Carolina's Brown Creek watershed. — [Dust Bowl](../articles/depression-and-world-war/dust-bowl.md) |
 | 1938 | The Fair Labor Standards Act sets a federal minimum wage and a 40-hour week, the last major New Deal law. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1938 | The Fair Labor Standards Act sets a minimum wage and a 40-hour week, the last major New Deal law. — [New Deal](../articles/depression-and-world-war/new-deal.md) |
+| 1938 | The industrial unions form the independent Congress of Industrial Organizations. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1938 | The monument plaza on the Nevada side is completed. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1938-03-18 | Mexican President Lázaro Cárdenas expropriates nearly all foreign oil companies' assets in Mexico. — [Good Neighbor Policy](../articles/foreign-relations-and-military/good-neighbor-policy.md) |
 | 1938-04-15 | A Reclamation photograph shows Hansen checking fabrication of the Circle of Precession for the terrazzo star map. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -1476,6 +1495,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1947-03-12 | President Truman asks Congress for $400 million in aid to Greece and Turkey, announcing the Truman Doctrine. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1947-03-21 | Executive Order 9835 creates a loyalty program for federal employees, launching the domestic Red Scare. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1947-06 | Congress overrides President Truman's veto to pass the Taft-Hartley (Labor Management Relations) Act. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1948 | Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -1538,6 +1558,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1954-11-23 | The Dow finally regains its 1929 high. — [Stock market crash of 1929](../articles/economy-and-work/stock-market-crash-of-1929.md) |
 | 1954-12-02 | The Senate votes 67 to 22 to censure McCarthy. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1955 | Receives a doctorate in systematic theology from Boston University. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
+| 1955 | The AFL and CIO merge as the AFL-CIO under George Meany. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1955 | The Veterans Administration has guaranteed 4.3 million home loans with a face value of $33 billion. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1955 | West Germany joins; the Soviet Union answers with its own alliance of Eastern European states, the Warsaw Pact. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1955-03-02 | Fifteen-year-old Claudette Colvin is removed from a Montgomery bus and arrested for defying segregation. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
@@ -1603,6 +1624,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1961-09 | Congress honors Samuel Wilson of Troy, New York, as the progenitor of Uncle Sam. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1961-09-03 | Amendments extending coverage to large retail and service enterprises take effect. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1961-12-01 | The final original generating unit, N-8, goes online. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1961-12-11 | Martin Luther King Jr. addresses the AFL-CIO convention and urges it to fight discrimination. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1962 | California passes New York as the most populous state. — [California](../articles/states-and-territories/california.md) |
 | 1962 | In Baker v. Carr the Supreme Court holds that challenges to legislative apportionment can be heard by federal courts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1962 | John F. Kennedy invokes the doctrine during the Cuban Missile Crisis and imposes a quarantine on Cuba with OAS support. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
@@ -1647,6 +1669,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965-08-06 | Johnson signs the Voting Rights Act at the Capitol, a day after Congress completed final passage. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-08-06 | Johnson signs the Voting Rights Act of 1965. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1965-08-06 | President Johnson signs the Voting Rights Act. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1965-09-08 | More than 800 Filipino farmworkers in AWOC begin the Delano grape strike; César Chávez's NFWA votes to join on September 16. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1966 | César Chávez and Dolores Huerta found the United Farm Workers to organize mostly Mexican American farmworkers. — [California](../articles/states-and-territories/california.md) |
 | 1966 | Harper v. Virginia State Board of Elections holds Virginia's poll tax unconstitutional. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1966 | In South Carolina v. Katzenbach the Supreme Court upholds the Act's constitutionality. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1662,6 +1685,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1967-10-02 | Thurgood Marshall is sworn in as the first African American justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1967-11 | Announces the Poor People's Campaign. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1968 | About 1,300 Black sanitation workers in AFSCME Local 1733 strike in Memphis for 65 days. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 1968 | Avery v. Midland County extends the equal-population rule to elected local governments. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1968 | Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1968 | Pigmeat Markham's comic, funk-based "Here Comes the Judge" anticipates later rap boasting. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
@@ -1951,6 +1975,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2024-03-07 | Sweden becomes the 32nd member. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 2025 | The BLS counts 14.7 million union members, 10.0 percent of wage and salary workers. — [Labor movement](../articles/economy-and-work/labor-movement.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2025-12-02 | The Chesapeake Executive Council approves a revised agreement setting most goals for 2040 after regional 2025 targets are missed. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2026-04-03 | The Interior Department announces plans to merge BOEM and BSEE into a Marine Minerals Administration. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |

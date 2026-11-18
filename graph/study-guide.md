@@ -1037,6 +1037,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** What lessons did workers and employers each draw from the strike?
   **A:** Many workers concluded they needed lasting, organized unions, while businesses concluded they needed more political influence and government help, including better-prepared state forces to deal with future labor unrest.
 
+### [Labor movement](../articles/economy-and-work/labor-movement.md) — Movement
+
+| Myth | Fact |
+|---|---|
+| May Day, the international workers' holiday on May 1, is a foreign or Soviet tradition with no American roots. | May Day grew out of an American campaign; unions chose May 1, 1886, for a national strike for the eight-hour day, and an international socialist congress in 1889 adopted the date for worldwide demonstrations beginning in 1890. |
+
+**Why it matters:** Because the Haymarket bombing tied May 1 to anarchists and later Cold War images tied it to Moscow, more conservative American unions dropped it for a September Labor Day, and its U.S. origin was largely forgotten.
+
+- **Q:** How did the Knights of Labor and the American Federation of Labor differ in whom they organized?
+  **A:** The Knights aimed at "One Big Union" open to nearly all wage workers, including women, African Americans and immigrants of every skill level, while the AFL federated autonomous craft unions of skilled workers, concentrated on wages and conditions, and left most factory workers unorganized.
+- **Q:** Why did union membership grow so fast in the 1930s?
+  **A:** The Wagner Act of 1935 guaranteed workers the right to form unions, required employers to bargain with a majority union and created the NLRB to enforce it, while the CIO organized whole mass-production industries and won breakthroughs such as the 1936–37 Flint sit-down strike against General Motors.
+- **Q:** What explanations do scholars give for the decline of union membership after the mid-twentieth century?
+  **A:** Some stress structural change, such as international competition, unemployment and industry moving to the nonunion South; others stress employer opposition, including a sharp rise in unfair labor practice violations in the 1970s, and weak legal protection under the Wagner Act as narrowed by Taft-Hartley.
+
 ### [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) — Event
 
 | Myth | Fact |

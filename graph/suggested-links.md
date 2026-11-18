@@ -5,6 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 4.48 | `us:james-madison` | `us:united-states-constitution` | `us:articles-of-confederation`, `us:bill-of-rights`, `us:constitutional-convention`, `us:electoral-college`, `us:federalism` |
+| 4.33 | `us:california` | `us:labor-movement` | `us:cesar-chavez`, `us:dolores-huerta`, `us:united-farm-workers` |
 | 3.72 | `us:james-madison` | `us:john-marshall` | `us:american-colonization-society`, `us:federalism`, `us:house-of-representatives`, `us:marbury-v-madison`, `us:mcculloch-v-maryland` |
 | 3.68 | `us:abolitionism` | `us:pennsylvania` | `us:benjamin-franklin`, `us:harriet-tubman`, `us:liberty-bell`, `us:pennsylvania-gradual-abolition-act`, `us:quakers` |
 | 3.49 | `us:andrew-jackson` | `us:james-madison` | `us:mcculloch-v-maryland`, `us:nullification-crisis`, `us:presidency-of-the-united-states`, `us:presidents-of-the-united-states`, `us:second-bank-of-the-united-states` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.50 | `us:mexican-american-war` | `us:missouri-compromise` | `us:american-civil-war`, `us:california-gold-rush`, `us:compromise-of-1850`, `us:slavery-in-the-united-states`, `us:territorial-expansion-of-the-united-states` |
 | 2.48 | `us:native-americans` | `us:united-states-congress` | `us:census-and-apportionment`, `us:covid-19-pandemic-in-the-united-states`, `us:dawes-act`, `us:hayden-geological-survey-of-1871`, `us:indian-removal-act` |
 | 2.46 | `us:presidency-of-the-united-states` | `us:slavery-in-the-united-states` | `us:abraham-lincoln`, `us:andrew-jackson`, `us:constitutional-convention`, `us:electoral-college`, `us:george-washington` |
-| 2.45 | `us:brown-v-board-of-education` | `us:reynolds-v-sims` | `us:earl-warren`, `us:equal-protection`, `us:fourteenth-amendment`, `us:supreme-court-of-the-united-states` |
