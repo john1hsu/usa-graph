@@ -88,6 +88,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1737-09-19 | The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1750 | Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1751 | Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1751-03-16 – 1836-06-28 | **[James Madison](../articles/presidents-and-founders/james-madison.md)** (Person) |
 | 1751-03-16 | Born at Port Conway, Virginia, on the Rappahannock River. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
@@ -736,6 +737,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862-03 | The ironclads CSS Virginia and USS Monitor fight to a draw near Hampton Roads. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1862-04 | Congress abolishes slavery in the District of Columbia. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-06 | Congress bans slavery in all western territories, undoing the decision's holding on territorial slavery. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1862-06 | Laura Towne and Ellen Murray open the Penn School on St. Helena Island, South Carolina, for formerly enslaved Sea Islanders. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1862-07-02 | **[Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md)** (Law) |
 | 1862-07-02 | Lincoln signs the Morrill Act; states in rebellion are excluded from its grants. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1862-09-17 | The Battle of Antietam, the bloodiest single day in American history, gives Lincoln the victory he awaited to announce emancipation. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -788,6 +790,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1865 | The end of the Civil War closes the era of escape from slavery in the United States. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1865 | The federal government establishes the Colorado River Reservation for the Mohave and Chemehuevi peoples. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1865-01 | General William T. Sherman's Special Field Order No. 15 sets aside abandoned coastal land for freedpeople. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
+| 1865-01-16 | Sherman's Special Field Order No. 15 sets aside the Sea Islands and a coastal strip from Charleston to the St. Johns River for Black families in forty-acre plots. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1865-01-31 | Congress passes the Thirteenth Amendment abolishing slavery; it is ratified by the end of the year. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
 | 1865-01-31 | The House passes the Thirteenth Amendment, 119 to 56, after the Senate had passed it in April 1864. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1865-01-31 | The House passes the amendment, 119 to 56, after earlier votes fell short. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
@@ -1474,6 +1477,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1948-08-03 | Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
+| 1949 | Lorenzo Dow Turner publishes Africanisms in the Gullah Dialect, documenting thousands of African-derived words and names. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1949 | President Harry Truman signs legislation designating June 14 as national Flag Day. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 1949-04 | The United States, Canada and Western European states form NATO, pledging mutual defense. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1949-04-04 | **[North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md)** (Organization) |
@@ -1495,6 +1499,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1951-04-23 | Students led by 16-year-old Barbara Rose Johns walk out of the overcrowded Robert Russa Moton High School in Farmville, Virginia. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1951-05-23 | NAACP lawyers file Davis v. County School Board of Prince Edward County, later joined to Brown. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1952 | Greece and Turkey join the alliance. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1952 | The Penn School graduates its last class. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1952 | The Veterans Readjustment Assistance Act extends education and training benefits to Korean War veterans. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1952-12-09 | The Supreme Court hears the first arguments in the consolidated school cases. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1953 | Congress passes the Outer Continental Shelf Lands Act, affirming federal jurisdiction over offshore mineral resources and putting Interior in charge of leasing. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
@@ -1758,6 +1763,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1995-04-26 | United States v. Lopez strikes down the Gun-Free School Zones Act of 1990 as beyond the Commerce Clause, 5 to 4. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1995-07 | The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 1997 | Mary Moran meets Bendu Jabati of Sierra Leone, linked by a song Turner recorded in the 1930s. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 1997 | The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1997 | The immigration station is designated a National Historic Landmark. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1997 | The site is designated a National Historic Landmark. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1810,6 +1816,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2006 | Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
+| 2006-10-12 | The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
 | 2007-09-03 | Panama breaks ground on its own Third Set of Locks Project, reusing the Atlantic-side excavations. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 2009 | In Northwest Austin the Court lets a Texas utility district seek bailout and avoids the constitutional question while voicing serious doubts about the Act. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2009-07-24 | The federal minimum rises to $7.25 an hour, its rate since. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |

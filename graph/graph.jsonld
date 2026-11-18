@@ -8846,6 +8846,103 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived \"basket names\" given to children.",
+   "uso:myth": "Gullah is simply broken or old-fashioned English.",
+   "uso:why": "Earlier white scholars such as Guy B. Johnson dismissed it as the \"peasant English\" of an earlier century, and the name Geechee itself was long used as an insult."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Gullah Geechee communities preserve more African language and custom than most other African American communities?",
+   "uso:answer": "Their ancestors were concentrated in large numbers on coastal rice, indigo and Sea Island cotton plantations and on islands that could be reached only by boat until bridges were built from the early 1950s, so that isolation let them keep and recombine West and Central African traditions.",
+   "uso:questionFor": {
+    "@id": "us:gullah-geechee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Civil War and Reconstruction both open and close a path to landownership for Sea Islanders?",
+   "uso:answer": "After Union forces occupied the area, the Port Royal Experiment brought schools such as Penn School and sold some land to freedpeople, and Sherman's Field Order No. 15 settled about 40,000 people on forty-acre plots; but in the fall of 1865 President Johnson returned most of that land to the former planters.",
+   "uso:questionFor": {
+    "@id": "us:gullah-geechee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is rice central to the Gullah Geechee story?",
+   "uso:answer": "Planters sought captives from Africa's Windward or \"Rice Coast\", from Senegambia to Liberia, for their rice-growing knowledge, and crafts such as the fanner basket used to winnow rice survive in today's sweetgrass baskets.",
+   "uso:questionFor": {
+    "@id": "us:gullah-geechee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1750"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Laura Towne and Ellen Murray open the Penn School on St. Helena Island, South Carolina, for formerly enslaved Sea Islanders.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1862-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sherman's Special Field Order No. 15 sets aside the Sea Islands and a coastal strip from Charleston to the St. Johns River for Black families in forty-acre plots.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1865-01-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Lorenzo Dow Turner publishes Africanisms in the Gullah Dialect, documenting thousands of African-derived words and names.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1949"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Penn School graduates its last class.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1952"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Mary Moran meets Bendu Jabati of Sierra Leone, linked by a song Turner recorded in the 1930s.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1997"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2006-10-12"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/harriet-tubman/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Records and her own accounts show about 13 trips, all to Maryland's Eastern Shore, freeing about 70 people, while she gave directions to about 70 more who escaped on their own. The only documented reward was $100 each for her and two brothers in 1849, offered by slaveholders who did not know she was Tubman.",
@@ -24987,6 +25084,90 @@
     "@id": "https://www.marketplace.org/2014/03/03/creepy-eye-back-dollar-bill-explained/"
    },
    "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "North Carolina, South Carolina, Georgia, Florida: Gullah Geechee Cultural Heritage Corridor",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/gullahgeechee.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "History & Culture — Gullah Geechee Cultural Heritage Corridor",
+   "schema:url": {
+    "@id": "https://www.nps.gov/guge/historyculture/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia, Georgia Humanities (Althea Sumpter)",
+   "dcterms:title": "Geechee and Gullah Culture",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/arts-culture/geechee-and-gullah-culture/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Chicago Magazine",
+   "dcterms:title": "Lorenzo Dow Turner, PhD'26",
+   "schema:url": {
+    "@id": "https://magazine.uchicago.edu/1012/features/legacy.shtml"
+   },
+   "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Reconstruction Era National Historical Park",
+   "dcterms:title": "Education During the Port Royal Experiment",
+   "schema:url": {
+    "@id": "https://home.nps.gov/articles/000/education-during-the-port-royal-experiment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia, Georgia Humanities (Barton Myers)",
+   "dcterms:title": "Sherman's Field Order No. 15",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/history-archaeology/shermans-field-order-no-15/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/harriet-tubman/s1",
@@ -49532,6 +49713,125 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:gullah-geechee",
+   "@type": "uso:Community",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6"
+    }
+   ],
+   "rdfs:label": "Gullah Geechee",
+   "skos:altLabel": [
+    "Geechee people",
+    "Gullah Geechee people",
+    "Gullah people",
+    "Gullah/Geechee"
+   ],
+   "skos:broader": {
+    "@id": "us:african-americans"
+   },
+   "skos:definition": "The African American people of the lower Atlantic coast and Sea Islands, from North Carolina to northeast Florida, descended from West and Central Africans enslaved on rice, indigo and Sea Island cotton plantations, whose relative isolation preserved a distinctive creole language and many African-rooted traditions.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/society-and-people"
+   },
+   "skos:prefLabel": "Gullah Geechee",
+   "skos:related": [
+    {
+     "@id": "us:fort-mose"
+    },
+    {
+     "@id": "us:freedmens-bureau"
+    },
+    {
+     "@id": "us:gullah-geechee-cultural-heritage-corridor"
+    },
+    {
+     "@id": "us:gullah-language"
+    },
+    {
+     "@id": "us:lorenzo-dow-turner"
+    },
+    {
+     "@id": "us:port-royal-experiment"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:ring-shout"
+    },
+    {
+     "@id": "us:special-field-order-no-15"
+    }
+   ],
+   "uso:domain": "society-and-people",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/society-and-people/gullah-geechee.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": [
+    {
+     "@id": "us:georgia"
+    },
+    {
+     "@id": "us:south-carolina"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception"
+   },
+   "uso:originatedIn": {
+    "@id": "us:sea-islands"
+   },
+   "uso:participatedIn": {
+    "@id": "us:port-royal-experiment"
+   },
+   "uso:requires": {
+    "@id": "us:slavery-in-the-united-states"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7"
     }
    ]
   },

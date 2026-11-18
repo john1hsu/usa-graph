@@ -1549,6 +1549,15 @@
 <https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s6> .
 <https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s7> .
 <https://github.com/john1hsu/usa-graph/id/chinese-americans#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/gullah-geechee.md" .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> .
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/okies> .
 <https://github.com/john1hsu/usa-graph/id/okies#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/society-and-people/okies.md" .
@@ -23474,6 +23483,125 @@
   <https://github.com/john1hsu/usa-graph/id/source/chinese-americans/s8> <https://schema.org/url> <https://exhibits.lib.usu.edu/exhibits/show/transcontinentalrailroad/building/weddingoftherails> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/gullah-geechee#graph> {
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived \"basket names\" given to children." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Gullah is simply broken or old-fashioned English." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Earlier white scholars such as Guy B. Johnson dismissed it as the \"peasant English\" of an earlier century, and the name Geechee itself was long used as an insult." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Gullah Geechee communities preserve more African language and custom than most other African American communities?" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Their ancestors were concentrated in large numbers on coastal rice, indigo and Sea Island cotton plantations and on islands that could be reached only by boat until bridges were built from the early 1950s, so that isolation let them keep and recombine West and Central African traditions." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Civil War and Reconstruction both open and close a path to landownership for Sea Islanders?" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Union forces occupied the area, the Port Royal Experiment brought schools such as Penn School and sold some land to freedpeople, and Sherman's Field Order No. 15 settled about 40,000 people on forty-acre plots; but in the fall of 1865 President Johnson returned most of that land to the former planters." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is rice central to the Gullah Geechee story?" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "Planters sought captives from Africa's Windward or \"Rice Coast\", from Senegambia to Liberia, for their rice-growing knowledge, and crafts such as the fanner basket used to winnow rice survive in today's sweetgrass baskets." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1750"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Laura Towne and Ellen Murray open the Penn School on St. Helena Island, South Carolina, for formerly enslaved Sea Islanders." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1862-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Sherman's Special Field Order No. 15 sets aside the Sea Islands and a coastal strip from Charleston to the St. Johns River for Black families in forty-acre plots." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1865-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Lorenzo Dow Turner publishes Africanisms in the Gullah Dialect, documenting thousands of African-derived words and names." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1949"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "The Penn School graduates its last class." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Moran meets Bendu Jabati of Sierra Leone, linked by a song Turner recorded in the 1930s." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "2006-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Community> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2000/01/rdf-schema#label> "Gullah Geechee" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#altLabel> "Geechee people" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#altLabel> "Gullah Geechee people" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#altLabel> "Gullah people" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#altLabel> "Gullah/Geechee" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#definition> "The African American people of the lower Atlantic coast and Sea Islands, from North Carolina to northeast Florida, descended from West and Central Africans enslaved on rice, indigo and Sea Island cotton plantations, whose relative isolation preserved a distinctive creole language and many African-rooted traditions." .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/society-and-people> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gullah Geechee" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fort-mose> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee-cultural-heritage-corridor> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-language> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lorenzo-dow-turner> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ring-shout> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#domain> "society-and-people" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/society-and-people/gullah-geechee.md" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/georgia> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/south-carolina> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#originatedIn> <https://github.com/john1hsu/usa-graph/id/sea-islands> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://purl.org/dc/terms/title> "North Carolina, South Carolina, Georgia, Florida: Gullah Geechee Cultural Heritage Corridor" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s1> <https://schema.org/url> <https://home.nps.gov/articles/gullahgeechee.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <http://purl.org/dc/terms/title> "History & Culture — Gullah Geechee Cultural Heritage Corridor" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s2> <https://schema.org/url> <https://www.nps.gov/guge/historyculture/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <http://purl.org/dc/terms/publisher> "New Georgia Encyclopedia, Georgia Humanities (Althea Sumpter)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <http://purl.org/dc/terms/title> "Geechee and Gullah Culture" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s3> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/arts-culture/geechee-and-gullah-culture/> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <http://purl.org/dc/terms/publisher> "University of Chicago Magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <http://purl.org/dc/terms/title> "Lorenzo Dow Turner, PhD'26" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s4> <https://schema.org/url> <https://magazine.uchicago.edu/1012/features/legacy.shtml> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <http://purl.org/dc/terms/publisher> "National Park Service, Reconstruction Era National Historical Park" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <http://purl.org/dc/terms/title> "Education During the Port Royal Experiment" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s5> <https://schema.org/url> <https://home.nps.gov/articles/000/education-during-the-port-royal-experiment.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <http://purl.org/dc/terms/publisher> "New Georgia Encyclopedia, Georgia Humanities (Barton Myers)" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <http://purl.org/dc/terms/title> "Sherman's Field Order No. 15" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/gullah-geechee/s6> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/history-archaeology/shermans-field-order-no-15/> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/okies#graph> {
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/okies/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "At least half of the migrants had lived in towns or cities and worked blue-collar or white-collar jobs, and many went to California's cities, where they usually found work fairly quickly; at the Barstow junction about 38 percent headed for Los Angeles, while others went to the farm valleys." .
@@ -25984,6 +26112,8 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
@@ -27836,6 +27966,7 @@
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/fort-mchenry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/fort-mose> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/founders-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -28013,6 +28144,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/history-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Concept> .
   <https://github.com/john1hsu/usa-graph/id/freedom-from-slavery-and-involuntary-servitude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28100,6 +28232,9 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
+  <https://github.com/john1hsu/usa-graph/id/georgia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/georgia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/georgia> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/german-coast-uprising> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/gerrymandering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/gerrymandering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
@@ -28278,6 +28413,22 @@
   <https://github.com/john1hsu/usa-graph/id/gulf-of-mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/gulf-of-mexico> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/gulf-of-mexico> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee-cultural-heritage-corridor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-geechee> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/gullah-language> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/haitian-revolution> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/hal-walker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lunar-laser-ranging-experiment> .
   <https://github.com/john1hsu/usa-graph/id/harold-ickes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
@@ -29095,6 +29246,7 @@
   <https://github.com/john1hsu/usa-graph/id/little-rock> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/lochner-v-new-york> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/lone-wolf-v-hitchcock> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
+  <https://github.com/john1hsu/usa-graph/id/lorenzo-dow-turner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/los-angeles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/los-angeles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/lost-cause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
@@ -30174,6 +30326,8 @@
   <https://github.com/john1hsu/usa-graph/id/poor-richards-almanack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/populist-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
+  <https://github.com/john1hsu/usa-graph/id/port-royal-experiment> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/post-cold-war-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
   <https://github.com/john1hsu/usa-graph/id/potawatomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/potomac-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
@@ -30260,6 +30414,7 @@
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .
+  <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
@@ -30320,6 +30475,7 @@
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
+  <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/reconstruction-era> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
@@ -30380,6 +30536,7 @@
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/right-to-vote> <https://github.com/john1hsu/usa-graph/ontology#protectedBy> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/ring-shout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/robert-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/robert-r-livingston> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/rock-and-roll> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/blues> .
@@ -30441,6 +30598,7 @@
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/brown-v-board-of-education> .
   <https://github.com/john1hsu/usa-graph/id/school-desegregation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
   <https://github.com/john1hsu/usa-graph/id/scott-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/sea-islands> <https://github.com/john1hsu/usa-graph/ontology#originOf> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/sea-venture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
@@ -30690,6 +30848,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/jim-crow-laws> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
@@ -30751,6 +30910,9 @@
   <https://github.com/john1hsu/usa-graph/id/somerset-county-pennsylvania> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/shelby-county-v-holder> .
   <https://github.com/john1hsu/usa-graph/id/south-carolina-v-katzenbach> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
+  <https://github.com/john1hsu/usa-graph/id/south-carolina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/south-carolina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/south-carolina> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/southern-christian-leadership-conference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/civil-rights-movement> .
   <https://github.com/john1hsu/usa-graph/id/southern-christian-leadership-conference> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/southern-manifesto> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> .
@@ -30768,6 +30930,7 @@
   <https://github.com/john1hsu/usa-graph/id/spanish-american-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
   <https://github.com/john1hsu/usa-graph/id/spanish-american-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
+  <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gullah-geechee> .
   <https://github.com/john1hsu/usa-graph/id/spencer-roane> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/spoils-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/spot-resolutions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .

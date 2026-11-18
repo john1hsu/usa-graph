@@ -10986,6 +10986,152 @@
   ]
  },
  {
+  "id": "us:gullah-geechee",
+  "title": "Gullah Geechee",
+  "aliases": [
+   "Gullah/Geechee",
+   "Gullah people",
+   "Geechee people",
+   "Gullah Geechee people"
+  ],
+  "type": "Community",
+  "domain": "society-and-people",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/society-and-people/gullah-geechee.md",
+  "created": "2026-11-18",
+  "summary": "The African American people of the lower Atlantic coast and Sea Islands, from North Carolina to northeast Florida, descended from West and Central Africans enslaved on rice, indigo and Sea Island cotton plantations, whose relative isolation preserved a distinctive creole language and many African-rooted traditions.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gullah-geechee-cultural-heritage-corridor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:gullah-language"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:port-royal-experiment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:special-field-order-no-15"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:freedmens-bureau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:reconstruction-era"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:lorenzo-dow-turner"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ring-shout"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fort-mose"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "uso:originatedIn",
+    "object": "us:sea-islands",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:south-carolina",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:georgia",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:port-royal-experiment",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Gullah Geechee communities preserve more African language and custom than most other African American communities?",
+    "answer": "Their ancestors were concentrated in large numbers on coastal rice, indigo and Sea Island cotton plantations and on islands that could be reached only by boat until bridges were built from the early 1950s, so that isolation let them keep and recombine West and Central African traditions."
+   },
+   {
+    "question": "How did the Civil War and Reconstruction both open and close a path to landownership for Sea Islanders?",
+    "answer": "After Union forces occupied the area, the Port Royal Experiment brought schools such as Penn School and sold some land to freedpeople, and Sherman's Field Order No. 15 settled about 40,000 people on forty-acre plots; but in the fall of 1865 President Johnson returned most of that land to the former planters."
+   },
+   {
+    "question": "Why is rice central to the Gullah Geechee story?",
+    "answer": "Planters sought captives from Africa's Windward or \"Rice Coast\", from Senegambia to Liberia, for their rice-growing knowledge, and crafts such as the fanner basket used to winnow rice survive in today's sweetgrass baskets."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1750",
+    "event": "Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations."
+   },
+   {
+    "date": "1862-06",
+    "event": "Laura Towne and Ellen Murray open the Penn School on St. Helena Island, South Carolina, for formerly enslaved Sea Islanders."
+   },
+   {
+    "date": "1865-01-16",
+    "event": "Sherman's Special Field Order No. 15 sets aside the Sea Islands and a coastal strip from Charleston to the St. Johns River for Black families in forty-acre plots."
+   },
+   {
+    "date": "1949",
+    "event": "Lorenzo Dow Turner publishes Africanisms in the Gullah Dialect, documenting thousands of African-derived words and names."
+   },
+   {
+    "date": "1952",
+    "event": "The Penn School graduates its last class."
+   },
+   {
+    "date": "1997",
+    "event": "Mary Moran meets Bendu Jabati of Sierra Leone, linked by a song Turner recorded in the 1930s."
+   },
+   {
+    "date": "2006-10-12",
+    "event": "The National Heritage Areas Act of 2006 designates the Gullah Geechee Cultural Heritage Corridor and its federal commission."
+   }
+  ],
+  "misconception": {
+   "myth": "Gullah is simply broken or old-fashioned English.",
+   "fact": "Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived \"basket names\" given to children.",
+   "why": "Earlier white scholars such as Guy B. Johnson dismissed it as the \"peasant English\" of an earlier century, and the name Geechee itself was long used as an insult."
+  },
+  "source_urls": [
+   "https://home.nps.gov/articles/gullahgeechee.htm",
+   "https://www.nps.gov/guge/historyculture/",
+   "https://www.georgiaencyclopedia.org/articles/arts-culture/geechee-and-gullah-culture/",
+   "https://magazine.uchicago.edu/1012/features/legacy.shtml",
+   "https://home.nps.gov/articles/000/education-during-the-port-royal-experiment.htm",
+   "https://www.georgiaencyclopedia.org/articles/history-archaeology/shermans-field-order-no-15/"
+  ]
+ },
+ {
   "id": "us:harriet-tubman",
   "title": "Harriet Tubman",
   "aliases": [

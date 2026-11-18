@@ -2079,6 +2079,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the Chinese American community grow and diversify so much after 1965?
   **A:** The 1965 Immigration and Nationality Act made family reunification the main basis for admission, so immigrants from Mainland China, Hong Kong and Taiwan, plus students, professionals and refugees, could come and sponsor relatives.
 
+### [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) — Community
+
+| Myth | Fact |
+|---|---|
+| Gullah is simply broken or old-fashioned English. | Gullah is a creole language; Lorenzo Dow Turner documented thousands of items of African origin in it, including about 3,600 African-derived "basket names" given to children. |
+
+**Why it matters:** Earlier white scholars such as Guy B. Johnson dismissed it as the "peasant English" of an earlier century, and the name Geechee itself was long used as an insult.
+
+- **Q:** Why did Gullah Geechee communities preserve more African language and custom than most other African American communities?
+  **A:** Their ancestors were concentrated in large numbers on coastal rice, indigo and Sea Island cotton plantations and on islands that could be reached only by boat until bridges were built from the early 1950s, so that isolation let them keep and recombine West and Central African traditions.
+- **Q:** How did the Civil War and Reconstruction both open and close a path to landownership for Sea Islanders?
+  **A:** After Union forces occupied the area, the Port Royal Experiment brought schools such as Penn School and sold some land to freedpeople, and Sherman's Field Order No. 15 settled about 40,000 people on forty-acre plots; but in the fall of 1865 President Johnson returned most of that land to the former planters.
+- **Q:** Why is rice central to the Gullah Geechee story?
+  **A:** Planters sought captives from Africa's Windward or "Rice Coast", from Senegambia to Liberia, for their rice-growing knowledge, and crafts such as the fanner basket used to winnow rice survive in today's sweetgrass baskets.
+
 ### [Okies](../articles/society-and-people/okies.md) — Community
 
 | Myth | Fact |
