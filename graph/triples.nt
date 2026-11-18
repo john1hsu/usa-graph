@@ -22656,6 +22656,42 @@
 <https://github.com/john1hsu/usa-graph/id/source/wyoming/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/wyoming/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
 <https://github.com/john1hsu/usa-graph/id/source/wyoming/s9> <https://schema.org/url> <https://wyohistory.org/essays/rock-springs-massacre> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <http://purl.org/dc/terms/title> "The XYZ Affair and the Quasi-War with France, 1798–1800" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> <https://schema.org/url> <https://history.state.gov/milestones/1784-1800/xyz> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <http://purl.org/dc/terms/publisher> "Miller Center, University of Virginia (C. James Taylor)" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <http://purl.org/dc/terms/title> "John Adams: Foreign Affairs" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> <https://schema.org/url> <https://millercenter.org/president/adams/foreign-affairs> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <http://purl.org/dc/terms/publisher> "Avalon Project, Yale Law School" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <http://purl.org/dc/terms/title> "An Act to Declare the Treaties Heretofore Concluded with France, no Longer Obligatory on the United States; July 7, 1798" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/qw03.asp> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <http://purl.org/dc/terms/title> "From John Adams to United States Congress, 3 April 1798" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> <https://schema.org/url> <https://founders.archives.gov/documents/Adams/99-02-02-2396> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <http://purl.org/dc/terms/title> "Abigail Adams to William Smith, 26 June 1798 (with editorial notes)" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> <https://schema.org/url> <https://founders.archives.gov/documents/Adams/04-13-02-0070> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <http://purl.org/dc/terms/publisher> "Bill of Rights Institute, Voices of History" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <http://purl.org/dc/terms/title> "No! No! Not a Sixpence! The XYZ Affair and Integrity (Handout A: Narrative)" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> <https://schema.org/url> <https://bri-docs.s3.amazonaws.com/AP-055-HandoutA-1.pdf> .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/publisher> "National Park Service, Yellowstone National Park" .
 <https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s10> <http://purl.org/dc/terms/title> "History of Wolf Management" .
@@ -26139,6 +26175,101 @@
 <https://github.com/john1hsu/usa-graph/id/wyoming> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wyoming/timeline/8> .
 <https://github.com/john1hsu/usa-graph/id/wyoming> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/wyoming/timeline/9> .
 <https://github.com/john1hsu/usa-graph/id/wyoming> <https://schema.org/startDate> "1890-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Pinckney's reported reply to the French agents in October 1797 was a blunt refusal to pay even a sixpence; the \"millions for defence\" line was first given months later in the United States, as a toast attributed to Congressman Robert Goodloe Harper at a June 1798 dinner honoring John Marshall." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Charles Cotesworth Pinckney told the French \"Millions for defense, but not one cent for tribute.\"" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The slogan captured the national mood after the dispatches were published, and it was soon folded into the story of the envoys' defiance in Paris and credited to the envoy whose refusal it seemed to echo." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the French government refuse to deal openly with the American envoys in 1797?" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "France's Directory was short of money for its European wars and angry about the 1794 Jay Treaty with Britain, so Talleyrand would not negotiate until the United States paid a bribe, made a loan and covered American merchants' claims against France." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/xyz-affair> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did publishing the envoys' dispatches change American politics in 1798?" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Democratic-Republicans demanded the papers, but once Adams released them with the agents' names replaced by W, X, Y and Z, they fueled anti-French feeling and Federalist calls for war, leading Congress to build up the navy and army, cancel the French treaties and pass the Alien and Sedition Acts." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/xyz-affair> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it wrong to credit Pinckney with the slogan \"millions for defense, but not one cent for tribute\"?" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "The documentary record attributes the line to a toast by Robert Goodloe Harper at a congressional dinner in June 1798, while Pinckney's own reported answer in Paris was a refusal to pay even a sixpence." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/xyz-affair> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did the crisis that began with the XYZ Affair finally end?" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Adams sent a new peace commission in 1799, and it signed the Convention of 1800 with Napoleon's government, which ended the Quasi-War and released the United States from its 1778 alliance with France." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/xyz-affair> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Talleyrand gives the three American envoys a brief audience to receive their credentials but does not open negotiations." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1797-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Hottinguer, later called X, meets the envoys and sets out the French conditions for talks." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1797-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The envoys receive the demands in writing: a loan, payment of claims, and money for Talleyrand and the Directory." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1797-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Pressed again for money, Charles Cotesworth Pinckney refuses any payment." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1797-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Adams sends Congress the envoys' instructions and dispatches, with the French agents' names left out." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1798-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "John Marshall leaves France for the United States; Elbridge Gerry stays on in Paris." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1798-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "A congressional dinner honoring Marshall's return hears Robert Goodloe Harper's toast to millions for defence." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1798-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Congress declares the 1778 treaties and the 1788 consular convention with France no longer binding." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1798-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "A new American commission and Napoleon Bonaparte's government sign the Convention of 1800, ending the undeclared naval war that followed the affair." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1800"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2000/01/rdf-schema#label> "XYZ Affair" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#altLabel> "X. Y. Z. Affair" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#altLabel> "XYZ Affair of 1797–1798" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#definition> "A 1797–1798 diplomatic crisis in which agents of French foreign minister Talleyrand, later identified in published U.S. dispatches only as X, Y and Z, demanded a bribe and a loan before France would negotiate with three American envoys; the envoys refused, and publication of their dispatches in 1798 turned American opinion against France and led to the undeclared Quasi-War." .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#prefLabel> "XYZ Affair" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/charles-cotesworth-pinckney> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/convention-of-1800> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/democratic-republican-party> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/elbridge-gerry> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-party> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-adams> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/logan-act> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/robert-goodloe-harper> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/talleyrand> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-navy> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#affected> <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#domain> "foreign-relations-and-military" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/foreign-relations-and-military/xyz-affair.md" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/alien-and-sedition-acts> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/quasi-war> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#occurredDuring> <https://github.com/john1hsu/usa-graph/id/early-republic> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/france> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/jay-treaty> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://schema.org/endDate> "1798-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/xyz-affair> <https://schema.org/startDate> "1797-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "More than 1,900 archeological sites have been found in the park even though only about 3 percent has been surveyed; people hunted, gathered, quarried obsidian and used thermal waters there for more than 11,000 years, and Kiowa, Crow and Shoshone traditions describe its thermal features as places of benevolent spirits and origin stories." .
 <https://github.com/john1hsu/usa-graph/id/yellowstone-national-park/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Native Americans were afraid of Yellowstone's geysers and hot springs and avoided the area." .

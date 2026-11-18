@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:census-and-apportionment` | 3 | Native Americans, United States House of Representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 
-…and 96 more.
+…and 97 more.
 
 ## Happenings by era
 
@@ -70,6 +70,7 @@ _For each era, which events, conflicts, laws and movements took place during it?
 | `us:cold-war` | `us:apollo-11` | 1969-07-16 |
 | `us:cold-war` | `us:lunar-laser-ranging-experiment` | 1969-07-21 |
 | `us:cold-war` | `us:mccarthyism` | 1947 |
+| `us:early-republic` | `us:xyz-affair` | 1797-10-18 |
 | `us:early-republic` | `us:marbury-v-madison` | 1803-02-24 |
 | `us:early-republic` | `us:louisiana-purchase` | 1803-04-30 |
 | `us:early-republic` | `us:lewis-and-clark-expedition` | 1804-05-14 |

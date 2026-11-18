@@ -39320,6 +39320,90 @@
    "uso:sourceType": "scholarly-encyclopedia"
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The XYZ Affair and the Quasi-War with France, 1798–1800",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1784-1800/xyz"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center, University of Virginia (C. James Taylor)",
+   "dcterms:title": "John Adams: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/adams/foreign-affairs"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Avalon Project, Yale Law School",
+   "dcterms:title": "An Act to Declare the Treaties Heretofore Concluded with France, no Longer Obligatory on the United States; July 7, 1798",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/qw03.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "From John Adams to United States Congress, 3 April 1798",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Adams/99-02-02-2396"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "Abigail Adams to William Smith, 26 June 1798 (with editorial notes)",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Adams/04-13-02-0070"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bill of Rights Institute, Voices of History",
+   "dcterms:title": "No! No! Not a Sixpence! The XYZ Affair and Integrity (Handout A: Narrative)",
+   "schema:url": {
+    "@id": "https://bri-docs.s3.amazonaws.com/AP-055-HandoutA-1.pdf"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/yellowstone-national-park/s1",
    "@type": "uso:Source",
    "dcterms:date": {
@@ -44203,6 +44287,130 @@
    "uso:date": {
     "@type": "xsd:date",
     "@value": "1869-12-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Pinckney's reported reply to the French agents in October 1797 was a blunt refusal to pay even a sixpence; the \"millions for defence\" line was first given months later in the United States, as a toast attributed to Congressman Robert Goodloe Harper at a June 1798 dinner honoring John Marshall.",
+   "uso:myth": "Charles Cotesworth Pinckney told the French \"Millions for defense, but not one cent for tribute.\"",
+   "uso:why": "The slogan captured the national mood after the dispatches were published, and it was soon folded into the story of the envoys' defiance in Paris and credited to the envoy whose refusal it seemed to echo."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the French government refuse to deal openly with the American envoys in 1797?",
+   "uso:answer": "France's Directory was short of money for its European wars and angry about the 1794 Jay Treaty with Britain, so Talleyrand would not negotiate until the United States paid a bribe, made a loan and covered American merchants' claims against France.",
+   "uso:questionFor": {
+    "@id": "us:xyz-affair"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did publishing the envoys' dispatches change American politics in 1798?",
+   "uso:answer": "Democratic-Republicans demanded the papers, but once Adams released them with the agents' names replaced by W, X, Y and Z, they fueled anti-French feeling and Federalist calls for war, leading Congress to build up the navy and army, cancel the French treaties and pass the Alien and Sedition Acts.",
+   "uso:questionFor": {
+    "@id": "us:xyz-affair"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why is it wrong to credit Pinckney with the slogan \"millions for defense, but not one cent for tribute\"?",
+   "uso:answer": "The documentary record attributes the line to a toast by Robert Goodloe Harper at a congressional dinner in June 1798, while Pinckney's own reported answer in Paris was a refusal to pay even a sixpence.",
+   "uso:questionFor": {
+    "@id": "us:xyz-affair"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the crisis that began with the XYZ Affair finally end?",
+   "uso:answer": "Adams sent a new peace commission in 1799, and it signed the Convention of 1800 with Napoleon's government, which ended the Quasi-War and released the United States from its 1778 alliance with France.",
+   "uso:questionFor": {
+    "@id": "us:xyz-affair"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Talleyrand gives the three American envoys a brief audience to receive their credentials but does not open negotiations.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1797-10-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Jean Hottinguer, later called X, meets the envoys and sets out the French conditions for talks.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1797-10-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The envoys receive the demands in writing: a loan, payment of claims, and money for Talleyrand and the Directory.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1797-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Pressed again for money, Charles Cotesworth Pinckney refuses any payment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1797-10-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Adams sends Congress the envoys' instructions and dispatches, with the French agents' names left out.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1798-04-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Marshall leaves France for the United States; Elbridge Gerry stays on in Paris.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1798-04-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A congressional dinner honoring Marshall's return hears Robert Goodloe Harper's toast to millions for defence.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1798-06-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress declares the 1778 treaties and the 1788 consular convention with France no longer binding.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1798-07-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A new American commission and Napoleon Bonaparte's government sign the Convention of 1800, ending the undeclared naval war that followed the affair.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1800"
    }
   },
   {
@@ -69460,6 +69668,146 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/wyoming/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:xyz-affair",
+   "@type": "uso:Event",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/xyz-affair/s6"
+    }
+   ],
+   "rdfs:label": "XYZ Affair",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1798-04-03"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1797-10-18"
+   },
+   "skos:altLabel": [
+    "X. Y. Z. Affair",
+    "XYZ Affair of 1797–1798"
+   ],
+   "skos:broader": {
+    "@id": "us:foreign-relations-of-the-united-states"
+   },
+   "skos:definition": "A 1797–1798 diplomatic crisis in which agents of French foreign minister Talleyrand, later identified in published U.S. dispatches only as X, Y and Z, demanded a bribe and a loan before France would negotiate with three American envoys; the envoys refused, and publication of their dispatches in 1798 turned American opinion against France and led to the undeclared Quasi-War.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/foreign-relations-and-military"
+   },
+   "skos:prefLabel": "XYZ Affair",
+   "skos:related": [
+    {
+     "@id": "us:charles-cotesworth-pinckney"
+    },
+    {
+     "@id": "us:convention-of-1800"
+    },
+    {
+     "@id": "us:democratic-republican-party"
+    },
+    {
+     "@id": "us:elbridge-gerry"
+    },
+    {
+     "@id": "us:federalist-party"
+    },
+    {
+     "@id": "us:john-adams"
+    },
+    {
+     "@id": "us:john-marshall"
+    },
+    {
+     "@id": "us:logan-act"
+    },
+    {
+     "@id": "us:robert-goodloe-harper"
+    },
+    {
+     "@id": "us:talleyrand"
+    },
+    {
+     "@id": "us:united-states-navy"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:treaty-of-alliance-1778"
+   },
+   "uso:domain": "foreign-relations-and-military",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/foreign-relations-and-military/xyz-affair.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:alien-and-sedition-acts"
+    },
+    {
+     "@id": "us:quasi-war"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/misconception"
+   },
+   "uso:occurredDuring": {
+    "@id": "us:early-republic"
+   },
+   "uso:occurredIn": {
+    "@id": "us:france"
+   },
+   "uso:requires": {
+    "@id": "us:jay-treaty"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/xyz-affair/timeline/9"
     }
    ]
   },

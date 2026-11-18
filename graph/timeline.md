@@ -381,11 +381,21 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1797 | Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1797 | Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1797-10-08 | Talleyrand gives the three American envoys a brief audience to receive their credentials but does not open negotiations. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1797-10-18 – 1798-04-03 | **[XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md)** (Event) |
+| 1797-10-18 | Jean Hottinguer, later called X, meets the envoys and sets out the French conditions for talks. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1797-10-19 | The envoys receive the demands in writing: a loan, payment of claims, and money for Talleyrand and the Directory. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1797-10-21 | Pressed again for money, Charles Cotesworth Pinckney refuses any payment. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
 | 1798 | The Kentucky and Virginia legislatures pass resolutions against the Sedition Act that articulate the idea of nullification. — [Federalism](../articles/constitution-and-government/federalism.md) |
+| 1798-04-03 | Adams sends Congress the envoys' instructions and dispatches, with the French agents' names left out. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1798-04-23 | John Marshall leaves France for the United States; Elbridge Gerry stays on in Paris. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1798-06-23 | A congressional dinner honoring Marshall's return hears Robert Goodloe Harper's toast to millions for defence. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
+| 1798-07-07 | Congress declares the 1778 treaties and the 1788 consular convention with France no longer binding. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
 | 1798-12-24 | Virginia adopts his resolutions against the Alien and Sedition Acts. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1799 | Tsar Paul I charters the Russian-American Company with a monopoly on trade and government in Russian America. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1799-12 | Takes his seat in the U.S. House of Representatives for a Virginia district. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1800 | A new American commission and Napoleon Bonaparte's government sign the Convention of 1800, ending the undeclared naval war that followed the affair. — [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1800 | The Court follows the capital from Philadelphia to Washington and is lent space in the Capitol. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1800-05 | Jean Baptiste Point DuSable, the first non-Native person to set up a permanent post at Chicago, sells his property there. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |

@@ -29245,6 +29245,176 @@
   ]
  },
  {
+  "id": "us:xyz-affair",
+  "title": "XYZ Affair",
+  "aliases": [
+   "XYZ Affair of 1797–1798",
+   "X. Y. Z. Affair"
+  ],
+  "type": "Event",
+  "domain": "foreign-relations-and-military",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/foreign-relations-and-military/xyz-affair.md",
+  "created": "2026-11-18",
+  "summary": "A 1797–1798 diplomatic crisis in which agents of French foreign minister Talleyrand, later identified in published U.S. dispatches only as X, Y and Z, demanded a bribe and a loan before France would negotiate with three American envoys; the envoys refused, and publication of their dispatches in 1798 turned American opinion against France and led to the undeclared Quasi-War.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:foreign-relations-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charles-cotesworth-pinckney"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elbridge-gerry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:talleyrand"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:democratic-republican-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:convention-of-1800"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:logan-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:robert-goodloe-harper"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:united-states-navy"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:jay-treaty"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:quasi-war",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:france",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredDuring",
+    "object": "us:early-republic",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:alien-and-sedition-acts",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:treaty-of-alliance-1778",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "start": "1797-10-18",
+  "end": "1798-04-03",
+  "review": [
+   {
+    "question": "Why did the French government refuse to deal openly with the American envoys in 1797?",
+    "answer": "France's Directory was short of money for its European wars and angry about the 1794 Jay Treaty with Britain, so Talleyrand would not negotiate until the United States paid a bribe, made a loan and covered American merchants' claims against France."
+   },
+   {
+    "question": "How did publishing the envoys' dispatches change American politics in 1798?",
+    "answer": "Democratic-Republicans demanded the papers, but once Adams released them with the agents' names replaced by W, X, Y and Z, they fueled anti-French feeling and Federalist calls for war, leading Congress to build up the navy and army, cancel the French treaties and pass the Alien and Sedition Acts."
+   },
+   {
+    "question": "Why is it wrong to credit Pinckney with the slogan \"millions for defense, but not one cent for tribute\"?",
+    "answer": "The documentary record attributes the line to a toast by Robert Goodloe Harper at a congressional dinner in June 1798, while Pinckney's own reported answer in Paris was a refusal to pay even a sixpence."
+   },
+   {
+    "question": "How did the crisis that began with the XYZ Affair finally end?",
+    "answer": "Adams sent a new peace commission in 1799, and it signed the Convention of 1800 with Napoleon's government, which ended the Quasi-War and released the United States from its 1778 alliance with France."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1797-10-08",
+    "event": "Talleyrand gives the three American envoys a brief audience to receive their credentials but does not open negotiations."
+   },
+   {
+    "date": "1797-10-18",
+    "event": "Jean Hottinguer, later called X, meets the envoys and sets out the French conditions for talks."
+   },
+   {
+    "date": "1797-10-19",
+    "event": "The envoys receive the demands in writing: a loan, payment of claims, and money for Talleyrand and the Directory."
+   },
+   {
+    "date": "1797-10-21",
+    "event": "Pressed again for money, Charles Cotesworth Pinckney refuses any payment."
+   },
+   {
+    "date": "1798-04-03",
+    "event": "Adams sends Congress the envoys' instructions and dispatches, with the French agents' names left out."
+   },
+   {
+    "date": "1798-04-23",
+    "event": "John Marshall leaves France for the United States; Elbridge Gerry stays on in Paris."
+   },
+   {
+    "date": "1798-06-23",
+    "event": "A congressional dinner honoring Marshall's return hears Robert Goodloe Harper's toast to millions for defence."
+   },
+   {
+    "date": "1798-07-07",
+    "event": "Congress declares the 1778 treaties and the 1788 consular convention with France no longer binding."
+   },
+   {
+    "date": "1800",
+    "event": "A new American commission and Napoleon Bonaparte's government sign the Convention of 1800, ending the undeclared naval war that followed the affair."
+   }
+  ],
+  "misconception": {
+   "myth": "Charles Cotesworth Pinckney told the French \"Millions for defense, but not one cent for tribute.\"",
+   "fact": "Pinckney's reported reply to the French agents in October 1797 was a blunt refusal to pay even a sixpence; the \"millions for defence\" line was first given months later in the United States, as a toast attributed to Congressman Robert Goodloe Harper at a June 1798 dinner honoring John Marshall.",
+   "why": "The slogan captured the national mood after the dispatches were published, and it was soon folded into the story of the envoys' defiance in Paris and credited to the envoy whose refusal it seemed to echo."
+  },
+  "source_urls": [
+   "https://history.state.gov/milestones/1784-1800/xyz",
+   "https://millercenter.org/president/adams/foreign-affairs",
+   "https://avalon.law.yale.edu/18th_century/qw03.asp",
+   "https://founders.archives.gov/documents/Adams/99-02-02-2396",
+   "https://founders.archives.gov/documents/Adams/04-13-02-0070",
+   "https://bri-docs.s3.amazonaws.com/AP-055-HandoutA-1.pdf"
+  ]
+ },
+ {
   "id": "us:yellowstone-national-park",
   "title": "Yellowstone National Park",
   "aliases": [

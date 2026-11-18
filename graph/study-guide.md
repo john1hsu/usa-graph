@@ -1331,6 +1331,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the 2020 Doha agreement contribute to the events of August 2021?
   **A:** It committed the United States to withdraw all forces within 14 months without conditioning that on reduced Taliban violence; Congressional researchers reported it demoralized Afghan forces, and the later departure of contractors who maintained aircraft and supplied air support helped the Afghan military collapse as the Taliban took Kabul on August 15, 2021.
 
+### [XYZ Affair](../articles/foreign-relations-and-military/xyz-affair.md) — Event
+
+| Myth | Fact |
+|---|---|
+| Charles Cotesworth Pinckney told the French "Millions for defense, but not one cent for tribute." | Pinckney's reported reply to the French agents in October 1797 was a blunt refusal to pay even a sixpence; the "millions for defence" line was first given months later in the United States, as a toast attributed to Congressman Robert Goodloe Harper at a June 1798 dinner honoring John Marshall. |
+
+**Why it matters:** The slogan captured the national mood after the dispatches were published, and it was soon folded into the story of the envoys' defiance in Paris and credited to the envoy whose refusal it seemed to echo.
+
+- **Q:** Why did the French government refuse to deal openly with the American envoys in 1797?
+  **A:** France's Directory was short of money for its European wars and angry about the 1794 Jay Treaty with Britain, so Talleyrand would not negotiate until the United States paid a bribe, made a loan and covered American merchants' claims against France.
+- **Q:** How did publishing the envoys' dispatches change American politics in 1798?
+  **A:** Democratic-Republicans demanded the papers, but once Adams released them with the agents' names replaced by W, X, Y and Z, they fueled anti-French feeling and Federalist calls for war, leading Congress to build up the navy and army, cancel the French treaties and pass the Alien and Sedition Acts.
+- **Q:** Why is it wrong to credit Pinckney with the slogan "millions for defense, but not one cent for tribute"?
+  **A:** The documentary record attributes the line to a toast by Robert Goodloe Harper at a congressional dinner in June 1798, while Pinckney's own reported answer in Paris was a refusal to pay even a sixpence.
+- **Q:** How did the crisis that began with the XYZ Affair finally end?
+  **A:** Adams sent a new peace commission in 1799, and it signed the Convention of 1800 with Napoleon's government, which ended the Quasi-War and released the United States from its 1778 alliance with France.
+
 ## geography-and-environment
 
 ### [1964 Alaska earthquake](../articles/geography-and-environment/1964-alaska-earthquake.md) — Event
