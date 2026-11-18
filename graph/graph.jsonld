@@ -4397,6 +4397,211 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "American and Soviet troops never fought each other directly, but the rivalry fed hot wars and proxy conflicts; the Korean War alone killed about five million people, including about 36,500 Americans, and nearly 60,000 Americans died in Vietnam.",
+   "uso:myth": "The Cold War was \"cold\" — a tense standoff in which no real war was fought.",
+   "uso:why": "The name centers the nuclear standoff as Americans and Europeans experienced it at home and hides the war's heavy toll in Asia, Africa and Latin America."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What was containment, and how did the Truman Doctrine and Marshall Plan put it into practice?",
+   "uso:answer": "Containment, set out by George Kennan in 1946–47, meant blocking Soviet expansion through patient, long-term pressure; the Truman Doctrine (1947) sent $400 million in aid to Greece and Turkey, and the Marshall Plan gave about $13 billion to rebuild Western Europe so it would resist Communism.",
+   "uso:questionFor": {
+    "@id": "us:cold-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Cold War affect the civil rights movement?",
+   "uso:answer": "Soviet propaganda used American segregation to discredit U.S. democracy, especially in newly independent nations, so administrations from Truman to Johnson had foreign-policy reasons to support desegregation; Mary Dudziak argues this helped drive reform but also limited it to improving appearances.",
+   "uso:questionFor": {
+    "@id": "us:cold-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians disagree about how the Cold War ended?",
+   "uso:answer": "Triumphalists credit Reagan's military buildup and ideological pressure, while historians such as Melvyn Leffler argue that Gorbachev was the principal agent of change and that Reagan mattered most by negotiating and building trust with him.",
+   "uso:questionFor": {
+    "@id": "us:cold-war"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Potsdam Conference opens; Truman and Stalin clash over German reparations and the Big Three fail to reach a lasting postwar settlement.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-07-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "An armistice ends the fighting in Korea.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1953-07-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviet Union launches Sputnik 1, the first artificial satellite; NASA and ARPA are created the next year.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1957-10-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Kennedy announces a naval quarantine of Cuba after U-2 photographs reveal Soviet missile sites.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1962-10-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Khrushchev announces that the Soviet missiles in Cuba will be dismantled and removed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1962-10-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1972"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviet invasion of Afghanistan ends détente and stalls the SALT II treaty.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1979"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1985-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Berlin Wall falls, and Communist rule collapses across Eastern Europe.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1989-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Hard-line Communists stage a failed coup against Gorbachev.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1991-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Gorbachev resigns as Soviet president and the Soviet flag is lowered over the Kremlin for the last time.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1991-12-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "George F. Kennan sends his \"Long Telegram\" from the U.S. embassy in Moscow, urging containment of Soviet power.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1946-02-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Winston Churchill warns in a speech in Missouri that an iron curtain has divided Europe.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1946-03-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Truman asks Congress for $400 million in aid to Greece and Turkey, announcing the Truman Doctrine.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1947-03-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Executive Order 9835 creates a loyalty program for federal employees, launching the domestic Red Scare.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1947-03-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviets cut land and water routes to West Berlin; the Western Allies answer with an airlift.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1948-06"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The United States, Canada and Western European states form NATO, pledging mutual defense.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1949-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Soviet Union tests its first atomic bomb, ending the U.S. nuclear monopoly.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1949-08-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "North Korean forces cross the 38th parallel; within days Truman orders U.S. forces into South Korea.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1950-06-25"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/colorado-river/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Negotiators relied on only about 20 years of gauge records; a 1976 tree-ring reconstruction put the 1564–1961 average at about 13.5 million acre-feet a year and found 1905–1930 the wettest such period in 400 years, while the Compact and the 1944 treaty together assigned up to 17.5 million.",
@@ -20904,6 +21109,160 @@
     "@id": "https://history.house.gov/HistoricalHighlight/Detail/15032451325?ret=True"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Joseph L. Locke and Ben Wright, eds., The American Yawp (Stanford University Press)",
+   "dcterms:title": "25. The Cold War",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/25-the-cold-war/"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Melvyn P. Leffler, Texas National Security Review 1, no. 3 (May 2018)",
+   "dcterms:title": "Ronald Reagan and the Cold War: What Mattered Most",
+   "schema:url": {
+    "@id": "https://tnsr.org/2018/05/ronald-reagan-and-the-cold-war-what-mattered-most"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Mary L. Dudziak, Princeton University Press",
+   "dcterms:title": "Cold War Civil Rights: Race and the Image of American Democracy (25th anniversary edition)",
+   "schema:url": {
+    "@id": "https://press.princeton.edu/books/ebook/9780691274331/cold-war-civil-rights"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax, U.S. History (Rice University)",
+   "dcterms:title": "28.2 The Cold War",
+   "schema:url": {
+    "@id": "https://openstax.org/books/us-history/pages/28-2-the-cold-war"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "Truman Doctrine (1947)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/truman-doctrine"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Kennan and Containment, 1947",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1945-1952/kennan"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Cuban Missile Crisis, October 1962",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Détente and Arms Control, 1969–1979",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1969-1976/detente"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The Collapse of the Soviet Union",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Minuteman Missile National Historic Site",
+   "dcterms:title": "The Kennedy Administration and the First Minuteman Deployment",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/kennedyminuteman.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Alan Brinkley, The Unfinished Nation, 7th ed., ch. 27 (McGraw-Hill/Glencoe)",
+   "dcterms:title": "Debating the Past: The Origins of the Cold War",
+   "schema:url": {
+    "@id": "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter27/debating_the_past.html"
+   },
+   "uso:sourceType": "textbook"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/colorado-river/s1",
@@ -44395,6 +44754,215 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/civil-rights-movement/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:cold-war",
+   "@type": "uso:Era",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/cold-war/s9"
+    }
+   ],
+   "rdfs:label": "Cold War",
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1991-12-25"
+   },
+   "schema:startDate": {
+    "@type": "xsd:gYear",
+    "@value": "1945"
+   },
+   "skos:altLabel": [
+    "Cold War era",
+    "Soviet–American Cold War"
+   ],
+   "skos:broader": {
+    "@id": "us:history-of-the-united-states"
+   },
+   "skos:definition": "The roughly 45-year rivalry, from the end of World War II to the breakup of the Soviet Union in 1991, in which the United States and the Soviet Union competed for power and ideological influence through alliances, an arms and space race, espionage and propaganda, and wars fought by or through their allies rather than directly against each other.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/cold-war-and-civil-rights"
+   },
+   "skos:prefLabel": "Cold War",
+   "skos:related": [
+    {
+     "@id": "us:apollo-11"
+    },
+    {
+     "@id": "us:berlin-airlift"
+    },
+    {
+     "@id": "us:containment"
+    },
+    {
+     "@id": "us:cuban-missile-crisis"
+    },
+    {
+     "@id": "us:desegregation-of-little-rock-central-high-school"
+    },
+    {
+     "@id": "us:george-f-kennan"
+    },
+    {
+     "@id": "us:harry-s-truman"
+    },
+    {
+     "@id": "us:korean-war"
+    },
+    {
+     "@id": "us:marshall-plan"
+    },
+    {
+     "@id": "us:mccarthyism"
+    },
+    {
+     "@id": "us:mikhail-gorbachev"
+    },
+    {
+     "@id": "us:nato"
+    },
+    {
+     "@id": "us:post-cold-war-united-states"
+    },
+    {
+     "@id": "us:ronald-reagan"
+    },
+    {
+     "@id": "us:soviet-union"
+    },
+    {
+     "@id": "us:space-race"
+    },
+    {
+     "@id": "us:truman-doctrine"
+    },
+    {
+     "@id": "us:vietnam-war"
+    }
+   ],
+   "uso:affected": {
+    "@id": "us:civil-rights-movement"
+   },
+   "uso:domain": "cold-war-and-civil-rights",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/cold-war-and-civil-rights/cold-war.md",
+   "uso:ledTo": [
+    {
+     "@id": "us:mccarthyism"
+    },
+    {
+     "@id": "us:national-security-act-of-1947"
+    },
+    {
+     "@id": "us:nato"
+    },
+    {
+     "@id": "us:space-race"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:united-states"
+   },
+   "uso:requires": {
+    "@id": "us:world-war-ii"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/cold-war/timeline/9"
     }
    ]
   },

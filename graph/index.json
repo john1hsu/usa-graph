@@ -5422,6 +5422,251 @@
   ]
  },
  {
+  "id": "us:cold-war",
+  "title": "Cold War",
+  "aliases": [
+   "Cold War era",
+   "Soviet–American Cold War"
+  ],
+  "type": "Era",
+  "domain": "cold-war-and-civil-rights",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/cold-war-and-civil-rights/cold-war.md",
+  "created": "2026-11-18",
+  "summary": "The roughly 45-year rivalry, from the end of World War II to the breakup of the Soviet Union in 1991, in which the United States and the Soviet Union competed for power and ideological influence through alliances, an arms and space race, espionage and propaganda, and wars fought by or through their allies rather than directly against each other.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:history-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:soviet-union"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:containment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:truman-doctrine"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marshall-plan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:berlin-airlift"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:korean-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:vietnam-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cuban-missile-crisis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:space-race"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nato"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mccarthyism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:apollo-11"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:harry-s-truman"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-f-kennan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ronald-reagan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mikhail-gorbachev"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:desegregation-of-little-rock-central-high-school"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:post-cold-war-united-states"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:world-war-ii"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:united-states",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:nato",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:national-security-act-of-1947",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:mccarthyism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:space-race",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:civil-rights-movement",
+    "source": "s11",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1945",
+  "end": "1991-12-25",
+  "review": [
+   {
+    "question": "What was containment, and how did the Truman Doctrine and Marshall Plan put it into practice?",
+    "answer": "Containment, set out by George Kennan in 1946–47, meant blocking Soviet expansion through patient, long-term pressure; the Truman Doctrine (1947) sent $400 million in aid to Greece and Turkey, and the Marshall Plan gave about $13 billion to rebuild Western Europe so it would resist Communism."
+   },
+   {
+    "question": "How did the Cold War affect the civil rights movement?",
+    "answer": "Soviet propaganda used American segregation to discredit U.S. democracy, especially in newly independent nations, so administrations from Truman to Johnson had foreign-policy reasons to support desegregation; Mary Dudziak argues this helped drive reform but also limited it to improving appearances."
+   },
+   {
+    "question": "Why do historians disagree about how the Cold War ended?",
+    "answer": "Triumphalists credit Reagan's military buildup and ideological pressure, while historians such as Melvyn Leffler argue that Gorbachev was the principal agent of change and that Reagan mattered most by negotiating and building trust with him."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1945-07-17",
+    "event": "The Potsdam Conference opens; Truman and Stalin clash over German reparations and the Big Three fail to reach a lasting postwar settlement."
+   },
+   {
+    "date": "1946-02-22",
+    "event": "George F. Kennan sends his \"Long Telegram\" from the U.S. embassy in Moscow, urging containment of Soviet power."
+   },
+   {
+    "date": "1946-03-05",
+    "event": "Winston Churchill warns in a speech in Missouri that an iron curtain has divided Europe."
+   },
+   {
+    "date": "1947-03-12",
+    "event": "President Truman asks Congress for $400 million in aid to Greece and Turkey, announcing the Truman Doctrine."
+   },
+   {
+    "date": "1947-03-21",
+    "event": "Executive Order 9835 creates a loyalty program for federal employees, launching the domestic Red Scare."
+   },
+   {
+    "date": "1948-06",
+    "event": "The Soviets cut land and water routes to West Berlin; the Western Allies answer with an airlift."
+   },
+   {
+    "date": "1949-04",
+    "event": "The United States, Canada and Western European states form NATO, pledging mutual defense."
+   },
+   {
+    "date": "1949-08-29",
+    "event": "The Soviet Union tests its first atomic bomb, ending the U.S. nuclear monopoly."
+   },
+   {
+    "date": "1950-06-25",
+    "event": "North Korean forces cross the 38th parallel; within days Truman orders U.S. forces into South Korea."
+   },
+   {
+    "date": "1953-07-27",
+    "event": "An armistice ends the fighting in Korea."
+   },
+   {
+    "date": "1957-10-04",
+    "event": "The Soviet Union launches Sputnik 1, the first artificial satellite; NASA and ARPA are created the next year."
+   },
+   {
+    "date": "1962-10-22",
+    "event": "Kennedy announces a naval quarantine of Cuba after U-2 photographs reveal Soviet missile sites."
+   },
+   {
+    "date": "1962-10-28",
+    "event": "Khrushchev announces that the Soviet missiles in Cuba will be dismantled and removed."
+   },
+   {
+    "date": "1972",
+    "event": "The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente."
+   },
+   {
+    "date": "1979",
+    "event": "The Soviet invasion of Afghanistan ends détente and stalls the SALT II treaty."
+   },
+   {
+    "date": "1985-10",
+    "event": "Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva."
+   },
+   {
+    "date": "1989-11",
+    "event": "The Berlin Wall falls, and Communist rule collapses across Eastern Europe."
+   },
+   {
+    "date": "1991-08",
+    "event": "Hard-line Communists stage a failed coup against Gorbachev."
+   },
+   {
+    "date": "1991-12-25",
+    "event": "Gorbachev resigns as Soviet president and the Soviet flag is lowered over the Kremlin for the last time."
+   }
+  ],
+  "misconception": {
+   "myth": "The Cold War was \"cold\" — a tense standoff in which no real war was fought.",
+   "fact": "American and Soviet troops never fought each other directly, but the rivalry fed hot wars and proxy conflicts; the Korean War alone killed about five million people, including about 36,500 Americans, and nearly 60,000 Americans died in Vietnam.",
+   "why": "The name centers the nuclear standoff as Americans and Europeans experienced it at home and hides the war's heavy toll in Asia, Africa and Latin America."
+  },
+  "source_urls": [
+   "https://www.americanyawp.com/text/25-the-cold-war/",
+   "https://openstax.org/books/us-history/pages/28-2-the-cold-war",
+   "https://www.archives.gov/milestone-documents/truman-doctrine",
+   "https://history.state.gov/milestones/1945-1952/kennan",
+   "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+   "https://history.state.gov/milestones/1969-1976/detente",
+   "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+   "https://www.nps.gov/articles/kennedyminuteman.htm",
+   "https://glencoe.mheducation.com/sites/0076654583/student_view0/chapter27/debating_the_past.html",
+   "https://tnsr.org/2018/05/ronald-reagan-and-the-cold-war-what-mattered-most",
+   "https://press.princeton.edu/books/ebook/9780691274331/cold-war-civil-rights"
+  ]
+ },
+ {
   "id": "us:colorado-river",
   "title": "Colorado River",
   "aliases": [

@@ -145,6 +145,21 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How do Jacquelyn Dowd Hall and Sundiata Cha-Jua and Clarence Lang disagree about the movement's time span?
   **A:** Hall argues for a "long" movement beginning in the late 1930s that linked racial and economic justice nationwide, while Cha-Jua and Lang argue that stretching it that far blurs chronology, place and the differences between civil rights and Black Power.
 
+### [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) — Era
+
+| Myth | Fact |
+|---|---|
+| The Cold War was "cold" — a tense standoff in which no real war was fought. | American and Soviet troops never fought each other directly, but the rivalry fed hot wars and proxy conflicts; the Korean War alone killed about five million people, including about 36,500 Americans, and nearly 60,000 Americans died in Vietnam. |
+
+**Why it matters:** The name centers the nuclear standoff as Americans and Europeans experienced it at home and hides the war's heavy toll in Asia, Africa and Latin America.
+
+- **Q:** What was containment, and how did the Truman Doctrine and Marshall Plan put it into practice?
+  **A:** Containment, set out by George Kennan in 1946–47, meant blocking Soviet expansion through patient, long-term pressure; the Truman Doctrine (1947) sent $400 million in aid to Greece and Turkey, and the Marshall Plan gave about $13 billion to rebuild Western Europe so it would resist Communism.
+- **Q:** How did the Cold War affect the civil rights movement?
+  **A:** Soviet propaganda used American segregation to discredit U.S. democracy, especially in newly independent nations, so administrations from Truman to Johnson had foreign-policy reasons to support desegregation; Mary Dudziak argues this helped drive reform but also limited it to improving appearances.
+- **Q:** Why do historians disagree about how the Cold War ended?
+  **A:** Triumphalists credit Reagan's military buildup and ideological pressure, while historians such as Melvyn Leffler argue that Gorbachev was the principal agent of change and that Reagan mattered most by negotiating and building trust with him.
+
 ### [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) — Event
 
 | Myth | Fact |

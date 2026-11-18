@@ -1439,11 +1439,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1944-06-22 | President Franklin D. Roosevelt signs the Servicemen's Readjustment Act, sixteen days after D-Day. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1944-11-07 | Elected to a fourth term, defeating Thomas E. Dewey. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1944-12-18 | The Supreme Court upholds exclusion in Korematsu v. United States but rules in Ex parte Endo that loyal citizens cannot be held. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
+| 1945 – 1991-12-25 | **[Cold War](../articles/cold-war-and-civil-rights/cold-war.md)** (Era) |
 | 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-03 | The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1945-04-12 | Dies at Warm Springs, Georgia. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1945-05 | Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
+| 1945-07-17 | The Potsdam Conference opens; Truman and Stalin clash over German reparations and the Big Three fail to reach a lasting postwar settlement. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1945-08-06 | A U.S. atomic bomb destroys Hiroshima; a second bomb strikes Nagasaki on August 9. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS Missouri in Tokyo Bay. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-10-24 | The federal minimum reaches 40 cents an hour. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
@@ -1452,32 +1454,40 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1946 | The Chinese War Brides Act lets wives of Chinese American servicemen enter outside the quota. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1946 | The Legislative Reorganization Act reforms the committee system. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1946-02-22 | Dizzy Gillespie makes the first major-label bebop recording, for RCA's Bluebird label. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1946-02-22 | George F. Kennan sends his "Long Telegram" from the U.S. embassy in Moscow, urging containment of Soviet power. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1946-02-25 | In Duncan v. Kahanamoku the Supreme Court voids military-tribunal convictions of civilians under martial law. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1946-03-05 | Winston Churchill warns in a speech in Missouri that an iron curtain has divided Europe. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1946-03-20 | Tule Lake closes, the last of the ten WRA camps; the WRA is disbanded on June 30, 1946. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1947 – 1957 | **[McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md)** (Era) |
 | 1947 | Muddy Waters, now in Chicago, is recording for the Aristocrat label (later Chess). — [Blues](../articles/culture-and-arts/blues.md) |
 | 1947 | Veterans make up 49 percent of students at American colleges. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1947-03 | President Harry S. Truman issues Executive Order 9835, creating loyalty reviews for federal employees. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1947-03-12 | President Truman asks Congress for $400 million in aid to Greece and Turkey, announcing the Truman Doctrine. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
+| 1947-03-21 | Executive Order 9835 creates a loyalty program for federal employees, launching the domestic Red Scare. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1947-04-30 | A congressional resolution makes the name Hoover Dam official. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
 | 1948 | Graduates from Morehouse College, where Benjamin E. Mays and George Kelsey shape his view of Christianity as a force for social change. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1948 | The National Park Service takes custody of the bell and Independence Hall. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1948 | The terrazzo floor receives its first repairs. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1948-03 | Britain, France, Belgium, the Netherlands and Luxembourg sign the Brussels Treaty, a five-nation collective defense pact. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1948-06 | The Soviets cut land and water routes to West Berlin; the Western Allies answer with an airlift. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1948-06-11 | The Senate adopts the Vandenberg Resolution, backing U.S. association with regional collective-defense arrangements through constitutional processes. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1948-07-26 | Executive Order 9981 directs equal treatment and opportunity in the armed forces regardless of race. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
 | 1948-08-03 | Whittaker Chambers testifies before HUAC, beginning the case that ends in Alger Hiss's perjury conviction. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1948-12-17 | The Flyer is installed at the Smithsonian, 45 years to the day after it flew. — [Wright brothers' first flight](../articles/science-and-innovation/wright-brothers-first-flight.md) |
 | 1949 | President Harry Truman signs legislation designating June 14 as national Flag Day. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1949-04 | The United States, Canada and Western European states form NATO, pledging mutual defense. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1949-04-04 | **[North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md)** (Organization) |
 | 1949-04-04 | Twelve nations sign the North Atlantic Treaty in Washington; Secretary of State Dean Acheson signs for the United States. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-06-06 | The Senate Foreign Relations Committee reports the treaty favorably by a vote of 13 to 0. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-07-21 | The Senate gives its advice and consent to ratification, 82 to 13. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-07-25 | President Harry S. Truman ratifies the treaty. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1949-08-24 | The treaty enters into force after the remaining instruments of ratification are deposited. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
+| 1949-08-29 | The Soviet Union tests its first atomic bomb, ending the U.S. nuclear monopoly. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1950 | Mullane v. Central Hanover Bank sets minimum requirements of notice, a hearing and an impartial tribunal. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1950 | The census records the city's peak population, 3,620,962. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1950-02-09 | Senator Joseph McCarthy tells the Women's Republican Club of Wheeling, West Virginia, that he holds a list of 205 State Department Communists. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-06-01 | Senator Margaret Chase Smith of Maine and six other Republicans issue the Declaration of Conscience against the tactics of McCarthyism. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1950-06-25 | North Korean forces cross the 38th parallel; within days Truman orders U.S. forces into South Korea. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1950-09 | Congress passes the McCarran Internal Security Act, requiring communist organizations to register with the government. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1950-12 | General Dwight D. Eisenhower becomes the first Supreme Allied Commander Europe. — [North Atlantic Treaty Organization](../articles/foreign-relations-and-military/nato.md) |
 | 1951 | The Bureau of Indian Affairs sets up a Branch of Placement and Relocation to move Native people from reservations to cities. — [Native Americans](../articles/native-nations/native-americans.md) |
@@ -1492,6 +1502,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1953-04-27 | President Dwight D. Eisenhower issues Executive Order 10450, which bars gay men and lesbians from federal employment. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1953-06-18 | Marries Coretta Scott in Marion, Alabama. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1953-06-19 | Julius and Ethel Rosenberg are executed for conspiracy to commit espionage. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1953-07-27 | An armistice ends the fighting in Korea. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1953-08-01 | House Concurrent Resolution 108 announces the policy of terminating federal supervision of tribes. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-08-15 | Public Law 280 shifts criminal and civil jurisdiction on most reservations in five states to state authorities. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1953-12-07 | Reargument begins on questions the Court posed, including the history of the Fourteenth Amendment and possible remedies. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1551,6 +1562,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1957-09-23 | The students enter Central, but a mob of more than 1,000 forms outside and they are taken out by lunchtime; Eisenhower issues Proclamation 3204. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1957-09-24 | Eisenhower signs Executive Order 10730, federalizing the Arkansas Guard and sending in the 101st Airborne Division. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1957-09-25 | Escorted by federal troops, the Little Rock Nine attend their first full day of classes. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
+| 1957-10-04 | The Soviet Union launches Sputnik 1, the first artificial satellite; NASA and ARPA are created the next year. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1957-11 | The 101st Airborne returns to Fort Campbell, leaving federalized Guard units in charge for the rest of the year. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958 | Cooper v. Aaron invokes Marbury as the foundation of judicial supremacy, cementing its modern image. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
@@ -1584,6 +1596,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1962 | The USS Arizona Memorial, built over the sunken battleship, is officially dedicated. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1962-05 | Judges Frank M. Johnson and Richard T. Rives rule for the plaintiffs, and the court orders a temporary plan for the 1962 election. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1962-09-12 | Kennedy defends the Moon goal in a speech at Rice University. — [Apollo 11](../articles/science-and-innovation/apollo-11.md) |
+| 1962-10-22 | Kennedy announces a naval quarantine of Cuba after U-2 photographs reveal Soviet missile sites. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
+| 1962-10-28 | Khrushchev announces that the Soviet missiles in Cuba will be dismantled and removed. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1963 | In Arizona v. California the Supreme Court settles the Lower Basin division and recognizes reserved water rights for five reservations. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1963 | In Gray v. Sanders the Court strikes down Georgia's county-unit system, declaring the principle of one person, one vote. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1963-04 | Arrested during SCLC's Birmingham campaign; writes his Letter from Birmingham Jail. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
@@ -1667,6 +1681,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971 | Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1972 | The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | A second Soviet reflector reaches the Moon aboard Lunokhod 2. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1973 | Coleman A. Young is elected Detroit's first African American mayor. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
@@ -1693,6 +1708,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1978-11-07 | Voters approve a constitutional amendment making English and Hawaiian the state's official languages. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1979 | Attorneys ask the federal court to reopen the Topeka case to test whether segregation's effects remained (Brown III). — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1979 | The Fatback Band releases "King Tim III (Personality Jock)"; about two months later the Sugarhill Gang's "Rapper's Delight" becomes the first hip hop song on the Billboard Hot 100; Kurtis Blow signs with Mercury, the first rapper on a major label. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1979 | The Soviet invasion of Afghanistan ends détente and stalls the SALT II treaty. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1980 | Him Mark Lai, Genny Lim and Judy Yung publish Island, with translations of 135 poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1981 | The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
@@ -1709,6 +1725,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1984 | The "Montgomery GI Bill" creates an education program for the all-volunteer force, funded partly by a pay reduction during a recruit's first year. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
 | 1984 | Video Music Box becomes the first music-video program devoted to hip hop. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1985 | The Interior Department designates the dam a National Historic Landmark. — [Hoover Dam](../articles/regions-cities-and-landmarks/hoover-dam.md) |
+| 1985-10 | Ronald Reagan and Mikhail Gorbachev hold their first summit, in Geneva. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1986 | Run-DMC's Raising Hell becomes the first hip hop album certified platinum. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1986 | The Bureau of Engraving and Printing makes the master die from which current dies are produced. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1986 | The last remaining homestead entries are eliminated. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
@@ -1723,8 +1740,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1988-10-21 | Congress agrees to H. Con. Res. 331, acknowledging the contributions of the Iroquois Confederacy and other Indian nations to the formation of the United States. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1989 | The wampum belts taken in 1890 are returned to the Onondaga Nation. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1989-06-21 | In Texas v. Johnson the Supreme Court holds that burning a flag in political protest is protected expression. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1989-11 | The Berlin Wall falls, and Communist rule collapses across Eastern Europe. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
+| 1991-08 | Hard-line Communists stage a failed coup against Gorbachev. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
+| 1991-12-25 | Gorbachev resigns as Soviet president and the Soviet flag is lowered over the Kremlin for the last time. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
 | 1992 | New York v. United States begins a line of decisions barring Congress from commandeering state governments. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |

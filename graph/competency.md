@@ -30,6 +30,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
+| `us:cold-war` | 5 | Civil rights movement, McCarthyism, North Atlantic Treaty Organization, national-security-act-of-1947, space-race |
 | `us:great-depression` | 5 | African Americans, New Deal, agriculture-in-the-united-states, bonus-army, reconstruction-finance-corporation |
 | `us:new-deal` | 5 | African Americans, agriculture-in-the-united-states, fair-labor-standards-act, indian-reorganization-act, social-security-act |
 | `us:second-continental-congress` | 5 | Articles of Confederation, Declaration of Independence, Haudenosaunee, continental-army, treaty-of-alliance-1778 |
@@ -55,9 +56,8 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
-| `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
 
-…and 87 more.
+…and 88 more.
 
 ## Happenings by era
 
@@ -99,6 +99,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:blues` | interpretive |  |
 | `us:chinese-exclusion-act` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
+| `us:cold-war` | interpretive |  |
 | `us:constitutional-convention` | interpretive |  |
 | `us:dawes-act` | interpretive |  |
 | `us:desegregation-of-little-rock-central-high-school` | interpretive |  |
@@ -118,9 +119,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:great-railroad-strike-of-1877` | interpretive |  |
 | `us:haudenosaunee` | interpretive |  |
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
-| `us:indian-removal-act` | interpretive |  |
 
-…and 36 more.
+…and 37 more.
 
 ## Places with nothing tied to them (gap)
 
