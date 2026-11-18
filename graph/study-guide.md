@@ -1700,6 +1700,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** How did the Great Migration change Chicago, and what limits did Black migrants face?
   **A:** The Black population grew from about 40,000 in 1910 to 278,000 in 1940 and 813,000 in 1960 as southerners came for wartime industrial jobs, encouraged by the Chicago Defender; but most were confined to an overcrowded, overpriced South Side Black Belt, faced job discrimination and union exclusion, and in 1919 suffered a riot that killed 23 Black Chicagoans.
 
+### [Detroit](../articles/regions-cities-and-landmarks/detroit.md) — City
+
+| Myth | Fact |
+|---|---|
+| Detroit's decline began with the 1967 uprising, which drove people and jobs out of a thriving city. | Historian Thomas Sugrue notes that Detroit lost more than 130,000 manufacturing jobs between 1948 and 1967, as automakers moved plants to suburbs, small towns and the Sunbelt and automated production, and that white flight and disinvestment were already under way before 1967; white departures did accelerate sharply afterward. |
+
+**Why it matters:** A single dramatic event is easier to remember than decades of gradual industrial and metropolitan change, and blaming the uprising draws attention away from corporate decisions and housing segregation that shaped the city earlier.
+
+- **Q:** Why did the French found a settlement at Detroit in 1701, and who already lived there?
+  **A:** Cadillac persuaded French officials to back a settlement on the Detroit River to forestall British expansion and build a colony supported by the region's soil and fur trade; the land had long been home to Anishinaabe peoples, and Odawa, Bodewadmi (Potawatomi) and Ojibwe families were encouraged to settle near the fort.
+- **Q:** How did the automobile industry change Detroit's size and workforce?
+  **A:** Ford's Model T, the moving assembly line at Highland Park in 1913 and the five-dollar day in 1914 drew workers from many places; Detroit grew from the nation's 13th-largest city in 1903 to its fifth-largest by 1950, with nearly two million people.
+- **Q:** How did World War II both open opportunities for and constrain Black Detroiters?
+  **A:** War production opened factory jobs previously closed to Black workers and drew about 350,000 migrants, but restrictive covenants confined Black residents to overcrowded areas such as Black Bottom and Paradise Valley, and housing conflict and racial tension erupted in the 1943 riot.
+- **Q:** Why does Thomas Sugrue argue that the 1967 uprising did not begin Detroit's decline?
+  **A:** Because the city had already lost more than 130,000 manufacturing jobs between 1948 and 1967 to decentralization and automation, with white flight and disinvestment under way, so the uprising came after, not before, the structural decline.
+
 ### [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) — Landmark
 
 | Myth | Fact |

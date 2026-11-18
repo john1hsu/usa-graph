@@ -5391,6 +5391,211 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Historian Thomas Sugrue notes that Detroit lost more than 130,000 manufacturing jobs between 1948 and 1967, as automakers moved plants to suburbs, small towns and the Sunbelt and automated production, and that white flight and disinvestment were already under way before 1967; white departures did accelerate sharply afterward.",
+   "uso:myth": "Detroit's decline began with the 1967 uprising, which drove people and jobs out of a thriving city.",
+   "uso:why": "A single dramatic event is easier to remember than decades of gradual industrial and metropolitan change, and blaming the uprising draws attention away from corporate decisions and housing segregation that shaped the city earlier."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the French found a settlement at Detroit in 1701, and who already lived there?",
+   "uso:answer": "Cadillac persuaded French officials to back a settlement on the Detroit River to forestall British expansion and build a colony supported by the region's soil and fur trade; the land had long been home to Anishinaabe peoples, and Odawa, Bodewadmi (Potawatomi) and Ojibwe families were encouraged to settle near the fort.",
+   "uso:questionFor": {
+    "@id": "us:detroit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the automobile industry change Detroit's size and workforce?",
+   "uso:answer": "Ford's Model T, the moving assembly line at Highland Park in 1913 and the five-dollar day in 1914 drew workers from many places; Detroit grew from the nation's 13th-largest city in 1903 to its fifth-largest by 1950, with nearly two million people.",
+   "uso:questionFor": {
+    "@id": "us:detroit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did World War II both open opportunities for and constrain Black Detroiters?",
+   "uso:answer": "War production opened factory jobs previously closed to Black workers and drew about 350,000 migrants, but restrictive covenants confined Black residents to overcrowded areas such as Black Bottom and Paradise Valley, and housing conflict and racial tension erupted in the 1943 riot.",
+   "uso:questionFor": {
+    "@id": "us:detroit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why does Thomas Sugrue argue that the 1967 uprising did not begin Detroit's decline?",
+   "uso:answer": "Because the city had already lost more than 130,000 manufacturing jobs between 1948 and 1967 to decentralization and automation, with white flight and disinvestment under way, so the uprising came after, not before, the structural decline.",
+   "uso:questionFor": {
+    "@id": "us:detroit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Antoine de la Mothe Cadillac's party chooses the site for Fort Pontchartrain du détroit; a chapel to Ste. Anne is begun two days later.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1701-07-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ford's Highland Park plant opens; it introduces a moving automobile assembly line in 1913.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1910-01-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ford begins paying five dollars for an eight-hour day.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1914"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fighting on Belle Isle sets off a riot in which 34 people die, 25 of them Black.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1943-06-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Berry Gordy Jr. founds Tamla Records, soon joined by the Motown label.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-01-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A police raid on an unlicensed bar on 12th Street sets off five days of unrest in which 43 people die.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1967-07-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Coleman A. Young is elected Detroit's first African American mayor.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1973"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Detroit files for Chapter 9 bankruptcy, the largest municipal filing in U.S. history.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2013-07-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Judge Steven Rhodes confirms the city's plan to exit bankruptcy.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2014-11-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 639,111 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cadillac begins granting narrow 'ribbon farms' running inland from the river.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1707"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The British take over Detroit during the French and Indian War.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1760"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Odawa leader Pontiac (Obwandiyag) besieges the British fort, which is never taken.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1763"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Britain hands Detroit and the surrounding territory over to the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1796-07-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1805-06-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "General William Hull surrenders Fort Detroit and about 2,500 men to British Major General Isaac Brock.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-08-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Michigan is admitted to the Union with Detroit as its first state capital.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1837-01-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The governor signs the bill moving Michigan's capital from Detroit to Lansing.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1847-03-16"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The first was Marbury v. Madison in 1803; Dred Scott was the first time since then that the Court invalidated a federal statute, the Missouri Compromise's restriction on slavery.",
@@ -21167,6 +21372,244 @@
     "@id": "https://encyclopediaofarkansas.net/entries/daisy-lee-gatson-bates-591/"
    },
    "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Founding of Detroit",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/founding-detroit"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Race Riot of 1943",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/race-riot-1943"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Motown Records",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/motown-records"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Uprising of 1967",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/uprising-1967"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Young, Coleman",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/young-coleman"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Federal Reserve Bank of Chicago, Chicago Fed Letter No. 316 (November 2013), by Gene Amromin and Ben Chabot",
+   "dcterms:title": "Detroit's bankruptcy: The uncharted waters of Chapter 9",
+   "schema:url": {
+    "@id": "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2013/cflnovember2013-316-pdf.pdf"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Michigan Advance (July 18, 2023)",
+   "dcterms:title": "On this day in 2013: The city of Detroit files for bankruptcy",
+   "schema:url": {
+    "@id": "https://michiganadvance.com/2023/07/18/on-this-day-in-2013-the-city-of-detroit-files-for-bankruptcy/"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Michigan Public (November 7, 2014)",
+   "dcterms:title": "Detroit's adjustment plan confirmed; city will exit bankruptcy",
+   "schema:url": {
+    "@id": "https://michiganpublic.org/politics-government/2014-11-07/detroits-adjustment-plan-confirmed-city-will-exit-bankruptcy"
+   },
+   "uso:sourceType": "news"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s17",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: Detroit city, Michigan",
+   "schema:url": {
+    "@id": "https://www.census.gov/quickfacts/fact/table/detroitcitymichigan,MI/POP010220"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Chief Pontiac",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/node/216"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "The Underground Railroad of 1812: Paths to freedom along the Canadian border",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/the-underground-railroad-changes-course.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "\"He is a coward\": The Surrender of Detroit",
+   "schema:url": {
+    "@id": "https://www.nps.gov/stories/surrender-of-detroit.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Great Fire of 1805",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/great-fire-1805"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Michigan State Capitol",
+   "dcterms:title": "Three Capitols",
+   "schema:url": {
+    "@id": "https://capitol.michigan.gov/history/three-capitols"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Ford Highland Park Plant",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/ford-highland-park-plant"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Gilder Lehrman Institute of American History, essay by Thomas J. Sugrue",
+   "dcterms:title": "Motor City: The Story of Detroit",
+   "schema:url": {
+    "@id": "https://gilderlehrman.org/history-resources/essays/motor-city-story-detroit"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Detroit Historical Society, Encyclopedia of Detroit",
+   "dcterms:title": "Arsenal of Democracy",
+   "schema:url": {
+    "@id": "https://detroithistorical.org/learn/encyclopedia-of-detroit/arsenal-democracy"
+   },
+   "uso:sourceType": "museum"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/dred-scott-v-sandford/s1",
@@ -44081,6 +44524,221 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:detroit",
+   "@type": "uso:City",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/detroit/s9"
+    }
+   ],
+   "rdfs:label": "Detroit",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1701-07-24"
+   },
+   "skos:altLabel": [
+    "City of Detroit",
+    "Detroit",
+    "Michigan",
+    "Motor City",
+    "Waawiiyaataanong"
+   ],
+   "skos:broader": {
+    "@id": "us:the-midwest"
+   },
+   "skos:definition": "A Michigan city and the state's first capital, founded by the French in 1701 as Fort Pontchartrain du détroit on Anishinaabe land along the Detroit River; it became the center of the American automobile industry and the \"arsenal of democracy\" in World War II, a major destination of Black southern migrants, and later a symbol of deindustrialization, urban decline and the largest municipal bankruptcy in U.S. history (2013).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks"
+   },
+   "skos:prefLabel": "Detroit",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:automobile-industry"
+    },
+    {
+     "@id": "us:chicago"
+    },
+    {
+     "@id": "us:coleman-young"
+    },
+    {
+     "@id": "us:detroit-race-riot-of-1943"
+    },
+    {
+     "@id": "us:detroit-river"
+    },
+    {
+     "@id": "us:detroit-uprising-of-1967"
+    },
+    {
+     "@id": "us:ford-motor-company"
+    },
+    {
+     "@id": "us:franklin-d-roosevelt"
+    },
+    {
+     "@id": "us:french-and-indian-war"
+    },
+    {
+     "@id": "us:great-migration"
+    },
+    {
+     "@id": "us:labor-movement"
+    },
+    {
+     "@id": "us:michigan"
+    },
+    {
+     "@id": "us:motown-records"
+    },
+    {
+     "@id": "us:northwest-ordinance"
+    },
+    {
+     "@id": "us:pontiacs-war"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    },
+    {
+     "@id": "us:underground-railroad"
+    },
+    {
+     "@id": "us:war-of-1812"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:borders": {
+    "@id": "us:detroit-river"
+   },
+   "uso:domain": "regions-cities-and-landmarks",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/regions-cities-and-landmarks/detroit.md",
+   "uso:foundedBy": {
+    "@id": "us:antoine-de-la-mothe-cadillac"
+   },
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:michigan"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/detroit/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/detroit/timeline/9"
     }
    ]
   },

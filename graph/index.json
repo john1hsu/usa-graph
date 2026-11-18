@@ -6643,6 +6643,246 @@
   ]
  },
  {
+  "id": "us:detroit",
+  "title": "Detroit",
+  "aliases": [
+   "Motor City",
+   "Waawiiyaataanong",
+   "City of Detroit",
+   "Detroit",
+   "Michigan"
+  ],
+  "type": "City",
+  "domain": "regions-cities-and-landmarks",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/regions-cities-and-landmarks/detroit.md",
+  "created": "2026-11-18",
+  "summary": "A Michigan city and the state's first capital, founded by the French in 1701 as Fort Pontchartrain du détroit on Anishinaabe land along the Detroit River; it became the center of the American automobile industry and the \"arsenal of democracy\" in World War II, a major destination of Black southern migrants, and later a symbol of deindustrialization, urban decline and the largest municipal bankruptcy in U.S. history (2013).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:the-midwest"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:michigan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:great-migration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:underground-railroad"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:northwest-ordinance"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:french-and-indian-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-paris-1783"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:labor-movement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:franklin-d-roosevelt"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chicago"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:pontiacs-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:automobile-industry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:ford-motor-company"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit-race-riot-of-1943"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:detroit-uprising-of-1967"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:motown-records"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:coleman-young"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:michigan",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:detroit-river",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:foundedBy",
+    "object": "us:antoine-de-la-mothe-cadillac",
+    "source": "s1",
+    "confidence": "high"
+   }
+  ],
+  "start": "1701-07-24",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did the French found a settlement at Detroit in 1701, and who already lived there?",
+    "answer": "Cadillac persuaded French officials to back a settlement on the Detroit River to forestall British expansion and build a colony supported by the region's soil and fur trade; the land had long been home to Anishinaabe peoples, and Odawa, Bodewadmi (Potawatomi) and Ojibwe families were encouraged to settle near the fort."
+   },
+   {
+    "question": "How did the automobile industry change Detroit's size and workforce?",
+    "answer": "Ford's Model T, the moving assembly line at Highland Park in 1913 and the five-dollar day in 1914 drew workers from many places; Detroit grew from the nation's 13th-largest city in 1903 to its fifth-largest by 1950, with nearly two million people."
+   },
+   {
+    "question": "How did World War II both open opportunities for and constrain Black Detroiters?",
+    "answer": "War production opened factory jobs previously closed to Black workers and drew about 350,000 migrants, but restrictive covenants confined Black residents to overcrowded areas such as Black Bottom and Paradise Valley, and housing conflict and racial tension erupted in the 1943 riot."
+   },
+   {
+    "question": "Why does Thomas Sugrue argue that the 1967 uprising did not begin Detroit's decline?",
+    "answer": "Because the city had already lost more than 130,000 manufacturing jobs between 1948 and 1967 to decentralization and automation, with white flight and disinvestment under way, so the uprising came after, not before, the structural decline."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1701-07-24",
+    "event": "Antoine de la Mothe Cadillac's party chooses the site for Fort Pontchartrain du détroit; a chapel to Ste. Anne is begun two days later."
+   },
+   {
+    "date": "1707",
+    "event": "Cadillac begins granting narrow 'ribbon farms' running inland from the river."
+   },
+   {
+    "date": "1760",
+    "event": "The British take over Detroit during the French and Indian War."
+   },
+   {
+    "date": "1763",
+    "event": "Odawa leader Pontiac (Obwandiyag) besieges the British fort, which is never taken."
+   },
+   {
+    "date": "1796-07-11",
+    "event": "Britain hands Detroit and the surrounding territory over to the United States."
+   },
+   {
+    "date": "1805-06-11",
+    "event": "Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan."
+   },
+   {
+    "date": "1812-08-16",
+    "event": "General William Hull surrenders Fort Detroit and about 2,500 men to British Major General Isaac Brock."
+   },
+   {
+    "date": "1837-01-26",
+    "event": "Michigan is admitted to the Union with Detroit as its first state capital."
+   },
+   {
+    "date": "1847-03-16",
+    "event": "The governor signs the bill moving Michigan's capital from Detroit to Lansing."
+   },
+   {
+    "date": "1910-01-01",
+    "event": "Ford's Highland Park plant opens; it introduces a moving automobile assembly line in 1913."
+   },
+   {
+    "date": "1914",
+    "event": "Ford begins paying five dollars for an eight-hour day."
+   },
+   {
+    "date": "1943-06-20",
+    "event": "Fighting on Belle Isle sets off a riot in which 34 people die, 25 of them Black."
+   },
+   {
+    "date": "1959-01-12",
+    "event": "Berry Gordy Jr. founds Tamla Records, soon joined by the Motown label."
+   },
+   {
+    "date": "1967-07-23",
+    "event": "A police raid on an unlicensed bar on 12th Street sets off five days of unrest in which 43 people die."
+   },
+   {
+    "date": "1973",
+    "event": "Coleman A. Young is elected Detroit's first African American mayor."
+   },
+   {
+    "date": "2013-07-18",
+    "event": "Detroit files for Chapter 9 bankruptcy, the largest municipal filing in U.S. history."
+   },
+   {
+    "date": "2014-11-07",
+    "event": "Judge Steven Rhodes confirms the city's plan to exit bankruptcy."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 639,111 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "Detroit's decline began with the 1967 uprising, which drove people and jobs out of a thriving city.",
+   "fact": "Historian Thomas Sugrue notes that Detroit lost more than 130,000 manufacturing jobs between 1948 and 1967, as automakers moved plants to suburbs, small towns and the Sunbelt and automated production, and that white flight and disinvestment were already under way before 1967; white departures did accelerate sharply afterward.",
+   "why": "A single dramatic event is easier to remember than decades of gradual industrial and metropolitan change, and blaming the uprising draws attention away from corporate decisions and housing segregation that shaped the city earlier."
+  },
+  "source_urls": [
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/founding-detroit",
+   "https://detroithistorical.org/node/216",
+   "https://www.nps.gov/articles/the-underground-railroad-changes-course.htm",
+   "https://www.nps.gov/stories/surrender-of-detroit.htm",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/great-fire-1805",
+   "https://capitol.michigan.gov/history/three-capitols",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/ford-highland-park-plant",
+   "https://gilderlehrman.org/history-resources/essays/motor-city-story-detroit",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/arsenal-democracy",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/race-riot-1943",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/motown-records",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/uprising-1967",
+   "https://detroithistorical.org/learn/encyclopedia-of-detroit/young-coleman",
+   "https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2013/cflnovember2013-316-pdf.pdf",
+   "https://michiganadvance.com/2023/07/18/on-this-day-in-2013-the-city-of-detroit-files-for-bankruptcy/",
+   "https://michiganpublic.org/politics-government/2014-11-07/detroits-adjustment-plan-confirmed-city-will-exit-bankruptcy",
+   "https://www.census.gov/quickfacts/fact/table/detroitcitymichigan,MI/POP010220"
+  ]
+ },
+ {
   "id": "us:dred-scott-v-sandford",
   "title": "Dred Scott v. Sandford",
   "aliases": [

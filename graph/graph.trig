@@ -1274,6 +1274,26 @@
 <https://github.com/john1hsu/usa-graph/id/chicago#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s14> .
 <https://github.com/john1hsu/usa-graph/id/chicago#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s15> .
 <https://github.com/john1hsu/usa-graph/id/chicago#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/chicago/s16> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/detroit> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/detroit.md" .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> .
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
 <https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/regions-cities-and-landmarks/gatun-locks.md" .
@@ -19517,6 +19537,261 @@
   <https://github.com/john1hsu/usa-graph/id/source/chicago/s9> <https://schema.org/url> <https://encyclopedia.chicagohistory.org/pages/1270.html> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/detroit#graph> {
+  <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Historian Thomas Sugrue notes that Detroit lost more than 130,000 manufacturing jobs between 1948 and 1967, as automakers moved plants to suburbs, small towns and the Sunbelt and automated production, and that white flight and disinvestment were already under way before 1967; white departures did accelerate sharply afterward." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Detroit's decline began with the 1967 uprising, which drove people and jobs out of a thriving city." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "A single dramatic event is easier to remember than decades of gradual industrial and metropolitan change, and blaming the uprising draws attention away from corporate decisions and housing segregation that shaped the city earlier." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the French found a settlement at Detroit in 1701, and who already lived there?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Cadillac persuaded French officials to back a settlement on the Detroit River to forestall British expansion and build a colony supported by the region's soil and fur trade; the land had long been home to Anishinaabe peoples, and Odawa, Bodewadmi (Potawatomi) and Ojibwe families were encouraged to settle near the fort." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the automobile industry change Detroit's size and workforce?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Ford's Model T, the moving assembly line at Highland Park in 1913 and the five-dollar day in 1914 drew workers from many places; Detroit grew from the nation's 13th-largest city in 1903 to its fifth-largest by 1950, with nearly two million people." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did World War II both open opportunities for and constrain Black Detroiters?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "War production opened factory jobs previously closed to Black workers and drew about 350,000 migrants, but restrictive covenants confined Black residents to overcrowded areas such as Black Bottom and Paradise Valley, and housing conflict and racial tension erupted in the 1943 riot." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Thomas Sugrue argue that the 1967 uprising did not begin Detroit's decline?" .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because the city had already lost more than 130,000 manufacturing jobs between 1948 and 1967 to decentralization and automation, with white flight and disinvestment under way, so the uprising came after, not before, the structural decline." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Ford's Highland Park plant opens; it introduces a moving automobile assembly line in 1913." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1910-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Ford begins paying five dollars for an eight-hour day." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1914"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Fighting on Belle Isle sets off a riot in which 34 people die, 25 of them Black." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1943-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Berry Gordy Jr. founds Tamla Records, soon joined by the Motown label." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1959-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "A police raid on an unlicensed bar on 12th Street sets off five days of unrest in which 43 people die." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1967-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Coleman A. Young is elected Detroit's first African American mayor." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1973"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit files for Chapter 9 bankruptcy, the largest municipal filing in U.S. history." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "2013-07-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Judge Steven Rhodes confirms the city's plan to exit bankruptcy." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "2014-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 639,111 residents." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Antoine de la Mothe Cadillac's party chooses the site for Fort Pontchartrain du détroit; a chapel to Ste. Anne is begun two days later." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1701-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Cadillac begins granting narrow 'ribbon farms' running inland from the river." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1707"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "The British take over Detroit during the French and Indian War." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1760"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Odawa leader Pontiac (Obwandiyag) besieges the British fort, which is never taken." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1763"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Britain hands Detroit and the surrounding territory over to the United States." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1796-07-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1805-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "General William Hull surrenders Fort Detroit and about 2,500 men to British Major General Isaac Brock." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Michigan is admitted to the Union with Detroit as its first state capital." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1837-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "The governor signs the bill moving Michigan's capital from Detroit to Lansing." .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1847-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#City> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#altLabel> "City of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#altLabel> "Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#altLabel> "Michigan" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#altLabel> "Motor City" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#altLabel> "Waawiiyaataanong" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#definition> "A Michigan city and the state's first capital, founded by the French in 1701 as Fort Pontchartrain du détroit on Anishinaabe land along the Detroit River; it became the center of the American automobile industry and the \"arsenal of democracy\" in World War II, a major destination of Black southern migrants, and later a symbol of deindustrialization, urban decline and the largest municipal bankruptcy in U.S. history (2013)." .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/regions-cities-and-landmarks> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/automobile-industry> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/coleman-young> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-river> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit-uprising-of-1967> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/ford-motor-company> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-migration> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/labor-movement> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/michigan> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/motown-records> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pontiacs-war> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/detroit-river> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#domain> "regions-cities-and-landmarks" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/regions-cities-and-landmarks/detroit.md" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#foundedBy> <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/michigan> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/detroit/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/detroit/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <https://schema.org/startDate> "1701-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <http://purl.org/dc/terms/title> "Race Riot of 1943" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s10> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/race-riot-1943> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <http://purl.org/dc/terms/title> "Motown Records" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s11> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/motown-records> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <http://purl.org/dc/terms/title> "Uprising of 1967" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s12> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/uprising-1967> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <http://purl.org/dc/terms/title> "Young, Coleman" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s13> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/young-coleman> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <http://purl.org/dc/terms/publisher> "Federal Reserve Bank of Chicago, Chicago Fed Letter No. 316 (November 2013), by Gene Amromin and Ben Chabot" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <http://purl.org/dc/terms/title> "Detroit's bankruptcy: The uncharted waters of Chapter 9" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s14> <https://schema.org/url> <https://www.chicagofed.org/-/media/publications/chicago-fed-letter/2013/cflnovember2013-316-pdf.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <http://purl.org/dc/terms/publisher> "Michigan Advance (July 18, 2023)" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <http://purl.org/dc/terms/title> "On this day in 2013: The city of Detroit files for bankruptcy" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s15> <https://schema.org/url> <https://michiganadvance.com/2023/07/18/on-this-day-in-2013-the-city-of-detroit-files-for-bankruptcy/> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <http://purl.org/dc/terms/publisher> "Michigan Public (November 7, 2014)" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <http://purl.org/dc/terms/title> "Detroit's adjustment plan confirmed; city will exit bankruptcy" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "news" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s16> <https://schema.org/url> <https://michiganpublic.org/politics-government/2014-11-07/detroits-adjustment-plan-confirmed-city-will-exit-bankruptcy> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <http://purl.org/dc/terms/title> "QuickFacts: Detroit city, Michigan" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s17> <https://schema.org/url> <https://www.census.gov/quickfacts/fact/table/detroitcitymichigan,MI/POP010220> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <http://purl.org/dc/terms/title> "Founding of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s1> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/founding-detroit> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <http://purl.org/dc/terms/title> "Chief Pontiac" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s2> <https://schema.org/url> <https://detroithistorical.org/node/216> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <http://purl.org/dc/terms/title> "The Underground Railroad of 1812: Paths to freedom along the Canadian border" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s3> <https://schema.org/url> <https://www.nps.gov/articles/the-underground-railroad-changes-course.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <http://purl.org/dc/terms/title> "\"He is a coward\": The Surrender of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s4> <https://schema.org/url> <https://www.nps.gov/stories/surrender-of-detroit.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <http://purl.org/dc/terms/title> "Great Fire of 1805" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s5> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/great-fire-1805> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <http://purl.org/dc/terms/publisher> "Michigan State Capitol" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <http://purl.org/dc/terms/title> "Three Capitols" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s6> <https://schema.org/url> <https://capitol.michigan.gov/history/three-capitols> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <http://purl.org/dc/terms/title> "Ford Highland Park Plant" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s7> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/ford-highland-park-plant> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <http://purl.org/dc/terms/publisher> "Gilder Lehrman Institute of American History, essay by Thomas J. Sugrue" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <http://purl.org/dc/terms/title> "Motor City: The Story of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s8> <https://schema.org/url> <https://gilderlehrman.org/history-resources/essays/motor-city-story-detroit> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <http://purl.org/dc/terms/publisher> "Detroit Historical Society, Encyclopedia of Detroit" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <http://purl.org/dc/terms/title> "Arsenal of Democracy" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/detroit/s9> <https://schema.org/url> <https://detroithistorical.org/learn/encyclopedia-of-detroit/arsenal-democracy> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/gatun-locks#graph> {
   <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/gatun-locks/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "No pumps are used; valves let fresh water from Gatun Lake flow down by gravity through culverts in the lock walls and up through holes in the chamber floors, and to lower a ship the chamber is drained downward through the same culverts." .
@@ -24878,6 +25153,7 @@
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hip-hop> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/african-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
@@ -25124,6 +25400,9 @@
   <https://github.com/john1hsu/usa-graph/id/anti-federalists> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/anti-slavery-record> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/antiquities-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
+  <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/antoine-de-la-mothe-cadillac> <https://github.com/john1hsu/usa-graph/ontology#founded> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/antonio-lopez-de-santa-anna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/antonio-lopez-de-santa-anna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/antonio-lopez-de-santa-anna> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
@@ -25227,6 +25506,7 @@
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/world-war-ii> .
   <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/authorization-for-use-of-military-force-of-2001> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
+  <https://github.com/john1hsu/usa-graph/id/automobile-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/avery-v-midland-county> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/huffman-prairie> .
   <https://github.com/john1hsu/usa-graph/id/aviation-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/wright-brothers-first-flight> .
@@ -25708,6 +25988,7 @@
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
+  <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/chicago> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/chickasaw-nation> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
@@ -25863,6 +26144,7 @@
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#periodOf> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/cold-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/nato> .
+  <https://github.com/john1hsu/usa-graph/id/coleman-young> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/college-park-airport> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wright-company-school-of-aviation> .
   <https://github.com/john1hsu/usa-graph/id/colonial-marines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/colony-of-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -26201,6 +26483,38 @@
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/desegregation-of-little-rock-central-high-school> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-race-riot-of-1943> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit-uprising-of-1967> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -26594,6 +26908,7 @@
   <https://github.com/john1hsu/usa-graph/id/flag-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/flag-resolution-of-1777> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flight-93-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
+  <https://github.com/john1hsu/usa-graph/id/ford-motor-company> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/foreign-miners-tax-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
@@ -26717,6 +27032,7 @@
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
@@ -26795,6 +27111,7 @@
   <https://github.com/john1hsu/usa-graph/id/freedom-suits> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/freedoms-journal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/french-and-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/frontier-thesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/fugitive-slave-act-of-1850> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
@@ -26979,6 +27296,7 @@
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
   <https://github.com/john1hsu/usa-graph/id/great-migration> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/african-americans> .
   <https://github.com/john1hsu/usa-graph/id/great-mississippi-flood-of-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -27735,6 +28053,7 @@
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
   <https://github.com/john1hsu/usa-graph/id/labor-law-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
+  <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panic-of-1873> .
   <https://github.com/john1hsu/usa-graph/id/labor-movement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/triangle-shirtwaist-factory-fire> .
@@ -28101,6 +28420,10 @@
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/mexico> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
+  <https://github.com/john1hsu/usa-graph/id/michigan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
+  <https://github.com/john1hsu/usa-graph/id/michigan> <https://github.com/john1hsu/usa-graph/ontology#contains> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/minerals-management-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/minerals-management-service> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/deepwater-horizon-oil-spill> .
   <https://github.com/john1hsu/usa-graph/id/minimum-wage/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28279,6 +28602,7 @@
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/higher-education-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/motown-records> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/mount-vernon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/mrs-olearys-cow-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/muckrakers/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28580,6 +28904,7 @@
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
@@ -28858,6 +29183,7 @@
   <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/plymouth-colony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/pocahontas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
+  <https://github.com/john1hsu/usa-graph/id/pontiacs-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/pony-express> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/poor-peoples-campaign> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> .
   <https://github.com/john1hsu/usa-graph/id/poor-richards-almanack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
@@ -29672,7 +29998,9 @@
   <https://github.com/john1hsu/usa-graph/id/the-hermitage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/the-jungle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
@@ -29969,6 +30297,7 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
@@ -30068,6 +30397,7 @@
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/african-american-history> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/resistance-to-slavery> .
+  <https://github.com/john1hsu/usa-graph/id/underground-railroad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/underground-railroad> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/united-farm-workers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
@@ -30432,6 +30762,7 @@
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -30621,6 +30952,7 @@
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/japanese-american-incarceration> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/servicemens-readjustment-act-of-1944> .
+  <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/chinese-americans> .

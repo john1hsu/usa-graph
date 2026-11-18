@@ -69,9 +69,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1699 | Pierre Le Moyne d'Iberville's French expedition learns from Native guides of a ridge linking the Mississippi to Bayou St. John and Lake Pontchartrain. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1699 | The capital moves to Middle Plantation, renamed Williamsburg, and Jamestown ceases to be a town. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1701 | The Charter of Privileges guarantees worship to anyone who acknowledges one almighty God; it stays in force until 1776. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1701-07-24 | **[Detroit](../articles/regions-cities-and-landmarks/detroit.md)** (City) |
+| 1701-07-24 | Antoine de la Mothe Cadillac's party chooses the site for Fort Pontchartrain du détroit; a chapel to Ste. Anne is begun two days later. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1705 | A Virginia law classes enslaved people as real estate. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1706-01-17 – 1790-04-17 | **[Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md)** (Person) |
 | 1706-01-17 | Born in Boston, Massachusetts (January 6 under the Old Style calendar then in use). — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1707 | Cadillac begins granting narrow 'ribbon farms' running inland from the river. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1718 | **[New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md)** (City) |
 | 1718 | Jean-Baptiste Le Moyne de Bienville founds La Nouvelle-Orléans near the river's mouth. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1722 | France makes New Orleans the capital of French Louisiana. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
@@ -101,6 +104,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1755-09-24 | Born near Germantown in Fauquier County, Virginia, one of fourteen children of Thomas and Mary Randolph Marshall. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1757 | Sails to London as agent of the Pennsylvania Assembly, taking two enslaved men, Peter and King. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1760 | The British take over Detroit during the French and Indian War. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
+| 1763 | Odawa leader Pontiac (Obwandiyag) besieges the British fort, which is never taken. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1767-03-15 – 1845-06-08 | **[Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md)** (Person) |
@@ -350,6 +355,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1796 | Elected Tennessee's first member of the U.S. House of Representatives; the next year the legislature sends him to the Senate. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1796 | In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1796 | Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
+| 1796-07-11 | Britain hands Detroit and the surrounding territory over to the United States. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1797 – 1883-11-26 | **[Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md)** (Person) |
 | 1797 | Becomes vice president under John Adams after finishing second in the 1796 electoral vote. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -401,6 +407,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1804-06 | New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1804-06-15 | The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
+| 1805-06-11 | Fire destroys nearly the whole town; Judge Augustus Woodward lays out a new radial street plan. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1807 | John Colter becomes the first known European American to visit the area of present-day Yellowstone. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
 | 1807-02-24 | Congress adds a seventh seat. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1807-03-02 | Signs the act banning the importation of enslaved people, effective January 1, 1808. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -420,6 +427,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1812-06-17 | The Senate votes for war, 19 to 13; Madison signs the declaration the next day. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1812-06-18 – 1815-02 | **[War of 1812](../articles/early-republic-and-expansion/war-of-1812.md)** (Conflict) |
 | 1812-08-16 | General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1812-08-16 | General William Hull surrenders Fort Detroit and about 2,500 men to British Major General Isaac Brock. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1812-08-19 | USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1813-01-22 | British, Canadian and Native forces rout a Kentucky army at the River Raisin; only 33 Americans escape. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1813-09-10 | Oliver Hazard Perry's squadron wins the Battle of Lake Erie. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
@@ -560,6 +568,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1837 | Robert Purvis brings a vigilance committee to Philadelphia to aid freedom seekers. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1837-01 | The Senate votes to expunge the censure; his second term ends on March 4. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
+| 1837-01-26 | Michigan is admitted to the Union with Detroit as its first state capital. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1837-03-03 | Congress adds two more seats, bringing the Court to nine. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -605,6 +614,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1847-01 | A joint army-navy force under Stephen W. Kearny and Robert F. Stockton secures southern California. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-02-23 | Taylor's outnumbered army defeats Santa Anna's at Buena Vista after two days of fighting. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-03-09 | Winfield Scott's army of about 10,000 lands near Veracruz in the first large-scale U.S. amphibious assault. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
+| 1847-03-16 | The governor signs the bill moving Michigan's capital from Detroit to Lansing. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1847-06-30 | The first trial ends against the Scotts on a technicality, and their lawyer wins a new trial. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1847-09-14 | After battles at Cerro Gordo, Contreras, Churubusco, Molino del Rey and Chapultepec, Scott's army enters Mexico City. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1847-12-22 | As a first-term Whig congressman, introduces the Spot Resolutions challenging the case for war with Mexico. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -1112,6 +1122,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1910 | Southwesterners begin moving west to California in significant numbers. — [Okies](../articles/society-and-people/okies.md) |
 | 1910 | The Angel Island Immigration Station opens in San Francisco Bay; it operates until 1940. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1910 | The Great Migration out of the South begins; about six million people move north and west by 1970. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1910-01-01 | Ford's Highland Park plant opens; it introduces a moving automobile assembly line in 1913. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1910-01-21 – 1940-11-05 | **[Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md)** (Landmark) |
 | 1910-01-21 | The U.S. Immigration Station on Angel Island opens. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1910-01-21 | The U.S. Immigration Station on Angel Island opens; poems begin to appear on the barracks walls within about ten months. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
@@ -1154,6 +1165,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1913-09-26 | The tug Gatun makes the first trial lockage, with valves worked by hand. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1913-10-10 | The Gamboa dike is destroyed, joining Gatun Lake with the Culebra Cut. — [Gatun Locks](../articles/regions-cities-and-landmarks/gatun-locks.md) |
 | 1914 | Explores an uncharted river in Brazil. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1914 | Ford begins paying five dollars for an eight-hour day. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1914 | Handy publishes "St. Louis Blues," his best-known composition. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1914 | The Smith-Lever Act creates the Cooperative Extension System. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1914-03-11 | Blanck and Harris settle 23 civil suits, paying $75 for each life lost. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
@@ -1396,6 +1408,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1943-02-01 | The Army activates the 442nd Regimental Combat Team, combining the 100th Battalion with mainland Nisei volunteers. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-02-03 | The WRA begins giving incarcerated adults the so-called loyalty questionnaire. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-06 | The National Resources Planning Board recommends education and training programs for returning service members. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
+| 1943-06-20 | Fighting on Belle Isle sets off a riot in which 34 people die, 25 of them Black. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1943-07 | The Navy cancels the Montana-class battleships whose width the new locks were meant to accommodate. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
 | 1943-07-31 | Tule Lake is designated a segregation center for people the government labeled disloyal. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1943-11 | The American Legion drafts its own "GI Bill of Rights"; former national commander Harry Colmery sketches its ideas at the Mayflower Hotel in Washington. — [Servicemen's Readjustment Act of 1944](../articles/cold-war-and-civil-rights/servicemens-readjustment-act-of-1944.md) |
@@ -1526,6 +1539,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1958-09-29 | In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1959 | The introduced oyster parasite MSX appears in the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
+| 1959-01-12 | Berry Gordy Jr. founds Tamla Records, soon joined by the Motown label. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1959-03-18 | President Eisenhower signs the statehood act passed by Congress. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1959-08-21 | **[Hawaii](../articles/states-and-territories/hawaii.md)** (State) |
@@ -1593,6 +1607,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1967-02-10 | The Twenty-fifth Amendment is ratified, setting rules for succession and presidential disability. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1967-04-04 | Denounces the Vietnam War at Riverside Church in New York. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1967-06-12 | Loving v. Virginia unanimously strikes down a state ban on interracial marriage. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
+| 1967-07-23 | A police raid on an unlicensed bar on 12th Street sets off five days of unrest in which 43 people die. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1967-10-02 | Thurgood Marshall is sworn in as the first African American justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1967-11 | Announces the Poor People's Campaign. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968 | A new Civil Rights Act prohibits discrimination in housing. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
@@ -1613,6 +1628,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
+| 1973 | Coleman A. Young is elected Detroit's first African American mayor. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1973 | Mahan v. Howell upholds a state legislative map with a 16.4 percent total deviation, allowing more leeway than for congressional districts. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1973-08-11 | **[Hip hop](../articles/culture-and-arts/hip-hop.md)** (Tradition) |
 | 1973-08-11 | DJ Kool Herc plays the "Back to School Jam" organized by his sister Cindy Campbell at 1520 Sedgwick Avenue in the Bronx. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
@@ -1777,11 +1793,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2013-06-25 | **[Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md)** (CourtCase) |
 | 2013-06-25 | In Shelby County v. Holder the Supreme Court, 5 to 4, holds the Section 4(b) coverage formula unconstitutional, halting preclearance. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2013-06-25 | The Court rules 5 to 4 that the Section 4(b) coverage formula is unconstitutional. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
+| 2013-07-18 | Detroit files for Chapter 9 bankruptcy, the largest municipal filing in U.S. history. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 2014 | A second, expanded edition of Island is published by the University of Washington Press. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 2014-06-16 | The Chesapeake Bay Watershed Agreement is signed, with 10 goals and 31 outcomes. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2014-11 | A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2014-11-07 | Judge Steven Rhodes confirms the city's plan to exit bankruptcy. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 2015 | Eric Foner's Gateway to Freedom documents New York's interracial vigilance committees. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
 | 2015-01 | The Supreme Court agrees to hear the four consolidated cases. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
@@ -1823,6 +1841,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 331,449,281 residents, up 7.4 percent from 2010. — [United States](../articles/states-and-territories/united-states.md) |
 | 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |
 | 2020-04-01 | The census counts 576,851 residents, the fewest of any state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
+| 2020-04-01 | The census counts 639,111 residents. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 2020-04-30 | The administration launches Operation Warp Speed to speed development of a vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-08 | BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
