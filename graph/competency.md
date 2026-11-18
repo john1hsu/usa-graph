@@ -89,6 +89,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:abolitionism` | interpretive |  |
 | `us:abraham-lincoln` | interpretive |  |
 | `us:american-civil-war` | interpretive |  |
+| `us:andrew-jackson` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |
 | `us:attack-on-pearl-harbor` | interpretive |  |
 | `us:blues` | interpretive |  |
@@ -115,9 +116,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:jim-crow-laws` | interpretive |  |
 | `us:john-marshall` | interpretive |  |
 | `us:judicial-review` | interpretive |  |
-| `us:lattimer-massacre` | interpretive |  |
 
-…and 30 more.
+…and 31 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -150,6 +150,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 | `us:governor-of-new-york` | `us:franklin-d-roosevelt` | 1882-01-30 |
 | `us:presidency-of-the-united-states` | `us:george-washington` | 1732-02-22 |
 | `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
+| `us:presidency-of-the-united-states` | `us:andrew-jackson` | 1767-03-15 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:presidency-of-the-united-states` | `us:theodore-roosevelt` | 1858-10-27 |
 | `us:presidency-of-the-united-states` | `us:franklin-d-roosevelt` | 1882-01-30 |

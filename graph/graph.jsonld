@@ -956,6 +956,202 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The line first appears in Horace Greeley's 1864 book The American Conflict, more than thirty years later and secondhand; historians judge it most likely apocryphal. Jackson's own letter of April 7, 1832, said only that the decision had fallen \"still born\", and because the Court adjourned without ever ordering federal enforcement, he was never formally called on to act.",
+   "uso:myth": "When the Supreme Court ruled for the Cherokee missionaries in Worcester v. Georgia, Jackson retorted that John Marshall had made his decision and could enforce it himself.",
+   "uso:why": "The invented retort neatly sums up Jackson's real refusal to protect Cherokee treaty rights, so it has been repeated as if it were his words."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Jackson and his supporters call the 1824 election a \"corrupt bargain\"?",
+   "uso:answer": "Jackson led the popular and electoral vote but no candidate had an electoral majority, so the House chose John Quincy Adams with Henry Clay's support, and Adams then made Clay secretary of state.",
+   "uso:questionFor": {
+    "@id": "us:andrew-jackson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Jackson's Bank veto message challenge the Supreme Court's role in interpreting the Constitution?",
+   "uso:answer": "He argued that although McCulloch v. Maryland had upheld a national bank, Congress and the president were not bound by the Court's view when acting in their own roles; each branch had to judge constitutionality for itself.",
+   "uso:questionFor": {
+    "@id": "us:andrew-jackson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Senate censure Jackson in 1834, and what happened to the censure?",
+   "uso:answer": "After vetoing the Bank's recharter he fired a treasury secretary who would not remove federal deposits and had Roger Taney move them to state banks; the Senate censured him 26 to 20 for assuming powers not given by law, and a Democratic majority expunged the censure in January 1837.",
+   "uso:questionFor": {
+    "@id": "us:andrew-jackson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Jacksonian democracy expand political participation for some Americans while narrowing it for others?",
+   "uso:answer": "States dropped property requirements so more poor white men could vote, but by 1839 almost all states limited Black voting, women remained excluded, and Jackson's removal policy drove nearly 50,000 Native people from their homelands.",
+   "uso:questionFor": {
+    "@id": "us:andrew-jackson"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born in the Waxhaw settlement on the Carolina frontier, a few months after his father's death.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1767-03-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Rachel Jackson dies weeks after his victory over Adams.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1828-12-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Inaugurated as the seventh president.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1829-03-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the Indian Removal Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1830-05-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Vetoes the bill to recharter the Second Bank of the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1832-07-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Issues his proclamation against South Carolina's nullification of the tariff.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1832-12-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate censures him, 26 to 20, over the removal of federal deposits from the Bank.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1834-03-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate votes to expunge the censure; his second term ends on March 4.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1837-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at the Hermitage, his cotton plantation near Nashville.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1845-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Captured by the British with his brother Robert during the Revolutionary War; both contract smallpox, and Robert dies.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1781"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Moves to Nashville as district attorney for the Mero District.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1788"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected Tennessee's first member of the U.S. House of Representatives; the next year the legislature sends him to the Senate.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1796"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Elected major general of the Tennessee militia.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1802"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Defeats the Red Stick Creeks at Horseshoe Bend; the Treaty of Fort Jackson in August takes most Creek land in Alabama and southern Georgia.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1814-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Defeats the British at New Orleans, weeks after the Treaty of Ghent was signed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1815-01-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1818"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1824"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/angel-island-immigration-station/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Unlike Ellis Island, Angel Island was built to enforce exclusion laws aimed at Asian immigrants; yet passenger records from 1913–1919 show many Chinese arrivals were not detained at all, Japanese arrivals were detained at an even higher rate, and Chinese detentions usually ran weeks to months, with only a few lasting years.",
@@ -16456,6 +16652,216 @@
     "@id": "https://www.mountvernon.org/george-washington/the-revolutionary-war/african-americans-in-the-revolutionary-war/"
    },
    "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Andrew Jackson: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/95"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives, Milestone Documents",
+   "dcterms:title": "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)",
+   "schema:url": {
+    "@id": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-Indian-removal"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Endowment for the Humanities, HUMANITIES vol. 35 no. 2 (2014)",
+   "dcterms:title": "Hannah, Andrew Jackson's Slave (Mark R. Cheathem)",
+   "schema:url": {
+    "@id": "https://www.neh.gov/humanities/2014/marchapril/feature/hannah-andrew-jacksons-slave"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Georgia Encyclopedia, Georgia Humanities",
+   "dcterms:title": "Worcester v. Georgia (1832) (Tim Alan Garrison)",
+   "schema:url": {
+    "@id": "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Chronicles of Oklahoma, vol. 74 no. 1 (1996), Oklahoma Historical Society",
+   "dcterms:title": "'Now Let Him Enforce It': Exploring the Myth of Andrew Jackson's Response to Worcester v. Georgia (Mark R. Scherer)",
+   "schema:url": {
+    "@id": "https://gateway.okhistory.org/ark:/67531/metadc2031778/m2/1/high_res_d/1996-v74-n01_a02.pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The American Yawp (Stanford University Press)",
+   "dcterms:title": "9. Democracy in America",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/text/09-democracy-in-america"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "McGraw-Hill Higher Education (textbook companion site)",
+   "dcterms:title": "Where Historians Disagree: The 'Age of Jackson'",
+   "schema:url": {
+    "@id": "https://highered.mheducation.com/sites/0012122005/student_view0/chapter9/where_historians_disagree.html"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Andrew Jackson: Life Before the Presidency",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/96"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Andrew Jackson: Impact and Legacy (Daniel Feller)",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/jackson/impact-and-legacy"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Tennessee Encyclopedia, Tennessee Historical Society",
+   "dcterms:title": "Andrew Jackson (Harold D. Moser)",
+   "schema:url": {
+    "@id": "https://tennesseeencyclopedia.net/?p=1042"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara",
+   "dcterms:title": "Andrew Jackson: 7th President of the United States",
+   "schema:url": {
+    "@id": "https://www.presidency.ucsb.edu/people/president/andrew-jackson"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "President Jackson's Veto Message Regarding the Bank of the United States; July 10, 1832",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/19th_century/ajveto01.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "The Papers of Andrew Jackson (document index)",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/subject_menus/jackpap.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Senate Historical Office",
+   "dcterms:title": "Senate Censures President Andrew Jackson",
+   "schema:url": {
+    "@id": "https://www.senate.gov/about/parties-leadership/censure-president-jackson.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Indian Treaties and the Removal Act of 1830",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1830-1860/indian-treaties"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/angel-island-immigration-station/s1",
@@ -37855,6 +38261,259 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/american-revolutionary-war/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:andrew-jackson",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9"
+    }
+   ],
+   "rdfs:label": "Andrew Jackson",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1767-03-15"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1845-06-08"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1845-06-08"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1767-03-15"
+   },
+   "skos:altLabel": [
+    "7th President of the United States",
+    "Old Hickory",
+    "President Jackson"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "A Tennessee lawyer, planter, enslaver and general (1767–1845) who won the Battle of New Orleans, led campaigns that took Creek and Seminole lands, and as the seventh president of the United States (1829–1837) vetoed the recharter of the Second Bank, faced down South Carolina's nullification of the tariff and drove the removal of Native nations west of the Mississippi.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "Andrew Jackson",
+   "skos:related": [
+    {
+     "@id": "us:cherokee-nation-v-georgia"
+    },
+    {
+     "@id": "us:henry-clay"
+    },
+    {
+     "@id": "us:indian-removal-act"
+    },
+    {
+     "@id": "us:jacksonian-democracy"
+    },
+    {
+     "@id": "us:jacksons-bank-veto-message"
+    },
+    {
+     "@id": "us:john-c-calhoun"
+    },
+    {
+     "@id": "us:john-marshall"
+    },
+    {
+     "@id": "us:john-quincy-adams"
+    },
+    {
+     "@id": "us:let-him-enforce-it-myth"
+    },
+    {
+     "@id": "us:martin-van-buren"
+    },
+    {
+     "@id": "us:mcculloch-v-maryland"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:nullification-proclamation"
+    },
+    {
+     "@id": "us:second-bank-of-the-united-states"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:spoils-system"
+    },
+    {
+     "@id": "us:the-hermitage"
+    },
+    {
+     "@id": "us:trail-of-tears"
+    },
+    {
+     "@id": "us:treaty-of-fort-jackson"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:whig-party"
+    },
+    {
+     "@id": "us:worcester-v-georgia"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/andrew-jackson.md",
+   "uso:heldOffice": {
+    "@id": "us:presidency-of-the-united-states"
+   },
+   "uso:level": "introductory",
+   "uso:memberOf": [
+    {
+     "@id": "us:democratic-party"
+    },
+    {
+     "@id": "us:united-states-senate"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:bank-war"
+    },
+    {
+     "@id": "us:battle-of-new-orleans"
+    },
+    {
+     "@id": "us:creek-war"
+    },
+    {
+     "@id": "us:election-of-1828"
+    },
+    {
+     "@id": "us:first-seminole-war"
+    },
+    {
+     "@id": "us:nullification-crisis"
+    },
+    {
+     "@id": "us:war-of-1812"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:war-of-1812"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9"
     }
    ]
   },

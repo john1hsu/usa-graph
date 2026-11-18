@@ -1148,6 +1148,298 @@
   ]
  },
  {
+  "id": "us:andrew-jackson",
+  "title": "Andrew Jackson",
+  "aliases": [
+   "Old Hickory",
+   "President Jackson",
+   "7th President of the United States"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/andrew-jackson.md",
+  "created": "2026-11-18",
+  "summary": "A Tennessee lawyer, planter, enslaver and general (1767–1845) who won the Battle of New Orleans, led campaigns that took Creek and Seminole lands, and as the seventh president of the United States (1829–1837) vetoed the recharter of the Second Bank, faced down South Carolina's nullification of the tariff and drove the removal of Native nations west of the Mississippi.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:indian-removal-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:trail-of-tears"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:worcester-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cherokee-nation-v-georgia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-marshall"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mcculloch-v-maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jacksons-bank-veto-message"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nullification-proclamation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-bank-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-fort-jackson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:the-hermitage"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:spoils-system"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:whig-party"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:martin-van-buren"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-quincy-adams"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:henry-clay"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-c-calhoun"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jacksonian-democracy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:let-him-enforce-it-myth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:united-states-senate",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:democratic-party",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:american-revolutionary-war",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:war-of-1812",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:creek-war",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:battle-of-new-orleans",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:first-seminole-war",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:election-of-1828",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:nullification-crisis",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:bank-war",
+    "source": "s8",
+    "confidence": "high"
+   }
+  ],
+  "start": "1767-03-15",
+  "end": "1845-06-08",
+  "review": [
+   {
+    "question": "Why did Jackson and his supporters call the 1824 election a \"corrupt bargain\"?",
+    "answer": "Jackson led the popular and electoral vote but no candidate had an electoral majority, so the House chose John Quincy Adams with Henry Clay's support, and Adams then made Clay secretary of state."
+   },
+   {
+    "question": "How did Jackson's Bank veto message challenge the Supreme Court's role in interpreting the Constitution?",
+    "answer": "He argued that although McCulloch v. Maryland had upheld a national bank, Congress and the president were not bound by the Court's view when acting in their own roles; each branch had to judge constitutionality for itself."
+   },
+   {
+    "question": "Why did the Senate censure Jackson in 1834, and what happened to the censure?",
+    "answer": "After vetoing the Bank's recharter he fired a treasury secretary who would not remove federal deposits and had Roger Taney move them to state banks; the Senate censured him 26 to 20 for assuming powers not given by law, and a Democratic majority expunged the censure in January 1837."
+   },
+   {
+    "question": "How did Jacksonian democracy expand political participation for some Americans while narrowing it for others?",
+    "answer": "States dropped property requirements so more poor white men could vote, but by 1839 almost all states limited Black voting, women remained excluded, and Jackson's removal policy drove nearly 50,000 Native people from their homelands."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1767-03-15",
+    "event": "Born in the Waxhaw settlement on the Carolina frontier, a few months after his father's death."
+   },
+   {
+    "date": "1781",
+    "event": "Captured by the British with his brother Robert during the Revolutionary War; both contract smallpox, and Robert dies."
+   },
+   {
+    "date": "1788",
+    "event": "Moves to Nashville as district attorney for the Mero District."
+   },
+   {
+    "date": "1796",
+    "event": "Elected Tennessee's first member of the U.S. House of Representatives; the next year the legislature sends him to the Senate."
+   },
+   {
+    "date": "1802",
+    "event": "Elected major general of the Tennessee militia."
+   },
+   {
+    "date": "1814-03",
+    "event": "Defeats the Red Stick Creeks at Horseshoe Bend; the Treaty of Fort Jackson in August takes most Creek land in Alabama and southern Georgia."
+   },
+   {
+    "date": "1815-01-08",
+    "event": "Defeats the British at New Orleans, weeks after the Treaty of Ghent was signed."
+   },
+   {
+    "date": "1818",
+    "event": "Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty."
+   },
+   {
+    "date": "1824",
+    "event": "Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams."
+   },
+   {
+    "date": "1828-12-22",
+    "event": "Rachel Jackson dies weeks after his victory over Adams."
+   },
+   {
+    "date": "1829-03-04",
+    "event": "Inaugurated as the seventh president."
+   },
+   {
+    "date": "1830-05-28",
+    "event": "Signs the Indian Removal Act."
+   },
+   {
+    "date": "1832-07-10",
+    "event": "Vetoes the bill to recharter the Second Bank of the United States."
+   },
+   {
+    "date": "1832-12-10",
+    "event": "Issues his proclamation against South Carolina's nullification of the tariff."
+   },
+   {
+    "date": "1834-03-28",
+    "event": "The Senate censures him, 26 to 20, over the removal of federal deposits from the Bank."
+   },
+   {
+    "date": "1837-01",
+    "event": "The Senate votes to expunge the censure; his second term ends on March 4."
+   },
+   {
+    "date": "1845-06-08",
+    "event": "Dies at the Hermitage, his cotton plantation near Nashville."
+   }
+  ],
+  "misconception": {
+   "myth": "When the Supreme Court ruled for the Cherokee missionaries in Worcester v. Georgia, Jackson retorted that John Marshall had made his decision and could enforce it himself.",
+   "fact": "The line first appears in Horace Greeley's 1864 book The American Conflict, more than thirty years later and secondhand; historians judge it most likely apocryphal. Jackson's own letter of April 7, 1832, said only that the decision had fallen \"still born\", and because the Court adjourned without ever ordering federal enforcement, he was never formally called on to act.",
+   "why": "The invented retort neatly sums up Jackson's real refusal to protect Cherokee treaty rights, so it has been repeated as if it were his words."
+  },
+  "source_urls": [
+   "https://millercenter.org/node/95",
+   "https://millercenter.org/node/96",
+   "https://millercenter.org/president/jackson/impact-and-legacy",
+   "https://tennesseeencyclopedia.net/?p=1042",
+   "https://www.presidency.ucsb.edu/people/president/andrew-jackson",
+   "https://avalon.law.yale.edu/19th_century/ajveto01.asp",
+   "https://avalon.law.yale.edu/subject_menus/jackpap.asp",
+   "https://www.senate.gov/about/parties-leadership/censure-president-jackson.htm",
+   "https://history.state.gov/milestones/1830-1860/indian-treaties",
+   "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-Indian-removal",
+   "https://www.neh.gov/humanities/2014/marchapril/feature/hannah-andrew-jacksons-slave",
+   "https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/",
+   "https://gateway.okhistory.org/ark:/67531/metadc2031778/m2/1/high_res_d/1996-v74-n01_a02.pdf",
+   "https://www.americanyawp.com/text/09-democracy-in-america",
+   "https://highered.mheducation.com/sites/0012122005/student_view0/chapter9/where_historians_disagree.html"
+  ]
+ },
+ {
   "id": "us:angel-island-immigration-station",
   "title": "Angel Island Immigration Station",
   "aliases": [

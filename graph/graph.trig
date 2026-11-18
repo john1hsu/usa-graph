@@ -1119,6 +1119,24 @@
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s10> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s11> .
 <https://github.com/john1hsu/usa-graph/id/abraham-lincoln#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s12> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/andrew-jackson.md" .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> .
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> .
 <https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
 <https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/benjamin-franklin.md" .
@@ -17249,6 +17267,255 @@
   <https://github.com/john1hsu/usa-graph/id/source/abraham-lincoln/s9> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/april-14/> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/andrew-jackson#graph> {
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The line first appears in Horace Greeley's 1864 book The American Conflict, more than thirty years later and secondhand; historians judge it most likely apocryphal. Jackson's own letter of April 7, 1832, said only that the decision had fallen \"still born\", and because the Court adjourned without ever ordering federal enforcement, he was never formally called on to act." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "When the Supreme Court ruled for the Cherokee missionaries in Worcester v. Georgia, Jackson retorted that John Marshall had made his decision and could enforce it himself." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The invented retort neatly sums up Jackson's real refusal to protect Cherokee treaty rights, so it has been repeated as if it were his words." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Jackson and his supporters call the 1824 election a \"corrupt bargain\"?" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Jackson led the popular and electoral vote but no candidate had an electoral majority, so the House chose John Quincy Adams with Henry Clay's support, and Adams then made Clay secretary of state." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did Jackson's Bank veto message challenge the Supreme Court's role in interpreting the Constitution?" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "He argued that although McCulloch v. Maryland had upheld a national bank, Congress and the president were not bound by the Court's view when acting in their own roles; each branch had to judge constitutionality for itself." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the Senate censure Jackson in 1834, and what happened to the censure?" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "After vetoing the Bank's recharter he fired a treasury secretary who would not remove federal deposits and had Roger Taney move them to state banks; the Senate censured him 26 to 20 for assuming powers not given by law, and a Democratic majority expunged the censure in January 1837." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did Jacksonian democracy expand political participation for some Americans while narrowing it for others?" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "States dropped property requirements so more poor white men could vote, but by 1839 almost all states limited Black voting, women remained excluded, and Jackson's removal policy drove nearly 50,000 Native people from their homelands." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Rachel Jackson dies weeks after his victory over Adams." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1828-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurated as the seventh president." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1829-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the Indian Removal Act." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1830-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Vetoes the bill to recharter the Second Bank of the United States." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1832-07-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Issues his proclamation against South Carolina's nullification of the tariff." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1832-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate censures him, 26 to 20, over the removal of federal deposits from the Bank." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1834-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate votes to expunge the censure; his second term ends on March 4." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1837-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Dies at the Hermitage, his cotton plantation near Nashville." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1845-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born in the Waxhaw settlement on the Carolina frontier, a few months after his father's death." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1767-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Captured by the British with his brother Robert during the Revolutionary War; both contract smallpox, and Robert dies." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1781"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Moves to Nashville as district attorney for the Mero District." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1788"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Elected Tennessee's first member of the U.S. House of Representatives; the next year the legislature sends him to the Senate." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1796"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Elected major general of the Tennessee militia." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1802"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "Defeats the Red Stick Creeks at Horseshoe Bend; the Treaty of Fort Jackson in August takes most Creek land in Alabama and southern Georgia." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Defeats the British at New Orleans, weeks after the Treaty of Ghent was signed." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1815-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1818"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1824"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Jackson" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#altLabel> "7th President of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#altLabel> "Old Hickory" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#altLabel> "President Jackson" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#definition> "A Tennessee lawyer, planter, enslaver and general (1767–1845) who won the Battle of New Orleans, led campaigns that took Creek and Seminole lands, and as the seventh president of the United States (1829–1837) vetoed the recharter of the Second Bank, faced down South Carolina's nullification of the tariff and drove the removal of Native nations west of the Mississippi." .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Andrew Jackson" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/henry-clay> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jacksonian-democracy> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jacksons-bank-veto-message> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-c-calhoun> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/let-him-enforce-it-myth> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/martin-van-buren> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nullification-proclamation> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/spoils-system> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-hermitage> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/trail-of-tears> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/whig-party> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/andrew-jackson.md" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/democratic-party> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/united-states-senate> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/bank-war> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/creek-war> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/election-of-1828> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/first-seminole-war> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/nullification-crisis> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://schema.org/birthDate> "1767-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://schema.org/deathDate> "1845-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://schema.org/endDate> "1845-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://schema.org/startDate> "1767-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <http://purl.org/dc/terms/publisher> "National Archives, Milestone Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <http://purl.org/dc/terms/title> "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s10> <https://schema.org/url> <https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-Indian-removal> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <http://purl.org/dc/terms/publisher> "National Endowment for the Humanities, HUMANITIES vol. 35 no. 2 (2014)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <http://purl.org/dc/terms/title> "Hannah, Andrew Jackson's Slave (Mark R. Cheathem)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s11> <https://schema.org/url> <https://www.neh.gov/humanities/2014/marchapril/feature/hannah-andrew-jacksons-slave> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <http://purl.org/dc/terms/publisher> "New Georgia Encyclopedia, Georgia Humanities" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <http://purl.org/dc/terms/title> "Worcester v. Georgia (1832) (Tim Alan Garrison)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s12> <https://schema.org/url> <https://www.georgiaencyclopedia.org/articles/government-politics/worcester-v-georgia-1832/> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <http://purl.org/dc/terms/publisher> "The Chronicles of Oklahoma, vol. 74 no. 1 (1996), Oklahoma Historical Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <http://purl.org/dc/terms/title> "'Now Let Him Enforce It': Exploring the Myth of Andrew Jackson's Response to Worcester v. Georgia (Mark R. Scherer)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s13> <https://schema.org/url> <https://gateway.okhistory.org/ark:/67531/metadc2031778/m2/1/high_res_d/1996-v74-n01_a02.pdf> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <http://purl.org/dc/terms/title> "9. Democracy in America" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s14> <https://schema.org/url> <https://www.americanyawp.com/text/09-democracy-in-america> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <http://purl.org/dc/terms/publisher> "McGraw-Hill Higher Education (textbook companion site)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <http://purl.org/dc/terms/title> "Where Historians Disagree: The 'Age of Jackson'" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s15> <https://schema.org/url> <https://highered.mheducation.com/sites/0012122005/student_view0/chapter9/where_historians_disagree.html> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <http://purl.org/dc/terms/title> "Andrew Jackson: Life in Brief" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s1> <https://schema.org/url> <https://millercenter.org/node/95> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <http://purl.org/dc/terms/title> "Andrew Jackson: Life Before the Presidency" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s2> <https://schema.org/url> <https://millercenter.org/node/96> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <http://purl.org/dc/terms/title> "Andrew Jackson: Impact and Legacy (Daniel Feller)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s3> <https://schema.org/url> <https://millercenter.org/president/jackson/impact-and-legacy> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <http://purl.org/dc/terms/publisher> "Tennessee Encyclopedia, Tennessee Historical Society" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <http://purl.org/dc/terms/title> "Andrew Jackson (Harold D. Moser)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s4> <https://schema.org/url> <https://tennesseeencyclopedia.net/?p=1042> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <http://purl.org/dc/terms/title> "Andrew Jackson: 7th President of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s5> <https://schema.org/url> <https://www.presidency.ucsb.edu/people/president/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <http://purl.org/dc/terms/title> "President Jackson's Veto Message Regarding the Bank of the United States; July 10, 1832" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s6> <https://schema.org/url> <https://avalon.law.yale.edu/19th_century/ajveto01.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <http://purl.org/dc/terms/title> "The Papers of Andrew Jackson (document index)" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s7> <https://schema.org/url> <https://avalon.law.yale.edu/subject_menus/jackpap.asp> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <http://purl.org/dc/terms/publisher> "United States Senate Historical Office" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <http://purl.org/dc/terms/title> "Senate Censures President Andrew Jackson" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s8> <https://schema.org/url> <https://www.senate.gov/about/parties-leadership/censure-president-jackson.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <http://purl.org/dc/terms/title> "Indian Treaties and the Removal Act of 1830" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/andrew-jackson/s9> <https://schema.org/url> <https://history.state.gov/milestones/1830-1860/indian-treaties> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/benjamin-franklin#graph> {
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
   <https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Electrical forces had been recognized for more than a thousand years, and Franklin's kite was not hit by lightning; it gathered the storm's ambient charge, showing that lightning is electrical." .
@@ -24047,23 +24314,45 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
-  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
-  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
-  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
-  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/andrew-jackson> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/andrew-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/andrew-johnson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
@@ -24230,6 +24519,7 @@
   <https://github.com/john1hsu/usa-graph/id/baltimore> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/baltimore> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/bank-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/banking-act-of-1933> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/stock-market-crash-of-1929> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/barack-obama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -24249,6 +24539,7 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-millikens-bend> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-oriskany> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
@@ -24966,6 +25257,7 @@
   <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/north-america> .
   <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/creek-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/creek-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/crossroads-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/cuban-missile-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/culebra-cut> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/gatun-locks> .
@@ -25071,6 +25363,7 @@
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/delaware-river> <https://github.com/john1hsu/usa-graph/ontology#borders> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
+  <https://github.com/john1hsu/usa-graph/id/democratic-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/democratic-party> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25277,6 +25570,7 @@
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/election-of-1800> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/election-of-1828> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/elections-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/elections-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/electoral-college/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25475,6 +25769,7 @@
   <https://github.com/john1hsu/usa-graph/id/fifth-amendment> <https://github.com/john1hsu/usa-graph/ontology#interpretedIn> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/first-continental-congress> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/first-inaugural-address-of-franklin-d-roosevelt> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/good-neighbor-policy> .
+  <https://github.com/john1hsu/usa-graph/id/first-seminole-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/first-thanksgiving-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thanksgiving> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/flag-day> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
@@ -26062,6 +26357,7 @@
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/henry-billings-brown> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/plessy-v-ferguson> .
   <https://github.com/john1hsu/usa-graph/id/henry-box-brown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/underground-railroad> .
+  <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/missouri-compromise> .
   <https://github.com/john1hsu/usa-graph/id/henry-clay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/henry-david-thoreau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
@@ -26279,6 +26575,8 @@
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/iraq-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/isoroku-yamamoto> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
+  <https://github.com/john1hsu/usa-graph/id/jacksonian-democracy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/jacksons-bank-veto-message> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/jacksons-bank-veto-message> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
@@ -26459,6 +26757,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-bingham> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/john-brown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/john-brown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
+  <https://github.com/john1hsu/usa-graph/id/john-c-calhoun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/john-c-pemberton> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
@@ -26512,6 +26811,7 @@
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/john-marshall> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/john-mitchell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lattimer-massacre> .
+  <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/john-quincy-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/monroe-doctrine> .
   <https://github.com/john1hsu/usa-graph/id/john-roberts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -26652,6 +26952,7 @@
   <https://github.com/john1hsu/usa-graph/id/lee-resolution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/lenape> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/lend-lease-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/let-him-enforce-it-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
   <https://github.com/john1hsu/usa-graph/id/lewis-and-clark-expedition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/lgbtq-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
@@ -26844,6 +27145,7 @@
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/martin-luther-king-jr> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
+  <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/martin-van-buren> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/mary-pickersgill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27235,6 +27537,7 @@
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+  <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/native-americans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/colorado-river> .
@@ -27406,6 +27709,8 @@
   <https://github.com/john1hsu/usa-graph/id/northwest-indian-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
+  <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/nullification-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27711,6 +28016,7 @@
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/separation-of-powers> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
@@ -27721,11 +28027,13 @@
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/presidents-house-philadelphia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
@@ -27936,6 +28244,7 @@
   <https://github.com/john1hsu/usa-graph/id/scott-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/sea-venture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
+  <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28136,6 +28445,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/african-americans> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/blues> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -28243,6 +28553,7 @@
   <https://github.com/john1hsu/usa-graph/id/spanish-american-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/special-field-order-no-15> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/freedmens-bureau> .
   <https://github.com/john1hsu/usa-graph/id/spencer-roane> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
+  <https://github.com/john1hsu/usa-graph/id/spoils-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/spot-resolutions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/square-deal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/st-augustine> <https://github.com/john1hsu/usa-graph/ontology#contrastsWith> <https://github.com/john1hsu/usa-graph/id/jamestown> .
@@ -28467,6 +28778,7 @@
   <https://github.com/john1hsu/usa-graph/id/the-gilded-age-a-tale-of-today> <https://github.com/john1hsu/usa-graph/ontology#introduces> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
   <https://github.com/john1hsu/usa-graph/id/the-grapes-of-wrath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dust-bowl> .
   <https://github.com/john1hsu/usa-graph/id/the-grapes-of-wrath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/the-hermitage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/the-midwest> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/chicago> .
   <https://github.com/john1hsu/usa-graph/id/the-pentagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -28574,6 +28886,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
@@ -28710,6 +29023,7 @@
   <https://github.com/john1hsu/usa-graph/id/tommy-beaudreau> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/bureau-of-ocean-energy-management> .
   <https://github.com/john1hsu/usa-graph/id/torrijos-carter-treaties> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
   <https://github.com/john1hsu/usa-graph/id/torrijos-carter-treaties> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/panama-canal> .
+  <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/trail-of-tears> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/transatlantic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -28725,6 +29039,7 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-canandaigua> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-chicago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chicago> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-jackson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-jackson> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-laramie-1868> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/wyoming> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-fort-stanwix-1784> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -28798,6 +29113,7 @@
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/federal-indian-law> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/native-americans> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/racial-and-ethnic-groups-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
@@ -28997,6 +29313,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-senate> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-anthony> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/susan-b-anthony> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-cruikshank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/united-states-v-darby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/minimum-wage> .
@@ -29202,6 +29519,8 @@
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/war-of-1812> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
   <https://github.com/john1hsu/usa-graph/id/war-on-terror> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/war-in-afghanistan> .
@@ -29236,6 +29555,7 @@
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/west-virginia> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/great-railroad-strike-of-1877> .
   <https://github.com/john1hsu/usa-graph/id/western-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/telegraph> .
+  <https://github.com/john1hsu/usa-graph/id/whig-party> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/pennsylvania> .
   <https://github.com/john1hsu/usa-graph/id/whiskey-rebellion> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/white-house> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
@@ -29344,6 +29664,7 @@
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> <https://github.com/john1hsu/usa-graph/ontology#symbolizedBy> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
   <https://github.com/john1hsu/usa-graph/id/woody-guthrie> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/okies> .
+  <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
   <https://github.com/john1hsu/usa-graph/id/worcester-v-georgia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .

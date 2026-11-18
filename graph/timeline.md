@@ -103,6 +103,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1759-02 | Takes his seat in the Virginia House of Burgesses, weeks after marrying Martha Dandridge Custis. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1765 | The bell rings in protest as a ship carrying stamped paper for the Stamp Act approaches. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1767 | Mason and Dixon survey the boundary with Maryland. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1767-03-15 – 1845-06-08 | **[Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md)** (Person) |
+| 1767-03-15 | Born in the Waxhaw settlement on the Carolina frontier, a few months after his father's death. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1767-04 | Admitted to the Virginia bar. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1768 | The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -197,6 +199,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1780-03-01 | Pennsylvania enacts the first state law for the gradual abolition of slavery. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1780-03-01 | The Assembly passes the Gradual Abolition Act, the first emancipation statute in the United States. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1780-03-25 | A second committee, advised by Francis Hopkinson, takes up the design; its report is recommitted in May. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
+| 1781 | Captured by the British with his brother Robert during the Revolutionary War; both contract smallpox, and Robert dies. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1781-01-10 | Congress creates a Department of Foreign Affairs. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
@@ -270,6 +273,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-12-07 | Delaware becomes the first state to ratify. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1787-12-12 | **[Pennsylvania](../articles/states-and-territories/pennsylvania.md)** (State) |
 | 1787-12-12 | Pennsylvania becomes the second state to ratify the U.S. Constitution. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1788 | Moves to Nashville as district attorney for the Mero District. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1788-02-12 | The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-03-18 | Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1788-03-22 | John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
@@ -325,6 +329,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1794-11-11 | The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
+| 1796 | Elected Tennessee's first member of the U.S. House of Representatives; the next year the legislature sends him to the Senate. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1796 | In Hylton v. United States the Supreme Court hears argument on whether a federal law is constitutional and upholds it. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1796 | Under the original two-vote rule, Federalist John Adams becomes president and his rival, Democratic-Republican Thomas Jefferson, vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1796-09-19 | His Farewell Address appears in a Philadelphia newspaper. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -350,6 +355,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1801-03-02 | President John Adams nominates William Marbury as a justice of the peace for the District of Columbia. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-03-03 | The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-12 | Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1802 | Elected major general of the Tennessee militia. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1802 | Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802). — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1802-03-08 | The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-04-29 | The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
@@ -400,6 +406,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1813-09-10 | Oliver Hazard Perry's squadron wins the Battle of Lake Erie. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1813-10-05 | William Henry Harrison's army wins the Battle of the Thames in Upper Canada; Tecumseh is killed. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814 | After Andrew Jackson's forces defeat the Creeks at Horseshoe Bend, the Creeks surrender more than twenty million acres. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1814-03 | Defeats the Red Stick Creeks at Horseshoe Bend; the Treaty of Fort Jackson in August takes most Creek land in Alabama and southern Georgia. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1814-03-27 | Andrew Jackson defeats the Red Stick Creeks at Horseshoe Bend. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-04-02 | British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-08-09 | The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
@@ -412,12 +419,14 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814-12-24 | American and British commissioners sign the Treaty of Ghent in present-day Belgium. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1815-01-08 | American forces defeat a British assault at New Orleans, the last major land battle of the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1815-01-08 | Defeats the British at New Orleans, weeks after the Treaty of Ghent was signed. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1815-02 | The United States ratifies the Treaty of Ghent, legally ending the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1816 | The American Colonization Society is founded to resettle free Black Americans in Africa. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1816-04 | President James Madison signs the act chartering the Second Bank of the United States for twenty years. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1817-01 | The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1818 | Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1818 | The Gideon edition prints the essays with Madison's own attributions of authorship. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1818-02 – 1895-02-20 | **[Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md)** (Person) |
 | 1818-02 | Born Frederick Augustus Washington Bailey in Talbot County, Maryland, according to a later ledger notation; he himself believed he was born about 1817. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -457,6 +466,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1823-12-02 | James Monroe's annual message warns European powers against new colonization or intervention in the Americas. — [Roosevelt Corollary](../articles/foreign-relations-and-military/roosevelt-corollary.md) |
 | 1823-12-02 | Monroe announces the principles in his seventh annual message, at the opening of the 18th Congress. — [Monroe Doctrine](../articles/early-republic-and-expansion/monroe-doctrine.md) |
 | 1824 | In Osborn v. Bank of the United States the Court holds that Congress may give a national bank the powers essential to its operation. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1824 | Leads the popular and electoral vote in a four-way race but loses in the House of Representatives to John Quincy Adams. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1824 | Reads Congress's commerce power broadly in Gibbons v. Ogden. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1825-02-09 | With no electoral majority, the House chooses John Quincy Adams over Andrew Jackson, who had led in electoral and popular votes. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1826 | Dumont breaks his promise to free her; she leaves with her infant daughter Sophia and is taken in by the Van Wagenen family. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
@@ -473,13 +483,16 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1828 | Gold is found on Native lands in Georgia. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1828 | Thomas Dartmouth Rice first performs the blackface minstrel routine "Jump Jim Crow," source of the later name for segregation. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1828 | Wins People v. Solomon Gedney in New York's courts, recovering her son Peter, who had been illegally sold to Alabama. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
+| 1828-12-22 | Rachel Jackson dies weeks after his victory over Adams. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1829 | David Walker publishes his Appeal to the Colored Citizens of the World. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1829 | Mexico abolishes slavery. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1829 | Sits in the Virginia Constitutional Convention of 1829–30. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
+| 1829-03-04 | Inaugurated as the seventh president. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1830-05-28 | **[Indian Removal Act](../articles/native-nations/indian-removal-act.md)** (Law) |
 | 1830-05-28 | After passing the Senate 28 to 19 and the House 102 to 97, the Indian Removal Act is signed by President Jackson. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1830-05-28 | President Andrew Jackson signs the Indian Removal Act. — [United States](../articles/states-and-territories/united-states.md) |
+| 1830-05-28 | Signs the Indian Removal Act. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1830-12-06 | Jackson tells Congress that removal is nearing a 'happy consummation' and that two nations have agreed to terms. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1831 | In Cherokee Nation v. Georgia the Supreme Court calls tribes "domestic dependent nations" and declines to hear the Cherokee suit. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
 | 1831 | Joseph Henry rings a bell at the far end of a mile-long wire with a powerful electromagnet and publishes an article suggesting an electric telegraph. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
@@ -497,6 +510,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1832 | Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1832-07-10 | President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
+| 1832-07-10 | Vetoes the bill to recharter the Second Bank of the United States. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
+| 1832-12-10 | Issues his proclamation against South Carolina's nullification of the tariff. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
@@ -505,6 +520,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1834 | Fur traders William Sublette and Robert Campbell found the trading post that becomes Fort Laramie. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1834 | Hired out to Edward Covey, a so-called slave breaker, and fights back against his beatings. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1834 | Mexico begins secularizing the missions; their lands pass largely to ranching families rather than to Native Californians. — [California](../articles/states-and-territories/california.md) |
+| 1834-03-28 | The Senate censures him, 26 to 20, over the removal of federal deposits from the Bank. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1835 | A small Cherokee faction without authority under Cherokee law signs the Treaty of New Echota. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1835-02 | The American Anti-Slavery Society's Anti-Slavery Record calls it 'The Liberty Bell', the earliest known use of the name. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1835-07-06 | Dies after 34 years as Chief Justice. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
@@ -521,6 +537,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1837 | Illinois grants Chicago its first city charter, with six wards and a mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1837 | Robert Purvis brings a vigilance committee to Philadelphia to aid freedom seekers. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 1837 | The African Institute, later Cheyney University, opens in Pennsylvania, the first HBCU. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1837-01 | The Senate votes to expunge the censure; his second term ends on March 4. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1837-03-03 | Congress adds two more seats, bringing the Court to nine. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1838 | A mob burns Pennsylvania Hall in Philadelphia during the Anti-Slavery Convention of American Women. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1838 | A new state constitution disenfranchises free African Americans. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
@@ -547,6 +564,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1845 | Frederick Douglass publishes his Narrative. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1845 | Publishes Narrative of the Life of Frederick Douglass and begins a lecture tour of Britain and Ireland. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
 | 1845 | The Anthony family moves to a farm near Rochester, New York, where antislavery Quakers gather on Sundays. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
+| 1845-06-08 | Dies at the Hermitage, his cotton plantation near Nashville. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1845-12 | Texas, annexed by joint resolution of Congress, enters the Union as a slave state; Mexico still claims it. — [Mexican–American War](../articles/early-republic-and-expansion/mexican-american-war.md) |
 | 1846 | The Magnetic Telegraph Company opens the first commercial line, from New York to Washington. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1846 | War between the United States and Mexico begins; in California, the Bear Flag Revolt breaks out. — [California](../articles/states-and-territories/california.md) |

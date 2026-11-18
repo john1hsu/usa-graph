@@ -1521,6 +1521,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians debate Lincoln's title of "Great Emancipator"?
   **A:** Some see his leadership as the decisive force that ended slavery, while others argue he was a reluctant emancipator and that enslaved people were the prime movers; the debate is about how to weigh presidential leadership against the agency of the enslaved.
 
+### [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) — Person
+
+| Myth | Fact |
+|---|---|
+| When the Supreme Court ruled for the Cherokee missionaries in Worcester v. Georgia, Jackson retorted that John Marshall had made his decision and could enforce it himself. | The line first appears in Horace Greeley's 1864 book The American Conflict, more than thirty years later and secondhand; historians judge it most likely apocryphal. Jackson's own letter of April 7, 1832, said only that the decision had fallen "still born", and because the Court adjourned without ever ordering federal enforcement, he was never formally called on to act. |
+
+**Why it matters:** The invented retort neatly sums up Jackson's real refusal to protect Cherokee treaty rights, so it has been repeated as if it were his words.
+
+- **Q:** Why did Jackson and his supporters call the 1824 election a "corrupt bargain"?
+  **A:** Jackson led the popular and electoral vote but no candidate had an electoral majority, so the House chose John Quincy Adams with Henry Clay's support, and Adams then made Clay secretary of state.
+- **Q:** How did Jackson's Bank veto message challenge the Supreme Court's role in interpreting the Constitution?
+  **A:** He argued that although McCulloch v. Maryland had upheld a national bank, Congress and the president were not bound by the Court's view when acting in their own roles; each branch had to judge constitutionality for itself.
+- **Q:** Why did the Senate censure Jackson in 1834, and what happened to the censure?
+  **A:** After vetoing the Bank's recharter he fired a treasury secretary who would not remove federal deposits and had Roger Taney move them to state banks; the Senate censured him 26 to 20 for assuming powers not given by law, and a Democratic majority expunged the censure in January 1837.
+- **Q:** How did Jacksonian democracy expand political participation for some Americans while narrowing it for others?
+  **A:** States dropped property requirements so more poor white men could vote, but by 1839 almost all states limited Black voting, women remained excluded, and Jackson's removal policy drove nearly 50,000 Native people from their homelands.
+
 ### [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) — Person
 
 | Myth | Fact |
