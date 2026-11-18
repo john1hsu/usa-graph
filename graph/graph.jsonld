@@ -1596,6 +1596,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Havana did supply the money, but as loans, not gifts of jewelry. Francisco de Saavedra and Spanish officials arranged it; about 500,000 pesos were pledged by Havana residents, promised 2 percent interest and repaid within six months, and reached de Grasse's fleet off Matanzas on August 18, 1781.",
+   "uso:myth": "The women of Havana gave up their diamonds and jewels to pay for the fleet that won at the Chesapeake and Yorktown.",
+   "uso:why": "The jewelry story traces to an anonymous pamphlet written after the war by someone who was not there, and it fits a romantic image; the real loan, arranged in a few hours by Spanish officials and merchants, is less colourful but shows that Spain's contribution to Yorktown, often overlooked, was concrete and organized."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "If the Battle of the Virginia Capes was inconclusive as a fight, why is it counted among the war's decisive events?",
+   "uso:answer": "Because of what it decided strategically. Graves's damaged fleet withdrew to New York and the French, reinforced by de Barras, held the bay, so no British ships could reinforce or rescue Cornwallis at Yorktown, while Washington used the bay to move troops and supplies; Cornwallis surrendered on October 19, the same day the British relief fleet finally sailed.",
+   "uso:questionFor": {
+    "@id": "us:battle-of-the-capes"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did only part of the British fleet engage on September 5?",
+   "uso:answer": "Graves let the French come out and form a line instead of attacking them while they were disorganized, and then the wind and his unclear signals kept the rear of his line, under Hood, from closing with the enemy, so only the leading squadrons fought.",
+   "uso:questionFor": {
+    "@id": "us:battle-of-the-capes"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did Spain help make the Chesapeake campaign possible even though it was not an ally of the United States?",
+   "uso:answer": "De Grasse could raise only a small sum at Cap-Français, so the Spanish official Francisco de Saavedra arranged loans in Havana; about 500,000 pesos were collected in a day and delivered to the fleet off Matanzas, and Spanish warships guarded Saint-Domingue so de Grasse could take his whole fleet north.",
+   "uso:questionFor": {
+    "@id": "us:battle-of-the-capes"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Washington beg de Grasse not to leave the Chesapeake in late September 1781?",
+   "uso:answer": "He argued that with French command of the bay the capture of Cornwallis was nearly certain and would go far toward ending the war, while any absence would open a way to relieve Yorktown, starve the allied army of seaborne supplies and push peace further away.",
+   "uso:questionFor": {
+    "@id": "us:battle-of-the-capes"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "De Grasse's fleet from France reaches Cap-Français in Saint-Domingue, where the Spanish official Francisco de Saavedra meets him the next day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-06-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The fleets fight from late afternoon until sunset off the capes at the bay's mouth.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "De Grasse returns to the bay, where the comte de Barras's squadron from Newport has arrived.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graves, outnumbered and with damaged ships, turns back to New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Washington urges de Grasse not to leave the bay; the admiral stays.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Cornwallis surrenders at Yorktown; the British relief fleet sails from New York that same day.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-10-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In late July de Grasse writes to Rochambeau that he will bring his fleet to the Chesapeake.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1781-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "De Grasse sails for the Chesapeake through the Bahama passages to avoid British fleets.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Washington learns of de Grasse's plan and turns the American and French armies toward Virginia.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Havana residents pledge about 500,000 pesos in loans in a single day to pay de Grasse's expedition.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The frigate Aigrette delivers the Havana money to de Grasse off Matanzas, Cuba.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Samuel Hood's British squadron looks into the empty Chesapeake and sails on to New York.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "De Grasse's fleet enters the Chesapeake and lands about 3,000 troops near Jamestown.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Thomas Graves leaves New York with 19 ships of the line, including Hood's squadron.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-08-31"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/benjamin-franklin/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Electrical forces had been recognized for more than a thousand years, and Franklin's kite was not hit by lightning; it gathered the storm's ambient charge, showing that lightning is electrical.",
@@ -17340,6 +17509,118 @@
     "@id": "https://www.nps.gov/miin/learn/historyculture/pearl-harbor-and-executive-order-9066.htm"
    },
    "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Colonial National Historical Park (Yorktown Battlefield)",
+   "dcterms:title": "Battle of the Capes",
+   "schema:url": {
+    "@id": "https://home.nps.gov/york/learn/historyculture/battle-of-the-capes.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "George Washington's Mount Vernon, Digital Encyclopedia",
+   "dcterms:title": "Battle of the Chesapeake (Alex Todd)",
+   "schema:url": {
+    "@id": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-the-chesapeake"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "From George Washington to François-Joseph-Paul, comte de Grasse-Tilly, 25 September 1781",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Washington/99-01-02-07017"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "American Battlefield Trust",
+   "dcterms:title": "Battle of the Capes",
+   "schema:url": {
+    "@id": "https://battlefields.org/learn/revolutionary-war/battles/battle-capes"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Battle of the Chesapeake",
+   "schema:url": {
+    "@id": "https://www.britannica.com/event/Battle-of-Virginia-Capes"
+   },
+   "uso:sourceType": "encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Cape Henry Memorial (Colonial National Historical Park)",
+   "dcterms:title": "Admiral Comte deGrasse",
+   "schema:url": {
+    "@id": "https://www.nps.gov/came/admiral-comte-degrasse.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Cambridge University Press / Academy of American Franciscan History",
+   "dcterms:title": "Las Damas de la Havana, el Precursor, and Francisco de Saavedra: A Note on Spanish Participation in the Battle of Yorktown (James A. Lewis, The Americas 37, no. 1, 1980)",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/americas/article/abs/las-damas-de-la-havana-el-precursor-and-francisco-de-saavedra-a-note-on-spanish-participation-in-the-battle-of-yorktown/E4370EA492309DBD5F11ACD50B1EAD31"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Journal of the American Revolution",
+   "dcterms:title": "Francisco de Saavedra de Sangronis: A Spaniard's Pivotal Role in the Yorktown Triumph (Richard J. Werther)",
+   "schema:url": {
+    "@id": "https://allthingsliberty.com/2025/09/francisco-de-saavedra-de-sangronis-a-spainards-pivotal-role-in-the-yorktown-triumph/"
+   },
+   "uso:sourceType": "magazine"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/benjamin-franklin/s1",
@@ -39251,6 +39532,162 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:battle-of-the-capes",
+   "@type": "uso:Conflict",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8"
+    }
+   ],
+   "rdfs:label": "Battle of the Virginia Capes",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1781-09-05"
+   },
+   "skos:altLabel": [
+    "Battle of Chesapeake Bay",
+    "Battle of the Capes",
+    "Battle of the Chesapeake",
+    "Battle off the Virginia Capes"
+   ],
+   "skos:broader": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "skos:definition": "A naval battle of the American Revolutionary War fought on September 5, 1781, off the mouth of Chesapeake Bay between a French fleet under the comte de Grasse and a British fleet under Thomas Graves; though the fighting itself was brief and inconclusive, it left France in control of the bay, trapped Cornwallis's army at Yorktown and made the allied victory there possible.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary"
+   },
+   "skos:prefLabel": "Battle of the Virginia Capes",
+   "skos:related": [
+    {
+     "@id": "us:cape-henry-memorial"
+    },
+    {
+     "@id": "us:charles-cornwallis"
+    },
+    {
+     "@id": "us:comte-de-rochambeau"
+    },
+    {
+     "@id": "us:francisco-de-saavedra"
+    },
+    {
+     "@id": "us:george-washington"
+    },
+    {
+     "@id": "us:marquis-de-lafayette"
+    },
+    {
+     "@id": "us:samuel-hood"
+    },
+    {
+     "@id": "us:siege-of-yorktown"
+    },
+    {
+     "@id": "us:treaty-of-alliance-1778"
+    },
+    {
+     "@id": "us:treaty-of-paris-1783"
+    }
+   ],
+   "uso:domain": "colonial-and-revolutionary",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/colonial-and-revolutionary/battle-of-the-capes.md",
+   "uso:ledBy": [
+    {
+     "@id": "us:comte-de-grasse"
+    },
+    {
+     "@id": "us:thomas-graves"
+    }
+   ],
+   "uso:ledTo": {
+    "@id": "us:siege-of-yorktown"
+   },
+   "uso:level": "intermediate",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception"
+   },
+   "uso:occurredIn": {
+    "@id": "us:chesapeake-bay"
+   },
+   "uso:partOf": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:requires": {
+    "@id": "us:american-revolutionary-war"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9"
     }
    ]
   },

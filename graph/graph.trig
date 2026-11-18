@@ -175,6 +175,17 @@
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s4> .
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s5> .
 <https://github.com/john1hsu/usa-graph/id/articles-of-confederation#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/colonial-and-revolutionary/battle-of-the-capes.md" .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> .
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/colonial-and-revolutionary/declaration-of-independence.md" .
@@ -4164,6 +4175,174 @@
   <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
   <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "textbook" .
   <https://github.com/john1hsu/usa-graph/id/source/articles-of-confederation/s6> <https://schema.org/url> <https://digfir-published.macmillanusa.com/tap6e/tap6e_ch8_17.html> .
+}
+
+<https://github.com/john1hsu/usa-graph/id/battle-of-the-capes#graph> {
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Havana did supply the money, but as loans, not gifts of jewelry. Francisco de Saavedra and Spanish officials arranged it; about 500,000 pesos were pledged by Havana residents, promised 2 percent interest and repaid within six months, and reached de Grasse's fleet off Matanzas on August 18, 1781." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The women of Havana gave up their diamonds and jewels to pay for the fleet that won at the Chesapeake and Yorktown." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The jewelry story traces to an anonymous pamphlet written after the war by someone who was not there, and it fits a romantic image; the real loan, arranged in a few hours by Spanish officials and merchants, is less colourful but shows that Spain's contribution to Yorktown, often overlooked, was concrete and organized." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "If the Battle of the Virginia Capes was inconclusive as a fight, why is it counted among the war's decisive events?" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "Because of what it decided strategically. Graves's damaged fleet withdrew to New York and the French, reinforced by de Barras, held the bay, so no British ships could reinforce or rescue Cornwallis at Yorktown, while Washington used the bay to move troops and supplies; Cornwallis surrendered on October 19, the same day the British relief fleet finally sailed." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did only part of the British fleet engage on September 5?" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "Graves let the French come out and form a line instead of attacking them while they were disorganized, and then the wind and his unclear signals kept the rear of his line, under Hood, from closing with the enemy, so only the leading squadrons fought." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did Spain help make the Chesapeake campaign possible even though it was not an ally of the United States?" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "De Grasse could raise only a small sum at Cap-Français, so the Spanish official Francisco de Saavedra arranged loans in Havana; about 500,000 pesos were collected in a day and delivered to the fleet off Matanzas, and Spanish warships guarded Saint-Domingue so de Grasse could take his whole fleet north." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Washington beg de Grasse not to leave the Chesapeake in late September 1781?" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "He argued that with French command of the bay the capture of Cornwallis was nearly certain and would go far toward ending the war, while any absence would open a way to relieve Yorktown, starve the allied army of seaborne supplies and push peace further away." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "The fleets fight from late afternoon until sunset off the capes at the bay's mouth." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-09-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "De Grasse returns to the bay, where the comte de Barras's squadron from Newport has arrived." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-09-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Graves, outnumbered and with damaged ships, turns back to New York." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Washington urges de Grasse not to leave the bay; the admiral stays." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Cornwallis surrenders at Yorktown; the British relief fleet sails from New York that same day." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "De Grasse's fleet from France reaches Cap-Français in Saint-Domingue, where the Spanish official Francisco de Saavedra meets him the next day." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "In late July de Grasse writes to Rochambeau that he will bring his fleet to the Chesapeake." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "De Grasse sails for the Chesapeake through the Bahama passages to avoid British fleets." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Washington learns of de Grasse's plan and turns the American and French armies toward Virginia." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Havana residents pledge about 500,000 pesos in loans in a single day to pay de Grasse's expedition." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The frigate Aigrette delivers the Havana money to de Grasse off Matanzas, Cuba." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Hood's British squadron looks into the empty Chesapeake and sails on to New York." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "De Grasse's fleet enters the Chesapeake and lands about 3,000 troops near Jamestown." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Graves leaves New York with 19 ships of the line, including Hood's squadron." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1781-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Conflict> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of the Virginia Capes" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#altLabel> "Battle of Chesapeake Bay" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#altLabel> "Battle of the Capes" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#altLabel> "Battle of the Chesapeake" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#altLabel> "Battle off the Virginia Capes" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#definition> "A naval battle of the American Revolutionary War fought on September 5, 1781, off the mouth of Chesapeake Bay between a French fleet under the comte de Grasse and a British fleet under Thomas Graves; though the fighting itself was brief and inconclusive, it left France in control of the bay, trapped Cornwallis's army at Yorktown and made the allied victory there possible." .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/colonial-and-revolutionary> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#prefLabel> "Battle of the Virginia Capes" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cape-henry-memorial> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/charles-cornwallis> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/comte-de-rochambeau> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/francisco-de-saavedra> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marquis-de-lafayette> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/samuel-hood> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#domain> "colonial-and-revolutionary" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/colonial-and-revolutionary/battle-of-the-capes.md" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/comte-de-grasse> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#ledBy> <https://github.com/john1hsu/usa-graph/id/thomas-graves> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#ledTo> <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#level> "intermediate" .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#occurredIn> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#partOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://schema.org/startDate> "1781-09-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <http://purl.org/dc/terms/publisher> "National Park Service, Colonial National Historical Park (Yorktown Battlefield)" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <http://purl.org/dc/terms/title> "Battle of the Capes" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s1> <https://schema.org/url> <https://home.nps.gov/york/learn/historyculture/battle-of-the-capes.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <http://purl.org/dc/terms/publisher> "George Washington's Mount Vernon, Digital Encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <http://purl.org/dc/terms/title> "Battle of the Chesapeake (Alex Todd)" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s2> <https://schema.org/url> <https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-the-chesapeake> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <http://purl.org/dc/terms/title> "From George Washington to François-Joseph-Paul, comte de Grasse-Tilly, 25 September 1781" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s3> <https://schema.org/url> <https://founders.archives.gov/documents/Washington/99-01-02-07017> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <http://purl.org/dc/terms/publisher> "American Battlefield Trust" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <http://purl.org/dc/terms/title> "Battle of the Capes" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s4> <https://schema.org/url> <https://battlefields.org/learn/revolutionary-war/battles/battle-capes> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <http://purl.org/dc/terms/title> "Battle of the Chesapeake" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s5> <https://schema.org/url> <https://www.britannica.com/event/Battle-of-Virginia-Capes> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <http://purl.org/dc/terms/publisher> "National Park Service, Cape Henry Memorial (Colonial National Historical Park)" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <http://purl.org/dc/terms/title> "Admiral Comte deGrasse" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s6> <https://schema.org/url> <https://www.nps.gov/came/admiral-comte-degrasse.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <http://purl.org/dc/terms/publisher> "Cambridge University Press / Academy of American Franciscan History" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <http://purl.org/dc/terms/title> "Las Damas de la Havana, el Precursor, and Francisco de Saavedra: A Note on Spanish Participation in the Battle of Yorktown (James A. Lewis, The Americas 37, no. 1, 1980)" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s7> <https://schema.org/url> <https://www.cambridge.org/core/journals/americas/article/abs/las-damas-de-la-havana-el-precursor-and-francisco-de-saavedra-a-note-on-spanish-participation-in-the-battle-of-yorktown/E4370EA492309DBD5F11ACD50B1EAD31> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <http://purl.org/dc/terms/publisher> "Journal of the American Revolution" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <http://purl.org/dc/terms/title> "Francisco de Saavedra de Sangronis: A Spaniard's Pivotal Role in the Yorktown Triumph (Richard J. Werther)" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/usa-graph/id/source/battle-of-the-capes/s8> <https://schema.org/url> <https://allthingsliberty.com/2025/09/francisco-de-saavedra-de-sangronis-a-spainards-pivotal-role-in-the-yorktown-triumph/> .
 }
 
 <https://github.com/john1hsu/usa-graph/id/declaration-of-independence#graph> {
@@ -24490,15 +24669,19 @@
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
@@ -24722,7 +24905,32 @@
   <https://github.com/john1hsu/usa-graph/id/battle-of-new-orleans> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-oriskany> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-saratoga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Event> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Happening> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/battle-of-the-thames> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/battles-of-lexington-and-concord> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/bear-flag-revolt> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
@@ -24988,6 +25196,7 @@
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Document> .
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/canal-zone-additional-facilities-act-of-1939> <https://github.com/john1hsu/usa-graph/ontology#establishes> <https://github.com/john1hsu/usa-graph/id/third-locks-project> .
+  <https://github.com/john1hsu/usa-graph/id/cape-henry-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/cares-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/cares-act> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/covid-19-pandemic-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/carrie-chapman-catt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25027,6 +25236,7 @@
   <https://github.com/john1hsu/usa-graph/id/central-valley> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/cesar-chavez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/chae-chan-ping-v-united-states> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/charles-cornwallis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/charles-thomson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/e-pluribus-unum> .
@@ -25093,6 +25303,7 @@
   <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/physical-geography-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/north-america> .
+  <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/chester-a-arthur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/chester-a-arthur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/chester-a-arthur> <https://github.com/john1hsu/usa-graph/ontology#signed> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
@@ -25337,6 +25548,10 @@
   <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/compromise-of-1850> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
   <https://github.com/john1hsu/usa-graph/id/compromise-of-1877> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reconstruction-era> .
+  <https://github.com/john1hsu/usa-graph/id/comte-de-grasse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/comte-de-grasse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/comte-de-grasse> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
+  <https://github.com/john1hsu/usa-graph/id/comte-de-rochambeau> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/confederate-states-of-america> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
   <https://github.com/john1hsu/usa-graph/id/confederation-period> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
@@ -26056,6 +26271,7 @@
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/francis-hopkinson> <https://github.com/john1hsu/usa-graph/ontology#challenges> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
+  <https://github.com/john1hsu/usa-graph/id/francisco-de-saavedra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/frank-m-johnson-jr> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/reynolds-v-sims> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -26222,6 +26438,7 @@
   <https://github.com/john1hsu/usa-graph/id/george-washington/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/george-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -27298,6 +27515,7 @@
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/mark-twain> <https://github.com/john1hsu/usa-graph/ontology#introduced> <https://github.com/john1hsu/usa-graph/id/gilded-age> .
+  <https://github.com/john1hsu/usa-graph/id/marquis-de-lafayette> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/marshall-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nato> .
   <https://github.com/john1hsu/usa-graph/id/marshall-trilogy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/marshall-trilogy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
@@ -28449,6 +28667,7 @@
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/same-sex-marriage-in-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges> .
   <https://github.com/john1hsu/usa-graph/id/samuel-chase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/samuel-hood> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/samuel-hopkins-adams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/muckrakers> .
   <https://github.com/john1hsu/usa-graph/id/samuel-morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/samuel-morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
@@ -28637,9 +28856,11 @@
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/siege-of-yorktown> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/six-companies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hoover-dam> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/slaughter-house-cases> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fourteenth-amendment> .
@@ -29115,6 +29336,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
@@ -29194,6 +29416,9 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-gates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/thomas-gates> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/thomas-gates> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-graves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-graves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-graves> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29261,6 +29486,7 @@
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/department-of-homeland-security> .
   <https://github.com/john1hsu/usa-graph/id/transportation-security-administration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/september-11-attacks> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-alliance-1778> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/second-continental-congress> .
@@ -29294,6 +29520,7 @@
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/foreign-relations-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/haudenosaunee> .
   <https://github.com/john1hsu/usa-graph/id/treaty-of-paris-1783> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
@@ -29761,6 +29988,7 @@
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/american-revolutionary-war> .
+  <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/battle-of-the-capes> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
   <https://github.com/john1hsu/usa-graph/id/wars-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/warsaw-pact> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/nato> .

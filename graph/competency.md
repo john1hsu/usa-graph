@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
 
-…and 83 more.
+…and 84 more.
 
 ## Happenings by era
 
@@ -93,6 +93,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:andrew-jackson` | interpretive |  |
 | `us:articles-of-confederation` | interpretive |  |
 | `us:attack-on-pearl-harbor` | interpretive |  |
+| `us:battle-of-the-capes` | interpretive |  |
 | `us:blues` | interpretive |  |
 | `us:chinese-exclusion-act` | interpretive |  |
 | `us:civil-rights-movement` | interpretive |  |
@@ -116,17 +117,14 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
 | `us:john-marshall` | interpretive |  |
-| `us:judicial-review` | interpretive |  |
 
-…and 32 more.
+…and 33 more.
 
 ## Places with nothing tied to them (gap)
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-| node | type |
-|---|---|
-| `us:chesapeake-bay` | uso:NaturalFeature |
+_No results._
 
 ## Orphan articles (gap)
 

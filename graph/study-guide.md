@@ -243,6 +243,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why did the framers of the Articles deliberately create a weak central government?
   **A:** Many Americans feared losing power to a central body, as the earlier failure of the Albany Plan showed, so the Articles let each state keep its sovereignty and every power not expressly delegated, gave Congress no taxing power and no independent executive or courts, and required every state to agree to amendments.
 
+### [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) — Conflict
+
+| Myth | Fact |
+|---|---|
+| The women of Havana gave up their diamonds and jewels to pay for the fleet that won at the Chesapeake and Yorktown. | Havana did supply the money, but as loans, not gifts of jewelry. Francisco de Saavedra and Spanish officials arranged it; about 500,000 pesos were pledged by Havana residents, promised 2 percent interest and repaid within six months, and reached de Grasse's fleet off Matanzas on August 18, 1781. |
+
+**Why it matters:** The jewelry story traces to an anonymous pamphlet written after the war by someone who was not there, and it fits a romantic image; the real loan, arranged in a few hours by Spanish officials and merchants, is less colourful but shows that Spain's contribution to Yorktown, often overlooked, was concrete and organized.
+
+- **Q:** If the Battle of the Virginia Capes was inconclusive as a fight, why is it counted among the war's decisive events?
+  **A:** Because of what it decided strategically. Graves's damaged fleet withdrew to New York and the French, reinforced by de Barras, held the bay, so no British ships could reinforce or rescue Cornwallis at Yorktown, while Washington used the bay to move troops and supplies; Cornwallis surrendered on October 19, the same day the British relief fleet finally sailed.
+- **Q:** Why did only part of the British fleet engage on September 5?
+  **A:** Graves let the French come out and form a line instead of attacking them while they were disorganized, and then the wind and his unclear signals kept the rear of his line, under Hood, from closing with the enemy, so only the leading squadrons fought.
+- **Q:** How did Spain help make the Chesapeake campaign possible even though it was not an ally of the United States?
+  **A:** De Grasse could raise only a small sum at Cap-Français, so the Spanish official Francisco de Saavedra arranged loans in Havana; about 500,000 pesos were collected in a day and delivered to the fleet off Matanzas, and Spanish warships guarded Saint-Domingue so de Grasse could take his whole fleet north.
+- **Q:** Why did Washington beg de Grasse not to leave the Chesapeake in late September 1781?
+  **A:** He argued that with French command of the bay the capture of Cornwallis was nearly certain and would go far toward ending the war, while any absence would open a way to relieve Yorktown, starve the allied army of seaborne supplies and push peace further away.
+
 ### [Declaration of Independence](../articles/colonial-and-revolutionary/declaration-of-independence.md) — Document
 
 | Myth | Fact |

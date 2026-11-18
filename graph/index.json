@@ -1997,6 +1997,196 @@
   ]
  },
  {
+  "id": "us:battle-of-the-capes",
+  "title": "Battle of the Virginia Capes",
+  "aliases": [
+   "Battle of the Capes",
+   "Battle of the Chesapeake",
+   "Battle off the Virginia Capes",
+   "Battle of Chesapeake Bay"
+  ],
+  "type": "Conflict",
+  "domain": "colonial-and-revolutionary",
+  "level": "intermediate",
+  "evidenceStatus": "interpretive",
+  "file": "articles/colonial-and-revolutionary/battle-of-the-capes.md",
+  "created": "2026-11-18",
+  "summary": "A naval battle of the American Revolutionary War fought on September 5, 1781, off the mouth of Chesapeake Bay between a French fleet under the comte de Grasse and a British fleet under Thomas Graves; though the fighting itself was brief and inconclusive, it left France in control of the bay, trapped Cornwallis's army at Yorktown and made the allied victory there possible.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-yorktown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:george-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-alliance-1778"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:comte-de-rochambeau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marquis-de-lafayette"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:charles-cornwallis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:samuel-hood"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:francisco-de-saavedra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cape-henry-memorial"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:treaty-of-paris-1783"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "uso:partOf",
+    "object": "us:american-revolutionary-war",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:occurredIn",
+    "object": "us:chesapeake-bay",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:comte-de-grasse",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledBy",
+    "object": "us:thomas-graves",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:ledTo",
+    "object": "us:siege-of-yorktown",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "start": "1781-09-05",
+  "end": null,
+  "review": [
+   {
+    "question": "If the Battle of the Virginia Capes was inconclusive as a fight, why is it counted among the war's decisive events?",
+    "answer": "Because of what it decided strategically. Graves's damaged fleet withdrew to New York and the French, reinforced by de Barras, held the bay, so no British ships could reinforce or rescue Cornwallis at Yorktown, while Washington used the bay to move troops and supplies; Cornwallis surrendered on October 19, the same day the British relief fleet finally sailed."
+   },
+   {
+    "question": "Why did only part of the British fleet engage on September 5?",
+    "answer": "Graves let the French come out and form a line instead of attacking them while they were disorganized, and then the wind and his unclear signals kept the rear of his line, under Hood, from closing with the enemy, so only the leading squadrons fought."
+   },
+   {
+    "question": "How did Spain help make the Chesapeake campaign possible even though it was not an ally of the United States?",
+    "answer": "De Grasse could raise only a small sum at Cap-Français, so the Spanish official Francisco de Saavedra arranged loans in Havana; about 500,000 pesos were collected in a day and delivered to the fleet off Matanzas, and Spanish warships guarded Saint-Domingue so de Grasse could take his whole fleet north."
+   },
+   {
+    "question": "Why did Washington beg de Grasse not to leave the Chesapeake in late September 1781?",
+    "answer": "He argued that with French command of the bay the capture of Cornwallis was nearly certain and would go far toward ending the war, while any absence would open a way to relieve Yorktown, starve the allied army of seaborne supplies and push peace further away."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1781-06-16",
+    "event": "De Grasse's fleet from France reaches Cap-Français in Saint-Domingue, where the Spanish official Francisco de Saavedra meets him the next day."
+   },
+   {
+    "date": "1781-07",
+    "event": "In late July de Grasse writes to Rochambeau that he will bring his fleet to the Chesapeake."
+   },
+   {
+    "date": "1781-08-05",
+    "event": "De Grasse sails for the Chesapeake through the Bahama passages to avoid British fleets."
+   },
+   {
+    "date": "1781-08-14",
+    "event": "Washington learns of de Grasse's plan and turns the American and French armies toward Virginia."
+   },
+   {
+    "date": "1781-08-15",
+    "event": "Havana residents pledge about 500,000 pesos in loans in a single day to pay de Grasse's expedition."
+   },
+   {
+    "date": "1781-08-18",
+    "event": "The frigate Aigrette delivers the Havana money to de Grasse off Matanzas, Cuba."
+   },
+   {
+    "date": "1781-08-25",
+    "event": "Samuel Hood's British squadron looks into the empty Chesapeake and sails on to New York."
+   },
+   {
+    "date": "1781-08-30",
+    "event": "De Grasse's fleet enters the Chesapeake and lands about 3,000 troops near Jamestown."
+   },
+   {
+    "date": "1781-08-31",
+    "event": "Thomas Graves leaves New York with 19 ships of the line, including Hood's squadron."
+   },
+   {
+    "date": "1781-09-05",
+    "event": "The fleets fight from late afternoon until sunset off the capes at the bay's mouth."
+   },
+   {
+    "date": "1781-09-10",
+    "event": "De Grasse returns to the bay, where the comte de Barras's squadron from Newport has arrived."
+   },
+   {
+    "date": "1781-09-13",
+    "event": "Graves, outnumbered and with damaged ships, turns back to New York."
+   },
+   {
+    "date": "1781-09-25",
+    "event": "Washington urges de Grasse not to leave the bay; the admiral stays."
+   },
+   {
+    "date": "1781-10-19",
+    "event": "Cornwallis surrenders at Yorktown; the British relief fleet sails from New York that same day."
+   }
+  ],
+  "misconception": {
+   "myth": "The women of Havana gave up their diamonds and jewels to pay for the fleet that won at the Chesapeake and Yorktown.",
+   "fact": "Havana did supply the money, but as loans, not gifts of jewelry. Francisco de Saavedra and Spanish officials arranged it; about 500,000 pesos were pledged by Havana residents, promised 2 percent interest and repaid within six months, and reached de Grasse's fleet off Matanzas on August 18, 1781.",
+   "why": "The jewelry story traces to an anonymous pamphlet written after the war by someone who was not there, and it fits a romantic image; the real loan, arranged in a few hours by Spanish officials and merchants, is less colourful but shows that Spain's contribution to Yorktown, often overlooked, was concrete and organized."
+  },
+  "source_urls": [
+   "https://home.nps.gov/york/learn/historyculture/battle-of-the-capes.htm",
+   "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-the-chesapeake",
+   "https://founders.archives.gov/documents/Washington/99-01-02-07017",
+   "https://battlefields.org/learn/revolutionary-war/battles/battle-capes",
+   "https://www.britannica.com/event/Battle-of-Virginia-Capes",
+   "https://www.nps.gov/came/admiral-comte-degrasse.htm",
+   "https://www.cambridge.org/core/journals/americas/article/abs/las-damas-de-la-havana-el-precursor-and-francisco-de-saavedra-a-note-on-spanish-participation-in-the-battle-of-yorktown/E4370EA492309DBD5F11ACD50B1EAD31",
+   "https://allthingsliberty.com/2025/09/francisco-de-saavedra-de-sangronis-a-spainards-pivotal-role-in-the-yorktown-triumph/"
+  ]
+ },
+ {
   "id": "us:benjamin-franklin",
   "title": "Benjamin Franklin",
   "aliases": [

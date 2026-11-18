@@ -204,8 +204,23 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into force. — [United States](../articles/states-and-territories/united-states.md) |
+| 1781-06-16 | De Grasse's fleet from France reaches Cap-Français in Saint-Domingue, where the Spanish official Francisco de Saavedra meets him the next day. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-07 | In late July de Grasse writes to Rochambeau that he will bring his fleet to the Chesapeake. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-05 | De Grasse sails for the Chesapeake through the Bahama passages to avoid British fleets. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-14 | Washington learns of de Grasse's plan and turns the American and French armies toward Virginia. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-15 | Havana residents pledge about 500,000 pesos in loans in a single day to pay de Grasse's expedition. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-18 | The frigate Aigrette delivers the Havana money to de Grasse off Matanzas, Cuba. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-25 | Samuel Hood's British squadron looks into the empty Chesapeake and sails on to New York. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-30 | De Grasse's fleet enters the Chesapeake and lands about 3,000 troops near Jamestown. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-08-31 | Thomas Graves leaves New York with 19 ships of the line, including Hood's squadron. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-09-05 | **[Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md)** (Conflict) |
 | 1781-09-05 | A French fleet under de Grasse fights a British fleet at the Battle of the Capes, leaving France in control of the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1781-09-05 | The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
+| 1781-09-05 | The fleets fight from late afternoon until sunset off the capes at the bay's mouth. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-09-10 | De Grasse returns to the bay, where the comte de Barras's squadron from Newport has arrived. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-09-13 | Graves, outnumbered and with damaged ships, turns back to New York. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-09-25 | Washington urges de Grasse not to leave the bay; the admiral stays. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
+| 1781-10-19 | Cornwallis surrenders at Yorktown; the British relief fleet sails from New York that same day. — [Battle of the Virginia Capes](../articles/colonial-and-revolutionary/battle-of-the-capes.md) |
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1782 | Enters the Virginia House of Delegates and the state's Council of State. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
