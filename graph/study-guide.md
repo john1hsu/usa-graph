@@ -379,6 +379,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether the Constitution was a proslavery document?
   **A:** Paul Finkelman argues its many protections for slavery made it a proslavery bargain, while Sean Wilentz argues that by refusing to recognise property in people the framers left an opening later antislavery politicians used; critics of Wilentz note that his key Madison quotation may have been added to Madison's notes later.
 
+### [Federalism](../articles/constitution-and-government/federalism.md) — Principle
+
+| Myth | Fact |
+|---|---|
+| The Tenth Amendment limits the national government to the powers the Constitution "expressly" delegates to it. | The word "expressly" came from Article II of the Articles of Confederation; when the First Congress drafted the Tenth Amendment, the House voted 17 to 32 against adding it and the Senate also rejected it, so the amendment reserves only powers "not delegated." |
+
+**Why it matters:** The omission leaves room for implied powers, the reading McCulloch v. Maryland adopted, so misquoting the amendment misstates how the Constitution actually divides power.
+
+- **Q:** Why did Federalist No. 51 claim that federalism gives the American people a "double security" for their rights?
+  **A:** Because the power the people surrendered was divided first between two distinct governments, national and state, and then among separate departments within each, so the governments would check each other while each was also checked internally.
+- **Q:** How did the shift from dual federalism to cooperative federalism change the relationship between Washington and the states?
+  **A:** Under dual federalism, which emerged in the late 1870s, each level kept to its own sphere and the Court blocked federal regulation such as that of manufacturing in E. C. Knight; from the Great Depression on, cooperative federalism blended the levels, with the national government taking on roles states had handled and funding grants that states administer, such as Medicaid.
+- **Q:** Why do historians treat the antebellum "states' rights" argument as tied to slavery rather than as a neutral principle?
+  **A:** South Carolina's 1860 secession declaration rested on northern hostility to slavery and complained that northern states had passed laws nullifying the federal fugitive slave acts, so it demanded strong federal enforcement for slaveholders while invoking state sovereignty for secession.
+- **Q:** How does the position of federally recognized tribes differ from that of states within the federal system?
+  **A:** The Constitution gives Congress plenary power over Indian affairs, so states have no authority over tribal governments unless Congress expressly grants it; tribes are generally not subordinate to states and deal with them government to government.
+
 ### [Judicial review](../articles/constitution-and-government/judicial-review.md) — Principle
 
 | Myth | Fact |

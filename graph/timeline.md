@@ -259,6 +259,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
+| 1787 | The Philadelphia Convention drafts a Constitution that divides power between a national government and the states. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1787-02 | New York's refusal of the revised impost ends Congress's attempt to win a national tariff. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787-02-21 | The Confederation Congress calls a convention to meet in Philadelphia in May to revise the Articles of Confederation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-05 | The Constitutional Convention meets in Philadelphia to revise the Articles and instead drafts a new constitution. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -289,6 +290,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-12-12 | **[Pennsylvania](../articles/states-and-territories/pennsylvania.md)** (State) |
 | 1787-12-12 | Pennsylvania becomes the second state to ratify the U.S. Constitution. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1788 | Moves to Nashville as district attorney for the Mero District. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
+| 1788-02-08 | Federalist No. 51 in the New York Packet describes the compound republic and its double security for the people's rights. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1788-02-12 | The essay on apportionment and the counting of enslaved people, later No. 54, appears in the New York Packet. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-03-18 | Federalist No. 70, by Alexander Hamilton, defends a single, energetic executive. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1788-03-22 | John McLean publishes the first bound volume, with 36 essays and a preface by Hamilton. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
@@ -301,6 +303,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1788-07-26 | New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-08-16 | Newspaper reprinting of the essays that first appeared in the second volume ends. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
+| 1789 | The House, 17 to 32, and then the Senate reject adding 'expressly' to the amendment that becomes the Tenth. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1789 | The present-day Constitution goes into effect, replacing the Articles. — [United States](../articles/states-and-territories/united-states.md) |
 | 1789-03-04 | **[United States Congress](../articles/constitution-and-government/united-states-congress.md)** (Institution) |
 | 1789-03-04 | The First Federal Congress is scheduled to convene at Federal Hall in New York City, but neither chamber has a quorum. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
@@ -353,6 +356,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1797 | Born Isabella Baumfree, about this year, to James and Elizabeth Baumfree, enslaved in Ulster County, New York. — [Sojourner Truth](../articles/people-who-shaped-america/sojourner-truth.md) |
 | 1797 | Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1798 | The Kentucky and Virginia legislatures pass resolutions against the Sedition Act that articulate the idea of nullification. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1799-12 | Takes his seat in the U.S. House of Representatives for a Virginia district. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -448,6 +452,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1818-02-11 | Maryland's legislature passes a stamp tax on banks operating in the state without a state charter, effective May 1, 1818. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1818-05-01 | The Maryland tax takes effect; James W. McCulloch, cashier of the Baltimore branch, later issues notes without the required stamps. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1819 | Kamehameha I dies; his son Liholiho (Kamehameha II) soon ends the kapu system. — [Hawaii](../articles/states-and-territories/hawaii.md) |
+| 1819 | McCulloch v. Maryland upholds Congress's implied power to charter a national bank and affirms national supremacy. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1819 | The Adams-Onís (Transcontinental) Treaty with Spain finally settles the purchase's disputed borders. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1819 | Writes for the Court in McCulloch v. Maryland and the Dartmouth College case. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1819-02-15 | Representative James Tallmadge Jr. of New York proposes amending the Missouri statehood bill to bar further slavery there; the House adopts it on sectional lines, but the Senate strikes it and the bill dies. — [Missouri Compromise](../articles/early-republic-and-expansion/missouri-compromise.md) |
@@ -524,11 +529,13 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1832 | In Worcester v. Georgia the Court holds that Georgia's laws have no force within the Cherokee Nation. — [Cherokee Nation v. Georgia](../articles/native-nations/cherokee-nation-v-georgia.md) |
 | 1832 | In Worcester v. Georgia the Court rules that Georgia's laws have no force in Cherokee territory; Georgia and the president do not enforce the ruling. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1832 | Samuel F. B. Morse reportedly conceives of electric signaling on a voyage home from Europe. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
+| 1832 | South Carolina passes an Ordinance of Nullification against the federal tariffs of 1828 and 1832. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1832-07-10 | President Andrew Jackson vetoes a bill to recharter the bank, arguing the Court's view does not bind Congress or the President. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1832-07-10 | Vetoes the bill to recharter the Second Bank of the United States. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1832-12-10 | Issues his proclamation against South Carolina's nullification of the tariff. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1833 | Barron v. Baltimore holds that the Fifth Amendment and the rest of the Bill of Rights limit only the federal government. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1833 | Chicago receives its first town charter; the Treaty of Chicago forces the Potawatomi to cede their last Illinois lands and move west of the Mississippi. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
+| 1833 | Congress passes the Force Bill and a Compromise Tariff, and South Carolina backs down. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1833 | Reformers from ten states found the American Anti-Slavery Society, pledged to immediate emancipation. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1833-12-01 | Dr. John Emerson, an army surgeon, takes the enslaved Dred Scott to Fort Armstrong in the free state of Illinois. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1834 | First elected to the Illinois legislature. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
@@ -684,6 +691,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1860-11-04 | Elected 16th president with a majority of electoral votes from the free states. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1860-12 | Last rescue mission to Maryland brings away seven people. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1860-12-20 | A South Carolina convention votes 169 to 0 to secede after Abraham Lincoln's election. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
+| 1860-12-20 | South Carolina secedes, citing northern hostility to slavery and northern laws obstructing the return of fugitives from slavery. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1861 | Congress passes the Corwin Amendment, which would have shielded slavery in the states; it is never ratified. — [Thirteenth Amendment](../articles/civil-war-and-reconstruction/thirteenth-amendment.md) |
 | 1861 | Morrill reintroduces the bill after Southern states secede. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1861-02-04 | Delegates from seven seceded states meet in Montgomery, Alabama, and choose Jefferson Davis as Confederate president. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
@@ -990,6 +998,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1894-05-11 | Pullman factory workers strike; the American Railway Union's boycott of Pullman cars follows. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1895 | Around this time uptown cornetist Charles "Buddy" Bolden begins improvising on the blues and speeding up dance tunes, a style many early musicians later called the first jazz. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1895 | Cornetist Buddy Bolden forms his own band, an early landmark of New Orleans jazz. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1895 | In United States v. E. C. Knight the Supreme Court holds that the national government cannot regulate manufacturing, a hallmark of dual federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1895 | Resigns from the Civil Service Commission and becomes a New York City police commissioner. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1895 | Southern states begin adopting grandfather clauses that exempt mostly white voters from literacy tests. — [Fifteenth Amendment](../articles/democracy-and-elections/fifteenth-amendment.md) |
 | 1895-02-20 | Dies at Cedar Hill, his Washington home, after attending a meeting of the National Council of Women. — [Frederick Douglass](../articles/people-who-shaped-america/frederick-douglass.md) |
@@ -1333,6 +1342,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1940-11-05 | The station's operations move to the mainland in San Francisco and the site returns to the Army. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1941 | Alan Lomax records Muddy Waters for the Library of Congress. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1941 | Thelonious Monk is house pianist at Minton's Playhouse in Harlem, where after-hours sessions help create bebop. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1941 | United States v. Darby calls the Tenth Amendment a truism, adding nothing to the question of enumerated federal powers. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1941 | Wartime demand restores full employment, ending the Depression. — [Great Depression](../articles/depression-and-world-war/great-depression.md) |
 | 1941-02-03 | In United States v. Darby the Court upholds Congress's power to set wage and hour standards. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1941-02-19 | Dry excavation begins in the Gatun sector. — [Third Locks Project](../articles/foreign-relations-and-military/third-locks-project.md) |
@@ -1547,6 +1557,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1965 | The Immigration and Nationality Act ends the national-origins quota system. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1965 | The Immigration and Nationality Act makes family reunification the main basis for admission, opening the way for large-scale immigration from China, Hong Kong and Taiwan. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1965 | The Kinzua Dam on the Allegheny River is completed, flooding about 10,000 acres of the Seneca Allegany Reservation and forcing about 700 people to move. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
+| 1965 | The Voting Rights Act and Great Society grant programs expand the federal role under cooperative federalism. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1965 | The Voting Rights Act's Section 4 formula covers Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia, plus 39 North Carolina counties and one Arizona county. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 1965-02-26 | Voting rights activist Jimmie Lee Jackson dies of a gunshot wound inflicted by a white man in Alabama, prompting calls for a march from Selma to Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1965-03-07 | On "Bloody Sunday," law enforcement officers attack about 600 marchers leaving Selma for Montgomery. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1618,6 +1629,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1979-10-01 | The Panama Canal Zone ceases to exist. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1980 | Him Mark Lai, Genny Lim and Judy Yung publish Island, with translations of 135 poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1981 | The Cold Crush Brothers face the Fantastic Five at Harlem World in an early landmark rap battle. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1981 | The Omnibus Budget Reconciliation Act consolidates federal grants as part of the new federalism's push to return programs to the states. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1981-09-25 | Sandra Day O'Connor is sworn in as the first woman justice. — [Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md) |
 | 1982 | Afrika Bambaataa's "Planet Rock" and Grandmaster Flash and the Furious Five's "The Message" are released. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
@@ -1647,6 +1659,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1990 | Huffman Prairie Flying Field is designated a National Historic Landmark. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1991-07-17 | The building, renamed the Brown Building, is designated a National Historic Landmark. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1992 | In Department of Commerce v. Montana the Supreme Court upholds the equal-proportions method. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
+| 1992 | New York v. United States begins a line of decisions barring Congress from commandeering state governments. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1992-05-07 | A pay amendment proposed in 1789 is ratified as the Twenty-seventh Amendment. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1992-10-16 | The Dayton Aviation Heritage Preservation Act makes the field part of a new national historical park. — [Huffman Prairie Flying Field](../articles/science-and-innovation/huffman-prairie.md) |
 | 1993 | A major summer flood strikes the upper river basin. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -1655,6 +1668,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1994-08-23 | Congress designates December 7 as National Pearl Harbor Remembrance Day. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1994-10-20 | The Equity in Educational Land-Grant Status Act makes tribal colleges and universities land-grant institutions. — [Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md) |
 | 1995-01-12 | The first of 31 gray wolves captured in Canada are brought into the park, restoring a species killed off by 1926. — [Yellowstone National Park](../articles/geography-and-environment/yellowstone-national-park.md) |
+| 1995-04-26 | United States v. Lopez strikes down the Gun-Free School Zones Act of 1990 as beyond the Commerce Clause, 5 to 4. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1995-07 | The National Security Agency begins releasing the Venona decrypts of wartime Soviet intelligence cables. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
 | 1996 | Congress passes the Defense of Marriage Act, defining marriage for federal purposes as between a man and a woman and letting states refuse to recognize other states' same-sex marriages. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 1997 | The City Council exonerates Catherine O'Leary and her cow of starting the 1871 fire. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |

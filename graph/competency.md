@@ -26,7 +26,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 
 | node | reach | targets |
 |---|---|---|
-| `us:united-states-constitution` | 9 | Census and apportionment, Electoral College, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
+| `us:united-states-constitution` | 10 | Census and apportionment, Electoral College, Federalism, Presidency of the United States, Slavery in the United States, Supreme Court of the United States, The Federalist Papers, United States, United States Congress, bill-of-rights |
 | `us:indian-removal-act` | 7 | cherokee-nation, chickasaw-nation, choctaw-nation, muscogee-creek-nation, second-seminole-war, trail-of-tears, treaty-of-new-echota |
 | `us:war-of-1812` | 7 | Indian Removal Act, hartford-convention, muscogee-creek-nation, shawnee, star-spangled-banner, treaty-of-fort-jackson, treaty-of-ghent |
 | `us:california-gold-rush` | 5 | Chinese Exclusion Act, Native Americans, act-for-the-government-and-protection-of-indians, compromise-of-1850, foreign-miners-tax-of-1850 |
@@ -102,6 +102,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:dust-bowl` | interpretive |  |
 | `us:e-pluribus-unum` | interpretive |  |
 | `us:electoral-college` | interpretive |  |
+| `us:federalism` | interpretive |  |
 | `us:federalist-papers` | interpretive |  |
 | `us:fifteenth-amendment` | interpretive |  |
 | `us:franklin-d-roosevelt` | interpretive |  |
@@ -116,9 +117,8 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 | `us:jim-crow-laws` | interpretive |  |
-| `us:john-marshall` | interpretive |  |
 
-…and 33 more.
+…and 34 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -208,8 +208,8 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-code` | `us:national-symbols-of-the-united-states` |
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:electoral-college` |
+| `us:united-states-constitution` | `us:federalism` |
 | `us:united-states-constitution` | `us:presidency-of-the-united-states` |
-| `us:united-states-constitution` | `us:supreme-court-of-the-united-states` |
 
-…and 4 more.
+…and 5 more.
 

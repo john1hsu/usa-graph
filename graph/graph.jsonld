@@ -6074,6 +6074,175 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "The word \"expressly\" came from Article II of the Articles of Confederation; when the First Congress drafted the Tenth Amendment, the House voted 17 to 32 against adding it and the Senate also rejected it, so the amendment reserves only powers \"not delegated.\"",
+   "uso:myth": "The Tenth Amendment limits the national government to the powers the Constitution \"expressly\" delegates to it.",
+   "uso:why": "The omission leaves room for implied powers, the reading McCulloch v. Maryland adopted, so misquoting the amendment misstates how the Constitution actually divides power."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Federalist No. 51 claim that federalism gives the American people a \"double security\" for their rights?",
+   "uso:answer": "Because the power the people surrendered was divided first between two distinct governments, national and state, and then among separate departments within each, so the governments would check each other while each was also checked internally.",
+   "uso:questionFor": {
+    "@id": "us:federalism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the shift from dual federalism to cooperative federalism change the relationship between Washington and the states?",
+   "uso:answer": "Under dual federalism, which emerged in the late 1870s, each level kept to its own sphere and the Court blocked federal regulation such as that of manufacturing in E. C. Knight; from the Great Depression on, cooperative federalism blended the levels, with the national government taking on roles states had handled and funding grants that states administer, such as Medicaid.",
+   "uso:questionFor": {
+    "@id": "us:federalism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why do historians treat the antebellum \"states' rights\" argument as tied to slavery rather than as a neutral principle?",
+   "uso:answer": "South Carolina's 1860 secession declaration rested on northern hostility to slavery and complained that northern states had passed laws nullifying the federal fugitive slave acts, so it demanded strong federal enforcement for slaveholders while invoking state sovereignty for secession.",
+   "uso:questionFor": {
+    "@id": "us:federalism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How does the position of federally recognized tribes differ from that of states within the federal system?",
+   "uso:answer": "The Constitution gives Congress plenary power over Indian affairs, so states have no authority over tribal governments unless Congress expressly grants it; tribes are generally not subordinate to states and deal with them government to government.",
+   "uso:questionFor": {
+    "@id": "us:federalism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Philadelphia Convention drafts a Constitution that divides power between a national government and the states.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1787"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Darby calls the Tenth Amendment a truism, adding nothing to the question of enumerated federal powers.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1941"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Voting Rights Act and Great Society grant programs expand the federal role under cooperative federalism.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1965"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Omnibus Budget Reconciliation Act consolidates federal grants as part of the new federalism's push to return programs to the states.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1981"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "New York v. United States begins a line of decisions barring Congress from commandeering state governments.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1992"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "United States v. Lopez strikes down the Gun-Free School Zones Act of 1990 as beyond the Commerce Clause, 5 to 4.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1995-04-26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Federalist No. 51 in the New York Packet describes the compound republic and its double security for the people's rights.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-02-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The House, 17 to 32, and then the Senate reject adding 'expressly' to the amendment that becomes the Tenth.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1789"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Kentucky and Virginia legislatures pass resolutions against the Sedition Act that articulate the idea of nullification.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1798"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "McCulloch v. Maryland upholds Congress's implied power to charter a national bank and affirms national supremacy.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1819"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "South Carolina passes an Ordinance of Nullification against the federal tariffs of 1828 and 1832.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1832"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress passes the Force Bill and a Compromise Tariff, and South Carolina backs down.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1833"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "South Carolina secedes, citing northern hostility to slavery and northern laws obstructing the return of fugitives from slavery.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1860-12-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "In United States v. E. C. Knight the Supreme Court holds that the national government cannot regulate manufacturing, a hallmark of dual federalism.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1895"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/federalist-papers/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Seventy-six essays had run in New York City newspapers by April 2, 1788, yet the state convention that met in June still had Antifederalists outnumbering Federalists by more than two to one. New York ratified by only 30 to 27, and only after news arrived that New Hampshire had become the ninth state to ratify and Virginia the tenth, which left New York facing a union that would go ahead without it.",
@@ -21371,6 +21540,118 @@
    "dcterms:title": "The House passes the Fourteenth Amendment",
    "schema:url": {
     "@id": "https://history.house.gov/HistoricalHighlight/Detail/25769819198"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Constitution Annotated (Congressional Research Service), via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "Amdt10.2 Historical Background on the Tenth Amendment",
+   "schema:url": {
+    "@id": "https://law.cornell.edu/constitution-conan/amendment-10/historical-background-on-the-tenth-amendment"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax, American Government 3e (Rice University)",
+   "dcterms:title": "3.1 The Division of Powers",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/3-1-the-division-of-powers"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "OpenStax, American Government 3e (Rice University)",
+   "dcterms:title": "3.2 The Evolution of American Federalism",
+   "schema:url": {
+    "@id": "https://openstax.org/books/american-government-3e/pages/3-2-the-evolution-of-american-federalism"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Avalon Project, Lillian Goldman Law Library, Yale Law School",
+   "dcterms:title": "The Federalist Papers: No. 51",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_Century/fed51.asp"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The American Yawp Reader (Stanford University Press)",
+   "dcterms:title": "South Carolina Declaration of Secession, 1860",
+   "schema:url": {
+    "@id": "https://www.americanyawp.com/reader/?p=253"
+   },
+   "uso:sourceType": "textbook"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Constitution Center, Interactive Constitution",
+   "dcterms:title": "The Tenth Amendment: Interpretation & Debate",
+   "schema:url": {
+    "@id": "https://constitutioncenter.org/the-constitution/amendments/amendment-x/interpretations/129"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Supreme Court of the United States, via Legal Information Institute, Cornell Law School",
+   "dcterms:title": "United States v. Lopez, 514 U.S. 549 (1995), Syllabus",
+   "schema:url": {
+    "@id": "https://www.law.cornell.edu/supct/html/93-1260.ZS.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bureau of Indian Affairs, U.S. Department of the Interior",
+   "dcterms:title": "What is the relationship between the tribes and the individual states?",
+   "schema:url": {
+    "@id": "https://www.bia.gov/faqs/what-relationship-between-tribes-and-individual-states"
    },
    "uso:sourceType": "government"
   },
@@ -44247,6 +44528,169 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/equal-protection/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:federalism",
+   "@type": "uso:Principle",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/federalism/s8"
+    }
+   ],
+   "rdfs:label": "Federalism",
+   "skos:altLabel": [
+    "American federalism",
+    "Division of power between the nation and the states",
+    "Federal system of the United States"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states-constitution"
+   },
+   "skos:definition": "The constitutional principle that divides governing power between a national government and the states, each able to act directly on the people within its own sphere; the balance between them has been fought over and redrawn from the founding through nullification, the Civil War, the New Deal and the civil rights era to today.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/constitution-and-government"
+   },
+   "skos:prefLabel": "Federalism",
+   "skos:related": [
+    {
+     "@id": "us:american-civil-war"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:fourteenth-amendment"
+    },
+    {
+     "@id": "us:james-madison"
+    },
+    {
+     "@id": "us:mcculloch-v-maryland"
+    },
+    {
+     "@id": "us:new-deal"
+    },
+    {
+     "@id": "us:nullification-crisis"
+    },
+    {
+     "@id": "us:reconstruction-era"
+    },
+    {
+     "@id": "us:separation-of-powers"
+    },
+    {
+     "@id": "us:states-rights"
+    },
+    {
+     "@id": "us:supremacy-clause"
+    },
+    {
+     "@id": "us:tenth-amendment"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:united-states-v-lopez"
+    },
+    {
+     "@id": "us:voting-rights-act-of-1965"
+    }
+   ],
+   "uso:contrastsWith": {
+    "@id": "us:articles-of-confederation"
+   },
+   "uso:domain": "constitution-and-government",
+   "uso:establishedBy": {
+    "@id": "us:united-states-constitution"
+   },
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/constitution-and-government/federalism.md",
+   "uso:influencedBy": {
+    "@id": "us:articles-of-confederation"
+   },
+   "uso:level": "introductory",
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/federalism/misconception"
+   },
+   "uso:requires": [
+    {
+     "@id": "us:articles-of-confederation"
+    },
+    {
+     "@id": "us:united-states-constitution"
+    }
+   ],
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/federalism/timeline/9"
     }
    ]
   },
