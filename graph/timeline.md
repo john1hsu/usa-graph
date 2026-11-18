@@ -86,6 +86,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1732-02-22 | Born at Popes Creek in Westmoreland County, Virginia (February 11 under the Julian calendar then in use). — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1737 | Becomes postmaster of Philadelphia. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1737-09-19 | The Walking Purchase begins; proprietary agents use an unsigned 1686 draft deed to take perhaps over a million acres of Lenape land. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
+| 1741 | A Russian naval expedition under Vitus Bering and Aleksei Chirikov reaches Alaska, opening the way for Siberian fur traders. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1750 | Georgia lifts its 1735 ban on slavery, and enslaved West Africans are set to work growing rice, indigo and cotton on its island plantations. — [Gullah Geechee](../articles/society-and-people/gullah-geechee.md) |
@@ -376,6 +377,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1798 | The Kentucky and Virginia legislatures pass resolutions against the Sedition Act that articulate the idea of nullification. — [Federalism](../articles/constitution-and-government/federalism.md) |
 | 1798-12-24 | Virginia adopts his resolutions against the Alien and Sedition Acts. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
+| 1799 | Tsar Paul I charters the Russian-American Company with a monopoly on trade and government in Russian America. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1799-12 | Takes his seat in the U.S. House of Representatives for a Virginia district. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -396,6 +398,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1801-12 | Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802 | Elected major general of the Tennessee militia. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1802 | Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802). — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
+| 1802 | Sitka Tlingit destroy the Russian post of Fort Saint Michael. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1802-03-08 | The new Republican Congress repeals the Judiciary Act of 1801, abolishing the sixteen circuit judgeships. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-04-29 | The Judiciary Act of 1802 sets a single annual Supreme Court session beginning in February and cancels the June 1802 term. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802-10 | Spain's King Charles IV signs the decree transferring Louisiana to France, and the Spanish official at New Orleans revokes Americans' right of deposit. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -418,6 +421,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1803-11-30 | Spain formally returns Louisiana to France. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | France transfers Louisiana to the United States at New Orleans. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1803-12-20 | The U.S. flag is raised in New Orleans as Louisiana passes to the United States. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
+| 1804 | Alexander Baranov returns to Sitka Sound; the Tlingit withdraw after losing their gunpowder, and the Russians found New Archangel. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1804 | Congress creates the Territory of Orleans from the southern part of the purchase. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1804-06 | New Hampshire supplies the final ratification of the Twelfth Amendment, which gives electors separate votes for president and vice president. — [Electoral College](../articles/democracy-and-elections/electoral-college.md) |
 | 1804-06-15 | The Twelfth Amendment is ratified, so electors cast separate ballots for president and vice president. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
@@ -833,8 +837,11 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1867 | The Military Reconstruction Act places the bureau under the commanders of five military districts. — [Freedmen's Bureau](../articles/civil-war-and-reconstruction/freedmens-bureau.md) |
 | 1867-03-02 | The Reconstruction Act places former Confederate states except Tennessee under military districts. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1867-03-02 | The first Reconstruction Act becomes law over Johnson's veto, placing the former Confederate states except Tennessee under five military districts. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
+| 1867-03-30 | Secretary of State William H. Seward and Russian minister Edouard de Stoeckl sign the treaty of cession. — [Alaska](../articles/states-and-territories/alaska.md) |
+| 1867-04-09 | The Senate approves the treaty 37–2. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1867-06-24 | Chinese workers of the Central Pacific Railroad stop work along a 30-mile stretch between Cisco and Truckee, California, demanding higher pay and shorter hours. — [Chinese Americans](../articles/society-and-people/chinese-americans.md) |
 | 1867-10-18 | Alaska, bought from Russia for $7.2 million, is formally transferred to the United States. — [United States](../articles/states-and-territories/united-states.md) |
+| 1867-10-18 | Russia formally transfers the territory to the United States. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1868 | Becomes an editor, with Stanton, of the newspaper The Revolution. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1868 | The Burlingame Treaty secures free migration between the United States and China. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1868 | The Fourteenth Amendment replaces the three-fifths formula with a count of the whole number of persons. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
@@ -846,6 +853,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1868-07-09 | Louisiana and South Carolina ratify, completing the three-fourths needed. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1868-07-09 | Ratification of the Fourteenth Amendment extends a due process guarantee against the states. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1868-07-09 | Ratification of the Fourteenth Amendment writes the Equal Protection Clause into the Constitution. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1868-07-14 | After more than a year's delay, the House votes 113–43 to fund the $7.2 million purchase. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1868-07-25 | Congress creates Wyoming Territory; the 1868 Fort Laramie treaty negotiated with Red Cloud closes the Bozeman Trail the same year. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 1868-07-28 | Secretary of State William H. Seward certifies ratification by 28 states. — [Fourteenth Amendment](../articles/rights-and-law/fourteenth-amendment.md) |
 | 1868-07-28 | The Fourteenth Amendment is certified as ratified by 28 of 37 states. — [Reconstruction era](../articles/civil-war-and-reconstruction/reconstruction-era.md) |
@@ -963,6 +971,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1880 | The Angell Treaty allows the United States to regulate or limit, but not wholly prohibit, Chinese immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
 | 1880 | The bay's oyster harvest peaks at about 6.3 million bushels of market oysters. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
+| 1880-10-18 | After Auk Tlingit chief Kowee brings in gold ore, prospectors stake the Silver Bow Basin townsite that becomes Juneau. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1882 | Congress passes the Chinese Exclusion Act, barring Chinese laborers and making Chinese immigrants ineligible for citizenship. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
@@ -1056,6 +1065,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1896 | William McKinley, backed by business and the gold standard, defeats William Jennings Bryan for the presidency. — [Gilded Age](../articles/gilded-age-and-progressive-era/gilded-age.md) |
 | 1896-05-18 | **[Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md)** (CourtCase) |
 | 1896-05-18 | The U.S. Supreme Court affirms, 7 to 1, with Justice Henry Billings Brown writing and Justice John Marshall Harlan dissenting. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
+| 1896-08 | Skookum Jim and his family find gold in the Klondike region of Canada's Yukon; stampeders pour through Skagway and Dyea in 1897–98. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1897-01-11 | Plessy pleads guilty in New Orleans and pays a $25 fine. — [Plessy v. Ferguson](../articles/gilded-age-and-progressive-era/plessy-v-ferguson.md) |
 | 1897-08-21 | Pennsylvania enacts the Campbell Act, a tax of three cents a day on coal operators for each non-citizen they employ. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1897-09-10 | **[Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md)** (Event) |
@@ -1128,6 +1138,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1906 | Awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1906 | The Burke Act withholds citizenship until an allottee receives a fee patent and lets the Interior secretary declare allottees competent. — [Dawes Act](../articles/native-nations/dawes-act.md) |
 | 1906 | The San Francisco earthquake and fire destroy many birth and immigration records, opening the way for "paper son" identities. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
+| 1906 | The seat of government moves from Sitka to Juneau. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1906-02 | Attends her last NAWSA convention, in Baltimore, and gives her final public remarks. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
 | 1906-02 | Cosmopolitan begins David Graham Phillips's nine-part series The Treason of the Senate. — [Muckrakers](../articles/gilded-age-and-progressive-era/muckrakers.md) |
 | 1906-03-13 | Dies at her home in Rochester; she is buried in Mount Hope Cemetery. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -1180,6 +1191,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1911-10-05 | Date given in the earliest dated poem yet recorded (Island poem 100). — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1911-12-27 | A jury acquits Blanck and Harris. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 1912 | **[Minimum wage](../articles/economy-and-work/minimum-wage.md)** (Policy) |
+| 1912 | Congress makes Alaska a territory. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1912 | Handy publishes "The Memphis Blues" and sells its rights for $100. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1912 | Massachusetts enacts the first state minimum wage law; it takes effect on July 1, 1913. — [Minimum wage](../articles/economy-and-work/minimum-wage.md) |
 | 1912 | President William Howard Taft standardizes the 48-star flag in six rows of eight. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1427,6 +1439,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1941-12-11 | Germany declares war on the United States. — [Attack on Pearl Harbor](../articles/depression-and-world-war/attack-on-pearl-harbor.md) |
 | 1941-12-26 | Roosevelt signs H.J. Res. 41, fixing Thanksgiving on the fourth Thursday of November from 1942. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
 | 1942 | A joint resolution of Congress puts the Pledge of Allegiance into federal law. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
+| 1942 | Japan occupies Attu and Kiska; U.S. authorities evacuate 881 Unangax̂ from nine villages to camps in Southeast Alaska. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1942-02-19 – 1946-03-20 | **[Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md)** (Event) |
 | 1942-02-19 | President Franklin D. Roosevelt signs Executive Order 9066, letting military commanders designate areas from which any person may be excluded. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1942-02-19 | Roosevelt signs Executive Order 9066, leading to the forced removal and incarceration of Japanese Americans. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
@@ -1473,6 +1486,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1945 | U.S. telegraph traffic peaks at about 236 million messages; Western Union and Postal Telegraph merge. — [Electric telegraph](../articles/science-and-innovation/telegraph.md) |
 | 1945-01-02 | The West Coast exclusion orders are lifted. — [Japanese American incarceration during World War II](../articles/depression-and-world-war/japanese-american-incarceration.md) |
 | 1945-01-03 | The House makes the Committee on Un-American Activities (HUAC) a permanent standing committee. — [McCarthyism](../articles/cold-war-and-civil-rights/mccarthyism.md) |
+| 1945-02-16 | The territorial legislature approves the Anti-Discrimination Act after testimony by Elizabeth Peratrovich. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1945-04-12 | Dies at Warm Springs, Georgia. — [Franklin D. Roosevelt](../articles/presidents-and-founders/franklin-d-roosevelt.md) |
 | 1945-05 | Berlin falls days after Hitler's suicide, and Americans celebrate V-E Day. — [World War II and the United States](../articles/depression-and-world-war/world-war-ii-and-the-united-states.md) |
 | 1945-07-17 | The Potsdam Conference opens; Truman and Stalin clash over German reparations and the Big Three fail to reach a lasting postwar settlement. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
@@ -1576,6 +1590,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1956-03 | The State Department sends Dizzy Gillespie on the first of its Cold War jazz-ambassador tours. — [Jazz](../articles/culture-and-arts/jazz.md) |
 | 1956-03-12 | The Southern Manifesto denouncing the decision is introduced in Congress. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
 | 1956-03-22 | King is convicted under a 1921 anti-boycott law and fined $500 or 386 days in jail. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
+| 1956-04-24 | Alaska voters adopt a state constitution. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1956-06-05 | A three-judge federal court rules 2–1 that bus segregation is unconstitutional. — [Montgomery bus boycott](../articles/cold-war-and-civil-rights/montgomery-bus-boycott.md) |
 | 1956-07-30 | An act of Congress declares 'In God we trust' the national motto; E pluribus unum stays on the seal and coins. — [E pluribus unum](../articles/symbols-and-national-identity/e-pluribus-unum.md) |
 | 1956-07-30 | Congress declares 'In God we trust' the national motto. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
@@ -1602,9 +1617,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1958 | Hansen supervises a rebuilding of the terrazzo floor. — [Winged Figures of the Republic](../articles/culture-and-arts/winged-figures-of-the-republic.md) |
 | 1958-02 | Minnijean Brown is expelled after retaliating against harassment. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-05 | Ernest Green becomes the first Black student to graduate from Central High. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
+| 1958-07-07 | President Eisenhower signs the Alaska Statehood Act after House passage on May 28 and Senate passage on June 30. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1958-09-29 | In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1959 | The introduced oyster parasite MSX appears in the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
+| 1959-01-03 | **[Alaska](../articles/states-and-territories/alaska.md)** (State) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
+| 1959-01-03 | Eisenhower proclaims Alaska's admission as the forty-ninth state. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1959-01-12 | Berry Gordy Jr. founds Tamla Records, soon joined by the Motown label. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1959-03-18 | President Eisenhower signs the statehood act passed by Congress. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1643,6 +1661,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1964 | A riot over flying Panama's flag in the Canal Zone briefly breaks U.S.-Panamanian relations. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1964 | B.B. King records the album Live at the Regal at Chicago's Regal Theater. — [Blues](../articles/culture-and-arts/blues.md) |
 | 1964 | In Wesberry v. Sanders the Court requires congressional districts to be as equal in population as practicable. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
+| 1964-03-27 | A magnitude 9.2 earthquake, the largest recorded in U.S. history, and its tsunamis kill 129 people. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1964-06-15 | **[Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md)** (CourtCase) |
 | 1964-06-15 | The Court decides Reynolds 8 to 1 along with companion cases from New York, Maryland, Virginia, Delaware and Colorado. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1964-06-21 | Mississippi Freedom Summer begins; James Chaney, Andrew Goodman and Michael Schwerner are murdered by Klansmen in Neshoba County. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1689,6 +1708,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1968 | Avery v. Midland County extends the equal-population rule to elected local governments. — [Reynolds v. Sims](../articles/democracy-and-elections/reynolds-v-sims.md) |
 | 1968 | Dennis Banks, Clyde Bellecourt and George Mitchell found the American Indian Movement in Minneapolis. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 1968 | Pigmeat Markham's comic, funk-based "Here Comes the Judge" anticipates later rap boasting. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
+| 1968-03 | Oil companies announce the Prudhoe Bay discovery on the North Slope. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1968-04-03 | Gives his last speech at Bishop Charles J. Mason Temple in Memphis while supporting striking sanitation workers. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968-04-04 | Assassinated on a balcony of the Lorraine Motel in Memphis. — [Martin Luther King Jr.](../articles/people-who-shaped-america/martin-luther-king-jr.md) |
 | 1968-04-04 | Martin Luther King Jr. is assassinated in Memphis, Tennessee. — [Civil rights movement](../articles/cold-war-and-civil-rights/civil-rights-movement.md) |
@@ -1718,6 +1738,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1971 | Apollo 14 and Apollo 15 crews deploy two more U.S. arrays, the second with 300 prisms. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
 | 1971 | Gil Scott-Heron records "The Revolution Will Not Be Televised," a spoken-word model for socially conscious rap. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1971 | Reed v. Reed applies heightened review to a sex-based classification for the first time. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
+| 1971-12-18 | President Nixon signs the Alaska Native Claims Settlement Act. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1972 | The first Strategic Arms Limitation Talks produce the Anti-Ballistic Missile Treaty and an interim cap on ICBMs, a high point of détente. — [Cold War](../articles/cold-war-and-civil-rights/cold-war.md) |
 | 1972-09-10 | A memorial boulder and state marker are dedicated at Lattimer; Cesar Chavez speaks. — [Lattimer massacre](../articles/economy-and-work/lattimer-massacre.md) |
 | 1973 | A second Soviet reflector reaches the Moon aboard Lunokhod 2. — [Lunar Laser Ranging Experiment](../articles/science-and-innovation/lunar-laser-ranging-experiment.md) |
@@ -1736,6 +1757,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1976 | Mathews v. Eldridge adopts a three-factor balancing test for the process due in civil proceedings. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1976 | The Federal Land Policy and Management Act declares that remaining public-domain land will generally stay in federal ownership. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1976 | The Jann and Yee manuscripts are given to researchers, who use them to recover damaged or missing poems. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
+| 1977-06-20 | Oil enters the 800-mile trans-Alaska pipeline at Prudhoe Bay. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 1977-09-07 | Jimmy Carter and Omar Torrijos sign the Panama Canal Treaty and the Neutrality Treaty. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1978 | Amendments to the act strengthen environmental safeguards and coastal-state involvement and reinforce the five-year leasing program. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 1978 | United States v. Wheeler describes tribal powers as inherent; Oliphant v. Suquamish Indian Tribe denies tribes criminal jurisdiction over non-Indians. — [Tribal sovereignty](../articles/native-nations/tribal-sovereignty.md) |
@@ -1945,6 +1967,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2020-04-01 | The census counts 39,538,223 residents; California remains the most populous state but loses one House seat. — [California](../articles/states-and-territories/california.md) |
 | 2020-04-01 | The census counts 576,851 residents, the fewest of any state. — [Wyoming](../articles/states-and-territories/wyoming.md) |
 | 2020-04-01 | The census counts 639,111 residents. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
+| 2020-04-01 | The census counts 733,391 residents. — [Alaska](../articles/states-and-territories/alaska.md) |
 | 2020-04-30 | The administration launches Operation Warp Speed to speed development of a vaccine. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-08 | BLS reports April unemployment of 14.7 percent and a loss of 20.5 million payroll jobs. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |
 | 2020-05-28 | Recorded U.S. COVID-19 deaths pass 100,000. — [COVID-19 pandemic in the United States](../articles/contemporary-america/covid-19-pandemic-in-the-united-states.md) |

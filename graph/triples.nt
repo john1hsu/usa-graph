@@ -446,6 +446,177 @@
 <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/6> .
 <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/7> .
 <https://github.com/john1hsu/usa-graph/id/african-americans> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/alaska/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+<https://github.com/john1hsu/usa-graph/id/alaska/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Critics did use nicknames such as \"Seward's Folly\" and \"Seward's Icebox,\" but the Senate approved the treaty 37–2, the House later funded it 113–43, and much of the press and correspondence Seward received favored the acquisition." .
+<https://github.com/john1hsu/usa-graph/id/alaska/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "Americans in 1867 overwhelmingly ridiculed the Alaska purchase as \"Seward's Folly.\"" .
+<https://github.com/john1hsu/usa-graph/id/alaska/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "Retelling the purchase as one far-sighted man against a mocking public makes a tidier story, and later gold and oil strikes made the jokes seem prophetic, so the nicknames outlived the more mixed and largely favorable record." .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Russia sell Alaska, and why is the story of universal American ridicule misleading?" .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "The Crimean War had shown how vulnerable Russian America was, and the tsar sold it rather than risk losing it in another war. In the United States some critics mocked the deal, but the Senate approved the treaty 37–2, the House funded it 113–43, and much of the press favored it." .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did statehood lead to the Alaska Native Claims Settlement Act?" .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The 1958 Statehood Act let the new state select about 105 million acres of federal land, but Alaska Native claims had never been settled. Native protests led the Interior Department to freeze selections in 1969, and the state and oil companies then pressed Congress, which in 1971 extinguished claims to more than 360 million acres in exchange for about 45 million acres and about $962.5 million, managed largely through Native corporations." .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "How did World War II affect the Unangax̂ (Aleut) people?" .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "After Japan attacked the Aleutians in 1942, U.S. authorities evacuated 881 Unangax̂ to abandoned canneries and camps in Southeast Alaska without plumbing or electricity and often without medical care; at least 74 died in four camps, while some Unangax̂ men served in the armed forces." .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Alaska's statehood delayed, and how did Cold War concerns shape it?" .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Statehood bills were introduced year after year; Eisenhower supported statehood but wanted concerns settled first, including national security on the border with the Soviet Union and the fact that about 99 percent of the land was federally owned. A compromise on land transfers allowed the 1958 act to pass." .
+<https://github.com/john1hsu/usa-graph/id/alaska/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/alaska> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Skookum Jim and his family find gold in the Klondike region of Canada's Yukon; stampeders pour through Skagway and Dyea in 1897–98." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1896-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "The seat of government moves from Sitka to Juneau." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1906"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Congress makes Alaska a territory." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Japan occupies Attu and Kiska; U.S. authorities evacuate 881 Unangax̂ from nine villages to camps in Southeast Alaska." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1942"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "The territorial legislature approves the Anti-Discrimination Act after testimony by Elizabeth Peratrovich." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1945-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "Alaska voters adopt a state constitution." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1956-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "President Eisenhower signs the Alaska Statehood Act after House passage on May 28 and Senate passage on June 30." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1958-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Eisenhower proclaims Alaska's admission as the forty-ninth state." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1959-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "A magnitude 9.2 earthquake, the largest recorded in U.S. history, and its tsunamis kill 129 people." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1964-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/19> <http://www.w3.org/2000/01/rdf-schema#label> "Oil companies announce the Prudhoe Bay discovery on the North Slope." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/19> <https://github.com/john1hsu/usa-graph/ontology#date> "1968-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "A Russian naval expedition under Vitus Bering and Aleksei Chirikov reaches Alaska, opening the way for Siberian fur traders." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1741"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/20> <http://www.w3.org/2000/01/rdf-schema#label> "President Nixon signs the Alaska Native Claims Settlement Act." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/20> <https://github.com/john1hsu/usa-graph/ontology#date> "1971-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/21> <http://www.w3.org/2000/01/rdf-schema#label> "Oil enters the 800-mile trans-Alaska pipeline at Prudhoe Bay." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/21> <https://github.com/john1hsu/usa-graph/ontology#date> "1977-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/22> <http://www.w3.org/2000/01/rdf-schema#label> "The census counts 733,391 residents." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/22> <https://github.com/john1hsu/usa-graph/ontology#date> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Tsar Paul I charters the Russian-American Company with a monopoly on trade and government in Russian America." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1799"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "Sitka Tlingit destroy the Russian post of Fort Saint Michael." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1802"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Baranov returns to Sitka Sound; the Tlingit withdraw after losing their gunpowder, and the Russians found New Archangel." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1804"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary of State William H. Seward and Russian minister Edouard de Stoeckl sign the treaty of cession." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Senate approves the treaty 37–2." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Russia formally transfers the territory to the United States." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1867-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "After more than a year's delay, the House votes 113–43 to fund the $7.2 million purchase." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1868-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "After Auk Tlingit chief Kowee brings in gold ore, prospectors stake the Silver Bow Basin townsite that becomes Juneau." .
+<https://github.com/john1hsu/usa-graph/id/alaska/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1880-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#State> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2000/01/rdf-schema#label> "Alaska" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#altLabel> "District of Alaska" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#altLabel> "Russian America" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#altLabel> "State of Alaska" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#altLabel> "Territory of Alaska" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#definition> "The forty-ninth U.S. state (admitted January 3, 1959) and the largest by area, a subarctic and Arctic land in northwestern North America that has been home to Alaska Native peoples for thousands of years; colonized by Russia for its fur trade, it was bought by the United States in 1867 and was governed as a district and territory until statehood." .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alaska" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/1964-alaska-earthquake> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska-anti-discrimination-act-of-1945> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska-native-claims-settlement-act> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska-purchase> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alaska-statehood-act> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/aleutian-islands-campaign> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/beringia> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/canada> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/cold-war> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/denali> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dwight-d-eisenhower> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/elizabeth-peratrovich> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hawaii> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/juneau> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/klondike-gold-rush> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/native-americans> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/russian-america> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tlingit> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/trans-alaska-pipeline> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/tribal-sovereignty> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/unangax-evacuation-and-internment> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/unangax> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/william-h-seward> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/world-war-ii-and-the-united-states> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s10> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s11> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s12> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s13> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s14> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s15> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s16> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s17> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s18> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s19> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s1> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s20> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s2> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s3> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s4> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s5> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s6> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s7> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s8> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/alaska/s9> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#domain> "states-and-territories" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#establishedBy> <https://github.com/john1hsu/usa-graph/id/alaska-statehood-act> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "established" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/states-and-territories/alaska.md" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#locatedIn> <https://github.com/john1hsu/usa-graph/id/united-states> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/alaska/misconception> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/10> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/11> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/12> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/13> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/14> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/15> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/16> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/17> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/18> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/19> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/1> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/20> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/21> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/22> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/2> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/3> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/4> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/5> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/6> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/7> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/8> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/alaska/timeline/9> .
+<https://github.com/john1hsu/usa-graph/id/alaska> <https://schema.org/startDate> "1959-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
 <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "The seceding states said otherwise at the time. Mississippi declared its position \"thoroughly identified with the institution of slavery,\" South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery." .
 <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "The Civil War was fought over states' rights or tariffs, not slavery." .
@@ -13234,6 +13405,126 @@
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/usa-graph/id/source/african-americans/s9> <https://schema.org/url> <https://www.archives.gov/education/lessons/blacks-civil-war> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <http://purl.org/dc/terms/publisher> "Alaska Humanities Forum, Alaska History & Cultural Studies" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <http://purl.org/dc/terms/title> "Alaska Native Heritage Center" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s10> <https://schema.org/url> <https://akhistory.lpsd.com/articles/article.php?artID=195> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <http://purl.org/dc/terms/publisher> "National Park Service, Aleutian World War II National Historic Area" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <http://purl.org/dc/terms/title> "Evacuation and Internment" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s11> <https://schema.org/url> <https://www.nps.gov/aleu/learn/historyculture/unangax-internment.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <http://purl.org/dc/terms/publisher> "U.S. Geological Survey" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <http://purl.org/dc/terms/title> "The 1964 Great Alaska Earthquake and tsunamis: a modern perspective and enduring legacies (Fact Sheet 2014-3018)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s12> <https://schema.org/url> <https://pubs.usgs.gov/publication/fs20143018> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <http://purl.org/dc/terms/title> "Denali Summit Survey" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s13> <https://schema.org/url> <https://www.nps.gov/articles/denali-crp-summit-survey.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <http://purl.org/dc/terms/title> "Trump Administration Actions: Geographic Naming (IF12881)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s14> <https://schema.org/url> <https://www.everycrsreport.com/reports/IF12881.html> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <http://purl.org/dc/terms/title> "Alaska Native Lands and the Alaska Native Claims Settlement Act (ANCSA): Overview and Selected Issues for Congress (R46997)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s15> <https://schema.org/url> <https://www.everycrsreport.com/reports/R46997.html> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <http://purl.org/dc/terms/publisher> "University of Alaska Fairbanks, Geophysical Institute (Alaska Science Forum)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <http://purl.org/dc/terms/title> "Twenty years ago, a pipe changed Alaska" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s16> <https://schema.org/url> <https://www.gi.alaska.edu/alaska-science-forum/twenty-years-pipe-changed-alaska> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <http://purl.org/dc/terms/publisher> "Alaska State Archives" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <http://purl.org/dc/terms/title> "Anti-Discrimination Act of 1945 and Elizabeth Peratrovich" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s17> <https://schema.org/url> <https://archives.alaska.gov/education/peratrovich.html> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <http://purl.org/dc/terms/publisher> "City and Borough of Juneau" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <http://purl.org/dc/terms/title> "History of Juneau" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s18> <https://schema.org/url> <https://juneau.org/community-development/history-of-juneau> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <http://purl.org/dc/terms/publisher> "National Park Service, Klondike Gold Rush National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <http://purl.org/dc/terms/title> "What Was the Klondike Gold Rush?" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s19> <https://schema.org/url> <https://www.nps.gov/klgo/learn/goldrush.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <http://purl.org/dc/terms/publisher> "National Archives (Milestone Documents)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <http://purl.org/dc/terms/title> "Check for the Purchase of Alaska (1868)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s1> <https://schema.org/url> <https://archives.gov/milestone-documents/check-for-the-purchase-of-alaska> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <http://purl.org/dc/terms/publisher> "State of Alaska, Alaska Native Language Preservation and Advisory Council" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <http://purl.org/dc/terms/title> "Alaska Native Languages" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s20> <https://schema.org/url> <https://commerce.alaska.gov/web/dcra/AKNativeLanguagePreservationAdvisoryCouncil/Languages> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <http://purl.org/dc/terms/title> "Today in History – March 30: Seward's Folly" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s2> <https://schema.org/url> <https://www.loc.gov/item/today-in-history/march-30/> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <http://purl.org/dc/terms/publisher> "University of Rochester, News Center (William Henry Seward Papers)" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <http://purl.org/dc/terms/title> "The myth—and memorabilia—of Seward's Folly" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s3> <https://schema.org/url> <https://www.rochester.edu/newscenter/sewards-folly-308482/> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <http://purl.org/dc/terms/publisher> "Richard E. Welch Jr., American Slavic and East European Review 17, no. 4 (1958), 481–494 (Cambridge University Press), doi:10.2307/3001132" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <http://purl.org/dc/terms/title> "American Public Opinion and the Purchase of Russian America" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s4> <https://schema.org/url> <https://cambridge.org/core/journals/american-slavic-and-east-european-review/article/american-public-opinion-and-the-purchase-of-russian-america/97D5334491B23ACC840DA1A846405311> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <http://purl.org/dc/terms/publisher> "Dwight D. Eisenhower Presidential Library" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <http://purl.org/dc/terms/title> "Alaska Statehood" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s5> <https://schema.org/url> <https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <http://purl.org/dc/terms/publisher> "National Archives, Office of the Federal Register" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <http://purl.org/dc/terms/title> "Proclamation 3269: Admission of the State of Alaska into the Union" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s6> <https://schema.org/url> <https://www.archives.gov/federal-register/codification/proclamations/03269.html> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <http://purl.org/dc/terms/publisher> "U.S. Census Bureau" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <http://purl.org/dc/terms/title> "QuickFacts: Alaska" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s7> <https://schema.org/url> <https://www.census.gov/quickfacts/ak> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <http://purl.org/dc/terms/publisher> "National Park Service, Sitka National Historical Park" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <http://purl.org/dc/terms/title> "The Russians" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s8> <https://schema.org/url> <https://home.nps.gov/sitk/learn/historyculture/the-russians.htm> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <http://purl.org/dc/terms/publisher> "National Park Service" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <http://purl.org/dc/terms/title> "Beringia: History" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/usa-graph/id/source/alaska/s9> <https://schema.org/url> <https://www.nps.gov/subjects/beringia/history.htm> .
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/date> "2026-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/publisher> "The American Yawp (Stanford University Press), eds. Joseph Locke and Ben Wright" .
 <https://github.com/john1hsu/usa-graph/id/source/american-civil-war/s1> <http://purl.org/dc/terms/title> "14. The Civil War" .

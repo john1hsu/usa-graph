@@ -2158,6 +2158,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 
 ## states-and-territories
 
+### [Alaska](../articles/states-and-territories/alaska.md) — State
+
+| Myth | Fact |
+|---|---|
+| Americans in 1867 overwhelmingly ridiculed the Alaska purchase as "Seward's Folly." | Critics did use nicknames such as "Seward's Folly" and "Seward's Icebox," but the Senate approved the treaty 37–2, the House later funded it 113–43, and much of the press and correspondence Seward received favored the acquisition. |
+
+**Why it matters:** Retelling the purchase as one far-sighted man against a mocking public makes a tidier story, and later gold and oil strikes made the jokes seem prophetic, so the nicknames outlived the more mixed and largely favorable record.
+
+- **Q:** Why did Russia sell Alaska, and why is the story of universal American ridicule misleading?
+  **A:** The Crimean War had shown how vulnerable Russian America was, and the tsar sold it rather than risk losing it in another war. In the United States some critics mocked the deal, but the Senate approved the treaty 37–2, the House funded it 113–43, and much of the press favored it.
+- **Q:** How did statehood lead to the Alaska Native Claims Settlement Act?
+  **A:** The 1958 Statehood Act let the new state select about 105 million acres of federal land, but Alaska Native claims had never been settled. Native protests led the Interior Department to freeze selections in 1969, and the state and oil companies then pressed Congress, which in 1971 extinguished claims to more than 360 million acres in exchange for about 45 million acres and about $962.5 million, managed largely through Native corporations.
+- **Q:** How did World War II affect the Unangax̂ (Aleut) people?
+  **A:** After Japan attacked the Aleutians in 1942, U.S. authorities evacuated 881 Unangax̂ to abandoned canneries and camps in Southeast Alaska without plumbing or electricity and often without medical care; at least 74 died in four camps, while some Unangax̂ men served in the armed forces.
+- **Q:** Why was Alaska's statehood delayed, and how did Cold War concerns shape it?
+  **A:** Statehood bills were introduced year after year; Eisenhower supported statehood but wanted concerns settled first, including national security on the border with the Soviet Union and the fact that about 99 percent of the land was federally owned. A compromise on land transfers allowed the 1958 act to pass.
+
 ### [California](../articles/states-and-territories/california.md) — State
 
 | Myth | Fact |

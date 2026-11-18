@@ -57,7 +57,7 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 
-…and 90 more.
+…and 91 more.
 
 ## Happenings by era
 
@@ -127,7 +127,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:alaska` | uso:State |
 
 ## Orphan articles (gap)
 
@@ -186,6 +188,7 @@ _Which institutions, offices, rights and principles did each document or law est
 | document | established |
 |---|---|
 | `us:alabama-constitution-of-1901` | `us:jim-crow-laws` |
+| `us:alaska-statehood-act` | `us:alaska` |
 | `us:boulder-canyon-project-act` | `us:hoover-dam` |
 | `us:canal-zone-additional-facilities-act-of-1939` | `us:third-locks-project` |
 | `us:charter-of-pennsylvania` | `us:pennsylvania` |
@@ -214,7 +217,6 @@ _Which institutions, offices, rights and principles did each document or law est
 | `us:united-states-constitution` | `us:census-and-apportionment` |
 | `us:united-states-constitution` | `us:electoral-college` |
 | `us:united-states-constitution` | `us:federalism` |
-| `us:united-states-constitution` | `us:presidency-of-the-united-states` |
 
-…and 5 more.
+…and 6 more.
 

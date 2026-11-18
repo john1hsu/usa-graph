@@ -751,6 +751,274 @@
   ]
  },
  {
+  "id": "us:alaska",
+  "title": "Alaska",
+  "aliases": [
+   "State of Alaska",
+   "Territory of Alaska",
+   "District of Alaska",
+   "Russian America"
+  ],
+  "type": "State",
+  "domain": "states-and-territories",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/states-and-territories/alaska.md",
+  "created": "2026-11-18",
+  "summary": "The forty-ninth U.S. state (admitted January 3, 1959) and the largest by area, a subarctic and Arctic land in northwestern North America that has been home to Alaska Native peoples for thousands of years; colonized by Russia for its fur trade, it was bought by the United States in 1867 and was governed as a district and territory until statehood.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska-purchase"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:william-h-seward"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:russian-america"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska-statehood-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dwight-d-eisenhower"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:hawaii"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tribal-sovereignty"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:tlingit"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:unangax"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:beringia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:klondike-gold-rush"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:juneau"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:world-war-ii-and-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:aleutian-islands-campaign"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:unangax-evacuation-and-internment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:elizabeth-peratrovich"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska-anti-discrimination-act-of-1945"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:cold-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:1964-alaska-earthquake"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alaska-native-claims-settlement-act"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:trans-alaska-pipeline"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:denali"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:canada"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:establishedBy",
+    "object": "us:alaska-statehood-act",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "start": "1959-01-03",
+  "end": null,
+  "review": [
+   {
+    "question": "Why did Russia sell Alaska, and why is the story of universal American ridicule misleading?",
+    "answer": "The Crimean War had shown how vulnerable Russian America was, and the tsar sold it rather than risk losing it in another war. In the United States some critics mocked the deal, but the Senate approved the treaty 37–2, the House funded it 113–43, and much of the press favored it."
+   },
+   {
+    "question": "How did statehood lead to the Alaska Native Claims Settlement Act?",
+    "answer": "The 1958 Statehood Act let the new state select about 105 million acres of federal land, but Alaska Native claims had never been settled. Native protests led the Interior Department to freeze selections in 1969, and the state and oil companies then pressed Congress, which in 1971 extinguished claims to more than 360 million acres in exchange for about 45 million acres and about $962.5 million, managed largely through Native corporations."
+   },
+   {
+    "question": "How did World War II affect the Unangax̂ (Aleut) people?",
+    "answer": "After Japan attacked the Aleutians in 1942, U.S. authorities evacuated 881 Unangax̂ to abandoned canneries and camps in Southeast Alaska without plumbing or electricity and often without medical care; at least 74 died in four camps, while some Unangax̂ men served in the armed forces."
+   },
+   {
+    "question": "Why was Alaska's statehood delayed, and how did Cold War concerns shape it?",
+    "answer": "Statehood bills were introduced year after year; Eisenhower supported statehood but wanted concerns settled first, including national security on the border with the Soviet Union and the fact that about 99 percent of the land was federally owned. A compromise on land transfers allowed the 1958 act to pass."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1741",
+    "event": "A Russian naval expedition under Vitus Bering and Aleksei Chirikov reaches Alaska, opening the way for Siberian fur traders."
+   },
+   {
+    "date": "1799",
+    "event": "Tsar Paul I charters the Russian-American Company with a monopoly on trade and government in Russian America."
+   },
+   {
+    "date": "1802",
+    "event": "Sitka Tlingit destroy the Russian post of Fort Saint Michael."
+   },
+   {
+    "date": "1804",
+    "event": "Alexander Baranov returns to Sitka Sound; the Tlingit withdraw after losing their gunpowder, and the Russians found New Archangel."
+   },
+   {
+    "date": "1867-03-30",
+    "event": "Secretary of State William H. Seward and Russian minister Edouard de Stoeckl sign the treaty of cession."
+   },
+   {
+    "date": "1867-04-09",
+    "event": "The Senate approves the treaty 37–2."
+   },
+   {
+    "date": "1867-10-18",
+    "event": "Russia formally transfers the territory to the United States."
+   },
+   {
+    "date": "1868-07-14",
+    "event": "After more than a year's delay, the House votes 113–43 to fund the $7.2 million purchase."
+   },
+   {
+    "date": "1880-10-18",
+    "event": "After Auk Tlingit chief Kowee brings in gold ore, prospectors stake the Silver Bow Basin townsite that becomes Juneau."
+   },
+   {
+    "date": "1896-08",
+    "event": "Skookum Jim and his family find gold in the Klondike region of Canada's Yukon; stampeders pour through Skagway and Dyea in 1897–98."
+   },
+   {
+    "date": "1906",
+    "event": "The seat of government moves from Sitka to Juneau."
+   },
+   {
+    "date": "1912",
+    "event": "Congress makes Alaska a territory."
+   },
+   {
+    "date": "1942",
+    "event": "Japan occupies Attu and Kiska; U.S. authorities evacuate 881 Unangax̂ from nine villages to camps in Southeast Alaska."
+   },
+   {
+    "date": "1945-02-16",
+    "event": "The territorial legislature approves the Anti-Discrimination Act after testimony by Elizabeth Peratrovich."
+   },
+   {
+    "date": "1956-04-24",
+    "event": "Alaska voters adopt a state constitution."
+   },
+   {
+    "date": "1958-07-07",
+    "event": "President Eisenhower signs the Alaska Statehood Act after House passage on May 28 and Senate passage on June 30."
+   },
+   {
+    "date": "1959-01-03",
+    "event": "Eisenhower proclaims Alaska's admission as the forty-ninth state."
+   },
+   {
+    "date": "1964-03-27",
+    "event": "A magnitude 9.2 earthquake, the largest recorded in U.S. history, and its tsunamis kill 129 people."
+   },
+   {
+    "date": "1968-03",
+    "event": "Oil companies announce the Prudhoe Bay discovery on the North Slope."
+   },
+   {
+    "date": "1971-12-18",
+    "event": "President Nixon signs the Alaska Native Claims Settlement Act."
+   },
+   {
+    "date": "1977-06-20",
+    "event": "Oil enters the 800-mile trans-Alaska pipeline at Prudhoe Bay."
+   },
+   {
+    "date": "2020-04-01",
+    "event": "The census counts 733,391 residents."
+   }
+  ],
+  "misconception": {
+   "myth": "Americans in 1867 overwhelmingly ridiculed the Alaska purchase as \"Seward's Folly.\"",
+   "fact": "Critics did use nicknames such as \"Seward's Folly\" and \"Seward's Icebox,\" but the Senate approved the treaty 37–2, the House later funded it 113–43, and much of the press and correspondence Seward received favored the acquisition.",
+   "why": "Retelling the purchase as one far-sighted man against a mocking public makes a tidier story, and later gold and oil strikes made the jokes seem prophetic, so the nicknames outlived the more mixed and largely favorable record."
+  },
+  "source_urls": [
+   "https://archives.gov/milestone-documents/check-for-the-purchase-of-alaska",
+   "https://www.loc.gov/item/today-in-history/march-30/",
+   "https://www.rochester.edu/newscenter/sewards-folly-308482/",
+   "https://cambridge.org/core/journals/american-slavic-and-east-european-review/article/american-public-opinion-and-the-purchase-of-russian-america/97D5334491B23ACC840DA1A846405311",
+   "https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood",
+   "https://www.archives.gov/federal-register/codification/proclamations/03269.html",
+   "https://www.census.gov/quickfacts/ak",
+   "https://home.nps.gov/sitk/learn/historyculture/the-russians.htm",
+   "https://www.nps.gov/subjects/beringia/history.htm",
+   "https://akhistory.lpsd.com/articles/article.php?artID=195",
+   "https://www.nps.gov/aleu/learn/historyculture/unangax-internment.htm",
+   "https://pubs.usgs.gov/publication/fs20143018",
+   "https://www.nps.gov/articles/denali-crp-summit-survey.htm",
+   "https://www.everycrsreport.com/reports/IF12881.html",
+   "https://www.everycrsreport.com/reports/R46997.html",
+   "https://www.gi.alaska.edu/alaska-science-forum/twenty-years-pipe-changed-alaska",
+   "https://archives.alaska.gov/education/peratrovich.html",
+   "https://juneau.org/community-development/history-of-juneau",
+   "https://www.nps.gov/klgo/learn/goldrush.htm",
+   "https://commerce.alaska.gov/web/dcra/AKNativeLanguagePreservationAdvisoryCouncil/Languages"
+  ]
+ },
+ {
   "id": "us:american-civil-war",
   "title": "American Civil War",
   "aliases": [

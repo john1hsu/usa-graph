@@ -609,6 +609,247 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Critics did use nicknames such as \"Seward's Folly\" and \"Seward's Icebox,\" but the Senate approved the treaty 37–2, the House later funded it 113–43, and much of the press and correspondence Seward received favored the acquisition.",
+   "uso:myth": "Americans in 1867 overwhelmingly ridiculed the Alaska purchase as \"Seward's Folly.\"",
+   "uso:why": "Retelling the purchase as one far-sighted man against a mocking public makes a tidier story, and later gold and oil strikes made the jokes seem prophetic, so the nicknames outlived the more mixed and largely favorable record."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Russia sell Alaska, and why is the story of universal American ridicule misleading?",
+   "uso:answer": "The Crimean War had shown how vulnerable Russian America was, and the tsar sold it rather than risk losing it in another war. In the United States some critics mocked the deal, but the Senate approved the treaty 37–2, the House funded it 113–43, and much of the press favored it.",
+   "uso:questionFor": {
+    "@id": "us:alaska"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did statehood lead to the Alaska Native Claims Settlement Act?",
+   "uso:answer": "The 1958 Statehood Act let the new state select about 105 million acres of federal land, but Alaska Native claims had never been settled. Native protests led the Interior Department to freeze selections in 1969, and the state and oil companies then pressed Congress, which in 1971 extinguished claims to more than 360 million acres in exchange for about 45 million acres and about $962.5 million, managed largely through Native corporations.",
+   "uso:questionFor": {
+    "@id": "us:alaska"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did World War II affect the Unangax̂ (Aleut) people?",
+   "uso:answer": "After Japan attacked the Aleutians in 1942, U.S. authorities evacuated 881 Unangax̂ to abandoned canneries and camps in Southeast Alaska without plumbing or electricity and often without medical care; at least 74 died in four camps, while some Unangax̂ men served in the armed forces.",
+   "uso:questionFor": {
+    "@id": "us:alaska"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why was Alaska's statehood delayed, and how did Cold War concerns shape it?",
+   "uso:answer": "Statehood bills were introduced year after year; Eisenhower supported statehood but wanted concerns settled first, including national security on the border with the Soviet Union and the fact that about 99 percent of the land was federally owned. A compromise on land transfers allowed the 1958 act to pass.",
+   "uso:questionFor": {
+    "@id": "us:alaska"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A Russian naval expedition under Vitus Bering and Aleksei Chirikov reaches Alaska, opening the way for Siberian fur traders.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1741"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Skookum Jim and his family find gold in the Klondike region of Canada's Yukon; stampeders pour through Skagway and Dyea in 1897–98.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1896-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The seat of government moves from Sitka to Juneau.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1906"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress makes Alaska a territory.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1912"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Japan occupies Attu and Kiska; U.S. authorities evacuate 881 Unangax̂ from nine villages to camps in Southeast Alaska.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1942"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The territorial legislature approves the Anti-Discrimination Act after testimony by Elizabeth Peratrovich.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1945-02-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alaska voters adopt a state constitution.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1956-04-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Eisenhower signs the Alaska Statehood Act after House passage on May 28 and Senate passage on June 30.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1958-07-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Eisenhower proclaims Alaska's admission as the forty-ninth state.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1959-01-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A magnitude 9.2 earthquake, the largest recorded in U.S. history, and its tsunamis kill 129 people.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1964-03-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/19",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oil companies announce the Prudhoe Bay discovery on the North Slope.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1968-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Tsar Paul I charters the Russian-American Company with a monopoly on trade and government in Russian America.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1799"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/20",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "President Nixon signs the Alaska Native Claims Settlement Act.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1971-12-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/21",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Oil enters the 800-mile trans-Alaska pipeline at Prudhoe Bay.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1977-06-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/22",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The census counts 733,391 residents.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2020-04-01"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Sitka Tlingit destroy the Russian post of Fort Saint Michael.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1802"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Alexander Baranov returns to Sitka Sound; the Tlingit withdraw after losing their gunpowder, and the Russians found New Archangel.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1804"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Secretary of State William H. Seward and Russian minister Edouard de Stoeckl sign the treaty of cession.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-03-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Senate approves the treaty 37–2.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-04-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Russia formally transfers the territory to the United States.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1867-10-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After more than a year's delay, the House votes 113–43 to fund the $7.2 million purchase.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1868-07-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "After Auk Tlingit chief Kowee brings in gold ore, prospectors stake the Silver Bow Basin townsite that becomes Juneau.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1880-10-18"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The seceding states said otherwise at the time. Mississippi declared its position \"thoroughly identified with the institution of slavery,\" South Carolina complained that Northern states would not enforce the Fugitive Slave Act, and Confederate Vice President Alexander Stephens rested the new government on Black inequality. The only state right at stake was the right to protect slavery.",
@@ -18317,6 +18558,286 @@
    "dcterms:title": "Black Soldiers in the U.S. Military During the Civil War",
    "schema:url": {
     "@id": "https://www.archives.gov/education/lessons/blacks-civil-war"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives (Milestone Documents)",
+   "dcterms:title": "Check for the Purchase of Alaska (1868)",
+   "schema:url": {
+    "@id": "https://archives.gov/milestone-documents/check-for-the-purchase-of-alaska"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Alaska Humanities Forum, Alaska History & Cultural Studies",
+   "dcterms:title": "Alaska Native Heritage Center",
+   "schema:url": {
+    "@id": "https://akhistory.lpsd.com/articles/article.php?artID=195"
+   },
+   "uso:sourceType": "institutional"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Aleutian World War II National Historic Area",
+   "dcterms:title": "Evacuation and Internment",
+   "schema:url": {
+    "@id": "https://www.nps.gov/aleu/learn/historyculture/unangax-internment.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Geological Survey",
+   "dcterms:title": "The 1964 Great Alaska Earthquake and tsunamis: a modern perspective and enduring legacies (Fact Sheet 2014-3018)",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/publication/fs20143018"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Denali Summit Survey",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/denali-crp-summit-survey.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "Trump Administration Actions: Geographic Naming (IF12881)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/IF12881.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+   "dcterms:title": "Alaska Native Lands and the Alaska Native Claims Settlement Act (ANCSA): Overview and Selected Issues for Congress (R46997)",
+   "schema:url": {
+    "@id": "https://www.everycrsreport.com/reports/R46997.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Alaska Fairbanks, Geophysical Institute (Alaska Science Forum)",
+   "dcterms:title": "Twenty years ago, a pipe changed Alaska",
+   "schema:url": {
+    "@id": "https://www.gi.alaska.edu/alaska-science-forum/twenty-years-pipe-changed-alaska"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s17",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Alaska State Archives",
+   "dcterms:title": "Anti-Discrimination Act of 1945 and Elizabeth Peratrovich",
+   "schema:url": {
+    "@id": "https://archives.alaska.gov/education/peratrovich.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s18",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "City and Borough of Juneau",
+   "dcterms:title": "History of Juneau",
+   "schema:url": {
+    "@id": "https://juneau.org/community-development/history-of-juneau"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s19",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Klondike Gold Rush National Historical Park",
+   "dcterms:title": "What Was the Klondike Gold Rush?",
+   "schema:url": {
+    "@id": "https://www.nps.gov/klgo/learn/goldrush.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Today in History – March 30: Seward's Folly",
+   "schema:url": {
+    "@id": "https://www.loc.gov/item/today-in-history/march-30/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s20",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "State of Alaska, Alaska Native Language Preservation and Advisory Council",
+   "dcterms:title": "Alaska Native Languages",
+   "schema:url": {
+    "@id": "https://commerce.alaska.gov/web/dcra/AKNativeLanguagePreservationAdvisoryCouncil/Languages"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "University of Rochester, News Center (William Henry Seward Papers)",
+   "dcterms:title": "The myth—and memorabilia—of Seward's Folly",
+   "schema:url": {
+    "@id": "https://www.rochester.edu/newscenter/sewards-folly-308482/"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Richard E. Welch Jr., American Slavic and East European Review 17, no. 4 (1958), 481–494 (Cambridge University Press), doi:10.2307/3001132",
+   "dcterms:title": "American Public Opinion and the Purchase of Russian America",
+   "schema:url": {
+    "@id": "https://cambridge.org/core/journals/american-slavic-and-east-european-review/article/american-public-opinion-and-the-purchase-of-russian-america/97D5334491B23ACC840DA1A846405311"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Dwight D. Eisenhower Presidential Library",
+   "dcterms:title": "Alaska Statehood",
+   "schema:url": {
+    "@id": "https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives, Office of the Federal Register",
+   "dcterms:title": "Proclamation 3269: Admission of the State of Alaska into the Union",
+   "schema:url": {
+    "@id": "https://www.archives.gov/federal-register/codification/proclamations/03269.html"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Census Bureau",
+   "dcterms:title": "QuickFacts: Alaska",
+   "schema:url": {
+    "@id": "https://www.census.gov/quickfacts/ak"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service, Sitka National Historical Park",
+   "dcterms:title": "The Russians",
+   "schema:url": {
+    "@id": "https://home.nps.gov/sitk/learn/historyculture/the-russians.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Beringia: History",
+   "schema:url": {
+    "@id": "https://www.nps.gov/subjects/beringia/history.htm"
    },
    "uso:sourceType": "government"
   },
@@ -41612,6 +42133,250 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/african-americans/timeline/8"
+    }
+   ]
+  },
+  {
+   "@id": "us:alaska",
+   "@type": "uso:State",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/alaska/s9"
+    }
+   ],
+   "rdfs:label": "Alaska",
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1959-01-03"
+   },
+   "skos:altLabel": [
+    "District of Alaska",
+    "Russian America",
+    "State of Alaska",
+    "Territory of Alaska"
+   ],
+   "skos:broader": {
+    "@id": "us:united-states"
+   },
+   "skos:definition": "The forty-ninth U.S. state (admitted January 3, 1959) and the largest by area, a subarctic and Arctic land in northwestern North America that has been home to Alaska Native peoples for thousands of years; colonized by Russia for its fur trade, it was bought by the United States in 1867 and was governed as a district and territory until statehood.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/states-and-territories"
+   },
+   "skos:prefLabel": "Alaska",
+   "skos:related": [
+    {
+     "@id": "us:1964-alaska-earthquake"
+    },
+    {
+     "@id": "us:alaska-anti-discrimination-act-of-1945"
+    },
+    {
+     "@id": "us:alaska-native-claims-settlement-act"
+    },
+    {
+     "@id": "us:alaska-purchase"
+    },
+    {
+     "@id": "us:alaska-statehood-act"
+    },
+    {
+     "@id": "us:aleutian-islands-campaign"
+    },
+    {
+     "@id": "us:beringia"
+    },
+    {
+     "@id": "us:canada"
+    },
+    {
+     "@id": "us:cold-war"
+    },
+    {
+     "@id": "us:denali"
+    },
+    {
+     "@id": "us:dwight-d-eisenhower"
+    },
+    {
+     "@id": "us:elizabeth-peratrovich"
+    },
+    {
+     "@id": "us:hawaii"
+    },
+    {
+     "@id": "us:juneau"
+    },
+    {
+     "@id": "us:klondike-gold-rush"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:russian-america"
+    },
+    {
+     "@id": "us:tlingit"
+    },
+    {
+     "@id": "us:trans-alaska-pipeline"
+    },
+    {
+     "@id": "us:tribal-sovereignty"
+    },
+    {
+     "@id": "us:unangax"
+    },
+    {
+     "@id": "us:unangax-evacuation-and-internment"
+    },
+    {
+     "@id": "us:william-h-seward"
+    },
+    {
+     "@id": "us:world-war-ii-and-the-united-states"
+    }
+   ],
+   "uso:domain": "states-and-territories",
+   "uso:establishedBy": {
+    "@id": "us:alaska-statehood-act"
+   },
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/states-and-territories/alaska.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/alaska/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/22"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/alaska/timeline/9"
     }
    ]
   },
