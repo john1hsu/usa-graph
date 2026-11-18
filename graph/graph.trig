@@ -1227,6 +1227,23 @@
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/george-washington/s9> .
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/george-washington/s10> .
 <https://github.com/john1hsu/usa-graph/id/george-washington#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/george-washington/s11> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/james-madison.md" .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> .
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> .
 <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
 <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/usa-graph/blob/main/articles/presidents-and-founders/theodore-roosevelt.md" .
@@ -18882,6 +18899,245 @@
   <https://github.com/john1hsu/usa-graph/id/source/george-washington/s9> <https://schema.org/url> <https://mountvernon.org/george-washington/facts/a-history-of-washingtons-dental-troubles> .
 }
 
+<https://github.com/john1hsu/usa-graph/id/james-madison#graph> {
+  <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Misconception> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#fact> "Madison's Virginia Plan framed the convention's debates, but delegates rejected key parts of it, such as a congressional veto over state laws, and in 1834 Madison himself rejected the title of writer of the Constitution, calling it the work of many heads and many hands." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#myth> "James Madison single-handedly wrote the U.S. Constitution." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> <https://github.com/john1hsu/usa-graph/ontology#why> "The nickname \"Father of the Constitution,\" his detailed notes of the convention and his long life as its last surviving framer made one man stand in for a collective, negotiated document." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Madison, who had argued a bill of rights was unnecessary, introduce amendments in 1789?" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/1> <https://github.com/john1hsu/usa-graph/ontology#answer> "He had argued that the federal government could exercise only the powers the Constitution listed, but he came to see that voters valued written protections and that adopting them could head off opponents seeking larger changes, so he introduced amendments on June 8, 1789, and pressed Congress to pass them." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/1> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/2> <http://www.w3.org/2000/01/rdf-schema#label> "How did the Virginia Resolutions of 1798 later come back to trouble Madison?" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/2> <https://github.com/john1hsu/usa-graph/ontology#answer> "The resolutions said states could interpose against unconstitutional federal acts such as the Alien and Sedition Acts; in the late 1820s and 1830s nullifiers in South Carolina and elsewhere cited them, and Madison objected that his arguments about interposition were being used to justify nullification." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/2> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why did Madison sign a national bank charter in 1816 after opposing Hamilton's bank in the 1790s?" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/3> <https://github.com/john1hsu/usa-graph/ontology#answer> "After the first national bank's charter lapsed, financing the War of 1812 without its loans and credit proved hard, and Madison concluded that long acceptance by Congress and the public had settled the bank's constitutionality by precedent." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/3> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#ReviewQuestion> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/4> <http://www.w3.org/2000/01/rdf-schema#label> "How did slavery shape Madison's life despite his statements against it?" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/4> <https://github.com/john1hsu/usa-graph/ontology#answer> "Born into the largest slaveholding family in Orange County, he called slavery a violation of republican principles but offered no realistic plan to end it beyond colonization, defended the three-fifths formula, sold sixteen people in 1819, and freed no one in his will." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/4> <https://github.com/john1hsu/usa-graph/ontology#questionFor> <https://github.com/john1hsu/usa-graph/id/james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10> <http://www.w3.org/2000/01/rdf-schema#label> "Marries Dolley Payne Todd." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10> <https://github.com/john1hsu/usa-graph/ontology#date> "1794-09-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia adopts his resolutions against the Alien and Sedition Acts." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11> <https://github.com/john1hsu/usa-graph/ontology#date> "1798-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12> <http://www.w3.org/2000/01/rdf-schema#label> "Takes office as Thomas Jefferson's secretary of state, serving until March 3, 1809." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12> <https://github.com/john1hsu/usa-graph/ontology#date> "1801-05-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13> <http://www.w3.org/2000/01/rdf-schema#label> "Becomes the fourth president of the United States." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13> <https://github.com/john1hsu/usa-graph/ontology#date> "1809"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the declaration of war against Britain the day after the Senate votes for it." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14> <https://github.com/john1hsu/usa-graph/ontology#date> "1812-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15> <http://www.w3.org/2000/01/rdf-schema#label> "The Treaty of Ghent ends the War of 1812 on the basis of prewar boundaries." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15> <https://github.com/john1hsu/usa-graph/ontology#date> "1814-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16> <http://www.w3.org/2000/01/rdf-schema#label> "Signs the charter of the Second Bank of the United States." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16> <https://github.com/john1hsu/usa-graph/ontology#date> "1816"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17> <http://www.w3.org/2000/01/rdf-schema#label> "Vetoes an internal-improvements bill and retires to Montpelier." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17> <https://github.com/john1hsu/usa-graph/ontology#date> "1817"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18> <http://www.w3.org/2000/01/rdf-schema#label> "Dies at Montpelier, holding about 100 people in slavery and freeing none in his will." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18> <https://github.com/john1hsu/usa-graph/ontology#date> "1836-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1> <http://www.w3.org/2000/01/rdf-schema#label> "Born at Port Conway, Virginia, on the Rappahannock River." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1> <https://github.com/john1hsu/usa-graph/ontology#date> "1751-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2> <http://www.w3.org/2000/01/rdf-schema#label> "Graduates from the College of New Jersey (now Princeton)." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2> <https://github.com/john1hsu/usa-graph/ontology#date> "1771"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3> <http://www.w3.org/2000/01/rdf-schema#label> "At the Virginia Convention, wins wording that widens religious toleration into a right of conscience." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3> <https://github.com/john1hsu/usa-graph/ontology#date> "1776"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4> <http://www.w3.org/2000/01/rdf-schema#label> "Enters the Continental Congress as its youngest member, at 29." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4> <https://github.com/john1hsu/usa-graph/ontology#date> "1780"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5> <http://www.w3.org/2000/01/rdf-schema#label> "Attends the Annapolis Convention, which calls for a national convention the next May." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5> <https://github.com/john1hsu/usa-graph/ontology#date> "1786-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6> <http://www.w3.org/2000/01/rdf-schema#label> "The Constitutional Convention assembles; Madison's Virginia Plan frames its debates." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6> <https://github.com/john1hsu/usa-graph/ontology#date> "1787-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7> <http://www.w3.org/2000/01/rdf-schema#label> "Virginia's ratifying convention approves the Constitution, 89 to 79, after Madison answers Patrick Henry." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7> <https://github.com/john1hsu/usa-graph/ontology#date> "1788-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8> <http://www.w3.org/2000/01/rdf-schema#label> "Introduces proposed amendments in the House of Representatives." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8> <https://github.com/john1hsu/usa-graph/ontology#date> "1789-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#TimelineEntry> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9> <http://www.w3.org/2000/01/rdf-schema#label> "Ten of the amendments are ratified as the Bill of Rights." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9> <https://github.com/john1hsu/usa-graph/ontology#date> "1791-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2000/01/rdf-schema#label> "James Madison" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "4th President of the United States" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "Father of the Constitution" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "Madison" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#altLabel> "President Madison" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#definition> "A Virginia planter and political theorist (1751–1836) who drafted the Virginia Plan, co-wrote The Federalist, steered the Bill of Rights through the First Congress, served as secretary of state and as the fourth president of the United States (1809–1817) during the War of 1812, and held about 100 people in slavery at his death." .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#prefLabel> "James Madison" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/alien-and-sedition-acts> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/bill-of-rights> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/burning-of-washington> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dolley-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/nullification-crisis> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/paul-jennings> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-and-kentucky-resolutions> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-plan> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#domain> "presidents-and-founders" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#evidenceStatus> "interpretive" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#file> "articles/presidents-and-founders/james-madison.md" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#heldOffice> <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/american-colonization-society> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#memberOf> <https://github.com/john1hsu/usa-graph/id/house-of-representatives> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#misconception> <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#participatedIn> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#timelineEntry> <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://schema.org/birthDate> "1751-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://schema.org/deathDate> "1836-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://schema.org/endDate> "1836-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://schema.org/startDate> "1751-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <http://purl.org/dc/terms/title> "The War of 1812, 1812–1815" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s10> <https://schema.org/url> <https://history.state.gov/milestones/1801-1829/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <http://purl.org/dc/terms/publisher> "National Park Service" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <http://purl.org/dc/terms/title> "Paul Jennings" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s11> <https://schema.org/url> <https://www.nps.gov/people/paul-jennings.htm> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <http://purl.org/dc/terms/publisher> "U.S. Department of State, Office of the Historian" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <http://purl.org/dc/terms/title> "Biographies of the Secretaries of State: James Madison (1751–1836)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s12> <https://schema.org/url> <https://history.state.gov/departmenthistory/people/madison-james> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <http://purl.org/dc/terms/publisher> "J. C. A. Stagg, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <http://purl.org/dc/terms/title> "Madison, James (1751–1836)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s13> <https://schema.org/url> <https://encyclopediavirginia.org/entries/madison-james-1751-1836/> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <http://purl.org/dc/terms/publisher> "William J. Antholis, Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <http://purl.org/dc/terms/title> "Lessons for a new president: James Madison's five first years" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s14> <https://schema.org/url> <https://millercenter.org/node/41086> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <http://purl.org/dc/terms/title> "James Madison: Life in Brief" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s1> <https://schema.org/url> <https://millercenter.org/president/madison/life-in-brief> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <http://purl.org/dc/terms/title> "James Madison: Life Before the Presidency" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s2> <https://schema.org/url> <https://millercenter.org/node/78> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <http://purl.org/dc/terms/title> "James Madison: Foreign Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s3> <https://schema.org/url> <https://millercenter.org/node/81> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <http://purl.org/dc/terms/publisher> "Miller Center of Public Affairs, University of Virginia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <http://purl.org/dc/terms/title> "James Madison: Domestic Affairs" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s4> <https://schema.org/url> <https://millercenter.org/node/80> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <http://purl.org/dc/terms/publisher> "James Madison's Montpelier (Montpelier Foundation)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <http://purl.org/dc/terms/title> "The Life of James Madison" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s5> <https://schema.org/url> <https://www.montpelier.org/learn/the-life-of-james-madison> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <http://purl.org/dc/terms/publisher> "Jeff Broadwater, Encyclopedia Virginia (Virginia Humanities)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <http://purl.org/dc/terms/title> "Madison, James and Slavery" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "scholarly-encyclopedia" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s6> <https://schema.org/url> <https://encyclopediavirginia.org/entries/madison-james-and-slavery/> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <http://purl.org/dc/terms/publisher> "Founders Online, National Archives" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <http://purl.org/dc/terms/title> "James Madison to William Cogswell, 10 March 1834" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s7> <https://schema.org/url> <https://founders.archives.gov/documents/Madison/99-02-02-2952> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <http://purl.org/dc/terms/publisher> "National Archives, America's Founding Documents" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <http://purl.org/dc/terms/title> "The Bill of Rights: How Did it Happen?" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s8> <https://schema.org/url> <https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <http://purl.org/dc/terms/publisher> "The Avalon Project, Yale Law School" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <http://purl.org/dc/terms/title> "Virginia Resolution - Alien and Sedition Acts (December 24, 1798)" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Source> .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <https://github.com/john1hsu/usa-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/usa-graph/id/source/james-madison/s9> <https://schema.org/url> <https://avalon.law.yale.edu/18th_century/virres.asp> .
+}
+
 <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt#graph> {
   <https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s10> <http://purl.org/dc/terms/date> "2026-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/usa-graph/id/source/theodore-roosevelt/s10> <http://purl.org/dc/terms/publisher> "National Park Service, Grand Canyon National Park" .
@@ -25199,6 +25455,7 @@
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/alexander-hamilton> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
@@ -25207,6 +25464,7 @@
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/alice-paul> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/womens-suffrage-movement> .
+  <https://github.com/john1hsu/usa-graph/id/alien-and-sedition-acts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/american-anti-slavery-society> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
   <https://github.com/john1hsu/usa-graph/id/american-bison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/national-symbols-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -25269,6 +25527,7 @@
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/thirteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-civil-war> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/voting-rights-act-of-1965> .
   <https://github.com/john1hsu/usa-graph/id/american-colonization-society> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/abolitionism> .
+  <https://github.com/john1hsu/usa-graph/id/american-colonization-society> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/american-colonization-society> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/fifteenth-amendment> .
   <https://github.com/john1hsu/usa-graph/id/american-equal-rights-association> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/frederick-douglass> .
@@ -25459,6 +25718,7 @@
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalism> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -25647,6 +25907,7 @@
   <https://github.com/john1hsu/usa-graph/id/betsy-ross> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/betsy-ross-flag-myth> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/due-process> .
+  <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#hasPart> <https://github.com/john1hsu/usa-graph/id/due-process> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/bill-of-rights> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -25758,6 +26019,7 @@
   <https://github.com/john1hsu/usa-graph/id/burke-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/dawes-act> .
   <https://github.com/john1hsu/usa-graph/id/burlingame-treaty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/burning-of-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chesapeake-bay> .
+  <https://github.com/john1hsu/usa-graph/id/burning-of-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/burning-of-washington> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/burwell-v-hobby-lobby> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/cahokia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mississippi-river> .
@@ -26244,6 +26506,7 @@
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/benjamin-franklin> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/affordable-care-act> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/constitutional-convention> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
@@ -26383,6 +26646,7 @@
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -26515,6 +26779,7 @@
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/detroit> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/the-midwest> .
+  <https://github.com/john1hsu/usa-graph/id/dolley-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/dolores-huerta> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/new-orleans> .
   <https://github.com/john1hsu/usa-graph/id/domestic-slave-trade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
@@ -26845,6 +27110,7 @@
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/founding-documents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
+  <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#influenced> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/federalist-papers> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -27608,6 +27874,7 @@
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
+  <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/house-of-representatives> <https://github.com/john1hsu/usa-graph/ontology#hasMember> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/house-un-american-activities-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mccarthyism> .
   <https://github.com/john1hsu/usa-graph/id/huffman-prairie/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -27737,17 +28004,38 @@
   <https://github.com/john1hsu/usa-graph/id/james-buchanan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/james-k-polk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/california-gold-rush> .
   <https://github.com/john1hsu/usa-graph/id/james-k-polk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mexican-american-war> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/review/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
-  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
-  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
-  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
-  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
-  <https://github.com/john1hsu/usa-graph/id/james-madison> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#authored> <https://github.com/john1hsu/usa-graph/id/federalist-papers> .
   <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#led> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/declaration-of-independence> .
+  <https://github.com/john1hsu/usa-graph/id/james-madison> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Person> .
   <https://github.com/john1hsu/usa-graph/id/james-monroe> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> .
@@ -28190,6 +28478,7 @@
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/the-west> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/war-of-1812> .
+  <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/cherokee-nation-v-georgia> .
   <https://github.com/john1hsu/usa-graph/id/louisiana-purchase> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/dred-scott-v-sandford> .
@@ -28907,6 +29196,7 @@
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/detroit> .
   <https://github.com/john1hsu/usa-graph/id/northwest-ordinance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/morrill-land-grant-college-act> .
   <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/federalism> .
+  <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/nullification-crisis> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/nullification-proclamation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/obergefell-v-hodges/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29082,6 +29372,7 @@
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-detention-barracks-poetry> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
   <https://github.com/john1hsu/usa-graph/id/paper-sons> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/chinese-exclusion-act> .
+  <https://github.com/john1hsu/usa-graph/id/paul-jennings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-advance-knowledge-myth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-investigations> <https://github.com/john1hsu/usa-graph/ontology#resultedFrom> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
   <https://github.com/john1hsu/usa-graph/id/pearl-harbor-national-memorial> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/attack-on-pearl-harbor> .
@@ -29218,6 +29509,7 @@
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#requires> <https://github.com/john1hsu/usa-graph/id/articles-of-confederation> .
@@ -29229,12 +29521,14 @@
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/abraham-lincoln> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/franklin-d-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/george-washington> .
+  <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/theodore-roosevelt> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/presidents-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/presidency-of-the-united-states> .
@@ -29453,6 +29747,7 @@
   <https://github.com/john1hsu/usa-graph/id/sea-venture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/secession-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/american-civil-war> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/andrew-jackson> .
+  <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/second-bank-of-the-united-states> <https://github.com/john1hsu/usa-graph/ontology#affectedBy> <https://github.com/john1hsu/usa-graph/id/mcculloch-v-maryland> .
   <https://github.com/john1hsu/usa-graph/id/second-continental-congress/misconception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
@@ -29668,6 +29963,7 @@
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/harriet-tubman> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jazz> .
   <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
@@ -30126,6 +30422,7 @@
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/indian-removal-act> .
+  <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/thirteen-colonies> <https://github.com/john1hsu/usa-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/usa-graph/id/liberty-bell> .
@@ -30222,6 +30519,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/george-washington> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/judicial-review> .
   <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/marbury-v-madison> .
@@ -30235,6 +30533,7 @@
   <https://github.com/john1hsu/usa-graph/id/thomas-moran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/hayden-geological-survey-of-1871> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/census-and-apportionment> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/slavery-in-the-united-states> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-congress> .
   <https://github.com/john1hsu/usa-graph/id/three-fifths-clause> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/united-states-constitution> .
@@ -30547,6 +30846,7 @@
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Office> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/great-seal-of-the-united-states> .
+  <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
   <https://github.com/john1hsu/usa-graph/id/united-states-secretary-of-state> <https://github.com/john1hsu/usa-graph/ontology#officeHolder> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/united-states-senate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/electoral-college> .
@@ -30653,13 +30953,16 @@
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .
   <https://github.com/john1hsu/usa-graph/id/vicksburg-mississippi> <https://github.com/john1hsu/usa-graph/ontology#siteOf> <https://github.com/john1hsu/usa-graph/id/siege-of-vicksburg> .
+  <https://github.com/john1hsu/usa-graph/id/virginia-and-kentucky-resolutions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
   <https://github.com/john1hsu/usa-graph/id/virginia-company-of-london> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/starving-time> .
   <https://github.com/john1hsu/usa-graph/id/virginia-general-assembly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/jamestown> .
   <https://github.com/john1hsu/usa-graph/id/virginia-general-assembly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/lawes-divine-morall-and-martiall> .
   <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/constitutional-convention> .
+  <https://github.com/john1hsu/usa-graph/id/virginia-plan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/virginia-ratifying-convention> <https://github.com/john1hsu/usa-graph/ontology#participant> <https://github.com/john1hsu/usa-graph/id/john-marshall> .
+  <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/james-madison> .
   <https://github.com/john1hsu/usa-graph/id/virginia-statute-for-religious-freedom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/usa-graph/id/thomas-jefferson> .
   <https://github.com/john1hsu/usa-graph/id/virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Entity> .
   <https://github.com/john1hsu/usa-graph/id/virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/usa-graph/ontology#Place> .

@@ -118,7 +118,7 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 | `us:hayden-geological-survey-of-1871` | interpretive |  |
 | `us:indian-removal-act` | interpretive |  |
 
-…and 35 more.
+…and 36 more.
 
 ## Places with nothing tied to them (gap)
 
@@ -151,6 +151,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 | `us:governor-of-new-york` | `us:franklin-d-roosevelt` | 1882-01-30 |
 | `us:presidency-of-the-united-states` | `us:george-washington` | 1732-02-22 |
 | `us:presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
+| `us:presidency-of-the-united-states` | `us:james-madison` | 1751-03-16 |
 | `us:presidency-of-the-united-states` | `us:andrew-jackson` | 1767-03-15 |
 | `us:presidency-of-the-united-states` | `us:abraham-lincoln` | 1809-02-12 |
 | `us:presidency-of-the-united-states` | `us:theodore-roosevelt` | 1858-10-27 |
@@ -158,6 +159,7 @@ _Which people in the graph held each public office?_ — `queries/10-offices-and
 | `us:united-states-minister-to-france` | `us:benjamin-franklin` | 1706-01-17 |
 | `us:united-states-minister-to-haiti` | `us:frederick-douglass` | 1818-02 |
 | `us:united-states-secretary-of-state` | `us:thomas-jefferson` | 1743-04-13 |
+| `us:united-states-secretary-of-state` | `us:james-madison` | 1751-03-16 |
 | `us:united-states-secretary-of-state` | `us:john-marshall` | 1755-09-24 |
 | `us:vice-presidency-of-the-united-states` | `us:thomas-jefferson` | 1743-04-13 |
 

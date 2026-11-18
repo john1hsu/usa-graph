@@ -12033,6 +12033,260 @@
   ]
  },
  {
+  "id": "us:james-madison",
+  "title": "James Madison",
+  "aliases": [
+   "Madison",
+   "President Madison",
+   "4th President of the United States",
+   "Father of the Constitution"
+  ],
+  "type": "Person",
+  "domain": "presidents-and-founders",
+  "level": "introductory",
+  "evidenceStatus": "interpretive",
+  "file": "articles/presidents-and-founders/james-madison.md",
+  "created": "2026-11-18",
+  "summary": "A Virginia planter and political theorist (1751–1836) who drafted the Virginia Plan, co-wrote The Federalist, steered the Bill of Rights through the First Congress, served as secretary of state and as the fourth president of the United States (1809–1817) during the War of 1812, and held about 100 people in slavery at his death.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:presidents-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalist-papers"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:bill-of-rights"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-plan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:constitutional-convention"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:thomas-jefferson"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alexander-hamilton"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:dolley-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:paul-jennings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-and-kentucky-resolutions"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:alien-and-sedition-acts"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:nullification-crisis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:second-bank-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia-statute-for-religious-freedom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:three-fifths-clause"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:burning-of-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:marbury-v-madison"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:federalism"
+   },
+   {
+    "predicate": "uso:requires",
+    "object": "us:articles-of-confederation"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:presidency-of-the-united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:heldOffice",
+    "object": "us:united-states-secretary-of-state",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:constitutional-convention",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:house-of-representatives",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:participatedIn",
+    "object": "us:louisiana-purchase",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:memberOf",
+    "object": "us:american-colonization-society",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "start": "1751-03-16",
+  "end": "1836-06-28",
+  "review": [
+   {
+    "question": "Why did Madison, who had argued a bill of rights was unnecessary, introduce amendments in 1789?",
+    "answer": "He had argued that the federal government could exercise only the powers the Constitution listed, but he came to see that voters valued written protections and that adopting them could head off opponents seeking larger changes, so he introduced amendments on June 8, 1789, and pressed Congress to pass them."
+   },
+   {
+    "question": "How did the Virginia Resolutions of 1798 later come back to trouble Madison?",
+    "answer": "The resolutions said states could interpose against unconstitutional federal acts such as the Alien and Sedition Acts; in the late 1820s and 1830s nullifiers in South Carolina and elsewhere cited them, and Madison objected that his arguments about interposition were being used to justify nullification."
+   },
+   {
+    "question": "Why did Madison sign a national bank charter in 1816 after opposing Hamilton's bank in the 1790s?",
+    "answer": "After the first national bank's charter lapsed, financing the War of 1812 without its loans and credit proved hard, and Madison concluded that long acceptance by Congress and the public had settled the bank's constitutionality by precedent."
+   },
+   {
+    "question": "How did slavery shape Madison's life despite his statements against it?",
+    "answer": "Born into the largest slaveholding family in Orange County, he called slavery a violation of republican principles but offered no realistic plan to end it beyond colonization, defended the three-fifths formula, sold sixteen people in 1819, and freed no one in his will."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1751-03-16",
+    "event": "Born at Port Conway, Virginia, on the Rappahannock River."
+   },
+   {
+    "date": "1771",
+    "event": "Graduates from the College of New Jersey (now Princeton)."
+   },
+   {
+    "date": "1776",
+    "event": "At the Virginia Convention, wins wording that widens religious toleration into a right of conscience."
+   },
+   {
+    "date": "1780",
+    "event": "Enters the Continental Congress as its youngest member, at 29."
+   },
+   {
+    "date": "1786-09",
+    "event": "Attends the Annapolis Convention, which calls for a national convention the next May."
+   },
+   {
+    "date": "1787-05-25",
+    "event": "The Constitutional Convention assembles; Madison's Virginia Plan frames its debates."
+   },
+   {
+    "date": "1788-06-25",
+    "event": "Virginia's ratifying convention approves the Constitution, 89 to 79, after Madison answers Patrick Henry."
+   },
+   {
+    "date": "1789-06-08",
+    "event": "Introduces proposed amendments in the House of Representatives."
+   },
+   {
+    "date": "1791-12-15",
+    "event": "Ten of the amendments are ratified as the Bill of Rights."
+   },
+   {
+    "date": "1794-09-15",
+    "event": "Marries Dolley Payne Todd."
+   },
+   {
+    "date": "1798-12-24",
+    "event": "Virginia adopts his resolutions against the Alien and Sedition Acts."
+   },
+   {
+    "date": "1801-05-02",
+    "event": "Takes office as Thomas Jefferson's secretary of state, serving until March 3, 1809."
+   },
+   {
+    "date": "1809",
+    "event": "Becomes the fourth president of the United States."
+   },
+   {
+    "date": "1812-06-18",
+    "event": "Signs the declaration of war against Britain the day after the Senate votes for it."
+   },
+   {
+    "date": "1814-12-24",
+    "event": "The Treaty of Ghent ends the War of 1812 on the basis of prewar boundaries."
+   },
+   {
+    "date": "1816",
+    "event": "Signs the charter of the Second Bank of the United States."
+   },
+   {
+    "date": "1817",
+    "event": "Vetoes an internal-improvements bill and retires to Montpelier."
+   },
+   {
+    "date": "1836-06-28",
+    "event": "Dies at Montpelier, holding about 100 people in slavery and freeing none in his will."
+   }
+  ],
+  "misconception": {
+   "myth": "James Madison single-handedly wrote the U.S. Constitution.",
+   "fact": "Madison's Virginia Plan framed the convention's debates, but delegates rejected key parts of it, such as a congressional veto over state laws, and in 1834 Madison himself rejected the title of writer of the Constitution, calling it the work of many heads and many hands.",
+   "why": "The nickname \"Father of the Constitution,\" his detailed notes of the convention and his long life as its last surviving framer made one man stand in for a collective, negotiated document."
+  },
+  "source_urls": [
+   "https://millercenter.org/president/madison/life-in-brief",
+   "https://millercenter.org/node/78",
+   "https://millercenter.org/node/81",
+   "https://millercenter.org/node/80",
+   "https://www.montpelier.org/learn/the-life-of-james-madison",
+   "https://encyclopediavirginia.org/entries/madison-james-and-slavery/",
+   "https://founders.archives.gov/documents/Madison/99-02-02-2952",
+   "https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen",
+   "https://avalon.law.yale.edu/18th_century/virres.asp",
+   "https://history.state.gov/milestones/1801-1829/war-of-1812",
+   "https://www.nps.gov/people/paul-jennings.htm",
+   "https://history.state.gov/departmenthistory/people/madison-james",
+   "https://encyclopediavirginia.org/entries/madison-james-1751-1836/",
+   "https://millercenter.org/node/41086"
+  ]
+ },
+ {
   "id": "us:jamestown",
   "title": "Jamestown Colony",
   "aliases": [

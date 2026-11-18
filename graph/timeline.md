@@ -89,6 +89,8 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1743-04-13 – 1826-07-04 | **[Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md)** (Person) |
 | 1743-04-13 | Born at Shadwell plantation in western Virginia. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1751 | Letters describing his electrical experiments are published in London; the Academy of Philadelphia, later the University of Pennsylvania, is founded. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
+| 1751-03-16 – 1836-06-28 | **[James Madison](../articles/presidents-and-founders/james-madison.md)** (Person) |
+| 1751-03-16 | Born at Port Conway, Virginia, on the Rappahannock River. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1751-03-20 | Benjamin Franklin, urging a union of the British colonies, points to the Six Nations' union as proof that one is possible. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1751-11-01 | Superintendents of the Pennsylvania State House order a bell of about 2,000 pounds from London, with a verse from Leviticus as its inscription. — [Liberty Bell](../articles/symbols-and-national-identity/liberty-bell.md) |
 | 1752 | Elizabeth Griscom, later known as Betsy Ross, is born in Gloucester City, New Jersey, and raised a Quaker. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
@@ -114,6 +116,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1768 | The Boundary Line Treaty at Fort Stanwix pushes the colonial boundary deep into Oneida land. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1769 | Enters the Virginia House of Burgesses, where he serves until 1774. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1769-07-16 | Junípero Serra founds Mission San Diego de Alcalá, the first of 21 Franciscan missions, in Kumeyaay country. — [California](../articles/states-and-territories/california.md) |
+| 1771 | Graduates from the College of New Jersey (now Princeton). — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1773 | She elopes with upholsterer John Ross and is expelled by the Quakers for marrying outside the meeting. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1775 – 1865-12-06 | **[Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md)** (Movement) |
 | 1775 | A Native uprising burns the San Diego mission church. — [California](../articles/states-and-territories/california.md) |
@@ -133,6 +136,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1775-07-13 | Congress approves a speech asking the Six Nations to stay neutral. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1775-11-29 | Congress creates the Committee of Secret Correspondence to contact friends abroad. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1776 | As a delegate to the Second Continental Congress, drafts the Declaration of Independence. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1776 | At the Virginia Convention, wins wording that widens religious toleration into a right of conscience. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1776 | Enlists as a lieutenant; he rises to captain in the Continental Army by July 1778. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1776 | Maryland's and Virginia's new constitutions adopt Magna Carta's "law of the land" protections. — [Due process](../articles/rights-and-law/due-process.md) |
 | 1776 | Sent to France as one of the American commissioners. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
@@ -196,6 +200,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1779-02-01 | Delaware ratifies, leaving Maryland the last holdout. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1779-06-21 | Spain enters the war against Britain. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1779-08-14 | Congress sets its terms for peace; John Adams is named to negotiate the next month. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
+| 1780 | Enters the Continental Congress as its youngest member, at 29. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1780 | Francis Hopkinson asks Congress to pay him for designing the flag and other emblems; the claim is refused. — [Betsy Ross flag myth](../articles/symbols-and-national-identity/betsy-ross-flag-myth.md) |
 | 1780 | One of the principal Oneida villages is destroyed, a year after Oneida scouts guided the Clinton-Sullivan expedition against the British-allied Six Nations. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1780 | Pennsylvania passes a gradual emancipation law. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
@@ -261,6 +266,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1785 | Begins about four years as American minister to France. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1785 | Thomas Jefferson succeeds him in France; back home he is chosen president of Pennsylvania. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1786-01-16 | Virginia's General Assembly adopts his bill for religious freedom, first drafted in 1777. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
+| 1786-09 | Attends the Annapolis Convention, which calls for a national convention the next May. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1786-09-11 | Delegates from several states gather at the Annapolis Convention. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1787 | Becomes president of the Pennsylvania abolition society and sits as the oldest delegate to the Constitutional Convention. — [Benjamin Franklin](../articles/presidents-and-founders/benjamin-franklin.md) |
 | 1787 | Richard Allen and Absalom Jones found the Free African Society in Philadelphia. — [African Americans](../articles/society-and-people/african-americans.md) |
@@ -273,6 +279,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1787-05-25 | A quorum of seven states is finally present and the Federal Convention opens in the Pennsylvania State House. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1787-05-25 | Elected president of the Constitutional Convention in Philadelphia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1787-05-25 | Seven states form a quorum and the delegates unanimously elect George Washington president of the convention. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
+| 1787-05-25 | The Constitutional Convention assembles; Madison's Virginia Plan frames its debates. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1787-05-29 | Edmund Randolph presents the Virginia Plan, and the convention adopts a rule keeping its proceedings secret. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1787-06-01 | At the Constitutional Convention, James Wilson moves that the executive be a single person; the vote is postponed. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1787-06-11 | James Wilson and Charles Pinckney propose counting three-fifths of enslaved people for representation. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
@@ -305,6 +312,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1788-06-17 | New York's ratifying convention meets at Poughkeepsie with Antifederalists outnumbering Federalists by more than two to one. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [Constitutional Convention](../articles/constitution-and-government/constitutional-convention.md) |
 | 1788-06-21 | New Hampshire becomes the ninth state to ratify, enough for the Constitution to take effect. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
+| 1788-06-25 | Virginia's ratifying convention approves the Constitution, 89 to 79, after Madison answers Patrick Henry. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1788-07-26 | New York ratifies the Constitution by a vote of 30 to 27, after New Hampshire and Virginia have already ratified. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1788-08-16 | Newspaper reprinting of the essays that first appeared in the second volume ends. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
 | 1789 | The Articles cease to be in force as government under the Constitution begins. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
@@ -319,6 +327,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1789-04-30 | **[Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md)** (Office) |
 | 1789-04-30 | George Washington takes the first presidential oath at Federal Hall in New York City. — [Presidency of the United States](../articles/constitution-and-government/presidency-of-the-united-states.md) |
 | 1789-04-30 | Takes the oath as the first president at Federal Hall in New York City. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
+| 1789-06-08 | Introduces proposed amendments in the House of Representatives. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1789-06-08 | Representative James Madison proposes constitutional amendments on the House floor. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1789-09-15 | An act of Congress renames the Department of Foreign Affairs the Department of State and makes the Secretary of State keeper of the seal. — [Great Seal of the United States](../articles/symbols-and-national-identity/great-seal-of-the-united-states.md) |
 | 1789-09-24 | **[Supreme Court of the United States](../articles/constitution-and-government/supreme-court-of-the-united-states.md)** (Institution) |
@@ -340,6 +349,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1791-11-04 | Western Confederacy warriors led by Little Turtle rout Arthur St. Clair's army on the Wabash. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1791-12-15 | **[Due process](../articles/rights-and-law/due-process.md)** (Right) |
 | 1791-12-15 | Ratification of the Bill of Rights adds the Fifth Amendment's Due Process Clause to the Constitution. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1791-12-15 | Ten of the amendments are ratified as the Bill of Rights. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1791-12-15 | Ten of the twelve proposed amendments are ratified as the Bill of Rights. — [United States Constitution](../articles/constitution-and-government/united-states-constitution.md) |
 | 1792 | In Hayburn's Case, justices riding circuit refuse to administer a federal pension act they consider unconstitutional. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
 | 1792-04-05 | George Washington casts the first presidential veto, rejecting a 120-seat apportionment bill as unconstitutional. — [Census and apportionment](../articles/democracy-and-elections/census-and-apportionment.md) |
@@ -349,6 +359,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1793-04 | Issues a proclamation of neutrality in the war between France and Britain. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1794 | President Washington leads an army to suppress the Whiskey Rebellion in western Pennsylvania. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1794-01-01 | Delegates from abolition societies in six states meet in Philadelphia and agree to petition Congress against the slave trade. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
+| 1794-09-15 | Marries Dolley Payne Todd. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1794-11-11 | The Treaty of Canandaigua establishes peace and friendship and recognizes Seneca, Oneida, Onondaga and Cayuga lands. — [Haudenosaunee](../articles/native-nations/haudenosaunee.md) |
 | 1795 | A treaty with Spain (Pinckney's Treaty) lets Americans navigate the Mississippi and deposit goods at New Orleans for export. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
 | 1795-10-27 | Pinckney's Treaty with Spain opens the river to American ships and duty-free transport through New Orleans. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -363,6 +374,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1797 | Sent by President John Adams as one of three envoys to France; the failed mission becomes the XYZ Affair. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1797-03-04 | Leaves office after two terms. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1798 | The Kentucky and Virginia legislatures pass resolutions against the Sedition Act that articulate the idea of nullification. — [Federalism](../articles/constitution-and-government/federalism.md) |
+| 1798-12-24 | Virginia adopts his resolutions against the Alien and Sedition Acts. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1799-12 | Takes his seat in the U.S. House of Representatives for a Virginia district. — [John Marshall](../articles/people-who-shaped-america/john-marshall.md) |
 | 1799-12-14 | Dies at Mount Vernon of an acute throat infection. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
 | 1800 | France reacquires Louisiana from Spain. — [Louisiana Purchase](../articles/early-republic-and-expansion/louisiana-purchase.md) |
@@ -379,6 +391,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1801-02-17 | The House of Representatives elects him president on its 36th ballot, breaking a 73-73 electoral tie with Aaron Burr. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1801-03-02 | President John Adams nominates William Marbury as a justice of the peace for the District of Columbia. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1801-03-03 | The Senate confirms Marbury; Adams signs the commission and Secretary of State John Marshall affixes the seal, but it is never delivered. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
+| 1801-05-02 | Takes office as Thomas Jefferson's secretary of state, serving until March 3, 1809. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1801-12 | Marbury asks the Supreme Court for a writ of mandamus ordering Secretary of State James Madison to deliver the commission. — [Marbury v. Madison](../articles/rights-and-law/marbury-v-madison.md) |
 | 1802 | Elected major general of the Tennessee militia. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1802 | Georgia cedes its western lands to the federal government, which promises in return to extinguish Indian land title within the state (the Compact of 1802). — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
@@ -414,6 +427,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1807-12 | Congress passes his Embargo Act, barring American ships from leaving U.S. ports. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
 | 1808 | The Shawnee brothers Tecumseh and Tenskwatawa found Prophetstown on the Wabash and Tippecanoe rivers as the center of a Native alliance. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1808-01-01 | The federal ban on importing enslaved people takes effect. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
+| 1809 | Becomes the fourth president of the United States. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1809-02-12 – 1865-04-15 | **[Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md)** (Person) |
 | 1809-02-12 | Born near Hodgenville, Kentucky. — [Abraham Lincoln](../articles/presidents-and-founders/abraham-lincoln.md) |
 | 1809-03-01 | Signs the Non-Intercourse Act replacing the embargo, three days before leaving office. — [Thomas Jefferson](../articles/presidents-and-founders/thomas-jefferson.md) |
@@ -426,6 +440,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1812-06-04 | The House votes for war, 79 to 49. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1812-06-17 | The Senate votes for war, 19 to 13; Madison signs the declaration the next day. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1812-06-18 – 1815-02 | **[War of 1812](../articles/early-republic-and-expansion/war-of-1812.md)** (Conflict) |
+| 1812-06-18 | Signs the declaration of war against Britain the day after the Senate votes for it. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1812-08-16 | General William Hull surrenders Detroit and all of Michigan Territory to British General Isaac Brock. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1812-08-16 | General William Hull surrenders Fort Detroit and about 2,500 men to British Major General Isaac Brock. — [Detroit](../articles/regions-cities-and-landmarks/detroit.md) |
 | 1812-08-19 | USS Constitution defeats HMS Guerriere and earns the nickname 'Old Ironsides'. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
@@ -444,14 +459,17 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814-09-13 | British ships begin a 25-hour bombardment of Fort McHenry at Baltimore but fail to force its surrender. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1814-09-13 | The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-12-24 | American and British commissioners sign the Treaty of Ghent in present-day Belgium. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-12-24 | The Treaty of Ghent ends the War of 1812 on the basis of prewar boundaries. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1815-01-08 | American forces defeat a British assault at New Orleans, the last major land battle of the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1815-01-08 | Andrew Jackson's forces defeat a British army below the city, after the Treaty of Ghent was signed but before it took effect. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 1815-01-08 | Defeats the British at New Orleans, weeks after the Treaty of Ghent was signed. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1815-02 | The United States ratifies the Treaty of Ghent, legally ending the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1816 | Signs the charter of the Second Bank of the United States. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1816 | The African Methodist Episcopal Church is organized as an independent denomination, with Allen elected its bishop. — [African Americans](../articles/society-and-people/african-americans.md) |
 | 1816 | The American Colonization Society is founded to resettle free Black Americans in Africa. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1816-04 | President James Madison signs the act chartering the Second Bank of the United States for twenty years. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1817 | New Orleans begins sanctioning Sunday ring shouts by enslaved and free Black people at Place Congo (Congo Square), a practice allowed until 1856. — [Jazz](../articles/culture-and-arts/jazz.md) |
+| 1817 | Vetoes an internal-improvements bill and retires to Montpelier. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1817-01 | The Second Bank opens in Philadelphia; it later sets up branches, including one in Baltimore. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1818 | Invades Spanish Florida during the First Seminole War; Spain cedes Florida in an 1819 treaty. — [Andrew Jackson](../articles/presidents-and-founders/andrew-jackson.md) |
 | 1818 | The Gideon edition prints the essays with Madison's own attributions of authorship. — [The Federalist Papers](../articles/constitution-and-government/federalist-papers.md) |
@@ -562,6 +580,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1836 | The Second Bank's federal charter expires without renewal. — [McCulloch v. Maryland](../articles/rights-and-law/mcculloch-v-maryland.md) |
 | 1836 | The Senate ratifies the New Echota treaty 31 to 15; most Muscogee (Creek) people are forced west. — [Indian Removal Act](../articles/native-nations/indian-removal-act.md) |
 | 1836-05-04 | Emerson is transferred to Fort Snelling in the Wisconsin Territory, where the Missouri Compromise barred slavery; there Scott marries Harriet Robinson. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
+| 1836-06-28 | Dies at Montpelier, holding about 100 people in slavery and freeing none in his will. — [James Madison](../articles/presidents-and-founders/james-madison.md) |
 | 1837 | **[Chicago](../articles/regions-cities-and-landmarks/chicago.md)** (City) |
 | 1837 | A mob in Illinois kills the abolitionist editor Elijah Lovejoy. — [Abolitionism](../articles/civil-war-and-reconstruction/abolitionism.md) |
 | 1837 | Illinois grants Chicago its first city charter, with six wards and a mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |

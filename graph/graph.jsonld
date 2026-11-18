@@ -9797,6 +9797,211 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "Madison's Virginia Plan framed the convention's debates, but delegates rejected key parts of it, such as a congressional veto over state laws, and in 1834 Madison himself rejected the title of writer of the Constitution, calling it the work of many heads and many hands.",
+   "uso:myth": "James Madison single-handedly wrote the U.S. Constitution.",
+   "uso:why": "The nickname \"Father of the Constitution,\" his detailed notes of the convention and his long life as its last surviving framer made one man stand in for a collective, negotiated document."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Madison, who had argued a bill of rights was unnecessary, introduce amendments in 1789?",
+   "uso:answer": "He had argued that the federal government could exercise only the powers the Constitution listed, but he came to see that voters valued written protections and that adopting them could head off opponents seeking larger changes, so he introduced amendments on June 8, 1789, and pressed Congress to pass them.",
+   "uso:questionFor": {
+    "@id": "us:james-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did the Virginia Resolutions of 1798 later come back to trouble Madison?",
+   "uso:answer": "The resolutions said states could interpose against unconstitutional federal acts such as the Alien and Sedition Acts; in the late 1820s and 1830s nullifiers in South Carolina and elsewhere cited them, and Madison objected that his arguments about interposition were being used to justify nullification.",
+   "uso:questionFor": {
+    "@id": "us:james-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did Madison sign a national bank charter in 1816 after opposing Hamilton's bank in the 1790s?",
+   "uso:answer": "After the first national bank's charter lapsed, financing the War of 1812 without its loans and credit proved hard, and Madison concluded that long acceptance by Congress and the public had settled the bank's constitutionality by precedent.",
+   "uso:questionFor": {
+    "@id": "us:james-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did slavery shape Madison's life despite his statements against it?",
+   "uso:answer": "Born into the largest slaveholding family in Orange County, he called slavery a violation of republican principles but offered no realistic plan to end it beyond colonization, defended the three-fifths formula, sold sixteen people in 1819, and freed no one in his will.",
+   "uso:questionFor": {
+    "@id": "us:james-madison"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Born at Port Conway, Virginia, on the Rappahannock River.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1751-03-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Marries Dolley Payne Todd.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1794-09-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia adopts his resolutions against the Alien and Sedition Acts.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1798-12-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Takes office as Thomas Jefferson's secretary of state, serving until March 3, 1809.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1801-05-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Becomes the fourth president of the United States.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1809"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the declaration of war against Britain the day after the Senate votes for it.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1812-06-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Treaty of Ghent ends the War of 1812 on the basis of prewar boundaries.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-12-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Signs the charter of the Second Bank of the United States.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1816"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Vetoes an internal-improvements bill and retires to Montpelier.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1817"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Dies at Montpelier, holding about 100 people in slavery and freeing none in his will.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1836-06-28"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Graduates from the College of New Jersey (now Princeton).",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1771"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "At the Virginia Convention, wins wording that widens religious toleration into a right of conscience.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1776"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Enters the Continental Congress as its youngest member, at 29.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1780"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Attends the Annapolis Convention, which calls for a national convention the next May.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1786-09"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Constitutional Convention assembles; Madison's Virginia Plan frames its debates.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1787-05-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia's ratifying convention approves the Constitution, 89 to 79, after Madison answers Patrick Henry.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1788-06-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Introduces proposed amendments in the House of Representatives.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1789-06-08"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Ten of the amendments are ratified as the Bill of Rights.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1791-12-15"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/jamestown/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "Spain founded St. Augustine, Florida, in 1565, forty-two years before Jamestown, and it remains the oldest continuously occupied European settlement in the continental United States; Jamestown was the first permanent English settlement in North America.",
@@ -25096,6 +25301,202 @@
     "@id": "https://www.neh.gov/article/trails-tears-plural-what-we-dont-know-about-indian-removal"
    },
    "uso:sourceType": "magazine"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "James Madison: Life in Brief",
+   "schema:url": {
+    "@id": "https://millercenter.org/president/madison/life-in-brief"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "The War of 1812, 1812–1815",
+   "schema:url": {
+    "@id": "https://history.state.gov/milestones/1801-1829/war-of-1812"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Park Service",
+   "dcterms:title": "Paul Jennings",
+   "schema:url": {
+    "@id": "https://www.nps.gov/people/paul-jennings.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+   "dcterms:title": "Biographies of the Secretaries of State: James Madison (1751–1836)",
+   "schema:url": {
+    "@id": "https://history.state.gov/departmenthistory/people/madison-james"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "J. C. A. Stagg, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Madison, James (1751–1836)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/madison-james-1751-1836/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "William J. Antholis, Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "Lessons for a new president: James Madison's five first years",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/41086"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "James Madison: Life Before the Presidency",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/78"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "James Madison: Foreign Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/81"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miller Center of Public Affairs, University of Virginia",
+   "dcterms:title": "James Madison: Domestic Affairs",
+   "schema:url": {
+    "@id": "https://millercenter.org/node/80"
+   },
+   "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "James Madison's Montpelier (Montpelier Foundation)",
+   "dcterms:title": "The Life of James Madison",
+   "schema:url": {
+    "@id": "https://www.montpelier.org/learn/the-life-of-james-madison"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jeff Broadwater, Encyclopedia Virginia (Virginia Humanities)",
+   "dcterms:title": "Madison, James and Slavery",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/madison-james-and-slavery/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Founders Online, National Archives",
+   "dcterms:title": "James Madison to William Cogswell, 10 March 1834",
+   "schema:url": {
+    "@id": "https://founders.archives.gov/documents/Madison/99-02-02-2952"
+   },
+   "uso:sourceType": "primary"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "National Archives, America's Founding Documents",
+   "dcterms:title": "The Bill of Rights: How Did it Happen?",
+   "schema:url": {
+    "@id": "https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Avalon Project, Yale Law School",
+   "dcterms:title": "Virginia Resolution - Alien and Sedition Acts (December 24, 1798)",
+   "schema:url": {
+    "@id": "https://avalon.law.yale.edu/18th_century/virres.asp"
+   },
+   "uso:sourceType": "primary"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/jamestown/s1",
@@ -49142,6 +49543,238 @@
     },
     {
      "@id": "https://github.com/john1hsu/usa-graph/id/indian-removal-act/timeline/9"
+    }
+   ]
+  },
+  {
+   "@id": "us:james-madison",
+   "@type": "uso:Person",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/james-madison/s9"
+    }
+   ],
+   "rdfs:label": "James Madison",
+   "schema:birthDate": {
+    "@type": "xsd:date",
+    "@value": "1751-03-16"
+   },
+   "schema:deathDate": {
+    "@type": "xsd:date",
+    "@value": "1836-06-28"
+   },
+   "schema:endDate": {
+    "@type": "xsd:date",
+    "@value": "1836-06-28"
+   },
+   "schema:startDate": {
+    "@type": "xsd:date",
+    "@value": "1751-03-16"
+   },
+   "skos:altLabel": [
+    "4th President of the United States",
+    "Father of the Constitution",
+    "Madison",
+    "President Madison"
+   ],
+   "skos:broader": {
+    "@id": "us:presidents-of-the-united-states"
+   },
+   "skos:definition": "A Virginia planter and political theorist (1751–1836) who drafted the Virginia Plan, co-wrote The Federalist, steered the Bill of Rights through the First Congress, served as secretary of state and as the fourth president of the United States (1809–1817) during the War of 1812, and held about 100 people in slavery at his death.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/presidents-and-founders"
+   },
+   "skos:prefLabel": "James Madison",
+   "skos:related": [
+    {
+     "@id": "us:alexander-hamilton"
+    },
+    {
+     "@id": "us:alien-and-sedition-acts"
+    },
+    {
+     "@id": "us:bill-of-rights"
+    },
+    {
+     "@id": "us:burning-of-washington"
+    },
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:dolley-madison"
+    },
+    {
+     "@id": "us:federalism"
+    },
+    {
+     "@id": "us:federalist-papers"
+    },
+    {
+     "@id": "us:marbury-v-madison"
+    },
+    {
+     "@id": "us:nullification-crisis"
+    },
+    {
+     "@id": "us:paul-jennings"
+    },
+    {
+     "@id": "us:second-bank-of-the-united-states"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:thomas-jefferson"
+    },
+    {
+     "@id": "us:three-fifths-clause"
+    },
+    {
+     "@id": "us:virginia-and-kentucky-resolutions"
+    },
+    {
+     "@id": "us:virginia-plan"
+    },
+    {
+     "@id": "us:virginia-statute-for-religious-freedom"
+    },
+    {
+     "@id": "us:war-of-1812"
+    }
+   ],
+   "uso:domain": "presidents-and-founders",
+   "uso:evidenceStatus": "interpretive",
+   "uso:file": "articles/presidents-and-founders/james-madison.md",
+   "uso:heldOffice": [
+    {
+     "@id": "us:presidency-of-the-united-states"
+    },
+    {
+     "@id": "us:united-states-secretary-of-state"
+    }
+   ],
+   "uso:level": "introductory",
+   "uso:memberOf": [
+    {
+     "@id": "us:american-colonization-society"
+    },
+    {
+     "@id": "us:house-of-representatives"
+    }
+   ],
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/misconception"
+   },
+   "uso:participatedIn": [
+    {
+     "@id": "us:constitutional-convention"
+    },
+    {
+     "@id": "us:louisiana-purchase"
+    }
+   ],
+   "uso:requires": {
+    "@id": "us:articles-of-confederation"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/james-madison/timeline/9"
     }
    ]
   },

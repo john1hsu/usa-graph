@@ -1651,6 +1651,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why do historians disagree about whether Washington stood above party politics?
   **A:** He warned in his Farewell Address against the spirit of party and never joined a party, yet he sided with Hamilton against Jefferson and, in Encyclopedia Virginia's account, led a Federalist faction that voters rejected in 1800.
 
+### [James Madison](../articles/presidents-and-founders/james-madison.md) — Person
+
+| Myth | Fact |
+|---|---|
+| James Madison single-handedly wrote the U.S. Constitution. | Madison's Virginia Plan framed the convention's debates, but delegates rejected key parts of it, such as a congressional veto over state laws, and in 1834 Madison himself rejected the title of writer of the Constitution, calling it the work of many heads and many hands. |
+
+**Why it matters:** The nickname "Father of the Constitution," his detailed notes of the convention and his long life as its last surviving framer made one man stand in for a collective, negotiated document.
+
+- **Q:** Why did Madison, who had argued a bill of rights was unnecessary, introduce amendments in 1789?
+  **A:** He had argued that the federal government could exercise only the powers the Constitution listed, but he came to see that voters valued written protections and that adopting them could head off opponents seeking larger changes, so he introduced amendments on June 8, 1789, and pressed Congress to pass them.
+- **Q:** How did the Virginia Resolutions of 1798 later come back to trouble Madison?
+  **A:** The resolutions said states could interpose against unconstitutional federal acts such as the Alien and Sedition Acts; in the late 1820s and 1830s nullifiers in South Carolina and elsewhere cited them, and Madison objected that his arguments about interposition were being used to justify nullification.
+- **Q:** Why did Madison sign a national bank charter in 1816 after opposing Hamilton's bank in the 1790s?
+  **A:** After the first national bank's charter lapsed, financing the War of 1812 without its loans and credit proved hard, and Madison concluded that long acceptance by Congress and the public had settled the bank's constitutionality by precedent.
+- **Q:** How did slavery shape Madison's life despite his statements against it?
+  **A:** Born into the largest slaveholding family in Orange County, he called slavery a violation of republican principles but offered no realistic plan to end it beyond colonization, defended the three-fifths formula, sold sixteen people in 1819, and freed no one in his will.
+
 ### [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) — Person
 
 | Myth | Fact |
