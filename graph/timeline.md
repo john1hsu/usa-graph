@@ -15,10 +15,12 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1540 | Hopi guides lead a party under García López de Cárdenas, part of Coronado's expedition, to the rim of the Grand Canyon. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
 | 1541 | Spanish explorer Hernando de Soto becomes one of the first Europeans to travel the river. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
 | 1542 | Juan Rodríguez Cabrillo sails north along the coast as far as present-day Oregon. — [California](../articles/states-and-territories/california.md) |
+| 1562 | Diego Gutiérrez maps the bay as Bahia de Santa Maria. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1606-04-10 | King James I grants the Virginia Company of London a royal charter to colonize Virginia. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1607-05-13 – 1699 | **[Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md)** (City) |
 | 1607-05-13 | 104 English men and boys choose a site on the James River and name it for the king. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1607-06-15 | The colonists finish the triangular James Fort. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1608-06-02 | John Smith sets out on the first of two summer voyages around the bay; the second ends on September 7. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1609 | Winter of the Starving Time begins as the Powhatans blockade the fort during the First Anglo-Powhatan War. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1609-07 | A hurricane scatters the Virginia Company's nine-ship supply fleet; the flagship Sea Venture, carrying the colony's new leaders, wrecks on Bermuda. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1609-08 | The surviving ships reach Jamestown with about 300 new colonists and few supplies. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
@@ -36,6 +38,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1610-06-12 | The new governor, Thomas West, Lord De La Warr, confirms Gates's orders and adds his own. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
 | 1611-06-22 | Deputy Governor Thomas Dale reissues and enlarges the orders and adds a law martial for the colony's soldiers. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
 | 1612 | John Rolfe introduces a new strain of tobacco that becomes the colony's cash crop. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1612 | Smith's map of Virginia, labelling the Chesapeake and its Native towns, is published in England. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1612 | William Strachey publishes the collected orders in London as For the Colony in Virginea Britannia. Lawes Divine, Morall and Martiall, &c. — [Lawes Divine, Morall and Martiall](../articles/colonial-and-revolutionary/lawes-divine-morall-and-martiall.md) |
 | 1614-04 | Pocahontas marries John Rolfe, bringing a peace that lasts until 1622. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1616 | Epidemics brought by Europeans begin sweeping coastal New England; by 1619 they have killed up to 90 percent of the region's Native people. — [Thanksgiving](../articles/culture-and-arts/thanksgiving.md) |
@@ -50,8 +53,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1622-03-22 | Opechancanough's coordinated attack kills 350 to 400 of about 1,200 colonists; Jamestown itself is warned and spared. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
 | 1624 | Virginia's Ancient Planters describe the famine, including cannibalism, in a report commissioned by the General Assembly. — [Starving Time of 1609–1610](../articles/colonial-and-revolutionary/starving-time.md) |
 | 1624-05-24 | The Crown revokes the Virginia Company's charter and Virginia becomes a royal colony. — [Jamestown Colony](../articles/colonial-and-revolutionary/jamestown.md) |
+| 1634 | English colonists on the Ark and Dove, including at least two men of African descent, land at St. Clement's Island, Maryland. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1638 | Swedes and Finns found New Sweden on the Delaware River, among Lenape communities already living on both banks. — [Pennsylvania](../articles/states-and-territories/pennsylvania.md) |
 | 1641 | Sir Edward Coke's Second Institutes equates "law of the land" with "due process of law," shaping the founders' understanding. — [Due process](../articles/rights-and-law/due-process.md) |
+| 1662 | Virginia makes slavery hereditary by law; Maryland follows in 1663. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1662-12 | Virginia's General Assembly rules that a child is enslaved or free according to the mother's status, making slavery hereditary. — [Slavery in the United States](../articles/society-and-people/slavery-in-the-united-states.md) |
 | 1673 | French explorer Louis Jolliet notes the low divide at Chicago between the Great Lakes and Mississippi drainage systems. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
 | 1673 | Louis Jolliet and the Jesuit Jacques Marquette travel the river for France. — [Mississippi River](../articles/geography-and-environment/mississippi-river.md) |
@@ -196,6 +201,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1781-03-01 | Maryland ratifies after Virginia agrees to give up its western claims; the Articles take effect. — [Articles of Confederation](../articles/colonial-and-revolutionary/articles-of-confederation.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into effect, ending the Second Continental Congress's provisional rule. — [Second Continental Congress](../articles/colonial-and-revolutionary/second-continental-congress.md) |
 | 1781-03-01 | Maryland's ratification puts the Articles of Confederation into force. — [United States](../articles/states-and-territories/united-states.md) |
+| 1781-09-05 | A French fleet under de Grasse fights a British fleet at the Battle of the Capes, leaving France in control of the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1781-09-05 | The French fleet under de Grasse turns back a British fleet at the Battle of the Capes, sealing off the Chesapeake. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Cornwallis's army surrenders to American and French forces at Yorktown, Virginia. — [American Revolutionary War](../articles/colonial-and-revolutionary/american-revolutionary-war.md) |
 | 1781-10-19 | Lord Cornwallis surrenders the British army at Yorktown, Virginia. — [George Washington](../articles/presidents-and-founders/george-washington.md) |
@@ -398,8 +404,10 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1814-04-02 | British Vice Admiral Alexander Cochrane offers free settlement to Americans who reach British ships, drawing thousands of enslaved people to freedom. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-08-09 | The Treaty of Fort Jackson forces the Creek Nation to cede more than 21 million acres. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-08-24 | After the Battle of Bladensburg, British troops occupy Washington and burn the Capitol and the President's house. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-08-24 | British forces landed from the bay defeat Americans at Bladensburg and burn the Capitol and the White House. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1814-08-24 | British troops set fire to the Capitol during the War of 1812. — [United States Congress](../articles/constitution-and-government/united-states-congress.md) |
 | 1814-09-11 | A U.S. naval victory on Lake Champlain leads British land forces to abandon their attack at Plattsburgh, New York. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
+| 1814-09-13 | British ships begin a 25-hour bombardment of Fort McHenry at Baltimore but fail to force its surrender. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1814-09-13 | The Royal Navy begins a 25-hour bombardment of Fort McHenry at Baltimore, which Francis Scott Key watches. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1814-12-24 | American and British commissioners sign the Treaty of Ghent in present-day Belgium. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
 | 1815-01-08 | American forces defeat a British assault at New Orleans, the last major land battle of the war. — [War of 1812](../articles/early-republic-and-expansion/war-of-1812.md) |
@@ -655,6 +663,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1862 | Arrives at Port Royal, South Carolina, to serve the Union Army as a scout, spy, cook and nurse. — [Harriet Tubman](../articles/people-who-shaped-america/harriet-tubman.md) |
 | 1862 | Congress passes the Homestead Act, offering 160-acre claims to settlers who live on and improve the land for five years. — [The West](../articles/regions-cities-and-landmarks/the-west.md) |
 | 1862 | Union gunboats attack Vicksburg from upriver in the spring but eventually withdraw; Grant's first overland and river attempts follow that fall. — [Siege of Vicksburg](../articles/civil-war-and-reconstruction/siege-of-vicksburg.md) |
+| 1862-03 | The ironclads CSS Virginia and USS Monitor fight to a draw near Hampton Roads. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1862-04 | Congress abolishes slavery in the District of Columbia. — [American Civil War](../articles/civil-war-and-reconstruction/american-civil-war.md) |
 | 1862-06 | Congress bans slavery in all western territories, undoing the decision's holding on territorial slavery. — [Dred Scott v. Sandford](../articles/rights-and-law/dred-scott-v-sandford.md) |
 | 1862-07-02 | **[Morrill Land-Grant College Act](../articles/science-and-innovation/morrill-land-grant-college-act.md)** (Law) |
@@ -874,6 +883,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1880 | By early 1880 the railroads have restored the wages they had cut. — [Great Railroad Strike of 1877](../articles/economy-and-work/great-railroad-strike-of-1877.md) |
 | 1880 | Ferdinand de Lesseps's French company begins excavating a canal in Panama, then part of Colombia. — [Panama Canal](../articles/foreign-relations-and-military/panama-canal.md) |
 | 1880 | The Angell Treaty allows the United States to regulate or limit, but not wholly prohibit, Chinese immigration. — [Chinese Exclusion Act](../articles/gilded-age-and-progressive-era/chinese-exclusion-act.md) |
+| 1880 | The bay's oyster harvest peaks at about 6.3 million bushels of market oysters. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1880-06 | Graduates from Harvard College. — [Theodore Roosevelt](../articles/presidents-and-founders/theodore-roosevelt.md) |
 | 1881 | Tennessee orders segregated railroad cars, a law often called the first Jim Crow law. — [Jim Crow laws](../articles/gilded-age-and-progressive-era/jim-crow-laws.md) |
 | 1881 | The first volume of the History of Woman Suffrage, by Stanton, Anthony and Matilda Joslyn Gage, is published. — [Susan B. Anthony](../articles/people-who-shaped-america/susan-b-anthony.md) |
@@ -1449,6 +1459,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1958-02 | Minnijean Brown is expelled after retaliating against harassment. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-05 | Ernest Green becomes the first Black student to graduate from Central High. — [Desegregation of Little Rock Central High School](../articles/cold-war-and-civil-rights/desegregation-of-little-rock-central-high-school.md) |
 | 1958-09-29 | In Cooper v. Aaron all nine justices declare the federal judiciary supreme in expounding the Constitution and reject Arkansas's resistance to desegregation. — [Judicial review](../articles/constitution-and-government/judicial-review.md) |
+| 1959 | The introduced oyster parasite MSX appears in the bay. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1959-01-03 | Alaska becomes a state. — [United States](../articles/states-and-territories/united-states.md) |
 | 1959-03-18 | President Eisenhower signs the statehood act passed by Congress. — [Hawaii](../articles/states-and-territories/hawaii.md) |
 | 1959-06-26 | Prince Edward County, Virginia, cuts off public school funding rather than desegregate. — [Brown v. Board of Education](../articles/cold-war-and-civil-rights/brown-v-board-of-education.md) |
@@ -1565,6 +1576,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 1982 | Afrika Bambaataa's "Planet Rock" and Grandmaster Flash and the Furious Five's "The Message" are released. — [Hip hop](../articles/culture-and-arts/hip-hop.md) |
 | 1982 | Congress renews the special provisions for 25 years and amends Section 2 so plaintiffs need not prove discriminatory purpose, responding to Mobile v. Bolden (1980). — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 1982-01-19 | Secretarial Order 3071 establishes the Minerals Management Service, which later combines offshore leasing, safety oversight and royalty collection. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 1983 | The first Chesapeake Bay Agreement creates the Chesapeake Executive Council. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Angel Island Immigration Station](../articles/society-and-people/angel-island-immigration-station.md) |
 | 1983 | The restored barracks open to the public as a museum in Angel Island State Park. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 1983-04-12 | Harold Washington wins the general election with 51.8 percent, becoming the city's first Black mayor. — [Chicago](../articles/regions-cities-and-landmarks/chicago.md) |
@@ -1646,6 +1658,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2005 | The Energy Policy Act extends offshore authority to renewable energy such as wind, wave and ocean-current power. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 2005-08-31 | After levee breaches during Hurricane Katrina, at least 80 percent of the city lies under floodwater. — [New Orleans](../articles/regions-cities-and-landmarks/new-orleans.md) |
 | 2005-10-26 | NIST issues its final report on the collapse of the Twin Towers. — [September 11 attacks](../articles/contemporary-america/september-11-attacks.md) |
+| 2006 | Congress establishes the Captain John Smith Chesapeake National Historic Trail. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2006 | Congress renews preclearance for 25 years, by votes of 390 to 33 in the House and 98 to 0 in the Senate, without changing the formula. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2006 | Congress renews the special provisions for 25 more years in the Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Cesar E. Chavez, Barbara Jordan, William Velazquez and Dr. Hector Garcia reauthorization act. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |
 | 2006-10-04 | Bush signs the Post-Katrina Emergency Management Reform Act, reorganizing FEMA after Hurricane Katrina. — [Department of Homeland Security](../articles/contemporary-america/department-of-homeland-security.md) |
@@ -1676,6 +1689,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2010-07-15 | BP closes the valves on a new containment cap and the oil stops flowing. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2010-09-19 | After a relief well intercepts the Macondo well, BP confirms it is permanently sealed with cement. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2010-10-01 | Revenue collection moves to a separate Office of Natural Resources Revenue. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
+| 2010-12-29 | The EPA establishes the Chesapeake Bay Total Maximum Daily Load, a cap on nitrogen, phosphorus and sediment. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2011 | Researcher Michael Hirsch identifies the last six unidentified victims. — [Triangle Shirtwaist Factory fire](../articles/economy-and-work/triangle-shirtwaist-factory-fire.md) |
 | 2011-01-11 | The presidential commission releases its final report, Deep Water. — [Deepwater Horizon oil spill](../articles/contemporary-america/deepwater-horizon-oil-spill.md) |
 | 2011-05-02 | Navy SEALs kill Osama bin Laden at a compound near Abbottabad, Pakistan. — [War in Afghanistan (2001–2021)](../articles/foreign-relations-and-military/war-in-afghanistan.md) |
@@ -1697,6 +1711,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2014 | A second, expanded edition of Island is published by the University of Washington Press. — [Chinese detention-barracks poetry](../articles/culture-and-arts/chinese-detention-barracks-poetry.md) |
 | 2014 | The individual mandate, the exchanges with their premium tax credits and the ban on preexisting-condition exclusions for all ages take effect. — [Affordable Care Act](../articles/contemporary-america/affordable-care-act.md) |
 | 2014-03-23 | A pulse flow under Minute 319 of the 1944 treaty begins; it eventually reaches the river's estuary in the Gulf of California. — [Colorado River](../articles/geography-and-environment/colorado-river.md) |
+| 2014-06-16 | The Chesapeake Bay Watershed Agreement is signed, with 10 goals and 31 outcomes. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2014-11 | A divided Sixth Circuit panel upholds the bans in Michigan, Ohio, Kentucky and Tennessee, reversing the trial courts. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
 | 2015 | Eric Foner's Gateway to Freedom documents New York's interracial vigilance committees. — [Underground Railroad](../articles/civil-war-and-reconstruction/underground-railroad.md) |
 | 2015 | Obergefell v. Hodges holds that state bans on same-sex marriage violate the clause. — [Equal protection](../articles/rights-and-law/equal-protection.md) |
@@ -1769,6 +1784,7 @@ Every dated article (bold, with its span) and every timeline entry in the graph,
 | 2024-07-30 | The Interior Department's boarding school report identifies 417 federal Indian boarding schools and at least 973 children who died while attending them. — [Native Americans](../articles/native-nations/native-americans.md) |
 | 2024-12-23 | Public Law 118-206 designates the bald eagle as the national bird. — [National symbols of the United States](../articles/symbols-and-national-identity/national-symbols-of-the-united-states.md) |
 | 2025-11-10 | The Supreme Court denies review in Davis v. Ermold, a former Kentucky clerk's petition that had asked it to revisit Obergefell. — [Obergefell v. Hodges](../articles/contemporary-america/obergefell-v-hodges.md) |
+| 2025-12-02 | The Chesapeake Executive Council approves a revised agreement setting most goals for 2040 after regional 2025 targets are missed. — [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) |
 | 2026-04-03 | The Interior Department announces plans to merge BOEM and BSEE into a Marine Minerals Administration. — [Bureau of Ocean Energy Management](../articles/geography-and-environment/bureau-of-ocean-energy-management.md) |
 | 2026-04-29 | In Louisiana v. Callais the Court narrows Section 2, the Act's nationwide ban, in redistricting cases. — [Shelby County v. Holder](../articles/democracy-and-elections/shelby-county-v-holder.md) |
 | 2026-04-29 | In Louisiana v. Callais the Supreme Court, 6 to 3, holds that Section 2 imposes liability in redistricting only where evidence supports a strong inference of intentional discrimination. — [Voting Rights Act of 1965](../articles/democracy-and-elections/voting-rights-act-of-1965.md) |

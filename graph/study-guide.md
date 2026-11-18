@@ -1171,6 +1171,23 @@ Every review question (with its answer) and every myth-versus-fact in the graph,
 - **Q:** Why is the 2026 merger into the Marine Minerals Administration disputed?
   **A:** Interior and industry supporters say two overlapping bureaus administering one law cause delays and that a single agency can coordinate better without weakening safety standards; critics, including environmental groups and congressional Democrats, argue that recombining leasing and safety oversight removes the separation created after Deepwater Horizon.
 
+### [Chesapeake Bay](../articles/geography-and-environment/chesapeake-bay.md) — NaturalFeature
+
+| Myth | Fact |
+|---|---|
+| The Chesapeake Bay was created by a meteor or comet impact. | A bolide did strike about 35 million years ago, leaving a crater about 85 km across now buried 300–500 m beneath the southern bay, but the bay itself formed only about 10,000 years ago, when rising seas flooded river valleys; the old crater's depression helped steer those rivers, and so the bay's location. |
+
+**Why it matters:** The impact story is dramatic and true in part, but treating it as the bay's origin skips the Ice Age sea-level rise that actually made the estuary, and hides why the crater still matters today through land subsidence and salty groundwater.
+
+- **Q:** If the Chesapeake Bay impact crater did not create the bay, why does it matter to the bay's geography?
+  **A:** The 35-million-year-old crater left a long-lasting depression that changed river courses, so when rising seas flooded the Susquehanna and other valleys about 10,000 years ago the bay formed where those valleys converged over it; the crater's breccia also compacts and lowers the land, and its very salty pore water limits fresh groundwater.
+- **Q:** How did control of the Chesapeake Bay shape the outcome at Yorktown in 1781?
+  **A:** After the Battle of the Capes on September 5, 1781, the damaged British fleet withdrew to New York and the French controlled the bay, so no British reinforcements could reach Cornwallis while Washington's forces used the bay to move troops and supplies; the relief fleet sailed only on October 19, the day Cornwallis surrendered.
+- **Q:** Why did the Chesapeake oyster fishery collapse after its 1880 peak?
+  **A:** Heavy, often illegal dredging and tonging stripped and broke up the reefs, reef habitat shrank, and the introduced MSX parasite (from 1959) and a worsening native Dermo parasite in the 1980s killed oysters, until both public and private fisheries collapsed in the mid-1980s.
+- **Q:** What does the Chesapeake Bay TMDL limit, and why?
+  **A:** It caps the nitrogen, phosphorus and sediment entering the bay from all seven watershed jurisdictions, because those pollutants cloud the water and feed algae blooms that shade underwater grasses and lower the dissolved oxygen fish, crabs and oysters need.
+
 ### [Colorado River](../articles/geography-and-environment/colorado-river.md) — NaturalFeature
 
 | Myth | Fact |

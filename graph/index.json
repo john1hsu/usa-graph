@@ -3490,6 +3490,261 @@
   ]
  },
  {
+  "id": "us:chesapeake-bay",
+  "title": "Chesapeake Bay",
+  "aliases": [
+   "The Chesapeake",
+   "Bahia de Santa Maria"
+  ],
+  "type": "NaturalFeature",
+  "domain": "geography-and-environment",
+  "level": "introductory",
+  "evidenceStatus": "established",
+  "file": "articles/geography-and-environment/chesapeake-bay.md",
+  "created": "2026-11-17",
+  "summary": "The largest estuary in the United States, a drowned river valley about 190 miles long between Maryland and Virginia whose 64,000-square-mile watershed reaches into six states and the District of Columbia; homeland of Algonquian-speaking and other Native nations, the setting of English colonization, slavery's tobacco economy and decisive battles of two wars, and the object of a decades-long federal–state cleanup.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "us:physical-geography-of-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:jamestown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:powhatan"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:john-smith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:maryland"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:virginia"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:susquehanna-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:potomac-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:james-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:baltimore"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:washington-dc"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:slavery-in-the-united-states"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:native-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:african-americans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:american-revolutionary-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:battle-of-the-capes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:siege-of-yorktown"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:war-of-1812"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:burning-of-washington"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:fort-mchenry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:star-spangled-banner"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:mississippi-river"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:colorado-river"
+   },
+   {
+    "predicate": "uso:locatedIn",
+    "object": "us:united-states",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:maryland",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:borders",
+    "object": "us:virginia",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:siege-of-yorktown",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:chesapeake-bay-agreement",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "uso:affected",
+    "object": "us:chesapeake-bay-tmdl",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "start": null,
+  "end": null,
+  "review": [
+   {
+    "question": "If the Chesapeake Bay impact crater did not create the bay, why does it matter to the bay's geography?",
+    "answer": "The 35-million-year-old crater left a long-lasting depression that changed river courses, so when rising seas flooded the Susquehanna and other valleys about 10,000 years ago the bay formed where those valleys converged over it; the crater's breccia also compacts and lowers the land, and its very salty pore water limits fresh groundwater."
+   },
+   {
+    "question": "How did control of the Chesapeake Bay shape the outcome at Yorktown in 1781?",
+    "answer": "After the Battle of the Capes on September 5, 1781, the damaged British fleet withdrew to New York and the French controlled the bay, so no British reinforcements could reach Cornwallis while Washington's forces used the bay to move troops and supplies; the relief fleet sailed only on October 19, the day Cornwallis surrendered."
+   },
+   {
+    "question": "Why did the Chesapeake oyster fishery collapse after its 1880 peak?",
+    "answer": "Heavy, often illegal dredging and tonging stripped and broke up the reefs, reef habitat shrank, and the introduced MSX parasite (from 1959) and a worsening native Dermo parasite in the 1980s killed oysters, until both public and private fisheries collapsed in the mid-1980s."
+   },
+   {
+    "question": "What does the Chesapeake Bay TMDL limit, and why?",
+    "answer": "It caps the nitrogen, phosphorus and sediment entering the bay from all seven watershed jurisdictions, because those pollutants cloud the water and feed algae blooms that shade underwater grasses and lower the dissolved oxygen fish, crabs and oysters need."
+   }
+  ],
+  "timeline": [
+   {
+    "date": "1562",
+    "event": "Diego Gutiérrez maps the bay as Bahia de Santa Maria."
+   },
+   {
+    "date": "1608-06-02",
+    "event": "John Smith sets out on the first of two summer voyages around the bay; the second ends on September 7."
+   },
+   {
+    "date": "1612",
+    "event": "Smith's map of Virginia, labelling the Chesapeake and its Native towns, is published in England."
+   },
+   {
+    "date": "1634",
+    "event": "English colonists on the Ark and Dove, including at least two men of African descent, land at St. Clement's Island, Maryland."
+   },
+   {
+    "date": "1662",
+    "event": "Virginia makes slavery hereditary by law; Maryland follows in 1663."
+   },
+   {
+    "date": "1781-09-05",
+    "event": "A French fleet under de Grasse fights a British fleet at the Battle of the Capes, leaving France in control of the bay."
+   },
+   {
+    "date": "1814-08-24",
+    "event": "British forces landed from the bay defeat Americans at Bladensburg and burn the Capitol and the White House."
+   },
+   {
+    "date": "1814-09-13",
+    "event": "British ships begin a 25-hour bombardment of Fort McHenry at Baltimore but fail to force its surrender."
+   },
+   {
+    "date": "1862-03",
+    "event": "The ironclads CSS Virginia and USS Monitor fight to a draw near Hampton Roads."
+   },
+   {
+    "date": "1880",
+    "event": "The bay's oyster harvest peaks at about 6.3 million bushels of market oysters."
+   },
+   {
+    "date": "1959",
+    "event": "The introduced oyster parasite MSX appears in the bay."
+   },
+   {
+    "date": "1983",
+    "event": "The first Chesapeake Bay Agreement creates the Chesapeake Executive Council."
+   },
+   {
+    "date": "2006",
+    "event": "Congress establishes the Captain John Smith Chesapeake National Historic Trail."
+   },
+   {
+    "date": "2010-12-29",
+    "event": "The EPA establishes the Chesapeake Bay Total Maximum Daily Load, a cap on nitrogen, phosphorus and sediment."
+   },
+   {
+    "date": "2014-06-16",
+    "event": "The Chesapeake Bay Watershed Agreement is signed, with 10 goals and 31 outcomes."
+   },
+   {
+    "date": "2025-12-02",
+    "event": "The Chesapeake Executive Council approves a revised agreement setting most goals for 2040 after regional 2025 targets are missed."
+   }
+  ],
+  "misconception": {
+   "myth": "The Chesapeake Bay was created by a meteor or comet impact.",
+   "fact": "A bolide did strike about 35 million years ago, leaving a crater about 85 km across now buried 300–500 m beneath the southern bay, but the bay itself formed only about 10,000 years ago, when rising seas flooded river valleys; the old crater's depression helped steer those rivers, and so the bay's location.",
+   "why": "The impact story is dramatic and true in part, but treating it as the bay's origin skips the Ice Age sea-level rise that actually made the estuary, and hides why the crater still matters today through land subsidence and salty groundwater."
+  },
+  "source_urls": [
+   "https://oceanservice.noaa.gov/facts/chesapeake.html",
+   "https://msa.maryland.gov/msa/mdmanual/01glance/html/ches.html",
+   "https://www.chesapeakebay.net/news/blog/bayblog-question-of-the-week-how-was-the-chesapeake-bay-formed",
+   "https://pubs.usgs.gov/fs/fs49-98/",
+   "https://chesapeakebay.net/discover/faq/category/bay-history",
+   "https://chesapeakebay.net/discover/history/indigenous-peoples-of-the-chesapeake",
+   "https://encyclopediavirginia.org/entries/smith-john-bap-1580-1631/",
+   "https://www.nps.gov/cajo/faqs.htm",
+   "https://www.nps.gov/ethnography/aah/aaheritage/ChesapeakeB.htm",
+   "https://home.nps.gov/york/learn/historyculture/battle-of-the-capes.htm",
+   "https://www.nps.gov/stsp/learn/historyculture/1814-chesapeake-campaign.htm",
+   "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00127/pdf",
+   "https://ocean.si.edu/node/110979",
+   "https://chesapeakebay.net/about/how/history",
+   "https://www.epa.gov/sites/production/files/2015-07/documents/bay_tmdl_fact_sheet.pdf",
+   "https://governor.maryland.gov/news/press-releases/governor-moore-and-chesapeake-bay-program-executive-council-approve-revised-agreement-protect-jobs",
+   "https://www.nps.gov/articles/000/indigenous-nations.htm"
+  ]
+ },
+ {
   "id": "us:chicago",
   "title": "Chicago",
   "aliases": [
@@ -10728,6 +10983,10 @@
    {
     "predicate": "skos:related",
     "object": "us:williamsburg"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "us:chesapeake-bay"
    },
    {
     "predicate": "uso:locatedIn",

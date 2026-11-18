@@ -11,7 +11,7 @@ evidenceStatus: established
 start: 1607-05-13
 end: 1699
 broader: [us:thirteen-colonies]
-related: [us:powhatan, us:pocahontas, us:opechancanough, us:john-smith, us:john-rolfe, us:virginia-company-of-london, us:virginia-general-assembly, us:bacons-rebellion, us:slavery-in-the-united-states, us:native-americans, us:williamsburg]
+related: [us:powhatan, us:pocahontas, us:opechancanough, us:john-smith, us:john-rolfe, us:virginia-company-of-london, us:virginia-general-assembly, us:bacons-rebellion, us:slavery-in-the-united-states, us:native-americans, us:williamsburg, us:chesapeake-bay]
 requires: []
 relations:
   - {predicate: locatedIn, object: us:virginia, source: s1, confidence: high}

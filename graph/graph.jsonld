@@ -2831,6 +2831,193 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/misconception",
+   "@type": "uso:Misconception",
+   "uso:fact": "A bolide did strike about 35 million years ago, leaving a crater about 85 km across now buried 300–500 m beneath the southern bay, but the bay itself formed only about 10,000 years ago, when rising seas flooded river valleys; the old crater's depression helped steer those rivers, and so the bay's location.",
+   "uso:myth": "The Chesapeake Bay was created by a meteor or comet impact.",
+   "uso:why": "The impact story is dramatic and true in part, but treating it as the bay's origin skips the Ice Age sea-level rise that actually made the estuary, and hides why the crater still matters today through land subsidence and salty groundwater."
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/review/1",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "If the Chesapeake Bay impact crater did not create the bay, why does it matter to the bay's geography?",
+   "uso:answer": "The 35-million-year-old crater left a long-lasting depression that changed river courses, so when rising seas flooded the Susquehanna and other valleys about 10,000 years ago the bay formed where those valleys converged over it; the crater's breccia also compacts and lowers the land, and its very salty pore water limits fresh groundwater.",
+   "uso:questionFor": {
+    "@id": "us:chesapeake-bay"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/review/2",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "How did control of the Chesapeake Bay shape the outcome at Yorktown in 1781?",
+   "uso:answer": "After the Battle of the Capes on September 5, 1781, the damaged British fleet withdrew to New York and the French controlled the bay, so no British reinforcements could reach Cornwallis while Washington's forces used the bay to move troops and supplies; the relief fleet sailed only on October 19, the day Cornwallis surrendered.",
+   "uso:questionFor": {
+    "@id": "us:chesapeake-bay"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/review/3",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "Why did the Chesapeake oyster fishery collapse after its 1880 peak?",
+   "uso:answer": "Heavy, often illegal dredging and tonging stripped and broke up the reefs, reef habitat shrank, and the introduced MSX parasite (from 1959) and a worsening native Dermo parasite in the 1980s killed oysters, until both public and private fisheries collapsed in the mid-1980s.",
+   "uso:questionFor": {
+    "@id": "us:chesapeake-bay"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/review/4",
+   "@type": "uso:ReviewQuestion",
+   "rdfs:label": "What does the Chesapeake Bay TMDL limit, and why?",
+   "uso:answer": "It caps the nitrogen, phosphorus and sediment entering the bay from all seven watershed jurisdictions, because those pollutants cloud the water and feed algae blooms that shade underwater grasses and lower the dissolved oxygen fish, crabs and oysters need.",
+   "uso:questionFor": {
+    "@id": "us:chesapeake-bay"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/1",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Diego Gutiérrez maps the bay as Bahia de Santa Maria.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1562"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/10",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The bay's oyster harvest peaks at about 6.3 million bushels of market oysters.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1880"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/11",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The introduced oyster parasite MSX appears in the bay.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1959"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/12",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The first Chesapeake Bay Agreement creates the Chesapeake Executive Council.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1983"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/13",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Congress establishes the Captain John Smith Chesapeake National Historic Trail.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "2006"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/14",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The EPA establishes the Chesapeake Bay Total Maximum Daily Load, a cap on nitrogen, phosphorus and sediment.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2010-12-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/15",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Chesapeake Bay Watershed Agreement is signed, with 10 goals and 31 outcomes.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2014-06-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/16",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The Chesapeake Executive Council approves a revised agreement setting most goals for 2040 after regional 2025 targets are missed.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "2025-12-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/2",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "John Smith sets out on the first of two summer voyages around the bay; the second ends on September 7.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1608-06-02"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/3",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Smith's map of Virginia, labelling the Chesapeake and its Native towns, is published in England.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1612"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/4",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "English colonists on the Ark and Dove, including at least two men of African descent, land at St. Clement's Island, Maryland.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1634"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/5",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "Virginia makes slavery hereditary by law; Maryland follows in 1663.",
+   "uso:date": {
+    "@type": "xsd:gYear",
+    "@value": "1662"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/6",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "A French fleet under de Grasse fights a British fleet at the Battle of the Capes, leaving France in control of the bay.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1781-09-05"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/7",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British forces landed from the bay defeat Americans at Bladensburg and burn the Capitol and the White House.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-08-24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/8",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "British ships begin a 25-hour bombardment of Fort McHenry at Baltimore but fail to force its surrender.",
+   "uso:date": {
+    "@type": "xsd:date",
+    "@value": "1814-09-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/9",
+   "@type": "uso:TimelineEntry",
+   "rdfs:label": "The ironclads CSS Virginia and USS Monitor fight to a draw near Hampton Roads.",
+   "uso:date": {
+    "@type": "xsd:gYearMonth",
+    "@value": "1862-03"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/usa-graph/id/chicago/misconception",
    "@type": "uso:Misconception",
    "uso:fact": "The fire did begin in the barn of Catherine and Patrick O'Leary, but the police and fire board's 1871 inquiry said it was unable to determine the cause, found the household asleep when the fire started, and in 1997 the City Council formally exonerated Mrs. O'Leary and her cow.",
@@ -17837,6 +18024,244 @@
     "@id": "https://www.uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php"
    },
    "uso:sourceType": "academic"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s1",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Oceanic and Atmospheric Administration, National Ocean Service",
+   "dcterms:title": "Where is the largest estuary in the United States?",
+   "schema:url": {
+    "@id": "https://oceanservice.noaa.gov/facts/chesapeake.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s10",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Colonial National Historical Park (Yorktown)",
+   "dcterms:title": "Battle of the Capes",
+   "schema:url": {
+    "@id": "https://home.nps.gov/york/learn/historyculture/battle-of-the-capes.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s11",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Star-Spangled Banner National Historic Trail",
+   "dcterms:title": "1814 Chesapeake Campaign",
+   "schema:url": {
+    "@id": "https://www.nps.gov/stsp/learn/historyculture/1814-chesapeake-campaign.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s12",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Frontiers in Marine Science, by Dianna M. Schulte",
+   "dcterms:title": "History of the Virginia Oyster Fishery, Chesapeake Bay, USA (Frontiers in Marine Science 4:127, 2017)",
+   "schema:url": {
+    "@id": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2017.00127/pdf"
+   },
+   "uso:sourceType": "peer-reviewed"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s13",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Smithsonian Ocean (Smithsonian Institution)",
+   "dcterms:title": "The Bay of Opportunity and Hope",
+   "schema:url": {
+    "@id": "https://ocean.si.edu/node/110979"
+   },
+   "uso:sourceType": "museum"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s14",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Chesapeake Bay Program",
+   "dcterms:title": "Our History",
+   "schema:url": {
+    "@id": "https://chesapeakebay.net/about/how/history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s15",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Environmental Protection Agency",
+   "dcterms:title": "Chesapeake Bay TMDL Fact Sheet",
+   "schema:url": {
+    "@id": "https://www.epa.gov/sites/production/files/2015-07/documents/bay_tmdl_fact_sheet.pdf"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s16",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Office of Governor Wes Moore, State of Maryland",
+   "dcterms:title": "Governor Moore and Chesapeake Bay Program Executive Council Approve Revised Agreement",
+   "schema:url": {
+    "@id": "https://governor.maryland.gov/news/press-releases/governor-moore-and-chesapeake-bay-program-executive-council-approve-revised-agreement-protect-jobs"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s17",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Captain John Smith Chesapeake National Historic Trail",
+   "dcterms:title": "A Tapestry of Nations",
+   "schema:url": {
+    "@id": "https://www.nps.gov/articles/000/indigenous-nations.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s2",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Maryland State Archives, Maryland Manual On-Line",
+   "dcterms:title": "Maryland at a Glance: Chesapeake Bay",
+   "schema:url": {
+    "@id": "https://msa.maryland.gov/msa/mdmanual/01glance/html/ches.html"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s3",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Chesapeake Bay Program",
+   "dcterms:title": "BayBlog Question of the Week: How was the Chesapeake Bay formed?",
+   "schema:url": {
+    "@id": "https://www.chesapeakebay.net/news/blog/bayblog-question-of-the-week-how-was-the-chesapeake-bay-formed"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s4",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "U.S. Geological Survey",
+   "dcterms:title": "The Chesapeake Bay Bolide Impact: A New View of Coastal Plain Evolution (Fact Sheet 049-98)",
+   "schema:url": {
+    "@id": "https://pubs.usgs.gov/fs/fs49-98/"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s5",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Chesapeake Bay Program",
+   "dcterms:title": "Frequently Asked Questions: Bay History",
+   "schema:url": {
+    "@id": "https://chesapeakebay.net/discover/faq/category/bay-history"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s6",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Chesapeake Bay Program",
+   "dcterms:title": "Indigenous Peoples of the Chesapeake",
+   "schema:url": {
+    "@id": "https://chesapeakebay.net/discover/history/indigenous-peoples-of-the-chesapeake"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s7",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia Virginia (Virginia Humanities), by Martha McCartney",
+   "dcterms:title": "Smith, John (bap. 1580–1631)",
+   "schema:url": {
+    "@id": "https://encyclopediavirginia.org/entries/smith-john-bap-1580-1631/"
+   },
+   "uso:sourceType": "scholarly-encyclopedia"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s8",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, Captain John Smith Chesapeake National Historic Trail",
+   "dcterms:title": "Frequently Asked Questions",
+   "schema:url": {
+    "@id": "https://www.nps.gov/cajo/faqs.htm"
+   },
+   "uso:sourceType": "government"
+  },
+  {
+   "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s9",
+   "@type": "uso:Source",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "National Park Service, African American Heritage & Ethnography",
+   "dcterms:title": "African Nation Founders: Africans in Southern Colonies—Chesapeake: Time, Space & People",
+   "schema:url": {
+    "@id": "https://www.nps.gov/ethnography/aah/aaheritage/ChesapeakeB.htm"
+   },
+   "uso:sourceType": "government"
   },
   {
    "@id": "https://github.com/john1hsu/usa-graph/id/source/chicago/s1",
@@ -39436,6 +39861,227 @@
    ]
   },
   {
+   "@id": "us:chesapeake-bay",
+   "@type": "uso:NaturalFeature",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/source/chesapeake-bay/s9"
+    }
+   ],
+   "rdfs:label": "Chesapeake Bay",
+   "skos:altLabel": [
+    "Bahia de Santa Maria",
+    "The Chesapeake"
+   ],
+   "skos:broader": {
+    "@id": "us:physical-geography-of-the-united-states"
+   },
+   "skos:definition": "The largest estuary in the United States, a drowned river valley about 190 miles long between Maryland and Virginia whose 64,000-square-mile watershed reaches into six states and the District of Columbia; homeland of Algonquian-speaking and other Native nations, the setting of English colonization, slavery's tobacco economy and decisive battles of two wars, and the object of a decades-long federal–state cleanup.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/scheme/geography-and-environment"
+   },
+   "skos:prefLabel": "Chesapeake Bay",
+   "skos:related": [
+    {
+     "@id": "us:african-americans"
+    },
+    {
+     "@id": "us:american-revolutionary-war"
+    },
+    {
+     "@id": "us:baltimore"
+    },
+    {
+     "@id": "us:battle-of-the-capes"
+    },
+    {
+     "@id": "us:burning-of-washington"
+    },
+    {
+     "@id": "us:colorado-river"
+    },
+    {
+     "@id": "us:fort-mchenry"
+    },
+    {
+     "@id": "us:james-river"
+    },
+    {
+     "@id": "us:jamestown"
+    },
+    {
+     "@id": "us:john-smith"
+    },
+    {
+     "@id": "us:maryland"
+    },
+    {
+     "@id": "us:mississippi-river"
+    },
+    {
+     "@id": "us:native-americans"
+    },
+    {
+     "@id": "us:potomac-river"
+    },
+    {
+     "@id": "us:powhatan"
+    },
+    {
+     "@id": "us:siege-of-yorktown"
+    },
+    {
+     "@id": "us:slavery-in-the-united-states"
+    },
+    {
+     "@id": "us:star-spangled-banner"
+    },
+    {
+     "@id": "us:susquehanna-river"
+    },
+    {
+     "@id": "us:virginia"
+    },
+    {
+     "@id": "us:war-of-1812"
+    },
+    {
+     "@id": "us:washington-dc"
+    }
+   ],
+   "uso:affected": [
+    {
+     "@id": "us:chesapeake-bay-agreement"
+    },
+    {
+     "@id": "us:chesapeake-bay-tmdl"
+    },
+    {
+     "@id": "us:siege-of-yorktown"
+    }
+   ],
+   "uso:borders": [
+    {
+     "@id": "us:maryland"
+    },
+    {
+     "@id": "us:virginia"
+    }
+   ],
+   "uso:domain": "geography-and-environment",
+   "uso:evidenceStatus": "established",
+   "uso:file": "articles/geography-and-environment/chesapeake-bay.md",
+   "uso:level": "introductory",
+   "uso:locatedIn": {
+    "@id": "us:united-states"
+   },
+   "uso:misconception": {
+    "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/misconception"
+   },
+   "uso:timelineEntry": [
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/usa-graph/id/chesapeake-bay/timeline/9"
+    }
+   ]
+  },
+  {
    "@id": "us:chicago",
    "@type": "uso:City",
    "dcterms:created": {
@@ -45654,6 +46300,9 @@
    "skos:related": [
     {
      "@id": "us:bacons-rebellion"
+    },
+    {
+     "@id": "us:chesapeake-bay"
     },
     {
      "@id": "us:john-rolfe"

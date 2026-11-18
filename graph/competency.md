@@ -52,12 +52,12 @@ _Which nodes led to, established or affected the most other things in the graph?
 | `us:attack-on-pearl-harbor` | 3 | Japanese American incarceration during World War II, day-of-infamy-speech, pearl-harbor-investigations |
 | `us:census-and-apportionment` | 3 | Native Americans, house-of-representatives, redistricting-in-the-united-states |
 | `us:cherokee-nation-v-georgia` | 3 | cherokee-nation, federal-trust-responsibility, worcester-v-georgia |
+| `us:chesapeake-bay` | 3 | chesapeake-bay-agreement, chesapeake-bay-tmdl, siege-of-yorktown |
 | `us:constitutional-convention` | 3 | Slavery in the United States, United States Constitution, ratification-of-the-constitution |
 | `us:covid-19-pandemic-in-the-united-states` | 3 | Native Americans, cares-act, operation-warp-speed |
 | `us:desegregation-of-little-rock-central-high-school` | 3 | cooper-v-aaron, executive-order-10730, lost-year |
-| `us:dust-bowl` | 3 | national-grasslands, soil-conservation-act-of-1935, soil-conservation-service |
 
-…and 81 more.
+…and 82 more.
 
 ## Happenings by era
 
@@ -123,7 +123,9 @@ _Which nodes are myths, contested or open to competing interpretations, and what
 
 _Which written places have no event, person, tradition or landmark in the graph tied to them?_ — `queries/07-places-without-history.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `us:chesapeake-bay` | uso:NaturalFeature |
 
 ## Orphan articles (gap)
 
